@@ -1,0 +1,35 @@
+# 🔒 Sensitive config
+.env
+.env.*
+
+# 🐍 Python environment
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 📦 Python packaging
+*.egg-info/
+dist/
+build/
+
+# 📜 Logs / dumps
+*.log
+*.out
+*.err
+*.bak
+
+# 🧪 Test/coverage
+.coverage
+htmlcov/
+.cache/
+pytest_cache/
+
+# 🚫 OS artifacts
+.DS_Store
+Thumbs.db
+
+# 💻 VSCode/IDE
+.vscode/
+.idea/
