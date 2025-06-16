@@ -1,0 +1,2016 @@
+{
+  "institution_name": "Shanghai University of TCM (SHUTCM)",
+  "institution_country": "China",
+  "institution_type": "Public",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Program of Chinese Language (Traditional Chinese Medicine-oriented)",
+      "field_of_study": "Chinese Studies",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes .  SPM-level or equivalent:\ncredit in Chinese\n *All applications are subjected to assessment by Institution.",
+        "UEC": "Grade B in 5 Subjects including B6 in Chinese .  SPM-level or equivalent:\ncredit in Chinese\n*All applications are subjected to assessment by Institution.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field) .  SPM-level or equivalent:\ncredit in Chinese\n*All applications are subjected to assessment by Institution.\n *All applications are subjected to assessment by Institution.",
+        "STPM": "2 Principal Passes .  SPM-level or equivalent:\ncredit in Chinese\n*All applications are subjected to assessment by Institution.",
+        "Foundation": "Minimum CGPA 2.00 .  SPM-level or equivalent:\ncredit in Chinese\n*All applications are subjected to assessment by Institution.",
+        "IB Diploma": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects ."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 52800
+      },
+      "course_content": {
+        "core": "Main Courses\n·      Intermediate Chinese Listening & Speaking Main Courses ·      Intermediate Chinese Reading & Writing ·      Advanced Chinese ·      Basic Chinese of Traditional Chinese Medicine ·      General Introduction to Traditional Chinese Medicine ·      History of Chinese Medicine ·      Traditional Chinese Medicine Culture ·      History of Traditional Chinese Medicine Cultural Communication ·       An Overview of the Internationalization of Traditional Chinese Medicine ·       Selected Reading of TCM Classics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "language_prep",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes .  SPM-level or equivalent:\ncredit in Chinese\n *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including B6 in Chinese .  SPM-level or equivalent:\ncredit in Chinese\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field) .  SPM-level or equivalent:\ncredit in Chinese\n*All applications are subjected to assessment by Institution.\n *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes .  SPM-level or equivalent:\ncredit in Chinese\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 .  SPM-level or equivalent:\ncredit in Chinese\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects ."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "听力与言语康复学专业（四年制）",
+      "field_of_study": "Healthcare",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "UEC": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "Diploma": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution.",
+        "STPM": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "Foundation": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "IB Diploma": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 73901
+      },
+      "course_content": {
+        "core": "专业基础课 康复医学概论 听力学概论 正常人体解剖学 生理学 普通心理学 言语语言神经基础 言语治疗学总论 人体发育学 医用物理学基础 言语听觉科学基础 正常人体解剖学 声学语音学 中国传统康复基础 中西医结合耳鼻咽喉科学 专业课 构音语音障碍 运动性言语障碍 临床听力学 嗓音障碍 康复听力学 小儿听力学 吞咽障碍 失语症 儿童语言障碍 中国传统康复技能 小学期实践 康复实践 听力康复见习 文书写作与普通话艺术 聋儿康复见习 言语康复见习 听力言语康复实训 毕业实习 科室轮转 岗前培训 技能考试 综述 毕业实习讲座",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ],
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "公共事业管理（卫生管理方向）专业（四年制）",
+      "field_of_study": "Healthcare",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "UEC": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry.  *All applications are subjected to assessment by Institution.",
+        "Diploma": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution.",
+        "STPM": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "Foundation": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "IB Diploma": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 73901
+      },
+      "course_content": {
+        "core": "管理学基础 卫生事业管理 医院管理学 健康教育学 健康管理 西方经济学 卫生经济学 卫生统计学 人力资源管理 卫生政策 中医学基础",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry.  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "护理学专业（四年制）",
+      "field_of_study": "Nursing",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum grade C in 3 subjects. Additional health and medical requirements apply .  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English\n*All applications are subjected to assessment by Institution.",
+        "UEC": "Grade B in 5 Subjects. Additional health and medical requirements apply .",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in related field). Candidates with Diploma in Nursing and with 2 years relevant working experience are also accepted. Additional health and medical requirements apply .  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English\n*All applications are subjected to assessment by Institution.",
+        "STPM": "Minimum CGPA 2.50. Additional health and medical requirements apply .  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English\n*All applications are subjected to assessment by Institution.",
+        "Foundation": "Minimum CGPA 2.50. Additional health and medical requirements apply .  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English\n*All applications are subjected to assessment by Institution.",
+        "IB Diploma": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 73901
+      },
+      "course_content": {
+        "core": "主要课程： 正常人体学 生理学 药理学 护理心理学 护理管理学 社会人文学科 中医学概论 方药学 中医临床护理学 中医护理学基础 社区护理学 内科护理学 外科护理学",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science (General)"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics/Chemistry with pass in Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum grade C in 3 subjects. Additional health and medical requirements apply .  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects. Additional health and medical requirements apply ."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science (General)"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics/Chemistry with pass in Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in related field). Candidates with Diploma in Nursing and with 2 years relevant working experience are also accepted. Additional health and medical requirements apply .  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science (General)"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics/Chemistry with pass in Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50. Additional health and medical requirements apply .  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science (General)"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics/Chemistry with pass in Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50. Additional health and medical requirements apply .  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "食品卫生与营养学专业（四年制）",
+      "field_of_study": "Nutrition",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "UEC": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "Diploma": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution.",
+        "STPM": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "Foundation": "Pass Foundation with minimum CGPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 73901
+      },
+      "course_content": {
+        "core": "专业基础课 生理学 解剖学 中医基础理论 中医诊断学 医用化学 生物化学 疾病学基础（一） 疾病学基础（二） 卫生统计学 方药学 营养专业英语 专业课 基础营养 健康教育学 食品分析与检验 营养流行病学 公共营养 诊断学 食品毒理 膳食设计与管理 临床医学基础（内科） 临床医学基础（外妇儿科） 中医药膳 中医药膳实训 临床营养 食品安全与食品卫生 外科学总论 小学期实践 食品加工与烹饪（含劳动教育） 营养教育与咨询（含劳动教育） 公共卫生及其发展趋势讲座 食品安全管理 食品卫生讲座 人文社会实践 人文教育 毕业实习 岗前培训 专业实习 毕业设计 综合实验 毕业论文答辩",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation with minimum CGPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "康复作业治疗专业（四年制）",
+      "field_of_study": "Occupational Safety & Health",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "UEC": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "Diploma": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution.",
+        "STPM": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "Foundation": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "IB Diploma": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 73901
+      },
+      "course_content": {
+        "core": "主干课程： 神经系统疾病作业治疗 骨骼肌肉系统疾病作业治疗 发育障碍作业治疗 老年疾病作业治疗 主要课程： 人体解剖学 人体运动学 人体发育学 普通心理学 健康教育学 社会行为学 运动功能解剖学 神经科学 作业治疗框架 作业治疗活动分析 运动控制 作业治疗评定学 心理社会障碍作业治疗 治疗性环境与辅助技术等",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "gpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "gpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "康复治疗学专业（四年制）",
+      "field_of_study": "Occupational Safety & Health",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "UEC": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "Diploma": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution.",
+        "STPM": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "Foundation": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "IB Diploma": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 73901
+      },
+      "course_content": {
+        "core": "主干学科： 康复治疗学 传统康复医学 主要课程： 中国传统康复基础 中国传统康复技能 人体解剖学 人体运动学 人体发育学 康复医学概论 康复评定学 物理疗法学",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "康复物理治疗专业(四年制）",
+      "field_of_study": "Physiotherapy",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry.  *All applications are subjected to assessment by Institution.",
+        "UEC": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "Diploma": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution.",
+        "STPM": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "Foundation": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution.",
+        "IB Diploma": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 73901
+      },
+      "course_content": {
+        "core": "专业基础课 康复物理治疗学导论 正常人体解剖学 生理学 普通心理学 人体运动学 人体发育学 运动生理学 运动功能解剖学 运动控制 神经科学 中国传统康复基础 中医基础理论 专业课 物理因子治疗学 物理治疗评定学 手法治疗学 肌骨关节疾病物理治疗 I 肌骨关节疾病物理治疗 II 神经疾病物理治疗 I 神经疾病物理治疗 II 肌骨关节疾病物理治疗实训 II 神经系统疾病物理治疗实训 I 心肺疾病物理治疗 儿童疾病物理治疗学 中国传统康复技能 人体运动学 运动生理学 物理治疗评定学 中国传统康复技能 小学期实践 护理理论与实践 康复见习（一）（含劳动教育） 针推实践 康复见习（二）（含劳动教育） 康复实训 毕业实习 科室轮转 岗前培训 技能考试 综述 毕业实习讲座",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry.  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted. .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "gpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "gpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry .  *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "中药学专业（四年制）",
+      "field_of_study": "Traditional Chinese Medicine",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum Grade D .  SPM-level or equivalent:\ncredit in any 2 science subjects\n *All applications are subjected to assessment by Institution.",
+        "UEC": "Grade B in 5 Subjects including 2 science subjects .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field) or Candidates with CGPA 2.00 and above with 2 years relevant working experience .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "STPM": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "Foundation": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "IB Diploma": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 73901
+      },
+      "course_content": {
+        "core": "专业基础课 高等数学 物理学 无机化学 有机化学 解剖学 生理学 中医基础理论 中医诊断学 药用植物学 理化基础实验（一） 药用植物学实验 分析化学 物理化学 生物化学 中药学 方剂学 理化基础实验（二） 专业课 基础药理学 中药药理学 药理学与中药药理学实验 中药化学 中药鉴定学 中药鉴定学实验 中药化学实验 中药药剂学 中药炮制学 中药药剂学实验 中药炮制学实验 中药分析",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects",
+              "science subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum Grade D .  SPM-level or equivalent:\ncredit in any 2 science subjects\n *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects",
+              "science subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including 2 science subjects .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects",
+              "science subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field) or Candidates with CGPA 2.00 and above with 2 years relevant working experience .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects",
+              "science subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects",
+              "science subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 24
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "中医学专业（五年制）",
+      "field_of_study": "Traditional Chinese Medicine",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 5,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum Grade D.  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.\n *All applications are subjected to assessment by Institution.",
+        "UEC": "Grade B in 5 Subjects including 2 science subjects .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field) or Candidates with CGPA 2.00 and above with 2 years relevant working experience .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "STPM": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "Foundation": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects",
+        "IB Diploma": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 92376
+      },
+      "course_content": {
+        "core": "第一学年 第一学期 新生导航 中医基础理论 正常人体解剖学 中医汉语（一） 第二学期 中医诊断学 组织胚胎学 医用化学 中医汉语（二） 中国概况（一） 第三学期 中医诊法技能训练 人文社会实践（一） 中诊系列讲座 教学实践（一） 第二学年 第一学期 中药学 生物化学 生理学 人文教育 第二学期 方剂学 医古文 病理学 第三学期 医患沟通技能训练 人文社会实践（二） 教学实践（二）（含健康服务基本技能） 中药理论知识临床应用考试 第三学年 第一学期 中医内科学（一） 诊断学基础 影像诊断学 内经选读 中医文体写作（一） 药理学 第二学期 中医内科学（二） 西医内科学 西医外科学 伤寒论选读 中医文体写作（二） 医学伦理学 第三学期 第三学期 临床技能实训 教学实践（三）（含全科医学概论与社区实践） 方剂临床应用考试 第四学年 第一学期 中医外科学 金匮要略选读 针灸学 推拿学 第二学期 中医儿科学 中医妇科学 温病名著选读 中医各家学说 第五学年 毕业实习培训 毕业实习 毕业水平考试",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ],
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum Grade D.  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.\n *All applications are subjected to assessment by Institution."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ],
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including 2 science subjects .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field) or Candidates with CGPA 2.00 and above with 2 years relevant working experience .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ],
+            "count": 2
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ],
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ],
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "针灸推拿学专业（五年制）",
+      "field_of_study": "Traditional Chinese Medicine",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 5,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum Grade D .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "UEC": "Grade B in 5 Subjects including 2 science subjects .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field) or Candidates with CGPA 2.00 and above with 2 years relevant working experience .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "STPM": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "Foundation": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "IB Diploma": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 92376
+      },
+      "course_content": {
+        "core": "第一学年 第一学期 新生导航 中医基础理论 正常人体解剖学 中医汉语（一） 第二学期 中医诊断学 组织胚胎学 中医汉语（二） 中国概况（一） 第三学期 △中医诊法技能训练 △中诊系列讲座 △人文社会实践（一） △教学实践（一） 第二学年 第一学期 中药学 生物化学 生理学 △人文教育 第二学期 方剂学 医古文 病理学 经络腧穴学 推拿手法学 第三学期 △医患沟通技能训练 △针推基础训练 第三学年 第一学期 中医内科学 诊断学基础 影像诊断学 药理学 刺法灸法学 中医文体写作（一） 第二学期 西医内科学 西医外科学 中医临床经典导读 针灸治疗学 医学伦理学 中医文体写作（二）  第三学期 △临床技能实训 △针推实践 △经络腧穴考试 第四学年 第一学期 实验针推学 推拿治疗学 第二学期 神经病学 针灸医经选读 第五学年 △毕业实习培训 △毕业实习 △毕业水平考试",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum Grade D .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including 2 science subjects .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field) or Candidates with CGPA 2.00 and above with 2 years relevant working experience .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "science"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Program of Traditional Chinese Medicine (Acupuncture)",
+      "field_of_study": "Traditional Chinese Medicine",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 5,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum Grade D .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "UEC": "Grade B in 5 Subjects including 2 science subjects .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field) or Candidates with CGPA 2.00 and above with 2 years relevant working experience .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "STPM": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "Foundation": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution.",
+        "IB Diploma": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+      },
+      "english_requirements": {
+        "IELTS": ">6",
+        "TOEFL": ">90"
+      },
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 138564
+      },
+      "course_content": {
+        "core": "Compulsory Courses Normal Human Anatomy TCM Basic Theory Basic Chinese Language Basics of Chemistry Healthcare Physical Education Biochemistry Tuina Exercise Meridians and Points Overview of China Microbiology Guidance for Humanity Social Practice Case Studies TCM Diagnostics Chinese Materia Medical Physiology Intermediate-level Chinese Language Formulas of Chinese Herbal Medicine Introduction to TCM Classics Basics of Pathology Acupuncture and Moxibustion Technique Theory of Tuina Manipulations Pharmacology Basics of Diagnostics TCM Internal Medicine Clinical Conversations in Traditional Chinese Medicine Tuina Practice on Human Body Radiology Acupuncture and Moxibustion Technique Internal Medicine Anatomy of Acupuncture Medical Terminology Selective Readings of Acupuncture Classics History of Chinese Medicine Practice of Acupuncture and Moxibustion Techniques Overview on TCM-Style Writing Tuina Therapeutics Acupuncture Therapeutics TCM Traumatology Medical Ethics General Introduction to Rehabilitation Neurology TCM Emergencies Clinical Psychology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum Grade D .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including 2 science subjects .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field) or Candidates with CGPA 2.00 and above with 2 years relevant working experience .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 .  SPM-level or equivalent:\ncredit in any 2 science subjects\n*All applications are subjected to assessment by Institution."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass with at least 24 points with minimum 12 points from Higher Level subjects and a minimum of 9 points from their Standard Level subjects .  *All applications are subjected to assessment by Institution."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master Degree Program (Traditional Chinese Medicine) (Taught in English)",
+      "field_of_study": "Traditional Chinese Medicine",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Minimum CGPA 2.50 *All applications are subjected to assessment by Institution.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 101027
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "*All applications are subjected to assessment by Institution.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master Degree Program (Traditional Chinese Medicine) (Taught in Chinese)",
+      "field_of_study": "Traditional Chinese Medicine",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Minimum CGPA 2.50 *All applications are subjected to assessment by Institution.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 67320
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "*All applications are subjected to assessment by Institution.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctoral Degree Program (Traditional Chinese Medicine) (Taught in English)",
+      "field_of_study": "Traditional Chinese Medicine",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Pass Masters with minimum CGPA 2.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 118855
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "Pass Masters with minimum CGPA 2.0."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctoral Degree Program (Traditional Chinese Medicine) (Taught in Chinese)",
+      "field_of_study": "Traditional Chinese Medicine",
+      "location": "SHUTCM, Pudong",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Pass Masters with minimum CGPA 2.00 *All applications are subjected to assessment by Institution.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 297,
+        "resource_fee": null,
+        "tuition_fee": 99000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Masters with minimum CGPA 2.00 *All applications are subjected to assessment by Institution.."
+          }
+        ]
+      }
+    }
+  ]
+}

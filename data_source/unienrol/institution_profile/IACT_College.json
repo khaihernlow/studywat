@@ -1,0 +1,808 @@
+{
+  "institution_name": "IACT College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "BA (Hons) Film Production (3+0), University of Sunderland, UK",
+      "field_of_study": "Film & Television",
+      "location": "IACT, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Mar",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of grade E in 2 subjects.",
+        "UEC": "Minimum of grade B in 5 subjects.",
+        "Diploma": "Minimum CGPA 2.0.",
+        "STPM": "Minimum of grade C in 2 subjects and an average CGPA of 2.0.",
+        "Foundation": "Minimum CGPA 2.0.",
+        "CPU": "5 subjects with a minimum score of 50%.",
+        "SACE/WACE": "5 subjects with a minimum score of 50%."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 3000,
+        "tuition_fee": 72000
+      },
+      "course_content": {
+        "core": "Year 1 Core Modules Production Skills\nSound Design and Production 1 \nScriptwriting\nIntroduction to Film Studies\nFactual Film\nShort Film Production Production Skills Sound Design and Production 1 Scriptwriting Introduction to Film Studies Factual Film Short Film Production Year 2 Core Modules Filmmaking for Film Festivals\nFilm Theory and Criticism\nVideo Documentary Production \nGuerrilla Filmmaking Filmmaking for Film Festivals Film Theory and Criticism Video Documentary Production Guerrilla Filmmaking Year 3 Core Modules Advanced Digital Fictional Film \nHigh End Video Project\nPractical Final Project Advanced Digital Fictional Film High End Video Project Practical Final Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UK Degree Transfer Programme (2+1) Mass Communication",
+      "field_of_study": "Mass Communication",
+      "location": "IACT, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Mar",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of grade D in 2 subjects.",
+        "UEC": "Minimum of grade B in 5 subjects.",
+        "Diploma": "Minimum CGPA 2.0.",
+        "STPM": "Minimum of grade C in 2 subjects and an average CGPA of 2.0.",
+        "Foundation": "Minimum CGPA 2.0.",
+        "CPU": "5 subjects with a minimum score of 50%.",
+        "SACE/WACE": "5 subjects with a minimum score of 50%."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 2000,
+        "tuition_fee": 44000
+      },
+      "course_content": {
+        "core": "Year 1 Computer Graphics\nMedia and Cultural Studies\nMedia Ethics\nMedia History\nNew Media Studies\nPhotography Print Journalism\nPublic Relations Practices \nResearch Methods\nWriting for the Media Computer Graphics Media and Cultural Studies Media Ethics Media History New Media Studies Photography Print Journalism Public Relations Practices Research Methods Writing for the Media Year 2 Advertising and Marketing Communications\nCommunication in the Globalised World\nCreative Communication\nFilm Fundamentals\nOnline Marketing\nPopular Culture Advertising and Marketing Communications Communication in the Globalised World Creative Communication Film Fundamentals Online Marketing Popular Culture",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Media, Culture and Communication (3+0), University of Sunderland, UK",
+      "field_of_study": "Mass Communication",
+      "location": "IACT, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of grade D in 2 subjects.",
+        "UEC": "Minimum of grade B in 5 subjects.",
+        "Diploma": "Minimum CGPA 2.0.",
+        "STPM": "Minimum of grade C in 2 subjects and an average CGPA of 2.0.",
+        "Foundation": "Minimum CGPA 2.0.",
+        "CPU": "5 subjects with a minimum score of 50%.",
+        "SACE/WACE": "5 subjects with a minimum score of 50%."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 3000,
+        "tuition_fee": 72000
+      },
+      "course_content": {
+        "core": "Year 1 Core Module Introduction to Media and Cultural Studies\nMedia Histories\nThe Making of Popular Culture\nIntroduction to Digital Media Cultures Introduction to Media and Cultural Studies Media Histories The Making of Popular Culture Introduction to Digital Media Cultures Year 2 Core Module Media Studies 1\nResearching Media in Everyday Lives\nCultural Theory and Popular Culture 1\nAcademic Research Skills Media Studies 1 Researching Media in Everyday Lives Cultural Theory and Popular Culture 1 Academic Research Skills Year 3 Core Module Dissertation and Research Methods A\nCultural Theory and Popular Culture 2 \nDissertation and Research Methods B \nMedia Studies 2 Dissertation and Research Methods A Cultural Theory and Popular Culture 2 Dissertation and Research Methods B Media Studies 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Social Media Management (3+0), University of Sunderland, UK",
+      "field_of_study": "Mass Communication",
+      "location": "IACT, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of grade D in 2 subjects;.",
+        "UEC": "Minimum of grade B in 5 subjects.",
+        "Diploma": "Minimum CGPA 2.0;.",
+        "STPM": "Minimum of grade C in 2 subjects and an average CGPA of 2.0.",
+        "Foundation": "Minimum CGPA 2.0.",
+        "CPU": "5 subjects with a minimum score of 50%.",
+        "SACE/WACE": "5 subjects with a minimum score of 50%."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (5.5)",
+        "Others": "SPM 1119 (GCE-O) – C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 3000,
+        "tuition_fee": 72000
+      },
+      "course_content": {
+        "core": "Year 1\n• Introduction to Social Media A\n• Introduction to Social Media B\n• Essential Media Law and Regulation\n• Essential Journalism\n• Community Engagement\n• Introduction to PR Theory and Practice\n• Digital Image Creation  Year 2\n• Data Analysis and Visualisation\n• Social Media: Theory and Practice\n• Ready Player One: Operating within the\nStreaming Industry\n• Placement and Practice\n• Practical PR, Strategy and Theory  Year 3\n• Advanced Public Relations\n• Advanced Community Engagement\n• Social Media Management Practical Project A\n• Social Media Management Practical Project B\n• Branded Content and Ecommerce Video\n• In-Company Practical Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Advertising and Design (3+0), University of Sunderland, UK",
+      "field_of_study": "Multimedia Design",
+      "location": "IACT, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of grade E in 2 subjects.  Applicants are also required to submit a portfolio",
+        "UEC": "Minimum of grade B in 5 subjects.  Applicants are also required to submit a portfolio",
+        "Diploma": "Minimum CGPA 2.0.  Applicants are also required to submit a portfolio",
+        "STPM": "Minimum of grade C in 2 subjects and an average CGPA of 2.0.  Applicants are also required to submit a portfolio",
+        "Foundation": "Minimum CGPA 2.0.  Applicants are also required to submit a portfolio",
+        "CPU": "5 subjects with a minimum score of 50%.  Applicants are also required to submit a portfolio",
+        "SACE/WACE": "5 subjects with a minimum score of 50%.  Applicants are also required to submit a portfolio"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 3000,
+        "tuition_fee": 72000
+      },
+      "course_content": {
+        "core": "Year 1 Design Theory 1\nDigital Image Making\nIntroduction to Advertising 1\nIntroduction to Advertising 2\nMotion Graphics 1\nVisual Communication in Graphic Design\nDrawing Techniques Design Theory 1 Digital Image Making Introduction to Advertising 1 Introduction to Advertising 2 Motion Graphics 1 Visual Communication in Graphic Design Drawing Techniques Year 2 Advertising, The Campaign\nBranding, Positioning and Identity\nDesign Theory 2\nAdvertising Practice, The Book 1\nMotion Graphics 2\nGraphic Communication\nPhotography Advertising, The Campaign Branding, Positioning and Identity Design Theory 2 Advertising Practice, The Book 1 Motion Graphics 2 Graphic Communication Photography Year 3 Advertising Practice, The Book 2\nCreative Team Campaigns\nDesign Research Project\nMajor Project 1: The Creative Direction\nMajor Project 2: The Negotiated Brief\nMajor Project 3: The Creative Competition Advertising Practice, The Book 2 Creative Team Campaigns Design Research Project Major Project 1: The Creative Direction Major Project 2: The Negotiated Brief Major Project 3: The Creative Competition",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of grade E in 2 subjects.  Applicants are also required to submit a portfolio"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of grade B in 5 subjects.  Applicants are also required to submit a portfolio"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.0.  Applicants are also required to submit a portfolio"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of grade C in 2 subjects and an average CGPA of 2.0.  Applicants are also required to submit a portfolio"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.0.  Applicants are also required to submit a portfolio"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 subjects with a minimum score of 50%.  Applicants are also required to submit a portfolio"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 subjects with a minimum score of 50%.  Applicants are also required to submit a portfolio"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Media and Communications",
+      "field_of_study": "Communication",
+      "location": "IACT, Petaling Jaya",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 credits in SPM including English.",
+        "O-Level": "3 credits in IGCSE including English.",
+        "UEC": "3Bs in UEC including English."
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 2000,
+        "tuition_fee": 35000
+      },
+      "course_content": {
+        "core": "Year 1 Mass Communication Communication English Digital Media Graphics Creative Thinking Presentation Skills Research Methods Photography and Digital Imaging Principles of Advertising Video Production Digital Storytelling & Animation Public Relations Principles of Journalism Introduction to Sociology Digital Publishing Year 2 Media Ethics and Regulations Digital Media Analysis Publicity in the Metaverse Transmedia Content Creation and Management PR Campaign Strategies New Media Applications In-Company Practical Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits in SPM including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits in IGCSE including English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3Bs in UEC including English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Broadcasting & Film",
+      "field_of_study": "Film & Television",
+      "location": "IACT, Petaling Jaya",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 credits in SPM including English.",
+        "O-Level": "3 credits in SPM including English.",
+        "UEC": "3Bs in UEC including English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 2000,
+        "tuition_fee": 35000
+      },
+      "course_content": {
+        "core": "Year 1 Principles of Advertising Communication English Digital Media Graphics Creative Thinking Production Management Motion Graphics Scriptwriting for TV Idea Conceptualisation Digital Audio Production Mass Communication Photography and Digital Imaging Presentation Skills Video Production Studio Production Year 2 Advanced Video Production Video Documentary New Media Applications Research Methods Creative Execution and Production Integrated Media and Commercials TV Radio Programming and Distribution In-Company Practical Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits in SPM including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits in SPM including English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3Bs in UEC including English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Media Studies",
+      "field_of_study": "Foundation in Arts",
+      "location": "IACT, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Credits in SPM.",
+        "O-Level": "5 Credits in IGCSE.",
+        "UEC": "Minimum 3Bs in UEC."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 1000,
+        "tuition_fee": 11900
+      },
+      "course_content": {
+        "core": "Semester 1 English 1\nMedia and Communication\nPresentation Skills English 1 Media and Communication Presentation Skills Semester 2 Advertising\nIntroduction to Journalism\nIntroduction to Public Relations\nIntroduction to Radio and TV Broadcasting\nSociology Advertising Introduction to Journalism Introduction to Public Relations Introduction to Radio and TV Broadcasting Sociology Semester 3 Design Fundamentals\nDesktop Publishing\nIntroduction to Academic Writing\nMedia Theory and Analysis\nResearch Methods Design Fundamentals Desktop Publishing Introduction to Academic Writing Media Theory and Analysis Research Methods",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3Bs in UEC."
+          }
+        ]
+      }
+    }
+  ]
+}

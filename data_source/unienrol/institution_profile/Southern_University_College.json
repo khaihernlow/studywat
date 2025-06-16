@@ -1,0 +1,4882 @@
+{
+  "institution_name": "Southern University College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 7916,
+  "malaysia_rank": 56,
+  "programs": [
+    {
+      "program_name": "Bachelor in Accounting (Hons)",
+      "field_of_study": "Accounting",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English.  A credit in Mathematics in SPM",
+        "UEC": "5 credits and credit in Mathematics at UEC level.  A credit in Mathematics in SPM",
+        "Diploma": "CGPA 2.5.  A credit in Mathematics in SPM",
+        "STPM": "CGPA 2.0 and a minimum of Grade C+ in any two subjects.  A credit in Mathematics in SPM",
+        "Foundation": "CGPA 2.5.  A credit in Mathematics in SPM",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 55 in any two subjects.  A credit in Mathematics in SPM"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2700,
+        "tuition_fee": 42900
+      },
+      "course_content": {
+        "core": "Common Core Module Business Communication\nBusiness Ethics\nBusiness Law\nBusiness Statistics I\nBusiness Statistic II\nCost & Management Accounting\nFundamentals of Financial Management\nInternational Business Management\nIntroduction to Financial Accounting\nManagement Information System\nMacroeconomics\nMicroeconomics\nOrganisational Behaviour\nPrinciples of Management\nPrinciples of Marketing\nStrategic Management\nAcademic English Business Communication Business Ethics Business Law Business Statistics I Business Statistic II Cost & Management Accounting Fundamentals of Financial Management International Business Management Introduction to Financial Accounting Management Information System Macroeconomics Microeconomics Organisational Behaviour Principles of Management Principles of Marketing Strategic Management Academic English Industrial Training 6 months (12 credits)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English.  A credit in Mathematics in SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits and credit in Mathematics at UEC level.  A credit in Mathematics in SPM"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.5.  A credit in Mathematics in SPM"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 and a minimum of Grade C+ in any two subjects.  A credit in Mathematics in SPM"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.5.  A credit in Mathematics in SPM"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 55 in any two subjects.  A credit in Mathematics in SPM"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Administration (Hons)",
+      "field_of_study": "Business Administration",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English.  Credit in Mathematics and a pass in English at SPM level",
+        "UEC": "Minimum of 5 credits AND credit in Mathematics and a pass in English at UEC level.  Credit in Mathematics and a pass in English at SPM level",
+        "Diploma": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level",
+        "STPM": "CGPA 2.0 and a minimum of Grade C+ in any two subjects.  Credit in Mathematics and a pass in English at SPM level",
+        "Foundation": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 3000,
+        "tuition_fee": 36600
+      },
+      "course_content": {
+        "core": "Common Core Module Introduction to Financial Accounting\nCost & Management Accounting\nInformation Technology & Business Application\nMicroeconomics\nMacroeconomics\nBusiness Communication\nFundamentals of Financial Management\nPrinciples of Marketing\nPrinciples of Management\nOrganisational Behaviour\nIntroduction to Psychology\nStrategic Management\nBusiness Statistics I\nBusiness Statistic II\nBusiness Research Methods\nBusiness Law\nCompany Law Introduction to Financial Accounting Cost & Management Accounting Information Technology & Business Application Microeconomics Macroeconomics Business Communication Fundamentals of Financial Management Principles of Marketing Principles of Management Organisational Behaviour Introduction to Psychology Strategic Management Business Statistics I Business Statistic II Business Research Methods Business Law Company Law Industrial Training 3 months (6 credits)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of 5 credits AND credit in Mathematics and a pass in English at UEC level.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 and a minimum of Grade C+ in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) in Chinese Studies",
+      "field_of_study": "Chinese Studies",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Grade C (GPA 2.00) in any two subjects.  A credit in Chinese in SPM",
+        "UEC": "Grade B in 5 subjects including Chinese.  A credit in Chinese in SPM",
+        "Diploma": "CGPA 2.00.  A credit in Chinese in SPM",
+        "STPM": "Grade C (GPA 2.00) in any two subjects.  A credit in Chinese in SPM",
+        "Foundation": "CGPA 2.00.  A credit in Chinese in SPM"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1600,
+        "tuition_fee": 33000
+      },
+      "course_content": {
+        "core": "Introduction to Ancient Texts \nChinese Philology \nChinese Phonology \nCritical Interpretation of Ancient Texts\nClassical Chinese \nHistory of Chinese Literature I \nHistory of Chinese Literature II \nThe Book of Songs (Shi Jing) \nReading in Chinese Poetry \nReading in Ci-poetry \nReadings in Ancient Chinese Prose I \nReadings in Ancient Chinese Prose II \nIntroduction to Literature \nModern Chinese \nModern Chinese Literature \nContemporary Chinese Literature \nChinese Literature in Malaysia \nSurvey of Chinese History I \nSurvey of Chinese History II \nHistory of Malaysian Chinese\nChinese Cultural Studies and Social Survey \nHistory of Chinese Thought \nThe Analects of Confucius and Mencius \nChinese Calligraphy \nChinese Writing and Practical Chinese \nChinese Teaching Methods \nIndustrial Internship \nResearch Methodology / Graduation Thesis I\nResearch Methodology / Graduation Thesis II \nResearch Methodology / Graduation Thesis III Introduction to Ancient Texts Chinese Philology Chinese Phonology Critical Interpretation of Ancient Texts Classical Chinese History of Chinese Literature I History of Chinese Literature II The Book of Songs (Shi Jing) Reading in Chinese Poetry Reading in Ci-poetry Readings in Ancient Chinese Prose I Readings in Ancient Chinese Prose II Introduction to Literature Modern Chinese Modern Chinese Literature Contemporary Chinese Literature Chinese Literature in Malaysia Survey of Chinese History I Survey of Chinese History II History of Malaysian Chinese Chinese Cultural Studies and Social Survey History of Chinese Thought The Analects of Confucius and Mencius Chinese Calligraphy Chinese Writing and Practical Chinese Chinese Teaching Methods Industrial Internship Research Methodology / Graduation Thesis I Research Methodology / Graduation Thesis II Research Methodology / Graduation Thesis III",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (GPA 2.00) in any two subjects.  A credit in Chinese in SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including Chinese.  A credit in Chinese in SPM"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  A credit in Chinese in SPM"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (GPA 2.00) in any two subjects.  A credit in Chinese in SPM"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  A credit in Chinese in SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Education (Hons) (Guidance & Counselling)",
+      "field_of_study": "Counselling",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "UEC": "Grade B in 5 subjects.",
+        "Diploma": "CGPA 2.00.",
+        "STPM": "CGPA 2.0 with a minimum of Grade C in two subjects.",
+        "Foundation": "CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2240,
+        "tuition_fee": 38160
+      },
+      "course_content": {
+        "core": "Compulsory Subjects Foundations of Education\nPhilosophy of Education\nSociology of Education\nComparative and International Education\nAssessment and Evaluation in Education\nCurriculum and Pedagogy Foundations of Education Philosophy of Education Sociology of Education Comparative and International Education Assessment and Evaluation in Education Curriculum and Pedagogy Core Subjects Introduction to Guidance and Counseling\nGuidance and Career Development\nFamily and Parenting Counseling\nBasic Skills in Counseling\nAssessment in Counseling\nResearch Project in Counseling\nCounseling Theories\nIndividual Counseling\nEthics in Counseling\nCareer Counseling\nGroup Counseling Introduction to Guidance and Counseling Guidance and Career Development Family and Parenting Counseling Basic Skills in Counseling Assessment in Counseling Research Project in Counseling Counseling Theories Individual Counseling Ethics in Counseling Career Counseling Group Counseling Minor Subjects Track 1: Teaching of English Introduction to Linguistics\nTESL: Methods and Methodologies\nTeaching of Grammar\nTeaching of Writing\nListening & Speaking in English\nTeaching of Reading Introduction to Linguistics TESL: Methods and Methodologies Teaching of Grammar Teaching of Writing Listening & Speaking in English Teaching of Reading Track 2: Teac hing of Chinese Modern Chinese\nModern Chinese Literature\nReadings in Chinese Poetry\nChinese Teaching Methods\nHistory of Malaysia Chinese\nChinese Writing and Practical Chinese Modern Chinese Modern Chinese Literature Readings in Chinese Poetry Chinese Teaching Methods History of Malaysia Chinese Chinese Writing and Practical Chinese",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 with a minimum of Grade C in two subjects."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Early Childhood Education (Hons)",
+      "field_of_study": "Early Childhood Education",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.00 and at least a full pass in any 2 subjects.",
+        "UEC": "Five (5) credits in any subject.",
+        "Diploma": "A Diploma or Advanced Diploma in Early Childhood Education or in any field with a minimum CGPA of 2.00.",
+        "STPM": "CGPA 2.0 and a minimum of Grade C (GP 2.00) in any two (2) subjects.",
+        "Foundation": "CGPA 2.00.",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 50 in any two subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2270,
+        "tuition_fee": 32330
+      },
+      "course_content": {
+        "core": "Philosophies and Policies in Early Childhood Education\nSocial Studies in Early Childhood Education\nMalaysian Pre-school Curriculum and Childcare Practice\nEarly Childhood Development and Growth\nObservation and Assessment in Early Childhood Education\nCreative Art and Craft in Early Childhood Education\nMathematics in Early Childhood Education\nSafety, Health & Nutrition for the Young Children\nLanguage and Literacy in Early Childhood Education\nTechnology and Media in Early Childhood Education\nDrama, Creative Movement and Music in Early Childhood Education\nScience in Early Childhood Education\nPlay in Early Childhood Education\nChild Care Curriculum and Practice in Malaysia\nPhysical Education in Early Childhood Education\nResearch method in Early Childhood Education\nGuidance for Young Children\nHome, School and Community Collaboration in Early Childhood Education\nChildren with Special Needs\nUndergraduate Project 1\nUndergraduate Project 2\nIssues in Early Childhood Education Philosophies and Policies in Early Childhood Education Social Studies in Early Childhood Education Malaysian Pre-school Curriculum and Childcare Practice Early Childhood Development and Growth Observation and Assessment in Early Childhood Education Creative Art and Craft in Early Childhood Education Mathematics in Early Childhood Education Safety, Health & Nutrition for the Young Children Language and Literacy in Early Childhood Education Technology and Media in Early Childhood Education Drama, Creative Movement and Music in Early Childhood Education Science in Early Childhood Education Play in Early Childhood Education Child Care Curriculum and Practice in Malaysia Physical Education in Early Childhood Education Research method in Early Childhood Education Guidance for Young Children Home, School and Community Collaboration in Early Childhood Education Children with Special Needs Undergraduate Project 1 Undergraduate Project 2 Issues in Early Childhood Education",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00 and at least a full pass in any 2 subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Five (5) credits in any subject."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "A Diploma or Advanced Diploma in Early Childhood Education or in any field with a minimum CGPA of 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 and a minimum of Grade C (GP 2.00) in any two (2) subjects."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor Of Electronics Engineering With Honours",
+      "field_of_study": "Electronic Engineering",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 principal passes and including Mathematics and Physics / Chemistry subjects.",
+        "UEC": "Grade B in 5 subjects, including Mathematics and Physics / Chemistry / Engineering related subject.",
+        "Diploma": "CGPA of 2.00 in related field.",
+        "STPM": "2 principal passes and including Mathematics and Physics / Chemistry subjects.",
+        "Foundation": "CGPA of 2.00 in related field.",
+        "SACE/WACE": "65 with minimum of scaled score 50 for mathematics and one natural science."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2680,
+        "tuition_fee": 38920
+      },
+      "course_content": {
+        "core": "Core Subject Engineering Mathematics I\nEngineering Mathematics II\nEngineering Mathematics III\nPhysics for Engineering Students Engineering Mathematics I Engineering Mathematics II Engineering Mathematics III Physics for Engineering Students Discpline Core Basic Control Theory\nC Programming\nDigital Electronics I\nDigital Electronics II\nEngineer and Society\nDigital Signal Processing\nElectric Circuit I\nElectric Circuit II\nElectronic Circuit I\nBasic Power System & Electric Machines\nPower Electronics\nProgrammable Logic Controllers\nProject & Practice I Basic Control Theory C Programming Digital Electronics I Digital Electronics II Engineer and Society Digital Signal Processing Electric Circuit I Electric Circuit II Electronic Circuit I Basic Power System & Electric Machines Power Electronics Programmable Logic Controllers Project & Practice I Discpline Core Electronic Circuit II\nElectronic Instrumentation and Measurements\nEngineering Economics & Finance\nEngineering Electromagnetic\nEngineering Statistics\nFundamentals of Telecommunication\nLogic System Design\nMicrocontrollers & Microprocessor Systems\nProject & Practice II\nVLSI System Design\nCapstone Project I\nCapstone Project II Electronic Circuit II Electronic Instrumentation and Measurements Engineering Economics & Finance Engineering Electromagnetic Engineering Statistics Fundamentals of Telecommunication Logic System Design Microcontrollers & Microprocessor Systems Project & Practice II VLSI System Design Capstone Project I Capstone Project II Industrial Training Industrial training Final Year Project Final Year Project I\nFinal Year Project II Final Year Project I Final Year Project II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 principal passes and including Mathematics and Physics / Chemistry subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Chemistry",
+              "Engineering related subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects, including Mathematics and Physics / Chemistry / Engineering related subject."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "CGPA of 2.00 in related field."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 principal passes and including Mathematics and Physics / Chemistry subjects."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "CGPA of 2.00 in related field."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 65.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "mathematics",
+              "one natural science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "65 with minimum of scaled score 50 for mathematics and one natural science."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Finance and Investment",
+      "field_of_study": "Finance",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English.  Credit in Mathematics and a pass in English at SPM level",
+        "UEC": "Minimum of 5 credits AND credit in Mathematics and a pass in English at UEC level.  Credit in Mathematics and a pass in English at SPM level",
+        "Diploma": "Finance, Banking, Insurance or related field with a CGPA 2.5.  Credit in Mathematics and a pass in English at SPM level",
+        "STPM": "CGPA 2.0 and a minimum of Grade C+ in any two subjects.  Credit in Mathematics and a pass in English at SPM level",
+        "Foundation": "CGPA 2.5.  Credit in Mathematics and a pass in English at SPM level",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 55 in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 3000,
+        "tuition_fee": 36600
+      },
+      "course_content": {
+        "core": "Business Communication\nBusiness Law\nBusiness Research Methods\nBusiness Statistics I\nBusiness Statistics II\nCost & Management Accounting\nEntrepreneurship\nFinancial Accounting\nFundamentals of Financial Management\nInformation Technology & Business Application\nIntroduction to Financial Accounting\nMacroeconomics\nMicroeconomics\nOrganisational Behaviour\nPrinciples of Management\nPrinciples of Marketing\nAcademic English Business Communication Business Law Business Research Methods Business Statistics I Business Statistics II Cost & Management Accounting Entrepreneurship Financial Accounting Fundamentals of Financial Management Information Technology & Business Application Introduction to Financial Accounting Macroeconomics Microeconomics Organisational Behaviour Principles of Management Principles of Marketing Academic English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of 5 credits AND credit in Mathematics and a pass in English at UEC level.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Finance, Banking, Insurance or related field with a CGPA 2.5.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 and a minimum of Grade C+ in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.5.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 55 in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Design (Hons) in Computer Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.00 and at least a full pass in any 2 subjects.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "UEC": "5 credits.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "Diploma": "CGPA 2.00.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "STPM": "CGPA 2.00 and a minimum of Grade C (SGP 2.00) in any 2 subjects.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "Foundation": "CGPA 2.00.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Pass an interview OR submission of portfolio determined by the HEP as required"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2600,
+        "tuition_fee": 39000
+      },
+      "course_content": {
+        "core": "Drawing for Designer\nColor Study For Designer\nDesign Photography and Imaging\nComputer Graphics Study\nDesign Principle\nIndustrial Training Drawing for Designer Color Study For Designer Design Photography and Imaging Computer Graphics Study Design Principle Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00 and at least a full pass in any 2 subjects.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00 and a minimum of Grade C (SGP 2.00) in any 2 subjects.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Human Resource Management",
+      "field_of_study": "Human Resource Management",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English.  Credit in Mathematics and a pass in English at SPM level",
+        "UEC": "Minimum of 5 credits AND credit in Mathematics and a pass in English at UEC level.  Credit in Mathematics and a pass in English at SPM level",
+        "Diploma": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level",
+        "STPM": "CGPA 2.0 and a minimum of Grade C+ in any two subjects.  Credit in Mathematics and a pass in English at SPM level",
+        "Foundation": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 3000,
+        "tuition_fee": 36600
+      },
+      "course_content": {
+        "core": "Common Core Module Introduction to Financial Accounting\nManagerial Accounting\nManagement Information System\nMicroeconomics\nMacroeconomics\nBusiness Communication\nFundamentals of Financial Management\nBusiness Ethics\nProduction and Operations Management\nBusiness Law\nPrinciples of Marketing\nPrinciples of Management\nOrganisational Behaviour\nHuman Resource Management\nStrategic Management\nBusiness Statistics I\nBusiness Statistic II\nBusiness Research Methods\nAcademic English Introduction to Financial Accounting Managerial Accounting Management Information System Microeconomics Macroeconomics Business Communication Fundamentals of Financial Management Business Ethics Production and Operations Management Business Law Principles of Marketing Principles of Management Organisational Behaviour Human Resource Management Strategic Management Business Statistics I Business Statistic II Business Research Methods Academic English Industrial Training 3 months (6 credits)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of 5 credits AND credit in Mathematics and a pass in English at UEC level.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 and a minimum of Grade C+ in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Industrial Design (Honours)",
+      "field_of_study": "Industrial Design",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.00 and at least a full pass in any 2 subjects.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "UEC": "5 credits.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "Diploma": "CGPA 2.00.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "STPM": "CGPA 2.00 and a minimum of Grade C (SGP 2.00) in any 2 subjects.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "Foundation": "CGPA 2.00.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Pass an interview OR submission of portfolio determined by the HEP as required"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 3200,
+        "tuition_fee": 41400
+      },
+      "course_content": {
+        "core": "Common Core Drawing for Designer\nColor Study for Designer\nDigital Photography and Imaging\nComputer Graphic Study\nDesign Principle Drawing for Designer Color Study for Designer Digital Photography and Imaging Computer Graphic Study Design Principle Programme Core Creative Thinking and Design Methodology\nDesign Presentation Techniques\nDesign Rendering Techniques\nTechnical Drawing for Designer\nComputer Aided Design\n3D Modelling & 3D Printing\n3D Rendering & Animation\nApplied Ergonomics\nDesign Management\nDegree Final Project\nModel Workshop I\nModel Workshop II\nIndustrial Design Project I\nIndustrial Design Project II\nIndustrial Design Project III\nDesign for Sustainability\nDesign Research Methodology\nDegree Final Project Exhibition\nProfessional Practice in Design\nMaterials and Manufacturing Processes\nCorporate Brand Design Creative Thinking and Design Methodology Design Presentation Techniques Design Rendering Techniques Technical Drawing for Designer Computer Aided Design 3D Modelling & 3D Printing 3D Rendering & Animation Applied Ergonomics Design Management Degree Final Project Model Workshop I Model Workshop II Industrial Design Project I Industrial Design Project II Industrial Design Project III Design for Sustainability Design Research Methodology Degree Final Project Exhibition Professional Practice in Design Materials and Manufacturing Processes Corporate Brand Design Industrial Training Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00 and at least a full pass in any 2 subjects.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00 and a minimum of Grade C (SGP 2.00) in any 2 subjects.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 65.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) in Malay Studies",
+      "field_of_study": "Malay Studies",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.00 and at least a full pass in any 2 subjects.  A credit in Bahasa Melayu in SPM",
+        "UEC": "5 subjects.  A credit in Bahasa Melayu in SPM",
+        "Diploma": "CGPA 2.00.  A credit in Bahasa Melayu in SPM",
+        "STPM": "CGPA 2.00 and a minimum of Grade C (SGP 2.00) in any 2 subjects.  A credit in Bahasa Melayu in SPM",
+        "Foundation": "CGPA 2.00.  A credit in Bahasa Melayu in SPM",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  A credit in Bahasa Melayu in SPM"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1380,
+        "tuition_fee": 31720
+      },
+      "course_content": {
+        "core": "Core Subjects Keterampilan Berbahasa dan Komunikasi\nFonetik dan Fonologi\nLaras Bahasa\nMorfologi\nMetodologi Penyelidikan\nPengucapan Awam\nPsikolinguistik\nSejarah Kesusasteraan Melayu\nPengantar Linguistik Am\nPersoalan dan Permasalahan Bahasa Melayu\nPsikologi Pendidikan\nSemantik\nSosiolinguistik\nSintaksis\nTulisan Jawi\nTatabahasa Bahasa Melayu\nTeknologi Maklumat dan Penggunaannya Keterampilan Berbahasa dan Komunikasi Fonetik dan Fonologi Laras Bahasa Morfologi Metodologi Penyelidikan Pengucapan Awam Psikolinguistik Sejarah Kesusasteraan Melayu Pengantar Linguistik Am Persoalan dan Permasalahan Bahasa Melayu Psikologi Pendidikan Semantik Sosiolinguistik Sintaksis Tulisan Jawi Tatabahasa Bahasa Melayu Teknologi Maklumat dan Penggunaannya Minor Subjects Adat Resam dan Istiadat Melayu\nCerpen Melayu\nNovel Melayu\nPantun dan Gurindam Melayu\n:Puisi Melayu Adat Resam dan Istiadat Melayu Cerpen Melayu Novel Melayu Pantun dan Gurindam Melayu :Puisi Melayu Final Year Project Projek Ilmiah Bahasa Melayu Industrial Training Latihan Praktikum",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00 and at least a full pass in any 2 subjects.  A credit in Bahasa Melayu in SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 subjects.  A credit in Bahasa Melayu in SPM"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  A credit in Bahasa Melayu in SPM"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00 and a minimum of Grade C (SGP 2.00) in any 2 subjects.  A credit in Bahasa Melayu in SPM"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  A credit in Bahasa Melayu in SPM"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  A credit in Bahasa Melayu in SPM"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Marketing",
+      "field_of_study": "Marketing",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English.  Credit in Mathematics and a pass in English at SPM level",
+        "UEC": "Minimum of 5 credits AND credit in Mathematics and a pass in English at UEC level.  Credit in Mathematics and a pass in English at SPM level",
+        "Diploma": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level",
+        "STPM": "CGPA 2.0 and a minimum of Grade C (SGP 2.0) in any two subjects.  Credit in Mathematics and a pass in English at SPM level",
+        "Foundation": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 3000,
+        "tuition_fee": 36600
+      },
+      "course_content": {
+        "core": "Common Core Module Business Communication\nBusiness Ethics\nBusiness Law\nBusiness Statistics I\nBusiness Statistic II\nCost & Management Accounting\nFundamentals of Financial Management\nInternational Business Management\nIntroduction to Financial Accounting\nManagement Information System\nMacroeconomics\nMicroeconomics\nOrganisational Behaviour\nPrinciples of Management\nPrinciples of Marketing\nStrategic Management\nAcademic English Business Communication Business Ethics Business Law Business Statistics I Business Statistic II Cost & Management Accounting Fundamentals of Financial Management International Business Management Introduction to Financial Accounting Management Information System Macroeconomics Microeconomics Organisational Behaviour Principles of Management Principles of Marketing Strategic Management Academic English Industrial Training 3 months (6 credits)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of 5 credits AND credit in Mathematics and a pass in English at UEC level.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 and a minimum of Grade C (SGP 2.0) in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 65.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Hons) (Mass Communication)",
+      "field_of_study": "Mass Communication",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.00 with at least a full pass in any 2 subjects.  Credit in English in SPM",
+        "UEC": "Grade B in 5 subjects including English.  Credit in English in SPM",
+        "Diploma": "CGPA 2.00.  Credit in English in SPM",
+        "STPM": "Pass with a minimum of Grade C (GPA 2.00) in any two subjects.  Credit in English in SPM",
+        "Foundation": "CGPA 2.00.  Credit in English in SPM",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Credit in English in SPM"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2600,
+        "tuition_fee": 33000
+      },
+      "course_content": {
+        "core": "Introduction to Journalism\nCommunication and Cultural Studies\nIntroduction to Advertising\nFundamental of Mass Communication\nCommunication Laws in Malaysia\nInternational Communication\nMedia Management\nMedia Economics\nLeadership Communication\nOnline Publication\nPrinciples of Public Relations\nReporting and Writing for the Media\nTV Studies\nResearch Methods in Communication\nMass Communication Theories\nIntroduction to Photography\nMedia, Culture and Communication Theory\nFilm Studies\nCrisis Management\nVisual Culture and Communication\nMedia Ethics\nSeminar on Media Issues\nDissertation (Part I)\nDissertation (Part II)\nIntroduction to Media Literacy\nCommunication and Campaign\nOrganization Communication\nTV Production\nDigital Storytelling\nProduction Introduction to Journalism Communication and Cultural Studies Introduction to Advertising Fundamental of Mass Communication Communication Laws in Malaysia International Communication Media Management Media Economics Leadership Communication Online Publication Principles of Public Relations Reporting and Writing for the Media TV Studies Research Methods in Communication Mass Communication Theories Introduction to Photography Media, Culture and Communication Theory Film Studies Crisis Management Visual Culture and Communication Media Ethics Seminar on Media Issues Dissertation (Part I) Dissertation (Part II) Introduction to Media Literacy Communication and Campaign Organization Communication TV Production Digital Storytelling Production Industrial Training Media  Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00 with at least a full pass in any 2 subjects.  Credit in English in SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including English.  Credit in English in SPM"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Credit in English in SPM"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "gpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of Grade C (GPA 2.00) in any two subjects.  Credit in English in SPM"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Credit in English in SPM"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Credit in English in SPM"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Property Management (Honours)",
+      "field_of_study": "Project Management",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.00 and at least a full pass in any 3 subjects.",
+        "UEC": "5 credits.",
+        "Diploma": "CGPA 2.00.",
+        "STPM": "CGPA 2.00 and a minimum of Grade C (SGP 2.00) in any 3 subjects.",
+        "Foundation": "CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2700,
+        "tuition_fee": 36900
+      },
+      "course_content": {
+        "core": "Common Core Business Communication\nBusiness Statistics I\nBusiness Statistic II\nIntroduction to Financial Accounting\nMacroeconomics\nMicroeconomics\nManagement Information System\nAcademic English Business Communication Business Statistics I Business Statistic II Introduction to Financial Accounting Macroeconomics Microeconomics Management Information System Academic English Industrial Training 3 months (6 credits)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00 and at least a full pass in any 3 subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "credit",
+            "subjects": [
+              "subjects"
+            ],
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 credits."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00 and a minimum of Grade C (SGP 2.00) in any 3 subjects."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Psychology (Honours)",
+      "field_of_study": "Psychology",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.0 and a full pass in any two (2) subjects.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent",
+        "UEC": "Five (5) credits in any subject.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent",
+        "Diploma": "CGPA 2.00.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent",
+        "STPM": "CGPA 2.0 and a minimum of Grade C (GP 2.0) in any two (2) subjects.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent",
+        "Foundation": "CGPA 2.00.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2600,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "Compulsory Subjects Introduction to Psychology\nSocial Psychology\nBasic Statistics\nExperimental Psychology\nPersonality Psychology\nPhysiological Psychology\nResearch Methodology\nAcademic Writing\nCognitive Psychology Introduction to Psychology Social Psychology Basic Statistics Experimental Psychology Personality Psychology Physiological Psychology Research Methodology Academic Writing Cognitive Psychology Core Subjec ts Psychological Theories of Learning\nEducational Psychology\nPsychology of Child and Adolescent\nCounseling Psychology\nPositive Psychology\nLearning Disabilities\nOrganizational Psychology\nCross-Cultural  Psychology\nEthics in Psychology Psychological Theories of Learning Educational Psychology Psychology of Child and Adolescent Counseling Psychology Positive Psychology Learning Disabilities Organizational Psychology Cross-Cultural  Psychology Ethics in Psychology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 and a full pass in any two (2) subjects.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Five (5) credits in any subject.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 and a minimum of Grade C (GP 2.0) in any two (2) subjects.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Credit in Mathematics and Science and a pass in English at SPM level, or its equivalent"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor Of Software Engineering (Honours)",
+      "field_of_study": "Software Engineering",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Grade C (CGPA 2.00) in any 2 subjects.  Credit in Additional Mathematics at SPM, or a credit in Mathematics and one S&T/Engineering subject at SPM",
+        "UEC": "Grade B in 5 subjects including Advanced Mathematics.  Credit in Additional Mathematics at SPM, or a credit in Mathematics and one S&T/Engineering subject at SPM",
+        "Diploma": "Diploma in DKM/DVM/DKLM: Pass with minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval.  Diploma in Computing/S&T: Minimum CGPA of 2.75\nDiploma in Computing/S&T with CGPA 2.00- 2.74: May be admitted subject to a thorough internal evaluation process",
+        "STPM": "Grade C (CGPA 2.00) in any 2 subjects; STPM (Science Stream): Pass with minimum CGPA 2.00 in Mathematics and one S&T/Engineering subject.  Credit in Additional Mathematics at SPM, or a credit in Mathematics and one S&T/Engineering subject at SPM",
+        "Foundation": "CGPA 2.00.  Credit in Additional Mathematics at SPM, or a credit in Mathematics and one S&T/Engineering subject at SPM"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2390,
+        "tuition_fee": 33210
+      },
+      "course_content": {
+        "core": "Java Programming I\nJava Programming II\nDiscrete Mathematics\nQuantitative Methods\nIntroduction to Information Technology\nData Structure and Algorithm\nDatabase Systems\nIntroduction to Networks and Communication Systems\nOperating System\nSocial and Professional Issues\nInformation Security and Assurance\nSoftware Engineering\nComputer Organization and Architecture\nHuman Computer Interaction\nObject-Oriented Programming\nSoftware Testing\nSoftware Design\nSoftware Evolution and Maintenance\nSoftware Process Java Programming I Java Programming II Discrete Mathematics Quantitative Methods Introduction to Information Technology Data Structure and Algorithm Database Systems Introduction to Networks and Communication Systems Operating System Social and Professional Issues Information Security and Assurance Software Engineering Computer Organization and Architecture Human Computer Interaction Object-Oriented Programming Software Testing Software Design Software Evolution and Maintenance Software Process Final Year Project Final Year Project I\nFinal Year Project II Final Year Project I Final Year Project II Industrial Training Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "S&T/Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (CGPA 2.00) in any 2 subjects.  Credit in Additional Mathematics at SPM, or a credit in Mathematics and one S&T/Engineering subject at SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Advanced Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "S&T/Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including Advanced Mathematics.  Credit in Additional Mathematics at SPM, or a credit in Mathematics and one S&T/Engineering subject at SPM"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in DKM/DVM/DKLM: Pass with minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval.  Diploma in Computing/S&T: Minimum CGPA of 2.75\nDiploma in Computing/S&T with CGPA 2.00- 2.74: May be admitted subject to a thorough internal evaluation process"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "S&T/Engineering"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "S&T/Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (CGPA 2.00) in any 2 subjects; STPM (Science Stream): Pass with minimum CGPA 2.00 in Mathematics and one S&T/Engineering subject.  Credit in Additional Mathematics at SPM, or a credit in Mathematics and one S&T/Engineering subject at SPM"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "S&T/Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  Credit in Additional Mathematics at SPM, or a credit in Mathematics and one S&T/Engineering subject at SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) English Language Teaching",
+      "field_of_study": "Teaching",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.00 with at least a full pass in any two (2) subjects.  A credit in English in SPM",
+        "UEC": "Grade B in 5 subjects including English.  A credit in English in SPM",
+        "Diploma": "CGPA 2.00.  A credit in English in SPM",
+        "STPM": "2 principal passes with a minimum of CGPA 2.0.  A credit in English in SPM",
+        "Foundation": "CGPA 2.00.  A credit in English in SPM",
+        "SACE/WACE": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  A credit in English in SPM"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2050,
+        "tuition_fee": 33550
+      },
+      "course_content": {
+        "core": "Academic Writing\nCurriculum and Syllabus Design\nCreative Writing\nDiscourse Analysis\nEducational Psychology\nIntroduction to Linguistics\nIntroduction to Literature\nTechnology in Education\nLiterature in English\nSociolinguistics\nTheatre & Drama in TESL\nTeaching of Grammar\nTESL Methodology \nTeaching of Listening & Speaking\nLanguage Testing and Assessment\nUnderstanding Exceptionalities in Learning\nPhilosophy of Education\nPsycholinguistics\nPhonetics & Phonology\nResearch Project\nResearch Methodology\nSemantics\nTeaching of Reading\nTeaching of Literature\nTeaching of Writing\nMorphology and Syntax Academic Writing Curriculum and Syllabus Design Creative Writing Discourse Analysis Educational Psychology Introduction to Linguistics Introduction to Literature Technology in Education Literature in English Sociolinguistics Theatre & Drama in TESL Teaching of Grammar TESL Methodology Teaching of Listening & Speaking Language Testing and Assessment Understanding Exceptionalities in Learning Philosophy of Education Psycholinguistics Phonetics & Phonology Research Project Research Methodology Semantics Teaching of Reading Teaching of Literature Teaching of Writing Morphology and Syntax Industrial Training Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00 with at least a full pass in any two (2) subjects.  A credit in English in SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including English.  A credit in English in SPM"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  A credit in English in SPM"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 principal passes with a minimum of CGPA 2.0.  A credit in English in SPM"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00.  A credit in English in SPM"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  A credit in English in SPM"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Tourism Management",
+      "field_of_study": "Tourism Management",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English.",
+        "UEC": "5 credits.",
+        "Diploma": "CGPA 2.00.",
+        "STPM": "CGPA 2.0 and a minimum of Grade C (SGP 2.0) in any two subjects.",
+        "Foundation": "CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 3300,
+        "tuition_fee": 36300
+      },
+      "course_content": {
+        "core": "Business Communication\nBusiness Research Methods\nBusiness Statistics I\nBusiness Statistic II\nCost & Management Accounting\nInformation Technology & Business Application\nInternational Business Management\nIntroduction to Financial Accounting\nIntroduction to Psychology\nMacroeconomics\nMicroeconomics\nOrganisational Behaviour\nPrinciples of Management\nPrinciples of Marketing\nStrategic Management\nAcademic English\nIndustrial Training\n4 months (8 credits) Business Communication\nBusiness Research Methods\nBusiness Statistics I\nBusiness Statistic II\nCost & Management Accounting\nInformation Technology & Business Application\nInternational Business Management\nIntroduction to Financial Accounting\nIntroduction to Psychology\nMacroeconomics\nMicroeconomics\nOrganisational Behaviour\nPrinciples of Management\nPrinciples of Marketing\nStrategic Management\nAcademic English Business Communication Business Research Methods Business Statistics I Business Statistic II Cost & Management Accounting Information Technology & Business Application International Business Management Introduction to Financial Accounting Introduction to Psychology Macroeconomics Microeconomics Organisational Behaviour Principles of Management Principles of Marketing Strategic Management Academic English Industrial Training 4 months (8 credits)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 with at least a full pass in any two subjects including Mathematics and a pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 credits."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0 and a minimum of Grade C (SGP 2.0) in any two subjects."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Traditional Chinese Medicine (Hons)",
+      "field_of_study": "Traditional Chinese Medicine",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 5,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "With a minimum of CGPA 2.50 and at least a Grade C in any 2 Science and Mathematics subjects (Science stream).",
+        "UEC": "5 credits including 2 Science and Mathematics subjects (Science stream).",
+        "Diploma": "Diploma in Traditional Chinese Medicine or any Science related Diploma with CGPA 2.50 OR Pass Diploma in Traditional Chinese Medicine or any Science related Diploma with CGPA 2.00 to 2.49 and a minimum of 2 years working experiences in relevant field (Science stream).",
+        "STPM": "With a minimum of CGPA 2.50 and above (Science stream); CGPA 2.50 and above and credits in any 2 Science subjects and Mathematics at SPM level (Non Science stream).",
+        "Foundation": "Foundation in Traditional Chinese Medicine or Foundation in Science with CGPA 2.50 (Science stream); Foundation in other fields with a minimum of CGPA 2.50 and above including credits in any 2 Science subjects and Mathematics at SPM level (Non Science stream).",
+        "SACE/WACE": "ATAR is >65 OR Degree holder with accreditation in any field OR Other equivalent qualifications recognized by the Malaysian Government (Science stream); ATAR is >65 AND Credit in any 2 Science subjects and Mathematics at SPM (Non Science stream)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 7860,
+        "tuition_fee": 66740
+      },
+      "course_content": {
+        "core": "Discipline Core History of TCM Basic Theory of TCM Diagnostics of TCM CM Materia Medica Prescription of CM Internal Medicine of TCM I Internal Medicine of TCM II External Medicine of TCM Gynaecology of Traditional Chinese Medicine Paediatrics of Traditional Chinese Medicine Basic of Modern Diagnostics Basic of Radiology and Instrumental Diagnostics Western Internal Medicine Ancient Medical Chinese Literature Traditional Chinese Medicine Culture Yellow Emperor's Classic Treatise on Febrile Disease caused by Cold (Shang Han Lun) Synopsis of Prescription of Golden Chamber (Jin Kui Yao Lue) Exogenous Febrile Diseases (Wen Bing Xue) Philosophy of TCM Therapeutics of Acupuncture and Moxibustion Introduction to Chinese Tuina Introduction to T&CM Physical Education (Taiji) Basic Medical Science Human Anatomy Physiology Pathology Pharmacology Biochemistry Microbiology and Immunology Medical Psychology First Aid and Emergency Conditions Scientific Method Research Methodology and Biostatistics Research Project Critical Thinking Skill Humanities Medical Ethics and Professionalism Entrepreneurship Principles of Management Communication Skills Clinical Training (1 year of internship in both Malaysia and China) Clinical Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "With a minimum of CGPA 2.50 and at least a Grade C in any 2 Science and Mathematics subjects (Science stream)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits including 2 Science and Mathematics subjects (Science stream)."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Traditional Chinese Medicine or any Science related Diploma with CGPA 2.50"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<=",
+            "value": 2.49
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "OR Pass Diploma in Traditional Chinese Medicine or any Science related Diploma with CGPA 2.00 to 2.49 and a minimum of 2 years working experiences in relevant field (Science stream)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "With a minimum of CGPA 2.50 and above (Science stream)"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.50 and above and credits in any 2 Science subjects and Mathematics at SPM level (Non Science stream)."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Foundation in Traditional Chinese Medicine or Foundation in Science with CGPA 2.50 (Science stream)"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Foundation in other fields with a minimum of CGPA 2.50 and above including credits in any 2 Science subjects and Mathematics at SPM level (Non Science stream)."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR is >65"
+          },
+          {
+            "type": "raw",
+            "text": "OR Degree holder with accreditation in any field"
+          },
+          {
+            "type": "raw",
+            "text": "OR Other equivalent qualifications recognized by the Malaysian Government (Science stream)"
+          },
+          {
+            "type": "raw",
+            "text": "ATAR is >65 AND Credit in any 2 Science subjects and Mathematics at SPM (Non Science stream)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Accountancy",
+      "field_of_study": "Accounting",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 credits including Mathematics & a pass in English.",
+        "O-Level": "3 credits including Mathematics & a pass in English.",
+        "UEC": "3 credits including Mathematics & a pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1680,
+        "tuition_fee": 23920
+      },
+      "course_content": {
+        "core": "Business Communication\nBusiness Law\nComputer Applications\nFundamentals of Marketing\nFundamentals of Management\nMacroeconomics\nMicroeconomics\nQuantitative Methods\nStatistics\nCommunicative English Business Communication Business Law Computer Applications Fundamentals of Marketing Fundamentals of Management Macroeconomics Microeconomics Quantitative Methods Statistics Communicative English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Mathematics & a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Mathematics & a pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Mathematics & a pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 credits.",
+        "O-Level": "3 credits.",
+        "UEC": "3 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1680,
+        "tuition_fee": 23920
+      },
+      "course_content": {
+        "core": "Common Core Module Business Communication\nBusiness Finance\nBusiness Law\nBusiness Research Methods\nComputer Applications\nE-Commerce\nEntrepreneurship\nFinancial Accounting I\nFinancial Accounting II\nFundamentals of Management\nFundamentals of Marketing\nInformation Technology\nMicroeconomics\nMacroeconomics\nManagement and Cost Accounting\nQuantitative Methods\nStatistics\nCommunicative English Business Communication Business Finance Business Law Business Research Methods Computer Applications E-Commerce Entrepreneurship Financial Accounting I Financial Accounting II Fundamentals of Management Fundamentals of Marketing Information Technology Microeconomics Macroeconomics Management and Cost Accounting Quantitative Methods Statistics Communicative English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Chinese Studies",
+      "field_of_study": "Chinese Studies",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 credits including Chinese.",
+        "O-Level": "3 credits including Chinese.",
+        "UEC": "3 credits including Chinese."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1200,
+        "tuition_fee": 23400
+      },
+      "course_content": {
+        "core": "Compulsory Courses Introduction to Ancient Texts\nChinese Philology \nChinese Phonology \nCritical Interpretation of Ancient Texts \nClassical Chinese \nHistory of Chinese Literature I \nHistory of Chinese Literature II \nReadings in Pre-Qin and Han Literature \nReadings in Wei-Jin-Nan-Bei-Chao Literature \nReadings in Tang and Song Literature \nMing and Qing Novels \nIntroduction to Literature \nModern Chinese \nModern Chinese Literature \nContemporary Chinese Literature \nChinese Literature in Malaysia \nSurvey of Chinese History I \nSurvey of Chinese History II \nHistory of Malaysian Chinese \nThe Analects of Confucius \nHistory of Chinese Philosophy \nChinese Calligraphy \nChinese Teaching Method Introduction to Ancient Texts Chinese Philology Chinese Phonology Critical Interpretation of Ancient Texts Classical Chinese History of Chinese Literature I History of Chinese Literature II Readings in Pre-Qin and Han Literature Readings in Wei-Jin-Nan-Bei-Chao Literature Readings in Tang and Song Literature Ming and Qing Novels Introduction to Literature Modern Chinese Modern Chinese Literature Contemporary Chinese Literature Chinese Literature in Malaysia Survey of Chinese History I Survey of Chinese History II History of Malaysian Chinese The Analects of Confucius History of Chinese Philosophy Chinese Calligraphy Chinese Teaching Method",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Chinese."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Chinese."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Chinese."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science",
+      "field_of_study": "Computer Science",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits including Mathematics.  Credit in Mathematics at SPM",
+        "O-Level": "3 credits including Mathematics.  Credit in Mathematics at SPM",
+        "A-Level": "Pass with minimum grade C (CGPA 2.00).  Credit in Mathematics at SPM",
+        "UEC": "Grade B in 3 subjects including Mathematics.  Credit in Mathematics at SPM",
+        "STPM": "Pass with minimum grade C (CGPA 2.00).  Credit in Mathematics at SPM"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1680,
+        "tuition_fee": 23920
+      },
+      "course_content": {
+        "core": "Compulsory 必修 Introduction to Programming 程式设计简介\nDiscrete Mathematics离散数学\nSystem Analysis and Design 系统分析与设计\nDatabase System Design资料库系统设计\nComputer Organization and Architecture电脑组织与架构\nOperating System 作业系统\nNetworking and Distributed System网络与分散式系统\nProject 专题 Introduction to Programming 程式设计简介 Discrete Mathematics离散数学 System Analysis and Design 系统分析与设计 Database System Design资料库系统设计 Computer Organization and Architecture电脑组织与架构 Operating System 作业系统 Networking and Distributed System网络与分散式系统 Project 专题 Major Core 专科主修 Computer System 电脑系统\nMathematics for Computing 电脑数学\nCalculus 微积分\nJava Programming JAVA程式设计\nAdvanced Java Programming高级JAVA程式设计\nData Structure and Algorithm 资料结构与演算法\nHuman Computer Interaction 人机互动\nVisual Basic.Net VISUAL BASIC.NET程式设计\nInternet Application 互联网络应用\nWeb-based Systems 网页系统 Computer System 电脑系统 Mathematics for Computing 电脑数学 Calculus 微积分 Java Programming JAVA程式设计 Advanced Java Programming高级JAVA程式设计 Data Structure and Algorithm 资料结构与演算法 Human Computer Interaction 人机互动 Visual Basic.Net VISUAL BASIC.NET程式设计 Internet Application 互联网络应用 Web-based Systems 网页系统",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Mathematics.  Credit in Mathematics at SPM"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Mathematics.  Credit in Mathematics at SPM"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum grade C (CGPA 2.00).  Credit in Mathematics at SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 subjects including Mathematics.  Credit in Mathematics at SPM"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum grade C (CGPA 2.00).  Credit in Mathematics at SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Visual Art",
+      "field_of_study": "Creative Arts",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "STPM": "Grade C (GP2.00) in any subject.  Pass an interview OR submission of portfolio determined by the HEP as required"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1760,
+        "tuition_fee": 24840
+      },
+      "course_content": {
+        "core": "Common Core 共同主科 Colour Study 色彩学\nComputer Graphic Study 电脑绘图学\nDesign Fundamental 设计基础\nDrawing Fundamental 绘画基础\nHistory of Art & Design 艺术与设计史\nIntroduction of Photography 摄影入门\nProfessional Practice 专业实践\nIndustrial Training 工业实习 Colour Study 色彩学 Computer Graphic Study 电脑绘图学 Design Fundamental 设计基础 Drawing Fundamental 绘画基础 History of Art & Design 艺术与设计史 Introduction of Photography 摄影入门 Professional Practice 专业实践 Industrial Training 工业实习 Discipline Core 专业主科 Studio Drawing: colour 素描: 色彩\nStudio Drawing: Techniques 素描: 技巧\nHistory of Art Appreciation 艺术史\nFine Art Photography 纯美术摄影\nAesthetics Appreciation 美学鉴赏\nAesthetics Criticism 美学评论\nOil Painting 油画\nChinese Ink Painting 水墨画\nWater Color Painting 水彩画\nMix Media Painting 混合媒介绘画\nPrintmaking: Media 版画与印刷设计：媒介\nPrintmaking: Techniques 版画与印刷设计：技巧\nSculpture: 3D 雕塑：3D\nSculpture: Metal 雕塑：金属\nInstallation Art 装置艺术\nDiploma Project 毕业专案 Studio Drawing: colour 素描: 色彩 Studio Drawing: Techniques 素描: 技巧 History of Art Appreciation 艺术史 Fine Art Photography 纯美术摄影 Aesthetics Appreciation 美学鉴赏 Aesthetics Criticism 美学评论 Oil Painting 油画 Chinese Ink Painting 水墨画 Water Color Painting 水彩画 Mix Media Painting 混合媒介绘画 Printmaking: Media 版画与印刷设计：媒介 Printmaking: Techniques 版画与印刷设计：技巧 Sculpture: 3D 雕塑：3D Sculpture: Metal 雕塑：金属 Installation Art 装置艺术 Diploma Project 毕业专案",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (GP2.00) in any subject.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education",
+      "field_of_study": "Early Childhood Education",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Three (3) credits in any subject.",
+        "O-Level": "Three (3) credits in any subject.",
+        "UEC": "Three (3) credits in any subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1650,
+        "tuition_fee": 22950
+      },
+      "course_content": {
+        "core": "Core Subjects Child Growth and Development\nSocial Studies in Early Childhood Education\nCurriculum in Early Childhood Education Malaysia\nEarly-Childhood Care and Education in Malaysia\nTheory and Practice in Early-Childhood Education\nLanguage and Literacy\nSciences and Mathematics for Young Children\nCreative Activities for Young Children\nCurriculum Design for Childhood Education\nAssessment for Childhood Education\nSafety, Health and Nutrition for Young Children\nGuidance of Young Children\nYoung Children With Special Needs\nComputer in Early-Childhood Education\nAdministration of Early-Childhood Programs\nPhysical Activities for Young Children\nBasic Research in Early-Childhood Education Child Growth and Development Social Studies in Early Childhood Education Curriculum in Early Childhood Education Malaysia Early-Childhood Care and Education in Malaysia Theory and Practice in Early-Childhood Education Language and Literacy Sciences and Mathematics for Young Children Creative Activities for Young Children Curriculum Design for Childhood Education Assessment for Childhood Education Safety, Health and Nutrition for Young Children Guidance of Young Children Young Children With Special Needs Computer in Early-Childhood Education Administration of Early-Childhood Programs Physical Activities for Young Children Basic Research in Early-Childhood Education",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Electrical & Electronic Engineering",
+      "field_of_study": "Electrical & Electronic Engineering",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits including Mathematics and General Science/ Physics / Chemistry / Engineering related subject.",
+        "O-Level": "3 credits including Mathematics and General Science/ Physics / Chemistry / Engineering related subject.",
+        "UEC": "3 credits including Mathematics and General Science/ Physics / Chemistry / Engineering related subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1750,
+        "tuition_fee": 25850
+      },
+      "course_content": {
+        "core": "Core Modules C++ Programming\nTechnical Mathematics\nCalculus I\nCalculus II\nEngineer and Society C++ Programming Technical Mathematics Calculus I Calculus II Engineer and Society Discipline Core Digital Techniques I\nDigital Techniques II\nMicroprocessors\nPhysics I\nPhysics II\nElectric Circuits I\nElectric Circuits II\nElectronics I\nElectronics II\nProject & Practice I\nProject & Practice II\nPower Electronics and Electric Machines Digital Techniques I Digital Techniques II Microprocessors Physics I Physics II Electric Circuits I Electric Circuits II Electronics I Electronics II Project & Practice I Project & Practice II Power Electronics and Electric Machines Industrial Tra ining Industrial  Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "General Science",
+              "Physics",
+              "Chemistry",
+              "Engineering related subject"
+            ]
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "General Science",
+              "Physics",
+              "Chemistry",
+              "Engineering related subject"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "General Science",
+              "Physics",
+              "Chemistry",
+              "Engineering related subject"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma In English Language",
+      "field_of_study": "English",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Any 3 credits including English.",
+        "O-Level": "Any 3 credits including English.",
+        "UEC": "Any 3 credits including English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1325,
+        "tuition_fee": 23275
+      },
+      "course_content": {
+        "core": "Core Subjects English Proficiency 1\nEnglish Proficiency 2\nGrammar for ESL\nEssentials of Human Communication\nWriting Skills\nLanguage Learning Strategies\nListening, Speaking & Critical Thinking Skills\nHistory of English Language\nIntroduction to Linguistics\nEnglish for Business Communication\nMorphology and Syntax\nMedia Translation\nPhonetics & Phonology\nReading Skills\nAcademic Writing\nModern English Literature\nSemiotics\nCreative Writing\nAdvanced Grammar\nFinal Year Project\nIntroduction to Literature\nTranslation: Theory and Practice\nSemantics\nPublic Speaking English Proficiency 1 English Proficiency 2 Grammar for ESL Essentials of Human Communication Writing Skills Language Learning Strategies Listening, Speaking & Critical Thinking Skills History of English Language Introduction to Linguistics English for Business Communication Morphology and Syntax Media Translation Phonetics & Phonology Reading Skills Academic Writing Modern English Literature Semiotics Creative Writing Advanced Grammar Final Year Project Introduction to Literature Translation: Theory and Practice Semantics Public Speaking",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Any 3 credits including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Any 3 credits including English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Any 3 credits including English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Financial Analysis",
+      "field_of_study": "Finance",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 credits including Mathematics and a pass in English.",
+        "O-Level": "3 credits including Mathematics and a pass in English.",
+        "UEC": "3 credits including Mathematics and a pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1680,
+        "tuition_fee": 23920
+      },
+      "course_content": {
+        "core": "Compulsory 必修 Business Communication 商务沟通\nBusiness Finance 商业金融\nBusiness Law 商务法\nComputer Applications 电脑应用\nCorporate Finance 企业融资\nFinancial Accounting I 财务会计 I\nFinancial Accounting II 财务会计 II\nFundamentals of Management 管理基础\nFundamentals of Marketing 营销基础\nInformation Technology 信息技术\nMacroeconomics 宏观经济学\nManagement and Cost Accounting 管理和成本会计\nMicroeconomics 微观经济学\nPrinciples of Investment 投资原则\nQuantitative Methods 定量方法\nStatistics 统计数据\nCommunicative English 交际英语 Business Communication 商务沟通 Business Finance 商业金融 Business Law 商务法 Computer Applications 电脑应用 Corporate Finance 企业融资 Financial Accounting I 财务会计 I Financial Accounting II 财务会计 II Fundamentals of Management 管理基础 Fundamentals of Marketing 营销基础 Information Technology 信息技术 Macroeconomics 宏观经济学 Management and Cost Accounting 管理和成本会计 Microeconomics 微观经济学 Principles of Investment 投资原则 Quantitative Methods 定量方法 Statistics 统计数据 Communicative English 交际英语 Core 主修 Business Ethics for Investment Profession 投资专业的商业道德\nDerivatives 衍生性金融产品\nEquity Investment Analysis 股权投资分析\nFinancial Statement Analysis I 财务报分析 I\nFinancial Statement Analysis II 财务报表分析 II\nFixed Income Investment Analysis 固定收益投资分析\nInternational Finance 国际金融\nPersonal Finance 个人财务 Business Ethics for Investment Profession 投资专业的商业道德 Derivatives 衍生性金融产品 Equity Investment Analysis 股权投资分析 Financial Statement Analysis I 财务报分析 I Financial Statement Analysis II 财务报表分析 II Fixed Income Investment Analysis 固定收益投资分析 International Finance 国际金融 Personal Finance 个人财务",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Mathematics and a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Mathematics and a pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Mathematics and a pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Industrial Design",
+      "field_of_study": "Industrial Design",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "O-Level": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "UEC": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2050,
+        "tuition_fee": 27550
+      },
+      "course_content": {
+        "core": "Common Core Design Fundamental\nDrawing Fundamental\nColor Study\nComputer Graphics Study\nHistory of Art & Design\nIntroduction of Photography\nProfessional Practice Design Fundamental Drawing Fundamental Color Study Computer Graphics Study History of Art & Design Introduction of Photography Professional Practice Program Core Technical Drawing\nPresentation Technique\nMaterials & Processes\nProducts & Models Photography\nCAD Studies\nComputer 3D Modeling\nErgonomics\nPackaging Design\nIntroduction of Consumer Behavior\nRendering Technique\nWorkshop Practice I\nWorkshop Practice II\nIndustrial Design I\nIndustrial Design II\nIndustrial Design III\nIndustrial Design IV\nIndustrial Design V Technical Drawing Presentation Technique Materials & Processes Products & Models Photography CAD Studies Computer 3D Modeling Ergonomics Packaging Design Introduction of Consumer Behavior Rendering Technique Workshop Practice I Workshop Practice II Industrial Design I Industrial Design II Industrial Design III Industrial Design IV Industrial Design V Industrial Training Industrial  Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits including Mathematics.  Credit in Mathematics at SPM",
+        "O-Level": "3 credits including Mathematics.  Credit in Mathematics at SPM",
+        "A-Level": "Grade C (CGPA 2.00).  Credit in Mathematics at SPM",
+        "UEC": "Grade B in 3 subjects including Mathematics.  Credit in Mathematics at SPM",
+        "STPM": "Grade C (CGPA 2.00).  Credit in Mathematics at SPM"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1680,
+        "tuition_fee": 23920
+      },
+      "course_content": {
+        "core": "Core Modules Fundamentals of Software Design and Development\nSystem Analysis and Design\nDatabase System Design\nNetworking and Distributed System\nComputer Organization and Architecture\nOperating System\nSystem Security and Control\nProject I\nProject II Fundamentals of Software Design and Development System Analysis and Design Database System Design Networking and Distributed System Computer Organization and Architecture Operating System System Security and Control Project I Project II University College Core Modules Communicative English Concentration Modules Business Information System\nMathematics for Computing\nCalculus and Algebra\nStatistics and Probability\nInternet Application\nIntroduction to Multimedia\nSoftware Development\nObject-oriented Programming\nData Structure and Algorithm\nProject Management\nWeb-based Systems Business Information System Mathematics for Computing Calculus and Algebra Statistics and Probability Internet Application Introduction to Multimedia Software Development Object-oriented Programming Data Structure and Algorithm Project Management Web-based Systems Industrial Training Industrial   Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Mathematics.  Credit in Mathematics at SPM"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Mathematics.  Credit in Mathematics at SPM"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (CGPA 2.00).  Credit in Mathematics at SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 subjects including Mathematics.  Credit in Mathematics at SPM"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (CGPA 2.00).  Credit in Mathematics at SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in International Business",
+      "field_of_study": "International Business",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 credits.",
+        "O-Level": "3 credits.",
+        "UEC": "3 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1680,
+        "tuition_fee": 23920
+      },
+      "course_content": {
+        "core": "Compulsory 必修 Business Communication 商务沟通\nBusiness Law 商务法\nComputer Applications 电脑应用\nEntrepreneurship 创业学\nE-Commerce 电子商务\nFinancial Accounting I 财务会计 I\nFundamentals of Management 管理基础\nFundamentals of Marketing 营销基础\nHuman Resource Management 人力资源管理\nInformation Technology 信息技术\nMicroeconomics 微观经济学\nMacroeconomics 宏观经济学\nOrganizational Behaviour 组织行为学\nStatistics 统计数据\nCommunicative English 交际英语 Business Communication 商务沟通 Business Law 商务法 Computer Applications 电脑应用 Entrepreneurship 创业学 E-Commerce 电子商务 Financial Accounting I 财务会计 I Fundamentals of Management 管理基础 Fundamentals of Marketing 营销基础 Human Resource Management 人力资源管理 Information Technology 信息技术 Microeconomics 微观经济学 Macroeconomics 宏观经济学 Organizational Behaviour 组织行为学 Statistics 统计数据 Communicative English 交际英语 Core 主修 Cross Cultural Management 跨文化管理\nExport Management for Small Business 小型企业出口管理\nInternational Business 国际商务\nInternational Economics 国际经济学\nInternational Finance 国际金融\nIntroduction to Logistics Operations 物流运营简介\nInternational Marketing 国际营销\nInternational Relations 国际关系\nInternational Trade & Policy 国际贸易与政策 Cross Cultural Management 跨文化管理 Export Management for Small Business 小型企业出口管理 International Business 国际商务 International Economics 国际经济学 International Finance 国际金融 Introduction to Logistics Operations 物流运营简介 International Marketing 国际营销 International Relations 国际关系 International Trade & Policy 国际贸易与政策",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Journalism",
+      "field_of_study": "Journalism",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Any 3 credits including English.",
+        "O-Level": "Any 3 credits including English.",
+        "UEC": "Any 3 credits including English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1400,
+        "tuition_fee": 25200
+      },
+      "course_content": {
+        "core": "Compulsory Cour ses Introduction to Mass C immunization\nJournalistic English\nDesktop Publishing\nMedia, Culture and Communication\nCommunication Theories\nMedia Laws in Malaysia\nWebpage Publishing\nCommunication Research Methodology\nJournalistic Translation\nMedia Management\nProfessional Ethics & Media Monitoring\nSeminar on Media Issues\nIntroduction to Journalism\nPhotojournalism\nFeature Writing\nOrganizational Communication\nNewspaper Production\nMagazine Production\nIntroduction to Public Relations\nPrinciples of Advertising\nBroadcast Journalism\nNews Writing\nIntroduction to Political Science Introduction to Mass C immunization Journalistic English Desktop Publishing Media, Culture and Communication Communication Theories Media Laws in Malaysia Webpage Publishing Communication Research Methodology Journalistic Translation Media Management Professional Ethics & Media Monitoring Seminar on Media Issues Introduction to Journalism Photojournalism Feature Writing Organizational Communication Newspaper Production Magazine Production Introduction to Public Relations Principles of Advertising Broadcast Journalism News Writing Introduction to Political Science Industrial Training Media  Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Any 3 credits including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Any 3 credits including English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Any 3 credits including English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Logistics Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits.",
+        "O-Level": "3 credits.",
+        "UEC": "3 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1680,
+        "tuition_fee": 23920
+      },
+      "course_content": {
+        "core": "Common Core Module Business Communication\nBusiness Law\nComputer Applications\nE-Commerce\nFinancial Accounting I\nFinancial Accounting II\nundamentals of Management\nFundamentals of Marketing\nInformation Technology\nMacroeconomics\nMicroeconomics\nQuantitative Methods\nStatistics\nCommunicative English Business Communication Business Law Computer Applications E-Commerce Financial Accounting I Financial Accounting II undamentals of Management Fundamentals of Marketing Information Technology Macroeconomics Microeconomics Quantitative Methods Statistics Communicative English Industrial Training 3 months ( 3 credits )",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Marketing",
+      "field_of_study": "Marketing",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 credits.",
+        "O-Level": "3 credits.",
+        "UEC": "3 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1680,
+        "tuition_fee": 23920
+      },
+      "course_content": {
+        "core": "Common Core Module Business Communication\nBusiness Finance\nBusiness Law\nBusiness Research Methods\nComputer Applications\nE-Commerce\nEntrepreneurship\nFinancial Accounting I\nFinancial Accounting II\nFundamentals of Management\nInformation Technology\nManagement and Cost Accounting\nMacroeconomics\nMicroeconomics\nOrganisational Behaviour\nQuantitative Methods\nStatistics\nCommunicative English Business Communication Business Finance Business Law Business Research Methods Computer Applications E-Commerce Entrepreneurship Financial Accounting I Financial Accounting II Fundamentals of Management Information Technology Management and Cost Accounting Macroeconomics Microeconomics Organisational Behaviour Quantitative Methods Statistics Communicative English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Advertising Design",
+      "field_of_study": "Multimedia Design",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "O-Level": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "UEC": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2460,
+        "tuition_fee": 27140
+      },
+      "course_content": {
+        "core": "Common Core Design Fundamental\nDrawing Fundamental\nColor Study\nComputer Graphics Study\nHistory of Art & Design\nIntroduction of Photography\nProfessional Practice Design Fundamental Drawing Fundamental Color Study Computer Graphics Study History of Art & Design Introduction of Photography Professional Practice Program Core Studio Drawing I\nIllustration\nTypography I\nTypography II\nDigital Graphic Design\nDigital Image Processing\nCreative Thinking & Design Method\nDigital Animation\nWeb Design I\nDesktop Publishing I\nAdvertising Principle & Creativity\nVisual Production\nPackaging Design\nCorporate Identity System\nProducts & Models Photography\nFinal Project Studio Drawing I Illustration Typography I Typography II Digital Graphic Design Digital Image Processing Creative Thinking & Design Method Digital Animation Web Design I Desktop Publishing I Advertising Principle & Creativity Visual Production Packaging Design Corporate Identity System Products & Models Photography Final Project Industrial Training Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Multimedia Design",
+      "field_of_study": "Multimedia Design",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "O-Level": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required",
+        "UEC": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 2460,
+        "tuition_fee": 27140
+      },
+      "course_content": {
+        "core": "Common Core Module Design Fundamental\nDrawing Fundamental\nColour Study\nComputer Graphic Study\nHistory of Art & Design\nIntroduction of Photography\nProfessional Practice Design Fundamental Drawing Fundamental Colour Study Computer Graphic Study History of Art & Design Introduction of Photography Professional Practice Programme Core Studio Drawing I\nIllustration\nTypography I\nTypography II\nIntroduction to Multimedia Design\nCreative Thinking & Design Method\nDigital Animation\nWeb Design I\nWeb Design II\nVisual Production\n3D Modelling\n3D Animation\nDigital Audio Design\nDigital Game Design\nCreative Film Production\nFinal Project Studio Drawing I Illustration Typography I Typography II Introduction to Multimedia Design Creative Thinking & Design Method Digital Animation Web Design I Web Design II Visual Production 3D Modelling 3D Animation Digital Audio Design Digital Game Design Creative Film Production Final Project Industrial Training Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Tourism Management",
+      "field_of_study": "Tourism Management",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits.",
+        "O-Level": "3 credits.",
+        "UEC": "3 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1630,
+        "tuition_fee": 23970
+      },
+      "course_content": {
+        "core": "Compulsory 必修 Computer Applications 电脑应用\nConsumer Behaviour 消费者行为\nFinancial Accounting I 财务会计 I\nFundamentals of Management 管理基础\nFundamentals of Marketing 营销基础\nMicroeconomics 微观经济学\nCommunicative English 交际英语 Computer Applications 电脑应用 Consumer Behaviour 消费者行为 Financial Accounting I 财务会计 I Fundamentals of Management 管理基础 Fundamentals of Marketing 营销基础 Microeconomics 微观经济学 Communicative English 交际英语 Core 主修 Computer Reservation Systems 旅游预订系统\nConcept of Ecotourism 生态旅游概念\nEntrepreneurship for Tourism 旅游创业\nFood and Culture in Tourism and Hospitality Industry 旅游和酒店业的食品与文化\nGeography for Tourism and Travel 旅游与地理\nIntroduction to Leisure and Recreation 休闲与娱乐简介\nInternational Tourism Business 国际旅游业务\nInternational Tour Planning Operations 国际旅游 规划操作\nIntroduction to Tourism and Travel Industry 旅游与旅行业简介\nLocal Tour Planning and Operations 国内旅游规划与操作\nManaging Guest Experience 宾客体验管理\nMICE 会展管理\nTourism Destination Planning and Development 旅游目的地的规划与发展\nTourism Promotion and Marketing 旅游推广与营销\nTransportation for Tourists 游客交通与运输\nTravel Agency Operations 旅行社运营\nTravel Ticketing 旅游票务\nIndustrial Placement 实习 Computer Reservation Systems 旅游预订系统 Concept of Ecotourism 生态旅游概念 Entrepreneurship for Tourism 旅游创业 Food and Culture in Tourism and Hospitality Industry 旅游和酒店业的食品与文化 Geography for Tourism and Travel 旅游与地理 Introduction to Leisure and Recreation 休闲与娱乐简介 International Tourism Business 国际旅游业务 International Tour Planning Operations 国际旅游 规划操作 Introduction to Tourism and Travel Industry 旅游与旅行业简介 Local Tour Planning and Operations 国内旅游规划与操作 Managing Guest Experience 宾客体验管理 MICE 会展管理 Tourism Destination Planning and Development 旅游目的地的规划与发展 Tourism Promotion and Marketing 旅游推广与营销 Transportation for Tourists 游客交通与运输 Travel Agency Operations 旅行社运营 Travel Ticketing 旅游票务 Industrial Placement 实习",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts (Accounting)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits.",
+        "O-Level": "5 credits.",
+        "UEC": "3 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1240,
+        "tuition_fee": 8160
+      },
+      "course_content": {
+        "core": "Compulsory Subjects Communicative English\nOffice Application\nCritical Thinking Skills\nIntroduction to Malaysian Culture\nFundamental of Mathematics Communicative English Office Application Critical Thinking Skills Introduction to Malaysian Culture Fundamental of Mathematics Core Subjects General English\nEconomics for Business\nIntroduction to Business Management\nIntroduction to Sociology\nStudy Skills\nPublic Speaking\nFoundation in Statistics\nIntroduction to Information Technology General English Economics for Business Introduction to Business Management Introduction to Sociology Study Skills Public Speaking Foundation in Statistics Introduction to Information Technology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts (Communication)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits.",
+        "O-Level": "5 credits.",
+        "UEC": "3 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1240,
+        "tuition_fee": 8160
+      },
+      "course_content": {
+        "core": "Compulsory Subjects Communicative English\nOffice Application\nCritical Thinking Skills\nIntroduction to Malaysian Culture\nFundamental of Mathematics Communicative English Office Application Critical Thinking Skills Introduction to Malaysian Culture Fundamental of Mathematics Core Subjects General English\nEconomics for Business\nIntroduction to Business Management\nIntroduction to Sociology\nStudy Skills\nPublic Speaking\nFoundation in Statistics\nIntroduction to Information Technology General English Economics for Business Introduction to Business Management Introduction to Sociology Study Skills Public Speaking Foundation in Statistics Introduction to Information Technology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts (Psychology)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits.",
+        "O-Level": "5 credits.",
+        "UEC": "3 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1240,
+        "tuition_fee": 8160
+      },
+      "course_content": {
+        "core": "Compulsory Subjects Communicative English\nOffice Application\nCritical Thinking Skills\nIntroduction to Malaysian Culture\nFundamental of Mathematics Communicative English Office Application Critical Thinking Skills Introduction to Malaysian Culture Fundamental of Mathematics Core Subjects General English\nEconomics for Business\nIntroduction to Business Management\nIntroduction to Sociology\nStudy Skills\nPublic Speaking\nFoundation in Statistics\nIntroduction to Information Technology General English Economics for Business Introduction to Business Management Introduction to Sociology Study Skills Public Speaking Foundation in Statistics Introduction to Information Technology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts",
+      "field_of_study": "Foundation in Arts",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits.",
+        "O-Level": "5 credits.",
+        "UEC": "3 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1240,
+        "tuition_fee": 8160
+      },
+      "course_content": {
+        "core": "Compulsory Subjects Communicative English\nOffice Application\nCritical Thinking Skills\nIntroduction to Malaysian Culture\nFundamental of Mathematics Communicative English Office Application Critical Thinking Skills Introduction to Malaysian Culture Fundamental of Mathematics Core Subjects General English\nEconomics for Business\nIntroduction to Business Management\nIntroduction to Sociology\nStudy Skills\nPublic Speaking\nFoundation in Statistics\nIntroduction to Information Technology General English Economics for Business Introduction to Business Management Introduction to Sociology Study Skills Public Speaking Foundation in Statistics Introduction to Information Technology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts (Software Engineering)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits.",
+        "O-Level": "5 credits.",
+        "UEC": "3 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1240,
+        "tuition_fee": 8160
+      },
+      "course_content": {
+        "core": "Compulsory Subjects Communicative English\nOffice Application\nCritical Thinking Skills\nIntroduction to Malaysian Culture\nFundamental of Mathematics Communicative English Office Application Critical Thinking Skills Introduction to Malaysian Culture Fundamental of Mathematics Core Subjects General English\nEconomics for Business\nIntroduction to Business Management\nIntroduction to Sociology\nStudy Skills\nPublic Speaking\nFoundation in Statistics\nIntroduction to Information Technology General English Economics for Business Introduction to Business Management Introduction to Sociology Study Skills Public Speaking Foundation in Statistics Introduction to Information Technology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Traditional Chinese Medicine",
+      "field_of_study": "Foundation in Science",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Science Stream Students: Minimum 5 Credits, including any 2 subjects in Mathematics/ Physics/ Chemistry/ Biology; Arts Stream Students: Minimum 5 Credits, including Mathematics and Science.",
+        "UEC": "Science Stream Students: Minimum grade B in 4 subjects, including any 2 subjects in Mathematics/ Physics/ Chemistry / Biology; Arts Stream Students: Minimum grade B in 4 subjects, including Mathematics and students are required to sit for Chinese Medicine Placement Test before any enrolment into Foundation in Traditional Chinese Medicine."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1600,
+        "tuition_fee": 8000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "raw",
+            "text": "Science Stream Students: Minimum 5 Credits, including any 2 subjects in Mathematics/ Physics/ Chemistry/ Biology; Arts Stream Students: Minimum 5 Credits, including Mathematics and Science."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Science Stream Students: Minimum grade B in 4 subjects, including any 2 subjects in Mathematics/ Physics/ Chemistry / Biology; Arts Stream Students: Minimum grade B in 4 subjects, including Mathematics and students are required to sit for Chinese Medicine Placement Test before any enrolment into Foundation in Traditional Chinese Medicine."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science",
+      "field_of_study": "Foundation in Science",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits including Mathematics and any 2 Science subjects.",
+        "O-Level": "5 credits including Mathematics and any 2 Science subjects.",
+        "UEC": "Grade B in 4 subjects including Mathematics and 2 Science subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1400,
+        "tuition_fee": 8000
+      },
+      "course_content": {
+        "core": "COMPULSORY Critical Thinking Skills\nIntermediate English\nPublic Speaking\nFundamentals of Mathematics Critical Thinking Skills Intermediate English Public Speaking Fundamentals of Mathematics CORE Physical Chemistry\nAdvanced Mathematics\nOrganic Chemistry\nIntroduction to Information Technology and Computer Application\nFoundation in Statistics\nProgramming Logic and Design\nFoundation English\nStudy Skills Physical Chemistry Advanced Mathematics Organic Chemistry Introduction to Information Technology and Computer Application Foundation in Statistics Programming Logic and Design Foundation English Study Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits including Mathematics and any 2 Science subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits including Mathematics and any 2 Science subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 4 subjects including Mathematics and 2 Science subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "M.A in Chinese Studies",
+      "field_of_study": "Chinese Studies",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "-A Bachelor’s degree in the field or related fields with a minimum CGPA of 2.75 or equivalent; OR, -A Bachelor’s degree in the field or related fields with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment; OR, -A Bachelor’s degree in the field or related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in a relevant field and rigorous internal assessment.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 5100,
+        "tuition_fee": 7500
+      },
+      "course_content": {
+        "core": "Research Methodology in Chinese Studies (3 credits)\nDirected Readings and Research (3 credits)\nGraduation Thesis* (9 credits) Research Methodology in Chinese Studies (3 credits) Directed Readings and Research (3 credits) Graduation Thesis* (9 credits)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "-A Bachelor’s degree in the field or related fields with a minimum CGPA of 2.75 or equivalent; OR, -A Bachelor’s degree in the field or related fields with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment; OR, -A Bachelor’s degree in the field or related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in a relevant field and rigorous internal assessment.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Masters of Communication",
+      "field_of_study": "Communication",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A Bachelor’s degree (Level 6, MQF) in a related field or its equivalent with a CGPA below 2.50 can be accepted subject to a minimum of 5 years of work experience in the relevant field..  A Bachelor’s degree (Level 6, MQF) in a related field with a minimum CGPA of 2.75 or its equivalent qualification as accepted by the HEP Senate; or\nA Bachelor’s degree (Level 6, MQF) in a related field or its equivalent with at least a CGPA of 2.50 but not achieving CGPA 2.75 can be accepted subject to a systematic internal assessment"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 810,
+        "tuition_fee": 21770
+      },
+      "course_content": {
+        "core": "Coursework (12 credits) Advanced Communication Theory (4 credits)\nQuantitative Research Methods for Communication (4 credits)\nQualitative Research Methods for Communication (4 credits) Advanced Communication Theory (4 credits) Quantitative Research Methods for Communication (4 credits) Qualitative Research Methods for Communication (4 credits) Dissertation (28 credits) Students are required to conduct a research in a communication-related field under the supervision of an academic staff and write a dissertation of 40,000 words.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "A Bachelor’s degree (Level 6, MQF) in a related field or its equivalent with a CGPA below 2.50 can be accepted subject to a minimum of 5 years of work experience in the relevant field..  A Bachelor’s degree (Level 6, MQF) in a related field with a minimum CGPA of 2.75 or its equivalent qualification as accepted by the HEP Senate; or\nA Bachelor’s degree (Level 6, MQF) in a related field or its equivalent with at least a CGPA of 2.50 but not achieving CGPA 2.75 can be accepted subject to a systematic internal assessment"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A Bachelor’s Degree of Computing or in the area of science and technology or related to computing, with CGPA less than 2.50, with a minimum of 5 years working experience in a relevant field may be accepted..  A Bachelor’s Degree of Computing or in the area of science and technology or related to computing, with a minimum CGPA of 3.00;\nA Bachelor’s Degree of Computing in the area of science and technology or related to computing with CGPA below 3.00 but above 2.50, can be accepted subject to rigorous internal assessment process"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 830,
+        "tuition_fee": 18770
+      },
+      "course_content": {
+        "core": "Research Methodology in Computer Science (3 credit)\nDirected Readings and Research (3 credit)\nGraduation Thesis Research Methodology in Computer Science (3 credit) Directed Readings and Research (3 credit) Graduation Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "A Bachelor’s Degree of Computing or in the area of science and technology or related to computing, with CGPA less than 2.50, with a minimum of 5 years working experience in a relevant field may be accepted..  A Bachelor’s Degree of Computing or in the area of science and technology or related to computing, with a minimum CGPA of 3.00;\nA Bachelor’s Degree of Computing in the area of science and technology or related to computing with CGPA below 3.00 but above 2.50, can be accepted subject to rigorous internal assessment process"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration",
+      "field_of_study": "MBA Programme",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor degree in any field with a minimum CGPA of 2.50 or equivalent.  Bachelor degree in any field with CGPA less than 2.50, with a minimum of 5 years working experience."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 6600,
+        "tuition_fee": 21000
+      },
+      "course_content": {
+        "core": "Compulsory Modules Financial and Managerial Accounting\nManagerial Economics\nMarketing Management\nOperations Management\nHuman Resource Management\nManagement Information System\nStrategic Management\nResearch Methodology\nMBA Project 1\nMBA Project 2 Financial and Managerial Accounting Managerial Economics Marketing Management Operations Management Human Resource Management Management Information System Strategic Management Research Methodology MBA Project 1 MBA Project 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "Bachelor degree in any field with a minimum CGPA of 2.50 or equivalent."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor degree in any field with CGPA less than 2.50, with a minimum of 5 years working experience."
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "A Master’s degree (Level 7, MQF) in non-related fields as accepted by SUC Senate.  Subject to having relevant working experience and rigorous internal assessment."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 12050,
+        "tuition_fee": 22550
+      },
+      "course_content": {
+        "core": "Compulsory Modules Corporate Finance Strategy\nGlobal Economic Theory & Issues\nBusiness Accounting & Finance for Decision Making\nContemporary Management\nHuman Resource Management\nGlobal Strategic Marketing & Competitive Analysis\nResearch Methodology\nLiterature Review & Research Design\nData Analysis, Interpretation & Presentation Corporate Finance Strategy Global Economic Theory & Issues Business Accounting & Finance for Decision Making Contemporary Management Human Resource Management Global Strategic Marketing & Competitive Analysis Research Methodology Literature Review & Research Design Data Analysis, Interpretation & Presentation Project Paper More than 50,000 words",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "A Master’s degree (Level 7, MQF) in non-related fields as accepted by SUC Senate.  Subject to having relevant working experience and rigorous internal assessment."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "Southern South Campus",
+      "intakes": [
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Master’s degree accepted by the SUC Senate."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 860,
+        "tuition_fee": 26740
+      },
+      "course_content": {
+        "core": "Proposal Defense\n Postgraduate Completion Seminar\n Viva voce Proposal Defense Postgraduate Completion Seminar Viva voce",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "Master’s degree accepted by the SUC Senate."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy (Chinese Studies)",
+      "field_of_study": "Chinese Studies",
+      "location": "Southern South Campus",
+      "intakes": [
+        "Mar",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "A Master’s degree (Level 7), MQF in language or a related field.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 860,
+        "tuition_fee": 15840
+      },
+      "course_content": {
+        "core": "Research Resources and Methodology in Chinese Studies (3 Credits)\nGraduate Research Skills (3 Credits)\nDissertation (9 credits) Research Resources and Methodology in Chinese Studies (3 Credits) Graduate Research Skills (3 Credits) Dissertation (9 credits)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A Master’s degree (Level 7), MQF in language or a related field.."
+          }
+        ]
+      }
+    }
+  ]
+}

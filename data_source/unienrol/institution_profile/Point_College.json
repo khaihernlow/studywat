@@ -1,0 +1,182 @@
+{
+  "institution_name": "Point College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Diploma in Digital Animation",
+      "field_of_study": "Animation",
+      "location": "Point College, Kota Damansara",
+      "intakes": [
+        "Jan",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 8200,
+        "tuition_fee": 36800
+      },
+      "course_content": {
+        "core": "Principle and Element of Design\nBasic Drawing\nEnglish 1\nEnglish 2\nBasic Computer Technology\nMPU 1\nArt & Design History\nDrawing For Animation\nMPU 2\nColor Study\nBasic Digital Photography\nVisual Story Telling\nDigital Illustration\nPerspective Studies\nCreative & Critical Thinking\nPre-Production For Animation\n3D Maya Essentials\n3D Modeling 1\nMPU 3\nConceptual Rendering Skills\nVisual Effect & Post Production\n3D Animation 1\n3D Modeling 2\nCompositing And Editing\n3D Animation 2\nProfessional Practice\nDigital Animation (2D)\nIntellectual Property & Cyber Law\nMPU 4\nIndustrial Training\nAdvance 3D Studio\nFinal Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Film & TV Production",
+      "field_of_study": "Film & Television",
+      "location": "Point College, Kota Damansara",
+      "intakes": [
+        "Jan",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 8200,
+        "tuition_fee": 51500
+      },
+      "course_content": {
+        "core": "Visual Communication\nBasic Drawing\nEnglish 1\nEnglish 2\nBasic Computer Technology\nMPU 1\nArt & Design History\nMPU 2\nDigital Photography\nFilm & TV Production 1\nFilm & TV Production 2\nColor Study\nIntroduction To Scriptwriting\nConcept & Storyboard\nDevelopment\nIntroduction To World Cinema\nIntroduction To Music & Audio\nActing & Directing Skills\nCreative & Critical Thinking\nProduction Management For TV & Film\nMPU 3\nDigital Audio Production\nDigital Animation 1 (2D)\nDigital Animation 2 (3D)\nMPU 4\nProfessional Practice\nVisual Effect & Post Production\nFilm & TV Directing Workshop\nAsian Cinema\nDocumentary And Short Film\nProduction\nIndustry Training\nFinal Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in New Media Design",
+      "field_of_study": "Multimedia Design",
+      "location": "Point College, Kota Damansara",
+      "intakes": [
+        "Jan",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 2000,
+        "resource_fee": 8300,
+        "tuition_fee": 31200
+      },
+      "course_content": {
+        "core": "Visual Communication\nBasic Computer Technology\nBasic Drawing\nEnglish\nMPU 1\nNew Media Design History\nColor Study\nDigital Photography 1\nDigital Photography 2\nDigital Typography\nMPU 2\nDigital Interface Design\nIntroduction To Music & Audio\nWeb Design Technology\nDigital Videography\nVideography 1\nDigital Video Production\nVisual Research Methodology\n2D Game Design\nInteractive Media Design\nDigital Animation 1 (2D)\nDigital Animation 2 (3D)\nMPU 3\n3D Game Design\nMPU 4\nProgramming For New Media\nDigital Publishing 2\nIndustrial Training\nInternet Advertising And E-Commerce\nFinal Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "institution_name": "University of Northampton (UoN)",
+  "institution_country": "United Kingdom",
+  "institution_type": "Public",
+  "world_rank": 3956,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "BA (Hons) International Banking & Finance [MCKL Diploma Pathway]",
+      "field_of_study": "Banking and Finance",
+      "location": "Waterside Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL diploma pathway with minimum CGPA 3.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 133280
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Global Business Management [MCKL Diploma Pathway]",
+      "field_of_study": "Business and Management",
+      "location": "Waterside Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL diploma pathway with minimum CGPA 3.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 133280
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "MCKL diploma pathway with minimum CGPA 3.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Computer Science [MCKL Diploma Pathway]",
+      "field_of_study": "Computer Science",
+      "location": "Waterside Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL Diploma in Computer Science with the required minimum CGPA of 3.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 133280
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "MCKL Diploma in Computer Science with the required minimum CGPA of 3.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Early Childhood Studies [MCKL Diploma Pathway]",
+      "field_of_study": "Early Childhood Education",
+      "location": "Waterside Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL Diploma in Early Childhood Education with the required minimum CGPA of 2.7."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 123088
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "MCKL Diploma in Early Childhood Education with the required minimum CGPA of 2.7."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.7
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) International Finance [MCKL Diploma Pathway]",
+      "field_of_study": "Finance",
+      "location": "Waterside Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL diploma pathway with minimum CGPA 3.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 133280
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "MCKL diploma pathway with minimum CGPA 3.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Information System [MCKL Diploma Pathway]",
+      "field_of_study": "Information Systems",
+      "location": "Waterside Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL diploma pathway with minimum CGPA 3.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 133280
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Business Data & Information Systems [MCKL Diploma Pathway]",
+      "field_of_study": "Information Systems",
+      "location": "Waterside Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL diploma pathway with minimum CGPA 3.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 133280
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Commerce & International Business [MCKL Diploma Pathway]",
+      "field_of_study": "International Business",
+      "location": "Waterside Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL diploma pathway with minimum CGPA 3.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 133280
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Advertising & Digital Marketing [MCKL Diploma Pathway]",
+      "field_of_study": "Marketing",
+      "location": "Waterside Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL diploma pathway with minimum CGPA 3.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 133280
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          }
+        ]
+      }
+    }
+  ]
+}

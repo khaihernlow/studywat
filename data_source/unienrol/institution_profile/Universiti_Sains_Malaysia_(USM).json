@@ -1,0 +1,1776 @@
+{
+  "institution_name": "Universiti Sains Malaysia (USM)",
+  "institution_country": "Malaysia",
+  "institution_type": "Public",
+  "world_rank": 382,
+  "malaysia_rank": 3,
+  "programs": [
+    {
+      "program_name": "SARJANA MUDA KEJURUTERAAN AEROANGKASA DENGAN KEPUJIAN [AEROSPACE ENGINEERING]",
+      "field_of_study": "Aeronautical Engineering",
+      "location": "USM Nibong Tebal, Penang",
+      "intakes": [
+        "Mar",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a minimum score of 10 and achieve at least Grade B in Chemistry, Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 3.00.",
+        "STPM": "STPM CGPA 2.75 with minimum grade B (CGPA 3.00) in Mathematics T and any 1 of the following subjects, Physics, Chemistry, Biology.",
+        "Foundation": "Foundation CGPA 2.75 with minimum grade B (CGPA 3.00) in Mathematics and any 1 following subjects, Physics / Engineering Physics, Mathematics, Biology / Chemistry / Computer Science / Engineering Chemistry / Basic Engineering.",
+        "IB Diploma": "Pass the International Baccalaureate (IB) with a minimum score of 28 and achieve at least a score of 5 at the High Level (HL) in Mathematics and Physics and at least a score of 5 at the Standard Level (SL) in Chemistry.",
+        "SACE/WACE": "Pass with a minimum aggregate of 68 and achieve at least Grade B in Chemistry, Physics and Mathematics."
+      },
+      "english_requirements": {
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 820,
+        "resource_fee": 3840,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Pass with a minimum score of 10 and achieve at least Grade B in Chemistry, Mathematics and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "STPM CGPA 2.75 with minimum grade B (CGPA 3.00) in Mathematics T and any 1 of the following subjects, Physics, Chemistry, Biology."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "Foundation CGPA 2.75 with minimum grade B (CGPA 3.00) in Mathematics and any 1 following subjects, Physics / Engineering Physics, Mathematics, Biology / Chemistry / Computer Science / Engineering Chemistry / Basic Engineering."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass the International Baccalaureate (IB) with a minimum score of 28 and achieve at least a score of 5 at the High Level (HL) in Mathematics and Physics and at least a score of 5 at the Standard Level (SL) in Chemistry."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Pass with a minimum aggregate of 68 and achieve at least Grade B in Chemistry, Physics and Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "SARJANA MUDA KEJURUTERAAN AWAM DENGAN KEPUJIAN [CIVIL ENGINEERING]",
+      "field_of_study": "Civil Engineering",
+      "location": "USM Nibong Tebal, Penang",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a minimum score of 10 and achieve at least Grade B in Mathematics, Further Mathematics, Physics and Chemistry / Biology.  Credit in the Mathematics subject at the SPM level",
+        "Diploma": "Minimum CGPA 3.00.  Credit in the Mathematics subject at the SPM level",
+        "STPM": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in Physics, Mathematics T, Chemistry / Biology.  Credit in the Mathematics subject at the SPM level",
+        "Foundation": "Foundation CGPA 3.00 with minimum grade B (CGPA 3.00) in 2 following subjects, Mathematics, Physics / Engineering Physics, Chemistry / Engineering Chemistry, Biology, Basic Engineering / Civil Engineering / Mechanical Engineering / Electrical & Electronics Engineering.  Credit in the Mathematics subject at the SPM level",
+        "IB Diploma": "Pass the International Baccalaureate (IB) with a minimum score of 28 and achieve at least a score of 5 at the High Level (HL) in the following subjects, Physics and Mathematics and at least a score of 5 at the Standard Level (SL) in Chemistry / Biology.  Credit in the Mathematics subject at the SPM level",
+        "SACE/WACE": "Pass with a minimum aggregate of 68 and achieve at least Grade B in Mathematics, Physics and Chemistry / Biology.  Credit in the Mathematics subject at the SPM level"
+      },
+      "english_requirements": {
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 820,
+        "resource_fee": 3840,
+        "tuition_fee": 55000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Pass with a minimum score of 10 and achieve at least Grade B in Mathematics, Further Mathematics, Physics and Chemistry / Biology.  Credit in the Mathematics subject at the SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  Credit in the Mathematics subject at the SPM level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in Physics, Mathematics T, Chemistry / Biology.  Credit in the Mathematics subject at the SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Foundation CGPA 3.00 with minimum grade B (CGPA 3.00) in 2 following subjects, Mathematics, Physics / Engineering Physics, Chemistry / Engineering Chemistry, Biology, Basic Engineering / Civil Engineering / Mechanical Engineering / Electrical & Electronics Engineering.  Credit in the Mathematics subject at the SPM level"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass the International Baccalaureate (IB) with a minimum score of 28 and achieve at least a score of 5 at the High Level (HL) in the following subjects, Physics and Mathematics and at least a score of 5 at the Standard Level (SL) in Chemistry / Biology.  Credit in the Mathematics subject at the SPM level"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Pass with a minimum aggregate of 68 and achieve at least Grade B in Mathematics, Physics and Chemistry / Biology.  Credit in the Mathematics subject at the SPM level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "DOKTOR PERGIGIAN [DENTAL SURGERY]",
+      "field_of_study": "Dentistry",
+      "location": "USM Bertam, Penang",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 5,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "(NOTE: Subject to further approval by the admission office) Degree in Health Sciences / Pure Sciences / Applied Sciences with a minimum CGPA of 3.00.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "A-Level": "Pass with a minimum grade of BBB, ABC, or AAC in the following subjects, Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "STPM": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in Biology, Chemistry and Physics / Mathematics T.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview",
+        "Foundation": "(NOTE: Not applicable for foundation qualification from private institutions) Pass Matrikulasi KPM or Asasi UM/UKM/UiTM with min. CGPA 3.00 and at least grade B (3.00) in the following 3 subjects: Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview",
+        "CPU": "(NOTE: Subject to further approval by the admission office) Pass with a minimum average of 70% in the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "IB Diploma": "(NOTE: Subject to further approval by the admission office) Pass minimum overall score of 30 and obtain a minimum score of 5 in each of the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "SACE/WACE": "(NOTE: Subject to further approval by the admission office) Pass With a minimum aggregate or average of 80% or equivalent to a grade B in any THREE (3) of the following subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 3.5"
+      },
+      "fees": {
+        "registration_fee": 940,
+        "resource_fee": 7000,
+        "tuition_fee": 350000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "One (1) other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Degree in Health Sciences / Pure Sciences / Applied Sciences with a minimum CGPA of 3.00.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "AAC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "One (1) other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum grade of BBB, ABC, or AAC in the following subjects, Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in Biology, Chemistry and Physics / Mathematics T.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Not applicable for foundation qualification from private institutions) Pass Matrikulasi KPM or Asasi UM/UKM/UiTM with min. CGPA 3.00 and at least grade B (3.00) in the following 3 subjects: Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "One (1) other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass with a minimum average of 70% in the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "One (1) other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass minimum overall score of 30 and obtain a minimum score of 5 in each of the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 80.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "One (1) other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass With a minimum aggregate or average of 80% or equivalent to a grade B in any THREE (3) of the following subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "DOKTOR PERGIGIAN [DENTAL SURGERY]",
+      "field_of_study": "Dentistry",
+      "location": "USM Kubang Kerian, Kelantan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 5,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "(NOTE: Subject to further approval by the admission office) Degree in Health Sciences / Pure Sciences / Applied Sciences with a minimum CGPA of 3.00.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "A-Level": "Pass with a minimum grade of BBB, ABC, or AAC in the following subjects, Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "STPM": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in Biology, Chemistry and Physics / Mathematics T.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview",
+        "Foundation": "(NOTE: Not applicable for foundation qualification from private institutions) Pass Matrikulasi KPM or Asasi UM/UKM/UiTM with min. CGPA 3.00 and at least grade B (3.00) in the following 3 subjects: Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview",
+        "CPU": "(NOTE: Subject to further approval by the admission office) Pass with a minimum average of 70% in the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "IB Diploma": "(NOTE: Subject to further approval by the admission office) Pass minimum overall score of 30 and obtain a minimum score of 5 in each of the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "SACE/WACE": "(NOTE: Subject to further approval by the admission office) Pass With a minimum aggregate or average of 80% or equivalent to a grade B in any THREE (3) of the following subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 3.5"
+      },
+      "fees": {
+        "registration_fee": 940,
+        "resource_fee": 6300,
+        "tuition_fee": 350000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "Other"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Degree in Health Sciences / Pure Sciences / Applied Sciences with a minimum CGPA of 3.00.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "AAC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "Other"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum grade of BBB, ABC, or AAC in the following subjects, Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in Biology, Chemistry and Physics / Mathematics T.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Not applicable for foundation qualification from private institutions) Pass Matrikulasi KPM or Asasi UM/UKM/UiTM with min. CGPA 3.00 and at least grade B (3.00) in the following 3 subjects: Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass with a minimum average of 70% in the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "Other"
+            ]
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass minimum overall score of 30 and obtain a minimum score of 5 in each of the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "Other"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass With a minimum aggregate or average of 80% or equivalent to a grade B in any THREE (3) of the following subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "Other"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "SARJANA MUDA EKONOMI (KEPUJIAN) [ECONOMICS]",
+      "field_of_study": "Economics",
+      "location": "USM Minden, Penang",
+      "intakes": [
+        "Mar",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a minimum score of 11 and achieve at least Grade C in any two (2) of the following subjects, Mathematics, Accounting, Further Mathematics, Business Studies.  Pass interview",
+        "Diploma": "Minimum CGPA 3.00.  Pass interview",
+        "STPM": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in any 2 of the following subjects, Ekonomi and Geografi, Sejarah, Bahasa Melayu, Pengajian Perniagaan, Perakaunan, Mathematics M.  Pass interview",
+        "Foundation": "Foundation CGPA 3.00 with minimum grade B (CGPA 3.00) in any 2 of the following subjects, Ekonomi, Mathematics / Accounting / Financial Accounting / Management Accounting / Pengurusan Perniagaan / Business and Technology.  Pass interview",
+        "IB Diploma": "Pass with a minimum score of 29 and achieve at least a score of 4 in the subject of Economics at the High Level (HL) and one (1) other subject at the Standard Level (SL) as follows, Business and Management, Mathematical Studies, Mathematical Methods, Mathematics, Further Mathematics, Economics.  Pass interview",
+        "SACE/WACE": "Pass with a minimum aggregate of 68 and achieve at least Grade B in the subject of Economics and any one (1) of the following subjects, Accounting / Accounting and Finance, Mathematical Studies, Specialist Mathematics, Business Management & Enterprise.  Pass interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 820,
+        "resource_fee": 4400,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Accounting",
+              "Further Mathematics",
+              "Business Studies"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum score of 11 and achieve at least Grade C in any two (2) of the following subjects, Mathematics, Accounting, Further Mathematics, Business Studies.  Pass interview"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  Pass interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Ekonomi",
+              "Geografi",
+              "Sejarah",
+              "Bahasa Melayu",
+              "Pengajian Perniagaan",
+              "Perakaunan",
+              "Mathematics M"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in any 2 of the following subjects, Ekonomi and Geografi, Sejarah, Bahasa Melayu, Pengajian Perniagaan, Perakaunan, Mathematics M.  Pass interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Ekonomi",
+              "Mathematics",
+              "Accounting",
+              "Financial Accounting",
+              "Management Accounting",
+              "Pengurusan Perniagaan",
+              "Business and Technology"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Foundation CGPA 3.00 with minimum grade B (CGPA 3.00) in any 2 of the following subjects, Ekonomi, Mathematics / Accounting / Financial Accounting / Management Accounting / Pengurusan Perniagaan / Business and Technology.  Pass interview"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Economics",
+              "Business and Management",
+              "Mathematical Studies",
+              "Mathematical Methods",
+              "Mathematics",
+              "Further Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum score of 29 and achieve at least a score of 4 in the subject of Economics at the High Level (HL) and one (1) other subject at the Standard Level (SL) as follows, Business and Management, Mathematical Studies, Mathematical Methods, Mathematics, Further Mathematics, Economics.  Pass interview"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Economics",
+              "Accounting",
+              "Accounting and Finance",
+              "Mathematical Studies",
+              "Specialist Mathematics",
+              "Business Management & Enterprise"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum aggregate of 68 and achieve at least Grade B in the subject of Economics and any one (1) of the following subjects, Accounting / Accounting and Finance, Mathematical Studies, Specialist Mathematics, Business Management & Enterprise.  Pass interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "SARJANA MUDA DIETETIK (KEPUJIAN) [DIETETICS]",
+      "field_of_study": "Health Studies",
+      "location": "USM Kubang Kerian, Kelantan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a minimum score of 10 and achieve at least Grade C in any 2 of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview",
+        "Diploma": "Minimum CGPA 2.75.  Pass interview",
+        "STPM": "STPM CGPA 3.00 with minimum grade C+ (CGPA 2.33) in Mathematics T and any 2 of the following subjects, Chemistry, Biology and Physics / Mathematics.  Pass interview",
+        "Foundation": "Foundation CGPA 2.75 with minimum grade C+ (CGPA 2.33) in Mathematics T and any 2 of the following subjects, Chemistry, Biology and Physics / Mathematics.  Pass interview",
+        "IB Diploma": "Pass the International Baccalaureate (IB) with a minimum score of 24 and achieve at least a score of 4 at the High Level (HL) in any 2 of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview",
+        "SACE/WACE": "Pass with a minimum aggregate of 45 and obtain at least a Grade C in any two (2) of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 820,
+        "resource_fee": 3840,
+        "tuition_fee": 56000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Pass with a minimum score of 10 and achieve at least Grade C in any 2 of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75.  Pass interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics T",
+              "Chemistry",
+              "Biology",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "STPM CGPA 3.00 with minimum grade C+ (CGPA 2.33) in Mathematics T and any 2 of the following subjects, Chemistry, Biology and Physics / Mathematics.  Pass interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics T",
+              "Chemistry",
+              "Biology",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Foundation CGPA 2.75 with minimum grade C+ (CGPA 2.33) in Mathematics T and any 2 of the following subjects, Chemistry, Biology and Physics / Mathematics.  Pass interview"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass the International Baccalaureate (IB) with a minimum score of 24 and achieve at least a score of 4 at the High Level (HL) in any 2 of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Pass with a minimum aggregate of 45 and obtain at least a Grade C in any two (2) of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "SARJANA MUDA AUDIOLOGI (KEPUJIAN) [AUDIOLOGY]",
+      "field_of_study": "Medical Technology",
+      "location": "USM Kubang Kerian, Kelantan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a minimum score of 10 and achieve at least Grade C in any 2 of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview",
+        "Diploma": "Minimum CGPA 2.75.  Pass interview",
+        "STPM": "STPM CGPA 3.00 with minimum grade C+ (CGPA 2.33) in Mathematics T and any 2 of the following subjects, Chemistry, Biology and Physics / Mathematics.  Pass interview",
+        "Foundation": "Foundation CGPA 2.75 with minimum grade C+ (CGPA 2.33) in Mathematics T and any 2 of the following subjects, Chemistry, Biology and Physics / Mathematics.  Pass interview",
+        "IB Diploma": "Pass the International Baccalaureate (IB) with a minimum score of 24 and achieve at least a score of 4 at the High Level (HL) in any 2 of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview",
+        "SACE/WACE": "Pass with a minimum aggregate of 45 and obtain at least a Grade C in any two (2) of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 820,
+        "resource_fee": 3840,
+        "tuition_fee": 56000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Pass with a minimum score of 10 and achieve at least Grade C in any 2 of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75.  Pass interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics T",
+              "Chemistry",
+              "Biology",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "STPM CGPA 3.00 with minimum grade C+ (CGPA 2.33) in Mathematics T and any 2 of the following subjects, Chemistry, Biology and Physics / Mathematics.  Pass interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics T",
+              "Chemistry",
+              "Biology",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Foundation CGPA 2.75 with minimum grade C+ (CGPA 2.33) in Mathematics T and any 2 of the following subjects, Chemistry, Biology and Physics / Mathematics.  Pass interview"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass the International Baccalaureate (IB) with a minimum score of 24 and achieve at least a score of 4 at the High Level (HL) in any 2 of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Pass with a minimum aggregate of 45 and obtain at least a Grade C in any two (2) of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "DOKTOR PERUBATAN [DOCTOR OF MEDICINE]",
+      "field_of_study": "Medicine",
+      "location": "USM Bertam, Penang",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 5,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "(NOTE: Subject to further approval by the admission office) Degree in Health Sciences / Pure Sciences / Applied Sciences with a minimum CGPA of 3.00.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "A-Level": "Pass with a minimum grade of BBB, ABC, or AAC in the following subjects, Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "STPM": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in Biology, Chemistry and Physics / Mathematics T.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview",
+        "Foundation": "(NOTE: Not applicable for foundation qualification from private institutions) Pass Matrikulasi KPM or Asasi UM/UKM/UiTM with min. CGPA 3.00 and at least grade B (3.00) in the following 3 subjects: Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview",
+        "CPU": "(NOTE: Subject to further approval by the admission office) Pass with a minimum average of 80% in the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "IB Diploma": "(NOTE: Subject to further approval by the admission office) Pass with a minimum score of 33 points, including THREE (3) subjects Biology, Chemistry, and Mathematics at Higher Level [HL], and achieving a minimum score of 5 in each of the following subjects, Biology, Chemistry and Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "SACE/WACE": "(NOTE: Subject to further approval by the admission office) Pass With a minimum aggregate or average of 80% or equivalent to a grade B in any THREE (3) of the following subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 3"
+      },
+      "fees": {
+        "registration_fee": 940,
+        "resource_fee": 7000,
+        "tuition_fee": 350000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "One (1) other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Degree in Health Sciences / Pure Sciences / Applied Sciences with a minimum CGPA of 3.00.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "AAC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "One (1) other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum grade of BBB, ABC, or AAC in the following subjects, Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in Biology, Chemistry and Physics / Mathematics T.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Not applicable for foundation qualification from private institutions) Pass Matrikulasi KPM or Asasi UM/UKM/UiTM with min. CGPA 3.00 and at least grade B (3.00) in the following 3 subjects: Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "One (1) other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass with a minimum average of 80% in the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "One (1) other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass with a minimum score of 33 points, including THREE (3) subjects Biology, Chemistry, and Mathematics at Higher Level [HL], and achieving a minimum score of 5 in each of the following subjects, Biology, Chemistry and Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics",
+              "One (1) other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass With a minimum aggregate or average of 80% or equivalent to a grade B in any THREE (3) of the following subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "DOKTOR PERUBATAN [DOCTOR OF MEDICINE]",
+      "field_of_study": "Medicine",
+      "location": "USM Kubang Kerian, Kelantan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 5,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "(NOTE: Subject to further approval by the admission office) Degree in Health Sciences / Pure Sciences / Applied Sciences with a minimum CGPA of 3.00.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "A-Level": "Pass with a minimum grade of BBB, ABC, or AAC in the following subjects, Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "STPM": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in Biology, Chemistry and Physics / Mathematics T.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview",
+        "Foundation": "(NOTE: Not applicable for foundation qualification from private institutions) Pass Matrikulasi KPM or Asasi UM/UKM/UiTM with min. CGPA 3.00 and at least grade B (3.00) in the following 3 subjects: Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview",
+        "CPU": "(NOTE: Subject to further approval by the admission office) Pass with a minimum average of 80% in the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "IB Diploma": "(NOTE: Subject to further approval by the admission office) Pass with a minimum score of 33 points, including THREE (3) subjects Biology, Chemistry, and Mathematics at Higher Level [HL], and achieving a minimum score of 5 in each of the following subjects, Biology, Chemistry and Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview",
+        "SACE/WACE": "(NOTE: Subject to further approval by the admission office) Pass With a minimum aggregate or average of 80% or equivalent to a grade B in any THREE (3) of the following subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 3"
+      },
+      "fees": {
+        "registration_fee": 940,
+        "resource_fee": 6300,
+        "tuition_fee": 350000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "One other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Degree in Health Sciences / Pure Sciences / Applied Sciences with a minimum CGPA of 3.00.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "AAC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "One other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum grade of BBB, ABC, or AAC in the following subjects, Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "STPM CGPA 3.00 with minimum grade B (CGPA 3.00) in Biology, Chemistry and Physics / Mathematics T.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Not applicable for foundation qualification from private institutions) Pass Matrikulasi KPM or Asasi UM/UKM/UiTM with min. CGPA 3.00 and at least grade B (3.00) in the following 3 subjects: Biology, Chemistry, Physics / Mathematics.  Grade B at the SPM level in the following five (5) subjects:\nBiology\nPhysics\nChemistry\nMathematics / Additional Mathematics\nPass interview"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "One other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass with a minimum average of 80% in the following 3 subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "One other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass with a minimum score of 33 points, including THREE (3) subjects Biology, Chemistry, and Mathematics at Higher Level [HL], and achieving a minimum score of 5 in each of the following subjects, Biology, Chemistry and Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "One other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(NOTE: Subject to further approval by the admission office) Pass With a minimum aggregate or average of 80% or equivalent to a grade B in any THREE (3) of the following subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "SARJANA MUDA FARMASI (KEPUJIAN) [PHARMACY]",
+      "field_of_study": "Pharmacy",
+      "location": "USM Minden, Penang",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a minimum score of 12 and achieve at least Grade B in Chemistry and Biology / Physics / Mathematics .  Grade B at the SPM level in the following five (5) subjects\nBiology\nChemistry\nPhysics\nMathematics / Additional Mathematics\n1 other subject\nPass with at least Grade C in the subjects of Bahasa Melayu (Malay language) and Bahasa Inggeris (English language) at the SPM level\nPass interview",
+        "STPM": "STPM CGPA 3.50 with minimum grade B (CGPA 3.00) in Chemistry and Biology / Physics / Mathematics T .  Grade B at the SPM level in the following five (5) subjects\nBiology\nChemistry\nPhysics\nMathematics / Additional Mathematics\n1 other subject\nPass with at least Grade C in the subjects of Bahasa Melayu (Malay language) and Bahasa Inggeris (English language) at the SPM level\nPass interview",
+        "Foundation": "Foundation : (NOTE: Not applicable for foundation qualification from private institutions) Pass Matrikulasi KPM or Asasi UM/UKM/UiTM with min. CGPA 3.50 and at least grade B (3.00) in the following 2 subjects: Chemistry, Biology / Physics / Mathematics..  Grade B at the SPM level in the following five (5) subjects\nBiology\nChemistry\nPhysics\nMathematics / Additional Mathematics\n1 other subject\nPass with at least Grade C in the subjects of Bahasa Melayu (Malay language) and Bahasa Inggeris (English language) at the SPM level\nPass interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 3"
+      },
+      "fees": {
+        "registration_fee": 820,
+        "resource_fee": 4400,
+        "tuition_fee": 112000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Pass with a minimum score of 12 and achieve at least Grade B in Chemistry and Biology / Physics / Mathematics .  Grade B at the SPM level in the following five (5) subjects\nBiology\nChemistry\nPhysics\nMathematics / Additional Mathematics\n1 other subject\nPass with at least Grade C in the subjects of Bahasa Melayu (Malay language) and Bahasa Inggeris (English language) at the SPM level\nPass interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "STPM CGPA 3.50 with minimum grade B (CGPA 3.00) in Chemistry and Biology / Physics / Mathematics T .  Grade B at the SPM level in the following five (5) subjects\nBiology\nChemistry\nPhysics\nMathematics / Additional Mathematics\n1 other subject\nPass with at least Grade C in the subjects of Bahasa Melayu (Malay language) and Bahasa Inggeris (English language) at the SPM level\nPass interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "Foundation : (NOTE: Not applicable for foundation qualification from private institutions) Pass Matrikulasi KPM or Asasi UM/UKM/UiTM with min. CGPA 3.50 and at least grade B (3.00) in the following 2 subjects: Chemistry, Biology / Physics / Mathematics..  Grade B at the SPM level in the following five (5) subjects\nBiology\nChemistry\nPhysics\nMathematics / Additional Mathematics\n1 other subject\nPass with at least Grade C in the subjects of Bahasa Melayu (Malay language) and Bahasa Inggeris (English language) at the SPM level\nPass interview"
+          }
+        ]
+      }
+    }
+  ]
+}

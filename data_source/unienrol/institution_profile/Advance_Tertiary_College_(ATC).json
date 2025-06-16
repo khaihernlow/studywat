@@ -1,0 +1,668 @@
+{
+  "institution_name": "Advance Tertiary College (ATC)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Certificate In Legal Practice (CLP)",
+      "field_of_study": "Certificate in Legal Practice (CLP)",
+      "location": "ATC, Georgetown",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "No",
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": null,
+        "tuition_fee": 12500
+      },
+      "course_content": {
+        "core": "General Paper\nEvidence\nCivil Procedure\nCriminal Procedure\nProfessional Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Certificate In Legal Practice (CLP)",
+      "field_of_study": "Certificate in Legal Practice (CLP)",
+      "location": "ATC, KL City Centre",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "No",
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": null,
+        "tuition_fee": 12500
+      },
+      "course_content": {
+        "core": "General Paper\nEvidence\nCivil Procedure\nCriminal Procedure\nProfessional Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "UK Degree Transfer Programme (Law) (1+2)",
+      "field_of_study": "Law (LL.B.)",
+      "location": "ATC, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "At least 2 A Level passes.",
+        "UEC": "At least 5 B’s in your UE.",
+        "Diploma": "Any qualification equivalent to a diploma (Level 4 MQF).",
+        "STPM": "A minimum CGPA of 2.0.",
+        "Foundation": "A minimum CGPA of 2.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 2000,
+        "resource_fee": null,
+        "tuition_fee": 22000
+      },
+      "course_content": {
+        "core": "YEAR 1 All Year 1 modules are compulsory. English Legal System You will learn about the English Legal System and the legal methodology of the common law system. You will also learn practical legal research skills and refine your legal thinking reasoning. Public Law This course will expose you to the inner workings of politics in the UK. You will learn about the constitutional and administrative system of the UK, with an emphasis on the relationship between citizens and the state, the concept of sovereignty and the division of powers between the legislature, executive and the judiciary. Criminal Law You will learn several basic legal principles relating to the criminal law, before moving on to explore various offences such as murder, manslaughter, rape and theft. You will also consider matters such as criminal attempts, secondary liability and will learn the various defences available to defendants in criminal proceedings. Elements of the Law of Contract In this course, you will learn essential principles of contract, including how contracts are formed, who may enter into a contract and what happens if a party is to breach a contract. You will explore concepts such as privity of contract and look at the remedies available to parties who have suffered the consequence of a contractual breach. Legal Research Methods Taught in Semester 2 of Year 1, this course builds on what you have learned in your first semester, giving you hands on practical experience in the methods and skills of legal research. Note: Students must also complete several “Mata Pelajaran Umum” courses.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "At least 2 A Level passes."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "At least 5 B’s in your UE."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Any qualification equivalent to a diploma (Level 4 MQF)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "A minimum CGPA of 2.0."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "A minimum CGPA of 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "University Of London Bachelor Of Laws Programme (Ll.B)",
+      "field_of_study": "Law (LL.B.)",
+      "location": "ATC, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 principal passes in A Levels.  CLP Requirements apply (starting 2021): UK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English",
+        "UEC": "Pass UEC with 5 B6.  CLP Requirements apply (starting 2021): UK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English",
+        "STPM": "2C in STPM.  CLP Requirements apply (starting 2021):\nUK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 5400,
+        "tuition_fee": 37500
+      },
+      "course_content": {
+        "core": "Year 1 Contract Law\nCriminal Law\nPublic Law\nLegal System and Method Year 2 Tort Law\nProperty Law\nEU Law (Optional)\nCommercial Law (Optional)\nFamily Law (Optional) Year 3 Jurisprudence and Legal Theory\nEquity and Trusts\nCompany Law (Optional)\nCriminology (Optional)\nEvidence (Optional)\nIntellectual Property (Optional)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 principal passes in A Levels.  CLP Requirements apply (starting 2021): UK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 5 B6.  CLP Requirements apply (starting 2021): UK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2C in STPM.  CLP Requirements apply (starting 2021):\nUK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "University Of London Bachelor Of Laws Programme (LL.B)",
+      "field_of_study": "Law (LL.B.)",
+      "location": "ATC, KL City Centre",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 principle passes in A-Levels.  CLP Requirements apply (starting 2021): UK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English",
+        "UEC": "Pass UEC with 5 B6.  CLP Requirements apply (starting 2021): UK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English",
+        "STPM": "2 C in STPM.  CLP Requirements apply (starting 2021):\nUK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English"
+      },
+      "english_requirements": {
+        "": ""
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3800,
+        "tuition_fee": 37500
+      },
+      "course_content": {
+        "core": "Year 1 Contract Law\nCriminal Law\nPublic Law\nLegal System and Method Year 2 Tort Law\nProperty Law\nEU Law (Optional)\nCommercial Law (Optional)\nFamily Law (Optional) Year 3 Jurisprudence and Legal Theory\nEquity and Trusts\nCompany Law (Optional)\nCriminology (Optional)\nEvidence (Optional)\nIntellectual Property (Optional)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 principle passes in A-Levels.  CLP Requirements apply (starting 2021): UK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 5 B6.  CLP Requirements apply (starting 2021): UK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 C in STPM.  CLP Requirements apply (starting 2021):\nUK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UK Degree Transfer Programme (Law) (1+2)",
+      "field_of_study": "Law (LL.B.)",
+      "location": "ATC, KL City Centre",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 A-Level passes.  5 credits in SPM/O-Level obtained in one examination",
+        "UEC": "Pass UEC with 5 B6.  5 credits in SPM/O-Level obtained in one examination",
+        "Diploma": "Any qualification equivalent to a diploma (Level 4 MQF).  5 credits in SPM/O-Level obtained in one examination",
+        "STPM": "Pass STPM with CGPA 2.00.  5 credits in SPM/O-Level obtained in one examination",
+        "Foundation": "Pass Foundation/Matriculation with CGPA 2.00.  5 credits in SPM/O-Level obtained in one examination"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 2000,
+        "resource_fee": null,
+        "tuition_fee": 22000
+      },
+      "course_content": {
+        "core": "YEAR 1 English Legal System Public Law Criminal Law Elements of the Law of Contract Legal Research Methods YEAR 2 Upon completion of Year 1, students must complete two compulsory modules and must select two other modules from a list of optional courses. Compulsory module: Land Law Compulsory module: Law of Tort Optional module: Commercial Law Optional module: Family Law Optional module: Company Law Optional module: Law of Evidence",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM/O-Level"
+            ],
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "2 A-Level passes.  5 credits in SPM/O-Level obtained in one examination"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM/O-Level"
+            ],
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 5 B6.  5 credits in SPM/O-Level obtained in one examination"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM/O-Level"
+            ],
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Any qualification equivalent to a diploma (Level 4 MQF).  5 credits in SPM/O-Level obtained in one examination"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM/O-Level"
+            ],
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with CGPA 2.00.  5 credits in SPM/O-Level obtained in one examination"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM/O-Level"
+            ],
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation/Matriculation with CGPA 2.00.  5 credits in SPM/O-Level obtained in one examination"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UK Degree Transfer Programme (Law) (2+1)",
+      "field_of_study": "Law (LL.B.)",
+      "location": "ATC, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "At least 2 A Level passes.",
+        "UEC": "At least 5 B’s in your UE.",
+        "Diploma": "Any qualification equivalent to a diploma (Level 4 MQF).",
+        "STPM": "A minimum CGPA of 2.0.",
+        "Foundation": "A minimum CGPA of 2.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 4000,
+        "resource_fee": null,
+        "tuition_fee": 44000
+      },
+      "course_content": {
+        "core": "YEAR 1 All Year 1 modules are compulsory. English Legal System You will learn about the English Legal System and the legal methodology of the common law system. You will also learn practical legal research skills and refine your legal thinking reasoning. Public Law This course will expose you to the inner workings of politics in the UK. You will learn about the constitutional and administrative system of the UK, with an emphasis on the relationship between citizens and the state, the concept of sovereignty and the division of powers between the legislature, executive and the judiciary. Criminal Law You will learn several basic legal principles relating to the criminal law, before moving on to explore various offences such as murder, manslaughter, rape and theft. You will also consider matters such as criminal attempts, secondary liability and will learn the various defences available to defendants in criminal proceedings. Elements of the Law of Contract In this course, you will learn essential principles of contract, including how contracts are formed, who may enter into a contract and what happens if a party is to breach a contract. You will explore concepts such as privity of contract and look at the remedies available to parties who have suffered the consequence of a contractual breach. Legal Research Methods Taught in Semester 2 of Year 1, this course builds on what you have learned in your first semester, giving you hands on practical experience in the methods and skills of legal research. YEAR 2 Upon completion of Year 1, students must complete two compulsory modules and must select two other modules from a list of optional courses. Compulsory module: Land Law You will learn about the various interests that can exist in land and the principles govern how property rights are created and extinguished. You will also examine concepts such as adverse possession and discover secrets about mortgages. Compulsory module: Law of Tort This course introduces you to principles such as negligence, fault, vicarious liability and duty of care. You will examine the concept of damage and explore various torts aimed at specific areas of civil relations. Optional module: Commercial Law Also known as trade law, this module will take you through the laws that apply to the interactions and relationships between persons and businesses. You will examine the relationship and obligations that are imposed on parties to commercial transactions and consider how it interacts with rules of personal property. Optional module: Family Law You will explore the law that regulates families, such as the rules on marriage and divorce, and the legal status of offspring. You will also learn about fundamental issues relating to child welfare and the financial provisions in divorce. Optional module: Company Law This module focuses on the law that regulates companies and related facilities. You will learn about the various corporate entities that exist under the law, discover the concepts of ‘separate legal personality’ and the ‘corporate veil’ amongst other vital topics within this area of study. Note: Students must also complete several “Mata Pelajaran Umum” courses.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B",
+            "count": 5
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UK Degree Transfer Programme (Law) (2+1)",
+      "field_of_study": "Law (LL.B.)",
+      "location": "ATC, KL City Centre",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "At least 2 A Level passes.",
+        "UEC": "At least 5 B’s in your UE.",
+        "Diploma": "Any qualification equivalent to a diploma (Level 4 MQF).",
+        "STPM": "A minimum CGPA of 2.0.",
+        "Foundation": "A minimum CGPA of 2.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 4000,
+        "resource_fee": null,
+        "tuition_fee": 44000
+      },
+      "course_content": {
+        "core": "YEAR 1 All Year 1 modules are compulsory. English Legal System You will learn about the English Legal System and the legal methodology of the common law system. You will also learn practical legal research skills and refine your legal thinking reasoning. Public Law This course will expose you to the inner workings of politics in the UK. You will learn about the constitutional and administrative system of the UK, with an emphasis on the relationship between citizens and the state, the concept of sovereignty and the division of powers between the legislature, executive and the judiciary. Criminal Law You will learn several basic legal principles relating to the criminal law, before moving on to explore various offences such as murder, manslaughter, rape and theft. You will also consider matters such as criminal attempts, secondary liability and will learn the various defences available to defendants in criminal proceedings. Elements of the Law of Contract In this course, you will learn essential principles of contract, including how contracts are formed, who may enter into a contract and what happens if a party is to breach a contract. You will explore concepts such as privity of contract and look at the remedies available to parties who have suffered the consequence of a contractual breach. Legal Research Methods Taught in Semester 2 of Year 1, this course builds on what you have learned in your first semester, giving you hands on practical experience in the methods and skills of legal research. YEAR 2 Upon completion of Year 1, students must complete two compulsory modules and must select two other modules from a list of optional courses. Compulsory module: Land Law You will learn about the various interests that can exist in land and the principles govern how property rights are created and extinguished. You will also examine concepts such as adverse possession and discover secrets about mortgages. Compulsory module: Law of Tort This course introduces you to principles such as negligence, fault, vicarious liability and duty of care. You will examine the concept of damage and explore various torts aimed at specific areas of civil relations. Optional module: Commercial Law Also known as trade law, this module will take you through the laws that apply to the interactions and relationships between persons and businesses. You will examine the relationship and obligations that are imposed on parties to commercial transactions and consider how it interacts with rules of personal property. Optional module: Family Law You will explore the law that regulates families, such as the rules on marriage and divorce, and the legal status of offspring. You will also learn about fundamental issues relating to child welfare and the financial provisions in divorce. Optional module: Company Law This module focuses on the law that regulates companies and related facilities. You will learn about the various corporate entities that exist under the law, discover the concepts of ‘separate legal personality’ and the ‘corporate veil’ amongst other vital topics within this area of study. Note: Students must also complete several “Mata Pelajaran Umum” courses.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B",
+            "count": 5
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Law",
+      "field_of_study": "Foundation in Arts",
+      "location": "ATC, KL City Centre",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass in SPM with at least 5 credits.",
+        "O-Level": "Pass in O-LEVELS with at least 5 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": null,
+        "tuition_fee": 16000
+      },
+      "course_content": {
+        "core": "Subjects Principles of Management Critical Thinking Skills Principles of Marketing Introduction to Contract Law English 1 Business Studies Introduction to Tort Introduction to Electronic Commerce Communication Skills Introduction to Legal System & Method English 2 Practical Legal Skills Introduction to Criminal Law",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass in SPM with at least 5 credits."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass in O-LEVELS with at least 5 credits."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Law",
+      "field_of_study": "Foundation in Arts",
+      "location": "ATC, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with least 5 credits.",
+        "O-Level": "Pass with at least 5 Grade C."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": null,
+        "tuition_fee": 16000
+      },
+      "course_content": {
+        "core": "Subjects Principles of Management Critical Thinking Skills Principles of Marketing Introduction to Contract Law English 1 Business Studies Introduction to Tort Introduction to Electronic Commerce Communication Skills Introduction to Legal System & Method English 2 Practical Legal Skills Introduction to Criminal Law",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    }
+  ]
+}

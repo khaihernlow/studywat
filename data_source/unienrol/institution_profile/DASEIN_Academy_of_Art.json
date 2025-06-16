@@ -1,0 +1,421 @@
+{
+  "institution_name": "DASEIN Academy of Art",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Certificate in Visual Communication",
+      "field_of_study": "Creative Arts",
+      "location": "Dasein, Millerz Square Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 1 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "O-Level": "Pass with at least 1 Grade C.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "UEC": "Grade B in 1 relevant subject.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 1900,
+        "tuition_fee": 12900
+      },
+      "course_content": {
+        "core": "YEAR 1 Basic Design Principle 1    \nBasic Figure Drawing    \nColor Studies\nPainting Technique -  Poster Color    \nGeneral Art Appreciation 1    \nCommunication Skill Preparatory 1\nIntroduction to Marketing Communication    \nBasic Design Principle 2    \nBasic Perspective Drawing\nPainting Technique -Water Color    \nGeneral Art Appreciation 2    \nDigital Application\nCommunication Skill\nPreparatory 2    \nMalaysian Studies 1 (MPU)\nBasic Desktop Publishing\nBasic Photography    \nCommunication Skill Preparatory 3    \nBahasa Kebangsaan A (MPU) OR Penulisan Kreatif (MPU) YEAR 2 Introduction to Multimedia    \nIntroduction to Animation    \nFundamental in Letterform\nPortfolio Presentation    \nBasic Video Editing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": {
+          "raw": "Pass with at least 1 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+          "min_gp": null,
+          "min_subjects": null,
+          "min_grade": null,
+          "required_credits": [],
+          "related_field": false
+        },
+        "O-Level": {
+          "raw": "Pass with at least 1 Grade C.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+          "min_gp": null,
+          "min_subjects": null,
+          "min_grade": "C",
+          "required_credits": [],
+          "related_field": false
+        },
+        "UEC": {
+          "raw": "Grade B in 1 relevant subject.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+          "min_gp": null,
+          "min_subjects": 1,
+          "min_grade": "B",
+          "required_credits": [],
+          "related_field": false
+        }
+      }
+    },
+    {
+      "program_name": "Diploma in Animation",
+      "field_of_study": "Creative Arts",
+      "location": "Dasein, Millerz Square Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 7300,
+        "tuition_fee": 53300
+      },
+      "course_content": {
+        "core": "YEAR 1 Painting    \nDrawing    \nColor Studies\nBasic Design    \nComputer Aided Design    \nArt History\nPenghayatan Etika & Peradaban (MPU)    \n3D Modeling Fundamental    \nClassical Animation\nFigure Studies    \nDigital Art    \nLeadership (MPU) OR Bahasa Kebangsaan A (MPU)\nDigital Photography    \nGesture Studies    \nMaterial Methodology\nCommunity Service (MPU) YEAR 2 Essential Animation    \n3D Character Modeling    \nCinematography Studies\nConcept Art 1    \nCommunication Skills    \nCharacter Animation\nDigital Compositing and VFX    \nConcept Art 2    \nActing for Animation\nPublic Speaking    \nIntroduction to Digital Painting    \nDigital Audio Video YEAR 3 Pre-Post Design    \nInteractive Animation    \nPost Production\nStudio Work   \nProduction Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Illustration",
+      "field_of_study": "Creative Arts",
+      "location": "Dasein, Millerz Square Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 5300,
+        "tuition_fee": 51900
+      },
+      "course_content": {
+        "core": "YEAR 1 Painting    \nDrawing    \nBasic Design\nColor Studies    \nComputer Aided Design    \nArt History\nPenghayatan Etika & Peradaban (MPU)    \nWatercolor Still Life    \nDigital Art\nEnglish 1    \nFigure Drawing    \nAesthetic Studies\nLeadership (MPU) OR Bahasa Kebangsaan A (MPU)    \nCommunity Service (MPU)    \nDigital Photography\nEnglish 2 YEAR 2 Illustration Techniques    \nContemporary Illustration 1    \n2D Digital Application\nPainter    \nEnglish 3    \nContemporary Illustration 2\nCharacter Design    \n2D Animation (Publication Design)    \nPerception Light & Color\nEnvironment Design YEAR 3 Compositing Studies    \nConcept Design 1    \nPublishing Illustration\nDigital Photo Manipulation    \nCreative Illustration    \nConcept Design 2\nDigital Imaging    \nStory Board",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Graphic Design",
+      "field_of_study": "Creative Arts",
+      "location": "Dasein, Millerz Square Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 5300,
+        "tuition_fee": 51900
+      },
+      "course_content": {
+        "core": "YEAR 1 Drawing    \nBasic Design    \nColor Studies\nArt History    \nDigital Graphic 1    \nPenghayatan Etika & Peradaban (MPU)\nFundamental Typography\nApplied Design    \nDigital Graphic 2\nHistory of Graphic Design    \nEnglish 1    \nLeadership (MPU) OR Bahasa Kebangsaan A (MPU)\nDigital Photography    \nEnglish 2    \nCommunity Service (MPU) YEAR 2 Applied Typography    \nVisual Communication    \nDigital Imaging\nProduction    \nMarketing Studies    \nMotion Graphic\nCorporate Identity Design\nCreative Advertising    \nEditorial Design\nWeb Design 1    \nPackaging Design YEAR 3 Communication Design    \nAdvertising Campaign    \nWeb Design 2\nFinal Project    \nDesign Entrepreneurship    \nPortfolio Design & Presentation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Media",
+      "field_of_study": "Creative Arts",
+      "location": "Dasein, Millerz Square Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 5300,
+        "tuition_fee": 50900
+      },
+      "course_content": {
+        "core": "YEAR 1 Painting    \nDrawing    \nBasic Design\nColor Studies   \nArt History    \nComputer Aided Design\nPenghayatan Etika & Peradaban (MPU)    \nVisual Communication    \nTypography\nDigital Imaging    \nComputer Fundamentals\nLeadership (MPU) OR Bahasa Kebangsaan A (MPU)\nDatabase Fundamentals    \nDigital Photography    \nCommunity Service (MPU) YEAR 2 User Interface Design    \nMultimedia Authoring 1    \nWeb Publishing\nMultimedia Authoring 2    \nWeb Application  (PHP & My SQL)    \nIntroduction to 3D\nInteractive Visual Technology    \n2D Animation    \nDigital Audio & Video YEAR 3 Multimedia Application    \nContent Management System    \nOnline Marketing & Campaign Development\nMotion Graphics    \nFinal Project Studio    \nProject Management\nDesign Entrepreneurship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Fine Art",
+      "field_of_study": "Creative Arts",
+      "location": "Dasein, Millerz Square Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 5300,
+        "tuition_fee": 45400
+      },
+      "course_content": {
+        "core": "YEAR 1 Painting Drawing Basic Design Color Studies General Art History Computer Aided Design Penghayatan Etika & Peradaban (MPU) Techniques & Style in Painting Watercolor Studies Art Appreciation Digital Art English 1 Leadership (MPU) OR Bahasa Kebangsaan A (MPU) Digital Photography English 2 Community Service (MPU) YEAR 2 Oil Painting 1 Print Making 1 Figure Drawing 2D Digital Application English 3 Oil Painting 2 Print Making 2 Figure Painting Sculpture History of Malaysian Art Art History Mixed Media Studies YEAR 3 Final Project Portfolio 1 Final Project Portfolio 2 Installation Art Art Marketing Aesthetic Painter Technique",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nApplicants required to submit portfolios as below:\n1 piece of A4 size portrait drawing in pencil or charcoal\n1 piece of A4 size landscape or still life painting in watercolor"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1436 @@
+{
+  "institution_name": "Xiamen University Malaysia",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 3102,
+  "malaysia_rank": 29,
+  "programs": [
+    {
+      "program_name": "Bachelor of Chemical Engineering with Honours",
+      "field_of_study": "Chemical Engineering",
+      "location": "Xiamen, Sepang",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "minimum passes in Mathematics AND Chemistry OR Physics.",
+        "UEC": "at least Grade B in 5 subjects including Mathematics, Chemistry and Physics.",
+        "STPM": "minimum Grade C (NGMP 2.00) in Mathematics AND Chemistry OR Physics.",
+        "Foundation": "at least CGPA 2.0AND passes in Mathematics and Physics.",
+        "CPU": "an average of 70% in 6 subjects including Mathematics AND Chemistry OR Physics.",
+        "IB Diploma": "32 points with 5 points in Mathematics Higher Level (HL) and 5 points in either Chemistry or Physics.",
+        "SACE/WACE": "a TER 70 and Grade B in Mathematics AND Chemistry OR Physics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 100,
+        "tuition_fee": 112000
+      },
+      "course_content": {
+        "core": "Physical and Organic Chemistry Chemical Engineering Drawing Chemical Engineering Thermodynamics Heat and Mass Transfer Unit Operations of Chemical Engineering Fluid Mechanics for Chemical Engineering Chemical Process Safety Reaction Engineering Process Synthesis and Simulation Chemical Process Technology and Design Organic Chemistry Process Control and Instrumentation Environmental Management Project Management and Economics Analytical Chemistry for Engineers Engineering Mathematics Numerical Methods in Engineering Research Methodology Engineers in Society Plant Equipment Design Introduction to Biochemical Engineering Material Science for Chemical Engineering Chemical Engineering Laboratory Research Project Capstone Project Engineering Statistics and Optimisation Project Management and Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum passes in Mathematics AND Chemistry OR Physics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "at least Grade B in 5 subjects including Mathematics, Chemistry and Physics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum Grade C (NGMP 2.00) in Mathematics AND Chemistry OR Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "at least CGPA 2.0AND passes in Mathematics and Physics."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "an average of 70% in 6 subjects including Mathematics AND Chemistry OR Physics."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "32 points with 5 points in Mathematics Higher Level (HL) and 5 points in either Chemistry or Physics."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "a TER 70 and Grade B in Mathematics AND Chemistry OR Physics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts in Chinese Studies (Honours)",
+      "field_of_study": "Chinese Studies",
+      "location": "Xiamen, Sepang",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "A pass in A-Level with at least a Grade D in any 2 subjects.  SPM-level or equivalent:\ncredit in Chinese",
+        "UEC": "A pass in UEC with at least a Grade B in 5 subjects including Chinese.",
+        "Diploma": "A pass in Diploma with at least CGPA 2.0 out of 4.0.  SPM-level or equivalent:\ncredit in Chinese",
+        "STPM": "A pass in STPM with at least a Grade C (GP 2.0) in any 2 subjects.  SPM-level or equivalent:\ncredit in Chinese",
+        "Foundation": "A pass in Foundation/Matriculation with at least CGPA 2.0 out of 4.0.  SPM-level or equivalent:\ncredit in Chinese"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 100,
+        "tuition_fee": 78000
+      },
+      "course_content": {
+        "core": "Chinese Language 现代汉语 Introduction to Chinese History 中国文化导论 Introduction to Chinese Philosophy 中国历史导论 History of Chinese Literature Part One: Pre-Qin to Tang and Wudai 中国文学史1：先秦至唐五代 History of Chinese Literature Part Two: Song to Qing Period 中国文学史2：宋元明清 Introduction to Literary Theory 文学概论 Introduction to Linguistics 语言学概论 Classical Chinese 古代汉语 Modern and Contemporary Chinese Literature 中国现当代文学 Research Methods 研究方法论 Thesis 毕业论文",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in A-Level with at least a Grade D in any 2 subjects.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in UEC with at least a Grade B in 5 subjects including Chinese."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Diploma with at least CGPA 2.0 out of 4.0.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in STPM with at least a Grade C (GP 2.0) in any 2 subjects.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Foundation/Matriculation with at least CGPA 2.0 out of 4.0.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts in Communication (Honours)",
+      "field_of_study": "Communication",
+      "location": "Xiamen, Sepang",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass A-level with at least Grade D in 2 subjects.  English Language – a credit in SPM level or the equivalent",
+        "UEC": "Pass UEC with at least Grade B in 5 subjects including English Language subject.  English Language – a credit in SPM level or the equivalent",
+        "Diploma": "Pass Diploma in Media and Communication field or the equivalent with at least CGPA 2.00.  English Language – a credit in SPM level or the equivalent",
+        "STPM": "Pass STPM or equivalent with minimum Grade C (GP 2.00) in 2 subjects.  English Language – a credit in SPM level or the equivalent",
+        "Foundation": "Pass Matriculation/Foundation or the equivalent with at least CGPA 2.00.  English Language – a credit in SPM level or the equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 100,
+        "tuition_fee": 81000
+      },
+      "course_content": {
+        "core": "MAJOR CORE Introduction to Mass Communication Introduction to New Media Studies Media Law and Ethics Persuasive Communication Public Speaking Audiovisual Production Principles of Public Relations Media Writing Academic Writing Human Communication Media Content Editing Organizational Communication Social Media and Crisis Communication Event Management Research Methods in Communication Public Relations Counselling Media Literacy and Critical Thinking New Media Marketing Screen Studies Media Management Thesis Writing Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass A-level with at least Grade D in 2 subjects.  English Language – a credit in SPM level or the equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with at least Grade B in 5 subjects including English Language subject.  English Language – a credit in SPM level or the equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Diploma in Media and Communication field or the equivalent with at least CGPA 2.00.  English Language – a credit in SPM level or the equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM or equivalent with minimum Grade C (GP 2.00) in 2 subjects.  English Language – a credit in SPM level or the equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Matriculation/Foundation or the equivalent with at least CGPA 2.00.  English Language – a credit in SPM level or the equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Engineering in Artificial Intelligence (Honours)",
+      "field_of_study": "Computer Science",
+      "location": "Xiamen, Sepang",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass A-level with at least grade D in 2 subjects.  SPM-level or equivalent:\ncredit in Advanced Mathematics",
+        "UEC": "Grade B in 5 Subjects including Advanced Mathematics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics and 1 Science subject.",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Advanced Mathematics subject or Mathematics and one Science/ Technology/ Engineering subject"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 100,
+        "tuition_fee": 116000
+      },
+      "course_content": {
+        "core": "Core Year 1 Calculus Linear Algebra Programming Language (C) Python and Tensorflow Programming Probability and Statistics Principles of Artificial Intelligence Introduction to Intelligence Application Year 2 Discrete Mathematics Data Structures Applied Machine Learning Principles of Computer Composition Matrix Analysis and Application Principles of Operating Systems Methods and Applications of Deep Learning Design and Analysis of Algorithms Year 3 Computer Networks and Communication Advanced Machine Learning Statistical Learning Thesis 1 Year 4 Software Architecture and Development Environment Thesis II Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Advanced Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass A-level with at least grade D in 2 subjects.  SPM-level or equivalent:\ncredit in Advanced Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Advanced Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Advanced Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Mathematics and 1 Science subject."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Advanced Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Advanced Mathematics subject or Mathematics and one Science/ Technology/ Engineering subject"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Engineering in Computer Science and Technology (Honours)",
+      "field_of_study": "Computer Science",
+      "location": "Xiamen, Sepang",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "minimum passes in 2 subjects.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "UEC": "at least Grade B in 5 subjects including Advanced Mathematics.",
+        "Diploma": "pass in Diploma in Computer Science/Information System/Information Technology/Software Engineering or equivalent with a minimum CGPA 2.5*, and credit in Additional Mathematics in SPM or equivalent Other Diplomas: a minimum CGPA of 2.5, and credit in Additional Mathematics in SPM or equivalent.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "STPM": "minimum Grade C (NGMP 2.00) in 2 subjects, and pass in SPM or equivalent with credit in Additional Mathematics.",
+        "Foundation": "at least CGPA 2.0 in the relevant field.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "CPU": "an average of 70% and pass 6 subjects including Mathematics.",
+        "SACE/WACE": "a TER 70 and Grade B in 2 relevant subjects including Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 100,
+        "tuition_fee": 112000
+      },
+      "course_content": {
+        "core": "Core Year 1 Calculus I A Calculus II B Linear Algebra Discrete Mathematics General Physics I Programming Practice Programming Language (C) Introduction to Computer Science And Technology Year 2 General Physics II General Physics Laboratory Probability and Statistics Digital Logic Design And Analysis of Algorithms Data Structures Unix System Programming Year 3 Principles of Computer Composition Compiler Principles Principles of Operating Systems Computer Architecture Fundamentals of Academic Research Year 4 Thesis Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum passes in 2 subjects.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Advanced Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "at least Grade B in 5 subjects including Advanced Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "pass in Diploma in Computer Science/Information System/Information Technology/Software Engineering or equivalent with a minimum CGPA 2.5*, and credit in Additional Mathematics in SPM or equivalent Other Diplomas: a minimum CGPA of 2.5, and credit in Additional Mathematics in SPM or equivalent.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum Grade C (NGMP 2.00) in 2 subjects, and pass in SPM or equivalent with credit in Additional Mathematics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "at least CGPA 2.0 in the relevant field.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "an average of 70% and pass 6 subjects including Mathematics."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "a TER 70 and Grade B in 2 relevant subjects including Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Electrical and Electronics Engineering (Hons)",
+      "field_of_study": "Electrical & Electronic Engineering",
+      "location": "Xiamen, Sepang",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "A pass in A-Level with at least a Grade C in Mathematics AND Physics.",
+        "UEC": "A pass in UEC with at least a Grade B in 5 subjects including Mathematics, Chemistry AND Physics.",
+        "Diploma": "A pass in Diploma with at least CGPA 2.5 out of 4.0 AND passes in Mathematics AND Physics.",
+        "STPM": "A pass in STPM with at least a Grade C (GP 2.0) in Mathematics AND Physics.",
+        "Foundation": "A pass in Foundation/Matriculation with at least CGPA 2.0 out of 4.0 AND passes in Mathematics AND Physics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 100,
+        "tuition_fee": 112000
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Engineering Mathematics (I) Programming Language C Electrical Engineering Bahasa Melayu Komunikasi 2 / Tamadun Islam dan Tamadun Asia (TITAS) Bahasa Kebangsaan A / Writing for Professional Purposes Selection from General Electives Semester 2 Engineering Mathematics (II) Electronics Engineering Engineering Physics (I) Circuits and Devices Engineering Graphics Introduction to the Constitution of Malaysia Community Service Semester 3 Malaysian Studies 3 / HubunganEtnik Selection from General Electives  Year 2 Semester 1 Engineering Mathematics (III) Engineering Physics (II) Microelectronic Devices and Circuits Engineers and Society Instrumentation Engineering Elective Choices SPICE Circuit Simulation Introduction to Matlab Programming Artificial Intelligence Programming Practice Data Structures Laboratory on Circuit Analysis Semester 2 Engineering Mathematics (IV) Computer Architecture Digital Electronics Signals and Systems \"Semiconductor Physics and Device Processes\" Engineering Mathematics (V) Semester 3 Selection from General Electives Year 3 Semester 1 Electromagnetic Field Theory and Waves Electrical Machinery and Drive High Voltage Engineering Engineering Management Control System Engineering Elective Choices Electronic Design and Techniques Fundamentals of Microwave Technology Digital Signal Processing Advanced Analogue Circuit Design Digital System Design MCU Technology and Engineering Data Communication Networks Robotic Systems Semester 2 Embedded Systems RF and Microwave Circuits Capstone Project I Power Electronics Statistical and Numerical Techniques Engineering Elective Choices Digital System Design MCU Technology and Engineering Data Communication Networks Robotic Systems Training on Electronic Design and Techniques A Fundamentals of Microwave Technology Digital Signal Processing Advanced Analogue Circuit Design Semester 3 Industrial Training (Malaysia/Xiamen)  Year 4 Semester 1 Final Year Project I\nPower System Analysis\nElectrical Energy Utilization\nCommunication System\nCapstone Project II Semester 2 Final Year Project II Engineering Elective Choices Microwave EDA Optoelectronic Technology Antenna and Radio Wave Propagation Laboratory on Advanced Circuit Technique RF and MW Measurements Application Themes: Device and System Design Renewable Energy Semester 3 Selection from General Electives\nCapstone Project I\nPower Electronics\nStatistical and Numerical Techniques Engineering Elective Choices Digital System Design MCU Technology and Engineering Data Communication Networks Robotic Systems Training on Electronic Design and Techniques A Fundamentals of Microwave Technology Digital Signal Processing Advanced Analogue Circuit Design",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in A-Level with at least a Grade C in Mathematics AND Physics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in UEC with at least a Grade B in 5 subjects including Mathematics, Chemistry AND Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Diploma with at least CGPA 2.5 out of 4.0 AND passes in Mathematics AND Physics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in STPM with at least a Grade C (GP 2.0) in Mathematics AND Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Foundation/Matriculation with at least CGPA 2.0 out of 4.0 AND passes in Mathematics AND Physics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in English Language and Literature",
+      "field_of_study": "English",
+      "location": "Xiamen, Sepang",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 100,
+        "tuition_fee": 78000
+      },
+      "course_content": {
+        "core": "MAJOR CORE COURSES Effective Reading Grammar in Use History of English Language Introduction to Theory of Literature The Brief History of British and American Literature Task Listening Topics in Prosfessional Communication Academic Writing Creative Writing Literature in a Digital Age Postcolonial Literature in English Appreciation of Drama Critical Appreciation of the Nove lAppreciation of Poetry Discourse Analysis Literature and Other Subjects Topics on Individual Authors Research Methodology Aesthetics Links between Literature, Film and TV Translation Theory and Practice Thesis Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Economics in Finance (Honours)",
+      "field_of_study": "Finance",
+      "location": "Xiamen, Sepang",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "A pass in A-Level with at least a Grade C in any 2 subjects.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "A pass in UEC with at least a Grade B in 5 subjects including mathematics.",
+        "Diploma": "A pass in Diploma with at least CGPA 2.5 out of 4.0.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "A pass in STPM with at least a Grade C+ (GP 2.33) in any 2 subjects.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "A pass in Foundation/Matriculation with at least CGPA 2.5 out of 4.0.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {
+        "Others": "English Language - a pass in SPM or a Grade C7 in UEC or the equivalent"
+      },
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 100,
+        "tuition_fee": 78000
+      },
+      "course_content": {
+        "core": "Common Core Courses Microeconomics Quantitative Methods and Data Analysis I Principles of Accounting Macroeconomics Quantitative Methods and Data Analysis II Principles of Management Statistics for Business Principles of Finance International Economics Basic Econometrics Research Methodology Major Core Courses Commercial Banking Investment Investment Banking Corporate Finance Monetary Policy and Financial Supervision Analysis of Financial Statements Risk Management Financial Engineering Portfolio Management Thesis Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in A-Level with at least a Grade C in any 2 subjects.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in UEC with at least a Grade B in 5 subjects including mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Diploma with at least CGPA 2.5 out of 4.0.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in STPM with at least a Grade C+ (GP 2.33) in any 2 subjects.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Foundation/Matriculation with at least CGPA 2.5 out of 4.0.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts in Journalism (Honours)",
+      "field_of_study": "Journalism",
+      "location": "Xiamen, Sepang",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "A pass in A-Level with at least a Grade C in any 2 subjects.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "A pass in UEC with at least a Grade B in 5 subjects including English.",
+        "Diploma": "A pass in Diploma with at least CGPA 2.0 out of 4.0.  SPM-level or equivalent:\ncredit in English",
+        "STPM": "A pass in STPM with at least a Grade C (GP 2.0) in any 2 subjects.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "A pass in Foundation/Matriculation with at least CGPA 2.0 out of 4.0.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "Others": "a credit in SPM or a Grade B6 in UEC or the equivalent"
+      },
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 100,
+        "tuition_fee": 78000
+      },
+      "course_content": {
+        "core": "News Writing Introduction to New Media Studies Introduction to Journalism Interview for Journalists Journalism Law and Ethics Photojournalism Introduction to Mass Communication Digital Video Production Research Method in Communication Reporting Introduction to International Communication Investigative Journalism Specialized Journalism Public Relations and Corporate Social Responsibilities Online Journalism Feature Writing News Editing Commentary Writing Thesis Writing Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in A-Level with at least a Grade C in any 2 subjects.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in UEC with at least a Grade B in 5 subjects including English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Diploma with at least CGPA 2.0 out of 4.0.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in STPM with at least a Grade C (GP 2.0) in any 2 subjects.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Foundation/Matriculation with at least CGPA 2.0 out of 4.0.  SPM-level or equivalent:\ncredit in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts in Advertising (Honours)",
+      "field_of_study": "Mass Communication",
+      "location": "Xiamen, Sepang",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "with at least grade D in 2 subjects.",
+        "UEC": "at least grade B in 5 subjects including English Language subject.",
+        "Diploma": "at least CGPA 2.00 and Credit in English Language subject at SPM level or equivalent; OR pass Diploma (Level 4 MQF) in Media and Communication field or equivalent.  SPM-level or equivalent:\ncredit in English",
+        "STPM": "minimum Grade C (NGMP 2.00) in 2 subjects.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "at least CGPA 2.00.  SPM-level or equivalent:\ncredit in English",
+        "CPU": "average 70% in 6 related subjects.",
+        "SACE/WACE": "at least Tertiary Entrance Rank (TER) 70 and grade B in 2 related subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 100,
+        "tuition_fee": 81000
+      },
+      "course_content": {
+        "core": "History of Media Introduction to New Media Studies Introduction to Advertising Introduction to Mass Communication Photography Visual Communication Design Advertising Creative Media and Communication Law Advertising Copywriting Marketing TV Commercials and Promos Brand Management Advertising Workshop Planning and Evaluation of Public Relations Campaigns Advertising Psychology Organizational Communication Public Relations Workshop Research Methodology / Media Research Design Thinking Final Year Project Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "with at least grade D in 2 subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "at least grade B in 5 subjects including English Language subject."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language subject"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "at least CGPA 2.00 and Credit in English Language subject at SPM level or equivalent; OR pass Diploma (Level 4 MQF) in Media and Communication field or equivalent.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum Grade C (NGMP 2.00) in 2 subjects.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "at least CGPA 2.00.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "average 70% in 6 related subjects."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "at least Tertiary Entrance Rank (TER) 70 and grade B in 2 related subjects."
+          }
+        ]
+      }
+    }
+  ]
+}

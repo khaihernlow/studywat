@@ -1,0 +1,1015 @@
+{
+  "institution_name": "University of Technology Sarawak (UTS)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 7127,
+  "malaysia_rank": 49,
+  "programs": [
+    {
+      "program_name": "Bachelor of Accountancy (Honours)",
+      "field_of_study": "Accounting",
+      "location": "UTS, Sibu",
+      "intakes": [
+        "Feb",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass GCE A-level with minimum one (1) Grade B and two (2) Grade C’s (including Mathematics).",
+        "UEC": "Pass UEC with five (5) Grade B’s including Mathematics and a pass in English.",
+        "Diploma": "Pass Diploma in Accounting or related field from recognised institutions with minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "STPM": "Pass STPM or equivalent with minimum Grade C+ (CGPA 2.33) in any two (2) subjects.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "Foundation": "Pass Foundation from recognised institutions with minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+      },
+      "english_requirements": {
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 700,
+        "tuition_fee": 46430
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Management & Practises Introductory Financial Accounting Business Law Microeconomics Quantitative Methods for Business Decisions Semester 2 Intermediate Financial Accounting and Reporting I Introductory Management Accounting and Control Organizational Behaviour Accounting Information Systems Company Law Macroeconomics Semester 3 Appreciation of Ethics and Civilisations (Local student)/Bahasa Melayu Komunikasi 2 (International student) Philosophy and Current Issues (Local student & International student) Co-curriculum University Compulsory Subject 1 University Compulsory Subject 2 (Bahasa Kebangsaan) Year 2 Semester 1 Intermediate Financial Accounting and Reporting II Intermediate Management Accounting and Control Financial Management Analysis and Design of Accounting Information System Introduction to Taxation Elective Semester 2 Intermediate Financial Accounting and Reporting II Intermediate Management Accounting and Control Auditing and Assurance 1 Corporate Finance Intermediate Taxation Elective Semester 3 Integrity and Anti-Curruption Entrepreneurial Skills University Compulsory Subject 3 University Compulsory Subject 4 University Compulsory Subject 5 Year 3 Semester 1 Advanced Financial Accounting and Reporting II Advanced Taxation Auditing and Assurance I & II Strategic Management Public Sector Accounting Financial Market and Institutions Semester 2 Industrial Training and Reporting Semester 3 Corporate Governance & Ethics Integrated Case Studies Elective",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass GCE A-level with minimum one (1) Grade B and two (2) Grade C’s (including Mathematics)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with five (5) Grade B’s including Mathematics and a pass in English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Diploma in Accounting or related field from recognised institutions with minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM or equivalent with minimum Grade C+ (CGPA 2.33) in any two (2) subjects.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation from recognised institutions with minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Administration (Hons)",
+      "field_of_study": "Business Administration",
+      "location": "UTS, Sibu",
+      "intakes": [
+        "Feb",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass A-Levels with full pass in two (2) subjects or CGPA 2.0.",
+        "UEC": "Pass UEC with five (5) Grade B’s.",
+        "Diploma": "Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;.",
+        "STPM": "Pass STPM with full pass in two (2) subjects or CGPA 2.0.",
+        "Foundation": "Pass Foundation from recognised institutions with minimum CGPA 2.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 700,
+        "tuition_fee": 48650
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Principles of Management Principles of Marketing Principles of Accounting Business Ethics Management Information Systems Co-curriculum Semester 2 Organizational Behavior E-Commerce Principles of Finance Business Communication Microeconomics MBB39*3 Elective 1 Semester 3 Appreciation of Ethics and Civilisations (Local student)/Bahasa Melayu Komunikasi 2 (International student) Entrepreneurship Skills Integrity and Anti-Corruption (KIAR) University Compulsory Subject 1 University Compulsory Subject 2 (Bahasa Kebangsaan) Year 2 Semester 1 Human Resources Management Financial Accounting Business Statistics Macroeconomics Business Law MBB39*3 Elective 2 Semester 2 Operations Management Cost Accounting Projecting Management Managing Cultural Diversity Final Year Project I MBB39*3 Elective 3 Semester 3 Philosophy and Current Issues (Falsafah dan Isu Semasa) University Compulsory Subject 3 University Compulsory Subject 4 University Compulsory Subject 5 Year 3 Semester 1 Productivity and Quality Management Financial Management Strategic Management International Business Final Year Project II MBB39*3 Elective 4 Semester 2 Industrial Training & Reporting",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass A-Levels with full pass in two (2) subjects or CGPA 2.0."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with five (5) Grade B’s."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with full pass in two (2) subjects or CGPA 2.0."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation from recognised institutions with minimum CGPA 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Civil Engineering (Hons)",
+      "field_of_study": "Civil Engineering",
+      "location": "UTS, Sibu",
+      "intakes": [
+        "Feb",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a full pass in Mathematics and Physical Science.",
+        "UEC": "Pass UEC with five (5) Grade B’s including Mathematics and Physical Science.",
+        "Diploma": "Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;.",
+        "STPM": "Pass with a full pass in Mathematics and Physical Science.",
+        "Foundation": "Pass Foundation in Science from recognised institutions with minimum CGPA 2.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 900,
+        "tuition_fee": 72395
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Engineering Mechanics Mathematics I Appreciation of Ethics and Civilisations Building Services Engineering Graphics University Compulsory Subject 1 Co-curriculum Semester 2 Civil Engineering Materials Strength of Materials Engineering Programming Engineering Surveying Mathematics II Philosophy and Current Issues Semester 3 Survey Camp Year 2 Semester 1 Construction Theory Theory of Structure Fluid Mechanics Highway Engineering I Civil Engineering Lab I Mathematics III University Compulsory Subject 2 Semester 2 Structural Analysis Soil Mechanics Hydraulics Highway Engineering II Civil Engineering Lab II Engineering Statistics Entrepreneurship Skills/Bahasa Kebangsaan A Civil Engineering Lab II Year 3 Semester 1 Water Supply & Wastewater Engineering Geotechnical Engineering Reinforced Concrete Design I Hydrology Basic Accounting & Finance Civil Engineering Lab III Integrity and Anti Corruption Semester 2 Environmental Engineering Reinforced Concrete Design II Structural Steel Design Traffic Engineering University Compulsory Subject 3 University Compulsory Subject 4 Semester 3 Industrial Training Year 4 Semester 1 Final Year Project I Integrated Design Project I Technical Elective I Construction Management Estimating & Contract Semester 2 Final Year Project II Integrated Design Project II Technical Elective II Engineering Ethics University Compulsory Subject 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physical Science"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physical Science"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physical Science"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons)",
+      "field_of_study": "Computer Science",
+      "location": "UTS, Sibu",
+      "intakes": [
+        "Feb",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "A Diploma in Computer Science OR Software Engineering OR Information Technology OR Information Systems or equivalent with a minimum CGPA of 2.50 OR Any other Diploma in science and technology with a minimum CGPA of 2.50.",
+        "STPM": "A pass in STPM in Science Stream with a minimum Grade C (GP 2.00) in a Mathematics subject and a Science/ICT subject.",
+        "Foundation": "A pass in Foundation studies with minimum CGPA of 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics OR Mathematics and one of the subjects in Science, Technology or Engineering"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 700,
+        "tuition_fee": 52440
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Introduction to Programming Discrete Mathematics Introduction to Software Engineering Data Communication and Networking Computer Architecture Design Thinking and Presentation Co-curriculum Semester 2 Data Structure and Algorithms Object-Oriented Programming Calculus Multimedia Technology Database Development and Applications Operating Systems University Compulsory Subject I Year 2 Semester 1 Statistics Computer System Security Human-Computer Interaction Artificial Intelligence Ethics and Professionalism Digital Innovation and Entrepreneurship Elective I Semester 2 Web Technology Algorithm and Design Complexity Software Quality and Testing Requirement Engineering Elective II * University Compulsory Subject II Semester 3 Penghayatan Etika dan Peradaban (Appreciation of Ethics and Civilisations) * Bahasa Melayu Komunikasi 2 Falsafah dan Isu Semasa (Philosophy and Current Issues) Malaysia Economy University Compulsory Subject III (Bahasa Kebangsaan) Year 3 Semester 1 IT Project Management Mobile Application Development Final Year Project I Elective III * Entrepreneurship Skills Semester 2 System Administration and Network Management Final Year Project II Elective IV * University Compulsory Subject IV University Compulsory Subject V Year 4 Semester 1 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "A Diploma in Computer Science OR Software Engineering OR Information Technology OR Information Systems or equivalent with a minimum CGPA of 2.50 OR Any other Diploma in science and technology with a minimum CGPA of 2.50."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "A pass in STPM in Science Stream with a minimum Grade C (GP 2.00) in a Mathematics subject and a Science/ICT subject."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "A pass in Foundation studies with minimum CGPA of 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics OR Mathematics and one of the subjects in Science, Technology or Engineering"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Electrical Engineering (Honours)",
+      "field_of_study": "Electrical Engineering",
+      "location": "UTS, Sibu",
+      "intakes": [
+        "Feb",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a full pass in Mathematics and Physical Science.",
+        "UEC": "Pass UEC with five (5) Grade B’s including Mathematics and Physical Science.",
+        "Diploma": "Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;.",
+        "STPM": "Pass with a full pass in Mathematics and Physical Science.",
+        "Foundation": "Pass Foundation in Science from recognised institutions with minimum CGPA 2.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 850,
+        "tuition_fee": 72585
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Circuit Theory I & II Principle of Electronics Mathematics I Engineering Science Engineering Graphics Co-curriculum University Compulsory Subject 1 Mathematics Physics Chemistry Semester 2 Circuit Thoery II Digital Electronics Mathematics II Engineering Programming University Compulsory Subject 2 EE Engineering Lab I Appreciation of Ethics and Civilisations Year 2 Semester 1 Signals and Systems Measurements and Instrumentations Electromagnetic Field Theory Mathematics III Philosophy and Current Issues University Compulsory Subject 3 Semester 2 Control System Analysis Communication Systems Analogue Electronics Electrical Machines Engineering Statistics EE Engineering Lab II University Compulsory Subject 4 Year 3 Semester 1 Power Systems Electrical Drives Power Electronics Numerical Methods for Engineers Basic Accounting and Finance Industrial Safety and Health Semester 2 High Voltage Engineering Integrated Design Projects Power System Control & Analysis Microcontroller and Interfacing EE Engineering Lab III Entrepreneurship Skills Semester 3 Industrial Training Year 4 Semester 1 Engineering FYP I Power System Transients Industrial Automation Elective 1 Project Management Engineer in Society Semester 2 Engineering FYP II Utilisation of Electrical Energy Elective 1I Malaysian Economy/Integrity and Anti-Corruption University Compulsory Subject 5",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a full pass in Mathematics and Physical Science."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with five (5) Grade B’s including Mathematics and Physical Science."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a full pass in Mathematics and Physical Science."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation in Science from recognised institutions with minimum CGPA 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Food Technology (Hons)",
+      "field_of_study": "Food Science",
+      "location": "UTS, Sibu",
+      "intakes": [
+        "Feb",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass A-level.  SPM-level or equivalent:\ncredit in Mathematics and Science",
+        "UEC": "Pass UEC with five (5) Grade B’s.",
+        "Diploma": "Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;.",
+        "STPM": "Pass STPM.  SPM-level or equivalent:\ncredit in Mathematics and Science",
+        "Foundation": "Pass Foundation in Science from recognised institutions with minimum CGPA 2.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 800,
+        "tuition_fee": 60750
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Biostatistics Chemistry Mathematics Physics University Compulsory Subject 1 University Compulsory Subject 2 Co-curriculum Semester 2 Microbiology Appreciation of Ethics and Civilisations Principle of Programming Introduction to Food Science and Technology Entrepreneurship University Compulsory Subject 3 Year 2 Semester 1 Fundamental of Food Engineering Food Microbiology Biochemistry Food Chemistry Malaysian Economy University Compulsory Subject 4 Semester 2 Food Analysis 2 Food Sensory Evaluation Introduction to Nutrition Technology and Management of Food Waste Introduction to Nutrition Food Analysis 1 Year 3 Semester 1 Food Processing and Preservation Unit Operation in Food Processing Food Packaging Food Safety and Assurance Food Standard and Legislation Semester 2 Final Year Project I New Food Development Halal Food Elective I Elective I Year 4 Semester 1 Final Year Project II Philosophy and Current Issues Elective III Food Management and Business University Compulsory Subject 5 Semester 2 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Pass A-level.  SPM-level or equivalent:\ncredit in Mathematics and Science"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "Pass STPM.  SPM-level or equivalent:\ncredit in Mathematics and Science"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts in Industrial Design (Honours)",
+      "field_of_study": "Industrial Design",
+      "location": "UTS, Sibu",
+      "intakes": [
+        "Feb",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "UEC": "Pass Unified Examination Certificate (UEC) with minimum Grade B in five (5) subjects.",
+        "Diploma": "Pass Diploma (KKM, Level 4) from recognised institution or equivalent with a minimum CGPA 2.00.",
+        "STPM": "Pass STPM or equivalent, with a minimum Subject Grade Value(NGMP) 2.00.  SPM-level or equivalent:\ncredit in BM\npass in English",
+        "Foundation": "Pass Foundation from recognised institution or equivalent with minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 700,
+        "tuition_fee": 56710
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Design Context Product Styling and Creativity Industrial Design Studies Understanding Users Design Practice 1 Bahasa Kebangsaan Semester 2 Graphic Media and Communication Ergonomics for Design Colour Theory Computing for Designer Material and Process Design Practice 2 Year 2 Semester 1 Universal Design Service Design Design for Modularity Sustainable Design Design Practice Entrepreneurship Skills Semester 2 Product Costing User Experienced Design Research Methodology Design for Additive Process Design Practice 4 University Compulsory Subject 2 Semester 3 University Compulsory Subject 3 University Compulsory Subject 4 Falsafah dan Isu Semasa (Philosophy and Current Issues) Malaysian Economy Year 3 Semester 1 Strategic Management of Innovation and Design Design Research Project Elective 1 Elective 2 Co-curriculum Semester 2 Design Research Project 2 Elective 3 Elective 4 Penghayatan Etika dan Peradaban (Appreciation of Ethics and Civilisations)* Bahasa Melayu Komunikasi 2** University Compulsory Subject 5 Semester 3 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Pass Unified Examination Certificate (UEC) with minimum Grade B in five (5) subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Diploma (KKM, Level 4) from recognised institution or equivalent with a minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "BM"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM or equivalent, with a minimum Subject Grade Value(NGMP) 2.00.  SPM-level or equivalent:\ncredit in BM\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation from recognised institution or equivalent with minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Art (Hons) Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "UTS, Sibu",
+      "intakes": [
+        "Feb",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least 2 Grade E.  Pendidikan Seni & Portfolio Review",
+        "UEC": "5 Grade B in UEC including Maths & Science.  Pendidikan Seni & Portfolio Review",
+        "Diploma": "Pass with at least CGPA 2.0.  Pendidikan Seni & Portfolio Review",
+        "STPM": "Pass with at least 2 credits.  Pendidikan Seni & Portfolio Review",
+        "Foundation": "Pass with at least CGPA 2.0.  Pendidikan Seni & Portfolio Review"
+      },
+      "english_requirements": {
+        "MUET": "Band 3"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 650,
+        "tuition_fee": 64870
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Principles of Design Interior Design Studio 1 Design Presentation Technique Building Technology Furniture Design & Ergonomic 1 Semester 2 Interior Design Studio 2 History and Theory of Western Architecture Interior Design Detailing  & Finishes 1 Furniture Design & Ergonomic 2 Year 2 Semester 1 Interior Design Studio 3 Computer Aided Drafting Lighting & Colours Environmental Psychology Semester 2 Interior Design Studio 4 History and Theory of Asian and Nusantara Region Architecture Building Services Measured Drawing Elective 1 Year 3 Semester 1 Interior Design Studio 5 Interior Design Detailing  & Finishes 2 Interior Designer Practice Elective 2 Semester 2 Professional Internship (6 Months) Year 4 Semester 1 Comprehensive Interior Design Project Project Management & Costing Elective 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 2 Grade E.  Pendidikan Seni & Portfolio Review"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Grade B in UEC including Maths & Science.  Pendidikan Seni & Portfolio Review"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CGPA 2.0.  Pendidikan Seni & Portfolio Review"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 2 credits.  Pendidikan Seni & Portfolio Review"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CGPA 2.0.  Pendidikan Seni & Portfolio Review"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering (Hons)",
+      "field_of_study": "Mechanical Engineering",
+      "location": "UTS, Sibu",
+      "intakes": [
+        "Feb",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a full pass in Mathematics and Physical Science.",
+        "UEC": "Pass UEC with five (5) Grade B’s including Mathematics and Physical Science.",
+        "Diploma": "Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;.",
+        "STPM": "Pass with a full pass in Mathematics and Physical Science.",
+        "Foundation": "Pass Foundation in Science from recognised institutions with minimum CGPA 2.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 850,
+        "tuition_fee": 74015
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Statics Material Science Engineering Laboratory 1 & 2 Engineering Graphics Mathematics 1 University Compulsory Subject 1 Appreciation of Ethics and Civilisations Co-curriculum Semester 2 Dynamics Mechanics of Materials Electrical Engineering Electrical Laboratory 2 Engineering Workshop Engineering Programming Mathematics 2 Philosophy and Current Issues Year 2 Semester 1 Electronic Engineering Thermodynamics 1 Fluid Mechanics 1 Measurement and Instrumentation Systems Engineering Laboratory 3 Mathematics 3 University Compulsory Subject 2 Semester 2 Material Engineering Thermodynamics 2 Fluid Mechanics 2 Product Design Computer-Aided Design Engineering Laboratory 4 Engineering Statistics Entrepreneurship Skills Year 3 Semester 1 Mechanics of Machines Heat Transfer Mechanical Design Control Engineering Numerical Methods for Engineering Basic Accounting and Finance Malaysian Economy Semester 2 Mechanical Vibration Engineering Ethics Industrial Safety and Health Integrated Design Project University Compulsory Subject 3 University Compulsory Subject 4 Semester 3 Industrial Training Year 4 Semester 1 Manufacturing Technology Technical Elective 1 Technical Elective 2 Final Year Project 1 University Compulsory Subject 5 Operational Research Semester 2 Project Management Technical Elective 3 Technical Elective 4 Final Year Project 2 \"",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a full pass in Mathematics and Physical Science."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with five (5) Grade B’s including Mathematics and Physical Science."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Diploma in related field from recognised institutions with minimum CGPA 2.0;."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a full pass in Mathematics and Physical Science."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation in Science from recognised institutions with minimum CGPA 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) in Creative Digital Media",
+      "field_of_study": "Multimedia Design",
+      "location": "UTS, Sibu",
+      "intakes": [
+        "Feb",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "UEC": "Pass UEC with at least a B grade in 5 subjects.",
+        "Diploma": "Creative Multimedia Diploma with a minimum CGPA of 2.5 (candidates with CGPA below 2.50 but above 2.00 may be subject to internal evaluation process).",
+        "STPM": "Pass STPM or equivalent with at least a Grade C (NGMP 2.0) in 2 subjects.",
+        "Foundation": "Pass Foundation from any IPTA / IPTS / Institution that is allowed to offer foundation program with CGPA of 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5",
+        "TOEFL": "34",
+        "Others": "CAE - 160CPE - 180PTE - 36"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 700,
+        "tuition_fee": 64895
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Design Context Digital Drawing for Character Animation Digital Imagery Fundamental Digital Photography University Compulsory Subject 1 University Compulsory Subject 2 (Bahasa Kebangsaan) Screenwriting Concept Semester 2 Graphic Media and Communication 3D Modeling Environment Design Digital Character Concept Production Process Compositing Fundamental Year 2 Semester 1 Interactive Design Action Analysis Design for Animation Digital Sculpting Digital Composting 1 & 2 Entrepreneurship Skills Semester 2 Academic Research Fundamental Advertising Effect Audio Composition Digital Cinematography Digital Compositing 2 University Compulsory Subject 3 Semester 3 Bahasa Melayu Komunikasi 2 (International student) Penghayatan Etika dan Peradaban (Appreciation of Ethics and Civilisations) (Local student) (Local student) Malaysian Economy Falsafah dan Isu Semasa (Philosophy and Current Issues) Year 3 Semester 1 Digital Motion Graphic Research Project 1 Elective 1 Elective 2 Co-curriculum Semester 2 Research Project 1 Elective 3 Elective 4 University Compulsory Subject 4 University Compulsory Subject 5 Semester 3 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with at least a B grade in 5 subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Creative Multimedia Diploma with a minimum CGPA of 2.5 (candidates with CGPA below 2.50 but above 2.00 may be subject to internal evaluation process)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM or equivalent with at least a Grade C (NGMP 2.0) in 2 subjects."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation from any IPTA / IPTS / Institution that is allowed to offer foundation program with CGPA of 2.00."
+          }
+        ]
+      }
+    }
+  ]
+}

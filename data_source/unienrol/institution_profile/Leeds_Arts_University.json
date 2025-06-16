@@ -1,0 +1,1023 @@
+{
+  "institution_name": "Leeds Arts University",
+  "institution_country": "United Kingdom",
+  "institution_type": "Public",
+  "world_rank": 20092,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "BA (Hons) Animation",
+      "field_of_study": "Animation",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year 1 Develop a comprehensive understanding of the principles of animation, from idea generation to end production processes. Exploration of the animation cycle covers narrative development,\nworldbuilding,\ncharacter design,\nstoryboarding,\nbackground/layout,\ninnovative media\nanimation techniques.\nLearn skills across 2D, 3D computer-generated,\nstop motion animation. narrative development, worldbuilding, character design, storyboarding, background/layout, innovative media animation techniques. Learn skills across 2D, 3D computer-generated, stop motion animation. You’ll consider the practical, conceptual, and theoretical pathways open to you as an animator. Year 2 Collaborate with others to develop your own specialist practice using briefs and self-identified projects. You will focus on pre-production,\nanimation, or\npost-production techniques as you progress. pre-production, animation, or post-production techniques as you progress. This enables you to further understand job roles and your interests within the animation production pipeline. Competitions, live briefs, and teamwork teaches you essential social, communication, professional, and entrepreneurial skills. Year 3 Using your new knowledge, you will focus on your own creative ambitions and develop a strategy for becoming a professional animator. You’ll negotiate your own projects,\nparticipate in competitions,\nattend conferences, and\nmeet visiting professionals. your own projects, participate in competitions, attend conferences, and meet visiting professionals. Year three focusses on building a striking and unique portfolio that reflects the skills you have to offer any future employer or client, setting you up for a successful career in the industry.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B5"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Malaysian SPM UCLES",
+              "SPM 1119"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Malaysian Certificate",
+              "Malaysian Diploma"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Malaysian SPM UCLES",
+              "SPM 1119"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "gpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Malaysian SPM UCLES",
+              "SPM 1119"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Visual Communication",
+      "field_of_study": "Communication",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One Core principles of design and communication are introduced within graphic design,\nphotography and film,\nprintmaking, and\nillustration. graphic design, photography and film, printmaking, and illustration. Through practical briefs, you will unpick communication processes including persuasion,\nnarrative,\ndocumentary, and\nreportage, persuasion, narrative, documentary, and reportage, where your own interests will inform the content of your work. You may have the opportunity to collaborate with other students across disciplines at the University. You may also work with businesses and communities in the city and exhibit your work. Year Two You will develop your creative practice and\napply your skills to real life-projects (whether self-directed, client-based, or competitions). creative practice and apply your skills to real life-projects (whether self-directed, client-based, or competitions). During the year you will start to investigate the professional world related to your emerging practice. This specialism could be in any number of applications or subject areas, as directed by your own interests. You will develop an impressive portfolio of work to help secure vital work experience. Year Three In the last year you consolidate the focus of your creative practice. You will develop your professional and entrepreneurial skills through engagement with visiting professionals,\nexternal events, and\nexhibitions. visiting professionals, external events, and exhibitions. Work culminates in the realisation of a graduate folio which reflects your individual philosophy and career aspirations as a creative thinker and visual communicator.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Comic and Concept Art",
+      "field_of_study": "Creative Arts",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One The course starts by shaping how you think and draw as a comic and concept artist. Practical workshops develop your design drawing, \nidea generation, and\nvisual storytelling. design drawing, idea generation, and visual storytelling. Lectures and seminars focus on the historical and professional context of comic and\nconcept art industries. the historical and professional context of comic and concept art industries. At the same time, projects and art tests give you a taste of what is required to be a comic and concept artist. Experimentation and developing traditional drawing skills inform your 2D and 3D digital output. Year Two Year Two Our teaching further develops your understanding of cultural awareness and\nthe skills needed for worldbuilding and believability. understanding of cultural awareness and the skills needed for worldbuilding and believability. Practical workshops will begin to stretch you and your digital 2D and 3D workflows in visualising characters and their worlds. Specialisms might include character,\nenvironment,\narchitecture,\nprop,\nmech,\nvehicle and creature design,\nstoryboarding,\nnarrative illustration,\nwebtoons,\ncomics or graphic novels. character, environment, architecture, prop, mech, vehicle and creature design, storyboarding, narrative illustration, webtoons, comics or graphic novels. You will also create a professional online profile and expand your industry engagement. Year Three You will focus on your specialism and the industry-related skills for becoming a professional comic and/or concept artist. You will negotiate a creative project including industry links - competitions,\nlive briefs,\nstudio visits,\nindustry research, \nwork experience - building a robust portfolio that reflects your passion, ambition and sought-after talent as a versatile specialist. industry links - competitions, live briefs, studio visits, industry research, work experience - building a robust portfolio that reflects your passion, ambition and sought-after talent as a versatile specialist.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Creative Advertising",
+      "field_of_study": "Creative Arts",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview.",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview.",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview.",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One Through our expert tuition, you will develop the ability to recognise,\nexplore,\nunderstand, and\nbuild a fundamental knowledge of the elements of this fascinating discipline. recognise, explore, understand, and build a fundamental knowledge of the elements of this fascinating discipline. You will grow awareness of advertising, brands, context, language, practices, and creative and strategic thinking. Likewise, you will gain an understanding of ‘thinking by questioning’ and then ‘questioning your thinking’. Year Two By the second year, you will begin to explore your talents, proficiencies, and roles within the advertising industry, covering digital specialisms through to strategic and creative work. This includes the traditional, c\nollaborative dynamism of copywriter and\nart director. the traditional, c ollaborative dynamism of copywriter and art director. You will have opportunities to respond to exciting live and competition briefs generated by the advertising industry, which demand a pragmatic approach to creativity. Year Three You will now have the tools to create work with a degree of professionalism that will illustrate your ability to combine the theoretical and practical aspects of the field. We will support you to plan your career path,\nrefine your specialism,\nmake contacts, network, and\nbuild meaningful relationships. plan your career path, refine your specialism, make contacts, network, and build meaningful relationships. The degree culminates with an impressive portfolio of work, guided by your new professional evaluation skills and an understanding of theoretical problem-solving.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Creative Writing",
+      "field_of_study": "Creative Arts",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119 -\nA short portfolio (application images) - One reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview.\nEvidence of your writing interests in the form of samples of your work. Your work should demonstrate your developing, imaginative and creative skills.w.",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119 -\nA short portfolio (application images) - One reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview.\nEvidence of your writing interests in the form of samples of your work. Your work should demonstrate your developing, imaginative and creative skills.w.",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119 -\nA short portfolio (application images) - One reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview.\nEvidence of your writing interests in the form of samples of your work. Your work should demonstrate your developing, imaginative and creative skills.w.",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119 -\nA short portfolio (application images) - One reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview.\nEvidence of your writing interests in the form of samples of your work. Your work should demonstrate your developing, imaginative and creative skills.w."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One Writing workshops play a central role as a collaborative method to accelerate and consolidate student learning. It will expand your critical vocabulary and\ndevelop technical skills in the drafting and editing work required of a professional writer.\nTutorials, lectures, seminars, masterclasses, and cross-disciplinary project work also feature in year one. critical vocabulary and develop technical skills in the drafting and editing work required of a professional writer. Tutorials, lectures, seminars, masterclasses, and cross-disciplinary project work also feature in year one. Year Two You will now be developing a clear sense of your writing direction and favoured mode of production and will produce work that responds to outward facing briefs and opportunities. Tutorials, masterclasses, and collaborative project work help you to focus on technical skills, which may include\nthe use of screenwriting,\nediting, and\npublishing software. Tutorials, masterclasses, and collaborative project work help you to focus on technical skills, which may include the use of screenwriting, editing, and publishing software. Hands-on learning and mentoring by professional writers as well as visits, online forums, and blogs will develop and challenge your writing breadth and skills. Year Three The final year gives you the opportunity to negotiate, develop, and complete a major writing project. This culminates in the production of a substantial body of original work, contributing to your chosen writing platform. It will reflect your individual philosophy and career aspirations as a talented new writer.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119 -\nA short portfolio (application images) - One reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview.\nEvidence of your writing interests in the form of samples of your work. Your work should demonstrate your developing, imaginative and creative skills.w."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B5"
+          },
+          {
+            "type": "raw",
+            "text": ".  Grade C or above in English in Malaysian SPM UCLES or SPM 1119 -\nA short portfolio (application images) - One reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview.\nEvidence of your writing interests in the form of samples of your work. Your work should demonstrate your developing, imaginative and creative skills.w."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119 -\nA short portfolio (application images) - One reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview.\nEvidence of your writing interests in the form of samples of your work. Your work should demonstrate your developing, imaginative and creative skills.w."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": " or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119 -\nA short portfolio (application images) - One reference to support your application from an academic teacher, tutor, or counsellor\nAn interview forms part of the Admissions process. Providing that you meet our entry requirements for these courses, and submit your examples of work within the required deadline you will be offered either an in person or remote interview.\nEvidence of your writing interests in the form of samples of your work. Your work should demonstrate your developing, imaginative and creative skills.w."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Photography",
+      "field_of_study": "Creative Arts",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One Develop your creative potential through a range of briefs and tasks that integrate technical skills with abstract ideas.\nYou will be introduced to fashion image-making methods and gain an understanding of the roles of extended creative teams.\nLearn about lighting techniques and work in a range of locations.\nAn introduction to both the ‘still’ and ‘moving’ image as used across various platforms will be explored to raise awareness of the importance of context for image production. Develop your creative potential through a range of briefs and tasks that integrate technical skills with abstract ideas. You will be introduced to fashion image-making methods and gain an understanding of the roles of extended creative teams. Learn about lighting techniques and work in a range of locations. An introduction to both the ‘still’ and ‘moving’ image as used across various platforms will be explored to raise awareness of the importance of context for image production. Year Two You will investigate the moving image and digital technology alongside still photography.\nExperimental and innovative approaches to international briefs are celebrated.\nCollaboration through creative teams is an essential requirement, and there will be many opportunities for this.\nEmployer engagement activities and industry-facing projects boost your industry links and open progression routes and career pathways within the fashion industry. You will investigate the moving image and digital technology alongside still photography. Experimental and innovative approaches to international briefs are celebrated. Collaboration through creative teams is an essential requirement, and there will be many opportunities for this. Employer engagement activities and industry-facing projects boost your industry links and open progression routes and career pathways within the fashion industry. Year Three Your confidence will grow as your work is critiqued and you receive constructive one-to-one feedback.\nThe course culminates with an extensive photographic portfolio that contributes to a spectacular end of year show.\nYour in-depth understanding of Fashion Photography and real-world experiences will solidify your successful future career pathway. Your confidence will grow as your work is critiqued and you receive constructive one-to-one feedback. The course culminates with an extensive photographic portfolio that contributes to a spectacular end of year show. Your in-depth understanding of Fashion Photography and real-world experiences will solidify your successful future career pathway.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fine Art",
+      "field_of_study": "Creative Arts",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One Your first year focuses on community building,\nmaking, and e\nxperimentation. community building, making, and e xperimentation. Through a range of introductory workshops, seminars, and critiques you will explore materials and processes alongside developing your critical thinking. Year Two In your second year you will develop your work within your specialist studio community, with specialist teaching,\ntutorials, and\ncritiques to extend your practice. specialist teaching, tutorials, and critiques to extend your practice. You will enhance your professionalism by implementing artists’ strategies and exhibition practice. Year Three In your third year you will consolidate your informed and positioned practice and begin to work beyond your studio community. As a confident and emerging professional artist, you will extend your networks and\nlearn how to develop proposals and applications for local, national, and international projects and exhibitions. extend your networks and learn how to develop proposals and applications for local, national, and international projects and exhibitions. Supported through critiques and tutorials, your final body of work is curated to form a public facing exhibition.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Photography",
+      "field_of_study": "Creative Arts",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One The course begins with a focus on developing your technical photography skills, and\nhistorical and contemporary perspectives on photography. technical photography skills, and historical and contemporary perspectives on photography. You will gain knowledge about iconic photographers and image impact while developing practical competencies across all aspects of photography, from lighting to photographic workflow. Year Two This is a more conceptual year that builds on your specialist photographic practice and interests. You’ll learn business skills for freelancing or running your own business, and\nprofessional guest speakers will relate their own experiences and insights.\nrespond to live commercial and community briefs, and\nbe encouraged to arrange work experience in the industry. business skills for freelancing or running your own business, and professional guest speakers will relate their own experiences and insights. respond to live commercial and community briefs, and be encouraged to arrange work experience in the industry. Year Three In your final year you will continue to build an extensive and impressive portfolio of work. Collaborations with students on other creative courses will help you build a diverse breadth of experience and contribute to your end of year show. You will develop your professional practices through specific degree modules and\nbe encouraged to seek feedback from industry on your work. your professional practices through specific degree modules and be encouraged to seek feedback from industry on your work. Our impressive sector networks and focus on employability give you a great platform as a skilled photographer starting out in this exciting field.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Branding with Communication",
+      "field_of_study": "Fashion Design",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One You will study multiple branding theories,\nconcepts,\nprocesses, and\ncreative communication tools employed by the industry,\nincluding historical contexts, ethics and sustainability in fashion. branding theories, concepts, processes, and creative communication tools employed by the industry, including historical contexts, ethics and sustainability in fashion. You will start developing your own voice,\nideas and\ncreative practice through individual and group projects.\nResearch skills,\nlateral thinking\ncreative imagination are central to all units. own voice, ideas and creative practice through individual and group projects. Research skills, lateral thinking creative imagination are central to all units. Year Two You will further develop your skills with a specific focus on future concepts and innovative, creative branding strategies. Exploration of applied theories to digital applications,\nsocial media platforms and\nmulti-platform branding will further enhance your approach to branding and communication. digital applications, social media platforms and multi-platform branding will further enhance your approach to branding and communication. Creative concept development will be supported through the study of consumers’ shifting relationship with brands due to online communication and forecasting of ideas and scenarios for the future of the industry. Live projects and collaborative projects will expand your external contacts and enhance your professionalism, confidence, experience and employability. Year Three You will consolidate your in-depth knowledge of developing fashion branding strategies and communication campaigns to produce a creative and professional portfolio. The self-directed final year takes a holistic approach through a body of research that is supported by critical writing.\nThis culminates in the realisation of a graduate portfolio which reflects your individual philosophy and career aspirations as a fashion branding professional and creative thinker/communicator. The self-directed final year takes a holistic approach through a body of research that is supported by critical writing. This culminates in the realisation of a graduate portfolio which reflects your individual philosophy and career aspirations as a fashion branding professional and creative thinker/communicator.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Design",
+      "field_of_study": "Fashion Design",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One Learn the core skills required for fashion design, such as fashion drawing and illustration,\ndesign methods,\ncolour awareness and application,\nmaterial use and behaviour,\npattern cutting and garment production,\nvisual research methods,\nportfolio presentation, and\ndigital applications for design. fashion drawing and illustration, design methods, colour awareness and application, material use and behaviour, pattern cutting and garment production, visual research methods, portfolio presentation, and digital applications for design. Educational visits can take a variety of physical and virtual formats. These experiences offer a cultural insight into the fashion ecology and inspire your work. Year Two Continue to develop your work process and presentation skills,\ntaking pride in your work and\ngaining confidence in sharing your creations through live projects, competitions, and\nindustry events. work process and presentation skills, taking pride in your work and gaining confidence in sharing your creations through live projects, competitions, and industry events. Through pattern cutting and garment production, you will combine elements of traditional tailoring techniques with contemporary genderfluid design and you will explore and apply the technique of creative pattern cutting, as integral to the design process, to realise ‘creative cut’ concepts into final garments. Year Three This self-directed final year takes a holistic approach to your practice. You will produce a body of work supported by reflective and critical writing,\nculminating in the realisation of your graduate fashion collection. reflective and critical writing, culminating in the realisation of your graduate fashion collection. Live projects will further enhance your portfolio in preparation for employment and your identity as a successful creative fashion-design practitioner.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Textile Design",
+      "field_of_study": "Fashion Design",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One Your first year is about experimentation. We introduce you to various themes and core skills in creative thinking and making,\ndigital design, and\nprint. various themes and core skills in creative thinking and making, digital design, and print. We will help you identify,\ndevelop, and\nexpress identify, develop, and express your creative interests,\naesthetic sensibilities, and\napproaches to creative practice. interests, aesthetic sensibilities, and approaches to creative practice. We offer design-related workshops,\npeer-to-peer learning, and\nstudent collaboration opportunities design-related workshops, peer-to-peer learning, and student collaboration opportunities that give you industry-relevant skills and experiences. Year Two Develop your creative and practical skills through live briefs,\nindustry competitions, and\nemployability opportunities. live briefs, industry competitions, and employability opportunities. You may produce work for a range of audiences including national and global clients. You will be encouraged to develop a personal design ‘handwriting’ that you can apply to your choice of design and specialist interests. Year Three You will be encouraged to consolidate and plan your own programme of work in response to your chosen design interests and creative hand.\nThrough this, you will develop a professional portfolio of work supporting your career aspirations.\nYou will have regular contact time with tutors who will support your progress.\nDue to the course’s broad remit, former students have gained employment at high street and designer brands, in fashion, interiors, and entered self-employment. You will be encouraged to consolidate and plan your own programme of work in response to your chosen design interests and creative hand. Through this, you will develop a professional portfolio of work supporting your career aspirations. You will have regular contact time with tutors who will support your progress. Due to the course’s broad remit, former students have gained employment at high street and designer brands, in fashion, interiors, and entered self-employment.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Filmmaking",
+      "field_of_study": "Film & Television",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One Begin by exploring the role of filmmaker and the process of filmmaking. You will work across roles and gain experience to frame your understanding of the production process. Films are produced in small teams, and as a class, we watch our work in regular screenings with discussions. The craft and range of skills involved in the filmmaking process are underpinned by film history. You will watch,\ncritique, and\ndiscuss some of the great filmmakers, movements, and practices of the last century. watch, critique, and discuss some of the great filmmakers, movements, and practices of the last century. Year Two You will start to specialise and focus on specific production areas,\nforming more specialist production teams to support complete production cycles each semester. specialise and focus on specific production areas, forming more specialist production teams to support complete production cycles each semester. You will produce a wide and varied body of work across different disciplines, including fiction,\ndocumentary, and\nadvertising. fiction, documentary, and advertising. Year Three You will consolidate the practices of the previous two years, with a focus on industry practice and the specialisation of skills.\nYou will work on larger scale productions during this year and collaborate across a production team, but also across multi-disciplinary teams.\nYou will prepare an impressive portfolio of your work, methods of distribution, screenings, and workshops to support your successful transition into this exciting industry. You will consolidate the practices of the previous two years, with a focus on industry practice and the specialisation of skills. You will work on larger scale productions during this year and collaborate across a production team, but also across multi-disciplinary teams. You will prepare an impressive portfolio of your work, methods of distribution, screenings, and workshops to support your successful transition into this exciting industry.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One Working in dedicated design spaces, you will focus on the fundamentals of visual language. You will investigate methods and design practice around type,\nlanguage,\nimage,\nnarrative,\nmeaning, and\nmessage. methods and design practice around type, language, image, narrative, meaning, and message. You will also explore typography,\nprint,\ndrawing processes,\nand screen-based media typography, print, drawing processes, and screen-based media to form a comprehensive understanding of graphic design. Year Two Taking a more self-directed role, you will develop your design practice,\ncritical assessments, and\nseminars. design practice, critical assessments, and seminars. This is where audience,\ncontext,\ndistribution, and\nethical issues become fundamental to your practice. audience, context, distribution, and ethical issues become fundamental to your practice. We run group workshops and challenge you with innovative live briefs from real industry partners. Year Three Build on your understanding of professional practice,\nbusiness,\nmarketing skills, and\nproject management. practice, business, marketing skills, and project management. You will develop a dynamic portfolio of work by participating in a series of self-directed competition briefs as well as creative exhibitions. These industry experiences and professional networks support employment opportunities and advance your understanding of interests you may wish to pursue in your career.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Illustration",
+      "field_of_study": "Graphic Design",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 294554
+      },
+      "course_content": {
+        "core": "Year One Explore a range of approaches to the communication of ideas through image-making, with an emphasis on experimentation and reflection. You’ll develop your practical,\ntheoretical, and\ncontextual understanding of the discipline practical, theoretical, and contextual understanding of the discipline through projects and seminars alongside workshops. There is an ongoing focus on discovery through making, supported by a lively programme of studio briefs. Year Two You’ll further explore a range of approaches to communicating ideas,\nconcepts and messages through processes\nvisual language communicating ideas, concepts and messages through processes visual language Apply your work to industrially relevant contexts and products while studying the theory and methods behind your practice. You will also learn essential business skills\nexplore the postgraduate opportunities available to you. essential business skills explore the postgraduate opportunities available to you. Likewise, you will grow in confidence and understanding to make informed decisions about your future. Year Three In your final year you will focus on your professional ambitions and further develop the business-related skills required for becoming a professional creative. You’ll negotiate your own creative projects and activities such as competitions,\nlive briefs,\nindustrial research, and\nwork experience. competitions, live briefs, industrial research, and work experience. Building a portfolio that reflects your focus and talents is essential as you learn to respond to the demands of the creative industries.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BMus (Hons) Popular Music Performance",
+      "field_of_study": "Music",
+      "location": "Leeds Arts University, Blenheim Walk",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "UEC": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "Diploma": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor",
+        "STPM": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 313955
+      },
+      "course_content": {
+        "core": "Year One Fundamental concepts of popular music performance,\nproduction, and\ncomposition popular music performance, production, and composition are introduced through practical music-making. Delivery is key, so you will participate in Ensemble Performance Workshops, perform on stage, in the recording studio, and as an individual, whilst receiving expert 1:1 guidance from experienced staff. The first year also integrates song-writing,\narranging,\nstagecraft,\nmusic production, and\nentrepreneurial activity. song-writing, arranging, stagecraft, music production, and entrepreneurial activity. Year Two Alongside 1:1 vocal/instrumental tuition, you will respond to briefs that contribute to a portfolio of song writing,\nperformances,\nrecordings, and\nvisual material. song writing, performances, recordings, and visual material. You will explore professional artist development,\ncontracts,\nrights,\nfinances, planning,\nprofessional presentation, and\nnetworking. artist development, contracts, rights, finances, planning, professional presentation, and networking. Music is also explored in context, looking at popular music through history and ground-breaking events. Year Three You will undertake a music-focused project which embodies your specialism and further develops your professional identity. Recognising your audience is critical as you implement analytical techniques and problem-solving skills that can be applied in many types of employment. By the end of this course, you will be equipped with skills for decision-making in complex professional,\nmusical, and\ncreative environments. skills for decision-making in complex professional, musical, and creative environments.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "112 UCAS point or BBC.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "B5 in 5 subjects.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Accept Malaysian Certificate or Malaysian Diploma.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "GPA 3.0 or higher.  Grade C or above in English in Malaysian SPM UCLES or SPM 1119\nA short portfolio (application images)\nOne reference to support your application from an academic teacher, tutor, or counsellor"
+          }
+        ]
+      }
+    }
+  ]
+}

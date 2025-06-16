@@ -1,0 +1,714 @@
+{
+  "institution_name": "RCSI & UCD Malaysia Campus (RUMC)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Bachelor of Science in Medical Informatics",
+      "field_of_study": "Medical Technology",
+      "location": "RCSI & UCD Malaysia Campus, Penang",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Diploma in Computing fields : Minimum CGPA of 2.50.  - Diploma (Level 4, MQF) in Non-Computing : Minimum CGPA of 2.75 - Candidates with CGPA below 2.50 but more than 2.00 may be admitted subject to a rigorous assessment.",
+        "STPM": "Pass with a minimum Grade of C (GP 2.00) in any TWO (2) subjects..  Credit in Mathematics at SPM level or its equivalent",
+        "Foundation": "Pass with a minimum CGPA of 2.00.  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "Overall band score of 5.0",
+        "CEFR": "High B1"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 93000
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Foundations in Medicine Computer Architecture & Operating Systems Health Informatics Fundamentals Programming Fundamentals Technical Writing Semester 2 System Analysis & Design Health Databases & Data Management Exploring Artificial Intelligence in Health Mobile OS & Programming Communication Skills Short Semester Appreciation of Ethics & Civilisations Philosophy & Current Issues Bahasa Melayu Komunikasi 2 Bahasa Kebangsaan A Critical Thinking  Year 2 Semester 3 Electronic Health Records Healthcare TechnologyManagement Advanced Programming Data Science & Analytics Elective Semester 4 Medical Internet of Things Medical coding standards Fundamentals of Medical Imaging Elective Elective Short Semester Professionalism & Ethics in Healthcare Khidmat Masyarakat & Ko Kurikulum  Year 3 Semester 5 Internet & Networking Health Data Visualisation Computer Security & Data Privacy Research Methodology Elective Semester 6 Internship Undergraduate Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Diploma in Computing fields : Minimum CGPA of 2.50.  - Diploma (Level 4, MQF) in Non-Computing : Minimum CGPA of 2.75 - Candidates with CGPA below 2.50 but more than 2.00 may be admitted subject to a rigorous assessment."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Medicine, Bachelor of Surgery, Bachelor of Obstetrics (MB BCH BAO) (2.5 + 2.5) with Royal College of Surgeons and University College Dublin, Ireland",
+      "field_of_study": "Medicine",
+      "location": "RCSI & UCD Malaysia Campus, Penang",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 5,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "ABB in : Biology Chemistry Mathemathics or Physics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "UEC": "1 B3, 4 B4’s: · Biology · Chemistry · Physics · Mathematics or Additional Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "STPM": "ABB in : Biology Chemistry Mathemathics or Physics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "Foundation": "CGPA 3.50 in 3 subjects : Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "IB Diploma": "36 points (including bonus points) with a minimum of 2 HL and 1 SL in 3 Science subjects. Attained a minimum score of 5 at Higher Level each in Biology and Chemistry.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "SACE/WACE": "ATAR 93 with average of 90% or the equivalent of B in any 3 subjects : Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+      },
+      "english_requirements": {
+        "MUET": "yes",
+        "IELTS": "yes",
+        "TOEFL": "yes",
+        "Others": "GCE O-Level (1119 English)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 219500
+      },
+      "course_content": {
+        "core": "Year 1 - 3 IRELAND Systems : Cardiovascular Central Nervous System Gastrointestinal & Hepatology Genito-urinary Haematology Locomotor Renal, Endocrine & Breast Respiratory Psychology Sociology Tropical Medicine YEAR 1 - 3 IRELAND Each system consists of: Anatomy Biochemistry Evidence-Based Medicine Genetics Introduction to Clinical Practice Microbiology Pharmacology Physics in Medicine Physiology Public Health & Epidemiology Year 3 -5 ear 3 -5 MALAYSIA Clinical Skills Communication Skills Medicine Surgery Orthopaedics Family Medicine Paediatrics Public Health Psychiatry Ear, Nose & Throat Forensic & Legal Medicine Obstetrics Ophthalmology Anaesthesiology Emergency Medicine Radiology Clinical Elective",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "ABB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Mathemathics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABB in : Biology Chemistry Mathemathics or Physics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "B3"
+          },
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "B4"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "1 B3, 4 B4’s: · Biology · Chemistry · Physics · Mathematics or Additional Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "ABB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Mathemathics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABB in : Biology Chemistry Mathemathics or Physics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": "=",
+            "value": 3.5
+          },
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 3.50 in 3 subjects : Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": "=",
+            "value": 36
+          },
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "36 points (including bonus points) with a minimum of 2 HL and 1 SL in 3 Science subjects. Attained a minimum score of 5 at Higher Level each in Biology and Chemistry.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": "=",
+            "value": 93
+          },
+          {
+            "type": "cgpa",
+            "comparator": "=",
+            "value": 90
+          },
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 93 with average of 90% or the equivalent of B in any 3 subjects : Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Pre-Medical Foundation",
+      "field_of_study": "Foundation in Science",
+      "location": "RCSI & UCD Malaysia Campus, Penang",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "BSc in Science CGPA 3.0 (out of 4.0) or above .",
+        "A-Level": "ABC or BBB in: -Biology -Chemistry -Mathematics or Physics.",
+        "UEC": "5 B4’s: -Biology -Chemistry -Physics Mathematics or Additional Mathematics.",
+        "STPM": "ABC or BBB in: -Biology -Chemistry -Mathematics or Physics.",
+        "Foundation": "CGPA 3.0 (out of 4.0) in 3 subjects: Biology Chemistry Mathematics or Physics providing the course is not less than 1 year in the same accredited institution AND 5B’s each in: -Biology -Chemistry -Mathematics or Additional Mathematics -Physics -Another subject In SPM/O-Level or its equivalent.",
+        "SACE/WACE": "80 ATAR provided the subjects include: -Biology -Chemistry -Mathematics or Physics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 40000
+      },
+      "course_content": {
+        "core": "Semester 1\nFundamental of Human Biology (5 credits)\nFundamentals of Medicinal & Pharmaceutical Chemistry (5 credits)\nMedical Applications of Physics (5 credits)\nMusculoskeletal System, Nervous System & Bioelectricity (5 credits)\nCommunication and Professionalism in the Health Science 1 (5 credits)\nBiomedical Laboratory Sciences (5 credits) Semester 1 Semester 2\nThermoregulation, Special Senses, Endocrine System, Reproductive System (5 credits)\nIntroduction to Health and Disease (5 credit)\nMedicinal & Pharmaceutical Chemistry II (5 credits)\nRespiratory System, Gastrointestinal System (5 credits)\nCardiovascular System, Biological Fluids, Renal Function (5 credits)\nCommunication and Professionalism in the Health Science 2 (5 credits)\nBiomedical Laboratory Sciences (5 credits) Semester 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "BSc in Science CGPA 3.0 (out of 4.0) or above ."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABC or BBB in: -Biology -Chemistry -Mathematics or Physics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 B4’s: -Biology -Chemistry -Physics Mathematics or Additional Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABC or BBB in: -Biology -Chemistry -Mathematics or Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Mathematics",
+              "Additional Mathematics",
+              "Physics",
+              "Another subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 3.0 (out of 4.0) in 3 subjects: Biology Chemistry Mathematics or Physics providing the course is not less than 1 year in the same accredited institution AND 5B’s each in: -Biology -Chemistry -Mathematics or Additional Mathematics -Physics -Another subject In SPM/O-Level or its equivalent."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 80.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "80 ATAR provided the subjects include: -Biology -Chemistry -Mathematics or Physics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science",
+      "field_of_study": "Foundation in Science",
+      "location": "RCSI & UCD Malaysia Campus, Penang",
+      "intakes": [
+        "Jul",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3As 2Bs (AAABB) in Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject.",
+        "O-Level": "3As 2Bs (AAABB) in Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject.",
+        "UEC": "B4 in Biology, Chemistry, Physics or Mathematics or Advanced Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 30000
+      },
+      "course_content": {
+        "core": "Semester 1 General Physics 1 General Chemistry 1 General Biology 1 General Mathematics Language, Communication & Study Skills 1 Basic IT Semester 2 General Physic 2 General Chemistry 2 Human System 1 Language, Communication & Study Skills 2 Professionalism in the Health Sciences Semester 3 Physics for Health Sciences Chemistry for Health Sciences Human System 2 Introduction to Diseases Diagnostics, Therapeutics Elective Projects",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3As 2Bs (AAABB) in Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3As 2Bs (AAABB) in Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B4"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Advanced Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "B4 in Biology, Chemistry, Physics or Mathematics or Advanced Mathematics."
+          }
+        ]
+      }
+    }
+  ]
+}

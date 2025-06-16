@@ -1,0 +1,474 @@
+{
+  "institution_name": "Asia Metropolitan University (AMU)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 14204,
+  "malaysia_rank": 93,
+  "programs": [
+    {
+      "program_name": "Bachelor of Business Administration (Hons)",
+      "field_of_study": "Business Administration",
+      "location": "AMU, Cheras",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "STPM": "Pass with minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 38500
+      },
+      "course_content": {
+        "core": "Year 1\nMalaysian Business Environment\nBusiness Mathematics\nOrganisation Management\nEnglish for Academic Enrichment\nBahasa Kebangsaan A\nMicroeconomics for Business Decisions\nPrinciples of Marketing\nAccounting Practice\nPublic Speaking and Presentation Skills\nMacroeconomics in the Global Economy\nHuman Resource Management\nFoundations of Law\nManagement Information System\nIntegrity and Anti-Corruption\nPenghayatan Etika Peradaban (PEP)/ Bahasa Melayu Komunikasi 2\nFalsafah dan Isu Semasa/ Malaysian Studies 3\n\nYear 2\nPrinciples of Finance\nLeadership & Professional Development\nBusiness Communication Skills\nOrganisational Behaviour\nPsychology at the workplace\nSelling & Sales Management\nFinancial Management\nManagerial Accounting\nAMUnited 2\nOperations Management\nBusiness Ethics & Corporate Social Responsibility\nBusiness Research Methods\nMalaysian Studies\nEnvironmental Management for Business\nOperations Management\nBusiness Ethics & Corporate Social Responsibility\nBusiness Research Methods\n\nYear 3\nBusiness Statistics\nProject Paper\nStrategic Management\nEntrepreneurship\nIndustrial Attachment Year 1 Year 2 Year 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Healthcare Management",
+      "field_of_study": "Healthcare",
+      "location": "AMU, Cheras",
+      "intakes": [
+        "Feb",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry.",
+        "UEC": "Please contact our counsellors for further details.",
+        "Diploma": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted..",
+        "STPM": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry.",
+        "Foundation": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1\nPrinciple of Healthcare\nHuman Anatomy and Physiology I\nIntroduction to Psychology\nCommunication Skills in Healthcare\nEnglish for Academic Enrichment\nBahasa Kebangsaan A (without SPM credit)\nLaw and Ethics in Healthcare Management\nHuman Anatomy and Physiology II\nSocial Cultural Aspect in Healthcare\nEssentials of Medical Terminology\nFalsafah dan Isu Semasa(FIS)\nPenghayatan Etika dan Peradaban (PEP) Year 1  Year 2\nAccounting for Healthcare\nDisease Prevention I\nHealth Informatics\nHealthcare Service and System in Malaysia\nIntegrity and Anti-Corruption\nDisease Prevention II\nHealth Finance and Economics\nPrinciples of Epidemiology\nIntroduction to Pharmacology\nLeadership and Development Year 2  Year 3\nHealth Safety and Risk Management\nHuman Resource Management in Healthcare\nOrganizational Behaviour and Development\nComplimentary Medicine/ Medical Tourism\nAMUnited II\nNational Health Policy\nHospital Management\nResearch Methodology\nStrategic Management in Healthcare\nlnterprofessional Learning/Pharmaceutical Management Year 3  Year 4\nLeadership and Conflict Managament in Healthcare\nEmergency and Disaster Management\nHealth Education and Promotion\nQuality Assurance in Healthcare\nHealth Insurance / Introduction to Mandarin\nResearch Project\nIndustrial Training I (hospital)\nIndustrial Training II (community) Year 4",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "AMU, Cheras",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 22000
+      },
+      "course_content": {
+        "core": "Year 1\nIntroduction to Business\nFundamentals of Marketing\nFundamentals of Accounting\nCommunicative English\nFundamentals of Management\nBusiness Communication\nBahasa Kebangsaan A\nFundamentals of Human Resource Management\nIntroduction to Microeconomics\nBusiness Mathematics\nFundamentals of Financial Management\nCommunication in Malay 1\nPenghayatan Etika dan Peradaban/ Bahasa Melayu Komunikasi 1\nCommunication & Presentation Skills\nCritical and Creative Thinking Skills\nYouth Development Year 1  Year 2\nOrganizational Behaviour\nBusiness Statistics\nEntrepreneurship\nBusiness Law\nBusiness Ethics\nAMUnited 1\nPsychology at Workplace\nFinancial Accounting\nIntroduction to Macroeconomics\nInnovation Management\nPrinciples & Practice of Selling\nIntroduction to Information Technology\nFundamentals of Operations Management\nRisk Management\nInternational Business Year 2  Year 3\nInternship Year 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Healthcare",
+      "field_of_study": "Healthcare",
+      "location": "AMU, Cheras",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Credits (including BM, English, Maths, 1 science subject, i.e. Biology/Physics/Chemistry/General Science/Applied Science, and another subject).",
+        "O-Level": "5 Credits (including English, Maths, 1 science subject, i.e. Biology/Physics/Chemistry/General Science/Applied Science, and any other 2 subjects)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 40000
+      },
+      "course_content": {
+        "core": "Year 1\nIntroduction to Healthcare\nBehavioral Science\nHuman Anatomy & Physiology\nBasic Microbiology\nCommunicative English\nIntroduction to Environmental Health\nMedical Ethics\nHealth & Social Care Services\nIntroduction to Pharmacology\nMalaysian Studies\nYouth Development\nCritical and Creative Thinking Skills\nCommunication and Supportive Skills Year 1  Year 2\nCurrent Issues in Health\nMedical Office Management\nBasic Immunology\nHealth and Safety\nAmunited 1\nBusiness Communication\nHealth Promotion\nLifespan Management\nProfessional Development\nManagement of Medical Inventory\nHealth Issues for Specific Groups\nEpidemiology Year 2  Year 3\nHealthcare Marketing\nBiostatistics\nHealthcare Human Resource\nHealthcare Management Information System\nWard and Lab Management\nWaste Management\nHealthcare Accounting\nRisk Management\nPractical Training in Hospitals / Healthcare Industry Year 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "BM",
+              "English",
+              "Maths",
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits (including BM, English, Maths, 1 science subject, i.e. Biology/Physics/Chemistry/General Science/Applied Science, and another subject)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Maths",
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits (including English, Maths, 1 science subject, i.e. Biology/Physics/Chemistry/General Science/Applied Science, and any other 2 subjects)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration (Coursework) (General)",
+      "field_of_study": "Business Administration",
+      "location": "AMU, Cheras",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 28000
+      },
+      "course_content": {
+        "core": "Core Modules\nMarketing Management/li>\nHuman Resource Management\nAccounting for Managers\nManagerial Economics\nResearch Methodology Core Modules  Major\nOrganisational Behaviour\nBusiness Informatics\nBusiness Statistics\nCorporate Finance Major  Project\nProject Paper Project  Assessment\nContinuous Assessment\nFinal Examination Assessment",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Science in Healthcare Management",
+      "field_of_study": "Healthcare",
+      "location": "AMU, Cheras",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 20000
+      },
+      "course_content": {
+        "core": "Semester 1\nManagement and Governance in Healthcare Industry\nHealthcare System In Malaysia\nResearch Methodology\nHealthcare Human Resource Management\nHealthcare Economic Semester 1  Semester 2\nHealthcare Information System\nAccounting and Finance for Healthcare\nHealthcare Marketing\nEpidemiology\nHealth Promotion in Healthcare / Strategic Management in Healthcare Semester 2  Semester 3\nResearch Project\nEntrepreneurship in Healthcare/Healthcare Operation Management Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Business Administration (Coursework) (Human Resource Management)",
+      "field_of_study": "MBA Programme",
+      "location": "AMU, Cheras",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 28000
+      },
+      "course_content": {
+        "core": "CORE\nMarketing Management\nHuman Resource Management\nAccounting for Managers\nManagerial Economics\nResearch Methodology CORE  MAJOR\nStrategic Human Resource Management\nHuman Resource Development\nTraining and Development\nCompensation and Benefits Management\nIndustrial Relations and Labour Law MAJOR  PROJECT\nProject Paper PROJECT",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Doctor of Business Administration (Coursework)",
+      "field_of_study": "Business Administration",
+      "location": "AMU, Cheras",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 42000
+      },
+      "course_content": {
+        "core": "Year 1 Trimester 1 Strategic Marketing\nEconomic Analysis for Managers\nAdvanced Global Business\nManagerial Finance Trimester 2\nOrganizational Leadership\nAdvanced Human Resource Management\nSeminar in Managerial Accounting\nAdvanced Research Methodology\nTrimester 3 Trimester 2 Trimester 3 Advanced Statistic\nDecision Making Analysis\nAdvanced Strategic Management\nConsultation Project 1  Year 2 Trimester 1 Consultation Project 2\nDissertation - Proposal Defence\nTrimester 2 Trimester 2 Dissertation - Data Analysis Trimester 3 Dissertation - Data Analysis  Year 3 Trimester 1 Dissertation - Write-up Trimester 2 Dissertation - Write-up\nTrimester 3 Trimester 3 Dissertation - Viva Voce",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Doctor of Philosophy in Management (Research)",
+      "field_of_study": "Management",
+      "location": "AMU, Cheras",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 20000
+      },
+      "course_content": {
+        "core": "YEAR 1 Trimester 1 Advanced Research Methodology\nTrimester 2 Trimester 2 Thesis-Topic selection\nTrimester 3 Trimester 3 Thesis Colloquium 1  YEAR 2 Trimester 1 Thesis-Proposal Defence\nTrimester 2 Trimester 2 Thesis-Data collection & Data Analysis\nTrimester 3 Trimester 3 Thesis-Write-up  YEAR 3 Trimester 1 Thesis-Write-up\nTrimester 2 Trimester 2 Thesis-Colloquium 2\nTrimester 3 Trimester 3 Thesis-Viva voce",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {}
+    }
+  ]
+}

@@ -1,0 +1,4070 @@
+{
+  "institution_name": "Nilai University",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 11257,
+  "malaysia_rank": 76,
+  "programs": [
+    {
+      "program_name": "Advanced Diploma in Aircraft Engineering Technology",
+      "field_of_study": "Aircraft Maintenance Engineering",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 440,
+        "tuition_fee": 27880
+      },
+      "course_content": {
+        "core": "Core Aerospace Technology I Aerospace Technology II Aircraft Engineering Individual Project I Aircraft Engineering Individual Project II Aircraft Maintenance Operations I Aircraft Maintenance Operations II Air Transport Economics I Air Transport Economics II Research Methods and Design Unmanned Aerial Vehicle Operations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "BA (Hons) in Accounting & Finance",
+      "field_of_study": "Accounting and Finance",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1320,
+        "tuition_fee": 56700
+      },
+      "course_content": {
+        "core": "Foundational\nFoundation of Business Foundational Core and Disciplinary\nAccounting in Society\nAccounting Information System\nAdvanced Financial Accounting\nAuditing Practice\nAdvanced Taxation\nAuditing Theory\nBusiness Aspects of Management Accounting\nBusiness Economics for Financial Markets\nCorporate Finance\nCorporate Financial Accounting\nCorporate Law, Governance and Estate Planning\nCurrent Developments in Accounting Theory\nDeveloping Business\nEssentials of Information Skills\nFinancial Derivative\nFinancial Markets and Institutions\nInternational Business\nInternational Finance\nIntroduction to Finance\nIntroduction to Financial Accounting\nIntroduction to Management Accounting\nInvestments\nLaw for Business\nManagement Accounting\nPersonal Finance\nPersonal Taxation\nRetirement Planning and Financial Management\nRisk Management and Insurance\nQuantitative Methods for Business Core and Disciplinary Capstone\nBusiness Synoptic in Accounting and Finance Capstone Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Biotechnology",
+      "field_of_study": "Biotechnology",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "UEC": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "Diploma": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "Foundation": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "CPU": "Minimum 50% in 6 subjects.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "IB Diploma": "24 marks in 6 subjects.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "SACE/WACE": "Minimum 50% in 5 subjects.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1320,
+        "tuition_fee": 57000
+      },
+      "course_content": {
+        "core": "Foundational Understanding Biotechnology Fundamental Sciences Introductory Biology General Chemistry Statistics Organic Chemistry Core Sciences Microbiology Genetics General Biochemistry Discipline Core Biodiversity and Environmental Bio-resources Bioinformatics Cell and Molecular Biology Cell and Molecular Biology Laboratory Cell and Tissue Culture Industrial Microbiology Innovation and Commercialisation Introduction to Bioprocess Engineering Biotechnology Practical I Biotechnology Practical II Research Methods and Design Quality Assurance and Quality Control Industrial Good Practices Capstone Research Project I Research Project II Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 50% in 6 subjects.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 24.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "24 marks in 6 subjects.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 50% in 5 subjects.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Business Administration (Hons)",
+      "field_of_study": "Business Administration",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1320,
+        "tuition_fee": 54000
+      },
+      "course_content": {
+        "core": "Common Core Business Communication Business Ethics and Social Responsibility Essentials of Information Skills Foundation of Business Human Resource Management Introduction to Finance Introduction to Financial Accounting Introduction to Management Accounting Law for Business Principles of Management Principles of Marketing Principles of Macroeconomics Principles of Microeconomics Quantitative Methods for Business Discipline Core Business Analytics Business Research Methods E-Commerce Entrepreneurship Financial Technology Human Resource Development International Business Logistics and Supply Chain Management Marketing Management Organisational Behaviour Personal Finance Strategic Management Specialization *BBA students will have to choose on their own 30 credits specialization subjects. Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Finance",
+      "field_of_study": "Business Administration",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1320,
+        "tuition_fee": 54000
+      },
+      "course_content": {
+        "core": "Foundational Foundation of Business Core Accounting Information System\nAdvance Taxation\nBusiness Analytics\nBusiness Communication\nBusiness Economics for Financial Markets\nBusiness Ethics and Social Responsibility\nBusiness Research Methods\nCorporate Finance\nCorporate Law, Governance and Estate Planning\nDeveloping Business\nDigital Marketing\nEntrepreneurship\nEssentials of Information Skills\nFinancial Derivative\nFinancial Markets and Institutions\nFinancial Technology\nHuman Resources Management\nInternational Business\nInternational Finance\nIntroduction to Finance\nIntroduction to Financial Accounting\nIntroduction to Management Accounting\nInvestments\nIslamic Banking & Finance\nLaw for Business\nOrganisation Behaviour\nPersonal Finance\nPersonal Taxation\nPrinciples of Management\nPrinciples of Marketing\nQuantitative Methods for Business\nRetirement Planning and Financial Management\nRisk Management and Insurance\nStrategic Management Capstone\nBusiness Synoptic in Accounting and Finance Capstone Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Computer Science (Hons) (Artificial Intelligence)",
+      "field_of_study": "Computer Science",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with Grade D in any two (2) subjects.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent.",
+        "UEC": "Pass with at least Grade B in any five (5) subjects.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent.",
+        "Diploma": "Diploma in Computing fields (Level 4, MQF) : Pass with minimum CGPA of 2.50. Any Diploma in Science & Technology (Level 4,MQF) : Pass with a minimum CGPA 2.75. DKM/DVM/DLKM in Computing fields: Pass with a minimum CGPA of 2.50.",
+        "STPM": "Arts stream: Pass with a minimum Grade of C (GP 2.00) in any (2) subjects Science stream: Pass with a minimum Grade of C (GP 2.00) in Mathematics subject and ONE (1) Science / ICT subject.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent.",
+        "Foundation": "Pass with a minimum CGPA of 2.00.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
+      },
+      "english_requirements": {
+        "MUET": "Band 3.5",
+        "IELTS": "5",
+        "TOEFL": "7.5 (Ess Online) / 40 (iBT)"
+      },
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1760,
+        "tuition_fee": 65400
+      },
+      "course_content": {
+        "core": "Year 1 EC3105 - C Programming\nEC3114 - Software Modeling and Analysis\nEC3119 - Database Systems\nEC3120 - Computer Architecture and Organisation\nEC3121 - Introduction to Object Oriented Programming\nEC3122 - Web Development\nEC3123 - Operating Systems Principles\nEC3127 - Understanding Computing\nEC3130 - Introduction to Data Communications and Networking\nEC3132 - Python Programming EC3105 - C Programming EC3114 - Software Modeling and Analysis EC3119 - Database Systems EC3120 - Computer Architecture and Organisation EC3121 - Introduction to Object Oriented Programming EC3122 - Web Development EC3123 - Operating Systems Principles EC3127 - Understanding Computing EC3130 - Introduction to Data Communications and Networking EC3132 - Python Programming Year 2 EC3234 - Data Structure and Algorithms\nEC3240 - Computer Graphics\nEC3243 - Object Oriented Software Development\nEC3253 - Software Design and Architecture\nEC3269 - Human Computer Interaction\nEC3272 - Artificial Intelligence\nEC3284 - Discrete Structures\nEC3286 - Fuzzy Logic-Based Expert System\nEC3288 - Information Assurance Security\nEC3289 - Machine Learning EC3234 - Data Structure and Algorithms EC3240 - Computer Graphics EC3243 - Object Oriented Software Development EC3253 - Software Design and Architecture EC3269 - Human Computer Interaction EC3272 - Artificial Intelligence EC3284 - Discrete Structures EC3286 - Fuzzy Logic-Based Expert System EC3288 - Information Assurance Security EC3289 - Machine Learning Year 3 EC3302 - Theory of Computation\nEC3306 - Software Project Management\nEC3350 - Computer Vision and Image Processing\nEC3355 - Big Data Analytics\nEC3366 - Platform Based Development\nEC3367 - Parallel and Distributed Computing\nEC3368 - Artificial Intelligence in Robotics\nEC3374 - Deep Learning\nEC3371 - AI Project I\nEC3372 - AI Project II\nGP3304 - Internship EC3302 - Theory of Computation EC3306 - Software Project Management EC3350 - Computer Vision and Image Processing EC3355 - Big Data Analytics EC3366 - Platform Based Development EC3367 - Parallel and Distributed Computing EC3368 - Artificial Intelligence in Robotics EC3374 - Deep Learning EC3371 - AI Project I EC3372 - AI Project II GP3304 - Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade D in any two (2) subjects.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least Grade B in any five (5) subjects.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Computing fields (Level 4, MQF) : Pass with minimum CGPA of 2.50. Any Diploma in Science & Technology (Level 4,MQF) : Pass with a minimum CGPA 2.75. DKM/DVM/DLKM in Computing fields: Pass with a minimum CGPA of 2.50."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Arts stream: Pass with a minimum Grade of C (GP 2.00) in any (2) subjects Science stream: Pass with a minimum Grade of C (GP 2.00) in Mathematics subject and ONE (1) Science / ICT subject.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum CGPA of 2.00.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Event Management (Hons)",
+      "field_of_study": "Event Management",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 3300,
+        "tuition_fee": 54000
+      },
+      "course_content": {
+        "core": "Common Core Introduction to Financial Accounting Principles of Management Study Skills Managing People in the Hospitality & Tourism Industries Revenue and Profit Management for Hospitality and Tourism Hospitality Law Service Quality Management Discipline Core Fundamentals of Special Events Conferences & Conventions Sports Events Management Introduction to Tourism Professional Event Planning Events Safety & Risk Management Production and Operations in Events ICT in Managing Events Final Year Project (Events Management) Financial Analysis and Control for an Events Organisation Graduating Seminar in Hospitality & Tourism Event Feasibility and Development Events and Destination Management Hospitality Organisational Behaviour Research Methodology in Hospitality Event Sponsorship Event Logistics Hospitality Strategic Management Events Stakeholder Behaviour Event Marketing ICT in Managing Events Minor Publication Design Food and Beverage Service 1 Theory Industrial Training Internship Placement",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "BBA (Hons) in Human Resource Management",
+      "field_of_study": "Human Resource Management",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1320,
+        "tuition_fee": 54000
+      },
+      "course_content": {
+        "core": "Common Core\nBusiness Communication\nBusiness Ethics and Social Responsibility\nEssentials of Information Skills\nFoundation of Business\nHuman Resource Management\nIntroduction to Finance\nIntroduction to Financial Accounting\nIntroduction to Management Accounting\nLaw for Business\nPrinciples of Management\nPrinciples of Marketing\nPrinciples of Macroeconomics\nPrinciples of Microeconomics\nQuantitative Methods for Business Common Core Discipline Core\nBusiness Analytics\nBusiness Research Methods\nE-Commerce\nEntrepreneurship\nFinancial Technology\nInternational Business\nLeadership\nMarketing Management\nOrganisational Behaviour\nOrganisational Theory and Design\nPersonal Finance\nStrategic Management Discipline Core Specialization\nBusiness Project Plan\nCompensation and Benefits\nGlobal Talent Management\nHealth and Safety in Human Resource\nHuman Resource Development\nHuman Resource Information System\nHuman Resource Management for Practitioner\nHuman Resources Planning\nIndustrial Relations\nRecruitment and Human Resource Issues in Outsourcing Specialization Industrial Training\nInternship Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Hons) (Internet Engineering & Cloud Computing)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics",
+        "CPU": "Minimum 50% in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "IB Diploma": "24 marks in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "SACE/WACE": "Minimum 50% in 5 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1320,
+        "tuition_fee": 54000
+      },
+      "course_content": {
+        "core": "Common Core and Discipline Core Advanced Web Technologies Artificial Intelligence Blockchain Technology Cybersecurity C Programming Cloud Architecture Cloud Storage Infrastructure Computer Architecture and Organisation Data Communications and Networking Database Systems Discrete Structure Dynamic Web Programming Human Computer Interaction Internet and Cloud Principles Internet and Cloud Security Introduction to Object Oriented Programming Introduction to Information Systems Introduction to Data Communications and Networking Information Technology Fundamentals Network Construction and Administration Object Oriented Software Development Operating Systems Principles Routing and Switching Service Oriented Architecture Software Design and Architecture Software Modelling and Analysis Software Project Management Web Development Capstone IECC Project I IECC Project II Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 50% in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "24 marks in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 50% in 5 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Hons)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics",
+        "CPU": "Minimum 50% in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "IB Diploma": "24 marks in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "SACE/WACE": "Minimum 50% in 5 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1320,
+        "tuition_fee": 54000
+      },
+      "course_content": {
+        "core": "Common Core and Discipline Core Artificial Intelligence Blockchain Technology Big Data Analytics C Programming Computer Architecture and Organisation Cloud Architecture Cybersecurity Data Communications and Networking Database Systems Discrete Structure Dynamic Web Programming Enterprise Resource Planning Human Computer Interaction Internet of Things Introduction to Information Systems Introduction to Object Oriented Programming Information Assurance Security Information Technology Fundamentals IoT Smart Application Development Network Construction and Administration Object Oriented Software Development Operating Systems Principles Routing and Switching Software Design and Architecture Software Modelling and Analysis Software Project Management Web Development Capstone Final Year Project I Final Year Project II Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 50% in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "24 marks in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 50% in 5 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in International Business",
+      "field_of_study": "International Business",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1320,
+        "tuition_fee": 54000
+      },
+      "course_content": {
+        "core": "Common Core\nBusiness Communication\nBusiness Ethics and Social Responsibility\nEssentials of Information Skills\nFoundation of Business\nHuman Resource Management\nIntroduction to Finance\nIntroduction to Financial Accounting\nIntroduction to Management Accounting\nLaw for Business\nPrinciples of Management\nPrinciples of Marketing\nPrinciples of Macroeconomics\nPrinciples of Microeconomics\nQuantitative Methods for Business Common Core Discipline Core\nBusiness Analytics\nBusiness Research Methods\nConsumer Behaviour\nDigital Marketing\nE-Commerce\nEntrepreneurship\nFinancial Technology\nHuman Resource Development\nMarketing Management\nOrganisational Behaviour\nPersonal Finance\nStrategic Management Discipline Core Specialization\nBusiness Process Management\nBusiness Project Plan\nGlobal Marketing\nGlobal Talent Management\nInternational Business\nInternational Business Law\nInternational Finance\nInternational Management\nLeadership\nLogistics and Supply Chain Management Specialization Industrial Training\nInternship Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Commerce (Honours) in International Business - ODL",
+      "field_of_study": "International Business",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "A pass with a minimum Grade D in any two (2) subjects.  Pass in Mathematics and English at SPM level",
+        "UEC": "A pass with a minimum Grade B in five (5) subjects.  Pass in Mathematics and English at SPM level",
+        "Diploma": "A pass with a minimum CGPA of 2.00, or its equivalent.",
+        "STPM": "A pass with a minimum Grade C (GP 2.0) in any two (2) subjects.  Pass in Mathematics and English at SPM level",
+        "Foundation": "A pass with a minimum CGPA of 2.0."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "5.5",
+        "TOEFL": "8 (Ess OL) / 46 (iBT)"
+      },
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1760,
+        "tuition_fee": 27000
+      },
+      "course_content": {
+        "core": "Common Core Financial Technology\nE-Commerce\nDigital Marketing\nBusiness Analytics\nEntrepreneurship Financial Technology E-Commerce Digital Marketing Business Analytics Entrepreneurship Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum Grade D in any two (2) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum Grade B in five (5) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum CGPA of 2.00, or its equivalent."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum Grade C (GP 2.0) in any two (2) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum CGPA of 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Management",
+      "field_of_study": "Management",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1320,
+        "tuition_fee": 54000
+      },
+      "course_content": {
+        "core": "Common Core Business Communication Business Ethics and Social Responsibility Essentials of Information Skills Foundation of Business Human Resource Management Introduction to Finance Introduction to Financial Accounting Introduction to Management Accounting Law for Business Principles of Management Principles of Marketing Principles of Macroeconomics Principles of Microeconomics Quantitative Methods for Business Discipline Core Business Analytics Business Research Methods Consumer Behaviour Digital Marketing E-Commerce Entrepreneurship Financial Technology Global Talent Management Human Resource Development Marketing Management Personal Finance Sales Management Specialization Business Process Management Business Project Plan Industrial Relations International Business International Management Leadership Logistics Supply Chain Management Organisational Behaviour Organisational Theory and Design Strategic Management Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Marketing",
+      "field_of_study": "Marketing",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1320,
+        "tuition_fee": 54000
+      },
+      "course_content": {
+        "core": "Common Core Business Communication Business Ethics and Social Responsibility Essentials of Information Skills Foundation of Business Human Resource Management Introduction to Finance Introduction to Financial Accounting Introduction to Management Accounting Law for Business Principles of Management Principles of Marketing Principles of Macroeconomics Principles of Microeconomics Quantitative Methods for Business Discipline Core Business Analytics Business Research Methods E-Commerce Entrepreneurship Financial Technology Global Talent Management Industrial Relations Human Resource Development International Business Logistics and Supply Chain Management Organisational Behaviour Personal Finance Strategic Management Specialization Business Project Plan Consumer Behaviour Digital Marketing Global Marketing Marketing Management Marketing Research Perspective of Marketing Communication Retailing Sales Management Strategic Marketing Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Bs including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) in Nursing",
+      "field_of_study": "Nursing",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum grade C in 3 subjects. Additional health and medical requirements apply.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English",
+        "UEC": "5Bs including Bahasa Malaysia and Mathematics (Elementary/ Modern/ Advanced), AND General Science or Biology or (Chemistry but must pass Biology) or (Physics but must pass Biology), AND credit in 2 other subjects AND pass English.  SPM-level or equivalent:\nCredit in Bahasa Melayu and Mathematics and one science subject\nPass Medical examination and certified as healthy and medically fit, free from contagious diseases, mentally sound and not physically handicapped",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in related field). Candidates with Diploma in Nursing and with 2 years relevant working experience are also accepted. Additional health and medical requirements apply.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English",
+        "STPM": "Minimum CGPA 2.50. Additional health and medical requirements apply.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English",
+        "Foundation": "Minimum CGPA 2.50. Additional health and medical requirements apply.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "Band 5.5",
+        "TOEFL": "Paper based: 515 / Internet based: 80"
+      },
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 4400,
+        "tuition_fee": 72884
+      },
+      "course_content": {
+        "core": "Foundational (Behavioral Science) Communication. Counselling and Reflection Basic Medic Science Anatomy and Physiology I Anatomy and Physiology II Biochemistry Microbiology and Parasitology Immunology and Pathophysiology Pharmacology and Nutrition Behavioural Science Psychology Sociology and Medicolegal aspects of Nursing Personal and Professional Development Research and Statistics Theoretical Perspectives of Research Basic Statistics Epidemiology Research Project I Nursing Science Cardiovascular and Respiratory Nursing Community Health Nursing and Gerontology Emergency, Trauma and Critical Care Nursing Fundamentals of Nursing I Fundamentals of Nursing II Gastrointestinal and Endocrine Nursing Haematology and lntegumentary Nursing Health Promotion and Entrepreneurship Infection and Inflammation, Autoimmune and Communicable and Autoimmune Diseases Mental Health Nursing Neurology and Musculoskeletal Nursing Nursing Management and Administration Obstetric Nursing Perioperative Care; Fluid and Electrolyte Paediatric Nursing Reproductive and Nephro-urinary Nursing Sensorineural Nursing Capstone (Research and Statistics) Researcg Project II Industrial Training (Nursing Science Practical) Clinical Practice I (Fundamentals of Nursing) Clinical Practice II (Pharmacology Perioperative Care) Clinical Practice Ill (Autoimmune, Communicable, Haematology and lntegumentary Nursing) Clinical Practice IV (Gastrointestinal, Endocrine, Cardiovascular and Respiratory Nursing) Clinical Practice V (Reproductive, Nephro-urinary, Neurology and Musculoskeletal) Clinical Practice VI (Mental Health and Sensorineural Nursing) Clinical Practice VII (Obstetrics and Paediatrics) Clinical Practice VIII (Community Health Nursing) Clinical Practice IX (Critical Care, Emergency and Gerontology) Clinical Practice X (Management) Clinical Practice XI (Internship)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science (General)"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics/Chemistry with pass in Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum grade C in 3 subjects. Additional health and medical requirements apply.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Mathematics (Elementary/ Modern/ Advanced)"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "General Science",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "Mathematics",
+              "one science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Bs including Bahasa Malaysia and Mathematics (Elementary/ Modern/ Advanced), AND General Science or Biology or (Chemistry but must pass Biology) or (Physics but must pass Biology), AND credit in 2 other subjects AND pass English.  SPM-level or equivalent:\nCredit in Bahasa Melayu and Mathematics and one science subject\nPass Medical examination and certified as healthy and medically fit, free from contagious diseases, mentally sound and not physically handicapped"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science (General)"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics/Chemistry with pass in Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in related field). Candidates with Diploma in Nursing and with 2 years relevant working experience are also accepted. Additional health and medical requirements apply.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science (General)"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics/Chemistry with pass in Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50. Additional health and medical requirements apply.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science (General)"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics/Chemistry with pass in Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50. Additional health and medical requirements apply.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Nursing (Honours) - ODL",
+      "field_of_study": "Nursing",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Pass Diploma in Nursing and registered with Malaysian Nursing Board (MNB).  Minimum TWO (2) years clinical working experience\nPossess current Annual Practising Certificate (APC) for nurses from MNB\nCompleted a minimum of 52 weeks of clinical placement during the diploma in nursing programme"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.5",
+        "TOEFL": "515/215/80",
+        "Others": "SPM credit in English"
+      },
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1760,
+        "tuition_fee": 30058
+      },
+      "course_content": {
+        "core": "Year 1 Psychology\nBiochemistry\nMental Health Nursing\nPharmacology and Nutrition\nMicrobiology and Parasitology\nAnatomy and Physiology I & II\nFundamentals of Nursing I & II\nImmunology and Pathophysiology\nGastrointestinal and Endocrine Nursing\nPerioperative Care; Fluid and Electrolyte\nHaematology and Integumentary Nursing\nCommunication, Counselling and Reflection\nSociology and Medicolegal Aspects of Nursing\nInfection and Inflammation, Autoimmune and Communicable Diseases Psychology Biochemistry Mental Health Nursing Pharmacology and Nutrition Microbiology and Parasitology Anatomy and Physiology I & II Fundamentals of Nursing I & II Immunology and Pathophysiology Gastrointestinal and Endocrine Nursing Perioperative Care; Fluid and Electrolyte Haematology and Integumentary Nursing Communication, Counselling and Reflection Sociology and Medicolegal Aspects of Nursing Infection and Inflammation, Autoimmune and Communicable Diseases Year 2 Epidemiology\nBasic Statistics\nSensorineural Nursing\nTheoretical Perspectives of Research\nHealth Promotion and Entrepreneurship\nCardiovascular and Respiratory Nursing\nNeurology and Musculoskeletal Nursing\nNursing Management and Administration\nReproductive and Nephro-urinary Nursing\nCommunity Health Nursing and Gerontology\nEmergency, Trauma and Critical Care Nursing\nCo-curriculum\nIntegrity and Anti-corruption\nPhilosophy and Current Issues\nBahasa Melayu Komunikasi 2 (International)\nPenghayatan Etika dan Peradaban (Malaysian) Epidemiology Basic Statistics Sensorineural Nursing Theoretical Perspectives of Research Health Promotion and Entrepreneurship Cardiovascular and Respiratory Nursing Neurology and Musculoskeletal Nursing Nursing Management and Administration Reproductive and Nephro-urinary Nursing Community Health Nursing and Gerontology Emergency, Trauma and Critical Care Nursing Co-curriculum Integrity and Anti-corruption Philosophy and Current Issues Bahasa Melayu Komunikasi 2 (International) Penghayatan Etika dan Peradaban (Malaysian) Year 3 Obstetric Nursing\nPaediatric Nursing\nResearch Project I & II\nPersonal and Professional Development\nWound Care (Elective) or Home Nursing (Elective)\nDiabetic Education (Elective) or Lactation (Elective)\nGraduate Preparatory Course Obstetric Nursing Paediatric Nursing Research Project I & II Personal and Professional Development Wound Care (Elective) or Home Nursing (Elective) Diabetic Education (Elective) or Lactation (Elective) Graduate Preparatory Course",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass Diploma in Nursing and registered with Malaysian Nursing Board (MNB).  Minimum TWO (2) years clinical working experience\nPossess current Annual Practising Certificate (APC) for nurses from MNB\nCompleted a minimum of 52 weeks of clinical placement during the diploma in nursing programme"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons) (Software Engineering)",
+      "field_of_study": "Software Engineering",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "CPU": "Minimum 50% in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "IB Diploma": "24 marks in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "SACE/WACE": "Minimum 50% in 5 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1320,
+        "tuition_fee": 54000
+      },
+      "course_content": {
+        "core": "Foundational Understanding Computing Common Core and Discipline Core Artificial Intelligence Big Data Analytics Back End Web Development C Programming Computer Architecture and Organisation Data Communications and Networking Data Structure and Algorithms Database Systems Human Computer Interaction Introduction to Object Oriented Programming Machine Learning Object Oriented Software Development Operating Systems Principles Python Programming Software Design and Architecture Software Evolution Software Modelling and Analysis Software Quality and Measurement Software Process Software Project Management Software Security and Safety Software Verification and Validation Capstone SE Project I SE Project II Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 50% in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 24.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "24 marks in 6 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 50% in 5 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Software Engineering (Honours) (Application Development) - ODL",
+      "field_of_study": "Software Engineering",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with Grade D in any two (2) subjects.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent.",
+        "UEC": "Pass with at least Grade B in any five (5) subjects.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent.",
+        "Diploma": "Diploma in Computing fields (Level 4, MQF) : Pass with minimum CGPA of 2.50. Any Diploma in Science & Technology (Level 4,MQF) : Pass with a minimum CGPA 2.75. DKM/DVM/DLKM in Computing fields: Pass with a minimum CGPA of 2.50.",
+        "STPM": "Arts stream: Pass with a minimum Grade of C (GP 2.00) in any (2) subjects Science stream: Pass with a minimum Grade of C (GP 2.00) in Mathematics subject and ONE (1) Science / ICT subject.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent.",
+        "Foundation": "Pass with a minimum CGPA of 2.00.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
+      },
+      "english_requirements": {
+        "MUET": "Band 3.5",
+        "IELTS": "5",
+        "TOEFL": "7.5 (Ess Online) / 40 (iBT)"
+      },
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1760,
+        "tuition_fee": 27000
+      },
+      "course_content": {
+        "core": "Foundational Understanding Computing Common Core and Discipline Core Programming Fundamentals\nIntroduction to Software Engineering\nC Programming\nSoftware Modelling and Analysis\nSoftware Security\nDatabase Systems\nComputer Architecture and Organisation\nIntroduction to Object Oriented Programming\nFundamentals of Web Development\nData Structure and Algorithms\nOperating Systems Principles\nMobile Application Development\nSoftware Design and Architecture\nData Communications and Networking\nArtificial Intelligence\nDiscrete Mathematics\nResearch methodology\nDesigning UI/UX Programming Fundamentals Introduction to Software Engineering C Programming Software Modelling and Analysis Software Security Database Systems Computer Architecture and Organisation Introduction to Object Oriented Programming Fundamentals of Web Development Data Structure and Algorithms Operating Systems Principles Mobile Application Development Software Design and Architecture Data Communications and Networking Artificial Intelligence Discrete Mathematics Research methodology Designing UI/UX Capstone SE Project I\nSE Project II SE Project I SE Project II Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade D in any two (2) subjects.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least Grade B in any five (5) subjects.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Computing fields (Level 4, MQF) : Pass with minimum CGPA of 2.50. Any Diploma in Science & Technology (Level 4,MQF) : Pass with a minimum CGPA 2.75. DKM/DVM/DLKM in Computing fields: Pass with a minimum CGPA of 2.50."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Arts stream: Pass with a minimum Grade of C (GP 2.00) in any (2) subjects Science stream: Pass with a minimum Grade of C (GP 2.00) in Mathematics subject and ONE (1) Science / ICT subject.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum CGPA of 2.00.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Accounting",
+      "field_of_study": "Accounting",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics AND Pass in English.",
+        "O-Level": "Pass with 3 credits including Mathematics AND Pass in English.",
+        "UEC": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1100,
+        "tuition_fee": 28800
+      },
+      "course_content": {
+        "core": "FOUNDATIONAL Basic Business Administration CORE Accounting Modules Introduction to Accounting Fundamentals of Management Accounting Financial Accounting 1 Financial Accounting 2 Financial Accounting Framework Information Control and Decision Making Auditing Modules Principles of Auditing Taxation Modules Principles of Taxation 1 Principles of Taxation 2 Information Technology and AIS Modules Introduction of Information Technology IT Applications in Accounting Law Modules Law of Business Corporate Law and Governance Finance Module Fundamentals of Finance Economics, Management and Marketing Modules Principles of Microeconomics Principles of Macroeconomics Fundamentals of Management Fundamentals of Marketing Math and Statistics Modules Business Mathematics Statistics English and Business Communications Modules English Language Proficiency Introduction to Academic English Business Communication CAPSTONE Business Synoptic INTERNSHIP",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Aircraft Maintenance Engineering",
+      "field_of_study": "Aircraft Maintenance Engineering",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "SPM": "3Cs including Mathematics and 1 Science/Technical/Vocational subject AND a pass in English.",
+        "O-Level": "3Cs including Mathematics and 1 Science/Technical/Vocational subject AND a pass in English.",
+        "UEC": "3Bs including Mathematics and 1 Science/Technical/Vocational subject AND a pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1100,
+        "tuition_fee": 50390
+      },
+      "course_content": {
+        "core": "Common Core Aviation Legislation Basic Aerodynamics Human Factors Materials and Hardware Mathematics Physics Discipline Core Aircraft Electrical Systems Aircraft Hydraulics and Pneumatics Aircraft Landing Gears and Brakes Airframe Structures Air Conditioning , Cabin Pressurisation and Oxygen Systems Digital Techniques and Electronic Instrument System Electrical Fundamentals I Electrical Fundamentals II Electronic Fundamentals Instrument and Avionics Systems Maintenance Practices I Maintenance Practices II Theory of Flight and Flight Controls Turbine Engine and APU Summative Final Year Project Industrial Training On Job Training Malay Language (Only for Malaysian students without a credit in SPM BM) (Only for Malaysian students without a credit in SPM BM) Bahasa Kebangsaan A",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Technical",
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3Cs including Mathematics and 1 Science/Technical/Vocational subject AND a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Technical",
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3Cs including Mathematics and 1 Science/Technical/Vocational subject AND a pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Technical",
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3Bs including Mathematics and 1 Science/Technical/Vocational subject AND a pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 2640,
+        "tuition_fee": 28800
+      },
+      "course_content": {
+        "core": "Common Core Basic Business Administration Business Communication Business Ethics Business Strategies Fundamentals of Cost Accounting Fundamentals of Finance Fundamentals of Financial Accounting Fundamentals of Management Fundamentals of Marketing Human Resource Management Introduction to Information Technology Law for Business Principles of Macroeconomics Principles of Microeconomics Organisational Behaviour Statistical and Mathematical Modelling Discipline Core Developing Management Capabilities Digital Marketing E-Commerce Fundamentals of Personal Finance Human Resource Development Managing Business Operations Marketing Management Principles of Entrepreneurship Supply Chain Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science",
+      "field_of_study": "Computer Science",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics.",
+        "O-Level": "Pass with 3 credits including Mathematics.",
+        "UEC": "Pass with 3Bs including Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1100,
+        "tuition_fee": 31500
+      },
+      "course_content": {
+        "core": "Foundational Understanding Computing Core Calculus and Algebra Computer Organisation Database Development Platform Based Development Discrete Mathematics Human Computer Interaction Introduction to Artificial Intelligence Introduction to Computer Network Introduction to Public Speaking Cybersecurity Fundamentals Introduction to Artificial Intelligence Parallel and Distributed Computing Algorithms and Complexity Programming with Python Object Oriented Programming Structured Programming Operating Systems Software Engineering Statistics Systems Fundamentals Systems Analysis and Design Web Development Final Year Project Summative (Computing Project) Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3Bs including Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Culinary Arts",
+      "field_of_study": "Culinary Arts",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1100,
+        "tuition_fee": 37800
+      },
+      "course_content": {
+        "core": "Foundational Introduction to Hospitality and Tourism Core Advanced Food Preparation – Practicum Basic Business Administration Basic Food Preparation - Theory Basic Food Preparation – Practicum Basic Hospitality Accounting Basic Restaurant Service - Theory Basic Restaurant Service – Practicum Basic Pastry and Bakery - Theory & Practicum Design and Layout of a Food Service Facility Food and Beverage Cost Control Food and Culture Food Safety and Sanitation Hospitality Law Human Resources Management Intermediate Food Production – Practicum Intermediate Restaurant Service – Practicum Introduction to Information Technology Introduction to Public Speaking Menu Design and Planning Nutrition for the Food Service Industry Purchasing Supervision in the Hospitality Industry Summative Summative (Culinary Arts) Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Hotel Management",
+      "field_of_study": "Hotel Management",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects AND Pass English.",
+        "O-Level": "Grade C in 3 relevant subjects AND Grade E in English.",
+        "UEC": "Grade B in 3 relevant subjects AND Grade C in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1100,
+        "tuition_fee": 37800
+      },
+      "course_content": {
+        "core": "Foundational Introduction to Hospitality and Tourism Core Basic Business Administration Basic Food Preparation - Theory Basic Food Preparation – Practicum Basic Hospitality Accounting Basic Restaurant Service - Theory Basic Restaurant Service - Practicum Beverage Sales And Service Events Management I Events Management II Food and Beverage Cost Control Food Safety and Sanitation Front Office Operations and Management Hospitality Law Housekeeping Operations and Management Intermediate Food Preparation – Practicum Intermediate Restaurant Service - Practicum Introduction to Public Speaking Introduction to Information Technology Integrity and Anti-corruption Management in the Hospitality Industry Principles of Entrepreneurship Sales and Marketing in the Hospitality Industry Supervision in the Hospitality Industry Summative Summative (Hotel Operations) Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects AND Pass English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects AND Grade E in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects AND Grade C in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "4",
+        "TOEFL": "5 (Ess OL) / 30-31 (iBT)"
+      },
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 2640,
+        "tuition_fee": 31500
+      },
+      "course_content": {
+        "core": "Foundational Understanding Computing Core Calculus and Algebra Computer Organisation Data Communications and Networking Database Development Discrete Mathematics Human-Computer Interaction Information Systems Cybersecurity Fundamentals Introduction to Artificial Intelligence Introduction to Computer Network Introduction to Public Speaking Introduction to Cloud Computing Object Oriented Programming Operating Systems Information Systems Structured Programming Programming with Python IT Project Management Systems Analysis and Design Web Development Final Year Project Summative (Computing Project) Industrial Training Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Diploma in Nursing",
+      "field_of_study": "Nursing",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Apr",
+        "Jul"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "SPM": "5 Credits including Bahasa Melayu (Malaysian Candidates) AND Mathematics (Elementary/Modern/Additional) AND Science: General Science OR Biology OR Chemistry & pass in Biology OR Physics & pass in Biology AND pass in English.",
+        "O-Level": "5 Credits including Bahasa Melayu (Malaysian Candidates) AND Mathematics (Elementary/Modern/Additional) AND Science: General Science OR Biology OR Chemistry & pass in Biology OR Physics & pass in Biology AND pass in English.",
+        "UEC": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.5",
+        "TOEFL": "Paper based: 515 / Internet based: 80"
+      },
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 3300,
+        "tuition_fee": 45732
+      },
+      "course_content": {
+        "core": "Foundational (Behavioral Science) Communication. Counselling and Reflection Basic Medic Science Anatomy and Physiology I Anatomy and Physiology II Microbiology and Parasitology Pharmacology and Nutrition Behavioural Science Psychology Sociology and Medicolegal aspects of Nursing Research and Statistics Research and Statistics Nursing Science Cardiovascular and Respiratory Nursing Communicable Diseases Community Health Nursing and Gerontology Emergency, Trauma and Critical Care Nursing Fundamentals of Nursing Gastrointestinal and Endocrine Nursing Haematology and lntegumentary Nursing Infection and Inflammation, Autoimmune and Mental Health Nursing Neurology and Musculoskeletal Nursing Nursing Management and Administration Obstetric Nursing Paediatric Nursing Perioperative Care; Fluid and Electrolyte Reproductive and Nephro-urinary Nursing Sensorineural Nursing Industrial Training (Nursing Science Practical) Clinical Practice I (Fundamentals of Nursing) Clinical Practice II (Pharmacology Perioperative Care) Clinical Practice Ill (Autoimmune, Communicable, Haematology and lntegumentary Nursing) Clinical Practice IV (Gastrointestinal, Endocrine, Cardiovascular and Respiratory Nursing) Clinical Practice V (Reproductive, Nephro-urinary, Neurology and Musculoskeletal) Clinical Practice VI (Mental Health and Sensorineural Nursing) Clinical Practice VII (Obstetrics and Paediatrics) Clinical Practice VIII (Community Health Nursing) Clinical Practice IX (Critical Care, Emergency and Gerontology) Clinical Practice X (Management) Clinical Practice XI (Internship)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits including Bahasa Melayu (Malaysian Candidates) AND Mathematics (Elementary/Modern/Additional) AND Science: General Science OR Biology OR Chemistry & pass in Biology OR Physics & pass in Biology AND pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits including Bahasa Melayu (Malaysian Candidates) AND Mathematics (Elementary/Modern/Additional) AND Science: General Science OR Biology OR Chemistry & pass in Biology OR Physics & pass in Biology AND pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business",
+      "field_of_study": "Foundation in Arts",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "SPM": "5Cs.",
+        "O-Level": "5Cs.",
+        "UEC": "3Bs."
+      },
+      "english_requirements": {
+        "SPM/O": "Level - E"
+      },
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1100,
+        "tuition_fee": 15000
+      },
+      "course_content": {
+        "core": "Core Subjects English Language Proficiency Introduction to Accounting Business Economics I Mathematics Introduction to Academic English Introduction to Finance Foundation of Statistics Academic English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "3Bs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business (Accounting, IT)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits (C) including Mathematics, and pass in English.",
+        "O-Level": "5 credits (C) including Mathematics, and pass in English.",
+        "UEC": "3 credits (B6) including Mathematics, and pass in English."
+      },
+      "english_requirements": {
+        "SPM/O": "Level - E"
+      },
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1100,
+        "tuition_fee": 15000
+      },
+      "course_content": {
+        "core": "Core Subjects English Language Proficiency Introduction to Accounting Business Economics I Mathematics Introduction to Academic English Introduction to Finance Foundation of Statistics Academic English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C) including Mathematics, and pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C) including Mathematics, and pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (B6) including Mathematics, and pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science",
+      "field_of_study": "Foundation in Science",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "SPM": "5 credits (C) including Mathematics and any 2 science subjects.",
+        "O-Level": "5 credits (C) including Mathematics and any 2 science subjects.",
+        "UEC": "3 credits (B6) including Mathematics and any 2 science subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 1100,
+        "tuition_fee": 15000
+      },
+      "course_content": {
+        "core": "Basic Courses Basic Programme Design Co-curriculum English Language Proficiency Field Trips and Study Tour Foundation of Statistics Introduction to Academic English Introduction to Business Introduction to IT Introduction to Marketing Introduction to Programming",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C) including Mathematics and any 2 science subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C) including Mathematics and any 2 science subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (B6) including Mathematics and any 2 science subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Nursing)",
+      "field_of_study": "Foundation in Science",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "min. 5 credits including Mathematics, Bahasa Melayu, any 2 science subjects plus pass in English, Biology.",
+        "O-Level": "min. 5 credits including Mathematics, any 2 science subjects plus pass in English, Biology.  Additional Requirements: \ncredit in Bahasa Melayu at SPM-Level to practise Nursing in Malaysia"
+      },
+      "english_requirements": {
+        "SPM/O": "Level - E"
+      },
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 440,
+        "tuition_fee": 15000
+      },
+      "course_content": {
+        "core": "Basic Courses Basic Programme Design Co-curriculum English Language Proficiency Field Trips and Study Tour Foundation of Statistics Introduction to Academic English Introduction to Business Introduction to IT Introduction to Marketing Introduction to Programming",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 5 credits including Mathematics, Bahasa Melayu, any 2 science subjects plus pass in English, Biology."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 5 credits including Mathematics, any 2 science subjects plus pass in English, Biology.  Additional Requirements: \ncredit in Bahasa Melayu at SPM-Level to practise Nursing in Malaysia"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration - ODL",
+      "field_of_study": "Business Administration",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Pass with a minimum CGPA of 2.50 in related field. Pass with a minimum CGPA of 2.00 in non-related field.  A pass with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted subject to an internal evaluation/interview. With related working experiences and subject to an internal evaluation/interview OR without relevant working experience subject to passing of prerequisite courses"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6",
+        "TOEFL": "8.5 (Ess OL) / 60 (iBT)"
+      },
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 1760,
+        "tuition_fee": 15200
+      },
+      "course_content": {
+        "core": "Core Modules Financial Management\nResearch Methodology\nManaging Change and Innovation\nOrganisational Management\nBusiness Analytics\nStrategic Management\nManagerial Economics\nMarketing Management\nManagerial Accounting\nEthics and Business Law Financial Management Research Methodology Managing Change and Innovation Organisational Management Business Analytics Strategic Management Managerial Economics Marketing Management Managerial Accounting Ethics and Business Law",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": false
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum CGPA of 2.50 in related field. Pass with a minimum CGPA of 2.00 in non-related field.  A pass with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted subject to an internal evaluation/interview. With related working experiences and subject to an internal evaluation/interview OR without relevant working experience subject to passing of prerequisite courses"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Engineering Science",
+      "field_of_study": "General Engineering and Technology",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 2500,
+        "tuition_fee": 16000
+      },
+      "course_content": {
+        "core": "Phase l – Preparatory Briefing Briefing to prepare students for the research programme, with emphasis on Research Methodology and Statistics. Phase ll – Preliminary Research All M.Eng.Sc. students are required to undertake preliminary research to gain clarity in the respective areas of study and plan their research work. This normally includes identification of problem statement, literature review, project design and time management. Phase lll – Proposal Defence Each student must publicly present and defend his/her research proposals. The student is only allowed to continue with his/her research to Phase IV on passing of the defence of his/her proposal. Phase lV – Thesis Preparation The student proceeds to his/her data collection, data analysis and report writing. Phase V – Viva Vove Phase V – Viva Vove After completion and submission of the thesis, the student is required to attend a Viva Voce to orally defend his/her thesis.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Applied Sciences",
+      "field_of_study": "General Sciences (Postgraduate)",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 2500,
+        "tuition_fee": 25000
+      },
+      "course_content": {
+        "core": "Phase l – Pre-requisite Core Course Research Methodology and Statistics (Only for students who do not have sufficient knowledge or background on research methodology and statistics). (Only for students who do not have sufficient knowledge or background on research methodology and statistics). Phase ll – Preliminary Research This represents the first part of the Master's thesis project and forms the basis on which students build their proposal and eventually their project. Master's thesis project project. Phase lll - Proposal Defence Each student must publicly present and defend his/her research proposals. The student is only allowed to continue with his/her research to Phase IV on passing of the defence of his/her proposal. Phase lV – Thesis Preparation The student proceeds to his/her data collection, data analysis and report writing. Phase V – Viva Voce After completion and submission of the thesis, the student is required to attend a Viva Voce to orally defend his/her thesis.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Business Administration (Banking & Finance)",
+      "field_of_study": "MBA Programme",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 1250,
+        "tuition_fee": 25200
+      },
+      "course_content": {
+        "core": "Basic Courses Financial Management Managerial Accounting Organisational Management Operations Management Marketing Management Managerial Economics Ethics And Business Law Research Methodology Strategic Management Organisational Management Statistics and Decision Analysis Advanced Courses Investments Corporate Finance Banking and Development Project Paper Project Paper  (With a pre-requisite to complete  80% of the core modules of the programme)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Business Administration (Marketing)",
+      "field_of_study": "MBA Programme",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 1250,
+        "tuition_fee": 25200
+      },
+      "course_content": {
+        "core": "BASIC COURSES BA4401 Financial Management BM4403 Marketing Management BM4404 Managerial Economics BM4406 Research Methodology BM4401 Organisational Management BM4402 Operations Management EB4401 Statistics And Decision Analysis BM4405 Ethics And Business Law ADVANCED COURSES BM4413 Consumer Behaviour BM4414 International Marketing BM4415 Marketing Channels PROJECT PAPER BA4417 Project Paper Pre-requisites : Completion of 80% of the core modules of the programme",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Business Administration (Human Resource Management)",
+      "field_of_study": "MBA Programme",
+      "location": "Nilai University, Nilai",
+      "intakes": [
+        "Jan",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 1250,
+        "tuition_fee": 25200
+      },
+      "course_content": {
+        "core": "Basic Courses Financial Management Marketing Management Managerial Economics Research Methodology Organisational Management Operations Management Statistics And Decision Analysis Ethics And Business Law Advanced Courses Human Resource Development Industrial Relations Management Strategic Human Resource Management Project Paper Project Paper (With a pre-requisite to complete 80% of the core modules of the programme)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    }
+  ]
+}

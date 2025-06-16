@@ -1,0 +1,1088 @@
+{
+  "institution_name": "Universiti Teknologi Petronas (UTP)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 937,
+  "malaysia_rank": 5,
+  "programs": [
+    {
+      "program_name": "Bachelor in Business Management (Hons)",
+      "field_of_study": "Business and Management",
+      "location": "UTP, Seri Iskandar",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "IELTS score of 5.0",
+        "TOEFL": "TOEFL PBT score 500TOEFL iBT score of 59TOEFL CBT score of 173"
+      },
+      "fees": {
+        "registration_fee": 1300,
+        "resource_fee": 7896,
+        "tuition_fee": 63000
+      },
+      "course_content": {
+        "core": "Semester 1 MPU3122 / MPU3142 - TITAS / Bahasa Melayu Komunikasi 2 PEB1012 - Introduction to Oil & Gas Industry & Sustainable Development GEB2042 - Management and Organisational Behaviour GEB1023 - Economics GEB1253 - Business Mathematics Semester 2 MPU3112 / MPU3172 - Hubungan Etnik / Malaysian Studies 3 CEB1012 - Health, Safety and Environment GEB2042 - Principles of Marketing GEB2033 - Financial Management GEB1183 - Business statistics Semester 3 MPU 2 - 1 MPU2 Course KXXXXX1 - Co Curriculum 1 LEB1042 - Academic Writing GEB2013 - Business Accounting XXXxxx3 - Elective 1 GEB2173 - Introduction to Data Mining for Business Semester 4 MPU3 - 1 MPU3 Course KXXXX1 - Co Curriculum 2 HEB1023 - Scientific Inquiry GEB2153 - Business Law GEB3103 - International Business XXXxxx3 - Elective 2 Semester 5 HEB1012 - Community Engagement Project HEB2033 - Professional Communication Skills FEM2063 - Data Analytics GEB2163 - Management Science XXXxxx3 - Elective 3 Semester 6 GEB2102 - Entrepreneurship TEB2083 - Technopreneurship Team Project GEB3073 - Human Resource Management XXXxxx3 - Elective 4 GEB3203 - Strategic Business Analytics Semester 7 GEB3093 - Strategic Management GEB3082 - Final Year Project 1 GEB3263 - Decision-Making and Scenarios GEB3213 - Forecasting Methods for Management GEB3193 - Supply Chain Analytics Semester 8 GEB4104 - Final Year Project 2 GEB3233 - Enterprise Risk Management GEB3223 - Customer Behaviour and Analysis GEB3243 - Law and Ethics of Business Analytics Student Industrial Internship Programme IEB3037 - Student Industrial Training (SIT) IEB3047 - Student Internship Project (SIP)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Chemical Engineering with Honours",
+      "field_of_study": "Chemical Engineering",
+      "location": "UTP, Seri Iskandar",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Passes in Chemistry, and Mathematics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Chemistry and Mathematics.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "IELTS": "IELTS score of 5.0",
+        "TOEFL": "TOEFL PBT score 500TOEFL iBT score of 59TOEFL CBT score of 173"
+      },
+      "fees": {
+        "registration_fee": 1300,
+        "resource_fee": 10050,
+        "tuition_fee": 92400
+      },
+      "course_content": {
+        "core": "SEMESTER 1 TITAS (Local) /BM Komunikasi 2 (International) Introduction to Oil & Gas Industry & Sustainable Development Engineering Mathematics I Organic Chemistry Physical Chemistry SEMESTER 2 Falsafah & Isu Semasa Engineering Mathematics 2 Health, Safety & Environment Principles of Chemical Engineering Chemical Engineering Fluid Mechanics SEMESTER 3 One (1) MPU2 Course Academic Writing Statistics and Application Process Heat Transfer Chemical Engineering Thermodynamics I Co Curriculum I SEMESTER 4 Professional Comm. Skills Organic Chemistry Separation Process I Chemical Engineering Thermodynamics II Chemical Engineering Lab I SEMESTER 5 One (1) MPU2 Course Entrepreneurship Data Analytics Engineering Team Project I Reaction Engineering I Separation Process II SEMESTER 6 Community Engagement Project Co Curriculum II Engineering Team Project II Process Modelling & Simulation Process Safety & Loss Prevention Chemical Engineering Lab III SEMESTER 7 One (1) MPU3 Course Environmental Chemical Engineering Process Plant Design Analytical Instrumentation Process Instrumentation & Control STUDENT INDUSTRIAL INTERNSHIP PROGRAMME Student Industrial Training (SIT) STUDENT INDUSTRIAL INTERNSHIP PROGRAMME Student Industrial Project (SIP) SEMESTER 8 Project Management Reaction Engineering Ii Material Science for Chemical Engineering Plant Design Project I Chemical Engineering Lab III SEMESTER 9 Engineering Economics Transport Phenomena Plant Design Project I Final Year Project II Core Specialisation I SEMESTER 10 Engineers in Society Final Year Project  II Core Specialisation II Core Specialisation III",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passes in Chemistry, and Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Chemistry and Mathematics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Civil Engineering with Honours",
+      "field_of_study": "Civil Engineering",
+      "location": "UTP, Seri Iskandar",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Passes in Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics and Physics.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "IELTS": "IELTS score of 5.0",
+        "TOEFL": "TOEFL PBT score 500TOEFL iBT score of 59TOEFL CBT score of 173"
+      },
+      "fees": {
+        "registration_fee": 1300,
+        "resource_fee": 10050,
+        "tuition_fee": 92400
+      },
+      "course_content": {
+        "core": "SEMESTER 1 TITAS (Local)/BM Komunikasi 2 (International) Introduction to Oil & Gas Industry and Sustainable Development Co Curriculum I Engineering Mathematics 1 Civil Engineering Drawing Engineering Mechanics SEMESTER 2 Falsafah & Isu Semasa (FIS) Engineering Mathematics 2 Health, Safety & Environment Mechanics of Solids Geomatics Co Curriculum I SEMESTER 3 Academic Writing Statistics and Application Scientific Inquiry Engineering Fluid Mechanics Computational Methods for Civil Engineers Traffic Engineering SEMESTER 4 Professional Communication Skills Course Sustainable Concrete Technology Soil Mechanics Structural Analysis Hydraulics SEMESTER 5 Professional Communication Skills Data Analytics Entrepreneurship Engineering Team Project I Civil Engineering Laboratory I Hydrology SEMESTER 6 Community Engagement Project Engineering Team Project II Highway Engineering Design of Steel Structures Water Supply Engineering Civil Engineering Laboratory II SEMESTER 7 One (1) MPU3 Course Co Curriculum II Highway Engineering Civil Engineering Laboratory III Design of Reinforced Concrete Structures I Wastewater Engineering Design of Foundation STUDENT INDUSTRIAL INTERNSHIP PROGRAMME Student Industrial Training (SIT) STUDENT INDUSTRIAL INTERNSHIP PROGRAMME Student Industrial Project (SIP) SEMESTER 8 Building Information Modelling Construction Project Management Design of  Reinforced Concrete Structures II Civil Engineering Design I Design of Earth Retaining Structure SEMESTER 9 Civil Engineering Design II Computational Method for Civil Engineers Core Specialisation I Final Year Project II Engineering Economics SEMESTER 10 Core Specialisation II Final Year Project II Engineers in Society Core Specialisation III",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passes in Mathematics and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Mathematics and Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons)",
+      "field_of_study": "Computer Science",
+      "location": "UTP, Seri Iskandar",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "IELTS score of 5.0",
+        "TOEFL": "TOEFL PBT score 500TOEFL iBT score of 59TOEFL CBT score of 173"
+      },
+      "fees": {
+        "registration_fee": 1300,
+        "resource_fee": 8982,
+        "tuition_fee": 71300
+      },
+      "course_content": {
+        "core": "SEMESTER 1 TITAS (Local)/BM Komunikasi 2 (International) Introduction to Oil & Gas Industry and Sustainable Development Structured Programming Computer Systems Engineering Mathematics I SEMESTER 2 Falsafah dan Isu Semasa (Local & International) Health, Safety and Environment Object-Oriented Programming Discrete Mathematics Data Communication and Network SEMESTER 3 One (1) MPU2 Course Academic Writing Co- Curriculum I Statistics and Empirical Method Data & Information Management Algorithm and Data Structure SEMESTER 4 One (1) MPU3 Course Scientific Inquiry Co- Curriculum II Software Engineering & HCI Artificial Intelligence SEMESTER 5 One (1) MPU4 Course Professional Communication Skills Data Science Embedded Systems Minor Elective I STUDENT INDUSTRIAL INTERNSHIP PROGRAMME Student Industrial Training (SIT) Student Industrial Project SEMESTER 6 Entrepreneurship Technopreneurship Team Project Computer Security Modelling and Simulation Minor Elective II SEMESTER 7 Final Year Project I Minor Elective III Minor Elective IV Major I Major II SEMESTER 8 Final Year Project II Minor Elective V Major III Distributed and Parallel Computing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Engineering with Honours",
+      "field_of_study": "Computer Systems Engineering",
+      "location": "UTP, Seri Iskandar",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Passes in Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics and Physics.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "IELTS": "IELTS score of 5.0",
+        "TOEFL": "TOEFL PBT score 500TOEFL iBT score of 59TOEFL CBT score of 173"
+      },
+      "fees": {
+        "registration_fee": 1300,
+        "resource_fee": 10050,
+        "tuition_fee": 92400
+      },
+      "course_content": {
+        "core": "SEMESTER 1 Penghayatan Etika dan Peradaban (Local)\nBM Komunikasi 2 (International)\"\nIntroduction to Oil & Gas Industry & Sustainable Development\nEthics and Integrity\nEngineering Mathematics 1\nStructured Programming and Interfacing\nCircuit Theory SEMESTER 2 Falsafah dan Isu Semasa (Local & International)\nHealth, Safety & Environment\nEngineering Mathematics 2\nObject Oriented Programming\nDigital Electronics SEMESTER 3 One (1) U2 Course\nAcademic Writing\nScientific Inquiry\nSoftware Engineering\nDiscrete Mathematics\nCo Curriculum I SEMESTER 4 One (1) U3 Course\nProfessional Communication Skills\nSignals and Systems\nAlgorithm and Data Structure\nOperating Systems SEMESTER 5 Data Analytics\nEngineering Team Project I\nLinear Algebra and Matrix Methods\nEntrepreuneurship\nCommunication Systems SEMESTER 6 Community Engagement Project\nCo Curriculum II\nInstrumentation and Control\nEngineering Team Project II\nMicroprocessor and Computer Architecture\nDigital Twin SEMESTER 7 Embedded and IOT Systems\nDigital System Design\nData & Computer Network\nCloud System Technologies STUDENT INDUSTRIAL INTERNSHIP PROGRAMME Student Industrial Training (SIT) Student Industrial Project (SIP) SEMESTER 8 Project Management\nProbability and Random Process\nSystem Integrated Design Project\nCore Specialisation\nComputer Security SEMESTER 9 Engineering Economics\nArtificial Intelligence & Applications\nFinal Year Project I\nCore Specialisation SEMESTER 10 Engineers in Society\nFinal Year Project II\nDistributed and Parallel Processing\nCore Specialisation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passes in Mathematics and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Mathematics and Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Systems (Hons)",
+      "field_of_study": "Information Systems",
+      "location": "UTP, Seri Iskandar",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "IELTS score of 5.0",
+        "TOEFL": "TOEFL PBT score 500TOEFL iBT score of 59TOEFL CBT score of 173"
+      },
+      "fees": {
+        "registration_fee": 1300,
+        "resource_fee": 8982,
+        "tuition_fee": 71300
+      },
+      "course_content": {
+        "core": "Semester 1 TITAS (Local)/BM Komunikasi 2 (International) Introduction to Oil & Gas Industry and Sustainable Development Structured Programming Data and Information Management Fundamental of IS Semester 2 Hubungan Etnik (Local)/Malaysian Studies 3 (International) Health, Safety and Environment Information Technology Infrastructure Enterprise Resource Planning Enterprise Architecture Semester 3 One (1) MPU2 Course Academic Writing Co- Curriculum I Statistics and Empirical Method System Analysis and Design Knowledge Discovery Semester 4 One (1) MPU3 Course Scientific Inquiry Co- Curriculum II Advanced Database Web Application and Development Semester 5 Community Engagement Project Professional Communication Skills Introduction to Data Science IS Strategy and Planning Minor Elective I Student Industrial Internship Program Student Industrial Training (SIT) Student Industrial Internship Program Student Industrial Project (SIP) Semester 6 Entrepreneurship Technopreneurship Team Project Introduction to Cyber Security Business Intelligence Minor Elective II Semester 7 Final Year Project I Minor Elective III IS project management Field Elective I Field Elective II Semester 8 Final Year Project II Field Elective III Minor Elective IV Minor Elective V",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Hons)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "UTP, Seri Iskandar",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "IELTS score of 5.0",
+        "TOEFL": "TOEFL PBT score 500TOEFL iBT score of 59TOEFL CBT score of 173"
+      },
+      "fees": {
+        "registration_fee": 1300,
+        "resource_fee": 8982,
+        "tuition_fee": 71300
+      },
+      "course_content": {
+        "core": "Semester 1 \"Penghayatan Etika & Peradaban (Local)\nBM Komunikasi 2 (International)\"\nIntroduction to Oil & Gas Industry & Sustainable Development\nEthics and Integrity\nStructured Programming\nDatabase Systems Semester 2 Falsafah dan Isu Semasa (Local & International)\nHealth, Safety andEnvironment\nObject Oriented Programming\nComputer Systems\nWeb Application and Integrative Programming Semester 3 Academic Writing\nScientific Inquiry\nCo Curriculum I\nData Communication and Network\nSoftware Engineering\nDiscrete Mathematics Semester 4 One (1) MPU2 Course\nCo- Curriculum II\nProfessional Communication Skills\nEntrepeneurship\nHuman and Computer Interaction\nInformation Assurance and Security Semester 5 One (1) MPU3 Course\nData Science\nStatistics and Empirical Method\nInternet of Things\nMinor Elective I Student Industrial Internship Program Student Industrial Training (SIT) Student Industrial Internship Program Student Industrial Project (SIP) Semester 6 Community Engagement Project\nTechnopreneurship Team Project\nComputer Ethics and Cyber Law\nComputer Forensic\nMinor Elective II Semester 7 Final Year Project I\nMinor Elective III\nIT project management\nCore Specialization I\nCore Specialization II Semester 8 Final Year Project II\nCore Specialization III\nMinor Elective IV\nMinor Elective V",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Materials Engineering with Honours",
+      "field_of_study": "Mechanical Engineering",
+      "location": "UTP, Seri Iskandar",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Passes in Mathematics and Physics.",
+        "UEC": "Grade B in 5 Subjects including Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics and Physics.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "IELTS": "IELTS score of 5.0",
+        "TOEFL": "TOEFL PBT score 500TOEFL iBT score of 59TOEFL CBT score of 173"
+      },
+      "fees": {
+        "registration_fee": 1300,
+        "resource_fee": 10050,
+        "tuition_fee": 92400
+      },
+      "course_content": {
+        "core": "Semester 1 MPU3122/MPU3142 - TITAS(Local)/BM Komunikasi 2 (International) PEB1012 - Introduction to Oil & Gas Industry & Sustainable Development FEM1013 - Engineering Mathematics 1 AAB1013 - Physical Chemistry for Materials AAB1022 - Engineering Drawing Semester 2 MPU3112/MPU3172 - Hubungan Etnik(Local) / Malaysian Studies 3 (International) CEB1032 - Health, Safety and Environment FEM1023 - Engineering Mathematics 2 AAB1032 - Statics and Dynamics AAB1043 - Metals and Alloys Semester 3 MPUXXX2 -1 MPU2 Course LEB1042 - Academic Writing FEM1063 - Statistics and Application AAB1052 - Strength of Materials AAB1063 - Materials Processing 1 AAB1072 - Materials Lab 1 (Physical and Mechanics) Semester 4 MPUXXX2 - 1 MPU3 Course HEB1023 - Scientific Inquiry KXXXXX1 - Co Curriculum 1 AAB2012 - Materials Characterization & Analytical Technique AAB2022 - Thermodynamics and Heat Transfer for Materials AAB2033 - Materials Processing 2 Semester 5 HEB2033 - Professional Communication Skills TEB2132 - Structured Programming & Database System AAB2043 - Engineering Polymers AAB2053 - Materials Computational and Modelling AAB2063 - Engineering Ceramics Semester 6 KXXXXX1 - Co Curriculum 2 GEB2102 - Entrepreneurship MEB2063 - Engineering Team Project AAB2073 - Failure Analysis & NDE AAB2083 - Engineering Composites AAB2092 - Phase Transformations in Metallic Materials Semester 7 HEB1012 - Community Engagement Project FEM2063 - Data Analytics AAB3013 - Joining of Metals and Non Metals AAB3022 - Quality Control AAB3033 - Corrosion and Degradation of Materials Student Industrial Internship Programme IEB3037 - Student Industrial Training (SIT) IEB3047 - Student Industrial Project (SIP) Semester 8 VEB3102 - Project Management PEB4012 - Engineering Economics AAB4013 - Materials Selection AAB4022 - Life Cycle Assessment of Engineering Materials AAB4033 - Smart and Functional Materials Semester 9 AAB4042 - Materials Engineering Capstone Project 1 AAB4052 - Final Year Project 1 AAB4062 - Green Composites AAB4XX3 - Major Electives 1 AAB4XX3 - Major Electives 2 Semester 10 EEB4073 - Engineers in Society AAB4073 - Materials Engineering Capstone Project 2 AAB4084 - Final Year Project 2 AAB4XX3 - Major Electives 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering with Honours",
+      "field_of_study": "Mechanical Engineering",
+      "location": "UTP, Seri Iskandar",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum Grade C in Mathematics, Chemistry and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Minimum Grade C in Mathematics, Chemistry and Physics.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "IELTS": "IELTS score of 5.0",
+        "TOEFL": "TOEFL PBT score 500TOEFL iBT score of 59TOEFL CBT score of 173"
+      },
+      "fees": {
+        "registration_fee": 1300,
+        "resource_fee": 10050,
+        "tuition_fee": 92400
+      },
+      "course_content": {
+        "core": "SEMESTER 1 \"Penghayatan Etika & Peradaban (Local) /\nBM Komunikasi 2 (International)\"\nIntroduction to Oil & Gas Industry and Sustainable Development\nEthics and Integrity\nEngineering Mathematics I\nIntroduction to Material Science\nEngineering Drawings  SEMESTER 2 Falsafah dan Isu Semasa (International & Local)\nHealth, Safety & Environment\nEngineering Mathematics 2\nManufacturing Technology I\nStatics  SEMESTER 3 Academic Writing\nScientific Inquiry\nCo Curriculum I\nStatistics and Application\nDynamics\nElectrical Power and Machines  SEMESTER 4 One (1) U2 Course\nProfessional Communication Skills\nStructured programming & System Interfacing\nSolid Mechanics\nEngineering Materials  SEMESTER 5 One (1) U3 Course\nEntrepreneurship\nData Analytics\nFluid Mechanics 1\nMechanical Engineering Thermodynamics I\nEngineering Team Project I  SEMESTER 6 Community Engagement Project\nCo Curriculum II\nEngineering Team Project II\nFluid Mechanics II\nMechanical Engineering Thermodynamics II\nMechanics of Machines  SEMESTER 7 Heat Transfer\nMechanical Engineering Design\nVibrations\nManufacturing Technology II  STUDENT INDUSTRIAL INTERNSHIP PROGRAMME Student Industrial Training (SIT) Student Industrial Project (SIP)  SEMESTER 8 Project Management\nComputer Aided Engineering\nControl Systems\nMechanical Systems Design I\nCore Specialisation I  SEMESTER 9 Engineering Economics\nFinal Year Project I\nMechatronics\nMechanical Systems Design II\nCore Specialisation II  SEMESTER 10 Engineers in Society\nFinal Year Project II\nCore Specialisation III",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade C in Mathematics, Chemistry and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade C in Mathematics, Chemistry and Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Petroleum Engineering with Honours",
+      "field_of_study": "Petroleum Engineering",
+      "location": "UTP, Seri Iskandar",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Min. Grade C in Mathematics, Physics and Chemistry.",
+        "UEC": "At least Grade B in English, Mathematics, Advanced Mathematics, Physics and Chemistry.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics, Physics and Chemistry.",
+        "Foundation": "Minimum CGPA 2.00.  Pass Foundation Program in relevant field from UTP with at least a final CGPA of 2.00\nPass Foundation Program in relevant field from from a Recognised Institution with at least a final CGPA of 3.00",
+        "IB Diploma": "Minimum Total Points of 24 with a minimum Point 4 in Mathematics, Physics and Chemistry.",
+        "SACE/WACE": "Pass with minimum Grade C or 60% in Mathematics OR Specialised Mathematics, Physics and Chemistry."
+      },
+      "english_requirements": {
+        "IELTS": "IELTS score of 5.0",
+        "TOEFL": "TOEFL PBT score 500TOEFL iBT score of 59TOEFL CBT score of 173"
+      },
+      "fees": {
+        "registration_fee": 1300,
+        "resource_fee": 10050,
+        "tuition_fee": 92400
+      },
+      "course_content": {
+        "core": "SEMESTER 1 \"Penghayatan Etika & Peradaban (Local)\nBM Komunikasi 2 (International)\"\nIntroduction to Oil & Gas Industry & Sustainable Development\nEthics and Integrity\nEngineering Mathematics 1\nPetroleum Engineering Thermodynamics\nFundamental of Petroleum Exploration Engineering  SEMESTER 2 Falsafah & Isu Semasa (Local & International)\nHealth, Safety & Environment\nEngineering Mathematics 2\nReservoir Rock Properties\nReservoir Fluid Properties\nReservoir Rock and Fluid Properties Lab  SEMESTER 3 Academic Writing\nScientific Inquiry\nStatistics and Application\nComputational Method\nCo Curriculum I\nStatic and Dynamics  SEMESTER 4 Professional Communication Skills\nFluid Mechanics\nWell Logging and Formation Evaluation\nReservoir Engineering I  SEMESTER 5 Data Analytics\nEngineering Team Project I\nEntrepreneurship\nSolid Mechanics\nReservoir Engineering II  SEMESTER 6 One (1) U2 Course\nEngineering Team Project II\nDrilling Engineering I\nProduction Engineering I\nWell Test Analysis  SEMESTER 7 Community Engagement Project\nCo Curriculum II\nDrilling Engineering II\nProduction Engineering II\nReservoir Modelling and Simulation  STUDENT INDUSTRIAL INTERNSHIP PROGRAMME Student Industrial Training (SIT) Student Industrial Project (SIP)  SEMESTER 8 One (1) U3 Course\nProject Management\nGas Field Engineering\nFinal Year Project I\nCore Specialisation I  SEMESTER 9 Petroleum Economics\nFinal Year Project II\nField Development Project I\nCore Specialisation II  SEMESTER 10 Engineers in Society\nField Development Project II\nCore Specialisation III",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. Grade C in Mathematics, Physics and Chemistry."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Advanced Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "At least Grade B in English, Mathematics, Advanced Mathematics, Physics and Chemistry."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Mathematics, Physics and Chemistry."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass Foundation Program in relevant field from UTP with at least a final CGPA of 2.00\nPass Foundation Program in relevant field from from a Recognised Institution with at least a final CGPA of 3.00"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 24.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Total Points of 24 with a minimum Point 4 in Mathematics, Physics and Chemistry."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum Grade C or 60% in Mathematics OR Specialised Mathematics, Physics and Chemistry."
+          }
+        ]
+      }
+    }
+  ]
+}

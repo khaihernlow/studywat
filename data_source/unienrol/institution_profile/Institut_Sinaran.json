@@ -1,0 +1,61 @@
+{
+  "institution_name": "Institut Sinaran",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "GCE A-Levels - 3 Subjects",
+      "field_of_study": "A-Level",
+      "location": "Institut Sinaran, Kota Kinabalu",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum 5 credits.",
+        "O-Level": "Pass with minimum 5 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 545,
+        "resource_fee": 763,
+        "tuition_fee": 15840
+      },
+      "course_content": {
+        "core": "A-Level consists of two parts: Advanced Subsidiary (or better known as AS Level), and A2 Level AS Level is the first half of the programme and forms the foundation of A-Level. A2 Level is the second part of the syllabus, covering more complex topics in the subjects that you have chosen. You will typically take exams at the end of each level, with each level contributing 50% towards your final grade. That is to say, 50% from AS exams and 50% from A2 exams. Your final results will be a grade of A* to E for each subject taken. The maximum score is A*A*A* for 3 subjects, and A*A*A*A* for 4 subjects.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum 5 credits."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum 5 credits."
+          }
+        ]
+      }
+    }
+  ]
+}

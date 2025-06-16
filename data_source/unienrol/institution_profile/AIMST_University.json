@@ -1,0 +1,4619 @@
+{
+  "institution_name": "AIMST University",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 3419,
+  "malaysia_rank": 33,
+  "programs": [
+    {
+      "program_name": "Bachelor of Accountancy (Honours)",
+      "field_of_study": "Accounting",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "A Diploma in Accounting or related field, or its equivalent with a minimum CGPA of 2.50,.  Credits in Mathematics and a pass in English at SPM level",
+        "STPM": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent with a minimum Grade C+ (GP 2.33) in any two subjects.  Credits in Mathematics and a pass in English at SPM level",
+        "Foundation": "Pass with a minimum CGPA of 2.50.  Credits in Mathematics and a pass in English at SPM level"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5.5",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": null,
+        "tuition_fee": 66000
+      },
+      "course_content": {
+        "core": "YEAR 1 YEAR 2\nEconomics Financial Accounting & Reporting II\nPrinciples Of Accounting Taxation I\nEssential Of Business Communication Management Accounting II\nFinancial Mathematics Business & Cyber Law\nManagement Accounting I Financial Management\nFinancial Accounting & Reporting I Taxation II\n7 MPU Subjects Auditing I\n  Advanced Management Accounting\n  Business Analytics\n  Accounting Information System YEAR 1 YEAR 2 YEAR 1 YEAR 2 Economics Financial Accounting & Reporting II\nPrinciples Of Accounting Taxation I\nEssential Of Business Communication Management Accounting II\nFinancial Mathematics Business & Cyber Law\nManagement Accounting I Financial Management\nFinancial Accounting & Reporting I Taxation II\n7 MPU Subjects Auditing I\n  Advanced Management Accounting\n  Business Analytics\n  Accounting Information System Economics Financial Accounting & Reporting II Economics Financial Accounting & Reporting II Principles Of Accounting Taxation I Principles Of Accounting Taxation I Essential Of Business Communication Management Accounting II Essential Of Business Communication Management Accounting II Financial Mathematics Business & Cyber Law Financial Mathematics Business & Cyber Law Management Accounting I Financial Management Management Accounting I Financial Management Financial Accounting & Reporting I Taxation II Financial Accounting & Reporting I Taxation II 7 MPU Subjects Auditing I 7 MPU Subjects Auditing I Advanced Management Accounting  Advanced Management Accounting Business Analytics  Business Analytics Accounting Information System  Accounting Information System YEAR 3 YEAR 4\nFinancial Accounting and Reporting III Integrated Case Study\nAuditing II Accounting Theory\nCompany Law Strategic Management\nFinancial Accounting And Reporting IV Industrial Training\nPublic Sector Accounting 2 Elective Subjects\nCompany Secretarial Practices  \nCorporate Finance  \nCorporate Governance  \nBusiness Ethics  \n2 Elective Subjects YEAR 3 YEAR 4 YEAR 3 YEAR 4 Financial Accounting and Reporting III Integrated Case Study\nAuditing II Accounting Theory\nCompany Law Strategic Management\nFinancial Accounting And Reporting IV Industrial Training\nPublic Sector Accounting 2 Elective Subjects\nCompany Secretarial Practices  \nCorporate Finance  \nCorporate Governance  \nBusiness Ethics  \n2 Elective Subjects Financial Accounting and Reporting III Integrated Case Study Financial Accounting and Reporting III Integrated Case Study Auditing II Accounting Theory Auditing II Accounting Theory Company Law Strategic Management Company Law Strategic Management Financial Accounting And Reporting IV Industrial Training Financial Accounting And Reporting IV Industrial Training Public Sector Accounting 2 Elective Subjects Public Sector Accounting 2 Elective Subjects Company Secretarial Practices Company Secretarial Practices  Corporate Finance Corporate Finance  Corporate Governance Corporate Governance  Business Ethics Business Ethics  2 Elective Subjects 2 Elective Subjects",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A Diploma in Accounting or related field, or its equivalent with a minimum CGPA of 2.50,.  Credits in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent with a minimum Grade C+ (GP 2.33) in any two subjects.  Credits in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum CGPA of 2.50.  Credits in Mathematics and a pass in English at SPM level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc. (Hons) Accounting & Finance",
+      "field_of_study": "Accounting and Finance",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Full Passes.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 13600,
+        "tuition_fee": 44000
+      },
+      "course_content": {
+        "core": "Year 1\nFinancial Mathematics\nEconomics\nPrinciples of Management\nPrinciples of Accounting\nEssentials of Business Communication\nEnglish for Specific Academic Purposes\nBahasa Kebangsaan A***\nCritical Thinking\nIntroduction to Entrepreneurship\nIntroduction to Communication\nChinese 1\nTamil 1\nHubungan Etnik\nMalaysian Studies 2\nSociological Perspectives\nGeneral Psychology\nIntroduction to Philosophy\nMoral Studies\nIslamic Studies\nTotal Quality Management\nProject Management\nEconometric\nManagement Decision Making\nMergers, Acquisition & Corporate\nRestructuring\nFinancial Services Marketing\nIslamic Banking & Finance\nKnowledge Management\nHuman Resource Management\nOperations Management\nBusiness Statistics\nPrinciples of Auditing\nFinancial Management\nFinancial Accounting\nCredit Management\nEnglish for Professional Purposes\nResearch\nCampaign\nPromotion of Products\nProjects\nActivities Year 1 Year 2\nAccounting Information Systems\nBusiness Ethics\nCorporate Finance\nManagement Accounting\nFinancial Markets & Institutions\nManagement Science\nTitas\nBahasa Melayu Komunikasi 2\nTotal Quality Management\nProject Management\nEconometric\nManagement Decision Making\nMergers, Acquisition & Corporate\nRestructuring\nFinancial Services Marketing\nIslamic Banking & Finance\nKnowledge Management\nHuman Resource Management\nOperations Management\nBusiness & Cyber Law\nAdvance Management Accounting\nAdvance Financial Accounting\nManagerial Economics\nBusiness Research Methods\nPrinciples of Taxation Year 2 Year 3\nStrategic Management\nSeminar in Accounting and Finance\nProject\nFinancial Analysis\nFinancial Reporting\nCompany Law\nCorporate Governance\nStrategic Management\nSeminar in Accounting and Finance\nProject\nFinancial Analysis\nFinancial Reporting\nCompany Law\nCorporate Governance\nFinancial Regulations In Malaysia\nInternational Financial Management\nForensic Accounting and Financial\nCriminology\nIndustrial Training Year 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Bioinformatics",
+      "field_of_study": "Bioinformatics",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with 3 Subjects including Biology.",
+        "STPM": "Pass with 3 Subjects including Biology.",
+        "CPU": "CCC including Biology.",
+        "IB Diploma": "Minimum Score 24.",
+        "SACE/WACE": "CCC including Biology."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 6150,
+        "tuition_fee": 46000
+      },
+      "course_content": {
+        "core": "YEAR 1 \nBasic Chemistry \nGenetics \nBiodiversity \nCell & Molecular Biology \nMicrobiology Biochemistry \nBiocomputing \nHumanistics Perspective in Biotechnology \nBiophysics \n\nYEAR 2 \nGenetic engineering \nBioinstrumentation \nProteomics and RNomics \nObject Oriented Programming with C++ \nCell Culture \nBiostatistics Perl Programming and Bioperl \nDownstream Processing \nBiomathematics \nIntroduction to Algorithms \nBioinformatics Trends \nPermutation and Combinations \nVirology \n\nYEAR 3 \nResearch Project \nResearch Methodology \nMolecular Modeling \nNext Generation Sequence Analysis \nArticial Neural Network \nBiopython \nMetabolomics Pharmacogenomics \nComparative Genetics \nWeb Designing and Internet Programming \nMolecular Evolution \nBioethics, Bioregulation & Biosafety \nBusiness Management \nDatabase Management System \nForensic Science YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 Subjects including Biology."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 Subjects including Biology."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "CCC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CCC including Biology."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 24.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Score 24."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "CCC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CCC including Biology."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Biomedical Science",
+      "field_of_study": "Biomedical Sciences",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass A-Level with at least 2 D in Biology, Chemistry and Physics/Mathematics.",
+        "Diploma": "Pass Diploma with at least CGPA 2.75.",
+        "STPM": "Pass STPM with at least 2 C+ in Biology, Chemistry and Physics/Mathematics.",
+        "Foundation": "Pass Foundation with at least CGPA 2.33.."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.5",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 8100,
+        "tuition_fee": 90000
+      },
+      "course_content": {
+        "core": "Components of the programme The programme is semester-based and covers understanding of the principles in a wide range of Biomedical Disciplines, including Anatomy, Physiology, Biochemistry, Genetics, Cell and Molecular Biology, Biophysics, Bioinformatics, Immunology, Microbiology, Parasitology, Pathology, Pharmacology, Bacteriology, Virology & Mycology, Biostatistics, Forensic Science, Behavioural Science, Bioinstrumentation, Bioethics, Bioregulation and Biosafety, Biomedical Diagnostics, Transfusion Science and Blood Banking, Public Health Research Project and Industrial Training. Assessment Formative and summative assessments including research projects and industrial training.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass A-Level with at least 2 D in Biology, Chemistry and Physics/Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "Pass Diploma with at least CGPA 2.75."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with at least 2 C+ in Biology, Chemistry and Physics/Mathematics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation with at least CGPA 2.33.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc. (Hons) Biotechnology",
+      "field_of_study": "Biotechnology",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "UEC": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "STPM": "Pass with 3 Subjects including Biology.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "CPU": "Average 60% including Biology.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject",
+        "IB Diploma": "Minimum Score 24.",
+        "SACE/WACE": "ATAR 55 including Biology.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 6150,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "YEAR 1 \nBasic Chemistry\nBiochemistry\nBiocomputing\nBiodiversity\nBiophysics\nCell and Molecular Biology\nGenetics\nHumanistic Perspectives in Biotechnology\nMicrobiology \n\nYEAR 2 \nAlgal and Fungal Science\nBioinformatics\nBioinstrumentation\nBioprocess Technology\nBiostatistics\nBiotech Trends\nCell Culture\nDownstream processing\nFood technology\nGenetic Engineering\nHuman Physiology\nImmunology\nIndustrial Training\nPlant Science\nVirology\n\nYEAR 3 \nAquaculture\nBioethics, Bioregulation & Biosafety\nBiomolecular Diagnostics\nBusiness Management\nEnvironmental Biotechnology\nForensic Science\nComparative Genomics\nMedical Biotechnology\nMetabolomics\nMolecular Modeling\nMolecular Pathogenesis\nPharmacogenomics\nLaboratory Biorisk Management\nResearch Methodology\nResearch Project YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 Subjects including Biology.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Average 60% including Biology.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Minimum Score 24."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 55 including Biology.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science",
+      "field_of_study": "Computer Science",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 7300,
+        "tuition_fee": 43800
+      },
+      "course_content": {
+        "core": "Year 1 Sem 1 Computing Mathematics Computer Organisation and Architecture Programming Technique Operating Systems Year 1 Sem 2 Python Programming Object-Oriented Programming with C++ Discrete Structures Year 2 Sem 1 Artificial Intelligence and Intelligent Agents Networking and Communications Software Development Fundamentals Project Management & Finance Social Issues and Professional Practice Information Management Year 2 Sem 2 Software Engineering Methods Parallel and Distributed Computing Information Assurance and Security Elective- 1 Elective- 2 Elective- 3 Year 3 Sem 1 Human-Computer Interaction Algorithms and Complexity Elective- 4 Elective- 5 Elective- 6 Final Year Project Phase-I Year 3 Sem 2 Embedded System Fundamentals Graphics and Visualisation Elective- 7 Elective- 8 Elective- 9 Final Year Project Phase-II Special Semester Industrial Training (24 weeks)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Dental Surgery",
+      "field_of_study": "Dentistry",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 5,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview",
+        "UEC": "Grade B4 in 5 Subjects including Chemistry, Biology, Physics, Mathematics and Additional Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview",
+        "Diploma": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics",
+        "STPM": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview",
+        "Foundation": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics",
+        "CPU": "An average of 80% in 6 subjects including an average of 80% out of Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview",
+        "IB Diploma": "Minimum Score 30 including 2 science subjects or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 10650,
+        "tuition_fee": 283850
+      },
+      "course_content": {
+        "core": "Year 1  \nFoundation for Dentistry    \nOral Biosciences    \nBasic Medical Sciences    \nPersonal & Professional Development    \nConservative Dentistry & Endodontics    \nProsthodontics Year 1 Year 2 Oral Biosciences Basic Medical Sciences Personal & Professional Development Conservative Dentistry & Endodontic\nProsthodontics\nFoundation for Clinical Dentistry\nPeriodontology\nOral & Maxillofacial Pathology\nOral & Maxillofacial Diagnostic Imaging\n\nYear 3    \nPersonal & Professional Development    \nConservative Dentistry & Endodontics    \nProsthodontics    \nPeriodontology    \nOral & Maxillofacial Pathology    \nOral & Maxillofacial Diagnostic Imaging    \nOral & Maxillofacial Diagnostic Sciences    \nGeneral Medicine & General Surgery    \nCommunity & Preventive Oral Health Care    \nOral & Maxillofacial Surgery    \nPaediatric Dentistry    \nOrthodontics    \nPersonal & Professional Development Year 3 Year 4\nPersonal & Professional Development\nConservative Dentistry & Endodontics\nProsthodontics\nPeriodontology\nOral & Maxillofacial Diagnostic Science\nCommunity & Preventive Oral Health Care\nOral & Maxillofacial Diagnostic Science\nOral & Maxillofacial Surgery\nPaediatric Dentistry\nOrthodontics\nComprehensive Dental Practic Year 4 Year 5\nPersonal & Professional Development\nConservative Dentistry & Endodontics\nProsthodontics\nPeriodontology\nOral & Maxillofacial Surgery\nComprehensive Dental Practice Year 5",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry",
+              "Biology",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B4 in 5 Subjects including Chemistry, Biology, Physics, Mathematics and Additional Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "An average of 80% in 6 subjects including an average of 80% out of Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Minimum Score 30 including 2 science subjects or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "B.Eng (Hons) in Electrical & Electronic Engineering",
+      "field_of_study": "Electrical & Electronic Engineering",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "A-Level": "Pass A-Level with a full pass (C) in 2 subjects including Mathematics & Science.",
+        "UEC": "Pass with grade B in 5 subjects including Mathematics & 1 related Science subject.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Pass with grade C (GPA 2.00) in Mathematics and 1 related science subject.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 8100,
+        "tuition_fee": 38900
+      },
+      "course_content": {
+        "core": "Engineering Mathematics 1A Electronic Devices Programming Technique Electrical Circuits Engineering Mathematics 1B Engineering Materials Digital Circuits & System Design Engineering Mathematics 2A Electronic Circuits Electromagnetic Field & Waves Electrical Machines 1 Measurements & Instrumentation Engineering Mathematics 2B Signals & Systems Communication Systems Electrical Machines 2 Control Systems Generation & Transmission Linear Integrated Circuits Microprocessor & Microcontroller Project Management & Finance Digital Signal Processing Engineers & Society Power System Analysis Power Electronics & Drives Electrical Power Distribution & Utilization Integrated Design Project – Phase I Industrial Training Final Year Project – Phase I High Voltage Engineering Integrated Design Project – Phase II Final Year Project – Phase II Sustainable Engineering",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass A-Level with a full pass (C) in 2 subjects including Mathematics & Science."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass with grade B in 5 subjects including Mathematics & 1 related Science subject."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass with grade C (GPA 2.00) in Mathematics and 1 related science subject."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc. (Hons) Finance & Management",
+      "field_of_study": "Finance",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "UEC": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "STPM": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 5250,
+        "tuition_fee": 27000
+      },
+      "course_content": {
+        "core": "YEAR 1 \nFinancial Mathematics\nEssential of Business Communication\nPrinciples of Management\nPrinciples of Accounting\nEconomics\nBusiness Statistics\nOrganizational Behaviour\nFinancial Management\nFinancial Accounting\nOperation Management\nProject Management\nBusiness Analytics\n\nYEAR 2 \nAccounting Information System\nBusiness Ethics\nFinancial Markets and Institutions\nManagement Accounting\nManagement Science\nCorporate Finance\nFinancial Analysis\nBusiness and Cyber Law\nPrinciples of Auditing\nManagerial Economics\nBusiness Research Methods\nPrinciples of Taxation\nCredit Management\n\nYEAR 3 \nCorporate Governance\nCompany Law\nStrategic Management\nManagement Information System\nFinancial Reporting\nProject\nSeminar in Marketing\nInvestment Analysis and Portfolio Management\nInternational Financial Management\nIndustrial Training YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc. (Hons) Management Information Systems",
+      "field_of_study": "Information Systems",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass in 2 subjects.  Pass in Mathematics or Additional Mathematics at SPM level.",
+        "UEC": "Pass with grade B in 5 subjects including Mathematics or Additional Mathematics.",
+        "Diploma": "CGPA ≥ 2.0.  Pass in Mathematics or Additional Mathematics at SPM level.",
+        "STPM": "Pass with grade C (GPA ≥ 2.0) in 2 subjects.  Pass in Mathematics or Additional Mathematics at SPM level.",
+        "Foundation": "CGPA ≥ 2.0.  Pass in Mathematics or Additional Mathematics at SPM level."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 5250,
+        "tuition_fee": 27000
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 and 2 Introduction to Business Economics Principles of Management Introduction Computer Architecture Introduction to Computers Essentials of Business Communication Elements of Accounting Introduction to Programming  Year 2 Semester 3 and 4 System Analysis and Design Business Law Introduction to Computer Networks Visual Programming Organizational Behavior Business Statistics Web Techniques and Applications User Interface Design  Year 3 Semester 5 and 6 Operations Management Software Project Management Business Data Communication Business Research Methods Database Knowledge Management Decision Support Systems E-Commerce Multimedia Systems Project  Year 4 Semester 7 Management Information Systems Information Security Management Strategic Management Technology Entrepreneurship Project Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in 2 subjects.  Pass in Mathematics or Additional Mathematics at SPM level."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with grade B in 5 subjects including Mathematics or Additional Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA ≥ 2.0.  Pass in Mathematics or Additional Mathematics at SPM level."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with grade C (GPA ≥ 2.0) in 2 subjects.  Pass in Mathematics or Additional Mathematics at SPM level."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA ≥ 2.0.  Pass in Mathematics or Additional Mathematics at SPM level."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Information Systems (Data Analytics) (Honours)",
+      "field_of_study": "Information Systems",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "A Diploma in Computer Science OR Software Engineering OR Information Technology OR Information Systems or equivalent with a minimum CGPA of 2.5 and a credit in Mathematics at SPM level or its equivalent or Pass with a minimum CGPA of 2.5 may be admitted, subject to a rigorous internal assessment process and a credit in Mathematics at SPM level or its equivalent.",
+        "STPM": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum Grade C (GP 2.0) in any 2 subjects.  Credit in Mathematics at SPM level or its equivalent",
+        "Foundation": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0.  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": null,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "YEAR 1 YEAR 2 YEAR 3\nComputer System Machine Learning Text Analytics\nFoundation in Information Systems Programming for Data Science Enterprise Resource Planning\nProgramming Principles Data Engineering Data Visualization\nDiscrete Mathematics Software Engineering Electronic Commerce\nComputer Networks Business Analytics Enterprise Architecture\nStatistics for Application Introduction to Data Science Digital Marketing\nDatabase System Big Data Analytics Project II\nSystems Analysis and Design Web Analytics Industrial Training\n5 Free modules* Data Modeling 1 Free module*\n4 MPU modules** IS Project Management  \n  Information Systems Strategic Management  \n  Data Structure and Algorithm  \n  Project I  \n  2 MPU Modules** YEAR 1 YEAR 2 YEAR 3 YEAR 1 YEAR 2 YEAR 3 Computer System Machine Learning Text Analytics\nFoundation in Information Systems Programming for Data Science Enterprise Resource Planning\nProgramming Principles Data Engineering Data Visualization\nDiscrete Mathematics Software Engineering Electronic Commerce\nComputer Networks Business Analytics Enterprise Architecture\nStatistics for Application Introduction to Data Science Digital Marketing\nDatabase System Big Data Analytics Project II\nSystems Analysis and Design Web Analytics Industrial Training\n5 Free modules* Data Modeling 1 Free module*\n4 MPU modules** IS Project Management  \n  Information Systems Strategic Management  \n  Data Structure and Algorithm  \n  Project I  \n  2 MPU Modules** Computer System Machine Learning Text Analytics Computer System Machine Learning Text Analytics Foundation in Information Systems Programming for Data Science Enterprise Resource Planning Foundation in Information Systems Programming for Data Science Enterprise Resource Planning Programming Principles Data Engineering Data Visualization Programming Principles Data Engineering Data Visualization Discrete Mathematics Software Engineering Electronic Commerce Discrete Mathematics Software Engineering Electronic Commerce Computer Networks Business Analytics Enterprise Architecture Computer Networks Business Analytics Enterprise Architecture Statistics for Application Introduction to Data Science Digital Marketing Statistics for Application Introduction to Data Science Digital Marketing Database System Big Data Analytics Project II Database System Big Data Analytics Project II Systems Analysis and Design Web Analytics Industrial Training Systems Analysis and Design Web Analytics Industrial Training 5 Free modules* Data Modeling 1 Free module* 5 Free modules* Data Modeling 1 Free module* 4 MPU modules** IS Project Management 4 MPU modules** IS Project Management  Information Systems Strategic Management  Information Systems Strategic Management  Data Structure and Algorithm  Data Structure and Algorithm  Project I  Project I  2 MPU Modules**  2 MPU Modules**",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "A Diploma in Computer Science OR Software Engineering OR Information Technology OR Information Systems or equivalent"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "or Pass with a minimum CGPA of 2.5 may be admitted, subject to a rigorous internal assessment process and a credit in Mathematics at SPM level or its equivalent."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum Grade C (GP 2.0) in any 2 subjects."
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "A pass in Matriculation or Foundation studies"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc. (Hons) Business & Marketing",
+      "field_of_study": "Marketing",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 5250,
+        "tuition_fee": 27000
+      },
+      "course_content": {
+        "core": "YEAR 1 \nIntroduction to Business Economics\nPrinciples of Management\nElements of Accounting\nFoundation of Marketing\nEssentials of Business Communications\nPrinciples of Finance\nOrganizational Behavior\nBusiness Statistics\nEntrepreneurship\nOperation Management\nCustomer Relationship Management\nSustainable Supple Chain Management\n\nYEAR 2 \nMarketing Planning & Management\nBusiness Ethics\nConsumer Behaviour\nInternational Business\nDigital Marketing\nRetail Management\nSales Management\nBusiness and Cyber Law\nInternational Marketing\nManagerial Economics\nBusiness Research Methods\nHuman Resource Management\nFinancial Services Marketing\nProject Management\n\nYEAR 3 \nMarketing Research\nIntegrated Marketing Communication\nStrategic Management\nManagement Information System\nService Marketing & Management\nProject\nSeminar in Marketing\nBusiness Analytics\nIndustrial Training YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Dental Technology",
+      "field_of_study": "Medical Technology",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics",
+        "UEC": "B4 each in 5 subjects i.e. Biology, Chemistry, Physics, and Mathematics or Additional Mathematics..  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview",
+        "Diploma": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics",
+        "STPM": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview",
+        "Foundation": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview",
+        "CPU": "An average of 80% in 6 subjects including an average of 80% out of Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 12500,
+        "tuition_fee": 100000
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Anatomy-1 Physiology Oral Biosciences-1 Laboratory Material-1 Communication skills 1 Falsafah Dan Isu Semasa Introduction to Communication Semester 2 Pathology Basic Dental Technology Laboratory Materials 2 Enterpreunship 1 Removable Prosthodontics 1  Year 2 Semester 1 Foundation for Laboratory Practice Oral Biosciences 2 Laboratory Materials 3 Removable Prosthodontics 2 Orthodontic Appliances 1 English for Specific Academic Purpose (ESAP） Semester 2 Laboratory Materials 4 Enterpreunship 2 Removable Prosthodontics 3 Orthodontic Appliances 2 Tamadun Islam dan Tamadun Asia (TITAS) Year 3 Semester 1 Removable Prosthodontics 4 Fixed Prosthodontics 1 Biostastics and Research Methodology MPU3 Semester 2 Fixed Prosthodontics 2 Research Design English for Professional Purposes (EPP) U4 Activities  Year 4 Semester 1 Fixed Prosthodontics 3 Ethics and Practice of Dental Technology Semester 2 Industrial Attachment Comprehensive Laboratory practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "B4 each in 5 subjects i.e. Biology, Chemistry, Physics, and Mathematics or Additional Mathematics..  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 80.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 80.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "An average of 80% in 6 subjects including an average of 80% out of Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 80.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 80.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MBBS",
+      "field_of_study": "Medicine",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 5,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "UEC": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "Diploma": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 2Bs including Biology, Chemistry or Physics\ncredit in Mathematics, English and another subject\nin addition, credit in Bahasa Melayu required to practise Medicine in Malaysia",
+        "STPM": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "Foundation": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "CPU": "An average of 80% in 6 subjects including an average of 80% out of Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "IB Diploma": "Minimum Score 30 including 2 science subjects or Mathematics.",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": null,
+        "tuition_fee": 319750
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to basic sciences\nImmunology & Haematology\nMusculoskeletal system\nCardiovascular system\nRespiratory system\nGastrointestinal system\nPrimary care interphase  Year 2 Nervous system\nEndocrine & Reproductive system\nRenal system\nIntegrated system module\nBiostatistics & Epidemiology\nFirst clinical attachment\nPatient Safety and Biosafety\nSpecial Study Module  Year 3 Medicine\nSurgery\nMaternal and Child Health – OB & G\nMaternal and Child Health – Paediatrics\nOrthopaedics\nCommunity Medicine\nFamily Medicine\nForensic Medicine\nSpecial Study Module\nDermatology\nCo-Curricular Activities  Year 4 Medicine\nSurgery\nPsychiatry\nMaternal and Child Health – OB & G\nMaternal and Child Health – Paediatrics\nOrthopaedics\nAccident & Emergency\nENT\nOphthalmology\nFamily Medicine\nAnaesthesiology\nCommunity Medicine  Year 5 Electives (National/International)\nMedicine\nSurgery\nMaternal and Child Health – Paediatrics\nMaternal and Child Health – OB & G\nOrthopaedics\nPsychiatry\nFamily Medicine\nPalliative Care\nGeriatrics\nBasic Life Support",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Advanced Mathematics (I)",
+              "Advanced Mathematics (II)"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 2Bs including Biology, Chemistry or Physics\ncredit in Mathematics, English and another subject\nin addition, credit in Bahasa Melayu required to practise Medicine in Malaysia"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "An average of 80% in 6 subjects including an average of 80% out of Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Minimum Score 30 including 2 science subjects or Mathematics."
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Multimedia Technology (Honours)",
+      "field_of_study": "Multimedia Design",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "A Diploma (Level 4, MQF) with at least CGPA of 2.00 or A Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) subjected to HEP Senate / Academic Board’s approval.",
+        "STPM": "A pass in STPM with at least Grade C (GP 2.00) in any TWO (2) subjects.",
+        "Foundation": "Matriculation or Foundation with at least CGPA of 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 3"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": null,
+        "tuition_fee": 42600
+      },
+      "course_content": {
+        "core": "YEAR 1 YEAR 2 YEAR 3\nBasic Programming Graphic and Computer Animation Directing Animation\nAugmented Reality Technology Interactive Media Design Multimedia Seminar\nHuman Computer Interaction Digital Audio Technology Game Application Development\nMedia Psychology WWW Programming Final Year Project Phase-II\nAnimation Techniques Multimedia System Networking Industrial Training (24 Weeks)\nMobile Multimedia Technology and Ubiquitous Computing Visual Effects Techniques  \nMultimedia System Foundation Statistics for IT  \nMultimedia Database Video Digital Technology  \n  Research Methodology  \n  System Analysis and Design  \n  User-centered Design  \n  IT Entrepreneurship  \n  Media Ethics and Law  \n  Final Year Project Phase-I YEAR 1 YEAR 2 YEAR 3 YEAR 1 YEAR 2 YEAR 3 Basic Programming Graphic and Computer Animation Directing Animation\nAugmented Reality Technology Interactive Media Design Multimedia Seminar\nHuman Computer Interaction Digital Audio Technology Game Application Development\nMedia Psychology WWW Programming Final Year Project Phase-II\nAnimation Techniques Multimedia System Networking Industrial Training (24 Weeks)\nMobile Multimedia Technology and Ubiquitous Computing Visual Effects Techniques  \nMultimedia System Foundation Statistics for IT  \nMultimedia Database Video Digital Technology  \n  Research Methodology  \n  System Analysis and Design  \n  User-centered Design  \n  IT Entrepreneurship  \n  Media Ethics and Law  \n  Final Year Project Phase-I Basic Programming Graphic and Computer Animation Directing Animation Basic Programming Graphic and Computer Animation Directing Animation Augmented Reality Technology Interactive Media Design Multimedia Seminar Augmented Reality Technology Interactive Media Design Multimedia Seminar Human Computer Interaction Digital Audio Technology Game Application Development Human Computer Interaction Digital Audio Technology Game Application Development Media Psychology WWW Programming Final Year Project Phase-II Media Psychology WWW Programming Final Year Project Phase-II Animation Techniques Multimedia System Networking Industrial Training (24 Weeks) Animation Techniques Multimedia System Networking Industrial Training (24 Weeks) Mobile Multimedia Technology and Ubiquitous Computing Visual Effects Techniques Mobile Multimedia Technology and Ubiquitous Computing Visual Effects Techniques  Multimedia System Foundation Statistics for IT Multimedia System Foundation Statistics for IT  Multimedia Database Video Digital Technology Multimedia Database Video Digital Technology  Research Methodology  Research Methodology  System Analysis and Design  System Analysis and Design  User-centered Design  User-centered Design  IT Entrepreneurship  IT Entrepreneurship  Media Ethics and Law  Media Ethics and Law  Final Year Project Phase-I  Final Year Project Phase-I",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "A Diploma (Level 4, MQF) with at least CGPA of 2.00 or A Diploma Kemahiran Malaysia (DKM) / Diploma Vokasional Malaysia (DVM) subjected to HEP Senate / Academic Board’s approval."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "A pass in STPM with at least Grade C (GP 2.00) in any TWO (2) subjects."
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "Matriculation or Foundation with at least CGPA of 2.00."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Nursing Science (Hons)",
+      "field_of_study": "Nursing",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with minimum Grade C Three (3) other subjects.  Must possess SPM qualification with the following subject requirements:\nMin. C in Mathematics (Additional/Modern Maths)\nMin. C in a Science subject (Science/Biology/Physics/Chemistry)\nMin. C in Bahasa Melayu\nMin. E in English",
+        "Diploma": "CGPA 2.50.  Must possess SPM qualification with the following subject requirements:\nMin. C in Mathematics (Additional/Modern Maths)\nMin. C in a Science subject (Science/Biology/Physics/Chemistry)\nMin. C in Bahasa Melayu\nMin. E in English",
+        "STPM": "Pass or equivalent with minimum CGPA ≥ 2.5.  Must possess SPM qualification with the following subject requirements:\nMin. C in Mathematics (Additional/Modern Maths)\nMin. C in a Science subject (Science/Biology/Physics/Chemistry)\nMin. C in Bahasa Melayu\nMin. E in English",
+        "Foundation": "CGPA 2.50.  Must possess SPM qualification with the following subject requirements:\nMin. C in Mathematics (Additional/Modern Maths)\nMin. C in a Science subject (Science/Biology/Physics/Chemistry)\nMin. C in Bahasa Melayu\nMin. E in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 13600,
+        "tuition_fee": 44000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHuman Bioscience I\nHuman Bioscience II\nMicrobiology and Nutrition\nFundamentals of Nursing\nClinical Experience I\nSemester 2 Year 1 Semester 1 Semester 2 Safety in Health Care & Applied\nPharmacology\nIntegumentary Nursing and Perioperative Care\nRespiratory Nursing\nHubungan Etnik\nClinical Experience II Year 2\nSemester 1\nCardiovascular Nursing\nMusculoskeletal & Nephro– Urinary Nursing\nSensory, Hematology & Oncology Nursing\nIntroduction to Communication\nEnglish for Specific Academic Purpose (ESAP)\nClinical Experience 5\nSemester 2 Year 2 Semester 1 Semester 2 Epidemiology & Communicable Disease\nWomen’s Health Nursing\nGastroenterological Nursing\nMental Health Nursing\nEnglish for Professional Purpose (EPP)\nClinical Experience IV\nYear 3\nSemester 1\nNeuro-Endocrine Nursing\nCommunity Health Nursing\nFirst Aid, Emergency & Disaster\nNursing, Critical Care Nursing Elderly Care Nursing\nBahasa Kebangsaan (A)\nClinical Experience V\nSemester 2 Year 3 Semester 1 Semester 2 Nursing Research & Statistics\nClinical Decision Making skills\nClinical Sub-specialties Adult Nursing (Medical-Surgical)\nClinical Sub-specialties Child Health Nursing\nClinical Experience VI\nYear 4\nSemester 1\nNursing Research Project\nHealth Promotion and Client Education\nGeneral Psychology\nSociological Aspects\nClinical Experience VII\nClinical Experience VIII\nSemester 2 Year 4 Semester 1 Semester 2 Transition to Professional Nursing\nNursing Management & Effective Leadership\nTamadun Islam dan Tamadun Asia\nActivities / projects\nClinical Experience IX\nClinical Experience",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics (Additional/Modern Maths)",
+              "a Science subject (Science/Biology/Physics/Chemistry)",
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum Grade C Three (3) other subjects.  Must possess SPM qualification with the following subject requirements:\nMin. C in Mathematics (Additional/Modern Maths)\nMin. C in a Science subject (Science/Biology/Physics/Chemistry)\nMin. C in Bahasa Melayu\nMin. E in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics (Additional/Modern Maths)",
+              "a Science subject (Science/Biology/Physics/Chemistry)",
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.50.  Must possess SPM qualification with the following subject requirements:\nMin. C in Mathematics (Additional/Modern Maths)\nMin. C in a Science subject (Science/Biology/Physics/Chemistry)\nMin. C in Bahasa Melayu\nMin. E in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics (Additional/Modern Maths)",
+              "a Science subject (Science/Biology/Physics/Chemistry)",
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass or equivalent with minimum CGPA ≥ 2.5.  Must possess SPM qualification with the following subject requirements:\nMin. C in Mathematics (Additional/Modern Maths)\nMin. C in a Science subject (Science/Biology/Physics/Chemistry)\nMin. C in Bahasa Melayu\nMin. E in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics (Additional/Modern Maths)",
+              "a Science subject (Science/Biology/Physics/Chemistry)",
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.50.  Must possess SPM qualification with the following subject requirements:\nMin. C in Mathematics (Additional/Modern Maths)\nMin. C in a Science subject (Science/Biology/Physics/Chemistry)\nMin. C in Bahasa Melayu\nMin. E in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Pharmacy (Hons)",
+      "field_of_study": "Pharmacy",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "A-Level": "BBB, AAC or ABC in Biology, Chemistry and Physics or Mathematics. Chemistry must be minimum Grade B.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview",
+        "UEC": "Pass with B4 in 5 subjects i.e. Biology, Chemistry, Physics, Mathematics and any other subject with pass in Bahasa Malaysia..  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview",
+        "Diploma": "Diploma in Pharmacy with minimum CGPA 3.50 or Diploma in Science (Biology, Physics,, Chemistry) with minimum CGPA 3.75.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English",
+        "STPM": "Minimum BBB or ABC in Biology, Chemistry (minimum Grade B) and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview",
+        "Foundation": "Pass with CGPA 3.00 with minimum Grade B in Chemistry.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English",
+        "CPU": "Aggregrate score 65% including Chemistry and any 2 of the following: Mathematics, Physics or Biology..  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview",
+        "IB Diploma": "Minimum Score 33.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry (minimum Grade B) and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 3"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 7900,
+        "tuition_fee": 100000
+      },
+      "course_content": {
+        "core": "YEAR 1 \nSemester 1\nIntroduction to Pharmacy\nAnatomy & Physiology\nMicrobiology\nPharmaceutical Chemistry I\nHubungan Etnik\nESAP\nIntroduction to Entrepreneurship YEAR 1 Semester 1 Semester 2 Pharmaceutical Chemistry II\nIntroduction to Medicinal Chemistry Immunology\nDosage Form\nGeneral Pharmacology & Trichology\nTITAS\nEPP\nGeneral Psychology\n\nYEAR 2 \nSemester 1\nIntroduction to Clinical Pharmacy\nBiochemistry\nPhysical Pharmaceutics\nPeripheral Nervous System & Pharmacotherapy Gastrointestinal, Endocrine Systems & Pharmacotherapy\nResearch Methodology & Biostatistics\nSemester 2 YEAR 2 Semester 1 Semester 2 Pulmonary, Renal Systems & Pharmacotherapy\nCardiovascular Systems & Pharmacotherapy\nPharmacognosy\nPharmaceutical Technology\nPublic Health Pharmacy Elective\nU4 Activites\n\nYEAR 3 \nSemester 1\nCentral Nervous System & Pharmacotherapy\nBasics to Industrial Pharmacy\nCommunity Pharmacy\nForensic Pharmacy & Ethics\nPharmaceutical Analysis\nDosage Form Design I\nResearch Project I\nSemester 2 YEAR 3 Semester 1 Semester 2 Dosage Form Design II\nPharmaceutical Biotechnology\nAntimicrobials &Anti-infectives\nClinical Pharmacokinetics\nHospital Pharmacy\nIndustrial Training\nResearch Project II\n\nYEAR 4 \nSemester 1\nAntineoplastic &Immunomodulators\nPharmaceutical Management\nApplied Therapeutics I\nCounselling skills for Pharmacists\nHospital Training\nElective (1 out 6): YEAR 4 Semester 1 Elective (1 out 6): Geriatric Pharmacy\nDrug Modeling\nCosmetics and Toiletries\nPreclinical Drug Evaluation\nPharmacogenomics & Pharmacogenetics\nRehabilitation Medicine\nSemester 2 Semester 2 Applied Therapeutics II\nPharmacoeconomics & Pharmacoepidemiology\nDrug Information Services\nClinical Pharmacy Training\nAdvanced Drug Delivery Systems\nElective (1 out 5) Elective (1 out 5) Nutraceutical Pharmacy\nTraditional, Complementary & Alternative Medicine\nDrug Abuse and Society\nIntellectual Property Rights\nErgonomics and Occupational Health",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "AAC"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB, AAC or ABC in Biology, Chemistry and Physics or Mathematics. Chemistry must be minimum Grade B.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with B4 in 5 subjects i.e. Biology, Chemistry, Physics, Mathematics and any other subject with pass in Bahasa Malaysia..  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Pharmacy with minimum CGPA 3.50 or Diploma in Science (Biology, Physics,, Chemistry) with minimum CGPA 3.75.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum BBB or ABC in Biology, Chemistry (minimum Grade B) and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with CGPA 3.00 with minimum Grade B in Chemistry.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 65.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Biology"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Aggregrate score 65% including Chemistry and any 2 of the following: Mathematics, Physics or Biology..  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 33.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Score 33.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 80.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 80.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry (minimum Grade B) and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Physiotherapy (Hons)",
+      "field_of_study": "Physiotherapy",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "A-Level": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry.",
+        "UEC": "Please contact our counsellors for further details.",
+        "Diploma": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted..",
+        "STPM": "Pass with CGPA 2.50 Including Biology/Physics and Chemistry.  SPM or equivalent:",
+        "Foundation": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 12400,
+        "tuition_fee": 54400
+      },
+      "course_content": {
+        "core": "YEAR 1 \nSemester 1\nAnatomy I\nPhysiology I\nBehavioral Science\nEnglish For Specific Academic Purposes (ESAP)\nHubungan Etnik\nTITAS\nUniversity Electives (Any 1)\n1. Introduction to Communication\n2. BKA (Compulsory for students without credit in Bahasa Malaysia)\n3. Critical Thinking\n4. Introduction to Entrepreneurship YEAR 1 Semester 1 University Electives (Any 1) Semester 2 Anatomy II\nPhysiology II\nBiomechanics\nKinesiology I\nElectrotherapy I\nPhysiotherapeutic Skills I\n\nYEAR 2 \nSemester 1 YEAR 2 Semester 1 Professional Development and Practice\nKinesiology II\nElectrotherapy II\nPathology\nPhysiotherapeutic Skills II\nSociological Perspectives (any one)\n1. General Psychology\n2. Moral studies\n3. Islamic Studies Sociological Perspectives (any one) Semester 2 Musculoskeletal Physiotherapy I\nCardiopulmonary Physiotherapy\nNeurological Physiotherapy I\nExercise Physiology\nPharmacology\nClinical Placement I (4 Weeks)\nYEAR 3 \nSemester 1\nMusculoskeletal Physiotherapy II\nPhysiotherapy in Medical and Surgical conditions\nNeurological Physiotherapy II\nSports Physiotherapy\nUniversity Electives (Any one)\n1. Research\n2. Campaigns\n3. Promotions of products\n4. Projects\n– Proposals YEAR 3 Semester 1 University Electives (Any one) – Questionnaire – Report 5. Activities\n– Games – Visits – Debates Semester 2 Biostatistics in Physiotherapy Research\nEvidence Based Practice\nPhysiotherapy in Women’s Health\nClinical Placement II (10 weeks )\n\nYEAR 4 \nSemester 1\nPhysiotherapy in Acute Care\nPaediatrics Physiotherapy\nGeriatric Physiotherapy\nSpinal Care and Rehabilitation\nEnglish For Professional Purposes (EPP)\nPhysiotherapy Electives (Any two)\n1. Rehabilitation Medicine\n2. Community Physiotherapy\n3. Ergonomics and Occupational health\n4. Medical Imaging\n5. Radiological anatomy\nSemester 2 YEAR 4 Semester 1 Physiotherapy Electives (Any two) Semester 2 Research / Project\nClinical Placement III (12 weeks )",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with CGPA 2.50 Including Biology/Physics and Chemistry.  SPM or equivalent:"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Software Engineering (Honours)",
+      "field_of_study": "Software Engineering",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Mar",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "Diploma in Computing (Level 4, MQF) or its equivalent with a minimum CGPA of 2.50 OR Any Diploma Science and Technology (Level 4, MQF) with a minimum CGPA of 2.75 OR Diploma Kemahiran Malaysia (DKM) / Diploma Vocational Malaysia (DVM) in Computing fields with a minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval;.",
+        "STPM": "A pass in STPM with a minimum grade of C (CGPA 2.00) in any TWO (2) subjects or any equivalent qualification, OR A pass in STPM (Science Stream) or its equivalent with a minimum grade of C (CGPA 2.00) in Mathematics subject and ONE (1) Science/ICT subject.  Credit in Additional Mathematics at SPM level or equivalent / Mathematics and any one of the science subjects at SPM level or equivalent.",
+        "Foundation": "AIMST foundation / Matriculation with a minimum CGPA of 2.00.  Credit in Additional Mathematics at SPM level or equivalent / Mathematics and any one of the science subjects at SPM level or equivalent."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": null,
+        "tuition_fee": 42600
+      },
+      "course_content": {
+        "core": "YEAR 1 YEAR 2 YEAR 3\nProgramming Technique Web Development using Platforms Final Year Project Phase-I\nComputer Organization and Architecture Web System & Technology User Interface Frameworks\nIntroduction to Computer Systems and Networks Application Integration Final Year Project Phase-II\nOperating Systems Software Engineering Methods Graphic and Visualization\nPython Programming Information Technology Security Industry Training (24 Weeks)\nDatabase Design and Implementation Information Management  \nApplication Development & Processes Human Computer Interaction  \nSystem Analysis and Design UX Design  \n  Project Management  \n  Social Issues and Professional  \n  Practice  \n  Machine Learning YEAR 1 YEAR 2 YEAR 3 YEAR 1 YEAR 2 YEAR 3 Programming Technique Web Development using Platforms Final Year Project Phase-I\nComputer Organization and Architecture Web System & Technology User Interface Frameworks\nIntroduction to Computer Systems and Networks Application Integration Final Year Project Phase-II\nOperating Systems Software Engineering Methods Graphic and Visualization\nPython Programming Information Technology Security Industry Training (24 Weeks)\nDatabase Design and Implementation Information Management  \nApplication Development & Processes Human Computer Interaction  \nSystem Analysis and Design UX Design  \n  Project Management  \n  Social Issues and Professional  \n  Practice  \n  Machine Learning Programming Technique Web Development using Platforms Final Year Project Phase-I Programming Technique Web Development using Platforms Final Year Project Phase-I Computer Organization and Architecture Web System & Technology User Interface Frameworks Computer Organization and Architecture Web System & Technology User Interface Frameworks Introduction to Computer Systems and Networks Application Integration Final Year Project Phase-II Introduction to Computer Systems and Networks Application Integration Final Year Project Phase-II Operating Systems Software Engineering Methods Graphic and Visualization Operating Systems Software Engineering Methods Graphic and Visualization Python Programming Information Technology Security Industry Training (24 Weeks) Python Programming Information Technology Security Industry Training (24 Weeks) Database Design and Implementation Information Management Database Design and Implementation Information Management  Application Development & Processes Human Computer Interaction Application Development & Processes Human Computer Interaction  System Analysis and Design UX Design System Analysis and Design UX Design  Project Management  Project Management  Social Issues and Professional  Social Issues and Professional  Practice  Practice  Machine Learning  Machine Learning",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Computing (Level 4, MQF) or its equivalent with a minimum CGPA of 2.50"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "OR Any Diploma Science and Technology (Level 4, MQF) with a minimum CGPA of 2.75"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "OR Diploma Kemahiran Malaysia (DKM) / Diploma Vocational Malaysia (DVM) in Computing fields with a minimum CGPA of 2.50 subjected to HEP Senate / Academic Board’s approval;."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "A pass in STPM with a minimum grade of C (CGPA 2.00) in any TWO (2) subjects or any equivalent qualification"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science/ICT"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "OR A pass in STPM (Science Stream) or its equivalent with a minimum grade of C (CGPA 2.00) in Mathematics subject and ONE (1) Science/ICT subject."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Credit in Additional Mathematics at SPM level or equivalent / Mathematics and any one of the science subjects at SPM level or equivalent."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "AIMST foundation / Matriculation with a minimum CGPA of 2.00."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Credit in Additional Mathematics at SPM level or equivalent / Mathematics and any one of the science subjects at SPM level or equivalent."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Biotechnology",
+      "field_of_study": "Biotechnology",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "three (3) credits in Mathematics, one science subject and one any other subject, or its equivalent;.",
+        "O-Level": "three (3) credits in Mathematics, one science subject and one any other subject, or its equivalent;.",
+        "UEC": "3Cs (including Mathematics and a Science Subject) and a Pass in English.."
+      },
+      "english_requirements": {
+        "MUET": "Band 3"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": null,
+        "tuition_fee": 22100
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1,2&3 Basic Chemistry Biodiversity Cell and Molecular Biology Genetics U4 Activities Pengajian Malaysia English 1 Biochemistry Biocomputing Biophysics Microbiology Food Technology English II Introduction to Communication Current topics in biotechnology Mathematics Moral or Islamic Studies YEAR 2 Semester 4,5&6 Crop biotechnology Environmental Biotechnology Industrial Bioprocess & Fermentation Technology Instrumentation in Biotechnology Recombination DNA Technology Research Methods & Scientific Writing Animal Biotechnology Bio-entrepreneurship Bioinformatics Biomolecular Diagnostics Biosafety & Biosecurity Biostatistics Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "any other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "three (3) credits in Mathematics, one science subject and one any other subject, or its equivalent;."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "any other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "three (3) credits in Mathematics, one science subject and one any other subject, or its equivalent;."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3Cs (including Mathematics and a Science Subject) and a Pass in English.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Management",
+      "field_of_study": "Business and Management",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "O-Level": "At least Credit in Any 3 Subjects.",
+        "UEC": "Minimum Grade B in Any 3 Subject.",
+        "STPM": "Minimum of Grade C (GP 2.0) in Any Subject."
+      },
+      "english_requirements": {
+        "": ""
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": null,
+        "tuition_fee": 21600
+      },
+      "course_content": {
+        "core": "Year 1 Essentials of Business Communication Principles of Management Introduction to Business Principles of Microeconomics Principles of Macroeconomics Principles of Marketing Management Information Systems Financial Management Business Ethics Principles of Accounting Introduction to Business Statistics Fundamentals of IT Introduction to Business Analytics Service Marketing Management International Marketing Customer Relationship Management Year 2 Fundamentals of Entrepreneurship Organisation Behaviour International Business Operation Management Foundation of Business Law Fundamentals of HRM Business Strategy Fundamentals of Investing Introduction to Risk and Insurance Management Business Mathematics Introduction to E-Commerce Introduction to Business Sustainability Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma Electrical & Electronic Engineering",
+      "field_of_study": "Electrical & Electronic Engineering",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Yes - 12 weeks",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "O-Level": "Please contact our counsellors for further details.",
+        "UEC": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 5375,
+        "tuition_fee": 15775
+      },
+      "course_content": {
+        "core": "YEAR 1 \nSemester 1\nMathematics 1\nBasic Electronics\nElectromagnetic Field Theory\nIntroduction to Computer Programming\nEnglish I\nMQA Elective I YEAR 1 Semester 1 Semester 2 Mathematics II\nElectrical Circuits\nIntroduction to Communication Systems\nCAD, Simulation and Drafting\nEnglish II\nMQA Compulsory\nMQA Elective 2 YEAR 2 \n(Special Semester)\nIndustrial Training (12 Weeks)\n\nYEAR 3 \nSemester 1\nPower System Protection and Switch Gears\nElectrical Drives and Control\nSpecial Electrical Machines\nFinal Year Project\nElectives (Any Two)\n1. Flexible AC Transmission System\n2. Power Plant Engineering\n3. Robotics and Automation YEAR 2 (Special Semester) YEAR 3 Semester 1 Electives (Any Two)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science",
+              "technical",
+              "vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Finance",
+      "field_of_study": "Finance",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "At least Credits in 3 Subjects including Mathematics and pass in English.",
+        "O-Level": "3 Credits including a pass in Mathematics and English.",
+        "UEC": "at least Grad B in Any three Subjects.",
+        "STPM": "Minimum of Grade C (GP 2.0) in any Subject.  Credit in Mathematics and pass in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": null,
+        "tuition_fee": 21600
+      },
+      "course_content": {
+        "core": "Year 1 Essentials of Business Communication Principles of Management Principles of Accounting Principles of Microeconomics Principles of Macroeconomics Financial Mathematics Financial Accounting Financial Management I Business Ethics Introduction to Financial Reporting and Analysis Cost Accounting Fundamentals of Investing Introduction to Business Analytics Introduction to Risk and Insurance Management Credit Management Year 2 Financial Management II Management Accounting Personal Financial Planning Introduction to Business Statistics Foundation of Business Law Fundamentals of Financial Markets and Institutions Research Methods Islamic Banking and Finance Fundamentals of Auditing Introduction to E-Commerce Introduction to Business Sustainability Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "At least Credits in 3 Subjects including Mathematics and pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Credits including a pass in Mathematics and English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "at least Grad B in Any three Subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C (GP 2.0) in any Subject.  Credit in Mathematics and pass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Nursing",
+      "field_of_study": "Nursing",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 credits including Bahasa Malaysia, Mathematics and 1 science subject (Biology/Physics/Chemistry/General Science/Applied Science), pass in English and Sejarah.",
+        "O-Level": "Pass with 5 credits including Mathematics and 1 science subject (Biology/Physics/Chemistry/General Science/Applied Science), pass in English.  Additional Requirement:\nSPM Credit in BM & Pass in Sejarah",
+        "UEC": "Please contact our counsellors for further details.  Additional Requirement:\nSPM Credit in BM & Pass in Sejarah"
+      },
+      "english_requirements": {
+        "IELTS": "Overall 5.5",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 10150,
+        "tuition_fee": 28800
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHealth Science I\nBehavioral Science I\nNursing Science I\nNursing Science II\nHealth Science II\nClinical Practice I\nSemester 2 Year 1 Semester 1 Semester 2 Health Science III\nBehavioral Science II\nMedical Nursing I\nMedical Nursing II\nSurgical Nursing I\nSurgical Nursing II\nClinical Practice II\nYear 2\nSemester 1\nMedical Nursing III\nSurgical Nursing III\nPaediatric Nursing\nObstetric Nursing\nGynaecology\nClinical Practice III\nSemester 2 Year 2 Semester 1 Semester 2 Medical Nursing IV\nSurgical Nursing IV\nCommunity Health Nursing I\nCommunity Health Nursing II\nHealth Science IV\nClinical Practice IV\nYear 3\nSemester 1\nMedical Nursing V\nSurgical Nursing V\nMental Health Nursing\nNursing Research\nNursing Management\nClinical Practice V\nSemester 2 Year 3 Semester 1 Semester 2 Emergency & Disaster\nProfessional Development\nClinical Practice VI",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits including Bahasa Malaysia, Mathematics and 1 science subject (Biology/Physics/Chemistry/General Science/Applied Science), pass in English and Sejarah."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits including Mathematics and 1 science subject (Biology/Physics/Chemistry/General Science/Applied Science), pass in English.  Additional Requirement:\nSPM Credit in BM & Pass in Sejarah"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Additional Requirement:\nSPM Credit in BM & Pass in Sejarah"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma In Physiotherapy",
+      "field_of_study": "Physiotherapy",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 credits including Bahasa Malaysia, English, Mathematics and 1 science subject (Biology/Physics/Chemistry/General Science/Applied Science).",
+        "O-Level": "Please contact our counsellors for further details.",
+        "UEC": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 9900,
+        "tuition_fee": 24400
+      },
+      "course_content": {
+        "core": "YEAR 1 \nSemester 1\nEssentials of Human Biology\nEnglish I\nIntroduction to Physics\nMoral Studies/ Islamic Studies\nAnatomy\nPhysiology\nPengajian Malaysia U1 – (Compulsory) YEAR 1 Semester 1 Semester 2 Applied Anatomy\nBasic Computer Applications\nPathology\nEnglish II\nMusculoskeletal Physiotherapy I\nIntroduction to Health Care System I\nBiomechanics and Kinesiology\nGeneral Psychology I\n\nYEAR 2 \nSemester 1\nCardio Respiratory Physiotherapy\nMusculoskeletal Physiotherapy II\nIntroduction to Health Care System II\nElectrotherapy I\nExercise Therapy\nEnglish III\nCounseling Skills YEAR 2 Semester 1 Semester 2 Sociological Perspectives\nSystemic Disorder in Physiotherapy\nMusculoskeletal Physiotherapy III\nElectrotherapy II\nNeurological Physiotherapy-I\nPhysiotherapy in Women’s Health\nClinical Placement I – 8 Weeks\n\nYEAR 3 \nSemester 1\nPediatrics Physiotherapy\nGeriatric Physiotherapy\nGeneral Psychology II\nPhysiotherapy in Acute Care\nNeurological Physiotherapy-II\nOccupational Health and Sports Injury\nU4\nInt. to Communication / BKA Clinical\nPlacement II- 8 Weeks\nSemester 2 YEAR 3 Semester 1 Semester 2 Clinical Placement III – 14 Weeks",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "English",
+              "Mathematics",
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits including Bahasa Malaysia, English, Mathematics and 1 science subject (Biology/Physics/Chemistry/General Science/Applied Science)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business",
+      "field_of_study": "Foundation in Arts",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5C’s in SPM including English, Mathematics and 3 other subjects..",
+        "O-Level": "Minimum 5C’s in O-Level including English, Mathematics and 3 other subjects.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 1950,
+        "tuition_fee": 8500
+      },
+      "course_content": {
+        "core": "Semester 1       \nBasic Information & Communication Technology (ICT)      \nIntro to Management        \nMathematics       \nEnglish I     \nEssentials of Economics Semester 1 Semester 2 Intro to Law\nFinancial Accounting\nWriting and Research Skills\nEnglish II \nCo Curriculum Semester 3 Thinking Skills Management Accounting Intro to Marketing Intro to Psychology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5C’s in SPM including English, Mathematics and 3 other subjects.."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5C’s in O-Level including English, Mathematics and 3 other subjects.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Engineering)",
+      "field_of_study": "Foundation in Science",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5Cs including 2 Science subjects and Mathematics plus pass in English.",
+        "O-Level": "5Cs including 2 Science subjects and Mathematics plus pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 8550
+      },
+      "course_content": {
+        "core": "Semester 1 Semester 1 Basic Information & Communication Technology (ICT) Physics I Biology I Mathematics I English I Semester 2 Chemistry I Physics II Mathematics II English II Co Curriculum Semester 3 Chemistry II Engineering Mathematics Introduction to Programming Thinking Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs including 2 Science subjects and Mathematics plus pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs including 2 Science subjects and Mathematics plus pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Physiotherapy / Biotechnology)",
+      "field_of_study": "Foundation in Science",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5Cs including 2 Science subjects and Mathematics plus pass in English.",
+        "O-Level": "5Cs including 2 Science subjects and Mathematics plus pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 8550
+      },
+      "course_content": {
+        "core": "Semester 1 Basic Information & Communication Technology (ICT) Physics I Biology I Mathematics I English I Semester 2 Chemistry I Biology II Mathematics II English II Co Curriculum Semester 3 Chemistry II Biochemistry Introduction to Psychology Thinking Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs including 2 Science subjects and Mathematics plus pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs including 2 Science subjects and Mathematics plus pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (MBBS / Dentistry / Pharmacy with MIED Care Scholarship)",
+      "field_of_study": "Foundation in Science",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 3As in Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and Bs in the remaining 2 subjects.",
+        "O-Level": "Minimum 3As in Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and Bs in the remaining 2 subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 8550
+      },
+      "course_content": {
+        "core": "Course assessment comprises of two components : 50% course work and 50% examination. The coursework component comprises different assessments such as assignments, presentations, midterm tests, projects and laboratory work assigned throughout each semester. The final examination is conducted at the end of each semester. Semester 1 Basic Information & Communication Technology (ICT) Physics I Biology I Mathematics I English I Semester 2 Chemistry I Biology II Mathematics II English II Co Curriculum Semester 3 Chemistry II Biochemistry Introduction to Psychology Thinking Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3As in Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and Bs in the remaining 2 subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3As in Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and Bs in the remaining 2 subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (MBBS / Dentistry / Pharmacy)",
+      "field_of_study": "Foundation in Science",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5B in Biology, Chemistry, Physics, Mathematics or Additional Mathematics and another subject.  Additional requirement for SPM-Level or equivalent:\ncredit in Bahasa Melayu, English required to practise in Malaysia",
+        "O-Level": "5B in Biology, Chemistry, Physics, Mathematics or Additional Mathematics and another subject.  Additional requirement for SPM-Level or equivalent:\ncredit in Bahasa Melayu, English required to practise in Malaysia"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 8550
+      },
+      "course_content": {
+        "core": "Course assessment comprises of two components : 50% course work and 50% examination. The coursework component comprises different assessments such as assignments, presentations, midterm tests, projects and laboratory work assigned throughout each semester. The final examination is conducted at the end of each semester. Semester 1 Basic Information & Communication Technology (ICT) Physics I Biology I Mathematics I English I Semester 2 Chemistry I Biology II Mathematics II English II Co Curriculum Semester 3 Chemistry II Biochemistry Introduction to Psychology Thinking Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5B in Biology, Chemistry, Physics, Mathematics or Additional Mathematics and another subject.  Additional requirement for SPM-Level or equivalent:\ncredit in Bahasa Melayu, English required to practise in Malaysia"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5B in Biology, Chemistry, Physics, Mathematics or Additional Mathematics and another subject.  Additional requirement for SPM-Level or equivalent:\ncredit in Bahasa Melayu, English required to practise in Malaysia"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Science (Medical Biochemsitry)",
+      "field_of_study": "Biochemistry",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor in Biochemistry (Hons), or other related science degree CGPA >2.75, for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 5700,
+        "tuition_fee": 11000
+      },
+      "course_content": {
+        "core": "Research Area Medical Biochemistry Bioinformatics Genetic Engineering Traditional Medicines Oncology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor in Biochemistry (Hons), or other related science degree CGPA >2.75, for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Science (Biotechnology)",
+      "field_of_study": "Biotechnology",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor of Science (Hons) in Biotechnology or other related sciences CGPA >2.75, for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 6300,
+        "tuition_fee": 11000
+      },
+      "course_content": {
+        "core": "Research Areas: Aquaculture Bioinformatics Bioremediation Biosensors & Biomaterials Cancer Research Genomics Medical Plants Bioprospecting Microbiology Molecular diagnostics Proteomics Vaccine development",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "Bachelor of Science (Hons) in Biotechnology or other related sciences CGPA >2.75, for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Science in Management",
+      "field_of_study": "Management",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor’s Degree in a related field from AIMST or other institutions recognized by the University Senate · Minimum CGPA of 2.75 or equivalent, as accepted by the HEP Senate · Equivalent with minimum CGPA of 2.50 & not meeting CGPA of 2.75 can be accepted subject to rigorous internal assessment · Equivalent not meeting CGPA of 2.50 can be accepted subject to a minimum of 5 years working experience in a relevant field.."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 5700,
+        "tuition_fee": 11000
+      },
+      "course_content": {
+        "core": "Research, Thesis Examination and Viva -voce A candidate may be required to supplement the research program by attendance at, a formal enrolment in additional* subject, if it is considered a necessary adjunct to the course. *Pre-requisite courses: Research Methodology.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor’s Degree in a related field from AIMST or other institutions recognized by the University Senate · Minimum CGPA of 2.75 or equivalent, as accepted by the HEP Senate · Equivalent with minimum CGPA of 2.50 & not meeting CGPA of 2.75 can be accepted subject to rigorous internal assessment · Equivalent not meeting CGPA of 2.50 can be accepted subject to a minimum of 5 years working experience in a relevant field.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration",
+      "field_of_study": "MBA Programme",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Degrees: Min CGPA of 2.50 as accepted by HEP Senate_x000D_ CGPA < 2.50 with 5 years working experience."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 3000,
+        "tuition_fee": 13700
+      },
+      "course_content": {
+        "core": "MBA CORE Accounting & Finance for Managers Management and Organizational Behaviour Marketing Management Management Information Systems Human Resource Management Managerial Economics Corporate Strategy Project Management Research Methodology International Business Law and Ethical issues in Business Business Sustainability MASTER PROJECT Research Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Degrees: Min CGPA of 2.50 as accepted by HEP Senate_x000D_ CGPA < 2.50 with 5 years working experience."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Science (Medical Physiology)",
+      "field_of_study": "Medical Sciences",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Feb"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor‘s Degree 1) Min CGPA of 2.75 as accepted by HEP Senate. 2) 2.75 > CGPA > 2.50 with internal 3) CGPA < 2.5 with a minimum of 5 years working experience in relevant field.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 6300,
+        "tuition_fee": 11000
+      },
+      "course_content": {
+        "core": "Year 1 General and Cellular Basis of Medical Physiology, Physiology of Nerve and Muscle, Hematology & Immunology, Gastrointestinal Physiology, Neurophysiology, Endocrinology & Reproduction, Cardiovascular Physiology, Pulmonary Physiology, Renal Acid-Base Physiology Year 2 Research Methods, Biostatistics & Ethics; Research Projects",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor‘s Degree 1) Min CGPA of 2.75 as accepted by HEP Senate. 2) 2.75 > CGPA > 2.50 with internal 3) CGPA < 2.5 with a minimum of 5 years working experience in relevant field.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Science (Medical Microbiology)",
+      "field_of_study": "Medical Sciences",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor in Microbiology (Hons), or other related science degrees CGPA >2.75, for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 6300,
+        "tuition_fee": 11000
+      },
+      "course_content": {
+        "core": "Research areas/expertise: Medical Bacteriology Medical Virology Medical Mycology Medical Biotechnology Medical Biosensors Bioinformatics Genetic Engineering",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor in Microbiology (Hons), or other related science degrees CGPA >2.75, for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Science (Human Anatomy)",
+      "field_of_study": "Medical Sciences",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Feb"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor‘s Degree 1) Min CGPA of 2.75 as accepted by HEP Senate. 2) 2.75 > CGPA > 2.50 with internal 3) CGPA < 2.5 with a minimum of 5 years working experience in relevant field.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 6300,
+        "tuition_fee": 11000
+      },
+      "course_content": {
+        "core": "Year 1 & 2 (Mixed Mode) Compulsory: General anatomy musculoskeletal anatomy regional neurovascular anatomy cardiovascular anatomy respiratory anatomy Gastrointestinal anatomy renal anatomy neuroanatomy endocrine & reproductive anatomy clinical anatomy Anatomical techniques human genetics Research Methods Biostatistics & Ethics Research Project Teaching Assistantship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor‘s Degree 1) Min CGPA of 2.75 as accepted by HEP Senate. 2) 2.75 > CGPA > 2.50 with internal 3) CGPA < 2.5 with a minimum of 5 years working experience in relevant field.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Science (Pharmacy)",
+      "field_of_study": "Pharmacy",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor‘s Degree in Pharmacy: Min CGPA of 2.75 as accepted by HEP Senate 2.75 > CGPA > 2.50 with 3 years working experience OR Bachelor’s degree in related: CGPA > 2.75. Need to take a bridging programme.."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 9700,
+        "tuition_fee": 11000
+      },
+      "course_content": {
+        "core": "Method of delivery: By Research A candidate may be required to supplement the research by attendance at or formal enrolment in additional subjects. A candidate from non-pharmacy background is required to enroll into the bridging program (to take introduction to pharmacy papers)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "with 3 years working experience OR Bachelor’s degree in related: CGPA > 2.75. Need to take a bridging programme.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Pharmacy (Clinical Pharmacy)",
+      "field_of_study": "Pharmacy",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Feb",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor‘s Degree in Pharmacy 1) Min CGPA of 2.75 as accepted by HEP Senate. 2) 2.75 > CGPA > 2.50 with internal 3) CGPA < 2.5 with a minimum of 5 years working experience in relevant field.."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 6000,
+        "tuition_fee": 11000
+      },
+      "course_content": {
+        "core": "Core Pharmacotherapeutics I, II, III & IV Clinical Pharmacy Practice Clinical Pharmacokinetics Biostatistics in Clinical Research Research Project I & II Compulsory Clerkships Compulsory Clerkships Pharmacotherapy in Internal Medicine Pharmacotherapy in Infectious Diseases Pharmacotherapy in Pediatrics Pharmacotherapy in Intensive Care Units",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor‘s Degree in Pharmacy 1) Min CGPA of 2.75 as accepted by HEP Senate. 2) 2.75 > CGPA > 2.50 with internal 3) CGPA < 2.5 with a minimum of 5 years working experience in relevant field.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Physiotherapy (Musculoskeletal)",
+      "field_of_study": "Physiotherapy",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Degree": "Bachelor’s degree in Physiotherapy_x000D_ · Min CGPA of 2.50 or its equivalent approved by AIMST University Senate_x000D_ · Its equivalent with CGPA less than 2.50 and a minimum of 5 years working experience in a related field_x000D_ · Other qualification approved by the government of Malaysia."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 11400,
+        "tuition_fee": 16500
+      },
+      "course_content": {
+        "core": "Year 1 Study of the advanced musculoskeletal assessment and management, including Research Methodology and Biostatistics Posting in Government hospitals of Malaysia/internationally reputed hospitals in overseas Year 2 Year 2 Research project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "Bachelor’s degree in Physiotherapy_x000D_ · Min CGPA of 2.50 or its equivalent approved by AIMST University Senate_x000D_ · Its equivalent with CGPA less than 2.50 and a minimum of 5 years working experience in a related field_x000D_ · Other qualification approved by the government of Malaysia."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy (Biotechnology)",
+      "field_of_study": "Biotechnology",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Master Degree in related field: CGPA >2.75, for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 7050,
+        "tuition_fee": 7150
+      },
+      "course_content": {
+        "core": "Research Areas: Aquaculture Bioinformatics Bioremediation Biosensors & Biomaterials Cancer Research Genomics Medical Plants Bioprospecting Microbiology Molecular diagnostics Proteomics Vaccine development",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "Master Degree in related field: CGPA >2.75, for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosphy (Pharmacy)",
+      "field_of_study": "Pharmacy",
+      "location": "AIMST, Bedong",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Master of Pharmacy or related field: Bachelor of Pharmacy with CGPA 3.7 and registered as Master students can apply for this programme based on quality of research and Senat's approval."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 15400,
+        "tuition_fee": 19500
+      },
+      "course_content": {
+        "core": "Method of delivery: By Research",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.7
+          },
+          {
+            "type": "raw",
+            "text": "Master of Pharmacy or related field: Bachelor of Pharmacy with CGPA 3.7 and registered as Master students can apply for this programme based on quality of research and Senat's approval."
+          }
+        ]
+      }
+    }
+  ]
+}

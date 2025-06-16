@@ -1,0 +1,2703 @@
+{
+  "institution_name": "University of Huddersfield",
+  "institution_country": "United Kingdom",
+  "institution_type": "Public",
+  "world_rank": 704,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "BSc (Hons) Accounting and Finance",
+      "field_of_study": "Accounting and Finance",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 297048
+      },
+      "course_content": {
+        "core": "Year 1 Economics of Business Foundations of Financial Accounting Foundations of Management Accounting Foundations of Finance Quantitative Analysis Business Law Year 2 Financial Reporting Applied Management Accounting Financial Management Financial Technology and Control Environment Final Year Corporate Finance Performance Management Advanced Corporate Reporting Issues in Accounting and Finance",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Architecture",
+      "field_of_study": "Architecture",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade ABB.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university",
+        "UEC": "Grade A in 1 subject and B in 4 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university",
+        "STPM": "3 Principal Passes with minimum of Grade ABB.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 297048
+      },
+      "course_content": {
+        "core": "Year 1 Technology 1: An Introduction to Architectural Technology  History and Theory 1: Spatial and Visual Culture Personal Development 1: An Introduction to Communication Skills Design Studio 1: Basic Principles of Design Design Studio 2: Theory and Form Year 2 Technology 2: Integrated Technology History and Theory 2 : Place and Precedent Personal Development 2: Techniques of Representation Design Studio 3: Place and Architecture Design Studio 4: Integrated Design Final Year Technology 3: Materials and Tectonics History and Theory 3: Architectural Dissertation Personal Development 3: Professional Studies Design Studio 5: Event Space Form",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade ABB.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade A in 1 subject and B in 4 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade ABB.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BEng (Hons) Automotive and Motorsport Engineering",
+      "field_of_study": "Automotive Technology",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade BBC including Mathematics and 1 Science/Techonolgy subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade BBC Including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 316851
+      },
+      "course_content": {
+        "core": "Year 1 Engineering Communication and Materials Mathematics Manufacturing, Measurement and Diagnostics Engineering Science Mechatronics Professional Development and Transferrable Skills Year 2 Dynamic Systems Analysis of Materials Engineering Design Thermofluids Manufacturing and Production Systems Automotive Propulsion Systems Final Year Aerodynamics and Computational Fluid Dynamics Project Quality and Production Management Design Analysis Final Year Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade BBC including Mathematics and 1 Science/Techonolgy subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade BBC Including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Chemistry with Forensic Science",
+      "field_of_study": "Chemistry",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade BBC including Mathematics and Chemistry.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics and Chemistry.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade BBC including Mathematics and Chemistry.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 316851
+      },
+      "course_content": {
+        "core": "Year 1 Structure: From Atoms to Molecules and Materials The Reactivity and Properties of Carbon Compounds Physical Chemistry 1 Introduction to Analytical Science and Spectroscopy Practical Forensic Science 1 Data Handling for Forensic Science Year 2 Year 2 Organic Chemistry 2 Analytical Science 2 Inorganic Chemistry 2 Physical Chemistry 2 Practical Forensic Science 2 Crime Scene and Forensic Examinations Final Year Research Project Advanced Chemistry Practical Organic Chemistry 3 Physical Chemistry 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade BBC including Mathematics and Chemistry.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics and Chemistry.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade BBC including Mathematics and Chemistry.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Computer Science with Artificial Intelligence",
+      "field_of_study": "Computer Science",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 316851
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Procedural Programming Computing Science and Mathematics Computer Organisation and Architecture Computer Network Fundamentals Project 1 Introduction to Object-Oriented Programming Year 2 Team Project Relational Databases and Web Integration Algorithms and Data Structures Computational Mathematics 1 Introduction to Artificial Intelligence Final Year Individual Project Knowledge-Based Artificial Intelligence Data-driven Artificial Intelligence",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Computer Science with Cyber Security",
+      "field_of_study": "Computer Science",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 316851
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Procedural Programming Computing Science and Mathematics Computer Network Fundamentals Project 1 Computer Organisation and Architecture Introduction to Object-Oriented Programming Year 2 Year 2 Team Project Cyber Security Introduction to Digital Forensics Introduction to Artificial Intelligence Algorithms and Data Structures Final Year Distributed and Client Server Systems Computational Mathematics 2 Individual Project Advanced Cyber Security Data-driven Artificial Intelligence",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Games Development (Art) (Design/Production)",
+      "field_of_study": "Computer Science",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 316851
+      },
+      "course_content": {
+        "core": "Year 1 Concept Development 1 Games Team Project 1 3D Games Asset Development Your Game Development Journey Games Prototyping 1 3D Character Development Year 2 Year 2 Games Design and Development 2 Team Project (Games) 3D Environment and Hard Surface Production Visual Design for Games 3D Sculpture and Character Creation Final Year Final Year Individual Project Team Project (Games) Advanced Visual Design for Games Advanced 3D (Design and Production)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Early Childhood and Education",
+      "field_of_study": "Early Childhood Education",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check",
+        "STPM": "3 Principal Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 297048
+      },
+      "course_content": {
+        "core": "Year 1 Theories and Strategies for Learning Perspectives in Learning and Development Self, Society and Welfare Issues in Contemporary Education Year 2 Professional Practice and Learning Developing Language and Communication for Learning Year 3 Planning Your Final Year Project Final Year Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Graphic Design and Animation",
+      "field_of_study": "Graphic Design",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 297048
+      },
+      "course_content": {
+        "core": "Year 1 Design Process and Production 1 Design Studio 1 Design Theory and Context 1 Year 2 Intermediate Studio Practice Process and Production Final Year Advanced Research and Development Advanced Studio Theory as Practice 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BEng (Hons) Mechanical Engineering",
+      "field_of_study": "Mechanical Engineering",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade BBC including Mathematics and 1 Science/Techonolgy subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade BBC Including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 316851
+      },
+      "course_content": {
+        "core": "Year 1 Engineering Communication and Materials Mathematics Manufacturing, Measurement and Diagnostics Engineering Science Mechatronics Professional Development and Transferrable Skills Year 2 Dynamic Systems Analysis of Materials Engineering Design Thermofluids Electrical Energy Conversion Manufacturing and Production Systems Final Year Dynamic Analysis and Control Design Analysis Eco Design and IPR Final Year Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade BBC including Mathematics and 1 Science/Techonolgy subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade BBC Including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BEng (Hons) Mechatronic Engineering",
+      "field_of_study": "Mechatronics Engineering",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade BBC including Mathematics and 1 Science/Technolgy subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade BBC Including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 316851
+      },
+      "course_content": {
+        "core": "Year 1 Engineering Communication and Materials  Mathematics Manufacturing, Measurement and Diagnostics Engineering Science Mechatronics Professional Development and Transferrable Skills Year 2 Analysis of Materials Signal Analysis and Control Engineering Design Thermofluids Electrical Energy Conversion Manufacturing and Production Systems Final Year Dynamic Analysis and Control Factory Simulation Systems Electrical Power and Drive Systems DSP Applications Final Year Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade BBC including Mathematics and 1 Science/Technolgy subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade BBC Including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Podiatry",
+      "field_of_study": "Medical Sciences",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade B including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade B including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 336654
+      },
+      "course_content": {
+        "core": "Year 1 Clinical Podiatry 1 Lower Limb Structure and Function Medicine 1 Podiatric Theory 1 Professional Development and Research 1 Year 2 Clinical Podiatry 2 Introduction to Musculoskeletal Podiatry Medicine 2 Research 2 Year 3 Clinical Podiatry 3 Podiatry and the High Risk Patient Principles of Contemporary Practice Research 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade B including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade B including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BMus (Hons) Music Performance",
+      "field_of_study": "Music",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 297048
+      },
+      "course_content": {
+        "core": "Year 1 Music, Culture and Society Uderstanding Music Performance Skills 1 Composition 1 Technology for Music Specialist Performance Year 2 Inside the Music Business Performance Skills 2 Creative Projects in Musical Cultures Research in Musical Cultures Final year Music Industry and Professional Skills Independent Project Performance Skills 3 Advanced Research in Musical Cultures",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Occupational Therapy",
+      "field_of_study": "Occupational Safety & Health",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade B including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade B including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 336654
+      },
+      "course_content": {
+        "core": "Year 1 Contexualising Occupational Therapy Factors Affecting Occupational Performance and Participation Health and Performance Skills for Occupation Practice Based Experience 1 Principles Underpinning Occupational Therapy Practice Professional Development and Research 1 Year 2 Year 2 Enhancing Occupational Participation for Individuals Practice Based Experience 2A Practice Based Experience 2B Research 2 Utilising Group Work to Enhance the Occupational Participation of Individuals Year 3 Contemporary Occupational Therapy Practice Based Experience 3 Research 3 Transitioning into Practice Widening Occupational Therapy Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade B including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade B including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc( Hons) Physiotherapy",
+      "field_of_study": "Physiotherapy",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade ABB including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "UEC": "Grade A in 1 subject and B in 4 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade ABB including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 336654
+      },
+      "course_content": {
+        "core": "Year 1 Applied Anatomy and Movement Analysis Introduction to Health and Healthcare Physiology in Physiotherapy Practice Professional Development and Research 1 Year 2 Cardio-Respiratory Physiotherapy Electrophysical Agents and Exercise Therapy Neuromusculoskeletal Physiotherapy Neurological Physiotherapy Practice Based Experience 3 and 4: Year 2 Research 2 Year 3 Contemporary Physiotherapy Preparation for Employment and Leadership in Health Care Delivery Management and Health Promotion of Distinctive Client Groups Practice Based Experience 6 and 7: Year 3 Research 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade ABB including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade A in 1 subject and B in 4 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade ABB including Mathematics and 1 Science subject.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Psychology",
+      "field_of_study": "Psychology",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 297048
+      },
+      "course_content": {
+        "core": "Year 1 Child Development Exploring Contemporary Issues in Psychology Introduction to Cognitive and Biological Psychology Introduction to Quantitative and Qualitative Research Methods Introduction to Social Psychology and Personality Year 2 Cognition; Brain and Behaviour Developmental Psychology Psychological Research and Data Analysis Social Psychology and Personality Year 3 Psychology Final Year Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade B.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Special Educational Needs; Disabilities and Inclusion",
+      "field_of_study": "Special Needs Education",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "3 Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check",
+        "UEC": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics",
+        "STPM": "3 Principal Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with no lower than 5.5 in any element.",
+        "Others": "GCE ‘O’ level: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 297048
+      },
+      "course_content": {
+        "core": "Year 1 Theories and Strategies for Learning Perspectives in Learning and Development Professional Practice 1 SEND: Understanding policy and practice Year 2 Safeguarding Children and Young People Developing Language and Communication for Learning Child Development and SEND Person-Centred Approaches Year 3 Planning Your Final Year Project Major Study Final Year Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English, Mathematics.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade BBC.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc Fintech",
+      "field_of_study": "Finance",
+      "location": "Huddersfield, Queensgate Campus",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Minimum CGPA 2.50.  Applicants with other appropriate professional qualifications and/or experience will be considered on an individual basis"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 overall with no element lower than 5.5, or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 112218
+      },
+      "course_content": {
+        "core": "Principles of Finance Financial Reporting and Company Performance Managing Big Data Distributed Ledger Technologies The Global Professional Final Project\n\nAn opportunity to pursue an area that interests you or which you are passionate about comes in your choice of project. You have a choice of three routes: Research Route, Consultancy Route and New Venture Creation Route (subject to tutor approval).\n\nResearch Route Final Project Research Route Research Methods Individual Research Project Consultancy Route Consultancy Skills Group Consultancy Project New Venture Creation Launch a venture New Venture Creation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Applicants with other appropriate professional qualifications and/or experience will be considered on an individual basis"
+          }
+        ]
+      }
+    }
+  ]
+}

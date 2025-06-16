@@ -1,0 +1,919 @@
+{
+  "institution_name": "University of Technology Sydney (UTS)",
+  "institution_country": "Australia",
+  "institution_type": "Public",
+  "world_rank": 173,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Bachelor of Business",
+      "field_of_study": "Business and Management",
+      "location": "UTS City Campus Sydney",
+      "intakes": [
+        "Jan",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "11, BBC.",
+        "UEC": "Overall average 3.4 of the best 5 subjects 17 from the 5 best subjects. Please consult our counsellor for further guidance.",
+        "STPM": "3.33. Please consult our counsellor for further guidance.",
+        "IB Diploma": "31 points.",
+        "SACE/WACE": "ATAR Point: 85.2, Mathematics and any two units of English.."
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 389061
+      },
+      "course_content": {
+        "core": "The course comprises a total of 144 credit points. The study components for course completion are: 48 credit points of core subjects and either standard or extended stream:\n22108 Accounting and Accountability\n23115 Economics for Business\n21212 People and Organisations\n26134 Business Statistics\n24109 Marketing and Customer Value\n25300 Fundamentals of Business Finance\n21214 Business and Social Impact\n22208 Accounting, Business and Society\n96 credit points of the standard stream, which includes:\na business major (48 credit points), and\n48 credit points comprising of either:\na second major (48 credit points), or\ntwo sub-majors (24 credit points each), or\na sub-major (24 credit points) in conjunction with elective subjects (24 credit points), or\nelective subjects (48 credit points)\n96 credit points of the extended stream, which includes:\nan extended business major (72 credit points), and\n24 credit points comprising of either:\na sub-major (24 credit points), or\nelective subjects (24 credit points) 48 credit points of core subjects and either standard or extended stream:\n22108 Accounting and Accountability\n23115 Economics for Business\n21212 People and Organisations\n26134 Business Statistics\n24109 Marketing and Customer Value\n25300 Fundamentals of Business Finance\n21214 Business and Social Impact\n22208 Accounting, Business and Society 48 credit points of core subjects and either standard or extended stream: 22108 Accounting and Accountability\n23115 Economics for Business\n21212 People and Organisations\n26134 Business Statistics\n24109 Marketing and Customer Value\n25300 Fundamentals of Business Finance\n21214 Business and Social Impact\n22208 Accounting, Business and Society 22108 Accounting and Accountability 23115 Economics for Business 21212 People and Organisations 26134 Business Statistics 24109 Marketing and Customer Value 25300 Fundamentals of Business Finance 21214 Business and Social Impact 22208 Accounting, Business and Society 96 credit points of the standard stream, which includes:\na business major (48 credit points), and\n48 credit points comprising of either:\na second major (48 credit points), or\ntwo sub-majors (24 credit points each), or\na sub-major (24 credit points) in conjunction with elective subjects (24 credit points), or\nelective subjects (48 credit points) 96 credit points of the standard stream, which includes: a business major (48 credit points), and\n48 credit points comprising of either:\na second major (48 credit points), or\ntwo sub-majors (24 credit points each), or\na sub-major (24 credit points) in conjunction with elective subjects (24 credit points), or\nelective subjects (48 credit points) a business major (48 credit points), and 48 credit points comprising of either: a second major (48 credit points), or two sub-majors (24 credit points each), or a sub-major (24 credit points) in conjunction with elective subjects (24 credit points), or elective subjects (48 credit points) 96 credit points of the extended stream, which includes:\nan extended business major (72 credit points), and\n24 credit points comprising of either:\na sub-major (24 credit points), or\nelective subjects (24 credit points) 96 credit points of the extended stream, which includes: an extended business major (72 credit points), and\n24 credit points comprising of either:\na sub-major (24 credit points), or\nelective subjects (24 credit points) an extended business major (72 credit points), and 24 credit points comprising of either:\na sub-major (24 credit points), or\nelective subjects (24 credit points) a sub-major (24 credit points), or\nelective subjects (24 credit points) a sub-major (24 credit points), or elective subjects (24 credit points) Students can choose any of the following as a first major: first major Accounting,\nEconomics,\nFinance,\nHuman Resource Management,\nInternational Business,\nManagement,\nMarketing or\nAdvertising and Marketing Communications. Accounting, Economics, Finance, Human Resource Management, International Business, Management, Marketing or Advertising and Marketing Communications. The choice of second major includes those listed above as well as Business Law or Information Technology. second major Electives (totalling 24 or 48 credit points) can be taken from any faculty in the university, with the approval of the owning Faculty. For more information on business electives, please see the Business Electives page. Electives (totalling 24 or 48 credit points) Students have an option to undertake an internship program (26600 Business Internship) as an elective within the business major or as a free elective. Students should not enrol in the internship subject in the last session of study to ensure that completion of required hours of work does not impact graduation and/or international students' visa conditions. internship program",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "11, BBC."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Overall average 3.4 of the best 5 subjects 17 from the 5 best subjects. Please consult our counsellor for further guidance."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.33
+          },
+          {
+            "type": "raw",
+            "text": "3.33. Please consult our counsellor for further guidance."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "31 points."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR Point: 85.2, Mathematics and any two units of English.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Digital and Social Media)",
+      "field_of_study": "Communication",
+      "location": "UTS City Campus Sydney",
+      "intakes": [
+        "Jan",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "9, CCC.",
+        "UEC": "Overall average 5.0 of the best 5 subjects 25 from the 5 best subjects. Please consult our counsellor for further guidance.",
+        "STPM": "3.00. Please consult our counsellor for further guidance.",
+        "IB Diploma": "27 points.",
+        "SACE/WACE": "ATAR Point: 77.3."
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 349806
+      },
+      "course_content": {
+        "core": "Students must complete 144 credit points consisting of 24 credit points of core subjects,\na 48-credit-point major,\na potential 48-credit-point second major, and\n24 credit points of electives. 24 credit points of core subjects, a 48-credit-point major, a potential 48-credit-point second major, and 24 credit points of electives. Typical course programs are shown below for students commencing in either Autumn or Spring session who are completing 8 credit point elective subjects. Students also have the option to complete 6 credit point elective subjects under CBK92062 Elective Choice instead. All students choose a second major stream when enrolling in their first session. This 18 credit point stream consists of three major subjects from another major (excluding Media Arts and Production). Students who choose not to continue with their second major choice can continue in their course by choosing 30 credit points of electives (i.e., five 6 credit point subjects) - this should be requested via eRequest. Autumn commencing Year 1 Autumn session 54000 Citizenship and Communication\n52680 Digital Media Industries\n52681 Understanding Digital Audiences 54000 Citizenship and Communication 52680 Digital Media Industries 52681 Understanding Digital Audiences Select 6 credit points from the following: CBK92088 Stream choice Spring session 54001 Digital Literacies\n52682 Digital Media Metrics 54001 Digital Literacies 52682 Digital Media Metrics Select 12 credit points from the following: CBK92088 Stream choice Year 2 Autumn session 54002 Communicating Difference\n52683 User Experience Research\n52684 Digital Activism 54002 Communicating Difference 52683 User Experience Research 52684 Digital Activism Select 6 credit points from the following: CBK92082 Second Major Choice\nCBK92066 Electives CBK92082 Second Major Choice CBK92066 Electives Spring session 52685 Working with Data and Code Select 8 credit points from the following: CBK92062 Elective Choice Select 12 credit points from the following: CBK92082 Second Major Choice\nCBK92066 Electives CBK92082 Second Major Choice CBK92066 Electives Year 3 Autumn session 52686 Digital Publishing for Apps Select 6 credit points from the following: CBK92082 Second Major Choice\nCBK92066 Electives CBK92082 Second Major Choice CBK92066 Electives Select 8 credit points from the following: CBK92062 Elective Choice Spring session 52687 Making Digital Impact Select 6 credit points from the following: CBK92082 Second Major Choice\nCBK92066 Electives CBK92082 Second Major Choice CBK92066 Electives Select 8 credit points from the following: CBK92062 Elective Choice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "9, CCC."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<=",
+            "value": 5.0
+          },
+          {
+            "type": "raw",
+            "text": "Overall average 5.0 of the best 5 subjects 25 from the 5 best subjects. Please consult our counsellor for further guidance."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "3.00. Please consult our counsellor for further guidance."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 27.0
+          },
+          {
+            "type": "raw",
+            "text": "27 points."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 77.3
+          },
+          {
+            "type": "raw",
+            "text": "ATAR Point: 77.3."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Media Arts and Production)",
+      "field_of_study": "Communication",
+      "location": "UTS City Campus Sydney",
+      "intakes": [
+        "Jan",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "13, ABB.",
+        "UEC": "Overall average 2.6 of the best 5 subjects 13 from the 5 best subjects. Please consult our counsellor for further guidance.",
+        "STPM": "3.67. Please consult our counsellor for further guidance.",
+        "IB Diploma": "34 points.",
+        "SACE/WACE": "ATAR Point: 90.15."
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 402146
+      },
+      "course_content": {
+        "core": "Students must complete 144 credit points consisting of 24 credit points of core subjects,\na 48-credit-point major,\na potential 48-credit-point second major and\n24 credit points of electives. 24 credit points of core subjects, a 48-credit-point major, a potential 48-credit-point second major and 24 credit points of electives. Autumn commencing Year 1 Autumn session 54000 Citizenship and Communication\n52650 Screen Story\n52651 Exploring Media Arts 54000 Citizenship and Communication 52650 Screen Story 52651 Exploring Media Arts Select 6 credit points from the following: CBK92090 Stream choice Spring session 54001 Digital Literacies\n52652 Drama Production 54001 Digital Literacies 52652 Drama Production Select 12 credit points from the following: CBK92090 Stream choice Year 2 Autumn session 54002 Communicating Difference\n52653 Creating Documentary\n52654 Experimental Media 54002 Communicating Difference 52653 Creating Documentary 52654 Experimental Media Select 6 credit points from the following: CBK92084 Second Major Choice\nCBK92066 Electives CBK92084 Second Major Choice CBK92066 Electives Spring session 52655 Media Arts Specialist Modules Select 8 credit points from the following: CBK92062 Elective Choice Select 12 credit points from the following: CBK92084 Second Major Choice\nCBK92066 Electives CBK92084 Second Major Choice CBK92066 Electives Year 3 Autumn session 52656 Creative Project Development Select 6 credit points from the following: CBK92084 Second Major Choice\nCBK92066 Electives CBK92084 Second Major Choice CBK92066 Electives Select 8 credit points from the following: CBK92062 Elective Choice Spring session 52657 Media Arts Project Select 6 credit points from the following: CBK92084 Second Major Choice\nCBK92066 Electives CBK92084 Second Major Choice CBK92066 Electives Select 8 credit points from the following: CBK92062 Elective Choice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABB"
+          },
+          {
+            "type": "raw",
+            "text": "13, ABB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.6
+          },
+          {
+            "type": "raw",
+            "text": "Overall average 2.6 of the best 5 subjects 13 from the 5 best subjects. Please consult our counsellor for further guidance."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.67
+          },
+          {
+            "type": "raw",
+            "text": "3.67. Please consult our counsellor for further guidance."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 34.0
+          },
+          {
+            "type": "raw",
+            "text": "34 points."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 90.15
+          },
+          {
+            "type": "raw",
+            "text": "ATAR Point: 90.15."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Social and Political Sciences)",
+      "field_of_study": "Communication",
+      "location": "UTS City Campus Sydney",
+      "intakes": [
+        "Jan",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "8, CCD.",
+        "UEC": "Overall average 5.5 of the best 5 subjects 27 from the 5 best subjects. Please consult our counsellor for further guidance.",
+        "STPM": "3.00. Please consult our counsellor for further guidance.",
+        "IB Diploma": "25 points.",
+        "SACE/WACE": "ATAR Point: 72.25."
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 349806
+      },
+      "course_content": {
+        "core": "Students must complete 144 credit points consisting of 24 credit points of core subjects,\na 48-credit-point major,\na potential 48-credit-point second major, and\n24 credit points of electives. 24 credit points of core subjects, a 48-credit-point major, a potential 48-credit-point second major, and 24 credit points of electives. Typical course programs are shown below for students commencing in either Autumn or Spring session who are completing 8 credit point elective subjects. Students also have the option to complete 6 credit point elective subjects under CBK92062 Elective Choice instead. All students choose a second major stream when enrolling in their first session. This 18 credit point stream consists of three major subjects from another major (excluding Media Arts and Production). Students who choose not to continue with their second major choice can continue in their course by choosing 30 credit points of electives (i.e., five 6 credit point subjects) - this should be requested via eRequest. Autumn commencing Year 1 Autumn session 54000 Citizenship and Communication\n52670 Self and Society\n52671 Histories of the Present 54000 Citizenship and Communication 52670 Self and Society 52671 Histories of the Present Select 6 credit points from the following: CBK92065 Stream choice Spring session 54001 Digital Literacies\n52672 Comparing Indigenous Histories and Politics 54001 Digital Literacies 52672 Comparing Indigenous Histories and Politics Select 12 credit points from the following: CBK92065 Stream choice Year 2 Autumn session 54002 Communicating Difference\n52673 Political Ideas and Change\n52674 Global Economies 54002 Communicating Difference 52673 Political Ideas and Change 52674 Global Economies Select 6 credit points from the following: CBK92063 Second Major Choice\nCBK92066 Electives CBK92063 Second Major Choice CBK92066 Electives Spring session 52675 Investigating Urban Change Select 8 credit points from the following: CBK92062 Elective Choice Select 12 credit points from the following: CBK92063 Second Major Choice\nCBK92066 Electives CBK92063 Second Major Choice CBK92066 Electives Year 3 Autumn session 52676 Policy and Advocacy Select 6 credit points from the following: CBK92063 Second Major Choice\nCBK92066 Electives CBK92063 Second Major Choice CBK92066 Electives Select 8 credit points from the following: CBK92062 Elective Choice Spring session 52677 Professional Placement Select 6 credit points from the following: CBK92063 Second Major Choice\nCBK92066 Electives CBK92063 Second Major Choice CBK92066 Electives Select 8 credit points from the following: CBK92062 Elective Choice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "8, CCD."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Overall average 5.5 of the best 5 subjects 27 from the 5 best subjects. Please consult our counsellor for further guidance."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "3.00. Please consult our counsellor for further guidance."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "25 points."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR Point: 72.25."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Media Business)",
+      "field_of_study": "Communication",
+      "location": "UTS City Campus Sydney",
+      "intakes": [
+        "Jan",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "10, BCC.",
+        "UEC": "Overall average 3.8 of the best 5 subjects 19 from the 5 best subjects. Please consult our counsellor for further guidance.",
+        "STPM": "3.33. Please consult our counsellor for further guidance.",
+        "IB Diploma": "29 points.",
+        "SACE/WACE": "ATAR Point: 83.7."
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 349806
+      },
+      "course_content": {
+        "core": "Students must complete 144 credit points consisting of 24 credit points of core subjects,\na 48-credit-point major,\na potential 48-credit-point second major and\n24 credit points of electives. 24 credit points of core subjects, a 48-credit-point major, a potential 48-credit-point second major and 24 credit points of electives. Typical course programs are shown below for students commencing in either Autumn or Spring session who are completing 8 credit point elective subjects. Students also have the option to complete 6 credit point elective subjects under CBK92062 Elective Choice instead. All students choose a second major stream when enrolling in their first session. This 18 credit point stream consists of three major subjects from another major (excluding Media Arts and Production). Students who choose not to continue with their second major choice can continue in their course by choosing 30 credit points of electives (i.e., five 6 credit point subjects) - this should be requested via eRequest. Autumn commencing, full time Year 1 Autumn session 54000 Citizenship and Communication\n52640 Media Law and Ethics\n21212 People and Organisations 54000 Citizenship and Communication 52640 Media Law and Ethics 21212 People and Organisations Select 6 credit points from the following: CBK92091 Stream choice Spring session 54001 Digital Literacies\n52703 Media Influence 54001 Digital Literacies 52703 Media Influence Select 6 credit points from the following: CBK92091 Stream choice Year 2 Autumn session 54002 Communicating Difference\n52680 Digital Media Industries\n52664 Branding and Reputation 54002 Communicating Difference 52680 Digital Media Industries 52664 Branding and Reputation Select 6 credit points from the following: CBK92085 Second Major Choice\nCBK92066 Electives CBK92085 Second Major Choice CBK92066 Electives Spring session 52705 Creative Entrepreneurship Select 8 credit points from the following: CBK92062 Elective Choice Select 12 credit points from the following: CBK92085 Second Major Choice\nCBK92066 Electives CBK92085 Second Major Choice CBK92066 Electives Year 3 Autumn session 25300 Fundamentals of Business Finance Select 6 credit points from the following: CBK92085 Second Major Choice\nCBK92066 Electives CBK92085 Second Major Choice CBK92066 Electives Select 8 credit points from the following: CBK92062 Elective Choice Spring session 52708 The Media Business Select 6 credit points from the following: CBK92085 Second Major Choice\nCBK92066 Electives CBK92085 Second Major Choice CBK92066 Electives Select 8 credit points from the following: CBK92062 Elective Choice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "10, BCC."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Overall average 3.8 of the best 5 subjects 19 from the 5 best subjects. Please consult our counsellor for further guidance."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.33
+          },
+          {
+            "type": "raw",
+            "text": "3.33. Please consult our counsellor for further guidance."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "29 points."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR Point: 83.7."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Artificial Intelligence",
+      "field_of_study": "Computer Science",
+      "location": "UTS City Campus Sydney",
+      "intakes": [
+        "Jan",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "11, BBC.",
+        "UEC": "Overall average 3.4 of the best 5 subjects 17 from the 5 best subjects. Please consult our counsellor for further guidance.",
+        "STPM": "3.33. Please consult our counsellor for further guidance.",
+        "IB Diploma": "31 points.",
+        "SACE/WACE": "ATAR Point: 85.4, HSC Mathematics Advanced and any two units of English..  Mathematics Extension 1 and English Advanced are recommended."
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 436603
+      },
+      "course_content": {
+        "core": "Students are required to complete 144 credit points, comprising: Information Technology Core (48 credit points)\nAI core (54 credit points)\nAI choice of (18 credit points)\nElectives or a sub-major choice of (24 credit points) Information Technology Core (48 credit points) AI core (54 credit points) AI choice of (18 credit points) Electives or a sub-major choice of (24 credit points) The program below shows a suggested sequence of subjects for a full-time student. It is intended as a guide only and does not take into account such factors as recognition of prior learning, changes in attendance mode and subject availability, or satisfactory academic progress. Students should consult the Timetable Planner to confirm the availability of subjects in the current academic year. Autumn commencing, full time Year 1 Autumn Session: 33130 Mathematics 1\n31268 Web Systems\n37181 Discrete Mathematics\nSelect 6 credit points from the following electives:\n48023 Programming Fundamentals\n41039 Programming 1 33130 Mathematics 1 31268 Web Systems 37181 Discrete Mathematics Select 6 credit points from the following electives:\n48023 Programming Fundamentals\n41039 Programming 1 48023 Programming Fundamentals\n41039 Programming 1 48023 Programming Fundamentals 41039 Programming 1 Spring Session: 31265 Communication for IT Professionals\n31271 Database Fundamentals\n31250 Introduction to Data Analytics\n31266 Introduction to Information Systems 31265 Communication for IT Professionals 31271 Database Fundamentals 31250 Introduction to Data Analytics 31266 Introduction to Information Systems Year 2 Autumn Session: 33230 Mathematics 2\n41092 Network Fundamentals\n48024 Programming 2\n31269 Business Requirements Modelling 33230 Mathematics 2 41092 Network Fundamentals 48024 Programming 2 31269 Business Requirements Modelling Spring Session: 31005 Machine Learning\n41040 Introduction to Artificial Intelligence\n57304 The Ethics of Data and AI\nSelect 6 credit points from the following electives:\nCBK92069 Transdisciplinary Electives 31005 Machine Learning 41040 Introduction to Artificial Intelligence 57304 The Ethics of Data and AI Select 6 credit points from the following electives:\nCBK92069 Transdisciplinary Electives CBK92069 Transdisciplinary Electives Year 3 Autumn Session: 41004 AI/Analytics Capstone Project\n31272 Project Management and the Professional\nSelect 6 credit points from the following electives:\n41043 Natural Language Processing\n42028 Deep Learning and Convolutional Neural Network\n43007 Advanced Artificial Intelligence\n43023 Emerging Topics in Artificial Intelligence\n43024 Introduction to Computational Intelligence\nSelect 6 credit points from the following electives\nCBK92186 Electives 41004 AI/Analytics Capstone Project 31272 Project Management and the Professional Select 6 credit points from the following electives:\n41043 Natural Language Processing\n42028 Deep Learning and Convolutional Neural Network\n43007 Advanced Artificial Intelligence\n43023 Emerging Topics in Artificial Intelligence\n43024 Introduction to Computational Intelligence 41043 Natural Language Processing\n42028 Deep Learning and Convolutional Neural Network\n43007 Advanced Artificial Intelligence\n43023 Emerging Topics in Artificial Intelligence\n43024 Introduction to Computational Intelligence 41043 Natural Language Processing 42028 Deep Learning and Convolutional Neural Network 43007 Advanced Artificial Intelligence 43023 Emerging Topics in Artificial Intelligence 43024 Introduction to Computational Intelligence Select 6 credit points from the following electives\nCBK92186 Electives CBK92186 Electives Spring Session: Select 12 credit points from the following electives:\n31243 AI/Analytics Capstone Project B\n31256 Image Processing and Pattern Recognition\n32146 Data Visualisation and Visual Analytics\n41080 Theory of Computing Science\n43008 Reinforcement Learning\n48033 Internet of Things\nSelect 12 credit points from the following electives\nCBK92186 Electives Select 12 credit points from the following electives:\n31243 AI/Analytics Capstone Project B\n31256 Image Processing and Pattern Recognition\n32146 Data Visualisation and Visual Analytics\n41080 Theory of Computing Science\n43008 Reinforcement Learning\n48033 Internet of Things 31243 AI/Analytics Capstone Project B\n31256 Image Processing and Pattern Recognition\n32146 Data Visualisation and Visual Analytics\n41080 Theory of Computing Science\n43008 Reinforcement Learning\n48033 Internet of Things 31243 AI/Analytics Capstone Project B 31256 Image Processing and Pattern Recognition 32146 Data Visualisation and Visual Analytics 41080 Theory of Computing Science 43008 Reinforcement Learning 48033 Internet of Things Select 12 credit points from the following electives\nCBK92186 Electives CBK92186 Electives",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "11, BBC."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.4
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Overall average 3.4 of the best 5 subjects 17 from the 5 best subjects. Please consult our counsellor for further guidance."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.33
+          },
+          {
+            "type": "raw",
+            "text": "3.33. Please consult our counsellor for further guidance."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 31
+          },
+          {
+            "type": "raw",
+            "text": "31 points."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 85.4
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "HSC Mathematics Advanced",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR Point: 85.4, HSC Mathematics Advanced and any two units of English..  Mathematics Extension 1 and English Advanced are recommended."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Journalism)",
+      "field_of_study": "Journalism",
+      "location": "UTS City Campus Sydney",
+      "intakes": [
+        "Jan",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "10, BCC.",
+        "UEC": "Overall average 4.2 of the best 5 subjects 21 from the 5 best subjects. Please consult our counsellor for further guidance.",
+        "STPM": "3.33. Please consult our counsellor for further guidance.",
+        "IB Diploma": "29 points.",
+        "SACE/WACE": "ATAR Point: 81.4."
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 402146
+      },
+      "course_content": {
+        "core": "Students must complete 144 credit points consisting of 24 credit points of core subjects,\na 48-credit-point major,\na potential 48-credit-point second major, and\n24 credit points of electives. 24 credit points of core subjects, a 48-credit-point major, a potential 48-credit-point second major, and 24 credit points of electives. Typical course programs are shown below for students commencing in either Autumn or Spring session who are completing 8 credit point elective subjects. Students also have the option to complete 6 credit point elective subjects under CBK92062 Elective Choice instead. All students choose a second major stream when enrolling in their first session. This 18 credit point stream consists of three major subjects from another major (excluding Media Arts and Production). Students who choose not to continue with their second major choice can continue in their course by choosing 30 credit points of electives (i.e., five 6 credit point subjects) - this should be requested via eRequest. Autumn commencing Year 1 Autumn session 54000 Citizenship and Communication\n52640 Media Law and Ethics\n52641 News Now 54000 Citizenship and Communication 52640 Media Law and Ethics 52641 News Now Select 6 credit points from the following: CBK92087 Stream choice Spring session 54001 Digital Literacies\n52642 Multimedia Features 54001 Digital Literacies 52642 Multimedia Features Select 12 credit points from the following: CBK92087 Stream choice Year 2 Autumn session 54002 Communicating Difference\n52643 Sound Journalism\n52645 Digital Journalism Research 54002 Communicating Difference 52643 Sound Journalism 52645 Digital Journalism Research Select 6 credit points from the following: CBK92081 Second Major Choice\nCBK92066 Electives CBK92081 Second Major Choice CBK92066 Electives Spring session 52644 Visual Journalism Select 8 credit points from the following: CBK92062 Elective Choice Select 12 credit points from the following: CBK92081 Second Major Choice\nCBK92066 Electives CBK92081 Second Major Choice CBK92066 Electives Year 3 Autumn session 52646 Investigations, Data and Collaboration Select 6 credit points from the following: CBK92081 Second Major Choice\nCBK92066 Electives CBK92081 Second Major Choice CBK92066 Electives Select 8 credit points from the following: CBK92062 Elective Choice Spring session 52647 Professional Project Select 6 credit points from the following: CBK92081 Second Major Choice\nCBK92066 Electives CBK92081 Second Major Choice CBK92066 Electives Select 8 credit points from the following: CBK92062 Elective Choice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "10, BCC."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Overall average 4.2 of the best 5 subjects 21 from the 5 best subjects. Please consult our counsellor for further guidance."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "3.33. Please consult our counsellor for further guidance."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "29 points."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR Point: 81.4."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Advanced Science (Pre-Medicine)",
+      "field_of_study": "Medicine",
+      "location": "UTS City Campus Sydney",
+      "intakes": [
+        "Jan",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "15, AAA.",
+        "UEC": "Overall average 2.6 of the best 5 subjects 13 from the 5 best subjects. Please consult our counsellor for further guidance.",
+        "STPM": "4.00. Please consult our counsellor for further guidance.",
+        "IB Diploma": "36 points.",
+        "SACE/WACE": "ATAR Point: 95, Mathematics; any two units of English; any two units of Science.."
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 407816
+      },
+      "course_content": {
+        "core": "Students must complete 144 credit points, made up of a 102-credit-point major selection,\n24 credit points of electives and\n18 credit points of core subjects. 102-credit-point major selection, 24 credit points of electives and 18 credit points of core subjects. Majors are available in: Pre-medicine and Pharmaceutical Sciences, Quantum Technology Pre-Medicine major, Autumn commencing Year 1 Autumn session: 65111 Chemistry 1\n91161 Cell Biology and Genetics\n33116 Design, Data, and Decisions\n60006 Scientific Perspectives for Global Issues 65111 Chemistry 1 91161 Cell Biology and Genetics 33116 Design, Data, and Decisions 60006 Scientific Perspectives for Global Issues Spring session: 65212 Chemistry 2\n91400 Human Anatomy and Physiology\n91132 Molecular Biology\nCBK90579 Elective 1 65212 Chemistry 2 91400 Human Anatomy and Physiology 91132 Molecular Biology CBK90579 Elective 1 Year 2 Autumn session: 91320 Metabolic Biochemistry\n91314 General Microbiology\n91707 Fundamentals of Pharmacology\nCBK92069 Transdisciplinary Electives 91320 Metabolic Biochemistry 91314 General Microbiology 91707 Fundamentals of Pharmacology CBK92069 Transdisciplinary Electives Spring session: 91401 Immunology Year 3 Autumn session: 95735 Indigenous Health and Wellbeing\nCBK90580 Elective 2\nCBK90581 Elective 3 95735 Indigenous Health and Wellbeing CBK90580 Elective 2 CBK90581 Elective 3 Spring session: 91709 Advanced Pharmacology\n91180 Immunology and Human Health\nSelect 6 credit points from the following:\n91195 Epidemiology and Pathogenesis of Infections\n91705 Medical Devices and Diagnostics 91709 Advanced Pharmacology 91180 Immunology and Human Health Select 6 credit points from the following:\n91195 Epidemiology and Pathogenesis of Infections\n91705 Medical Devices and Diagnostics 91195 Epidemiology and Pathogenesis of Infections\n91705 Medical Devices and Diagnostics 91195 Epidemiology and Pathogenesis of Infections 91705 Medical Devices and Diagnostics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 15
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "AAA"
+          },
+          {
+            "type": "raw",
+            "text": "15, AAA."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.6
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 13
+          },
+          {
+            "type": "raw",
+            "text": "Overall average 2.6 of the best 5 subjects 13 from the 5 best subjects. Please consult our counsellor for further guidance."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 4.0
+          },
+          {
+            "type": "raw",
+            "text": "4.00. Please consult our counsellor for further guidance."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 36
+          },
+          {
+            "type": "raw",
+            "text": "36 points."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 95
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR Point: 95, Mathematics; any two units of English; any two units of Science.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Advanced Science (Pharmaceutical Sciences)",
+      "field_of_study": "Pharmaceutical Science",
+      "location": "UTS City Campus Sydney",
+      "intakes": [
+        "Jan",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "13, ABB.",
+        "UEC": "Overall average 2.6 of the best 5 subjects 13 from the 5 best subjects. Please consult our counsellor for further guidance.",
+        "STPM": "3.67. Please consult our counsellor for further guidance.",
+        "IB Diploma": "34 points.",
+        "SACE/WACE": "ATAR Point: 90.9, Mathematics; any two units of English; any two units of Science.."
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 407816
+      },
+      "course_content": {
+        "core": "Students must complete 144 credit points, made up of a 102-credit-point major selection,\n24 credit points of electives and\n18 credit points of core subjects. 102-credit-point major selection, 24 credit points of electives and 18 credit points of core subjects. Majors are available in: Pre-medicine and Pharmaceutical Sciences, Quantum Technology Pharmaceutical Sciences major, Autumn commencing Year 1 Autumn session: 65111 Chemistry 1\n60006 Scientific Perspectives for Global Issues\n91161 Cell Biology and Genetics\n33116 Design, Data, and Decisions 65111 Chemistry 1 60006 Scientific Perspectives for Global Issues 91161 Cell Biology and Genetics 33116 Design, Data, and Decisions Spring session: 65212 Chemistry 2\n91400 Human Anatomy and Physiology\n91132 Molecular Biology\nCBK90579 Elective 1 65212 Chemistry 2 91400 Human Anatomy and Physiology 91132 Molecular Biology CBK90579 Elective 1 Year 2 Autumn session: 91314 General Microbiology\n91320 Metabolic Biochemistry\n91707 Fundamentals of Pharmacology\n65202 Organic Chemistry 1 91314 General Microbiology 91320 Metabolic Biochemistry 91707 Fundamentals of Pharmacology 65202 Organic Chemistry 1 Spring session: CBK92069 Transdisciplinary Electives\n91401 Immunology CBK92069 Transdisciplinary Electives 91401 Immunology Year 3 Autumn session: 95735 Indigenous Health and Wellbeing\n65001 Medicinal Chemistry\nCBK90580 Elective 2 95735 Indigenous Health and Wellbeing 65001 Medicinal Chemistry CBK90580 Elective 2 Spring session: 91709 Advanced Pharmacology\n91180 Immunology and Human Health\nSelect 6 credit points from the following:\n91705 Medical Devices and Diagnostics\nCBK90581 Elective 3 91709 Advanced Pharmacology 91180 Immunology and Human Health Select 6 credit points from the following:\n91705 Medical Devices and Diagnostics 91705 Medical Devices and Diagnostics CBK90581 Elective 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "13, ABB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Overall average 2.6 of the best 5 subjects 13 from the 5 best subjects. Please consult our counsellor for further guidance."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.67
+          },
+          {
+            "type": "raw",
+            "text": "3.67. Please consult our counsellor for further guidance."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "34 points."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR Point: 90.9, Mathematics; any two units of English; any two units of Science.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Advanced Science (Quantum Technology)",
+      "field_of_study": "Physics",
+      "location": "UTS City Campus Sydney",
+      "intakes": [
+        "Jan",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "15, AAA.",
+        "UEC": "Overall average 1.0 of the best 5 subjects 5 from the 5 best subjects. Please consult our counsellor for further guidance.",
+        "STPM": "4.00. Please consult our counsellor for further guidance.",
+        "IB Diploma": "36 points.",
+        "SACE/WACE": "ATAR Point: 99.95, Mathematics; any two units of English; any two units of Science.."
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "paper based: 550-583 overall with TWE of 4.5, internet based: 79-93 overall with a writing score of 21"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 407816
+      },
+      "course_content": {
+        "core": "Students must complete 144 credit points, made up of a 102-credit-point major selection,\n24 credit points of electives and\n18 credit points of core subjects. 102-credit-point major selection, 24 credit points of electives and 18 credit points of core subjects. Majors are available in: Pre-medicine and Pharmaceutical Sciences, Quantum Technology Quantum Technology major, Quantum Computing and Communications sub, Autumn commencing Year 1 Autumn session: 33130 Mathematics 1\n68101 Physics 1\n60006 Scientific Perspectives for Global Issues\nSelect 6 credit points from the following:\n60101 Chemistry and Materials Science\n65111 Chemistry 1 33130 Mathematics 1 68101 Physics 1 60006 Scientific Perspectives for Global Issues Select 6 credit points from the following:\n60101 Chemistry and Materials Science\n65111 Chemistry 1 60101 Chemistry and Materials Science\n65111 Chemistry 1 60101 Chemistry and Materials Science 65111 Chemistry 1 Spring session: 33230 Mathematics 2\n68201 Physics 2\n65212 Chemistry 2\n41039 Programming 1 33230 Mathematics 2 68201 Physics 2 65212 Chemistry 2 41039 Programming 1 Year 2 Autumn session: 68414 Advanced Mechanics\n68316 Electronics for Quantum Technologies\nCBK92069 Transdisciplinary Electives\n43025 Introduction to Quantum Computing 68414 Advanced Mechanics 68316 Electronics for Quantum Technologies CBK92069 Transdisciplinary Electives 43025 Introduction to Quantum Computing Spring session: 68206 Optics\n68413 Quantum Physics\n37336 Vector Calculus and Partial Differential Equations\nSelect 6 credit points from the following:\nSMJ10191 Quantum Computing and Communications 68206 Optics 68413 Quantum Physics 37336 Vector Calculus and Partial Differential Equations Select 6 credit points from the following:\nSMJ10191 Quantum Computing and Communications SMJ10191 Quantum Computing and Communications Year 3 Autumn session: 37233 Linear Algebra\nCBK90579 Elective 1\nCBK90580 Elective 2\nCBK90581 Elective 3 37233 Linear Algebra CBK90579 Elective 1 CBK90580 Elective 2 CBK90581 Elective 3 Spring session: 68606 Solid-state Science and Quantum Devices\n68746 Advanced Quantum Science\n68513 Nanoscale and Quantum Photonics\n41076 Methods in Quantum Computing 68606 Solid-state Science and Quantum Devices 68746 Advanced Quantum Science 68513 Nanoscale and Quantum Photonics 41076 Methods in Quantum Computing Quantum Technology major, Engineering sub-major, Autumn commencing Year 1 Autumn session: 33130 Mathematics 1\n68101 Physics 1\n60006 Scientific Perspectives for Global Issues\nSelect 6 credit points from the following:\n60101 Chemistry and Materials Science\n65111 Chemistry 1 33130 Mathematics 1 68101 Physics 1 60006 Scientific Perspectives for Global Issues Select 6 credit points from the following:\n60101 Chemistry and Materials Science\n65111 Chemistry 1 60101 Chemistry and Materials Science\n65111 Chemistry 1 60101 Chemistry and Materials Science 65111 Chemistry 1 Spring session: 33230 Mathematics 2\n68201 Physics 2\n65212 Chemistry 2\n41039 Programming 1 33230 Mathematics 2 68201 Physics 2 65212 Chemistry 2 41039 Programming 1 Year 2 Autumn session: 68414 Advanced Mechanics\n68316 Electronics for Quantum Technologies\nSelect 6 credit points from the following:\nSMJ10186 Engineering sub-major (UG Science)\nCBK92069 Transdisciplinary Electives 68414 Advanced Mechanics 68316 Electronics for Quantum Technologies Select 6 credit points from the following:\nSMJ10186 Engineering sub-major (UG Science) SMJ10186 Engineering sub-major (UG Science) CBK92069 Transdisciplinary Electives Spring session: 68206 Optics\n68413 Quantum Physics\n37336 Vector Calculus and Partial Differential Equations\nSelect 6 credit points from the following:\nSMJ10186 Engineering sub-major (UG Science) 68206 Optics 68413 Quantum Physics 37336 Vector Calculus and Partial Differential Equations Select 6 credit points from the following:\nSMJ10186 Engineering sub-major (UG Science) SMJ10186 Engineering sub-major (UG Science) Year 3 Autumn session: Select 6 credit points from the following:\nSMJ10186 Engineering sub-major (UG Science)\nCBK90579 Elective 1\nCBK90580 Elective 2\nCBK90581 Elective 3 Select 6 credit points from the following:\nSMJ10186 Engineering sub-major (UG Science) SMJ10186 Engineering sub-major (UG Science) CBK90579 Elective 1 CBK90580 Elective 2 CBK90581 Elective 3 Spring session: 68606 Solid-state Science and Quantum Devices\n68746 Advanced Quantum Science\n68513 Nanoscale and Quantum Photonics\nSelect 6 credit points from the following:\nSMJ10186 Engineering sub-major (UG Science) 68606 Solid-state Science and Quantum Devices 68746 Advanced Quantum Science 68513 Nanoscale and Quantum Photonics Select 6 credit points from the following:\nSMJ10186 Engineering sub-major (UG Science) SMJ10186 Engineering sub-major (UG Science)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "raw",
+            "text": "15, AAA."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 1.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Overall average 1.0 of the best 5 subjects 5 from the 5 best subjects. Please consult our counsellor for further guidance."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 4.0
+          },
+          {
+            "type": "raw",
+            "text": "4.00. Please consult our counsellor for further guidance."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 36.0
+          },
+          {
+            "type": "raw",
+            "text": "36 points."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 99.95
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR Point: 99.95, Mathematics; any two units of English; any two units of Science.."
+          }
+        ]
+      }
+    }
+  ]
+}

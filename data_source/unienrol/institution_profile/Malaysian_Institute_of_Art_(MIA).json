@@ -1,0 +1,629 @@
+{
+  "institution_name": "Malaysian Institute of Art (MIA)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Certificate in Art & Design",
+      "field_of_study": "Creative Arts",
+      "location": "MIA, Melawati",
+      "intakes": [
+        "Jan",
+        "Jun"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "1 Credit (Pass in Bahasa Malaysia & Sejarah).",
+        "O-Level": "1 Grade C.",
+        "UEC": "1 Grade B."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 250,
+        "resource_fee": 900,
+        "tuition_fee": 9000
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Malaysian Studies 1\nBahasa Melayu Komunikasi 1\nEnglish Grammar\nFoundation of Art and Design 1\nBasic Drawing 1\n3 – Dimensional Design 1\nBasic Painting 1\nIntroduction of Art History Semester 2 Communication Skills\nBasic Writing Skills\nFoundation of Art and Design 2\nBasic Drawing 2\n3 – Dimensional Design 2\nBasic Painting 2\nArt Appreciation Semester 3 Introduction to Malaysian Culture\nCommunicative English\nFoundation of Art and Design 3\nBasic Drawing 3\n3 – Dimensional Design 3\nBasic Painting 3\nBasic Digital Art",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Fine Art",
+      "field_of_study": "Creative Arts",
+      "location": "MIA, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah.",
+        "O-Level": "O-Level with minimum 3 Grade C in any subjects.",
+        "UEC": "UEC with minimum 3 Grade B in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 250,
+        "resource_fee": 1800,
+        "tuition_fee": 36300
+      },
+      "course_content": {
+        "core": "1st Year Semester 1 Art & Design Fundamentals\n3D Studies\nPainting 1\nDrawing 1\nHistory of Art 1\nEnglish\nPenghayatan Etika & Peradaban\n\nSemester 2\nPainting 2\nDrawing 2\nFigure Drawing 1\nHistory of Art 2\nPrintmaking 1\nPresentation Techniques\nWriting Skills or Bahasa Kebangsaan A Semester 2 2nd Year Semester 3\nCommunication Ethics\nPainting 3\nDrawing 3\nFigure Drawing 2\nHistory of Art 3\nExperimental Studio\n\nSemester 4\nCommunity Project\nPainting 4\nDrawing 4\nFigure Drawing 3\nHistory of Art 4\nFundamental of Art Criticism\nDigital Imaging & Text 1 Semester 3 Semester 4 3rd Year Semester 5\nPainting 5\nIndependent Studies\nDrawing 5\nFigure Drawing 4\nDigital Imaging & Text 2 or Interactive & Moving Images 1\nIndustrial Training Semester 5 Semester 6\nStudio Thesis: Painting 6 & Drawing 6\nProfessional Studies Semester 6",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "O-Level with minimum 3 Grade C in any subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "UEC with minimum 3 Grade B in any subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma In Illustration",
+      "field_of_study": "Creative Arts",
+      "location": "MIA, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah.",
+        "O-Level": "O-Level with minimum 3 Grade C in any subjects.",
+        "UEC": "UEC with minimum 3 Grade B in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 250,
+        "resource_fee": 1800,
+        "tuition_fee": 39600
+      },
+      "course_content": {
+        "core": "1st Year Semester 1\nArt & Design Fundamentals\n3D Studies\nVisual Communication 1\nDrawing 1\nPainting 1\nHistory of Art 1\nEnglish\nPenghayatan Etika & Peradaban\n\nSemester 2\nPainting & Drawing\nIllustration 1\nVisual Communication 2\nTypography 1\nHistory of Graphic Design\nDigital Imaging & Text 1\nWriting Skills or Bahasa Kebangsaan A Semester 1 Semester 2 2nd Year Semester 3\nCommunication Ethics\nIllustration 2\nLife Drawing 1\nPromotional Design\nDigital Imaging & Text 2\nPhotography 1 Semester 3 Semester 4\nCommunity Project\nIllustration 3\nLife Drawing 2\nBasic Advertising & Marketing\nInteractive & Moving Images 1 Semester 4 3rd Year Semester 5\nIllustration 4\nInteractive & Moving Images 2\n3D Modeling\nIndustrial Training Semester 5 Semester 6\nIllustration 5\nProfessional Business Practice Semester 6",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "O-Level with minimum 3 Grade C in any subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "UEC with minimum 3 Grade B in any subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma In Textile & Fashion Design",
+      "field_of_study": "Fashion Design",
+      "location": "MIA, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah.",
+        "O-Level": "O-Level with minimum 3 Grade C in any subjects.",
+        "UEC": "UEC with minimum 3 Grade B in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 250,
+        "resource_fee": 1800,
+        "tuition_fee": 37290
+      },
+      "course_content": {
+        "core": "1st Year Semester 1\nArt & Design Fundamentals\n3D Studies\nPainting 1\nDrawing 1\nHistory of Art 1\nEnglish\nPenghayatan Etika & Peradaban\n\nSemester 2\nFashion Design 1\nTextile Design 1\nFashion Illustration 1\nGarment Construction 1\nPrinting Workshop 1\nHistory of Fashion\nDigital Imaging & Text 1\nWriting Skills or Bahasa Kebangsaan A Semester 1 Semester 2 2nd Year Semester 3\nCommunication Ethics\nFashion Design 2\nTextile Design 2\nFashion Illustration 2\nGarment Construction 2\nPrinting Workshop 2\nTextile Technology\n\nSemester 4\nCommunity Project\nTextile Design 3\nPrinting Workshop 3\nFashion Design 3\nGarment Construction 3\nProfessional Practice Semester 3 Semester 4 3rd Year Semester 5\nFashion Design 4\nTextile Design 4\nDraping 1\nBatik Art 1\nFashion Merchandising\nIndustrial Training Semester 5 Semester 6\nFashion Design 5\nTextile Design 5\nDraping 2\nBatik Art 2 Semester 6",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "O-Level with minimum 3 Grade C in any subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "UEC with minimum 3 Grade B in any subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "MIA, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah.",
+        "O-Level": "O-Level with minimum 3 Grade C in any subjects.",
+        "UEC": "UEC with minimum 3 Grade B in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 250,
+        "resource_fee": 1800,
+        "tuition_fee": 39600
+      },
+      "course_content": {
+        "core": "1st Year Semester 1\nArt & Design Fundamentals\n3D Studies\nVisual Communication 1\nDrawing 1\nHistory of Art 1\nEnglish\nPenghayatan Etika & Peradaban\n\nSemester 2\nVisual Communication 2\nDigital Imaging & Text 1\nPainting & Drawing\nTypography 1\nPhotography 1\nHistory of Graphic Design\nWriting Skills or Bahasa Kebangsaan A Semester 1 Semester 2 2nd Year Semester 3\nCommunication Ethics\nPromotional Design\nPackaging Design 1\nTypography 2\nPhotography 2\nDigital Imaging & Text 2\n\nSemester 4\nCommunity Project\nPublication Design (Book)\nPackaging Design 2\nTypography 3\nBasic Advertising & Marketing\nInteractive & Moving Images 1 Semester 3 Semester 4 3rd Year Semester 5\nBrand Identity\nPublication Design (Magazine)\nInteractive & Moving Images 2\n3D Modeling\nIndustrial Training Semester 5 Semester 6\nFinal Project\nProfessional Business Practice Semester 6",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "O-Level with minimum 3 Grade C in any subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "UEC with minimum 3 Grade B in any subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Industrial Design",
+      "field_of_study": "Industrial Design",
+      "location": "MIA, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah.",
+        "O-Level": "O-Level with minimum 3 Grade C in any subjects.",
+        "UEC": "UEC with minimum 3 Grade B in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 250,
+        "resource_fee": 1800,
+        "tuition_fee": 37290
+      },
+      "course_content": {
+        "core": "1st Year Semester 1\nArt & Design Fundamentals\n3D Studies\nPainting 1\nDrawing 1\nHistory of Art 1\nEnglish\nPenghayatan Etika & Peradaban\n\nSemester 2\nIndustrial Design 1\nEngineering Drawing 1\nHistory of Industrial Design\nWorkshop Practice\nPresentation Techniques\nWriting Skills or Bahasa Kebangsaan A Semester 1 Semester 2 2nd Year Semester 3\nCommunication Ethics\nIndustrial Design 2\nComputer Aided Design\nMaterials & Processes\nErgonomics\n\nSemester 4\nCommunity Project\nIndustrial Design 3\nCAD Modeling\nDesign Methodology\nMarketing & Management\nDigital Imaging Semester 3 Semester 4 3rd Year Semester 5\nIndustrial Design 4\nCAD Visualization\nFurniture Study\nPackaging Design\nIndustrial Training Semester 5 Semester 6\nIndustrial Design 5\nProfessional Practice\nFinal Project Analysis Semester 6",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "O-Level with minimum 3 Grade C in any subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "UEC with minimum 3 Grade B in any subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma In Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "MIA, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah.",
+        "O-Level": "O-Level with minimum 3 Grade C in any subjects.",
+        "UEC": "UEC with minimum 3 Grade B in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 250,
+        "resource_fee": 1800,
+        "tuition_fee": 39600
+      },
+      "course_content": {
+        "core": "1st Year Semester 1\nArt & Design Fundamentals\n3D Studies\nInterior Design 1\nDrawing 1\nHistory of Art 1\nEnglish\nPenghayatan Etika & Peradaban\n\nSemester 2\nInterior Design 2\nHistory of Interior Design 1\nBuilding Construction & Materials\nEnvironmental Study\nElective 1\nWriting Skills or Bahasa Kebangsaan A Semester 1 Semester 2 2nd Year Semester 3\nCommunication Ethics\nInterior Design 3\nHistory of Interior Design 2\nConstruction Drawing 1\nComputer Aided Design 1\nElective 2\n\nSemester 4\nInterior Design 4\nLighting Design\nConstruction Drawing 2\nFurniture Study\nComputer Aided Design 2 Semester 3 Semester 4 3rd Year Semester 5\nCommunity Project\nInterior Design 5\nProject Management\nComputer Aided Design 3\n\nSemester 6\nInterior Design 6\nProfessional Practice\nIndustrial Training Semester 5 Semester 6",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "O-Level with minimum 3 Grade C in any subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "UEC with minimum 3 Grade B in any subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Music",
+      "field_of_study": "Music",
+      "location": "MIA, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah.",
+        "O-Level": "O-Level with minimum 3 Grade C in any subjects.",
+        "UEC": "UEC with minimum 3 Grade B in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 250,
+        "resource_fee": 1800,
+        "tuition_fee": 33660
+      },
+      "course_content": {
+        "core": "1st Year Semester 1\nPrincipal Study 1\nSecond Study 1\nAural Skills & Ear Training 1\nMusic Theory\nBaroque Music History\nIntroduction to Computer Music\nEnglish\nPenghayatan Etika & Peradaban\n\nSemester 2\nPrincipal Study 2\nSecond Study 2\nAural Skills & Ear Training 2\nClassical Music History\nPerformance Ensemble 1\nIntroduction to Harmony\nWorld Music\nKeyboard Harmony\nWriting Skills or Bahasa Kebangsaan A Semester 1 Semester 2 2nd Year Semester 3\nCommunication Ethics 1\nPrincipal Study 3\nSecond Study 3\nAural Skills & Ear Training 3\nRomantic Music History\nPerformance Ensemble 2\nHarmony & Counterpoint 1\nTraditional Music of Malaysia\n\nSemester 4\nCommunity Project\nPrincipal Study 4\nSecond Study 4\nAural Skills & Ear Training 4\n20th Century Music History\nPerformance Ensemble 3\nHarmony & Counterpoint 2\nMusic Business\nArranging 1 Semester 3 Semester 4 3rd Year Semester 5\nPrincipal Study 5\nSecond Study 5\nConducting Techniques\nInstruction  Methods \nArranging 2\nPerformance Ensemble 4\nMusical Form & Analysis 1\n\nSemester 6\nPrincipal Study 6 – Recital Performance \nSecond Study 6\nMusical Form & Analysis 2\nIntellectual Property Protection\nPerformance Ensemble 5\nOrchestration\nPractical Training Semester 5 Semester 6",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM with minimum 3 credits in any subjects and passes in Bahasa Malaysia and Sejarah."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "O-Level with minimum 3 Grade C in any subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "UEC with minimum 3 Grade B in any subjects."
+          }
+        ]
+      }
+    }
+  ]
+}
