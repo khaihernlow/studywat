@@ -1,0 +1,3273 @@
+{
+  "institution_name": "Raffles University",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 8070,
+  "malaysia_rank": 60,
+  "programs": [
+    {
+      "program_name": "Bachelor in Business (Accountancy) (Hons)",
+      "field_of_study": "Accounting",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum of Grade D.  O-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including Pass in Mathematics and English.",
+        "Diploma": "Minimum CGPA 2.00.",
+        "STPM": "2 Principal Passes with minimum of Grade C+/CGPA 2.33.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "5.5",
+        "TOEFL": "550",
+        "Cambridge English/Linguaskill": "160",
+        "Others": "IGCE O Level / 1119 : English D",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 12000,
+        "tuition_fee": 65000
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Business Communication\n– Marketing\n– Statistics\n– Fundamentals of Management\n– Creative Thinking / Bahasa Kebangsaan A    \n– Ethics Appreciation and Civilisation /Malay Language Communication 2\n– Financial Accounting\n– Fundamentals of Financial Management\n– Business Mathematics\n– Information Technology Essentials\n– Quantitative Methods\n– Financial Accounting Practice\n– Organisational Behaviour\n– Microeconomics\n– Business Law\n\nYEAR 2\n– Computerised Accounting\n– Accounting Information Systems\n– Macroeconomics\n– Financial Accounting and Reporting 1\n– Management Accounting 1\n– Taxation 1\n– Business Research\n– Financial Accounting and Reporting 2\n– Management Accounting 2\n– Commercial Law    \n– Human Resource Management\n– Corporate Finance\n– Financial Accounting and Reporting 3\n– Ethics and Organisation\n– Audit and Assurance 1\n\nYEAR 3\n– Financial Accounting and Reporting 4\n– Strategic Management\n– Management Accounting 3\n– Taxation 2\n– Integrity and Anti-Corruption\n– Philosophy and Current Issue\n– Accounting Theory and Practice\n– Entrepreneurship and New Business Development\n– Audit and Assurance 2    \n– Professional Attachment YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum of Grade D.  O-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Pass in Mathematics and English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes with minimum of Grade C+/CGPA 2.33.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Business Administration (Hons)",
+      "field_of_study": "Business Administration",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  O-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects.  SPM-level/UEC or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00.",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.0",
+        "TOEFL": "500",
+        "IGCE O Level / 1119": "English D",
+        "Cambridge English/Linguaskill": "154",
+        "SPM": "English Credit",
+        "UEC": "English B",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 12000,
+        "tuition_fee": 65000
+      },
+      "course_content": {
+        "core": "Year 1 Sem 1 Business Communication Marketing Business Statistics Fundamentals of Management Sem 2 Financial Accounting Business Information Technology Fundamentals of Finance Business Mathmatics Creative Thinking / Bahasa Kebangsaan A Sem 3 Community Service Microeconomics Quantitative Methods Organisational Behaviour Business Law Year 2 Sem 1 Ethics Relations / Malaysian Studies 3 Macroeconomics Leadership and Innovations Consumer Behaviour Marketing Management Sem 2 Islamic and Asian Civilisation / Malay Language Communications Malaysia Innovation Operations Management Strategic Management Research Methods Sem 3 Managerial Accounting Specialisation Module 1 Specialisation Module 2 Human Resource Management Year 3 Sem 1 Final Year Project I Specialisation Module 3 Specialisation Module 4 Specialisation Module 5 Sem 2 Ethics and Organisation Final Year Project II Specialisation Module 6 Specialisation Module 7 Sem 3 Professional Attachment",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  O-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  SPM-level/UEC or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Honours) in Data Science",
+      "field_of_study": "Computer Science",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Full Pass in 2 subjects.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer",
+        "UEC": "Grade B in 5 subjects including Mathematics and ONE Science / ICT subject.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer",
+        "Diploma": "Diploma in Science and Technology: min. CGPA of 2.75. Candidate with CGPA 2.50 to 2.75 can be admitted subject to a thorough rigorous assessment.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer",
+        "STPM": "(Science Stream): Pass with grade C (CGPA 2.00) in Mathematics subject and ONE Science / ICT subject (Arts Stream): Pass with grade C in any 2 subjects.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer",
+        "Foundation": "CGPA 2.0.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "Others": "IGCE O Level / 1119 : English D"
+      },
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 12000,
+        "tuition_fee": 75000
+      },
+      "course_content": {
+        "core": "YEAR 1 Information Technology Essentials\nPrinciples of Computer Programming\nDiscrete Mathematics\nSystem Analysis and Design\nCritical Thinking\nComputer Organisation and Architecture\nDatabases\nOperating Systems\nAlgorithms\nWeb Programming \nComputer Networks\nMobile Application Programming\nHuman Computer Interaction\nNeural Network Basics\nEthics Appreciation and Civilisation / Malay Language Communication 1 Information Technology Essentials Principles of Computer Programming Discrete Mathematics System Analysis and Design Critical Thinking Computer Organisation and Architecture Databases Operating Systems Algorithms Web Programming Computer Networks Mobile Application Programming Human Computer Interaction Neural Network Basics Ethics Appreciation and Civilisation / Malay Language Communication 1 YEAR 2 Calculus and Algebra\nData Processing and Visualisation\nPhilosophy and Current Issue\nBayesian Statistics and Experimental Design\nElective 1\nComputer Security\nObject Oriented Programming\nCreative Thinking / Bahasa Kebangsaan A\nTime Series Analysis & Forecasting\nArtificial Intelligence Methods\nEthics and Professional Practice in Computing\nData Analytics\nData Mining and Warehousing\nNatural Language Processing Calculus and Algebra Data Processing and Visualisation Philosophy and Current Issue Bayesian Statistics and Experimental Design Elective 1 Computer Security Object Oriented Programming Creative Thinking / Bahasa Kebangsaan A Time Series Analysis & Forecasting Artificial Intelligence Methods Ethics and Professional Practice in Computing Data Analytics Data Mining and Warehousing Natural Language Processing YEAR 3 Project I\nEntrepreneurship and New Business Development\nKnowledge Representation\nStochastic Processes\nIntegrity and Anti-Corruption\nProject II\nParallel and Distributed Computing\nElective 2\nProfessional Attachment Project I Entrepreneurship and New Business Development Knowledge Representation Stochastic Processes Integrity and Anti-Corruption Project II Parallel and Distributed Computing Elective 2 Professional Attachment",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Full Pass in 2 subjects.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "ICT"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including Mathematics and ONE Science / ICT subject.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<=",
+            "value": 2.75
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Science and Technology: min. CGPA of 2.75. Candidate with CGPA 2.50 to 2.75 can be admitted subject to a thorough rigorous assessment.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "ICT"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "(Science Stream): Pass with grade C (CGPA 2.00) in Mathematics subject and ONE Science / ICT subject (Arts Stream): Pass with grade C in any 2 subjects.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Fashion Design (Hons)",
+      "field_of_study": "Fashion Design",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  Additional Requirements\nPass Portfolio test & Interview with min. Muet Band 3",
+        "UEC": "Grade B in 5 Subjects.  Additional Requirements\nPass Portfolio test & Interview with min. Muet Band 3",
+        "Diploma": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview with min. Muet Band 3",
+        "STPM": "2 Principal Passes.  Additional Requirements\nPass Portfolio test & Interview with min. Muet Band 3",
+        "Foundation": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview with min. Muet Band 3"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 12600,
+        "tuition_fee": 79900
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Textiles\n– Fashion Drawing and Colour Theory\n– History of Costume\n– CAD1 for Fashion Design\n– Digital Photography    \n– Fashion Draping 1\n– Women’s Wear Drafting 1\n– Sewing Applications 1 YEAR 1 – Garment and Composition\n– Fashion Draping 2\n– Women’s Wear Drafting 2\n– Sewing Application 2\nYEAR 2\n– Advanced Draping & Drafting Techniques\n– Advanced Sewing Techniques\n– Fashion Sketching\n– Project Management    – Project Workshop\n– Design Research & Development\n– Contemporary Fashion, Styles & Trends\n– Brand Strategy and Identity    \n– Mini Collection Workshop\n– Psychology of Design & Human Factors\n– Fashion Communication\n–Integrity and Anti-Corruption\n– Creative Thinking / Bahasa Kebangsaan A YEAR 2 YEAR 3\n– Internship    – Major Studio Project 1\n– Pattern Aided Design, Grading & Costing\n– Philosophy and Current Issue\n– Law for the Creative Industries    \n– Major Studio Project 2\n– Entrepreneurship and New Business Development\n– Ethics Appreciation and\nCivilisation/ Malay Language Communication 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  Additional Requirements\nPass Portfolio test & Interview with min. Muet Band 3"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  Additional Requirements\nPass Portfolio test & Interview with min. Muet Band 3"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview with min. Muet Band 3"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  Additional Requirements\nPass Portfolio test & Interview with min. Muet Band 3"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview with min. Muet Band 3"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Graphic Design (Hons)",
+      "field_of_study": "Graphic Design",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3",
+        "UEC": "Grade B in 5 Subjects.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3",
+        "Diploma": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3",
+        "STPM": "2 Principal Passes.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3",
+        "Foundation": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 12600,
+        "tuition_fee": 79900
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Principle of Design\n– Typography\n– Visual Studies and Exploration\n– 20th Century Design & Culture    – Digital and Gen-AI Image Processing\n– Digital Illustration and Visual Storytelling\n– Drawing for Designers\n– Ethics Appreciation and Civilisation/ Malay Language Communication 2    \n– Print Media and Content Design\n– Screenplay and Storyboarding\n– Creative Thinking / Bahasa Kebangsaan A\n– Web Design YEAR 1 YEAR 2\n– Project Management\n– Brand Strategy and Identity\n– Digital Photography\n– Information Design and Data Visualisation\n– Philosophy and Current Issue    – Integrated Design Project\n– Motion Graphics\n– Elective 1\n– UI / UX Design    – Environmental Graphic Design\n– Social Media Advertising and Design\n– Packaging and Display Design\n– Sustainable Design\nYEAR 3\n– Final Major Project 01\n– Graphic Design and Society\n– Design Research\n– Entrepreneurship and New Business Development    – Final Major Project 02\n– Professional Practice\n– Law for the Creative Industries\n– Integrity and Anti-Corruption    – Industry Experience YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information System (Hons) in Artificial Intelligence",
+      "field_of_study": "Information Systems",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  O-level or equivalent:\ncredit in Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.0",
+        "TOEFL": "500",
+        "IGCE O Level / 1119": "English D",
+        "SPM": "English Credit",
+        "UEC": "English B",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 12000,
+        "tuition_fee": 75000
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Information Technology Essentials\n– Principles of Computer Programming\n– Discrete Mathematics\n– Critical Thinking\n– System Analysis and Design    – Computer Organisation and Architecture\n– Databases\n– Operating Systems\n– Algorithms\n– Web Programming    \n– Computer Networks\n– Mobile Applications Development\n– Human Computer Interaction\n– Neural Network Basics\n– Ethics Appreciation and Civilisation / Malay Language Communication 1 YEAR 1 YEAR 2\n– Software Engineering\n– Data Processing and Visualisation\n– Philosophy and Current Issue\n– Statistics for Artificial Intelligence\n– Deep Learning Fundamentals    \n– Computer Security\n– Object Oriented Programming\n– Creative Thinking / Bahasa Kebangsaan A\n– UI / UX Design\n– Artificial Intelligence Methods YEAR 2 – Ethics and Professional Practice in Computing\n– Applied Computer Vision\n– Intelligent Agents Design\n– Natural Language Processing YEAR 3\n– Project I\n– Entrepreneurship and New Business Development\n– Knowledge Representation\n– Deep Neural Network Architectures\n– Integrity and Anti-Corruption    – Project II\n– Parallel and Distributed Computing\n– Elective 2    \n–  Professional Attachment YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  O-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Information Technology (Hons)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Full Pass in 2 subjects.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer",
+        "UEC": "Grade B in 5 subjects including Mathematics and ONE Science / ICT subject.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer",
+        "Diploma": "- Diploma (MQF Level 4) in non-computing field: min. CGPA of 2.75. Candidate with CGPA 2.50 to 2.75 can be admitted subject to a thorough rigorous assessment - Diploma in Computing fields (MQF Level 4): Pass with minimum CGPA of 2.50. CGPA 2.00 to 2.50 can be admitted subject to a thorough rigorous assessment.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer",
+        "STPM": "Pass with Grade C (CGPA 2.00) in any 2 subjects.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer",
+        "Foundation": "CGPA 2.0.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "Others": "IGCE O Level / 1119 : English D"
+      },
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 12000,
+        "tuition_fee": 75000
+      },
+      "course_content": {
+        "core": "YEAR 1 Information Technology Essentials Principles of Computer Programming Discrete Mathematics Critical Thinking System Analysis and Design Computer Organisation and Architecture Databases Operating Systems Algorithms Web Programming Computer Networks Mobile Application Programming Human Computer Interaction Data Communications Ethics Appreciation and Civilisation / Malay Language Communication 1 YEAR 2 Software Engineering Data Processing and Visualisation Philosophy and Current Issue Cloud Computing Elective 1 Computer Security Object Oriented Programming Creative Thinking / Bahasa Kebangsaan A UI / UX Design Artificial Intelligence Methods Ethics and Professional Practice in Computing Data Analytics Data Mining and Warehousing IS Strategy, Management & Acquisition YEAR 3 Project I Entrepreneurship and New Business Development Internet of Things Elective 2 Integrity and Anti-Corruption Project II Parallel and Distributed Computing System Administration and Maintenance Professional Attachment",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Full Pass in 2 subjects.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "ICT"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including Mathematics and ONE Science / ICT subject.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": false
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "- Diploma (MQF Level 4) in non-computing field: min. CGPA of 2.75. Candidate with CGPA 2.50 to 2.75 can be admitted subject to a thorough rigorous assessment - Diploma in Computing fields (MQF Level 4): Pass with minimum CGPA of 2.50. CGPA 2.00 to 2.50 can be admitted subject to a thorough rigorous assessment.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C (CGPA 2.00) in any 2 subjects.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.0.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Interior Design (Hons)",
+      "field_of_study": "Interior Design",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  Additional Requirements\nPass Portfolio test & Interview",
+        "UEC": "Grade B in 5 Subjects.  Additional Requirements\nPass Portfolio test & Interview",
+        "Diploma": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview",
+        "STPM": "2 Principal Passes.  Additional Requirements\nPass Portfolio test & Interview",
+        "Foundation": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "TOEFL": "500",
+        "IELTS": "5.0",
+        "UEC": "English B",
+        "SPM": "English Credit",
+        "IGCE O Level / 1119": "English D",
+        "Cambridge English/Linguaskill": "154",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 12600,
+        "tuition_fee": 79900
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Design Principles\n– Colour Theory\n– Drawing for Designers\n– Computing for Design    – Constructing Prototypes\n– Furniture Design\n– Human Factors\n– Computer Modelling and Technology    \n– Design Studio Residential\n– Interior Design Material and Technology\n– History of Design: Past and Present\n– Architectural Drawing and Digital Interiors YEAR 1 YEAR 2\n– Design Studio Commercial\n– Elective 1\n– Design Theory\n– Sustainable Design    \n– Design Studio Retail\n– Elective 2\n– Integrity and Anti-Corruption\n– Public Space Design YEAR 2 – Design Studio Exhibition\n– Building Materials and Technology\n– Ethics Appreciation and Civilisation/ Malay Language Communication 2\n– Regional Studies\nYEAR 3\n– Major Studio Project 1\n– Construction Legislation\n– Creative Thinking / Bahasa Kebangsaan A\n– Project Management    – Major Studio Project 2\n– Philosophy and Current Issue\n– Law for the Creative Industries    \n– Major Studio Project 3\n– Working Drawing and Specification\n– Professional Practice YEAR 3 YEAR 4\n– Practical Training / Internship YEAR 4",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Supply Chain Management (Hons)",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  O-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects.  SPM-level/UEC or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00.",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.0",
+        "TOEFL": "500",
+        "IGCE O Level / 1119": "English D",
+        "Cambridge English/Linguaskill": "154",
+        "SPM": "English Credit",
+        "UEC": "English B",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 12000,
+        "tuition_fee": 65000
+      },
+      "course_content": {
+        "core": "Year 1 Sem 1 Business Communication Marketing Business Statistics Fundamentals of Management Sem 2 Financial Accounting Business Information Technology Fundamentals of Finance Business Mathematics Creative Thinking / Bahasa Kebangsaan A Sem 3 Community Service Microeconomics Quantitative Methods Organisational Behaviour Business Law Year 2 Sem 1 Ethics Relations / Malaysian Studies 3 Macroeconomics Introduction Logistics Consumer Behaviour Marketing Management Sem 2 Islamic and Asian Civilisation / Malay Language Communications Malaysia Innovation Operations Management Strategic Management Research Methods Sem 3 Purchasing Management Introduction to Supply Chain Management Transport Management Cross Cultural Communication Year 3 Sem 1 Final Year Project I Freight Law IT for Logistics Systems Inventory Management Sem 2 Ethics and Organisation Final Year Project II Warehousing & Material Handling Customes & Freight Forwarding Sem 3 Professional Attachment",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  O-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  SPM-level/UEC or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Multimedia Design (Hons)",
+      "field_of_study": "Multimedia Design",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3",
+        "UEC": "Grade B in 5 Subjects.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3",
+        "Diploma": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3",
+        "STPM": "2 Principal Passes.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3",
+        "Foundation": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.0",
+        "TOEFL": "500",
+        "IGCE O Level / 1119": "English D",
+        "Cambridge English/Linguaskill": "154",
+        "SPM": "English Credit",
+        "UEC": "English B",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 12600,
+        "tuition_fee": 79900
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Principle of Design\n– Typography\n– Visual Studies and Exploration\n– 20th Century Design & Culture YEAR 1 – Digital and Gen-AI Image Processing\n– Drawing for Designers\n– Introduction to Multimedia Technology\n– Ethics Appreciation and Civilisation/ Malay Language Communication 2\n– Creative Thinking / Bahasa Kebangsaan A    – Multimedia Digital Authoring\n– Screenplay and Storyboarding\n– Philosophy and Current Issue\n– Web Design\nYEAR 2\n– Project Management\n– Brand Strategy and Identity\n– Digital Photography\n– Information Design and Data Visualisation    \n– Integrated Design Project\n– Motion Graphics\n– 3D Techniques\n– UI / UX Design YEAR 2 – Video & Audio Production\n– Advanced Web Design\n– New Media & Interactive Environment\n– Sustainable Design\nYEAR 3\n– Final Major Project 01\n– Game Design\n– Design Research\n– Entrepreneurship and New Business Development    – Final Major Project 02\n– Professional Practice\n– Law For The Creative Industries\n– Integrity and Anti-Corruption    \n– Industry Experience YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Psychology (Hons)",
+      "field_of_study": "Psychology",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  O-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "UEC": "Grade B in 5 Subjects.  SPM-level/UEC or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "Diploma": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.0",
+        "TOEFL": "500",
+        "Others": "IGCE O Level / 1119 : English D",
+        "SPM": "English Credit",
+        "UEC": "English B",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 3000,
+        "resource_fee": 12000,
+        "tuition_fee": 69400
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Introductory Psychology: Methods & Social\n– Emotion & Motivation\n– Child & Infant Psychology\n– Learning Studies    – Ethics Appreciation and Civilisation/ Malay Language Communication 2\n– Philosophy and Current Issue\n– Introductory Psychology: Cognitive & Abnormal\n– Historical Perspectives of Psychology\n– Statistics    \n– Psychology of Learning\n– Psychology of Adolescence & Adulthood\n– Organisational Behaviour\n– Abnormal Psychology\n– Creative Thinking / Bahasa Kebangsaan A YEAR 1 YEAR 2\n– Professional Ethics and Conduct in Psychology\n– Integrity and Anti-Corruption Course\n– Social Psychology\n– Research Methods in Psychology\n– Cognitive Psychology    – Individual Differences\n– Introduction to Counselling & Psychotherapy\n– Cross-cultural Psychology\n– Consumer Psychology    \n– Psychology of Design & Human Factors\n– Elective 1\n– Biological Psychology\n– Educational Psychology\n– Statistical & Research Methodologies YEAR 2 YEAR 3\n– Elective 2\n– Thesis 1\n– Psychological Assessment\n– Cyberpsychology    – Elective 3\n– Neuropsychology\n– Psychology of Aging\n– Thesis 2    \n– Professional Attachment YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  O-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": "B",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  SPM-level/UEC or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma Business Studies",
+      "field_of_study": "Business Administration",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4.0",
+        "TOEFL": "397",
+        "": "A Learning Assistance Session (From Week 6 to Week 12) will be provided at no cost if the student failed the English Assessment in Week 4"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 11000,
+        "tuition_fee": 33500
+      },
+      "course_content": {
+        "core": "Year 1 Sem 1 – Management Essentials\n– Business Mathematics\n– English for Communication\n– Learning Skills Sem 2 – Ethics Appreciation and Civilisation / Malay Language Communication 1\n– Business Communication\n– Statistics\n– Introduction to Business\n– Introduction to Marketing Sem 3 – Teamwork and Leadership/Bahasa Kebangsaan A\n– Human Resource Management\n– Financial Accounting\n– Information Technology Essentials Year 2 Sem 1 – Integrity and Anti-Corruption\n– Business Ethics\n– E-Marketing Strategy\n– Organisational Behaviour\n– Microeconomics Sem 2 – International Business\n– Fundamentals of Finance\n– Introduction to Business Law\n– Entrepreneurship and Small Business Operation Sem 3 – Macroeconomics\n– Consumer Behaviour\n– Business Portfolio\n– Introduction to Logistics\n– Strategic Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Fashion Design",
+      "field_of_study": "Fashion Design",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Others": "Meet any 1 of the Requirements below..  STAM: Minimum Maqbul grade\nSKM: Level 3 and Credit in 1 subject at SPM Level\nCommunity College Certificate (MQF Level 3) and credit in 1 subject at SPM level",
+        "Certificate": "Pass with minimum CGPA 2.00.",
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "A-Level": "Full Pass in 2 subjects.  Additional Requirements\nPass Portfolio test & Interview",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview",
+        "STPM": "Grade C in 1 subject.  Additional Requirements\nPass Portfolio test & Interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4.0",
+        "TOEFL": "397",
+        "": "A Learning Assistance Session (From Week 6 to Week 12) will be provided at no cost if the student failed the English Assessment in Week 4"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 12000,
+        "tuition_fee": 42500
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Academic Writing\n– Academic Reading\n– English for Communication\n– Fashion Drawing\n– Colour Theory    – Ethics Appreciation and Civilisation / Malay Language Communication 1\n– Fiber & Textiles\n– Garment Composition\n– CAD for Fashion Design\n– History of Costume    \n– Fashion Draping 1\n– Women’s Wear Drafting 1\n– Sewing Techniques 1 YEAR 1 YEAR 2\n– Women’s Wear Drafting 2 and Presentation\n– Fashion Draping 2 and Presentation\n– Sewing Techniques 2    – Fashion Illustration\n– Production Workshop\n– Fashion Design, Research and Development\n– Gen-AI for Design Exploration    \n– Integrity and Anti-corruption\n– Entrepreneurship and Small Business Operation\n– Digital Photography\n– Final Project\n– Teamwork and Leadership/Bahasa Kebangsaan A YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Others": [
+          {
+            "type": "raw",
+            "text": "Meet any 1 of the Requirements below..  STAM: Minimum Maqbul grade\nSKM: Level 3 and Credit in 1 subject at SPM Level\nCommunity College Certificate (MQF Level 3) and credit in 1 subject at SPM level"
+          }
+        ],
+        "Certificate": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Full Pass in 2 subjects.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 1 subject.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Visual Communication",
+      "field_of_study": "Graphic Design",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test & Interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4.0",
+        "TOEFL": "397",
+        "": "A Learning Assistance Session (From Week 6 to Week 12) will be provided at no cost if the student failed the English Assessment in Week 4"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 12000,
+        "tuition_fee": 42500
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Academic Writing\n– Academic Reading\n– English for Communication\n– Foundation Sketching and Drawing for Designers\n– History of 20th Century Design and Culture    \n– Ethics Appreciation and Civilisation / Malay Language Communication 1\n– Design Principles\n– Gen-AI for Design Exploration\n– Digital Image Processing    \n– Teamwork and Leadership / Bahasa Kebangsaan A\n– Storyboard & Art Direction\n– Fundamentals of Typography\n– Digital Photography YEAR 1 YEAR 2\n– Digital and Applied Illustration\n– Wayfinding System Design\n– Creative Techniques\n– Publication Design    \n– Video & Motion Graphic\n– Packaging Design\n– Web Design\n– Identity System Design    \n– Integrity and Anti-corruption\n– Creative Portfolio Design\n– Final Project YEAR 2 YEAR 3\n–  Internship YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Human Resources Management",
+      "field_of_study": "Human Resource Management",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "A-Level": "Full Pass in 2 subjects.",
+        "UEC": "Grade B in 3 relevant subjects.",
+        "STPM": "Grade C in 1 subject."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4.0",
+        "TOEFL": "397",
+        "": "A Learning Assistance Session (From Week 6 to Week 12) will be provided at no cost if the student failed the English Assessment in Week 4"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 11000,
+        "tuition_fee": 33500
+      },
+      "course_content": {
+        "core": "Year 1 Sem 1 – Academic Writing\n– Academic Reading\n– Business Mathematics\n– Management Essentials Sem 2 – Ethics Appreciation and Civilisation / Malay Language Communication 1\n– Statistics\n– Human Resource Management\n– Business Communication Sem 3 – Financial Accounting\n– Human Resource Development\n– HR Planning\n– Information Technology Essentials\n– Teamwork and Leadership/ Bahasa Kebangsaan A Year 2 Sem 1 – Integrity and Anti-Corruption\n– Introduction to Marketing\n– Organisational Behaviour\n– Recruitment and Selection\n– Microeconomics Sem 2 – Employment Law\n– Fundamentals of Finance\n– Performance Management\n– Entrepreneurship\n– Compensation Management Sem 3 – Macroeconomics\n– Introduction to Counselling\n– Business Ethics\n– Occupational Safety and Health Management\n– Introduction to Industrial Relations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least Credit in any 3 subjects inclusive of Mathematics.",
+        "O-Level": "Minimum 3 Credits(C), including Mathematics.",
+        "A-Level": "Pass with 1 subject (D).  Credit in Mathematics at SPM level or its equivalent",
+        "UEC": "Pass with a minimum of Grade B in at least three (3) subjects inclusive of Mathematics and a Pass in English.",
+        "STPM": "Pass with a minimum of Grade C (GP 2.0).  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 12000,
+        "tuition_fee": 32500
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Principles of Computer Programming\n– Statistics\n– Computer Organisation and Architecture\n– System Analysis and Design YEAR 1 – Discrete Mathematics\n– Operating Systems\n– Databases\n– Calculus and Algebra    \n– Data Communications\n– Computer Security\n– Information Technology Essentials\n– Object Oriented Programming\nYEAR 2\n– Computer Networks\n– Web Programming\n– Cloud Computing\n– Elective – Mobile Applications Development\n– Ethics and Professional Practice in Computing\n– Internet of Things\n– Integrity and Anti-Corruption    \n– Project\n– UI/UX Design\n– Ethics Appreciation and Civilisation / Malay Language Communication 1\n– Teamwork and Leadership/ Bahasa Kebangsaan A YEAR 3\n– Professional Attachment YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least Credit in any 3 subjects inclusive of Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 Credits(C), including Mathematics."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ],
+            "level": "SPM"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 1 subject (D).  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of Grade B in at least three (3) subjects inclusive of Mathematics and a Pass in English."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ],
+            "level": "SPM"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of Grade C (GP 2.0).  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test & Interview",
+        "O-Level": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test & Interview",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test & Interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4.0",
+        "TOEFL": "397",
+        "": "A Learning Assistance Session (From Week 6 to Week 12) will be provided at no cost if the student failed the English Assessment in Week 4"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 12000,
+        "tuition_fee": 42500
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Academic Writing\n– Academic Reading\n– English for Communication\n– Foundation Sketching and Drawing for Designers    – Gen-AI for Design Exploration\n– Interior Design Principles and Theory\n– Interior Presentation Techniques\n– Architectural Drafting    – Ethics Appreciation and Civilisation / Malay Language Communication 1\n– Interior Design Studio 1 ( Anthropocentric & Ergonomics)\n– History of Modern Design & Architecture\n– Computer Graphic Skills\nYEAR 2\n– Teamwork and Leadership/Bahasa Kebangsaan A\n– Interior Design Studio 2 (Residential)\n– 2D Computer Aided Drawing\n– Interior Colour Application     – Integrity and Anti-Corruption\n– Interior Design Studio 3 (Commercial)\n– Introduction to Furniture Design\n– Building Construction and Services\n– 3D Computer Aided Drawing    – Major Studio Project\n– Working Drawing in Interior Design\n– Interior Materials and Finishes\n– Introduction to Professional Practice\nYEAR 3\n– Internship (14weeks) YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Game Arts",
+      "field_of_study": "Multimedia Design",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Others": "Meet the Requirement below.  STAM: minimum Maqbul grade and Credit in English at SPM Level.\n Additional Requirements\nRequired to submit student portfolio and art and design assessment form",
+        "Certificate": "Pass with at least CGPA 2.00 for Creative Multimedia Certificate(MQF Level 3).  Additional Requirements\nRequired to submit student portfolio and art and design assessment form",
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nRequired to submit student portfolio and art and design assessment form",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nRequired to submit student portfolio and art and design assessment form",
+        "A-Level": "Full Pass in 2 subjects.  Additional Requirements\nRequired to submit student portfolio and art and design assessment form",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nRequired to submit student portfolio and art and design assessment form",
+        "STPM": "Grade C in 1 subject.  Additional Requirements\nRequired to submit student portfolio and art and design assessment form"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4.0",
+        "TOEFL": "397",
+        "": "A Learning Assistance Session (From Week 6 to Week 12) will be provided at no cost if the student failed the English Assessment in Week 4"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 12000,
+        "tuition_fee": 42500
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Academic Writing\n– Academic Reading\n– English for Communication\n– Foundation Sketching and Drawing for Designers\n– Critical Game Studies    – Ethics Appreciation and Civilisation / Malay Language Communication 1\n– Game Design Principles\n– Gen-AI for Design Exploration\n– Creative Programming    \n– Teamwork and Leadership/Bahasa Kebangsaan A\n– Fundamentals of Typography\n– 3D Modelling\n– Storyboard & Art Direction YEAR 1 YEAR 2\n– Integrity and Anti-Corruption\n– User Interface Design\n– Character Design & Development\n– Law for the Creative Industries\n– Rigging & 3D Animation    – Asset & Environmental Visualisation\n– Game Level & Logic Design\n– Audio Visual Compositing\n– Game Production    \n– Game Project Management\n– Portfolio\n– Final Project\n– History of 20th Century Design & Culture YEAR 2 YEAR 3\n– Internship YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Others": [
+          {
+            "type": "raw",
+            "text": "Meet the Requirement below.  STAM: minimum Maqbul grade and Credit in English at SPM Level.\n Additional Requirements\nRequired to submit student portfolio and art and design assessment form"
+          }
+        ],
+        "Certificate": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CGPA 2.00 for Creative Multimedia Certificate(MQF Level 3).  Additional Requirements\nRequired to submit student portfolio and art and design assessment form"
+          }
+        ],
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nRequired to submit student portfolio and art and design assessment form"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nRequired to submit student portfolio and art and design assessment form"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Full Pass in 2 subjects.  Additional Requirements\nRequired to submit student portfolio and art and design assessment form"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nRequired to submit student portfolio and art and design assessment form"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 1 subject.  Additional Requirements\nRequired to submit student portfolio and art and design assessment form"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Psychology",
+      "field_of_study": "Psychology",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits and pass in Math and Science.",
+        "O-Level": "Pass with at least 3 credits and pass in Math and Science.",
+        "A-Level": "Full Pass in 2 subjects.",
+        "UEC": "Grade B in 3 relevant subjects and Pass with Math and Science.",
+        "STPM": "Grade C in 1 subject."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4.0",
+        "TOEFL": "397",
+        "Cambridge English/Linguaskill": "154",
+        "": "A Learning Assistance Session (From Week 6 to Week 12) will be provided at no cost if the student failed the English Assessment in Week 4"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 11000,
+        "tuition_fee": 33500
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Academic Writing\n– Academic Reading\n– English for Communication\n– Introduction to Psychology : Methods & Social\n– Learning Skills    \n– Gen-AI for Design Exploration\n– Introduction to Psychology: Cognition & Abnormal\n– Historical Perspectives of Psychology\n– Statistics YEAR 1 – Teamwork and Leadership/ Bahasa Kebangsaan A\n– Critical Thinking\n– Child and Infants Psychology\n– Research Method in Psychology\n– Emotion and Motivation\nYEAR 2\n– Fundamentals Social Psychology\n– Introduction to Counselling & Psychotherapy\n– Psychology of Adolescent and Adulthood\n– Introduction to Biological Psychology\n– Ethics Appreciation and Civilisation / Malay Language Communication 1 YEAR 2 – Psychology of Learning\n– Cognitive Psychology\n– Personality\n– Integrity and Anti-Corruption    – Gerontology\n– Abnormal Psychology\n– Industrial and Organisational Psychology\n– Business Portfolio",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Math",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits and pass in Math and Science."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Math",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits and pass in Math and Science."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Full Pass in 2 subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Math",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects and Pass with Math and Science."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 1 subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Liberal Arts (Psychology)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits including Mathematics and 1 Science Subject.",
+        "O-Level": "Pass with at least 5 Grade C including Mathematics and 1 Science subject.",
+        "UEC": "Grade B in 3 relevant subjects in Mathematics and 1 Science subject."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.0",
+        "TOEFL iBT": "42",
+        "PTE": "47",
+        "IGCE O Level / 1119": "English D",
+        "SPM": "English Credit",
+        "UEC": "English B",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 6000,
+        "tuition_fee": 16000
+      },
+      "course_content": {
+        "core": "Semester 1    \n– Learning Studies\n– Introduction to Professional Ethics\n– Introduction to Critical Thinking\n– Introduction to Multimedia and Web Design Semester 1 Semester 2 – Information Technology\n– Introduction to Business Studies\n– Creative Problem Solving\n– History of Art and Culture\n– Elective Semester 3\n– Professional Communication\n– Introduction to Drawing & Sketching\n– Practical Mathematics\n– Introduction to Programming Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 credits including Mathematics and 1 Science Subject."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 Grade C including Mathematics and 1 Science subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects in Mathematics and 1 Science subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Liberal Arts (Information System)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits including Mathematics.",
+        "O-Level": "Pass with at least 5 Grade C including Mathematics.",
+        "UEC": "Grade B in 3 relevant subjects in Mathematics."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.0",
+        "TOEFL": "500",
+        "TOEFL iBT": "42",
+        "PTE": "47",
+        "IGCE O Level / 1119": "English D",
+        "UEC": "English B",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 6000,
+        "tuition_fee": 16000
+      },
+      "course_content": {
+        "core": "Semester 1    \n– Learning Studies\n– Introduction to Professional Ethics\n– Introduction to Critical Thinking\n– Introduction to Multimedia and Web Design Semester 1 Semester 2 – Information Technology\n– Introduction to Business Studies\n– Creative Problem Solving\n– History of Art and Culture\n– Elective Semester 3\n– Professional Communication\n– Introduction to Drawing & Sketching\n– Practical Mathematics\n– Introduction to Programming Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 Grade C including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects in Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Liberal Arts",
+      "field_of_study": "Foundation in Arts",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits.",
+        "O-Level": "Pass with at least 5 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.0",
+        "TOEFL": "500",
+        "TOEFL iBT": "42",
+        "PTE": "47",
+        "IGCE O Level / 1119": "English D",
+        "UEC": "English B",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 6000,
+        "tuition_fee": 16000
+      },
+      "course_content": {
+        "core": "Semester 1    \n– Learning Studies\n– Introduction to Professional Ethics\n– Introduction to Critical Thinking\n– Introduction to Multimedia and Web Design Semester 1 Semester 2 – Information Technology\n– Introduction to Business Studies\n– Creative Problem Solving\n– History of Art and Culture\n– Elective Semester 3\n– Professional Communication\n– Introduction to Drawing & Sketching\n– Practical Mathematics\n– Introduction to Programming Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business",
+      "field_of_study": "Foundation in Arts",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits.",
+        "O-Level": "Pass with at least 5 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.0",
+        "TOEFL": "500",
+        "TOEFL iBT": "42",
+        "PTE": "47",
+        "IGCE O Level / 1119": "English D",
+        "UEC": "English B",
+        "SPM": "English Credit",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 6000,
+        "tuition_fee": 16000
+      },
+      "course_content": {
+        "core": "Year 1 Sem 1 Learning Studies Professional Communication Introduction to Entrepreneurship Practical Mathematics Sem 2 Introduction to Business Studies Introduction to Critical Thinking Introduction to Professional Ethnics Introduction to Accounting Techniques Sem 3 Introduction to Human Resource Management Introduction to Economics Information Technology Principle of Marketing Creative Problem Solving",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business (Accountancy)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits.",
+        "O-Level": "Pass with at least 5 Grade C.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.0",
+        "TOEFL": "500",
+        "TOEFL iBT": "42",
+        "PTE": "47",
+        "IGCE O Level / 1119": "English D",
+        "SPM": "English Credit",
+        "UEC": "English B",
+        "": "Student who did not meet RU English Requirement is required to take a Concurrent English Language Programme (CELP)"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 6000,
+        "tuition_fee": 16000
+      },
+      "course_content": {
+        "core": "Year 1 Sem 1 Learning Studies\nProfessional Communication\nIntroduction to Entrepreneurship\nPractical Mathematics Learning Studies Professional Communication Introduction to Entrepreneurship Practical Mathematics Sem 2 Introduction to Business Studies\nIntroduction to Critical Thinking\nIntroduction to Professional Ethnics\nIntroduction to Accounting Techniques Introduction to Business Studies Introduction to Critical Thinking Introduction to Professional Ethnics Introduction to Accounting Techniques Sem 3 Introduction to Human Resource Management\nIntroduction to Economics\nInformation Technology\nPrinciple of Marketing\nCreative Problem Solving Introduction to Human Resource Management Introduction to Economics Information Technology Principle of Marketing Creative Problem Solving",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration (Open Distance Learning)",
+      "field_of_study": "Business Administration",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A Bachelor’s Degree in related fields with a minimum CGPA of 2.50."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 43100
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Accounting for Decision Making\n– Organisational Behaviour\n– Information System Management and Strategy\n– Managerial Economics – Marketing Management and Strategy\n– Financial Management\n– Ethics, Corporate Governance and Social Responsibilities\n– Strategic Management\n– Research Methodology\n– Business Analytics YEAR 1 – Accounting for Decision Making\n– Organisational Behaviour\n– Information System Management and Strategy\n– Managerial Economics – Marketing Management and Strategy\n– Financial Management\n– Ethics, Corporate Governance and Social Responsibilities\n– Strategic Management\n– Research Methodology\n– Business Analytics – Accounting for Decision Making\n– Organisational Behaviour\n– Information System Management and Strategy\n– Managerial Economics – Marketing Management and Strategy\n– Financial Management\n– Ethics, Corporate Governance and Social Responsibilities – Strategic Management\n– Research Methodology\n– Business Analytics YEAR 2\n– Human Resource Management\n– Operations & Quality Management\n– Project YEAR 2 – Human Resource Management\n– Operations & Quality Management\n– Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "A Bachelor’s Degree in related fields with a minimum CGPA of 2.50."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Computer Science",
+      "field_of_study": "Computer Science",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A Bachelor’s Degree in Computing or related fields with a minimum CGPA of 3.00 or equivalent."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 11000,
+        "tuition_fee": 38500
+      },
+      "course_content": {
+        "core": "YEAR 1 – Research Methodology – Directed Readings and Research\n– Dissertation – Research Methodology – Directed Readings and Research – Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "A Bachelor’s Degree in Computing or related fields with a minimum CGPA of 3.00 or equivalent."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Education (Open Distance Learning)",
+      "field_of_study": "Education",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A Bachelor’s Degree in Education related programme or its equivalent with a minimum CGPA of 2.75."
+      },
+      "english_requirements": {
+        "MUET": "Bamd 3.5",
+        "IELTS": "5.0",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 43400
+      },
+      "course_content": {
+        "core": "YEAR 1 – Philosophy and Sociology of Education\n– Research Methodology\n– Dissertation Proposal Writing – Curriculum, Instruction and Assessment\n– Elective\n– Educational Psychology\n– Dissertation 1\n– Dissertation 2\n– Research Seminar – Philosophy and Sociology of Education\n– Research Methodology\n– Dissertation Proposal Writing – Curriculum, Instruction and Assessment\n– Elective\n– Educational Psychology\n– Dissertation 1 – Dissertation 2\n– Research Seminar",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "A Bachelor’s Degree in Education related programme or its equivalent with a minimum CGPA of 2.75."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration",
+      "field_of_study": "MBA Programme",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Meet any of the Requirement below:.  (i) A recognized Bachelor Degree with a minimum CGPA of 2.5 \nor\n(ii) A recognised Bachelor's degree or its equivalent  in the field or related fields or  equivalent with a minimum CGPA of 2.0 and not meeting a CGPA of 2.50, can be accepted subject to rigorous internal assessment\n* Candidates without a qualification in the related fields or working experience in the relevant fields must undergo appropriate prerequisite course determined by the HEP and meet the minimum CGPA based on (i) to (ii)"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL iBT": "60",
+        "PTE": "59",
+        "Cambridge English/Linguaskill": "169"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 43100
+      },
+      "course_content": {
+        "core": "YEAR 1\n– Accounting for Decision Making\n– Organisational Behaviour\n– Information System Management and Strategy\n– Managerial Economics   \n– Marketing Management and Strategy\n– Financial Management\n– Ethics, Corporate Governance and Social Responsibilities    \n– Strategic Management\n– Research Methodology\n– Business Analytics YEAR 1 YEAR 2\n– Human Resource Management\n– Operations & Quality Management\n– Project YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Meet any of the Requirement below:.  (i) A recognized Bachelor Degree with a minimum CGPA of 2.5 \nor\n(ii) A recognised Bachelor's degree or its equivalent  in the field or related fields or  equivalent with a minimum CGPA of 2.0 and not meeting a CGPA of 2.50, can be accepted subject to rigorous internal assessment\n* Candidates without a qualification in the related fields or working experience in the relevant fields must undergo appropriate prerequisite course determined by the HEP and meet the minimum CGPA based on (i) to (ii)"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Design (Open Distance Learning)",
+      "field_of_study": "Multimedia Design",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A Bachelor’s Degree with a minimum CGPA of 2.50 in the field of Art and Design, Design and Technology, Interior Design or a relevant field.  Pass “RU Portfolio Assessment and Interview”"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 43400
+      },
+      "course_content": {
+        "core": "YEAR 1 – Design Issues and Practices\n– Design Research Methodology\n– Emerging Technologies and Processes\n– Design Thinking and Innovation – Final Master Project I\n– Collaborative Design Management\n– Responsible Design\n– Final Master Project II – Design Issues and Practices\n– Design Research Methodology\n– Emerging Technologies and Processes\n– Design Thinking and Innovation – Final Master Project I\n– Collaborative Design Management\n– Responsible Design – Final Master Project II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A Bachelor’s Degree with a minimum CGPA of 2.50 in the field of Art and Design, Design and Technology, Interior Design or a relevant field.  Pass “RU Portfolio Assessment and Interview”"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosphy in Business Administration (Open Distance Learning)",
+      "field_of_study": "Business Administration",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "A Master’s Degree in related fields."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 50500
+      },
+      "course_content": {
+        "core": "Year 1 – Year 3 – Research Methods ( 16 Hours Core Module) – Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A Master’s Degree in related fields."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosphy in Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Meet any of the Requirement below:.  - Master's Degree in business or related field.\n- Any other equivalent qualification recognised by the Malaysian Goverment Which will be considered on a case by case basis.\n- There shall be no direct entry from Bchelor's degree level or PhD level."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550",
+        "TOEFL iBT": "60",
+        "PTE": "59",
+        "Cambridge English/Linguaskill": "169"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 50500
+      },
+      "course_content": {
+        "core": "Modules\nYear 1 – Year 3\n– Research Methods (16 Hours Core Module)\n– Dissertation Modules Year 1 – Year 3 A PhD Process 1. Identifying Research Problems and Objectives\n2. Conduct Literature Review\n3. Identify Research approach and Design\n4. Present Research proposal\n5. Conduct Original Research and Collect Result\n6. Present Research Conclusion\n7. Write a Thesis and submit it as a Dissertation\n8. Defend Thesis in an Oral Viva Vace Examination Expectation in a PhD – Carry Out Research\n– Conference Presentation\n– Publication\n– Attending Workshop / Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Meet any of the Requirement below:.  - Master's Degree in business or related field.\n- Any other equivalent qualification recognised by the Malaysian Goverment Which will be considered on a case by case basis.\n- There shall be no direct entry from Bchelor's degree level or PhD level."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy in Computer Science",
+      "field_of_study": "Computer Science",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "A Master’s Degree in the field of Computing or related fields."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 11000,
+        "tuition_fee": 43500
+      },
+      "course_content": {
+        "core": "Year 1 – Year 3 – Research Methodology – Directed Readings and Research – Doctoral Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A Master’s Degree in the field of Computing or related fields."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy in Education",
+      "field_of_study": "Education",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Master’s Degree in the education field or Education-related fields."
+      },
+      "english_requirements": {
+        "MUET": "Bamd 3.5",
+        "IELTS": "5.0",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 11000,
+        "tuition_fee": 43500
+      },
+      "course_content": {
+        "core": "Year 1 – Year 3 – Research Methodology – Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Master’s Degree in the education field or Education-related fields."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "English Language Preparation Programme (EPP)",
+      "field_of_study": "English",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "Meet the English entry requirement in higher education institutions.": ""
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 1000,
+        "tuition_fee": 3192
+      },
+      "course_content": {
+        "core": "Listening Speaking Reading Writing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "language_prep",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Concurrent English Language Programme (CELP)",
+      "field_of_study": "English",
+      "location": "Raffles, City Campus",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 1000,
+        "tuition_fee": 1500
+      },
+      "course_content": {
+        "core": "Academic Writing Academic Research & Referencing Communication",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "language_prep",
+      "entry_requirements_processed": {}
+    }
+  ]
+}

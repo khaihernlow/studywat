@@ -1,0 +1,252 @@
+{
+  "institution_name": "Newcastle University Medicine Malaysia (NuMed)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Biomedical Sciences BSc Honours (2+1), Newcastle University, UK",
+      "field_of_study": "Biomedical Sciences",
+      "location": "NUMed Malaysia Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "12 points or BBB at A2 Level (A=5; B=4; C=3; D=2; E=1). We do not accept General Studies or Critical Thinking as A2 Level qualifications..",
+        "UEC": "A score of 4 based on the average of the following subjects: Biology, Chemistry, Physics. Advanced Mathematics I and Advanced Mathematics II, with none of these subjects achieving less than B4. (A1 = 1; A2 =2; B3 = 3; B4 = 4; B5 = 5; B6= 6; C7 = 7; C8= 8).",
+        "STPM": "Normally BBB.",
+        "IB Diploma": "Minimum of 30 points including the additional points available for the Theory of Knowledge/Extended Essay. No core subjects should be graded lower than grade 5..  The following will also be considered depending upon the grade(s) achieved: • A polytechnic or university diploma • Ontario Grade 12",
+        "SACE/WACE": "ATAR score of 90, inc. Biology, Chemistry, and Physics or Mathematics."
+      },
+      "english_requirements": {
+        "MUET": "Minimum MUET 3",
+        "IELTS": "Minimum overall score of 6.5, with no individual band less than 6.0"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 84920
+      },
+      "course_content": {
+        "core": "Our Biomedical Sciences programme is divided into two phases: Phase 1 (Stage 1 and semester 1 of Stage 2) Phase 2 (semester 2 of Stage 2 and Stage 3) The first the years of the programme (Stage 1 and Stage 2) will be taught at NUMed Malaysia and the third year (Stage 3) of the programme will only be taught at Newcastle UK. In order for you to progress to the third year of the programme in the UK, you must have successfully completed the first two years of the programme in Malaysia and have obtained the relevant visa for you to enter the UK. Phase 1 - NUMed Malaysia Phase 1 extends over the first 1 ½ years of the programme and is divided into two Stages. Stage 1 Biochemistry Cell biology Genetics Microbiology and immunology Pharmacology Physiology Practical skills in biomedical and biomolecular sciences 1 and 2 Stage 2 Semester 1 Molecular medicine Cell and molecular biosciences Cell and molecular biology of the immune system Practical skills in biomedical and biomolecular sciences 3 Phase 2 - NUMed Malaysia and Newcastle, UK In Phase 2, you study a range of topics relating to health and disease. You also undertake an individual research project in an area of biomedical sciences that particularly interests you. This may be a laboratory project in one of our internationally rated research institutes, a clinical study under the supervision of one of the medically qualified staff, a project working with a local school or college or an IT-based project. Finally you may also choose a vocational module, such as research in biomedical sciences, business for the bioscientist or healthcare organisation and practice. Phase 2 consists of the study of the following modules. Stage 2 semester 2 - NUMed Malaysia  The nervous system and respiratory diseases Clinical immunology and viral pathogens Human anatomy Practical and presentational skills in biomedical sciences  Stage 3 semester 1 - Newcastle UK You will study three modules, one from each of the following lists: List A Clinical ageing and health ; or or Immunology of Health and Disease; or or Epidemiology List B Chronic disease; or or Cancer biology and therapy; or or Disease of the Human Nervous System List C Medical biotechnology; or or Microbiota and pathogens: Mucosal Microbiota, Protozoa and Fungi; or or Genetics of Common Diseases Stage 3 Semester 2 - Newcastle UK Research Project; or or Experimental design and the process of research Integrated biomedical sciences Vocational module - any one of the following modules: Research in Biomedical Sciences, Business for the Bioscientist Healthcare Organisation and Practice, Science Communication, or Bioethics -",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "12 points or BBB at A2 Level (A=5; B=4; C=3; D=2; E=1). We do not accept General Studies or Critical Thinking as A2 Level qualifications.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "A score of 4 based on the average of the following subjects: Biology, Chemistry, Physics. Advanced Mathematics I and Advanced Mathematics II, with none of these subjects achieving less than B4. (A1 = 1; A2 =2; B3 = 3; B4 = 4; B5 = 5; B6= 6; C7 = 7; C8= 8)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "raw",
+            "text": "Normally BBB."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 30
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of 30 points including the additional points available for the Theory of Knowledge/Extended Essay. No core subjects should be graded lower than grade 5..  The following will also be considered depending upon the grade(s) achieved: • A polytechnic or university diploma • Ontario Grade 12"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 90
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR score of 90, inc. Biology, Chemistry, and Physics or Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Medicine, Bachelor of Surgery (MBBS) Honours",
+      "field_of_study": "Medicine",
+      "location": "NUMed Malaysia Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 5,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "A-Levels inc. Biology, Chemistry, and Physics or Mathematics (Normally 15 points at A2 level (A=5; B=4; C=3; D=2; E=1)).  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "UEC": "Normally a score of 1, based upon the average of the best five subjects, including the required science subjects. Scores are calculated: A1=1; A2=2; B3-3; B4=4; B5=5; B6=6; C7=7; C8=8..  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "STPM": "Normally AAA based upon the total of the best three scores in the required Science subjects..  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "CPU": "86%, based on the average of six best Grade 12 subjects, inc. Biology, Chemistry, and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "IB Diploma": "37 points inc. Biology, Chemistry, and Physics or Mathematics, and including the additional points available for the Theory of Knowledge/Extended Essay.",
+        "SACE/WACE": "ATAR score of 90, inc. Biology, Chemistry, and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+      },
+      "english_requirements": {
+        "MUET": "MUET 4",
+        "IELTS": "Minimum overall score of 7 with no individual band less than 6.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 503000
+      },
+      "course_content": {
+        "core": "Years 1 and 2 The first two years of the MBBS programme are delivered through case-based learning and early clinical experience. Teaching is integrated, with relevant topics covered in relation to each case. For example, for a case on heart disease, the relevant anatomy, physiology, pharmacology and social science related to heart disease will be taught together in an integrated fashion. In these cases you will learn the underlying biology of diseases and apply this knowledge to a clinical context. Year 3 In the first semester of Year 3, you'll engage in a 12-week clinical rotation focused on the fundamentals of clinical practice. This is followed by placements in medicine, surgery, and acute care, where you'll work as an integral part of a clinical team. The second semester includes further clinical placements in mental health, child and young person's health, reproductive health, and primary care. Year 3 culminates with a four-week module on Clinical Decision Making 1. Year 4 Throughout both semesters of Year 4, you'll participate in supervised, longitudinal, integrated clinical placements in medical and surgical specialties, as well as primary care, referred to as Advanced Clinical Experience. Here, you'll follow a panel of patients throughout their medical care journey. Semester 2 includes an 8-week block in Acute & Critical Care. You'll also undergo a 4-week block focused on clinical decision making, covering all clinical sciences with a special emphasis on investigative medicine. Year 4 concludes with an 8-week Student Selected Component, allowing you to undertake a supervised clinical placement in a topic of your choice. Year 5 In the first semester of Year 5, you'll continue to enhance your skills and knowledge through clinical rotations in mental health, child and young people's health, women’s health, primary care, and Good Medical Practice. This prepares you for practice as a House Officer (or Foundation Year doctor in the UK), focusing on medical regulations, advanced communication skills, prescribing, and managing under pressure. Following assessments in Semester 2, the 8-week Elective provides an opportunity to experience medicine almost anywhere in the world, including the UK. For many, this is a highlight of their medical studies. Year 5 concludes with further assistantships in medicine, surgery, and orthopaedics, where you'll be attached to a clinical team in the hospital. Here, you'll play the role of a ‘junior’ houseman, gaining practical experience for your future career.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "A-Levels inc. Biology, Chemistry, and Physics or Mathematics (Normally 15 points at A2 level (A=5; B=4; C=3; D=2; E=1)).  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Normally a score of 1, based upon the average of the best five subjects, including the required science subjects. Scores are calculated: A1=1; A2=2; B3-3; B4=4; B5=5; B6=6; C7=7; C8=8..  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "Normally AAA based upon the total of the best three scores in the required Science subjects..  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "86%, based on the average of six best Grade 12 subjects, inc. Biology, Chemistry, and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "37 points inc. Biology, Chemistry, and Physics or Mathematics, and including the additional points available for the Theory of Knowledge/Extended Essay."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR score of 90, inc. Biology, Chemistry, and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Biological and Biomedical Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "NUMed Malaysia Campus",
+      "intakes": [
+        "May",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "4As 1B each in Biology, Chemistry, Physics, Mathematics and another subject.",
+        "O-Level": "4As 1B each in Biology, Chemistry, Physics, Mathematics and another subject."
+      },
+      "english_requirements": {
+        "IELTS": "Minimum overall score of 5.5 with no individual band less than 5 must be achieved"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 27580
+      },
+      "course_content": {
+        "core": "Semester 1 English for Academic Purposes Foundation Biology 1 Foundation Chemistry Foundation Mathematics and Statistics Study Skills and ICT for Science and Medicine Semester 2 English for Academic Purposes Foundation Biology 1 Foundation Biology 2 Foundation Chemistry Foundation Mathematics and Statistics Study Skills and ICT for Science and Medicine Semester 3 English for Academic Purposes Foundation Biology 2 Foundation of Medical Studies Foundation Physics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "another subject"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "4As 1B each in Biology, Chemistry, Physics, Mathematics and another subject."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "another subject"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "4As 1B each in Biology, Chemistry, Physics, Mathematics and another subject."
+          }
+        ]
+      }
+    }
+  ]
+}

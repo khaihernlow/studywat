@@ -1,0 +1,358 @@
+{
+  "institution_name": "University of Tasmania International Pathway College",
+  "institution_country": null,
+  "institution_type": "Public",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "International First Year Diploma (Business)",
+      "field_of_study": "Business and Management",
+      "location": "UTAS International Pathway College",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "A Levels 2 points.",
+        "UEC": "UEC Sucessful completion.",
+        "STPM": "STPM GPA 2.67."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 89513
+      },
+      "course_content": {
+        "core": "Course structure: 4 core Business units\n1 core English for Academic Purposes unit\n3 optional units (depending on major) 4 core Business units 1 core English for Academic Purposes unit 3 optional units (depending on major)  Core units: Complete the following 5 units (62.5 credit points) Core units: XPD101 – People and Organisations\nXPD102 – Introduction to Markets and the Economy\nXPD105 – Data Analysis for Business\nXPD106 – Accounting & Accountability\nXPD150 – English for Academic Purposes XPD101 – People and Organisations XPD102 – Introduction to Markets and the Economy XPD105 – Data Analysis for Business XPD106 – Accounting & Accountability XPD150 – English for Academic Purposes",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "A Levels 2 points."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "UEC Sucessful completion."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.67
+          },
+          {
+            "type": "raw",
+            "text": "STPM GPA 2.67."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "International First Year Diploma (Science - ICT)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "UTAS International Pathway College",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "A Levels 6 points.",
+        "UEC": "UEC Sucessful completion.",
+        "STPM": "STPM GPA 2.00."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 95099
+      },
+      "course_content": {
+        "core": "Core units: Complete the following 8 units Core units: XPD109 Introduction to Management\nXPD113 Data Networks and Security\nXPD119 Database Fundamentals\nXPD124 Programming Fundamentals\nXPD126 Programming\nXPD129 Data Handling and Statistics\nXPD150 English for Academic Purposes\nXPD151 Introduction to University Mathematics XPD109 Introduction to Management XPD113 Data Networks and Security XPD119 Database Fundamentals XPD124 Programming Fundamentals XPD126 Programming XPD129 Data Handling and Statistics XPD150 English for Academic Purposes XPD151 Introduction to University Mathematics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "A Levels 6 points."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "UEC Sucessful completion."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Arts)",
+      "field_of_study": "Foundation in Arts",
+      "location": "UTAS International Pathway College",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "3 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 73088
+      },
+      "course_content": {
+        "core": "Course Structure 8 units over two semesters (4 core + 4 elective) Core Units English 1 English 2 English 3 Foundation Mathematics  Stream Units ARTS Compulsory Units Choose a minimum of three from: Psychology Design & Society Statistics Media Studies Recommended Other Stream Unit Marketing Design & Strategy  BUSINESS Compulsory Units Choose a minimum of three from: Macroeconomics Microeconomics Marketing Design & Strategy Statistics Recommended Other Stream Unit Media Studies Design & Society  LAW Compulsory Units Choose a minimum of three from: Psychology Macroeconomics Microeconomics Statistics Recommended Other Stream Unit Marketing Design & Strategy Media Studies Design & Society",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Arts) - Fast-Track",
+      "field_of_study": "Foundation in Arts",
+      "location": "UTAS International Pathway College",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Aggregate of 15 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "4 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 63268
+      },
+      "course_content": {
+        "core": "Course Structure 8 units over two semesters (4 core + 4 elective)  Core Units English 1 \nEnglish 2 \nEnglish 3 \nFoundation Mathematics English 1 English 2 English 3 Foundation Mathematics  Stream Units  ARTS Compulsory Units Choose a minimum of three from: Psychology\nDesign & Society Statistics\nMedia Studies Psychology Design & Society Statistics Media Studies Recommended Other Stream Unit Marketing Design & Strategy  BUSINESS Compulsory Units Choose a minimum of three from: Macroeconomics\nMicroeconomics\nMarketing Design & Strategy \nStatistics Macroeconomics Microeconomics Marketing Design & Strategy Statistics Recommended Other Stream Unit Media Studies Design & Society  LAW Compulsory Units Choose a minimum of three from: Psychology\nMacroeconomics\nMicroeconomics\nStatistics Psychology Macroeconomics Microeconomics Statistics Recommended Other Stream Unit Marketing Design & Strategy \nMedia Studies \nDesign & Society Marketing Design & Strategy Media Studies Design & Society",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Aggregate of 15 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "4 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Science)",
+      "field_of_study": "Foundation in Science",
+      "location": "UTAS International Pathway College",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "3 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 73088
+      },
+      "course_content": {
+        "core": "Course Structure 8 units over two semesters (4 core + 4 elective)  Core Units English 1 \nEnglish 2 \nEnglish 3 \nFoundation Mathematics English 1 English 2 English 3 Foundation Mathematics  Stream Units  LIFE SCIENCE Compulsory Units Chemistry\nStatistics\nPsychology Chemistry Statistics Psychology Recommended Other Stream Unit Calculus\nPhysics Calculus Physics Additional Units Requirements for Specific Degrees Advanced Diploma of Applied Science (Nautical Science) and Advanced Diploma of Applied Science (Marine Engineering) require Statistics and either Physics or Chemistry \nBachelor of Surveying and Spatial Sciences requires Statistics and Calculus\nBachelor of Nutrition Science requires Statistics\nBachelor of Exercise and Sports Science requires Statistics \nBachelor of Medical Science and Doctor of Medicine requires Chemistry Advanced Diploma of Applied Science (Nautical Science) and Advanced Diploma of Applied Science (Marine Engineering) require Statistics and either Physics or Chemistry Bachelor of Surveying and Spatial Sciences requires Statistics and Calculus Bachelor of Nutrition Science requires Statistics Bachelor of Exercise and Sports Science requires Statistics Bachelor of Medical Science and Doctor of Medicine requires Chemistry  PHYSICAL SCIENCE Compulsory Units Choose a minimum of three from: Calculus\nStatistics\nChemistry\nPhysics Calculus Statistics Chemistry Physics Recommended Other Stream Unit Design & Society\nMacroeconomics\nMicroeconomics Design & Society Macroeconomics Microeconomics Additional Units Requirements for Specific Degrees Bachelor of Engineering (Specialisation) with Honours requires Calculus and either Physics or Chemistry\nBachelor of Biomedicine requires Chemistry\nBachelor of Marine and Antarctic Science prerequisites are dependent on major. \nMarine Biology requires Chemistry and Statistics. Oceanography requires Calculus and Physics. \nBachelor of Pharmacy with Honours requires Chemistry and Statistics Bachelor of Engineering (Specialisation) with Honours requires Calculus and either Physics or Chemistry Bachelor of Biomedicine requires Chemistry Bachelor of Marine and Antarctic Science prerequisites are dependent on major. Marine Biology requires Chemistry and Statistics. Oceanography requires Calculus and Physics. Bachelor of Pharmacy with Honours requires Chemistry and Statistics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "3 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Science) - Fast-Track",
+      "field_of_study": "Foundation in Science",
+      "location": "UTAS International Pathway College",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Aggregate of 15 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "4 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 63268
+      },
+      "course_content": {
+        "core": "Course Structure 8 units over two semesters (4 core + 4 elective)  Core Units English 1 \nEnglish 2 \nEnglish 3 \nFoundation Mathematics English 1 English 2 English 3 Foundation Mathematics  Stream Units  LIFE SCIENCE Compulsory Units Chemistry\nStatistics\nPsychology Chemistry Statistics Psychology Recommended Other Stream Unit Calculus\nPhysics Calculus Physics Additional Units Requirements for Specific Degrees Advanced Diploma of Applied Science (Nautical Science) and Advanced Diploma of Applied Science (Marine Engineering) require Statistics and either Physics or Chemistry \nBachelor of Surveying and Spatial Sciences requires Statistics and Calculus\nBachelor of Nutrition Science requires Statistics\nBachelor of Exercise and Sports Science requires Statistics \nBachelor of Medical Science and Doctor of Medicine requires Chemistry Advanced Diploma of Applied Science (Nautical Science) and Advanced Diploma of Applied Science (Marine Engineering) require Statistics and either Physics or Chemistry Bachelor of Surveying and Spatial Sciences requires Statistics and Calculus Bachelor of Nutrition Science requires Statistics Bachelor of Exercise and Sports Science requires Statistics Bachelor of Medical Science and Doctor of Medicine requires Chemistry  PHYSICAL SCIENCE Compulsory Units Choose a minimum of three from: Calculus\nStatistics\nChemistry\nPhysics Calculus Statistics Chemistry Physics Recommended Other Stream Unit Design & Society\nMacroeconomics\nMicroeconomics Design & Society Macroeconomics Microeconomics Additional Units Requirements for Specific Degrees Bachelor of Engineering (Specialisation) with Honours requires Calculus and either Physics or Chemistry\nBachelor of Biomedicine requires Chemistry\nBachelor of Marine and Antarctic Science prerequisites are dependent on major. \nMarine Biology requires Chemistry and Statistics. Oceanography requires Calculus and Physics. \nBachelor of Pharmacy with Honours requires Chemistry and Statistics Bachelor of Engineering (Specialisation) with Honours requires Calculus and either Physics or Chemistry Bachelor of Biomedicine requires Chemistry Bachelor of Marine and Antarctic Science prerequisites are dependent on major. Marine Biology requires Chemistry and Statistics. Oceanography requires Calculus and Physics. Bachelor of Pharmacy with Honours requires Chemistry and Statistics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Aggregate of 15 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "4 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ]
+      }
+    }
+  ]
+}

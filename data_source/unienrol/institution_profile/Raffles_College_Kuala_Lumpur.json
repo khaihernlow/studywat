@@ -1,0 +1,1462 @@
+{
+  "institution_name": "Raffles College Kuala Lumpur",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Certificate in Business",
+      "field_of_study": "Business and Management",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Others": "International High School Equivalent.",
+        "SPM": "1 Credit.",
+        "O-Level": "1 Credit.",
+        "UEC": "1 Credit."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 5000,
+        "tuition_fee": 9750
+      },
+      "course_content": {
+        "core": "YEAR 1  Introduction to Business Fundamental of Marketing English for Communication Fundamental of Accounting Fundamental of Economics Fundamental of Management Academic Reading and Writing Introduction to Business Statistics Introduction to Business Computing Essentials of Organisational Behaviour Fundamental of Social Media Marketing Introduction to Human Resource Management YEAR 2  Introduction to Business Ethics Fundamentals of Content Marketing Introduction to Operations Management Introduction to Advertising and Brand Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "Others": [
+          {
+            "type": "raw",
+            "text": "International High School Equivalent."
+          }
+        ],
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Certificate in Design",
+      "field_of_study": "Multimedia Design",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 1 credits.  Pass Portfolio Review or Interview conducted by Raffles Kuala Lumpur",
+        "O-Level": "Pass with at least 1 credits.  Pass Portfolio Review or Interview conducted by Raffles Kuala Lumpur",
+        "UEC": "Grade B in 1 relevant subjects.  Pass Portfolio Review or Interview conducted by Raffles Kuala Lumpur"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 6000,
+        "resource_fee": null,
+        "tuition_fee": 9750
+      },
+      "course_content": {
+        "core": "Fundamental Drawing\nPhotography and Digital Illustration\nEnglish for Communication\nColour Theory\nAdvance Drawing Skills\nAcademic Reading and Writing\n2D Studies\nIntroduction to Multimedia and Web Management\nCreative and Innovation Studies\nTypography and Layout Design\nFabric Colour Manipulation\nPersonal Portfolio\nPrint Making\nCareer Studies",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass Portfolio Review or Interview conducted by Raffles Kuala Lumpur"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass Portfolio Review or Interview conducted by Raffles Kuala Lumpur"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass Portfolio Review or Interview conducted by Raffles Kuala Lumpur"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business (Accountancy) (Honours)",
+      "field_of_study": "Accounting",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Full pass in any 2 subjects.  A pass in Mathematics and English at SPM level or equivalent qualifications.",
+        "UEC": "Grade B in 5 subjects.  A pass in Mathematics and English at SPM level or equivalent qualifications.",
+        "Diploma": "Minimum CGPA 2.00.  A pass in Mathematics and English at SPM level or equivalent qualifications.",
+        "STPM": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  A pass in Mathematics and English at SPM level or equivalent qualifications.",
+        "Foundation": "Minimum CGPA 2.00.  A pass in Mathematics and English at SPM level or equivalent qualifications."
+      },
+      "english_requirements": {
+        "MUET": "3",
+        "TOEFL": "GCE O Level /1119 English: Grade D"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 12600,
+        "tuition_fee": 64000
+      },
+      "course_content": {
+        "core": "YEAR 1  Statistics Marketing Business Law Microeconomics Financial Accounting Business Mathematics Quantitative Methods Organisational Behaviour Business Communication Financial Accounting Practice Fundamentals of Management Information Technology Essentials Fundamentals of Financial Management YEAR 2  Taxation 1 Commercial Law Macroeconomics Corporate Finance Business Research Audit and Assurance 1 Ethics and Organisation Computerised Accounting Management Accounting 1 Management Accounting 2 Human Resource Management Accounting Information Systems Financial Accounting and Reporting 1 Financial Accounting and Reporting 2 Financial Accounting and Reporting 3 YEAR 3  Taxation 2 Audit and Assurance 2 Strategic Management Professional Attachment Management Accounting 3 Accounting Theory and Practice Financial Accounting and Reporting 4 Entrepreneurship and New Business Development",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Full pass in any 2 subjects.  A pass in Mathematics and English at SPM level or equivalent qualifications."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": "B",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects.  A pass in Mathematics and English at SPM level or equivalent qualifications."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  A pass in Mathematics and English at SPM level or equivalent qualifications."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  A pass in Mathematics and English at SPM level or equivalent qualifications."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  A pass in Mathematics and English at SPM level or equivalent qualifications."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Fashion Design (Honours)",
+      "field_of_study": "Fashion Design",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Full pass in any 2 subjects.  Pass Portfolio Review or Interview",
+        "UEC": "Grade B in 5 subjects.  Pass Portfolio Review or Interview",
+        "Diploma": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview",
+        "STPM": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  Pass Portfolio Review or Interview",
+        "Foundation": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+      },
+      "english_requirements": {
+        "MUET": "3",
+        "TOEFL": "GCE O Level /1119 English: Grade D"
+      },
+      "fees": {
+        "registration_fee": 13600,
+        "resource_fee": null,
+        "tuition_fee": 81900
+      },
+      "course_content": {
+        "core": "YEAR 1\n  Textiles\nFashion Draping 1\nFashion Draping 2\nHistory of Costume\nDigital Photography\nSewing Applications 1\nSewing Applications 2\nCAD1 for Fashion Design\nWomen’s Wear Drafting 1\nWomen’s Wear Drafting 2\nGarment and Composition\nFashion Drawing and Colour Theory\nYEAR 2\n  Project Workshop\nFashion Sketching\nProject Management\nFashion Communication\nMini Collection Workshop\nBrand Strategy and Identity\nAdvanced Sewing Techniques\nDesign Research & Development\nPsychology of Design & Human Factor\nContemporary Fashion, Styles & Trends\nAdvanced Draping & Drafting Techniques\nYEAR 3\n  Internship\nMajor Studio Project 1\nMajor Studio Project 2\nLaw for the Creative Industries\nPattern Aided Design, Grading & Costing\nEntrepreneurship and New Business Development YEAR 1\n  Textiles\nFashion Draping 1\nFashion Draping 2\nHistory of Costume\nDigital Photography\nSewing Applications 1\nSewing Applications 2\nCAD1 for Fashion Design\nWomen’s Wear Drafting 1\nWomen’s Wear Drafting 2\nGarment and Composition\nFashion Drawing and Colour Theory YEAR 1  Textiles\nFashion Draping 1\nFashion Draping 2\nHistory of Costume\nDigital Photography\nSewing Applications 1\nSewing Applications 2\nCAD1 for Fashion Design\nWomen’s Wear Drafting 1\nWomen’s Wear Drafting 2\nGarment and Composition\nFashion Drawing and Colour Theory Textiles Fashion Draping 1 Fashion Draping 2 History of Costume Digital Photography Sewing Applications 1 Sewing Applications 2 CAD1 for Fashion Design Women’s Wear Drafting 1 Women’s Wear Drafting 2 Garment and Composition Fashion Drawing and Colour Theory YEAR 2\n  Project Workshop\nFashion Sketching\nProject Management\nFashion Communication\nMini Collection Workshop\nBrand Strategy and Identity\nAdvanced Sewing Techniques\nDesign Research & Development\nPsychology of Design & Human Factor\nContemporary Fashion, Styles & Trends\nAdvanced Draping & Drafting Techniques YEAR 2  Project Workshop\nFashion Sketching\nProject Management\nFashion Communication\nMini Collection Workshop\nBrand Strategy and Identity\nAdvanced Sewing Techniques\nDesign Research & Development\nPsychology of Design & Human Factor\nContemporary Fashion, Styles & Trends\nAdvanced Draping & Drafting Techniques Project Workshop Fashion Sketching Project Management Fashion Communication Mini Collection Workshop Brand Strategy and Identity Advanced Sewing Techniques Design Research & Development Psychology of Design & Human Factor Contemporary Fashion, Styles & Trends Advanced Draping & Drafting Techniques YEAR 3\n  Internship\nMajor Studio Project 1\nMajor Studio Project 2\nLaw for the Creative Industries\nPattern Aided Design, Grading & Costing\nEntrepreneurship and New Business Development YEAR 3  Internship\nMajor Studio Project 1\nMajor Studio Project 2\nLaw for the Creative Industries\nPattern Aided Design, Grading & Costing\nEntrepreneurship and New Business Development Internship Major Studio Project 1 Major Studio Project 2 Law for the Creative Industries Pattern Aided Design, Grading & Costing Entrepreneurship and New Business Development",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Full pass in any 2 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Graphic Design (Honours)",
+      "field_of_study": "Graphic Design",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Full pass in any 2 subjects.  Pass Portfolio Review or Interview",
+        "UEC": "Grade B in 5 subjects.  Pass Portfolio Review or Interview",
+        "Diploma": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview",
+        "STPM": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  Pass Portfolio Review or Interview",
+        "Foundation": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+      },
+      "english_requirements": {
+        "MUET": "3",
+        "TOEFL": "GCE O Level /1119 English: Grade D"
+      },
+      "fees": {
+        "registration_fee": 13600,
+        "resource_fee": null,
+        "tuition_fee": 81900
+      },
+      "course_content": {
+        "core": "YEAR 1\n  Typography 1\nWeb Design\nPrinciple of Design\nDrawing for Designers\nVisual Studies and Exploration\nScreenplay and Storyboarding\n20th Century Design & Culture\nPrint Media and Content Design\nDigital and Gen-AI Image Processing\nDigital Illustration and Visual Storytelling\nYEAR 2\n  Elective 1\nUI / UX Design\nMotion Graphics\nSustainable Design\nDigital Photography\nProject Management\nIntegrated Design Project\nBrand Strategy and Identity\nEnvironmental Graphic Design\nPackaging and Display Design\nSocial Media Advertising and Design\nInformation Design and Data Visualisation\nYEAR 3\n  Design Research\nFinal Major Project 1\nFinal Major Project 2\nProfessional Practice\nIndustry Experience\nGraphic Design and Society\nLaw for the Creative Industries\nEntrepreneurship and New Business Development YEAR 1\n  Typography 1\nWeb Design\nPrinciple of Design\nDrawing for Designers\nVisual Studies and Exploration\nScreenplay and Storyboarding\n20th Century Design & Culture\nPrint Media and Content Design\nDigital and Gen-AI Image Processing\nDigital Illustration and Visual Storytelling YEAR 1  Typography 1\nWeb Design\nPrinciple of Design\nDrawing for Designers\nVisual Studies and Exploration\nScreenplay and Storyboarding\n20th Century Design & Culture\nPrint Media and Content Design\nDigital and Gen-AI Image Processing\nDigital Illustration and Visual Storytelling Typography 1 1 Web Design Principle of Design Drawing for Designers Visual Studies and Exploration Screenplay and Storyboarding 20th Century Design & Culture Print Media and Content Design Digital and Gen-AI Image Processing Digital Illustration and Visual Storytelling YEAR 2\n  Elective 1\nUI / UX Design\nMotion Graphics\nSustainable Design\nDigital Photography\nProject Management\nIntegrated Design Project\nBrand Strategy and Identity\nEnvironmental Graphic Design\nPackaging and Display Design\nSocial Media Advertising and Design\nInformation Design and Data Visualisation YEAR 2  Elective 1\nUI / UX Design\nMotion Graphics\nSustainable Design\nDigital Photography\nProject Management\nIntegrated Design Project\nBrand Strategy and Identity\nEnvironmental Graphic Design\nPackaging and Display Design\nSocial Media Advertising and Design\nInformation Design and Data Visualisation Elective 1 UI / UX Design Motion Graphics Sustainable Design Digital Photography Project Management Integrated Design Project Brand Strategy and Identity Environmental Graphic Design Packaging and Display Design Social Media Advertising and Design Information Design and Data Visualisation YEAR 3\n  Design Research\nFinal Major Project 1\nFinal Major Project 2\nProfessional Practice\nIndustry Experience\nGraphic Design and Society\nLaw for the Creative Industries\nEntrepreneurship and New Business Development YEAR 3  Design Research\nFinal Major Project 1\nFinal Major Project 2\nProfessional Practice\nIndustry Experience\nGraphic Design and Society\nLaw for the Creative Industries\nEntrepreneurship and New Business Development Design Research Final Major Project 1 Final Major Project 2 Professional Practice Industry Experience Graphic Design and Society Law for the Creative Industries Entrepreneurship and New Business Development",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Full pass in any 2 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Interior Design (Honours)",
+      "field_of_study": "Interior Design",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Full pass in any 2 subjects.  Pass Portfolio Review or Interview",
+        "UEC": "Grade B in 5 subjects.  Pass Portfolio Review or Interview",
+        "Diploma": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview",
+        "STPM": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  Pass Portfolio Review or Interview",
+        "Foundation": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+      },
+      "english_requirements": {
+        "MUET": "3",
+        "TOEFL": "GCE O Level /1119 English: Grade D"
+      },
+      "fees": {
+        "registration_fee": 13600,
+        "resource_fee": null,
+        "tuition_fee": 81900
+      },
+      "course_content": {
+        "core": "YEAR 1\n  Colour Theory 1\nHuman Factors\nFurniture Design\nDesign Principles\nComputing for Design\nDrawing for Designers\nConstructing Prototypes\nDesign Studio Residential\nHistory of Design: Past and Present\nComputer Modelling and Technology\nInterior Design Material and Technology\nArchitectural Drawing and Digital Interiors\nYEAR 2\n  Elective 1\nElective 2\nDesign Theory\nSustainable Design\nDesign Studio Retail\nPublic Space Design\nDesign Studio Exhibition\nDesign Studio Commercial\nBuilding Materials and Technology\nYEAR 3\n  Project Management\nProfessional Practice\nMajor Studio Project 1\nMajor Studio Project 2\nMajor Studio Project 3\nConstruction Legislation\nPractical Training/ Internship\nLaw for the Creative Industries YEAR 1\n  Colour Theory 1\nHuman Factors\nFurniture Design\nDesign Principles\nComputing for Design\nDrawing for Designers\nConstructing Prototypes\nDesign Studio Residential\nHistory of Design: Past and Present\nComputer Modelling and Technology\nInterior Design Material and Technology\nArchitectural Drawing and Digital Interiors YEAR 1  Colour Theory 1\nHuman Factors\nFurniture Design\nDesign Principles\nComputing for Design\nDrawing for Designers\nConstructing Prototypes\nDesign Studio Residential\nHistory of Design: Past and Present\nComputer Modelling and Technology\nInterior Design Material and Technology\nArchitectural Drawing and Digital Interiors Colour Theory 1 1 Human Factors Furniture Design Design Principles Computing for Design Drawing for Designers Constructing Prototypes Design Studio Residential History of Design: Past and Present Computer Modelling and Technology Interior Design Material and Technology Architectural Drawing and Digital Interiors YEAR 2\n  Elective 1\nElective 2\nDesign Theory\nSustainable Design\nDesign Studio Retail\nPublic Space Design\nDesign Studio Exhibition\nDesign Studio Commercial\nBuilding Materials and Technology YEAR 2  Elective 1\nElective 2\nDesign Theory\nSustainable Design\nDesign Studio Retail\nPublic Space Design\nDesign Studio Exhibition\nDesign Studio Commercial\nBuilding Materials and Technology Elective 1 Elective 2 Design Theory Sustainable Design Design Studio Retail Public Space Design Design Studio Exhibition Design Studio Commercial Building Materials and Technology YEAR 3\n  Project Management\nProfessional Practice\nMajor Studio Project 1\nMajor Studio Project 2\nMajor Studio Project 3\nConstruction Legislation\nPractical Training/ Internship\nLaw for the Creative Industries YEAR 3  Project Management\nProfessional Practice\nMajor Studio Project 1\nMajor Studio Project 2\nMajor Studio Project 3\nConstruction Legislation\nPractical Training/ Internship\nLaw for the Creative Industries Project Management Professional Practice Major Studio Project 1 Major Studio Project 2 Major Studio Project 3 Construction Legislation Practical Training/ Internship Law for the Creative Industries",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Full pass in any 2 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Multimedia Design (Honours)",
+      "field_of_study": "Multimedia Design",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Full pass in any 2 subjects.  Pass Portfolio Review or Interview",
+        "UEC": "Grade B in 5 subjects.  Pass Portfolio Review or Interview",
+        "Diploma": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview",
+        "STPM": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  Pass Portfolio Review or Interview",
+        "Foundation": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+      },
+      "english_requirements": {
+        "MUET": "3",
+        "TOEFL": "GCE O Level /1119 English: Grade D"
+      },
+      "fees": {
+        "registration_fee": 13600,
+        "resource_fee": null,
+        "tuition_fee": 81900
+      },
+      "course_content": {
+        "core": "YEAR 1\n  Web Design\nTypography\nPrinciple of Design\nDrawing for Designers\nMultimedia Digital Authoring\nScreenplay and Storyboarding\n20th Century Design & Culture\nVisual Studies and Exploration\nDigital and Gen-AI Image Processing\nIntroduction to Multimedia Technology\nYEAR 2\n  3D Techniques\nUI / UX Design\nMotion Graphics\nSustainable Design\nDigital Photography\nProject Management\nAdvanced Web Design\nIntegrated Design Project\nVideo & Audio Production\nBrand Strategy and Identity\nNew Media & Interactive Environment\nInformation Design and Data Visualisation\nYEAR 3\n  Game Design\nDesign Research\nIndustry Experience\nProfessional Practice\nFinal Major Project 1\nFinal Major Project 2\nLaw for the Creative Industries\nEntrepreneurship and New Business Development YEAR 1\n  Web Design\nTypography\nPrinciple of Design\nDrawing for Designers\nMultimedia Digital Authoring\nScreenplay and Storyboarding\n20th Century Design & Culture\nVisual Studies and Exploration\nDigital and Gen-AI Image Processing\nIntroduction to Multimedia Technology YEAR 1  Web Design\nTypography\nPrinciple of Design\nDrawing for Designers\nMultimedia Digital Authoring\nScreenplay and Storyboarding\n20th Century Design & Culture\nVisual Studies and Exploration\nDigital and Gen-AI Image Processing\nIntroduction to Multimedia Technology Web Design Typography Principle of Design Drawing for Designers Multimedia Digital Authoring Screenplay and Storyboarding 20th Century Design & Culture Visual Studies and Exploration Digital and Gen-AI Image Processing Introduction to Multimedia Technology YEAR 2\n  3D Techniques\nUI / UX Design\nMotion Graphics\nSustainable Design\nDigital Photography\nProject Management\nAdvanced Web Design\nIntegrated Design Project\nVideo & Audio Production\nBrand Strategy and Identity\nNew Media & Interactive Environment\nInformation Design and Data Visualisation YEAR 2  3D Techniques\nUI / UX Design\nMotion Graphics\nSustainable Design\nDigital Photography\nProject Management\nAdvanced Web Design\nIntegrated Design Project\nVideo & Audio Production\nBrand Strategy and Identity\nNew Media & Interactive Environment\nInformation Design and Data Visualisation 3D Techniques UI / UX Design Motion Graphics Sustainable Design Digital Photography Project Management Advanced Web Design Integrated Design Project Video & Audio Production Brand Strategy and Identity New Media & Interactive Environment Information Design and Data Visualisation YEAR 3\n  Game Design\nDesign Research\nIndustry Experience\nProfessional Practice\nFinal Major Project 1\nFinal Major Project 2\nLaw for the Creative Industries\nEntrepreneurship and New Business Development YEAR 3  Game Design\nDesign Research\nIndustry Experience\nProfessional Practice\nFinal Major Project 1\nFinal Major Project 2\nLaw for the Creative Industries\nEntrepreneurship and New Business Development Game Design Design Research Industry Experience Professional Practice Final Major Project 1 Final Major Project 2 Law for the Creative Industries Entrepreneurship and New Business Development",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Full pass in any 2 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  Pass Portfolio Review or Interview"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Pyschology (Honours)",
+      "field_of_study": "Psychology",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Full pass in any 2 subjects.  Credits in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science and a pass in English at SPM level.",
+        "UEC": "Grade B in 5 subjects.  Credits in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science and a pass in English at SPM level.",
+        "Diploma": "Minimum CGPA 2.00.  Credits in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science and a pass in English at SPM level.",
+        "STPM": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  Credits in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science and a pass in English at SPM level.",
+        "Foundation": "Minimum CGPA 2.00.  Credits in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science and a pass in English at SPM level."
+      },
+      "english_requirements": {
+        "MUET": "3",
+        "TOEFL": "GCE O Level /1119 English: Grade D"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 12600,
+        "tuition_fee": 64000
+      },
+      "course_content": {
+        "core": "YEAR 1  Statistics Learning Studies Emotion & Motivation Abnormal Psychology Psychology of Learning Child & Infant Psychology Historical Perspectives of Psychology Industrial & Organisational Psychology Psychology of Adolescence & Adulthood Introductory Psychology: Methods & Social Introductory Psychology: Cognition & Abnormal YEAR 2  Elective 1 Personality Social Psychology Cognitive Psychology Biological Psychology Consumer Psychology Educational Psychology Counselling Psychology Cross-cultural Psychology Research Methods in Psychology Statistical & Research Methodologies Psychology of Design & Human Factors Professional Ethics and Conduct in Psychology YEAR 3  Elective 2 Elective 3 Cyberpsychology Final Year Project 1 Psychological Assessment Neuropsychology Final Year Project 2 Psychology of Aging Professional Attachment",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Full pass in any 2 subjects.  Credits in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science and a pass in English at SPM level."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects.  Credits in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science and a pass in English at SPM level."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Credits in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science and a pass in English at SPM level."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (Grade Point (GP) 2.00) in any 2 subjects.  Credits in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science and a pass in English at SPM level."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Credits in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science and a pass in English at SPM level."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Studies",
+      "field_of_study": "Business Administration",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 6000,
+        "resource_fee": null,
+        "tuition_fee": 26500
+      },
+      "course_content": {
+        "core": "Introduction to Business Studies\nFundamental of Management\nIntroduction to Marketing\nBusiness Statistics\nAcademic Reading and Writing\nOperations Management\nIntroduction to Business Law\nConsumer Behaviour\nFundamentals of Finance\nBusiness Mathematics\nMicroeconomics\nBusiness Ethics\nPrinciple of Accounting\nProfessional Writing and Communication\nBusiness Communication\nBusiness Information Technology\nMacroeconimics\nOrganisational Behaviour\nHuman Resource Management\nSmall Business Management\nFinancial Accounting\nBusiness Creativity and Innovation\nBusiness Portfolio\nDigital Marketing\nInternational Business\nInternship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "DIploma in E-Commerce",
+      "field_of_study": "Business Administration",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 6000,
+        "resource_fee": null,
+        "tuition_fee": 31500
+      },
+      "course_content": {
+        "core": "Business Statistic\nFundamental of Management\nAcademic Reading and Writing\nPrinciples of Marketing\nIntroduction to Business Law\nFundamentals of Finance\nE-Commerce Principles\nDigital Content Creation\nConsumer Behaviour\nPrinciples of Economic\nOperations Management in Business\nManagement and Organisational Behaviour\nSocial Media and Mobile Marketing\nWeb Design\nManagement Information Systems\nFinancial Accounting\nEntrepreneurship and Small Business Management\nDigital Marketing\nHuman Resources Management\nTechnopreneurship\nProfessional Writing and Communication\nBusiness Ethics\nMarket Research\nE-Commerce Project\nE-Commerce Security\nInternational Business\nInternship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Jewellery Design",
+      "field_of_study": "Fashion Design",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 6000,
+        "resource_fee": null,
+        "tuition_fee": 52000
+      },
+      "course_content": {
+        "core": "Studio Practice I: Contemporary Jewellery Design\nObservational Drawing Skills\n3D Conceptualisation\nModel Making\nStudio Practice II: Resin and Acrylic\nColour Analysis in 3D Design\nDigital Imaging\nMaterials and Processes\nStudio Practice III: Metal and Wood\nComputer Aided Design\nAcademic Research & Communication Skills\nCultural Studies\nDesign Theory\nDesign Drafting and Rendering\nStudio Practice IV: Enamelling and Glass\nSolid Modelling\nJewellery Technology\nStudio Practice V: Silversmithing\nComputer Rendering\nDesign Management\nInternship (Jewellery Design)\nStudio Practice VI: Gem Analysis and Stone Setting\n3D Manipulation\nMajor Design Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Fashion Design",
+      "field_of_study": "Fashion Design",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 6000,
+        "resource_fee": null,
+        "tuition_fee": 84500
+      },
+      "course_content": {
+        "core": "Fashion Draping 1 Women’s Wear Drafting 1 Sewing Applications 1 Colour Theory for Fashion Fashion Draping 2 Women’s Wear Drafting 2 Sewing Applications 2 Garment and Composition Advanced Drafting and Draping Techniques Advanced Sewing Techniques CAD 1 for Fashion Design Fashion Drawing Fashion Sketching History of Costume Textiles Fashion Marketing and Merchandising Project Workshop Design Research and Development Contemporary Fashion, Styles and Trends Fashion Communication Men’s Wear Workshop Pattern Aided Design, Grading and Costing Academic Research and Communication Skills Mini Collection Workshop CAD 2 and Portfolio for Fashion Design",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Fashion Marketing",
+      "field_of_study": "Fashion Design",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 6000,
+        "resource_fee": null,
+        "tuition_fee": 54500
+      },
+      "course_content": {
+        "core": "Fashion Merchandising Garments and Composition History of Costume Colour Theory for Fashion Textiles Consumer Behavior in Fashion Industry Fashion Advertising Digital Photography Principles of Economics Fashion Communication Visual Merchandising Contemporary Fashion, Styles, and Trends Academic Research and Communication Skills Buying Principles 1 Market and Design on the Web Market Research Techniques Product Development Principles of Accounting Buying Principles 2 Fashion Coordination and Promotion Human Resource Management Final Marketing Project 1 Final Marketing Project 2 Internship (Fashion Marketing)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Fashion Styling",
+      "field_of_study": "Fashion Design",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 6000,
+        "resource_fee": null,
+        "tuition_fee": 39000
+      },
+      "course_content": {
+        "core": "Colour Theory of Fashion Academic Reading and Writing Principles of Marketing Fashion Research Fashion Styling 1 Introduction to Brand Textiles Contemporary Fashion, Styles and Trends Fashion Styling 2 Fashion Marketing and Merchandising Digital Photography Hair Styling Make-up Wardrobe Auditing Digital Image Processing Fashion Communication Essential of Personal Branding Personal Shopping Art Direction Fashion Journalism Writing for Social Media Design Thinking and Creative Solution Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects.",
+        "O-Level": "Grade C in 3 relevant subjects.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 6000,
+        "resource_fee": null,
+        "tuition_fee": 44500
+      },
+      "course_content": {
+        "core": "Field of Study Architectural Drafting Drawing Skills I Interior Design, Principles and Theory Academic Reading and Writing Computer Graphic Skills Creative Concept Development Colour Studies Materials & Finishes Computer-Aided Design I (2D CAD) History of Architecture and Arts Drawing Skills II Design Studio I – Residential Building Technology and Construction I Design Practice I Computer-Aided Design II (3D CAD) Design Studio II – Office and Retail Building Technology and Construction II Academic Research and Communication Skills Computer-Aided Drawing III (3ds MAX / REVIT) Furniture History, Design and Application Lighting Design Design Practice II Design Studio III (Restaurant and Hospitality) Portfolio Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Creative New Media Technology",
+      "field_of_study": "Multimedia Design",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 6000,
+        "resource_fee": null,
+        "tuition_fee": 38900
+      },
+      "course_content": {
+        "core": "Fields Covered: Design Basic Design and Culture Drawing for Designers Design Thinking and Creative Solution Fundamentals of Typography Digital Image Processing Digital Illustration Colour Concept Law for Creative Industry Introduction to Coding Layout Design Digital Photography 3D Techniques Prepress Technique and Digital Printing Digital Typography Motion Graphics User Interaction Design Multimedia Authoring I Multimedia Authoring II Brand Identity Design Web Development Online Advertising Creative Portfolio Final Project Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Applied Psychology",
+      "field_of_study": "Psychology",
+      "location": "Raffles, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 5500,
+        "resource_fee": null,
+        "tuition_fee": 27000
+      },
+      "course_content": {
+        "core": "Academic Reading and Writing\nIntroduction to Psychology\nHuman Growth and Developmental Psychology\nPsychology of Learning\nEmotion and Motivation\nProfessional Writing and Communication\nSocial Psychology\nIntroduction to Counselling and Psychotherapy\nHistory of Psychology\nNeuroscience and Behaviour\nStatistics for Psychology\nConsumer Behaviour\nFamily Dynamics\nIntroduction to Forensic and Criminal Psychology\nSensation and Perception\nCognitive Psychology\nIndustrial and Organizational Psychology\nPersonality Psychology\nAbnormal Psychology\nNeuropsychology\nResearch Design & Analysis\nDisorders of Infancy, Childhood and Adolescence\nOrganisational Behaviour\nAddictions and Interventions\nCounselling Techniques and Process",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    }
+  ]
+}

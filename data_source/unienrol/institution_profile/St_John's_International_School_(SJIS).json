@@ -1,0 +1,149 @@
+{
+  "institution_name": "St John's International School (SJIS)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Cambridge A-Levels (3 Subjects)",
+      "field_of_study": "A-Level",
+      "location": "SJIS, KL",
+      "intakes": [
+        "Jan",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits including English and Mathematics.",
+        "O-Level": "Pass with at least 5 Grade C including English and Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 1560,
+        "tuition_fee": 18300
+      },
+      "course_content": {
+        "core": "Subject Offered Biology Chemistry Physics Mathematics Law English Language Further Mathematics Business Studies Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 credits including English and Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 Grade C including English and Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Cambridge A-Levels (4 Subjects)",
+      "field_of_study": "A-Level",
+      "location": "SJIS, KL",
+      "intakes": [
+        "Jan",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits including English and Mathematics.",
+        "O-Level": "Pass with at least 5 Grade C including English and Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 1560,
+        "tuition_fee": 23800
+      },
+      "course_content": {
+        "core": "Subject Offered Biology Chemistry Physics Mathematics Law English Language Further Mathematics Business Studies Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 credits including English and Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 Grade C including English and Mathematics."
+          }
+        ]
+      }
+    }
+  ]
+}

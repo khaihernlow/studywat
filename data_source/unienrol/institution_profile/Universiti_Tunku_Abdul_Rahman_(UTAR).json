@@ -1,0 +1,1772 @@
+{
+  "institution_name": "Universiti Tunku Abdul Rahman (UTAR)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 1692,
+  "malaysia_rank": 15,
+  "programs": [
+    {
+      "program_name": "Bachelor of Accounting (Hons)",
+      "field_of_study": "Accounting",
+      "location": "UTAR, Sungai Long",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes of Grade D.  SPM-level or equivalent:\ncredit in Mathematics, English",
+        "UEC": "Grade B5 in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, English",
+        "STPM": "2 Principal Passes of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics, English",
+        "CPU": "Average of 70% in 6 subjects.  SPM-level or equivalent:\ncredit in Mathematics, English",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in Mathematics, English"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "Overall 5.0",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 56200
+      },
+      "course_content": {
+        "core": "YEAR 1 \nBusiness Law \nEnglish For Business \nEnglish for Management \nFinancial Accounting I \nFinancial Accounting II \nManagement Accounting I \nManagement Principles \nMPU1* \nPrinciples of Macroeconomics \nPrinciples of Microeconomics \nQuantitative Techniques I \nQuantitative Techniques II \n\nYEAR 2 \nAccounting Information Systems I \nAuditing and Assurance Services I \nCo-Curriculum \nCompany Law \nElective I \nElective II \nFinancial Management Fundamentals \nFinancial Reporting \nManagement Accounting II \nMPU1** \nOrganisational Behaviour \nSun Zi's Art of War and Business Strategies \nTaxation I \nTaxation II \n\nYEAR 3 \nAccounting Information Systems II \nAuditing and Assurance Services II \nBusiness Ethics and Corporate Governance \nCorporate Reporting \nElective III \nIndustrial Training \n\nYEAR 4 \nAccounting Theory and Practice \nAdvanced Corporate Reporting \nBusiness and Society \nCorporate Finance \nElective IV \nElective V \nFinancial Markets adn Regulations \nIntergrated Case Study \nManagement Accounting III \nNational Language/Other Languages \nStrategic Management \nTaxation III YEAR 1 YEAR 2 YEAR 3 YEAR 4",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes of Grade D.  SPM-level or equivalent:\ncredit in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B5"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B5 in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "Average of 70% in 6 subjects.  SPM-level or equivalent:\ncredit in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in Mathematics, English"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) Digital Animation",
+      "field_of_study": "Animation",
+      "location": "UTAR, Sungai Long",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum Grade D.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "UEC": "Grade B in 5 Subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Those below CGPA 2.50 is subject to an interview.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "CPU": "Average of 70% in 6 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 48450
+      },
+      "course_content": {
+        "core": "YEAR 1 \n2D Animation I\nActing for Animators\nAnimation Drawing and Composition\nCommunicative English\nElective I\nFilm Studies I\nIntroduction to Motion Graphics\nMPU1*\nMPU4 - Co-curriculum\nOther Languages\nPrinciples of Animation\nScriptwriting and Storyboarding\nSun Zi's Art of War and Business Strategies\nTypography Studies\n\nYEAR 2\n2D Animation II\n3D Animation I\n3D Animation II\nAnimation Techniques\nApproaches to Communication Research\nCharacter Animation\nDigital Video & Audio Production\nElective II\nFilm Studies II\nMotion Graphic Analysis & Interpolation\nMPU1**\nVideo Compositing & Special Effects\n\n\nYEAR 3\nCo-Curriculum\nDesign Reflective Practice\nElective III\nEthics and Professional Conduct \nFinal Project \nHistory of Art & Animation\nIndustrial Training \nMPU I**\nSun Zi's Art of War and Business Strategies YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum Grade D.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Those below CGPA 2.50 is subject to an interview.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "Average of 70% in 6 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) Chinese Studies",
+      "field_of_study": "Chinese Studies",
+      "location": "UTAR, Kampar",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Chinese",
+        "UEC": "Grade B in 5 Subjects including B6 in Chinese.  SPM-level or equivalent:\ncredit in Chinese",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Chinese",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Chinese",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Chinese",
+        "CPU": "Average of 70% in 6 subjects.  SPM-level or equivalent:\ncredit in Chinese",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in Chinese"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 47300
+      },
+      "course_content": {
+        "core": "YEAR 1 \nChinese History (China to 1840) 中国通史 \nChinese in Malaysia 马来西亚华人概论 \nCommunicative English \nElective B I \nHistory of Chinese Literature 中国文学史 \nIntroduction to Chinese Studies 国学概论 \nIntroduction to Literature 文学概论 \nMalaysian Chinese Literature 马华文学 \nMethod of Using Chinese Reference Books 中文工具书使用方法 \nModern Chinese Language 现代汉语 \nMPU1* \nMPU1** \nSelected Poetry of Tang and Song Dynasty 唐宋诗选 \nThe Four Confucian Classics 四书 \n\nYEAR 2 \nChinese Etymology 文字学 \nCo-Curriculum \nElective A I \nElective A II \nElective A III \nElective B II \nElective B III \nHistory of Chinese Thought 中国思想史 \nHistory of Modern Chinese 中国近现代史 \nModern and Comtemporary Chinese Literature 中国现当代文学 \nSelection of Ci Poetry 词选 \nSelected Texts from Tang and Song Periods 唐宋文选 \nSun Zi's Art of War and Business Strategies 孙子兵法与商业策略 \n\nYEAR 3 \nElective A IV \nIndustrial Training \nModern Chinese Thought 中国近现代思想 \nMPU3 \nNational Language/Other Language \nProject I \nProject II YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including B6 in Chinese.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "Average of 70% in 6 subjects.  SPM-level or equivalent:\ncredit in Chinese"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in Chinese"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) English Language",
+      "field_of_study": "English",
+      "location": "UTAR, Kampar",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English",
+        "CPU": "Average of 70% in 6 subjects.  SPM-level or equivalent:\ncredit in English",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 46700
+      },
+      "course_content": {
+        "core": "YEAR 1 \nMPU1*\nAcademic Writing \nCritical Reading & Thinking \nEnglish Morphology and Syntax \nEnglish Phonetics and Phonology \nHistory of The English Language \nIntroduction to English Literature \nIntroduction to Linguistics \nLanguage Learning Theories \nNew Technologies for Language Learning\nOral Communication and Interpersonal Skills \nStructure and Grammar of English\n\n\nYEAR 2 \nElective I \nElective II\nMalaysian Literature in English\nMPU1**\nNational Language/Other Languages \nProfessional Writing \nPsycholinguistic\nResearch Methodology \nSemantics and Pragmatics\nSociolinguistic\n\nYEAR 3 \nCo-Curriculum \nDiscourse Analysis \nIndustrial Training\nLanguage for Negotiation and Persuasion \nMPU3 \nProject I \nProject II \nPublic Speaking and Oral Presentation \nSun Zi's Art of War and Business Strategies \n\nMINOR -Journalism \nFeature Writing \nIntroduction to Mass Communication \nIntroduction to Video Production and Editing \nMedia Management \nMultimedia Jounalism \nNews Reporting and Writing \n\nMINOR -Public Relations \nCrisis Communication in Public Relations \nPublic Relations \nPublic Relations Practices \nPublic Relations Writing \nSocial Media for Public Relations YEAR 1 YEAR 2 YEAR 3 MINOR -Journalism MINOR -Public Relations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Average of 70% in 6 subjects.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) English Education",
+      "field_of_study": "English (Teaching)",
+      "location": "UTAR, Kampar",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English",
+        "CPU": "Average of 70% in 6 subjects.  SPM-level or equivalent:\ncredit in English",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 46400
+      },
+      "course_content": {
+        "core": "YEAR 1 \nE-Methods in Literary Production \nEnglish Phonetics and Phonology \nEnglish Morphology and Syntax\nIntroduction to English Literature \nIntroduction to Linguistics \nIntroduction to Psychology \nLanguage Learning Theories \nLanguage Teaching Methodology \nMPU1*\nMPU1**\nNational Language / Other Language\nPubic Speaking & Oral Presentation\nStructure and Grammar of English \n\nYEAR 2 \nAcademic Writing\nCo-Curriculum \nMalaysian Literature in English \nMPU3 \nNew Literatures in English\nPsycholinguistics \nResearch Methodology \nSemantics and Pragmatics\nSun Zi’s Art of War and Business Strategy\nTeaching of Literature\nTeaching of Writing\nTeaching of Reading\nTeaching of Speaking and Listening\n\n\nYEAR 3 \nBehavioral Modification\nCurriculum and Syllabus Design \nEducational Psychology \nEducational Technology \nIntroduction to Philosophy of Education \nLanguage Testing and Assessment \nProject I \nProject II  \nTeaching Practice\nTheatre in ESL YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Average of 70% in 6 subjects.  SPM-level or equivalent:\ncredit in English"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in English"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Administration (Honours) Healthcare Management",
+      "field_of_study": "Healthcare",
+      "location": "UTAR, Kampar",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "A minimum of Grade D in 2 relevant subjects.  Pass in Mathematics and English at SPM level / equivalent*",
+        "UEC": "Grade B in 5 subjects.  Pass in Mathematics and English at SPM level / equivalent*",
+        "Diploma": "Minimum CGPA of 2.00.  Pass in Mathematics and English at SPM level / equivalent*",
+        "STPM": "A minimum of Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics and English at SPM level / equivalent*",
+        "Foundation": "Minimum CGPA of 2.00.  Pass in Mathematics and English at SPM level / equivalent*",
+        "CPU": "An average of 70% in 6 subjects.  Pass in Mathematics and English at SPM level / equivalent*"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 50350
+      },
+      "course_content": {
+        "core": "Year 1 Business Elective Co-Curriculum Customer Relationship Management English for Management English for Mass Communication Healthcare Programme Planning and Evaluation Medical Insurance MPU1* MPU1** Occupational, Health, Safety and Risk Management Organisational Behaviour Principles of Health Education and Promotion Principles of Healthcare Principles of Healthcare Management Sun Zi's Art of War and Business Strategies Terminology in Healthcare Management Year 2 Business Finance Business Research Entrepreneurship General Elective Health Information Management Healthcare Services and System in Malaysia Healthcare System Research Methodology Human Resource Management Introduction to Sociology Medical Tourism National Language/Other Languages National Health Policy Planning, Designing and Management of Clinical Services Department Research Project Social Cultural Issues of Healthcare Year 3 Disease Prevention Emergency Control and Response Management Hospital Support Services Industrial Training Leadership and Teambuilding MPU3 Organisational Development Quality Management and Hospital Accreditation System Research Project Strategic Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A minimum of Grade D in 2 relevant subjects.  Pass in Mathematics and English at SPM level / equivalent*"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects.  Pass in Mathematics and English at SPM level / equivalent*"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA of 2.00.  Pass in Mathematics and English at SPM level / equivalent*"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A minimum of Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics and English at SPM level / equivalent*"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA of 2.00.  Pass in Mathematics and English at SPM level / equivalent*"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "An average of 70% in 6 subjects.  Pass in Mathematics and English at SPM level / equivalent*"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) Journalism in Chinese Media",
+      "field_of_study": "Journalism",
+      "location": "UTAR, Sungai Long",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English, Chinese",
+        "UEC": "Grade B in 5 Subjects including Chinese.  SPM-level or equivalent:\ncredit in English, Chinese",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English, Chinese",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English, Chinese",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English, Chinese",
+        "CPU": "Average of 70% in 6 subjects.  SPM-level or equivalent:\ncredit in English, Chinese",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in English, Chinese"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 48800
+      },
+      "course_content": {
+        "core": "YEAR 1\nBasic Photo Journalism 基础新闻摄影\nChinese Language Media in World Context 世界中文媒体\nChinese Media Advertising 中文广告学\nChinese Publication and Marketing 中文出版与行销\nCo-Curriculum\nCommunicative English\nDesign Studio\nElective I\nEnglish for Mass Communication\nHistory of Chinese Language Newspapers in Malaysia and Singapore 马新华文报业史 \nJournalistic Writing I 新闻写作（一）\nMalaysian Chinese Society and Education 马来西亚华人社会与教育\nMPU1*\nNational Language/Other Languages\nTheory and Principles of Journalism 新闻学原理\n\nYEAR 2\nBroadcast Journalism\nBusiness Reporting\nCommunication Research Methods\nConstitutional Development in Malaysia\nElective II\nFeature Writing\nInternational Politics and Organisations 国际政治与组织\nInternet Journalism\nJournalistic Writing II 新闻写作（二）\nMedia and Communication Theories\nMPU1**\nNews Translation\nNewspaper and Periodical Editing 报章与杂志编辑\nSun Zi's Art of War and Business Strategies\n\nYEAR 3\nCommunication Law\nData Journalism 新闻数据\nEntrepreneurship\nEthics in Media Communication\nIndustrial Training 工业培训\nOpinion Writing\nPage Setting in Chinese Language 中文排版\nProject 论文 YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in English, Chinese"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Chinese.  SPM-level or equivalent:\ncredit in English, Chinese"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English, Chinese"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English, Chinese"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English, Chinese"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Average of 70% in 6 subjects.  SPM-level or equivalent:\ncredit in English, Chinese"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in English, Chinese"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) Game Design",
+      "field_of_study": "Multimedia Design",
+      "location": "UTAR, Sungai Long",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum Grade D.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "UEC": "Grade B in 5 Subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "CPU": "Average of 70% in 6 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 48850
+      },
+      "course_content": {
+        "core": "YEAR 1 \n2D Animation \nAdvanced Art\nBasic 3D Asset Modelling\nCreative Thinking and Idea Generation \nElective I \nEnglish for Games \nFoundations of Drawing \nFundamentals of Imaging \nDigital Video Production\nGame Design Foundation \nHistory of Game Art and Genre Studies \nMPU1* \nNarrative Design and Story Creation \nPerception Studies \n\nYEAR 2\nArt Law & Cyber Law \nBasic 3D Animation for Games \nFundamentals of Vector Graphics\nElective II \nGame Development I \nGame Development II \nGame Research and Society \nLevel Design \nMobile Game Development 1 \nMPU4\nProgramming for Games\nMusic and Sound Effects for Games \nWorld-Building for Games\nSun Zi's Art of War and Business Strategies \nUser Experience and Interface Design YEAR 1 YEAR 2 YEAR 3\nDigital Transformation and E-Commerce\nElective III \nFinal Project \nIndustrial Training \nMobile Game Development II \nMPU1**\nNational Language/Other Language YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum Grade D.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Average of 70% in 6 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) Graphic Design and Multimedia",
+      "field_of_study": "Multimedia Design",
+      "location": "UTAR, Sungai Long",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum Grade D.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "UEC": "Grade B in 5 Subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "CPU": "Average of 70% in 6 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 48850
+      },
+      "course_content": {
+        "core": "YEAR 1 \nCo-Curriculum\nColour Studies \nCommunicative English \nComputer Graphic \nCreative Thinking and Idea Generation \nDigital Photography \nDrawing Techniques I\nDrawing Techniques II\nElective I \nFundamentals of Layout Design\nHistory of Art and Design I \nMPU1* \nMPU1** \nSun Zi's Art of War and Business Strategies \nTypography Studies \nVisual Communication \n\nYEAR 2 \nAnimation \nArt Law & Cyber Law\nDigital Imaging\nDigital Video & Audio Production \nElective II \nElective III \nElective Major I: Graphic Design/Graphic Design for Web\nElective Major II: Graphic Design/Graphic Design for Web\nElective Major III: Graphic Design/Graphic Design for Web\nHistory of Art and Design II \nIllustration \nNational Language / Other Language YEAR 1 YEAR 2 YEAR 3 \nDesign Reflective Practice \nDesign Research \nFinal Project \nIndustrial Training\nMotion Graphics YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum Grade D.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.7
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Average of 70% in 6 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.7
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Building and Property Management (Hons)",
+      "field_of_study": "Property & Real Estate",
+      "location": "UTAR, Sungai Long",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics and English language.  SPM-level or equivalent:\npass in Mathematics",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics",
+        "STPM": "2 Principal Passes with CGPA 2.0.  SPM-level or equivalent:\npass in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics",
+        "CPU": "Average of 70% in 6 subjects.  SPM-level or equivalent:\npass in Mathematics",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\npass in Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 48650
+      },
+      "course_content": {
+        "core": "YEAR 1 \nAccounting for Building Management \nApplied Valuation \nBuilding and Property Management \nBuilding Technology \nBusiness Law \nCo-Curriculum \nEconomics \nEnglish for Business \nMPU1* \nNational Language/Other Languages \nPrinciples and Practice of Town and Country Planning \nPrinciples of Valuation \nQuantitative Techniques I \nQuantitative Techniques II \nReal Estate Marketing \nSun Zi's Art of War and Business Strategies \n\nYEAR 2 \nAgency Law\nBuilding and Property Management\nBuilding Design, Maintainability and Performance\nBuilding Legislation\nBusiness and Society\nElective I\nElective II\nEnglish for Management\nInformation Technology for Management\nMPU1**\nProject Management\nReal Estate and Property Finance\nResearch Method\nStatutory Valuation and Taxation\nUrban and Real Estate Economics YEAR 1 YEAR 2 YEAR 3 \nElective III \nElective IV\nEthics and Professional Practice\nIndustrial Training\nLand Acquisition and Compensation\nMaintenance Management\nProject\nProperty Market Analysis\nSustainable Design and Operation YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics and English language.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes with CGPA 2.0.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Average of 70% in 6 subjects.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ]
+      }
+    }
+  ]
+}

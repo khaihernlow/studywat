@@ -1,0 +1,335 @@
+{
+  "institution_name": "YTL International College of Hotel Management",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Diploma in Culinary Arts",
+      "field_of_study": "Culinary Arts",
+      "location": "YTL International College, KL",
+      "intakes": [
+        "Apr",
+        "May",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "SPM with a minimum of 3 credits (including English) and a pass in Bahasa Melayu and History..",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 2950,
+        "tuition_fee": 38500
+      },
+      "course_content": {
+        "core": "Culinary Art Core\nAsia Cuisine\nBasic Pastry and Bakery\nBasic Western and Larder\nFood Safety and Sanitation\nFood Studies\nInternational Cuisine\nIntroduction to Halal Food Industry\nIntroduction to Hospitality, Evolutionary History and Current Trends\nMalaysian Cuisine\nMeat Identification and Fabrication\nWestern Cuisine\nFood Preparation and Production Culinary Art Core Experiential Learning\n• Community Services\n• Entrepreneurship Skills\n• Internship 1\n• Internship 2\n• Personal and Professional Development Experiential Learning Communication\n• Malaysian Studies 2 (Local Students)\n• Bahasa Kebangsaan A (International Students)\n• Business Etiquette Communication Management\n• Customer Experience Design – Global Trend\n• Food and Beverage Cost Control\n• Food and Beverage Operations (How to Become a Restaurateur)\n• Food and Beverage Value Creation\n• Kitchen Management\n• Nutrition: Healthy Cooking, Healthy Living Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "History"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM with a minimum of 3 credits (including English) and a pass in Bahasa Melayu and History.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Event Management",
+      "field_of_study": "Event Management",
+      "location": "YTL International College, KL",
+      "intakes": [
+        "Apr",
+        "May",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "SPM with a minimum of 3 credits (including English) and a pass in Bahasa Melayu and History..",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 2950,
+        "tuition_fee": 38500
+      },
+      "course_content": {
+        "core": "Event Core\n• Introduction to Hospitality, Evolutionary History\n  and Current Trends\n• Event Planning and Industry\n• Event Security and Facilities Services\n• Financial and Cost Accounting\n• Food Safety and Sanitation\n• Fund Raising and Event Sponsorship\n• MICE Management\n• Principles of Event Management\n• Wedding Planning Event Core Experiential Learning\n• Community Services\n• Entrepreneurship Skills\n• Food & Beverage Quality Operations\n• Internship 1\n• Internship 2\n• Personal and Professional Development\n• Room Division Operations and Personalize Guest\n  Relations\n• Sales Management for Events Experiential Learning Communication\n• Malaysian Studies 2 (Local Students)\n• Bahasa Kebangsaan A (International Students)\n• Business Etiquette Communication Management\n• Principles of Management\n• Customer Experience Design Profitable Customer\n  Journey Mapping & Business Growth Model\n• Dinning Room and Banquet Management\n• Event Risk Management\n• Financial Management\n• Introduction to Hospitality Law\n• Marketing for Recreation, Leisure, Event and\n  Tourism\n• Negotiation Skills\n• Principles of Marketing\n• Project Management for Events Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "History"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM with a minimum of 3 credits (including English) and a pass in Bahasa Melayu and History.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Hotel Management",
+      "field_of_study": "Hotel Management",
+      "location": "YTL International College, KL",
+      "intakes": [
+        "Apr",
+        "May",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "SPM with a minimum of 3 credits (including English) and a pass in Bahasa Melayu and History..",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 2950,
+        "tuition_fee": 38500
+      },
+      "course_content": {
+        "core": "Hospitality Core Introduction to Hospitality, Evolutionary History and Current Trends Beverage & Wine Studies Food and Beverage Service Operations and Standards Introduction to Halal Food Industry Kitchen Operations and Standards Monitoring Financial Performance in Hospitality Businesses Front Office Management Room Division Operation and Personalize Guest Relations Experiential Learning Community Services Entrepreneurship Skills Internship 1 Internship 2 Personal and Professional Development Restaurant Operations Services Standards and Systems Communication Bahasa Kebangsaan A (International Students) Business Etiquette Communications in Hospitality Businesses Malaysian Studies 2 (Local Students) Management Artificial Intelligence – Challenge and Business Opportunities Customer Experience Design Profitable Customer Journey Mapping & Business Growth Model Digital Marketing for Hoteliers Hospitality Operations Management Human Resource Development Introduction to Hospitality Law Managing Hospitality Facilities, Safety and Security Marketing and Sales in Hospitality Businesses Measuring Business Financial Performance",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM with a minimum of 3 credits (including English) and a pass in Bahasa Melayu and History.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Pastry & Bakery",
+      "field_of_study": "Culinary Arts",
+      "location": "YTL International College, KL",
+      "intakes": [
+        "Apr",
+        "May",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "SPM with a minimum of 3 credits (including English) and a pass in Bahasa Melayu and History..",
+        "O-Level": "Minimum of 3 credits (including English) and a pass in Bahasa Melayu and History..",
+        "UEC": "3Bs in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 2950,
+        "tuition_fee": 38500
+      },
+      "course_content": {
+        "core": "Pastry & Bakery Core • Introduction to Hospitality, Evolutionary History\n   and Current Trends\n• Baking Ingredient Studies 1\n• Baking Ingredient Studies 2\n• Biscuits and Cookies\n• Bread and Cake 1\n• Bread and Cake 2\n• Food Safety, Hygiene and Sanitation\n• Malaysian Pastry\n• Petit Fours\n• Plated Desserts\n• Sweetbreads\n• Tarts and Pastries Experiential Learning • Food and Beverage Operations\n• Community Services\n• Entrepreneurship Skills\n• Internship 1\n• Internship 2\n• Personal and Professional Development Communication • Bahasa Kebangsaan A (International Students)\n• Business Etiquette\n• Malaysian Studies 2 (Local Students) Management • Baking Technology\n• Customer Experience Design – Global Trend\n• Food and Beverage Value Creation\n• Introduction to Accounting\n• Nutrition: Healthy Cooking, Healthy Living\n• Principles of Management\n• Principles of Marketing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "History"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM with a minimum of 3 credits (including English) and a pass in Bahasa Melayu and History.."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "History"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of 3 credits (including English) and a pass in Bahasa Melayu and History.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3Bs in any subjects."
+          }
+        ]
+      }
+    }
+  ]
+}

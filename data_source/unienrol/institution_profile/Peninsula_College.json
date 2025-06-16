@@ -1,0 +1,2817 @@
+{
+  "institution_name": "Peninsula College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 19706,
+  "malaysia_rank": 124,
+  "programs": [
+    {
+      "program_name": "Certificate in Business Studies",
+      "field_of_study": "Business and Management",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 1 credit.",
+        "UEC": "Pass with 1 B6."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 8000,
+        "tuition_fee": 4800
+      },
+      "course_content": {
+        "core": "Year 1 English Language Proficiency\nIntroduction to Management\nBusiness Mathematics\nIntroduction to Accounting\nComputer Application\nPublic Speaking\nIntroduction to Marketing\nBusiness Statistics\nCosting\nManagement Information Systems\nHuman Resource Management\nIntroduction to Finance\nIntroduction to Economics\nEntrepreneurship\nBusiness Communication English Language Proficiency Introduction to Management Business Mathematics Introduction to Accounting Computer Application Public Speaking Introduction to Marketing Business Statistics Costing Management Information Systems Human Resource Management Introduction to Finance Introduction to Economics Entrepreneurship Business Communication Year 2 Integrity and Anti-corruption\nBahasa Kebangsaan A** / Communication Skills Integrity and Anti-corruption Bahasa Kebangsaan A** / Communication Skills  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 1 credit."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 1 B6."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Certificate in Business Studies",
+      "field_of_study": "Business and Management",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 1 credit."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 8350,
+        "tuition_fee": 6700
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Essential English Language Proficiency\nIntroduction to Marketing\nIntroduction to People Management\nIntroduction to Accounting\nDigital Literacy Skills Essential English Language Proficiency Introduction to Marketing Introduction to People Management Introduction to Accounting Digital Literacy Skills Semester 2 Essential Communication for Professionals\nIntroduction to Logistics & Supply Chain Management\nIntroduction to International Business\nIntroduction to Economics\nBasic Entrepreneurship Essential Communication for Professionals Introduction to Logistics & Supply Chain Management Introduction to International Business Introduction to Economics Basic Entrepreneurship Semester 3 Public Speaking\nIntroduction to Management\nBusiness Mathematics & Statistics\nIntroduction to Costing\nIntroduction to Digital Business Public Speaking Introduction to Management Business Mathematics & Statistics Introduction to Costing Introduction to Digital Business 4 Months Semester 4 Pengajian Malaysia 1\nKursus Integriti & Anti-Rasuah\nCommunication Skills\nBahasa Kebangsaan A Pengajian Malaysia 1 Kursus Integriti & Anti-Rasuah Communication Skills Bahasa Kebangsaan A",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Accounting & Finance (Accounting) (3+0) University of Plymouth, UK",
+      "field_of_study": "Accounting and Finance",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "BCC (UCAS Tariff 104-120).",
+        "UEC": "Pass with B6 in 5 subjects incl. credit in Mathematics and a pass in English or equivalent qualifications.",
+        "Diploma": "A Diploma in Accounting or related field, or its equivalent with a min. CGPA 2.50.  Credit in Mathematics and a pass in English at SPM level",
+        "STPM": "Pass with min. C+ (GP 2.33) in any 2 subjects and credit in Mathematics.  Credit in Mathematics and a pass in English at SPM level",
+        "Foundation": "min. CGPA 2.50.  Credit in Mathematics and a pass in English at SPM level"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6",
+        "CEFR": "B2",
+        "Others": "GCE-O 1119 - C"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 28300,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "Year 1 Principles of Economics and Finance Business Law Data Analytics for Business Decision Making Introduction to Accounting Year 2 Management Accounting Taxation Financial Accounting and Reporting Challenge Module Year 3 Business Research Investment Management Auditing Corporate Financial Management Credit Management: Theory and Practice Industrial Training Compulsory Subjects Bahasa Kebangsaan A** / Integrity and Anti-corruption Philosophy and Current Issues Community Service 2  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "BCC (UCAS Tariff 104-120)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with B6 in 5 subjects incl. credit in Mathematics and a pass in English or equivalent qualifications."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A Diploma in Accounting or related field, or its equivalent with a min. CGPA 2.50.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with min. C+ (GP 2.33) in any 2 subjects and credit in Mathematics.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. CGPA 2.50.  Credit in Mathematics and a pass in English at SPM level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Accounting & Financial Management Studies (3+0) University of Gloucestershire, UK",
+      "field_of_study": "Accounting and Finance",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of Grade C in any 2 subjects and a pass in Mathematics and English at SPM/O-Level.  Pass in Mathematics and English at SPM/O-Level",
+        "UEC": "Minimum of Grade B in 5 subjects including Mathematics and a pass in English.",
+        "Diploma": "Minimum CGPA 2.50.  Credit in Mathematics and a pass in English at SPM/O-Level",
+        "STPM": "Minimum of Grade C+ (GP 2.33) in any 2 subjects.  Credit in Mathematics and a pass in English at SPM/O-Level",
+        "Foundation": "Minimum CGPA 2.50.  Credit in Mathematics and a pass in English at SPM/O-Level"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 31200,
+        "tuition_fee": 32400
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Fundamentals of Accounting and Finance Fundamentals of Financial Accounting Fundamentals of Management Accounting Semester 2 Quantitative Techniques and Data Management Introduction to Law Introduction to Economics Semester 3 Business, Finance and Sustainability Academic, Personal and Professional Development Year 2 Semester 4 Financial Accounting Academic Writing for Non-Native Speakers Taxation Financial Markets Semester 5 Management Accounting Audit in Context Professional Development English for Academic Purpose 2 Semester 6 Entrepreneur / Bahasa Kebangsaan A Falsafah & Isu Semasa Community Service 2 Penghayatan Etika & Peradaban Kursus Integriti & Anti-Rasuah Year 3 Semester 7 Social and Environmental Accounting Advanced Financial Reporting Advanced Taxation Strategy in Action Semester 8 Advanced Audit Strategic Management Accounting Strategic Financial Management Corporate Accountability Semester 9 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C in any 2 subjects and a pass in Mathematics and English at SPM/O-Level.  Pass in Mathematics and English at SPM/O-Level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade B in 5 subjects including Mathematics and a pass in English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  Credit in Mathematics and a pass in English at SPM/O-Level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C+ (GP 2.33) in any 2 subjects.  Credit in Mathematics and a pass in English at SPM/O-Level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  Credit in Mathematics and a pass in English at SPM/O-Level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Business & Management Studies (3+0) University of Gloucestershire, UK",
+      "field_of_study": "Business and Management",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of Grade C in any 2 subjects.  Pass in Mathematics and English at SPM/O-Level",
+        "UEC": "Minimum of Grade B in 5 subjects including Mathematics and a pass in English.",
+        "Diploma": "Minimum CGPA 2.00.",
+        "STPM": "Minimum of Grade C (GP 2.00) in any 2 subjects.  Pass in Mathematics and English at SPM/O-Level",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 31200,
+        "tuition_fee": 32400
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 The Global Business Environment\nAcademic, Personal and Professional Development\nEnterprise and Innovation The Global Business Environment Academic, Personal and Professional Development Enterprise and Innovation Semester 2 Managing Finance\nLeadership and Management in an Organisational Context\nBusiness and the Legal System Managing Finance Leadership and Management in an Organisational Context Business and the Legal System Semester 3 Marketing Principles\nLive Management Enquiry Project Marketing Principles Live Management Enquiry Project Year 2 Semester 4 Managing International Business\nE-Business Concepts and Practice\nMarketing Management\nAccounting and Finance for Decision Makers Managing International Business E-Business Concepts and Practice Marketing Management Accounting and Finance for Decision Makers Semester 5 Applied Management Skills\nLogistics Planning\nCreating and Delivering Operational Plans\nManaging Projects to Achieve Results Applied Management Skills Logistics Planning Creating and Delivering Operational Plans Managing Projects to Achieve Results Semester 6 Entrepreneurship / Bahasa Kebangsaan A\nFalsafah & Isu Semasa\nCommunity Service 2\nPenghayatan Etika & Peradaban\nKursus Integriti & Anti-Rasuah Entrepreneurship / Bahasa Kebangsaan A Falsafah & Isu Semasa Community Service 2 Penghayatan Etika & Peradaban Kursus Integriti & Anti-Rasuah Year 3 Semester 7 Strategic Business and Management\nManaging Operations Globally\nStrategic Management of People and Change\nStrategic Marketing Strategic Business and Management Managing Operations Globally Strategic Management of People and Change Strategic Marketing Semester 8 Sustainability and Globally Responsible Leadership\nInvestigative Studies\nLeadership and Management in Global Contexts\nCorporate Accountability Sustainability and Globally Responsible Leadership Investigative Studies Leadership and Management in Global Contexts Corporate Accountability Semester 9 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C in any 2 subjects.  Pass in Mathematics and English at SPM/O-Level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade B in 5 subjects including Mathematics and a pass in English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C (GP 2.00) in any 2 subjects.  Pass in Mathematics and English at SPM/O-Level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Business Management (3+0) University of Plymouth, UK",
+      "field_of_study": "Business and Management",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BCC (UCAS Tariff 104-120).",
+        "UEC": "Pass with B6 in 5 subjects incl. pass in Mathematics and English.",
+        "Diploma": "A Diploma (Level 4, MQF) with at least CGPA of 2.00.",
+        "STPM": "Pass with C (CGPA 2.00) in any 2 subjects.  Pass in Mathematics and English at SPM level",
+        "Foundation": "min. CGPA 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6",
+        "Others": "GCE-O 1119 - C"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 27000,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "Year 1 Developing Management and Leadership Competencies\nBusiness and Management External Environment\nMarketing, Enterprise and the Digital Economy\nBusiness and Management Internal Setting Developing Management and Leadership Competencies Business and Management External Environment Marketing, Enterprise and the Digital Economy Business and Management Internal Setting Year 2 Project Management\nManaging People, Productivity and Operations\nChallenge Module\nEconomic and Financial Data for Business Decision Making Project Management Managing People, Productivity and Operations Challenge Module Economic and Financial Data for Business Decision Making Year 3 Strategy and Leadership\nResponsible Global Enterprise\nEnterprise, Innovation and Creativity\nBusiness Consultancy\nHonours Project Strategy and Leadership Responsible Global Enterprise Enterprise, Innovation and Creativity Business Consultancy Honours Project Compulsory Subjects Creative Problem Solving / Bahasa Kebangsaan A**\nPhilosophy and Current Issues\nIntegrity and Anti-corruption / Sustainability Awareness in Malaysia\nCommunity Service 2 Creative Problem Solving / Bahasa Kebangsaan A** Philosophy and Current Issues Integrity and Anti-corruption / Sustainability Awareness in Malaysia Community Service 2  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "BCC (UCAS Tariff 104-120)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with B6 in 5 subjects incl. pass in Mathematics and English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "A Diploma (Level 4, MQF) with at least CGPA of 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with C (CGPA 2.00) in any 2 subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "min. CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Business & Management Studies (Digital Business) (3+0) University of Gloucestershire, UK",
+      "field_of_study": "Business and Management",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of Grade C in any 2 subjects and a pass in Mathematics and English at SPM/O-Level.  Pass in Mathematics and English at SPM/O-Level",
+        "UEC": "Minimum of Grade B in 5 subjects including Mathematics and a pass in English.",
+        "Diploma": "Minimum CGPA 2.00.",
+        "STPM": "Minimum of Grade C (GP 2.00) in any 2 subjects.  Pass in Mathematics and English at SPM/O-Level",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1600,
+        "resource_fee": 30600,
+        "tuition_fee": 32400
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 The Global Business Environment\nAcademic, Personal and Professional Development\nEnterprise and Innovation The Global Business Environment Academic, Personal and Professional Development Enterprise and Innovation Semester 2 Managing Finance\nLeadership and Management in an Organisational Context\nBusiness and the Legal System Managing Finance Leadership and Management in an Organisational Context Business and the Legal System Semester 3 Marketing Principles\nLive Management Enquiry Project Marketing Principles Live Management Enquiry Project Year 2 Semester 4 Employability & Entrepreneurship\nE-Business Concepts and Practice\nDigital Marketing: Fundamentals\nAccounting and Finance for Decision Makers Employability & Entrepreneurship E-Business Concepts and Practice Digital Marketing: Fundamentals Accounting and Finance for Decision Makers Semester 5 Applied Management Skills\nDigital Marketing: Strategy\nCreating and Delivering Operational Plans\nManaging Projects to Achieve Results Applied Management Skills Digital Marketing: Strategy Creating and Delivering Operational Plans Managing Projects to Achieve Results Semester 6 Entrepreneurship / Bahasa Kebangsaan A\nFalsafah & Isu Semasa\nCommunity Service 2\nPenghayatan Etika & Peradaban\nKursus Integriti & Anti-Rasuah Entrepreneurship / Bahasa Kebangsaan A Falsafah & Isu Semasa Community Service 2 Penghayatan Etika & Peradaban Kursus Integriti & Anti-Rasuah Year 3 Semester 7 Strategic Business and Management\nDigital Business & Cyber Security\nStrategic Management of People and Change\nStrategic Marketing Strategic Business and Management Digital Business & Cyber Security Strategic Management of People and Change Strategic Marketing Semester 8 Sustainability and Globally Responsible Leadership\nLeadership and Management in Global Contexts\nCapstone Business Project Sustainability and Globally Responsible Leadership Leadership and Management in Global Contexts Capstone Business Project Semester 9 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C in any 2 subjects and a pass in Mathematics and English at SPM/O-Level.  Pass in Mathematics and English at SPM/O-Level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade B in 5 subjects including Mathematics and a pass in English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C (GP 2.00) in any 2 subjects.  Pass in Mathematics and English at SPM/O-Level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Computer Science (Cyber Security) (3+0) University of Plymouth, UK",
+      "field_of_study": "Computer Science",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "BCC (UCAS Tariff 104-120).",
+        "UEC": "Pass with B6 in 5 subjects incl. Add Maths & Pass in English and equivalent qualification.",
+        "Diploma": "Diploma in Computing fields or its equivalent with a minimum CGPA of 2.50.  Any Diploma in Science and Technology with a minimum CGPA of 2.75, and Add Maths at SPM level",
+        "STPM": "[Science Stream] Pass with a minimum Grade of C (GP 2.00) in Mathematics subject and ONE (1) Science / ICT subject.  [Arts Stream] \nPass with C (CGPA 2.0) in any 2 subjects\nCredit in Add Maths at SPM level",
+        "Foundation": "min. CGPA 2.00.  Credit in Add Maths at SPM level"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6",
+        "Others": "GCE-O 1119 - C"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 41350,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "Year 1 Software Engineering 1\nComputer Systems\nComputing Practice 1\nCyber Security & Networks\nAlgorithms, Data Structures & Mathematics\nComputing Practice 2 Software Engineering 1 Computer Systems Computing Practice 1 Cyber Security & Networks Algorithms, Data Structures & Mathematics Computing Practice 2 Year 2 Software Engineering 2\nInformation Management & Retrieval\nComputing Group Project 1\nArtificial Intelligence\nSecurity Architectures & Cryptography\nComputing Group Project 2 Software Engineering 2 Information Management & Retrieval Computing Group Project 1 Artificial Intelligence Security Architectures & Cryptography Computing Group Project 2 Year 3 Information Security Management and Governance\nSecurity Operations and Incident Management\nComputing Project\nEthical Hacking\nDigital Forensics and Malware Analysis\nIndustrial Training Information Security Management and Governance Security Operations and Incident Management Computing Project Ethical Hacking Digital Forensics and Malware Analysis Industrial Training Compulsory Subjects Philosophy and Current Issues\nCreative Problem Solving / Bahasa Kebangsaan A**\nIntegrity and Anti-Corruption / Sustainability Awareness in Malaysia\nCommunity Services 2 Philosophy and Current Issues Creative Problem Solving / Bahasa Kebangsaan A** Integrity and Anti-Corruption / Sustainability Awareness in Malaysia Community Services 2  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "BCC (UCAS Tariff 104-120)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Add Maths",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with B6 in 5 subjects incl. Add Maths & Pass in English and equivalent qualification."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Add Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Computing fields or its equivalent with a minimum CGPA of 2.50.  Any Diploma in Science and Technology with a minimum CGPA of 2.75, and Add Maths at SPM level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Add Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Science Stream] Pass with a minimum Grade of C (GP 2.00) in Mathematics subject and ONE (1) Science / ICT subject.  [Arts Stream] \nPass with C (CGPA 2.0) in any 2 subjects\nCredit in Add Maths at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Add Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. CGPA 2.00.  Credit in Add Maths at SPM level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Computer Science (2+0) University of Gloucestershire, UK",
+      "field_of_study": "Computer Science",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of Grade C in any 2 subjects and a pass in Mathematics and English at SPM/O-Level.  Pass in Mathematics and English at SPM/O-Level",
+        "UEC": "Minimum of Grade B in 5 subjects including Mathematics and a pass in English.",
+        "Diploma": "Minimum CGPA 2.51.  Credit in Mathematics and a pass in English at SPM/O-Level",
+        "STPM": "Minimum of Grade C (GP 2.00) in any 2 subjects.  Credit in Mathematics and a pass in English at SPM/O-Level",
+        "Foundation": "Minimum CGPA 2.00.  Credit in Mathematics and a pass in English at SPM/O-Level"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1400,
+        "resource_fee": 20400,
+        "tuition_fee": 21600
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Computers and Security Principles of Programming Object-Oriented Programming and Software Design Semester 2 Maths for Data Science Computational Maths Semester 3 Systems Design Web Development Year 2 Semester 4 Agile Methods Operating Systems Artificial Intelligence Semester 5 Algorithms & Data Structures IoT Development Data Analytics Cyber Human Factors Semester 6 Entrepreneur / Bahasa Kebangsaan A Falsafah & Isu Semasa Community Service 2 Penghayatan Etika & Peradaban Kursus Integriti & Anti-Rasuah Year 3 Semester 7 Cloud Computing Distributed Database Management and Data Warehousing Secure Coding Semester 8 Managing Information Systems Change Dissertation (Project) Big Data Analytics Semester 9 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C in any 2 subjects and a pass in Mathematics and English at SPM/O-Level.  Pass in Mathematics and English at SPM/O-Level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade B in 5 subjects including Mathematics and a pass in English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.51
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.51.  Credit in Mathematics and a pass in English at SPM/O-Level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C (GP 2.00) in any 2 subjects.  Credit in Mathematics and a pass in English at SPM/O-Level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Credit in Mathematics and a pass in English at SPM/O-Level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Maritime Business (Logistics) (3+0) University of Plymouth, UK",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BCC (UCAS Tariff 104-120).",
+        "UEC": "Pass with B6 in 5 subjects incl. pass in Mathematics and English.",
+        "Diploma": "A Diploma (Level 4, MQF) with at least CGPA of 2.0.",
+        "STPM": "Pass with C (CGPA 2.00) in any 2 subjects.  Pass in Mathematics and English at SPM level",
+        "Foundation": "min. CGPA 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6",
+        "Others": "GCE-O 1119 - C"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 27000,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "Year 1 Business and Management External Environment Introduction to Shipping Business and Law Business and Management Internal Setting Transport and Logistics Year 2 Maritime Economics and International Trade International Logistics Management Maritime Management and Operations Challenge Module Year 3 Ports and Intermodalism Managerial Accounting and Shipping Finance Strategic Maritime Management Supply Chain Resilience and Risk Security Honours Project Compulsory Subjects Penghayatan Etika dan Peradaban / Bahasa Melayu Komunikasi 2* Creative Problem Solving / Bahasa Kebangsaan A** Philosophy and Current Issues Community Service 2 Integrity and Anti-corruption / Sustainability Awareness in Malaysia  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "BCC (UCAS Tariff 104-120)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with B6 in 5 subjects incl. pass in Mathematics and English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "A Diploma (Level 4, MQF) with at least CGPA of 2.0."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with C (CGPA 2.00) in any 2 subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "min. CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Logistics Management (3+0) University of Gloucestershire, UK",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of Grade C in any 2 subjects and a pass in Mathematics and English at SPM/O-Level.  Pass in Mathematics and English at SPM/O-Level",
+        "UEC": "Minimum of Grade B in 5 subjects including Mathematics and a pass in English.",
+        "Diploma": "Minimum CGPA 2.00.",
+        "STPM": "Minimum of Grade C (GP 2.00) in any 2 subjects.  Pass in Mathematics and English at SPM/O-Level",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 31200,
+        "tuition_fee": 32400
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 The Global Business Environment\nAcademic, Personal and Professional Development\nIntroduction to Logistics & Operation Management The Global Business Environment Academic, Personal and Professional Development Introduction to Logistics & Operation Management Semester 2 Fundamental of Logistics Management (Transport)\nBusiness and the Legal System Fundamental of Logistics Management (Transport) Business and the Legal System Semester 3 Marketing Principles\nLive Management Enquiry Project Marketing Principles Live Management Enquiry Project Year 2 Semester 4 Managing International Business\nE-business Concepts and Practices\nInternational Sourcing Managing International Business E-business Concepts and Practices International Sourcing Semester 5 Design & Operation of Logistics Systems\nLogistics Planning\nCreating and Delivering Operational Plans\nManaging Projects to Achieve Results Design & Operation of Logistics Systems Logistics Planning Creating and Delivering Operational Plans Managing Projects to Achieve Results Semester 6 Entrepreneur / Bahasa Kebangsaan A\nFalsafah & Isu Semasa\nCommunity Service 2\nPenghayatan Etika & Peradaban\nKursus Integriti & Anti-Rasuah Entrepreneur / Bahasa Kebangsaan A Falsafah & Isu Semasa Community Service 2 Penghayatan Etika & Peradaban Kursus Integriti & Anti-Rasuah Year 3 Semester 7 Strategic Business and Management\nLogistics Business Analytics\nManaging Supply Chain Strategic Business and Management Logistics Business Analytics Managing Supply Chain Semester 8 Green Logistics\nInvestigative Studies\nLeadership and Management in Global Contexts\nManagement Consultancy Green Logistics Investigative Studies Leadership and Management in Global Contexts Management Consultancy Semester 9 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C in any 2 subjects and a pass in Mathematics and English at SPM/O-Level.  Pass in Mathematics and English at SPM/O-Level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade B in 5 subjects including Mathematics and a pass in English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C (GP 2.00) in any 2 subjects.  Pass in Mathematics and English at SPM/O-Level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Computer Science (Software Engineering) (3+0) University of Plymouth, UK",
+      "field_of_study": "Software Engineering",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "BCC (UCAS Tariff 104-120).",
+        "UEC": "Pass with B6 in 5 subjects incl. Add Maths & pass in English.",
+        "Diploma": "Diploma in Computing fields or its equivalent with a minimum CGPA of 2.51.  Any Diploma in Science and Technology with a minimum CGPA of 2.75, and Add Maths at SPM level",
+        "STPM": "[Science Stream] Pass with a minimum Grade of C (GP 2.00) in Mathematics subject and ONE (1) Science / ICT subject.  [Arts Stream] \nPass with C (CGPA 2.0) in any 2 subjects\nCredit in Add Maths at SPM level",
+        "Foundation": "min. CGPA 2.00.  Credit in Add Maths at SPM level"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6",
+        "Others": "GCE-O 1119 - C"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 41350,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "Year 1 Software Engineering 1 Computer Systems Computing Practice 1 Cyber Security & Networks Algorithms, Data Structures & Mathematics Computing Practice 2 Year 2 Software Engineering 2 Information Management & Retrieval Computing Group Project 1 Artificial Intelligence Security Development Tools and Practices Computing Group Project 2 Year 3 Computing Project Management Full Stack Development Computing Project HCI, Usability & Visualisation Big Data Analytics Industrial Training Compulsory Subjects Penghayatan Etika dan Peradaban / Bahasa Melayu Komunikasi 2* Philosophy and Current Issues Creative Problem Solving / Bahasa Kebangsaan A** Integrity and Anti-Corruption / Sustainability Awareness in Malaysia Community Services 2  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "BCC (UCAS Tariff 104-120)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Add Maths"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with B6 in 5 subjects incl. Add Maths & pass in English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.51
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Add Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Computing fields or its equivalent with a minimum CGPA of 2.51.  Any Diploma in Science and Technology with a minimum CGPA of 2.75, and Add Maths at SPM level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "ICT"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Add Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Science Stream] Pass with a minimum Grade of C (GP 2.00) in Mathematics subject and ONE (1) Science / ICT subject.  [Arts Stream] \nPass with C (CGPA 2.0) in any 2 subjects\nCredit in Add Maths at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Add Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. CGPA 2.00.  Credit in Add Maths at SPM level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma of Accountancy",
+      "field_of_study": "Accounting",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits inclusive of Mathematics and pass in English.",
+        "UEC": "Pass with 3 B6 inclusive of Mathematics and pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 12000,
+        "tuition_fee": 12000
+      },
+      "course_content": {
+        "core": "Year 1 English Language Proficiency Introduction to Information Technology and Applications Business Mathematics Introduction to Economics Business Economics Introduction to Accounting Introduction to Management Quantitative Methods Integrity and Anti-corruption Business Communication Financial Accounting Cost Accounting Business Finance Bahasa Kebangsaan A** / Public Speaking Year 2 Business Law Financial Management Human Resource Management Management Accounting Computerised Accounting Taxation I Auditing Financial Reporting I Company Law Management Information System Taxation II Personal Financial Planning Financial Reporting II Entrepreneurship Community Service 1  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits inclusive of Mathematics and pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 B6 inclusive of Mathematics and pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma of Accountancy",
+      "field_of_study": "Accounting",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 3 credits, including Mathematics, and a pass in English.",
+        "O-Level": "Minimum 3 Cs, including Mathematics, and a pass in English.",
+        "UEC": "Minimum 3 Bs6, including Mathematics, and a pass in English.",
+        "STPM": "Minimum of Grade C (GP 2.0) in any subject.  Credit in Mathematics, and a pass in English at SPM/O-Level"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 15200,
+        "tuition_fee": 13200
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 English Language Proficiency\nPrinciples of Accounting\nDigital Literacy Skills\nBusiness Mathematics & Statistics\nPenghayatan Etika & Peradaban English Language Proficiency Principles of Accounting Digital Literacy Skills Business Mathematics & Statistics Penghayatan Etika & Peradaban Semester 2 Public Speaking / Bahasa Kebangsaan A\nCommunication for Professionals\nPractical Costing Techniques\nPrinciples of Economics\nPrinciples of Taxation Public Speaking / Bahasa Kebangsaan A Communication for Professionals Practical Costing Techniques Principles of Economics Principles of Taxation Semester 3 Financial Accounting\nPrinciples of Finance\nAccounting Information System\nPrinciples of Management\nPrinciples of Audit Financial Accounting Principles of Finance Accounting Information System Principles of Management Principles of Audit Year 2 Semester 4 Malaysian Taxation\nProfessional Ethics and Governance\nBusiness Analytics\nManaging People and Performance\nEntrepreneurship Malaysian Taxation Professional Ethics and Governance Business Analytics Managing People and Performance Entrepreneurship Semester 5 Legal Principles in Business\nFinancial Reporting\nAudit and Assurance\nCommunity Service 1\nIntroduction to Fintech Legal Principles in Business Financial Reporting Audit and Assurance Community Service 1 Introduction to Fintech Semester 6 Kursus Integriti & Anti-Rasuah\nManagement Accounting\nFinancial Management\nStrategic Management Kursus Integriti & Anti-Rasuah Management Accounting Financial Management Strategic Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 credits, including Mathematics, and a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 Cs, including Mathematics, and a pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 Bs6, including Mathematics, and a pass in English."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C (GP 2.0) in any subject.  Credit in Mathematics, and a pass in English at SPM/O-Level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in E-Business Technology",
+      "field_of_study": "Business and Management",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits inclusive of Mathematics and pass in English.",
+        "UEC": "Pass with 3 B6 inclusive of Mathematics and pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 12000,
+        "tuition_fee": 12000
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Business\nIntroduction to Information Technology and Applications\nIntroduction to Management\nEnglish Language Proficiency\nIntroduction to Accounting\nBusiness Statistics\nPrinciples of Marketing\nPrinciples of Economics\nMultimedia Principles\nBusiness Communication\nOrganisational Behaviour\nBusiness Finance\nFundamentals of Programming\nBahasa Kebangsaan A** / Public Speaking Introduction to Business Introduction to Information Technology and Applications Introduction to Management English Language Proficiency Introduction to Accounting Business Statistics Principles of Marketing Principles of Economics Multimedia Principles Business Communication Organisational Behaviour Business Finance Fundamentals of Programming Bahasa Kebangsaan A** / Public Speaking Year 2 Database Management System\nHuman Resource Management\nVisual Programming\nIntroduction to Networking\nEntrepreneurship\nBusiness Law\nProject Management\nSystem Analysis & Design\nWeb Development\nIntegrity and Anti-corruption\nInternational Business\nE-Business\nManagement Information System\nProject\nCommunity Service 1 Database Management System Human Resource Management Visual Programming Introduction to Networking Entrepreneurship Business Law Project Management System Analysis & Design Web Development Integrity and Anti-corruption International Business E-Business Management Information System Project Community Service 1  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits inclusive of Mathematics and pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 B6 inclusive of Mathematics and pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in E-Business Technology",
+      "field_of_study": "Business and Management",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 3 credits.",
+        "O-Level": "Minimum 3Cs.",
+        "UEC": "Minimum 3Bs.",
+        "STPM": "Minimum of Grade C (GP 2.0) in any subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 15200,
+        "tuition_fee": 13200
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Introduction to Business\nDigital Literacy Skills\nPrinciples of Management\nAcademic Discourse\nPenghayatan Etika dan Peradaban Introduction to Business Digital Literacy Skills Principles of Management Academic Discourse Penghayatan Etika dan Peradaban Semester 2 Business Mathematics & Statistics\nPrinciples of Marketing\nPrinciples of Economics\nMultimedia Application\nPublic Speaking / Bahasa Kebangsaan A Business Mathematics & Statistics Principles of Marketing Principles of Economics Multimedia Application Public Speaking / Bahasa Kebangsaan A Semester 3 Principles of Accounting\nCommunication for Professionals\nStrategic Management\nPrinciples of Finance\nLow Code App Development Principles of Accounting Communication for Professionals Strategic Management Principles of Finance Low Code App Development Year 2 Semester 4 Database Management System\nManaging People & Performance\nDigital Marketing Strategy\nPractical Costing Techniques\nKursus Integriti & Anti-Rasuah Database Management System Managing People & Performance Digital Marketing Strategy Practical Costing Techniques Kursus Integriti & Anti-Rasuah Semester 5 Introduction to Logistics & Supply Chain Management\nFundamentals of Technology Management\nProject Management\nWeb Development Introduction to Logistics & Supply Chain Management Fundamentals of Technology Management Project Management Web Development Semester 6 International Business\nDigital Business & Cybersecurity\nEntrepreneurship\nBusiness Analytics\nCommunity Service 1 International Business Digital Business & Cybersecurity Entrepreneurship Business Analytics Community Service 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Studies",
+      "field_of_study": "Business and Management",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits.",
+        "UEC": "Pass with 3 B6."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 12000,
+        "tuition_fee": 12000
+      },
+      "course_content": {
+        "core": "Year 1 English Language Proficiency\nBusiness Mathematics\nIntroduction to Economics\nIntroduction to Information Technology and Applications\nIntroduction to Accounting\nIntroduction to Management\nIntroduction to Marketing\nIntegrity and Anti-corruption\nQuantitative Methods\nBusiness Communication\nBahasa Kebangsaan A** / Public Speaking\nBusiness Economics\nOrganisational Behaviour\nFinancial Accounting English Language Proficiency Business Mathematics Introduction to Economics Introduction to Information Technology and Applications Introduction to Accounting Introduction to Management Introduction to Marketing Integrity and Anti-corruption Quantitative Methods Business Communication Bahasa Kebangsaan A** / Public Speaking Business Economics Organisational Behaviour Financial Accounting Financial Accounting  Year 2 Personal Development Skills\nBusiness Law\nHuman Resource Management\nBusiness Finance\nOperations Management\nTaxation 1\nE-Business\nConsumer Behaviour\nBusiness Planning\nLeadership\nEntrepreneurship\nManagement Information System\nBusiness Ethics\nInternational Business\nCommunity Service 1 Personal Development Skills Business Law Human Resource Management Business Finance Operations Management Taxation 1 E-Business Consumer Behaviour Business Planning Leadership Entrepreneurship Management Information System Business Ethics International Business Community Service 1  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 B6."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Studies",
+      "field_of_study": "Business and Management",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 3 credits.",
+        "O-Level": "Minimum 3 Cs.",
+        "UEC": "Minimum 3 Bs6.",
+        "STPM": "Minimum of Grade C (GP 2.0) in any subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 15200,
+        "tuition_fee": 13200
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Design Thinking\nPrinciples of Marketing\nPrinciples of Economics\nPublic Speaking / Bahasa Kebangsaan A\nDigital Literacy Skills Design Thinking Principles of Marketing Principles of Economics Public Speaking / Bahasa Kebangsaan A Digital Literacy Skills Semester 2 Strategic Management\nEnglish Language Proficiency\nPractical Costing Techniques\nKursus Integriti & Anti-Rasuah\nLegal Principles in Business Strategic Management English Language Proficiency Practical Costing Techniques Kursus Integriti & Anti-Rasuah Legal Principles in Business Semester 3 Principles of Management\nCommunication for Professionals\nPrinciples of Accounting\nPenghayatan Etika & Peradaban Principles of Management Communication for Professionals Principles of Accounting Penghayatan Etika & Peradaban Year 2 Semester 4 Project Management\nBusiness Mathematics & Statistics\nDigital Marketing Strategy\nProcurement Management\nCommunity Service 1 Project Management Business Mathematics & Statistics Digital Marketing Strategy Procurement Management Community Service 1 Semester 5 Principles of Finance\nDigital Business & Cybersecurity\nLeadership Theory & Practice\nEntrepreneurship\nIntroduction to Logistics & Supply Chain Management Principles of Finance Digital Business & Cybersecurity Leadership Theory & Practice Entrepreneurship Introduction to Logistics & Supply Chain Management Semester 6 Managing People & Performance\nBusiness Analytics\nInternational Business\nFundamental of Technology Management\nProfessional Ethics & Governance Managing People & Performance Business Analytics International Business Fundamental of Technology Management Professional Ethics & Governance",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science",
+      "field_of_study": "Computer Science",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits inclusive of Mathematics and pass in English.",
+        "UEC": "Pass with 3 B6 inclusive of Mathematics and pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 15000,
+        "tuition_fee": 15000
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Information Technology and Applications\nDiscrete Mathematics\nIntroduction to Networking\nProblem Solving in Computing\nIntroduction to Computer Architecture\nCalculus and Algebra\nBusiness Communication\nNetwork Technology\nFundamentals of Programming\nNetwork Security\nEnglish Language Proficiency\nOperating Systems\nData Structures and Algorithms\nBahasa Kebangsaan A** / Public Speaking Introduction to Information Technology and Applications Discrete Mathematics Introduction to Networking Problem Solving in Computing Introduction to Computer Architecture Calculus and Algebra Business Communication Network Technology Fundamentals of Programming Network Security English Language Proficiency Operating Systems Data Structures and Algorithms Bahasa Kebangsaan A** / Public Speaking Year 2 Object-Oriented Programming\nCryptography\nIntegrity and Anti-Corruption\nSystem Analysis and Design\nDatabase Management System\nSecurity Management\nInternet Development\nEthical Hacking and Intrusion Prevention\nCyber Law\nCommunity Service 1\nElective (1)\nElective (2)\nElective (3) Object-Oriented Programming Cryptography Integrity and Anti-Corruption System Analysis and Design Database Management System Security Management Internet Development Ethical Hacking and Intrusion Prevention Cyber Law Community Service 1 Elective (1) Elective (2) Elective (3) Year 3 Industrial Training (4 months)  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits inclusive of Mathematics and pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 B6 inclusive of Mathematics and pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science",
+      "field_of_study": "Computer Science",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Minimum 3 credits including Mathematics.",
+        "O-Level": "Minimum 3Cs including Mathematics.",
+        "UEC": "Minimum 3Bs including Mathematics.",
+        "STPM": "Minimum of Grade C (GP 2.0) in any subject.  Credit in Mathematics at SPM/O-Level"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 15200,
+        "tuition_fee": 14200
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Public Speaking / Bahasa Kebangsaan A\nDigital Literacy Skills\nOperating System\nProgramming Concept & Problem Solving in Computing\nCalculus & Algebra Public Speaking / Bahasa Kebangsaan A Digital Literacy Skills Operating System Programming Concept & Problem Solving in Computing Calculus & Algebra Semester 2 English Language Proficiency\nProgramming for Data Science Using Python\nData Structure & Algorithm\nIntroduction to Network Technology English Language Proficiency Programming for Data Science Using Python Data Structure & Algorithm Introduction to Network Technology Year 2 Semester 3 Communication for Professionals\nPenghayatan Etika & Peradaban\nIntroduction to Computer Architecture\nSystem Analysis & Design\nDiscrete Mathematics\nBusiness Statistics Communication for Professionals Penghayatan Etika & Peradaban Introduction to Computer Architecture System Analysis & Design Discrete Mathematics Business Statistics Semester 4 User Experience\nObject-Oriented Programming Using Java\nVisual Programming\nCyber Security User Experience Object-Oriented Programming Using Java Visual Programming Cyber Security Year 3 Semester 5 Kursus Integriti & Anti-Rasuah\nDatabase Management System\nProject\nCloud Computing Kursus Integriti & Anti-Rasuah Database Management System Project Cloud Computing Semester 6 Community Service 1\nBusiness Analytics\nArtificial Intelligence\nLow Code App Development\nWeb Development Community Service 1 Business Analytics Artificial Intelligence Low Code App Development Web Development Year 4 Semester 7 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3Cs including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3Bs including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C (GP 2.0) in any subject.  Credit in Mathematics at SPM/O-Level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Electical and Electronics Engineering Technology",
+      "field_of_study": "Electrical & Electronic Engineering",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits inclusive of Mathematics and one relevant Science subject and pass in English.",
+        "UEC": "Pass with 3 B6 inclusive of Mathematics and one relevant Science subject and pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 16200,
+        "tuition_fee": 15000
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Computer Programming\nEngineering Materials\nFundamental Mathematics\nCircuit Theory I\nEnglish Language Proficiency\nIntegrity and Anti-Corruption\nEngineering Science\nInstrumentation & Measurement\nAnalogue Electronics\nMathematics 1\nCircuit Theory II\nBahasa Kebangsaan A** / Public Speaking\nIntroduction to Microcontroller\nEngineering CAD Introduction to Computer Programming Engineering Materials Fundamental Mathematics Circuit Theory I English Language Proficiency Integrity and Anti-Corruption Engineering Science Instrumentation & Measurement Analogue Electronics Mathematics 1 Circuit Theory II Bahasa Kebangsaan A** / Public Speaking Introduction to Microcontroller Engineering CAD Year 2 Mathematics 2\nDigital Electronics\nIntroduction to Control System\nCommunication System\nIntroduction to IC Layout\nPower System\nIntroduction to Robotics\nIntroduction to PLC\nElectrical Machine Fundamentals\nPower Electronics\nProject 1\nCommunity Service 1\nIntroduction to Industrial Revolution 4.0\nOccupational Safety and Health for Engineering\nProject 2 Mathematics 2 Digital Electronics Introduction to Control System Communication System Introduction to IC Layout Power System Introduction to Robotics Introduction to PLC Electrical Machine Fundamentals Power Electronics Project 1 Community Service 1 Introduction to Industrial Revolution 4.0 Occupational Safety and Health for Engineering Project 2 Year 3 Industrial training (3 months) Industrial training (3 months)  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant Science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits inclusive of Mathematics and one relevant Science subject and pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant Science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 B6 inclusive of Mathematics and one relevant Science subject and pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Logistics Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits.",
+        "UEC": "Pass with 3 B6."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 12000,
+        "tuition_fee": 12000
+      },
+      "course_content": {
+        "core": "Year 1 English Language Proficiency\nBusiness Mathematics\nIntroduction to Economics\nIntroduction to Information Technology and Applications\nIntroduction to Accounting\nIntroduction to Management\nIntroduction to Marketing\nIntroduction to Logistics Management\nIntegrity and Anti-corruption\nBusiness Communication\nFundamentals of Transport\nLogistics Distribution Management\nProcurement Management\nBahasa Kebangsaan A** / Public Speaking English Language Proficiency Business Mathematics Introduction to Economics Introduction to Information Technology and Applications Introduction to Accounting Introduction to Management Introduction to Marketing Introduction to Logistics Management Integrity and Anti-corruption Business Communication Fundamentals of Transport Logistics Distribution Management Procurement Management Bahasa Kebangsaan A** / Public Speaking Year 2 Managing Transport Operation\nHuman Resource Management\nInventory & Warehouse Management\nCustom and Excise\nMovement of Goods\nBusiness Law\nLogistics Project Management\nGlobal Commercial Shipping\nTransportation Policy\nLogistics Business Strategy and Planning\nEntrepreneurship\nCost Accounting\nInformation Technology in Logistics\nCommunity Service 1 Managing Transport Operation Human Resource Management Inventory & Warehouse Management Custom and Excise Movement of Goods Business Law Logistics Project Management Global Commercial Shipping Transportation Policy Logistics Business Strategy and Planning Entrepreneurship Cost Accounting Information Technology in Logistics Community Service 1  **For individuals who did not meet the minimum grade C in their SPM results or hold equivalent qualifications from other examinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Logistics Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 3 credits.",
+        "O-Level": "Minimum 3 Cs.",
+        "UEC": "Minimum 3 Bs6.",
+        "STPM": "Minimum of Grade C (GP 2.0) in any subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 15200,
+        "tuition_fee": 13200
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Introduction to Logistics & Supply Chain Management\nTransport and Freight Logistics\nDigital Literacy Skills\nPublic Speaking / Bahasa Kebangsaan A Introduction to Logistics & Supply Chain Management Transport and Freight Logistics Digital Literacy Skills Public Speaking / Bahasa Kebangsaan A Semester 2 Warehouse & Inventory Management\nBusiness Mathematics & Statistics\nManaging Transport Operations\nCommunication for Professionals\nKursus Integriti & Anti-Rasuah Warehouse & Inventory Management Business Mathematics & Statistics Managing Transport Operations Communication for Professionals Kursus Integriti & Anti-Rasuah Year 2 Semester 3 Business Analytics\nPrinciples of Accounting\nPrinciples of Management\nEnglish Language Proficiency\nPenghayatan Etika & Peradaban Business Analytics Principles of Accounting Principles of Management English Language Proficiency Penghayatan Etika & Peradaban Semester 4 Logistics Business Strategy & Planning\nCustoms & Excise\nInternational Business\nLegal Principles in Business\nDigital Business & Cybersecurity Logistics Business Strategy & Planning Customs & Excise International Business Legal Principles in Business Digital Business & Cybersecurity Year 3 Semester 5 Practical Costing Techniques\nEntrepreneurship\nManaging People & Performance\nProject Management\nInformation Technology in Logistics Practical Costing Techniques Entrepreneurship Managing People & Performance Project Management Information Technology in Logistics Semester 6 Principles of Economics\nProcurement Management\nCold Chain Logistics\nGlobal Commercial Shipping\nCommunity Service 1 Principles of Economics Procurement Management Cold Chain Logistics Global Commercial Shipping Community Service 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Maritime Management",
+      "field_of_study": "Management",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 3 credits.",
+        "O-Level": "Minimum 3 Cs.",
+        "UEC": "Minimum 3 Bs6.",
+        "STPM": "Minimum of Grade C (GP 2.0) in any subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 15200,
+        "tuition_fee": 13200
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Principles of Management\nEnglish Language Proficiency\nDigital Literacy Skills\nIntroduction to Logistics & Supply Chain Management\nPenghayatan Etika dan Peradaban Principles of Management English Language Proficiency Digital Literacy Skills Introduction to Logistics & Supply Chain Management Penghayatan Etika dan Peradaban Semester 2 General Ship Management\nPublic Speaking / Bahasa Kebangsaan A\nIntroduction to Shipping and Transport Logistics Operations\nPrinciples of Accounting General Ship Management Public Speaking / Bahasa Kebangsaan A Introduction to Shipping and Transport Logistics Operations Principles of Accounting Semester 3 International Business\nCommunication for Professionals\nKursus Integriti & Anti-Rasuah\nPrinciples of Economics\nInternational Trade & Shipping International Business Communication for Professionals Kursus Integriti & Anti-Rasuah Principles of Economics International Trade & Shipping Year 2 Semester 4 Practical Costing Techniques\nManaging Transport Operations\nMaritime Organisations and Management\nBusiness Mathematics & Statistics\nEntrepreneurship Practical Costing Techniques Managing Transport Operations Maritime Organisations and Management Business Mathematics & Statistics Entrepreneurship Semester 5 Customs & Excise\nShipbrokering and Chartering Management\nLegal Principles in Business\nManaging People & Performance\nPorts and Intermodalism Customs & Excise Shipbrokering and Chartering Management Legal Principles in Business Managing People & Performance Ports and Intermodalism Semester 6 Liner Shipping Management\nDigital Business & Cybersecurity\nBusiness Analytics\nLeadership Theory & Practice\nCommunity Service 1 Liner Shipping Management Digital Business & Cybersecurity Business Analytics Leadership Theory & Practice Community Service 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Law Enforcement",
+      "field_of_study": "Policy Science",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 3 credits.",
+        "O-Level": "Minimum 3Cs.",
+        "UEC": "Minimum 3Bs.",
+        "STPM": "Minimum of Grade C (GP 2.0) in any subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1800,
+        "resource_fee": 14400,
+        "tuition_fee": 13200
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Creative Problem Solving Introduction to Law Enforcement Introduction to Administrative Law Public Speaking / Bahasa Kebangsaan A Digital Literacy Skills Semester 2 Strategic Management English Language Proficiency Introduction to Criminal Law Kursus Integriti & Anti-Rasuah Introduction to Security Management Semester 3 Principles of Management Communication for Professionals Introduction to Crime and Society Cyber Law Penghayatan Etika & Peradaban Year 2 Semester 4 Introduction to Criminal Justice System Investigation Techniques Introduction to Psychology Security Crisis Management Community Service 1 Semester 5 Crime Scene Investigation Ethics in Law Enforcement Security Risk Management Entrepreneurship Computer Security and Forensics Semester 6 Managing People & Performance Security Operations Physical Security Management Crime Prevention Introduction to Logistics & Supply Chain Management Company Law Occupational Safety and Health Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts",
+      "field_of_study": "Foundation in Arts",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 credits.  A credit in Mathematics and pass in English are required for students interested in progressing to an accounting degree.",
+        "UEC": "Pass with 3 B6.  A credit in Mathematics and pass in English are required for students interested in progressing to an accounting degree."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 6000,
+        "tuition_fee": 6000
+      },
+      "course_content": {
+        "core": "Year 1 Thinking Skills\nBasic Information & Communication Technology\nEnglish I\nMathematics\nIntroduction to Management\nEnglish II\nIntroduction to Marketing / Introduction to Psychology\nFinancial Accounting / Introduction to Sociology\nIntroduction to Law\nWriting and Research Skills\nEssentials of Economics\nCo-Curriculum\nManagement Accounting / Introduction to Visual Arts\nIntroduction to Finance / Introduction to Mass Media and Communication Thinking Skills Basic Information & Communication Technology English I Mathematics Introduction to Management English II Introduction to Marketing / Introduction to Psychology Financial Accounting / Introduction to Sociology Introduction to Law Writing and Research Skills Essentials of Economics Co-Curriculum Management Accounting / Introduction to Visual Arts Introduction to Finance / Introduction to Mass Media and Communication",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits.  A credit in Mathematics and pass in English are required for students interested in progressing to an accounting degree."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 B6.  A credit in Mathematics and pass in English are required for students interested in progressing to an accounting degree."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts",
+      "field_of_study": "Foundation in Arts",
+      "location": "Peninsula The Lighthouse Campus, Shah Alam",
+      "intakes": [
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5 credits.",
+        "O-Level": "Minimum 5 Cs.",
+        "UEC": "Minimum 3 Bs6."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 8050,
+        "tuition_fee": 6600
+      },
+      "course_content": {
+        "core": "Semester 1 Thinking Skills\nBasic Information & Communication Technology\nEnglish I\nMathematics\nIntroduction to Management Thinking Skills Basic Information & Communication Technology English I Mathematics Introduction to Management Semester 2 English II\nIntroduction to Marketing\nFinancial Accounting\nIntroduction to Law\nBasic Entrepreneurship English II Introduction to Marketing Financial Accounting Introduction to Law Basic Entrepreneurship Semester 3 Essentials of Economics\nEnglish for Academic Purposes\nManagement Accounting\nIntroduction to Finance Essentials of Economics English for Academic Purposes Management Accounting Introduction to Finance",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Software Engineering, Cyber Security)",
+      "field_of_study": "Foundation in Science",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 credits inclusive of Add Math and pass in English.",
+        "UEC": "Pass with 3 B6 inclusive of Add Math and B6 in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 9000,
+        "tuition_fee": 8100
+      },
+      "course_content": {
+        "core": "Year 1 Physics I\nBasic Information and Communication Technology\nEnglish I\nMathematics I\nChemistry I\nBasic Entrepreneurship\nChemistry II\nPhysics II\nMathematics II\nThinking Skills\nEnglish II\nPhysics III\nEngineering Mathematics\nIntroduction to Programming Physics I Basic Information and Communication Technology English I Mathematics I Chemistry I Basic Entrepreneurship Chemistry II Physics II Mathematics II Thinking Skills English II Physics III Engineering Mathematics Introduction to Programming",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Add Math"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits inclusive of Add Math and pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Add Math"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 B6 inclusive of Add Math and B6 in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Engineering)",
+      "field_of_study": "Foundation in Science",
+      "location": "Peninsula The Ship Campus, Penang",
+      "intakes": [
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 credits inclusive of Math, relevant science subject and pass in English.",
+        "UEC": "Pass with 3 B6 inclusive of Mathematics and relevant science subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 9000,
+        "tuition_fee": 8100
+      },
+      "course_content": {
+        "core": "Year 1 Physics I\nBasic Information and Communication Technology\nEnglish I\nMathematics I\nChemistry I\nBasic Entrepreneurship\nChemistry II\nPhysics II\nMathematics II\nThinking Skills\nEnglish II\nPhysics III\nEngineering Mathematics\nIntroduction to Programming Physics I Basic Information and Communication Technology English I Mathematics I Chemistry I Basic Entrepreneurship Chemistry II Physics II Mathematics II Thinking Skills English II Physics III Engineering Mathematics Introduction to Programming",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Math",
+              "relevant science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits inclusive of Math, relevant science subject and pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "relevant science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 B6 inclusive of Mathematics and relevant science subject."
+          }
+        ]
+      }
+    }
+  ]
+}

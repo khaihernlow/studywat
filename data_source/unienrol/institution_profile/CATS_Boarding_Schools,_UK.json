@@ -1,0 +1,724 @@
+{
+  "institution_name": "CATS Boarding Schools, UK",
+  "institution_country": "United Kingdom",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "A-Levels",
+      "field_of_study": "A-Level",
+      "location": "CATS Cambridge",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with minimum 5 Cs.",
+        "O-Level": "Pass IGCSE with minimum 5 Cs."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 355576
+      },
+      "course_content": {
+        "core": "Students study three subjects (plus English for students with English as a second language) during the two-year A level qualification, choosing one from each subject block: September Start Subjects Block A : Biology, Chemistry, Economics, French, Geography, History, Physics, Psychology, Sociology\nBlock B : Biology, Chemistry, Economics, Photography, Physics, Psychology\nBlock C : Business, Chemistry, Economics, Art, History, Physics, Sociology\nBlock D : Business, Fast Track Mathematics, Maths\nBlock E : Fast Track Mathematics, Maths\nBlock F : Fast Track Mathematics, Maths\nBlock G : Chinese (Mandarin/ Cantonese), Russian Block A : Biology, Chemistry, Economics, French, Geography, History, Physics, Psychology, Sociology Block A Block B : Biology, Chemistry, Economics, Photography, Physics, Psychology Block B  Block C : Business, Chemistry, Economics, Art, History, Physics, Sociology Block C Block D : Business, Fast Track Mathematics, Maths Block D Block E : Fast Track Mathematics, Maths Block E Block F : Fast Track Mathematics, Maths Block F Block G : Chinese (Mandarin/ Cantonese), Russian Block G January Start Subjects Block A : Physics, Business, Economics\nBlock B : Biology, Sociology\nBlock C : Economics, Chemistry, Business\nBlock D : Maths\nBlock E : Maths\nBlock F : Maths\nBlock G : Chinese (Mandarin/ Cantonese), Russian Block A : Physics, Business, Economics Block A Block B : Biology, Sociology Block B Block C : Economics, Chemistry, Business Block C Block D : Maths Block D Block E : Maths Block E Block F : Maths Block F Block G : Chinese (Mandarin/ Cantonese), Russian Block G Note: Students can choose to study four subjects",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with minimum 5 Cs."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass IGCSE with minimum 5 Cs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "A-Levels",
+      "field_of_study": "A-Level",
+      "location": "CATS London",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with minimum 5 Cs.",
+        "O-Level": "Pass IGCSE with minimum 5 Cs."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 350240
+      },
+      "course_content": {
+        "core": "Students study three subjects (plus English for students with English as a second language) during the two-year A level qualification, choosing one from each subject block: September Start Subjects Block A : Art, Chemistry\nBlock B : Economics, Maths, Psychology\nBlock C : Business, Further Maths, History, Maths\nBlock D : Biology, Economics, English Literature\nBlock E : Maths, Physics, Sociology\nBlock F : Business, French, Physics Block A : Art, Chemistry Block A Block B : Economics, Maths, Psychology Block B  Block C : Business, Further Maths, History, Maths Block C Block D : Biology, Economics, English Literature Block D Block E : Maths, Physics, Sociology Block E Block F : Business, French, Physics Block F January Start Subjects Block A : Biology, Economics, Maths\nBlock B : Business, Chemistry, Maths\nBlock C : Business, Psychology, Physics Block A : Biology, Economics, Maths Block A Block B : Business, Chemistry, Maths Block B Block C : Business, Psychology, Physics Block C Note: Students can choose to study four subjects",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with minimum 5 Cs."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass IGCSE with minimum 5 Cs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "A-Levels",
+      "field_of_study": "A-Level",
+      "location": "CATS Canterbury",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with minimum 5 Cs.",
+        "O-Level": "Pass IGCSE with minimum 5 Cs."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 323236
+      },
+      "course_content": {
+        "core": "Students study three subjects (plus English for students with English as a second language) during the two-year A level qualification, choosing one from each subject block: September Start Subjects Block A : History, Maths, Psychology, Sociology\nBlock B : Business, Chemistry, History, Maths, Psychology\nBlock C : Biology, Economics, Maths, Physics, Sociology\nBlock D : Business, Biology, Further Maths, Physics\nBlock E : Art, Chemistry, Economics, Maths Block A : History, Maths, Psychology, Sociology Block A Block B : Business, Chemistry, History, Maths, Psychology Block B  Block C : Biology, Economics, Maths, Physics, Sociology Block C Block D : Business, Biology, Further Maths, Physics Block D Block E : Art, Chemistry, Economics, Maths Block E January Start Subjects Block A : Biology, Economics, Physics\nBlock C : Maths, Sociology\nBlock D : Business, Chemistry Block A : Biology, Economics, Physics Block A Block C : Maths, Sociology Block C Block D : Business, Chemistry Block D Note: Students can choose to study four subjects",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with minimum 5 Cs."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass IGCSE with minimum 5 Cs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "University Foundation Programme (UFP) - Arts",
+      "field_of_study": "Foundation in Arts",
+      "location": "CATS Cambridge",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with minimum 5 Cs.",
+        "O-Level": "Pass IGCSE with minimum 5 Cs."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 177788
+      },
+      "course_content": {
+        "core": "UFP students select one subject from each block – up to a maximum of three subjects. Non-native speakers will also study English as a Second Language. Final UFP grades are determined by exams at the end of the qualification, as well as a significant amount of coursework which simulates the structure of most UK university courses. i.e.: 30% coursework (Coursework 1 and 2)\n40% examination (Controlled assessment)\n30% extended essay (step-by-step and final essay) 30% coursework (Coursework 1 and 2) 40% examination (Controlled assessment) 30% extended essay (step-by-step and final essay) September Start Subjects Block A : Business, Chemistry, Maths\nBlock B : Business Physics\nBlock C : Economics, Maths\nBlock D : Chemistry, Visual Arts\nBlock E : Biology, Economics, Business\nBlock F : Economics, Engineering, Sociology Block A : Business, Chemistry, Maths Block A Block B : Business Physics Block B  Block C : Economics, Maths Block C Block D : Chemistry, Visual Arts Block D Block E : Biology, Economics, Business Block E Block F : Economics, Engineering, Sociology Block F January Start Subjects Block A : Biology, Sociology\nBlock B : Business\nBlock C : Maths\nBlock D : Chemistry\nBlock E : Physics\nBlock F : Economics Block A : Biology, Sociology Block A Block B : Business Block B Block C : Maths Block C Block D : Chemistry Block D Block E : Physics Block E Block F : Economics Block F Note: Only CATS Cambridge offers Engineering UFP Subject",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with minimum 5 Cs."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass IGCSE with minimum 5 Cs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "University Foundation Programme (UFP) - Arts",
+      "field_of_study": "Foundation in Arts",
+      "location": "CATS London",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with minimum 5 Cs.",
+        "O-Level": "Pass IGCSE with minimum 5 Cs."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 175120
+      },
+      "course_content": {
+        "core": "UFP students select one subject from each block – up to a maximum of three subjects. Non-native speakers will also study English as a Second Language. Final UFP grades are determined by exams at the end of the qualification, as well as a significant amount of coursework which simulates the structure of most UK university courses. i.e.: 30% coursework (Coursework 1 and 2)\n40% examination (Controlled assessment)\n30% extended essay (step-by-step and final essay) 30% coursework (Coursework 1 and 2) 40% examination (Controlled assessment) 30% extended essay (step-by-step and final essay) September Start Subjects Block A : Economics, Maths, Psychology\nBlock B : Biology, Maths, Financial Trading\nBlock C : Chemistry, Economics, English Literature\nBlock D : Chemistry, Visual Arts\nBlock E : Financial Trading, History\nBlock F : Business, Physics, Sociology Block A : Economics, Maths, Psychology Block A Block B : Biology, Maths, Financial Trading Block B  Block C : Chemistry, Economics, English Literature Block C Block D : Chemistry, Visual Arts Block D Block E : Financial Trading, History Block E Block F : Business, Physics, Sociology Block F January Start Subjects Block A : Maths, Economics, Biology\nBlock B : Business, Chemistry, Maths\nBlock C : Business, Psychology, Physics Block A : Maths, Economics, Biology Block A Block B : Business, Chemistry, Maths Block B Block C : Business, Psychology, Physics Block C Note: Only CATS London offers Financial Trading UFP Subject (with Bloomberg access)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with minimum 5 Cs."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass IGCSE with minimum 5 Cs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "University Foundation Programme (UFP) - Arts",
+      "field_of_study": "Foundation in Arts",
+      "location": "CATS Canterbury",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with minimum 5 Cs.",
+        "O-Level": "Pass IGCSE with minimum 5 Cs."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 161618
+      },
+      "course_content": {
+        "core": "UFP students select one subject from each block – up to a maximum of three subjects. Non-native speakers will also study English as a Second Language. Final UFP grades are determined by exams at the end of the qualification, as well as a significant amount of coursework which simulates the structure of most UK university courses. i.e.: 30% coursework (Coursework 1 and 2)\n40% examination (Controlled assessment)\n30% extended essay (step-by-step and final essay) 30% coursework (Coursework 1 and 2) 40% examination (Controlled assessment) 30% extended essay (step-by-step and final essay) September Start Subjects Block A : Business, Chemistry, International Relations, Psychology\nBlock B : Business, Economics, Maths, Physics\nBlock C : Business, Chemistry, Geography, Maths\nBlock D : Economics, Maths, Psychology, Physics, Sociology, Visual Arts\nBlock E : Biology, Business, Computing, History, Maths, Sociology Block A : Business, Chemistry, International Relations, Psychology Block A Block B : Business, Economics, Maths, Physics Block B  Block C : Business, Chemistry, Geography, Maths Block C Block D : Economics, Maths, Psychology, Physics, Sociology, Visual Arts Block D Block E : Biology, Business, Computing, History, Maths, Sociology Block E January Start Subjects Block A : Business, Chemistry\nBlock C : Biology, Economics, Physics\nBlock D : Maths, Sociology Block A : Business, Chemistry Block A Block C : Biology, Economics, Physics Block C Block D : Maths, Sociology Block D Note: Only CATS Canterbury offers International Relations, Geography and Computing UFP Subjects",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with minimum 5 Cs."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass IGCSE with minimum 5 Cs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "University Foundation Programme (UFP) - Science",
+      "field_of_study": "Foundation in Science",
+      "location": "CATS Cambridge",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "minimum 5Cs including 2 science subjects and Mathematics.",
+        "O-Level": "minimum 5Cs including 2 science subjects and Mathematics."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 177788
+      },
+      "course_content": {
+        "core": "UFP students select one subject from each block – up to a maximum of three subjects. Non-native speakers will also study English as a Second Language. Final UFP grades are determined by exams at the end of the qualification, as well as a significant amount of coursework which simulates the structure of most UK university courses. i.e.: 30% coursework (Coursework 1 and 2)\n40% examination (Controlled assessment)\n30% extended essay (step-by-step and final essay) 30% coursework (Coursework 1 and 2) 40% examination (Controlled assessment) 30% extended essay (step-by-step and final essay) September Start Subjects Block A : Business, Chemistry, Maths\nBlock B : Business Physics\nBlock C : Economics, Maths\nBlock D : Chemistry, Visual Arts\nBlock E : Biology, Economics, Business\nBlock F : Economics, Engineering, Sociology Block A : Business, Chemistry, Maths Block A Block B : Business Physics Block B  Block C : Economics, Maths Block C Block D : Chemistry, Visual Arts Block D Block E : Biology, Economics, Business Block E Block F : Economics, Engineering, Sociology Block F January Start Subjects Block A : Biology, Sociology\nBlock B : Business\nBlock C : Maths\nBlock D : Chemistry\nBlock E : Physics\nBlock F : Economics Block A : Biology, Sociology Block A Block B : Business Block B Block C : Maths Block C Block D : Chemistry Block D Block E : Physics Block E Block F : Economics Block F Note: Only CATS Cambridge offers Engineering UFP Subject",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum 5Cs including 2 science subjects and Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum 5Cs including 2 science subjects and Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "University Foundation Programme (UFP) - Science",
+      "field_of_study": "Foundation in Science",
+      "location": "CATS London",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "minimum 5Cs including 2 science subjects and Mathematics.",
+        "O-Level": "minimum 5Cs including 2 science subjects and Mathematics."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 175120
+      },
+      "course_content": {
+        "core": "UFP students select one subject from each block – up to a maximum of three subjects. Non-native speakers will also study English as a Second Language. Final UFP grades are determined by exams at the end of the qualification, as well as a significant amount of coursework which simulates the structure of most UK university courses. i.e.: 30% coursework (Coursework 1 and 2)\n40% examination (Controlled assessment)\n30% extended essay (step-by-step and final essay) 30% coursework (Coursework 1 and 2) 40% examination (Controlled assessment) 30% extended essay (step-by-step and final essay) September Start Subjects Block A : Economics, Maths, Psychology\nBlock B : Biology, Maths, Financial Trading\nBlock C : Chemistry, Economics, English Literature\nBlock D : Chemistry, Visual Arts\nBlock E : Financial Trading, History\nBlock F : Business, Physics, Sociology Block A : Economics, Maths, Psychology Block A Block B : Biology, Maths, Financial Trading Block B  Block C : Chemistry, Economics, English Literature Block C Block D : Chemistry, Visual Arts Block D Block E : Financial Trading, History Block E Block F : Business, Physics, Sociology Block F January Start Subjects Block A : Maths, Economics, Biology\nBlock B : Business, Chemistry, Maths\nBlock C : Business, Psychology, Physics Block A : Maths, Economics, Biology Block A Block B : Business, Chemistry, Maths Block B Block C : Business, Psychology, Physics Block C Note: Only CATS London offers Financial Trading UFP Subject (with Bloomberg access)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum 5Cs including 2 science subjects and Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum 5Cs including 2 science subjects and Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "University Foundation Programme (UFP) - Science",
+      "field_of_study": "Foundation in Science",
+      "location": "CATS Canterbury",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "minimum 5Cs including 2 science subjects and Mathematics.",
+        "O-Level": "minimum 5Cs including 2 science subjects and Mathematics."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 161618
+      },
+      "course_content": {
+        "core": "UFP students select one subject from each block – up to a maximum of three subjects. Non-native speakers will also study English as a Second Language. Final UFP grades are determined by exams at the end of the qualification, as well as a significant amount of coursework which simulates the structure of most UK university courses. i.e.: 30% coursework (Coursework 1 and 2)\n40% examination (Controlled assessment)\n30% extended essay (step-by-step and final essay) 30% coursework (Coursework 1 and 2) 40% examination (Controlled assessment) 30% extended essay (step-by-step and final essay) September Start Subjects Block A : Business, Chemistry, International Relations, Psychology\nBlock B : Business, Economics, Maths, Physics\nBlock C : Business, Chemistry, Geography, Maths\nBlock D : Economics, Maths, Psychology, Physics, Sociology, Visual Arts\nBlock E : Biology, Business, Computing, History, Maths, Sociology Block A : Business, Chemistry, International Relations, Psychology Block A Block B : Business, Economics, Maths, Physics Block B  Block C : Business, Chemistry, Geography, Maths Block C Block D : Economics, Maths, Psychology, Physics, Sociology, Visual Arts Block D Block E : Biology, Business, Computing, History, Maths, Sociology Block E January Start Subjects Block A : Business, Chemistry\nBlock C : Biology, Economics, Physics\nBlock D : Maths, Sociology Block A : Business, Chemistry Block A Block C : Biology, Economics, Physics Block C Block D : Maths, Sociology Block D Note: Only CATS Canterbury offers International Relations, Geography and Computing UFP Subjects",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum 5Cs including 2 science subjects and Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum 5Cs including 2 science subjects and Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "International Baccalaurate (IB)",
+      "field_of_study": "International Baccalaureate (IB)",
+      "location": "CATS Canterbury",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with minimum 5 Cs.",
+        "O-Level": "Pass IGCSE with minimum 5 Cs."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 161618
+      },
+      "course_content": {
+        "core": "The IB curriculum is made up of the Diploma Core and six Subject Groups. Students study six subjects during the two-year IB course, choosing one from each subject block.  Three Elements of the Diploma Core Theory of Knowledge : The Theory of Knowledge asks you to reflect on the nature of knowledge and on how we know what we claim to know. It is assessed through an oral presentation and a 1,600-word essay.\nExtended Essay : The extended essay prepares you for the study skills required at university.\nCreativity, Activity, Service : Creativity, Activity, Service comprises arts and other experiences that involve creative thinking; physical exertion contributing to a healthy lifestyle, which improves and complements your academic studies; and an unpaid/voluntary exchange that has a learning benefit. Theory of Knowledge : The Theory of Knowledge asks you to reflect on the nature of knowledge and on how we know what we claim to know. It is assessed through an oral presentation and a 1,600-word essay. Theory of Knowledge Extended Essay : The extended essay prepares you for the study skills required at university. Extended Essay Creativity, Activity, Service : Creativity, Activity, Service comprises arts and other experiences that involve creative thinking; physical exertion contributing to a healthy lifestyle, which improves and complements your academic studies; and an unpaid/voluntary exchange that has a learning benefit. Creativity, Activity, Service  Six Subject Groups Block A : English Language: Self-taught\nBlock B : English, French Ab In*, Spanish Ab In*\nBlock C : Biology, Environmental Systems and Societies, Physics\nBlock D : Maths AA, Maths AI\nBlock E : Economics, Global Politics, Psychology\nBlock F : Chemistry, History, Visual Arts Block A : English Language: Self-taught Block A Block B : English, French Ab In*, Spanish Ab In* Block B  Block C : Biology, Environmental Systems and Societies, Physics Block C Block D : Maths AA, Maths AI Block D Block E : Economics, Global Politics, Psychology Block E Block F : Chemistry, History, Visual Arts Block F",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with minimum 5 Cs."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass IGCSE with minimum 5 Cs."
+          }
+        ]
+      }
+    }
+  ]
+}

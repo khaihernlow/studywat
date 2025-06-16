@@ -1,0 +1,2769 @@
+{
+  "institution_name": "DISTED College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 13007,
+  "malaysia_rank": 89,
+  "programs": [
+    {
+      "program_name": "Bachelor in Accounting (Hons), HELP University & Colleges, Malaysia",
+      "field_of_study": "Accounting",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "May",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Ds.",
+        "UEC": "5 Bs.",
+        "Diploma": "Minimum CGPA of 2.50 out of 4.00.  Credit in Mathematics and pass in English at SPM level",
+        "STPM": "Minimum Grade C+ (GP 2.33) in any two subjects.  Credit in Mathematics and pass in English at SPM level",
+        "Foundation": "Minimum CGPA of 2.50 out of 4.00.  Credit in Mathematics and pass in English at SPM level",
+        "SACE/WACE": "University Aggregate of 50% or ATAR score of at least 50 for various programmes."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 56980
+      },
+      "course_content": {
+        "core": "Year 1 (12 subjects) Financial Accounting 1 Management Accounting 1 Principles of Microeconomics Principles of Macroeconomics Principles of Marketing Information Technology for Business Principles of Management Business Statistics English for Academic Purpose Business Law Discovering Oneself Engaging the World  Year 2 (12 subjects) Accounting Information Systems Financial Accounting 2 Management Accounting 2 Management Accounting 3 Financial Management Company Law Business Analytics for Decision Making Financial Reporting Business Research Managing Human Resources Corporate Accounting Elective 1* Year 3 (6 subjects) Auditing & Assurance Services Accounting Theory and Practice Taxation Graduation Project Accounting Internship Programme Elective 2* All courses listed above are under the HELP University curriculum structure and those marked with * which are courses prescribed by the Malaysian Qualification Agency MQA",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "2 Ds."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "5 Bs."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA of 2.50 out of 4.00.  Credit in Mathematics and pass in English at SPM level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade C+ (GP 2.33) in any two subjects.  Credit in Mathematics and pass in English at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA of 2.50 out of 4.00.  Credit in Mathematics and pass in English at SPM level"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.5
+          },
+          {
+            "type": "raw",
+            "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Media Studies) (Hons), HELP University & Colleges, Malaysia",
+      "field_of_study": "Communication",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "May",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Ds.  Credit in English at SPM or its equivalent",
+        "UEC": "5 B’s (including a credit in English).",
+        "Diploma": "Diploma or its equivalent, with a minimum CGPA of 2.00.  Credit in English at SPM or its equivalent",
+        "STPM": "2 Grade C (GPA 2.00) or its equivalent.  Credit in English at SPM or its equivalent",
+        "Foundation": "Matriculation/Foundation or its equivalent with minimum CGPA 2.00.  Credit in English at SPM or its equivalent",
+        "IB Diploma": "Min of 24 points."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 56980
+      },
+      "course_content": {
+        "core": "Year 1 (10 subjects) Public Speaking Mass Communication Business Communication Multimedia Design Mass Media Writing Human Communication Journalism Entrepreneurship English for Academic Purposes Marketing Communication Year 2 (10 subjects) Communication Law and Ethics Communication Theories Intercultural Communication Social Research Methods Broadcast and New Media Communication Issues in the Digital Age Media Audience Analytics Acting for Media and Film TV Production Management Audio Visual Editing Year 3 (6 subjects) Media Planning Social Media and Mobile Marketing Documentary Production Dissertation Communication and Leadership Skill Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Ds.  Credit in English at SPM or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 B’s (including a credit in English)."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Diploma or its equivalent, with a minimum CGPA of 2.00.  Credit in English at SPM or its equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Grade C (GPA 2.00) or its equivalent.  Credit in English at SPM or its equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Matriculation/Foundation or its equivalent with minimum CGPA 2.00.  Credit in English at SPM or its equivalent"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 24.0
+          },
+          {
+            "type": "raw",
+            "text": "Min of 24 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Honours) (Data Analytics), HELP University & Colleges, Malaysia",
+      "field_of_study": "Information Technology (IT)",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "May",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Min. 2Cs.  Credit in Mathematics at SPM level or its equivalent",
+        "Diploma": "Min. CGPA of 2.50.  Credit in Mathematics at SPM level or its equivalent",
+        "STPM": "Min. pass in grade of C (CGPA 2.00) in any TWO (2) subjects or any equivalent qualifications.  Credit in Mathematics at SPM level or its equivalent",
+        "Foundation": "Min. CGPA of 2.00.  Credit in Mathematics at SPM level or its equivalent",
+        "SACE/WACE": "University Aggregate of 50% or ATAR score of at least 50 for various programmes.  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "3.5",
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 58320
+      },
+      "course_content": {
+        "core": "YEAR 1 Computer Architecture and Organisation Introduction to Database Systems Programming Fundamentals Web design and Development Analytics for Decision Making Applied Mathematical Studies (OR) Professional Communications for Business Object Oriented Programming Introduction to Operating Systems Data Communications and Networking Discrete Mathematics YEAR 2 Systems Architecture and Design User Experience Design Cloud Computing Technopreneurship and Innovation (OR) Multivariate calculus and Ordinary Differential Equations Software Engineering Principles Advanced Database Systems Data Mining and Visualisation Enterprise Data Infrastructure YEAR 3 IT Project Management Cybersecurity & Ethics Final Year Project I Big Data Technologies Industrial Internship (3 Months) Startup Ideation Final Year Project II Machine Learning and Artificial Intelligence  All courses listed above are under the HELP University Curriculum Structure",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 2Cs.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. CGPA of 2.50.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. pass in grade of C (CGPA 2.00) in any TWO (2) subjects or any equivalent qualifications.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. CGPA of 2.00.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes.  Credit in Mathematics at SPM level or its equivalent"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Marketing (Hons), HELP University & Colleges, Malaysia",
+      "field_of_study": "Marketing",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "May",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Ds.",
+        "UEC": "5 B’s.",
+        "Diploma": "Minimum CGPA 2.00 out of 4.00.",
+        "STPM": "Minimum Grade C (GP 2.0) in any TWO subjects.",
+        "Foundation": "Minimum CGPA of 2.00 out of 4.00.  A pass in Mathematics, English, Sejarah and Bahasa Melayu at SPM level",
+        "SACE/WACE": "University Aggregate of 50% or ATAR score of at least 50 for various programmes."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 55100
+      },
+      "course_content": {
+        "core": "Year 1 Financial Accounting 1 Principles of Microeconomics Principles of Management Business Statistics Information Technology for Business Management Accounting 1 Principles of Macroeconomics Business Law Principles of Marketing Discovering Oneself Engaging the World  Year 2 Consumer Behaviour Digital Marketing Business Finance Managing Human Resources Product Management Distribution & Logistics Management Sales Management Business Analytics for Decision Making Elective 1* Year 3 Integrated Marketing Communication Strategic Global Marketing Marketing Research Services Marketing Graduation Project Competitive Marketing Planning & Strategy Innovative Product Development and Management Operations Management Elective 2*",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "2 Ds."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "5 B’s."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 out of 4.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade C (GP 2.0) in any TWO subjects."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English",
+              "Sejarah",
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA of 2.00 out of 4.00.  A pass in Mathematics, English, Sejarah and Bahasa Melayu at SPM level"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 50.0
+          },
+          {
+            "type": "raw",
+            "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) in Psychology (3+0), HELP University & Colleges, Malaysia",
+      "field_of_study": "Psychology",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "May",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "1C, 1D.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "UEC": "Grade B in 5 Subjects including Mathematics, one science subject and a pass in English Language.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "CPU": "Average 65 (6 subjects).  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "SACE/WACE": "ATAR 65.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 63180
+      },
+      "course_content": {
+        "core": "YEAR 1\nIntroduction to Psychology 1\nIntroduction to Psychology 2\nScientific Thinking and Academic Writing\nIntroduction to Quantitative Methods 1\nIntroduction to Quantitative Methods 2\nCareer Exploration\nContextual Intelligence\nCommunication and Leadership Skills\n\nYEAR 2\nAdvanced Quantitative Methods 1\nAdvanced Quantitative Methods 2\nSocial Psychology\nHuman Personality\nBiopsychology\nDevelopmental Psychology\nUnderstanding and Managing Emotions\nIndustrial Training\nYear 2 Elective 1*\nYear 2 Elective 2*\n\nYEAR 3\nUndergraduate Thesis\nLearning and Cognition\nEthics in Psychology\nAbnormal Psychology\nCareer Development and Planning\nData Analytics for Psychology\nYear 3 Elective 1*\nYear 3 Elective 2*\nYear 3 Elective 3*\nYear 3 Elective 4*\nYear 3 Elective 5* YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "1C, 1D.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics, one science subject and a pass in English Language.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 65.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Average 65 (6 subjects).  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 65.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 65.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Accounting.",
+      "field_of_study": "Accounting",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics AND Pass in English.",
+        "O-Level": "Pass with 3 credits including Mathematics AND Pass in English.",
+        "UEC": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 29180
+      },
+      "course_content": {
+        "core": "ACCOUNTING AND REPORTING:\nFinancial Accounting 1\nFinancial Accounting 2\nFinancial Accounting 3\nFinancial Accounting 4\nComputerized Accounting\nAccounting Theory & Practice\n\nTAXATION:\nTaxation 1\nTaxation 2\n\nAUDITING:\nAudit Practice ACCOUNTING AND REPORTING: TAXATION: AUDITING: COSTING:\nCost Accounting\nManagement Accounting\nPerformance Management\n\nCOMPUTING:\nComputer Applications\n\nECONOMICS:\nIntroduction to Microeconomics\nMacroeconomics\n\nFINANCE:\nBusiness Finance 1\nBusiness Finance 2\n\nSTATISTICS:\nBusiness Statistics\n\nBUSINESS:\nIntroduction to Marketing\nHuman Resource Management\nOrganizational Behaviour\nEntrepreneurship\nBusiness Law\nCorporate Law\n\nLANGUAGE AND OTHERS:\nAcademic English\nResearch Methodology\nStudy Skills COSTING: COMPUTING: ECONOMICS: FINANCE: STATISTICS: BUSINESS: LANGUAGE AND OTHERS:",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Studies.",
+      "field_of_study": "Business Administration",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 29180
+      },
+      "course_content": {
+        "core": "BUSINESS:\nBusiness Organisation\nBusiness Law\nBusiness Project Management\nBusiness Ethics\nE-Commerce\nEntrepreneurship Development\nOperations Management\nOrganisational Behaviour\nHuman Resource Management\nPrinciples and Practice of Management\n\nACCOUNTING:\nAccounting 1\nAccounting 2\nManagement Accounting\n\nSTATISTICS:\nBusiness Statistics 1\nBusiness Statistics 2\n\nCOMPUTING:\nBusiness Computing\nComputer Application\nDigital Identity\n\nECONOMICS:\nMicroeconomics\nMacroeconomics\n\nFINANCE:\nFinancial Management\n\nMARKETING:\nInternational Marketing\nIntroduction to Marketing\nExperiential Marketing\n\nLANGUAGE AND OTHERS:\nAcademic English Business Communication\nEnglish for Business and Trade\nStudy Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science.",
+      "field_of_study": "Computer Science",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship Available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics.",
+        "O-Level": "Pass with 3 credits including Mathematics.",
+        "UEC": "Pass with 3Bs including Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 31180
+      },
+      "course_content": {
+        "core": "Year 1\nAcademic English\nIntroduction to Information Technology and Information System\nIntroduction to Programming\nDiscrete Structure\nIntroduction to Data Communication and Networking\nIntroduction to Operating Systems\nCritical Thinking and Problem Solving\nIntroduction to Multimedia\nSystem Analysis and Design\nDatabase Organisation and Design\nProbability and Statistics\nYear 2\nRapid Application Development\nObject Oriented Development\nWeb Technologies\nE-Commerce Strategy\nProgramming Paradigms\nIntroduction to Logic and Abstraction\nComputer Organisation\nAlgebra and Introductory Calculus\nProgramming Methodology and Data Structures\nIntegrated Software Development Workshop\nProject\nIndustrial Training (Computer Science) Year 1 Year 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3Bs including Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Hotel Management",
+      "field_of_study": "Hotel Management",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "May",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects AND Pass English.",
+        "O-Level": "Grade C in 3 relevant subjects AND Grade E in English.",
+        "UEC": "Grade B in 3 relevant subjects AND Grade C in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 31180
+      },
+      "course_content": {
+        "core": "YEAR 1 Hospitality Core Introduction to Hospitality Industry Food & Beverage Service Food Production Food & Beverage Management Managing Front Office Operations Housekeeping Management Food Hygiene and Sanitation Menu Planning and Development Business Core Business Organization Business Communication Soft Skills Communication English Study Skills YEAR 2 Hospitality Core Planning & Control for Food & Beverage Operations Convention Management & Service Purchasing for Hospitality Operations Beverage Management Hospitality Entrepreneurship Business Core Hospitality and Restaurant Accounting Marketing in Hospitality Industry Business Law Human Resources Management for the Hospitality Industry Research Project Soft Skills Japanese Language Practical Training Industrial Training (4 months)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects AND Pass English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects AND Grade E in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects AND Grade C in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Mass Communication",
+      "field_of_study": "Mass Communication",
+      "location": "Disted Wawasan City, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 credits in any subject (including a pass in Bahasa Malaysia and Sejarah and a credit in English).",
+        "O-Level": "3 credits (including English).",
+        "UEC": "3 Bs (including a credit in English).",
+        "STPM": "Pass or its equivalent, with a minimum Grade C (GP 2.00) in any subject.  Credit in English at SPM or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 31180
+      },
+      "course_content": {
+        "core": "COMMUNICATION CORE\n(12 SUBJECTS)\nIntroduction to Mass Communication in the Digital Age\nCommunication Theories\nPublic Speaking\nIntroduction to Multimedia\nFundamental Design\nDesktop Publishing\nDigital Audio and Sound Technology\nPersonal Development and Leadership Skills\nBasic TV Production\nMedia Law in Malaysia\nMedia Research Methods\nPractical Training\nDISCIPLINE (9 SUBJECTS)\nPrinciples of Contemporary Public Relations\nIntroduction to Photo Communication\nPrinciples of Advertising\nOrganisational Communication\nDigital Journalism\nMedia Planning\nDigital Copywriting\nPR Management and Practice\nVideo Production COMMUNICATION CORE\n(12 SUBJECTS)\nIntroduction to Mass Communication in the Digital Age\nCommunication Theories\nPublic Speaking\nIntroduction to Multimedia\nFundamental Design\nDesktop Publishing\nDigital Audio and Sound Technology\nPersonal Development and Leadership Skills\nBasic TV Production\nMedia Law in Malaysia\nMedia Research Methods\nPractical Training COMMUNICATION CORE (12 SUBJECTS) Introduction to Mass Communication in the Digital Age\nCommunication Theories\nPublic Speaking\nIntroduction to Multimedia\nFundamental Design\nDesktop Publishing\nDigital Audio and Sound Technology\nPersonal Development and Leadership Skills\nBasic TV Production\nMedia Law in Malaysia\nMedia Research Methods\nPractical Training Introduction to Mass Communication in the Digital Age Communication Theories Public Speaking Introduction to Multimedia Fundamental Design Desktop Publishing Digital Audio and Sound Technology Personal Development and Leadership Skills Basic TV Production Media Law in Malaysia Media Research Methods Practical Training DISCIPLINE (9 SUBJECTS)\nPrinciples of Contemporary Public Relations\nIntroduction to Photo Communication\nPrinciples of Advertising\nOrganisational Communication\nDigital Journalism\nMedia Planning\nDigital Copywriting\nPR Management and Practice\nVideo Production DISCIPLINE (9 SUBJECTS) Principles of Contemporary Public Relations\nIntroduction to Photo Communication\nPrinciples of Advertising\nOrganisational Communication\nDigital Journalism\nMedia Planning\nDigital Copywriting\nPR Management and Practice\nVideo Production Principles of Contemporary Public Relations Introduction to Photo Communication Principles of Advertising Organisational Communication Digital Journalism Media Planning Digital Copywriting PR Management and Practice Video Production",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits in any subject (including a pass in Bahasa Malaysia and Sejarah and a credit in English)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (including English)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Bs (including a credit in English)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass or its equivalent, with a minimum Grade C (GP 2.00) in any subject.  Credit in English at SPM or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Creative Multimedia Production.",
+      "field_of_study": "Multimedia Design",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "3 Credits and a pass in English.",
+        "O-Level": "3 Credits and a pass in English.",
+        "UEC": "3 Credits (Grade B) and a pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 31180
+      },
+      "course_content": {
+        "core": "Year 1\nAcademic English\nIntroduction to Information Technology and Information System\nIntroduction to Programming\nIntroduction to Multimedia\nFundamentals of Design\nHistory of Media Arts\nColour Studies\nCreative Thinking\nDrawing for Concept Arts\nComputer Aided Drawing and Digital Typography\nVideo Capturing\nDigital Effects and Compositing\nAnimation in 2D\nDigital Audio and Sound Technology\nYear 2\nMultimedia Core Year 1 Year 2 3D Modelling and Animation\nAudio Production\nVideo Production\nDesktop Publishing\nPrint Production\nE-Commerce Strategy\nDigital Photography\nBranding\nMedia Law in Malaysia\nWorld Wide Web Production\nIntermediate English\nProject\nIndustrial Training (Creative Multimedia Technology)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Credits and a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Credits and a pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Credits (Grade B) and a pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Cambridge A-Levels (3 Subjects)",
+      "field_of_study": "A-Level",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits with passes in relevant Science subjects, Bahasa Malaysia and English.",
+        "O-Level": "5 credits with passes (Grade E) in relevant Science subjects and English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1050,
+        "tuition_fee": 22300
+      },
+      "course_content": {
+        "core": "Science\nBiology\nChemistry\nPhysics\nMathematics\nFurther Mathematics (only as a 4th subject)\nEnglish Language\nArts\nAccounting\nBusiness\nEconomics\nLaw\nPsychology\nMathematics\nEnglish Language\nArts Science Arts",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant Science subjects",
+              "Bahasa Malaysia",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits with passes in relevant Science subjects, Bahasa Malaysia and English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant Science subjects",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits with passes (Grade E) in relevant Science subjects and English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Cambridge A-Levels (4 Subjects)",
+      "field_of_study": "A-Level",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits with passes (Grade E) in relevant Science subjects and English.",
+        "O-Level": "5 credits with passes (Grade E) in relevant Science subjects and English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 1050,
+        "tuition_fee": 29300
+      },
+      "course_content": {
+        "core": "Science\nBiology\nChemistry\nPhysics\nMathematics\nFurther Mathematics (only as a 4th subject)\nEnglish Language\nArts\nAccounting\nBusiness\nEconomics\nLaw\nPsychology\nMathematics\nEnglish Language\nArts Science Arts",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits with passes (Grade E) in relevant Science subjects and English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits with passes (Grade E) in relevant Science subjects and English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "South Australian Certificate of Education (SACE International)",
+      "field_of_study": "Australian Matriculation (AUSMAT)",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits with passes in relevant Science subjects, Bahasa Malaysia and English.",
+        "O-Level": "5 credits with passes (Grade E) in relevant Science subjects and English.",
+        "UEC": "3 credits with passes (Grade B6) in relevant Science subjects and English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 700,
+        "tuition_fee": 20300
+      },
+      "course_content": {
+        "core": "English as an Additional Language\nScience:\nBiology\nChemistry\nPhysics\nMathematical Methods\nSpecialist Mathematics\nArts:\nAccounting\nEconomics\nInformation Technology\nLegal Studies\nMalay (Background Speakers)\nMathematical Methods\nPsychology Science: Arts:",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant Science subjects",
+              "Bahasa Malaysia",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits with passes in relevant Science subjects, Bahasa Malaysia and English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant Science subjects",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits with passes (Grade E) in relevant Science subjects and English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant Science subjects",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits with passes (Grade B6) in relevant Science subjects and English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts (Accounting)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "min. 5 credits including Mathematics and pass in English.",
+        "O-Level": "min. 5 credits including Mathematics and pass in English.",
+        "UEC": "min. 3 credits including Mathematics and pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 14280
+      },
+      "course_content": {
+        "core": "Introduction to Psychology\nIntroduction to Marketing\nAcademic English\nCritical Thinking and Problem Solving\nFoundation English\nIntroduction to Social Sciences\nPrinciples of Management\nStudy Skills\nIntroduction to Accounting\nBusiness Statistics\nIntroduction to Mass Communication\nIntroduction to Information Technology\nMathematics\nPrinciples of Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 5 credits including Mathematics and pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 5 credits including Mathematics and pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 3 credits including Mathematics and pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts (Psychology)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "min. 5 credits including Mathematics, any 1 science subject and a pass in English.",
+        "O-Level": "min. 5 credits including Mathematics, any 1 science subject and a pass in English.",
+        "UEC": "min. 3 credits including Mathematics, 1 science subject and pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 14280
+      },
+      "course_content": {
+        "core": "Introduction to Psychology\nIntroduction to Marketing\nAcademic English\nCritical Thinking and Problem Solving\nFoundation English\nIntroduction to Social Sciences\nPrinciples of Management\nStudy Skills\nIntroduction to Accounting\nBusiness Statistics\nIntroduction to Mass Communication\nIntroduction to Information Technology\nMathematics\nPrinciples of Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 5 credits including Mathematics, any 1 science subject and a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 5 credits including Mathematics, any 1 science subject and a pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 3 credits including Mathematics, 1 science subject and pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts (Communication)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "min. 5 credits including English.",
+        "O-Level": "min. 5 credits including English.",
+        "UEC": "min. 3 credits including English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 14280
+      },
+      "course_content": {
+        "core": "Introduction to Psychology\nIntroduction to Marketing\nAcademic English\nCritical Thinking and Problem Solving\nFoundation English\nIntroduction to Social Sciences\nPrinciples of Management\nStudy Skills\nIntroduction to Accounting\nBusiness Statistics\nIntroduction to Mass Communication\nIntroduction to Information Technology\nMathematics\nPrinciples of Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts (Business)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Credits (min Grade C), pass in English.",
+        "O-Level": "5 Credits (min Grade C), pass in English.",
+        "UEC": "3 Credits (min Grade B), pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 14280
+      },
+      "course_content": {
+        "core": "Introduction to Psychology\nIntroduction to Marketing\nAcademic English\nCritical Thinking and Problem Solving\nFoundation English\nIntroduction to Social Sciences\nPrinciples of Management\nStudy Skills\nIntroduction to Accounting\nBusiness Statistics\nIntroduction to Mass Communication\nIntroduction to Information Technology\nMathematics\nPrinciples of Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits (min Grade C), pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits (min Grade C), pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Credits (min Grade B), pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Medicine)",
+      "field_of_study": "Foundation in Science",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in Bahasa Malaysia and English.",
+        "O-Level": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in English.",
+        "UEC": "B4 in 3 subjects including Biology, Chemistry, Physics or Mathematics (or Additional Mathematics)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 600,
+        "tuition_fee": 14280
+      },
+      "course_content": {
+        "core": "Compulsory Courses: Critical Thinking and Problem Solving Foundation in English Academic English Study Skills E-Commerce Chemistry 1 Mathematics 1 Mathematics 2 Statistics Introduction to Information Technology  Pathway to Health / Biological Sciences: Biology 1 Biology 2 Chemistry 2 Introduction to Psychology Physics 1 or Introduction to Programming or",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Additional Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Bahasa Malaysia",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in Bahasa Malaysia and English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Additional Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "B4 in 3 subjects including Biology, Chemistry, Physics or Mathematics (or Additional Mathematics)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Dentistry)",
+      "field_of_study": "Foundation in Science",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in Bahasa Malaysia and English.",
+        "O-Level": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in English.",
+        "UEC": "B4 in 3 subjects including Biology, Chemistry, Physics or Mathematics (or Additional Mathematics)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 600,
+        "tuition_fee": 14280
+      },
+      "course_content": {
+        "core": "Compulsory Courses: Critical Thinking and Problem Solving Foundation in English Academic English Study Skills E-Commerce Chemistry 1 Mathematics 1 Mathematics 2 Statistics Introduction to Information Technology  Pathway to Health / Biological Sciences: Biology 1 Biology 2 Chemistry 2 Introduction to Psychology Physics 1 or Introduction to Programming or",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Additional Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Bahasa Malaysia",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in Bahasa Malaysia and English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Additional Mathematics",
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "B4 in 3 subjects including Biology, Chemistry, Physics or Mathematics (or Additional Mathematics)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Pharmacy)",
+      "field_of_study": "Foundation in Science",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in Bahasa Malaysia and English.",
+        "O-Level": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 600,
+        "tuition_fee": 14280
+      },
+      "course_content": {
+        "core": "Compulsory Courses: Critical Thinking and Problem Solving Foundation in English Academic English Study Skills E-Commerce Chemistry 1 Mathematics 1 Mathematics 2 Statistics Introduction to Information Technology  Pathway to Health / Biological Sciences: Biology 1 Biology 2 Chemistry 2 Introduction to Psychology Physics 1 or Introduction to Programming or",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Bahasa Malaysia",
+              "English",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in Bahasa Malaysia and English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English",
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Biomedical, Biotechnology and Sciences)",
+      "field_of_study": "Foundation in Science",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Credits in 5 subjects including Mathematics and 2 Science subjects and pass in Bahasa Malaysia & English.",
+        "O-Level": "Credit in 5 subjects including Mathematics and 2 Science subjects and pass in English.",
+        "UEC": "Grade B in 3 subjects including Mathematics and 2 Science subjects and pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 600,
+        "tuition_fee": 14280
+      },
+      "course_content": {
+        "core": "Compulsory Courses: Critical Thinking and Problem Solving Foundation in English Academic English Study Skills E-Commerce Chemistry 1 Mathematics 1 Mathematics 2 Statistics Introduction to Information Technology  Pathway to Health / Biological Sciences: Biology 1 Biology 2 Chemistry 2 Introduction to Psychology Physics 1 or Introduction to Programming or",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ],
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Credits in 5 subjects including Mathematics and 2 Science subjects and pass in Bahasa Malaysia & English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ],
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Credit in 5 subjects including Mathematics and 2 Science subjects and pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ],
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 subjects including Mathematics and 2 Science subjects and pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Engineering)",
+      "field_of_study": "Foundation in Science",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Credit in 5 subjects including Mathematics and 1 Physical Science subject.",
+        "O-Level": "Credit in 5 subjects including Mathematics and 1 Physical Science subject.",
+        "UEC": "Grade B in 3 subjects including Mathematics and 1 Physical Science subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 600,
+        "tuition_fee": 14280
+      },
+      "course_content": {
+        "core": "Compulsory Courses: Critical Thinking and Problem Solving Foundation in English Academic English Study Skills E-Commerce Chemistry 1 Mathematics 1 Mathematics 2 Statistics Introduction to Information Technology Pathway to Engineering / Physical Sciences: Physics 1 Physics 2 Mathematics 3 Introduction to Programming Biology 1 or Introduction to Psychology or",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Credit in 5 subjects including Mathematics and 1 Physical Science subject."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Credit in 5 subjects including Mathematics and 1 Physical Science subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 subjects including Mathematics and 1 Physical Science subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Computer Science and Software Engineering)",
+      "field_of_study": "Foundation in Science",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Credit in 5 subjects including Additional Mathematics.",
+        "O-Level": "Credit in 5 subjects including Additional Mathematics.",
+        "UEC": "Grade B in 3 subjects including Additional Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 600,
+        "tuition_fee": 14280
+      },
+      "course_content": {
+        "core": "Compulsory Courses: Critical Thinking and Problem Solving Foundation in English Academic English Study Skills E-Commerce Chemistry 1 Mathematics 1 Mathematics 2 Statistics Introduction to Information Technology Pathway to Engineering / Physical Sciences: Physics 1 Physics 2 Mathematics 3 Introduction to Programming Biology 1 or Introduction to Psychology or",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Credit in 5 subjects including Additional Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Credit in 5 subjects including Additional Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 subjects including Additional Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Information Technology and Information System)",
+      "field_of_study": "Foundation in Science",
+      "location": "Disted YCE Heritage, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Credit in 5 subjects including Mathematics.",
+        "O-Level": "Credit in 5 subjects including Mathematics.",
+        "UEC": "Grade B in 3 subjects including Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 600,
+        "tuition_fee": 14280
+      },
+      "course_content": {
+        "core": "Compulsory Courses: Critical Thinking and Problem Solving Foundation in English Academic English Study Skills E-Commerce Chemistry 1 Mathematics 1 Mathematics 2 Statistics Introduction to Information Technology Pathway to Engineering / Physical Sciences: Physics 1 Physics 2 Mathematics 3 Introduction to Programming Biology 1 or Introduction to Psychology or",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Credit in 5 subjects including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Credit in 5 subjects including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 subjects including Mathematics."
+          }
+        ]
+      }
+    }
+  ]
+}
