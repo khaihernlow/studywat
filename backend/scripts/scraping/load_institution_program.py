@@ -13,6 +13,10 @@ from pathlib import Path
 from typing import List, Optional, Dict, Any
 from pydantic import BaseModel, Field, ValidationError, field_validator, RootModel
 from pymongo import MongoClient
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # --------------- Pydantic models for validation ---------------
 
@@ -71,7 +75,9 @@ class Institution(BaseModel):
 
 # --------------- Loader & Inserter ---------------
 
-MONGO_URI = "mongodb+srv://khaihernlow:pVGISndplbaJVUmi@cluster0.esnww5v.mongodb.net/studywat?retryWrites=true&w=majority"
+MONGO_URI = os.getenv("MONGO_URI")
+if not MONGO_URI:
+    raise ValueError("Missing MONGO_URI! Check your .env file.")
 
 def main():
     print("Starting institution program loader...")

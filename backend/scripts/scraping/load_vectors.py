@@ -3,12 +3,16 @@ from pymongo import MongoClient
 import textwrap
 import math
 import time
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────────
 
-PINECONE_API_KEY = "pcsk_7HcnGY_5iuLsuHpbRuUXtj7jEU6enQRWpfnutm5KfEjmRhqJUKZgJjKrUhd27LtrMm3xxf"
-INDEX_NAME       = "course-content"
-MONGO_URI        = "mongodb+srv://khaihernlow:pVGISndplbaJVUmi@cluster0.esnww5v.mongodb.net/studywat?retryWrites=true&w=majority"
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+INDEX_NAME       = os.getenv("PINECONE_INDEX_NAME")
+MONGO_URI        = os.getenv("MONGO_URI")
 
 BATCH_SIZE       = 200   # how many vectors to upsert per call
 LOG_EVERY        = 10    # log every N institutions so you know it's alive
