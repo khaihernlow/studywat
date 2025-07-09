@@ -1,0 +1,27 @@
+[
+    {
+      "strategy": "direct",
+      "description": "Ask a clear, targeted question about exactly one trait."
+    },
+    {
+      "strategy": "scenario",
+      "description": "Pose a hypothetical situation that prompts the user to reveal their behavior or preference in context."
+    },
+    {
+      "strategy": "story",
+      "description": "Invite the user to share a personal story or past experience that naturally surfaces the trait."
+    },
+    {
+      "strategy": "interest_first",
+      "description": "Start from something the user has already mentioned, then pivot to probe the new trait."
+    },
+    {
+      "strategy": "contrast",
+      "description": "Present two or three contrasting options to let the user choose, exposing their preference."
+    },
+    {
+      "strategy": "ranking",
+      "description": "Ask the user to rank several factors or options, isolating which one best maps to the target trait."
+    }
+]
+  

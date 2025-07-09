@@ -4,9 +4,11 @@ import Layout from './components/Layout';
 import Home from './pages/Home';
 import Chat from './pages/Chat';
 import Login from './pages/Login';
+import University from './pages/University';
 import { PageTitleProvider } from './contexts/PageTitleContext';
 import { AuthProvider, useAuth } from './contexts/AuthContext';
 import Profile from './pages/Profile';
+import { Toaster } from 'sonner';
 
 // Protected Route component
 function ProtectedRoute({ children }: { children: React.ReactNode }) {
@@ -64,7 +66,7 @@ function AppRoutes() {
             <Route index element={<Home />} />
             <Route path="chat" element={<Chat />} />
             <Route path="profile" element={<Profile />} />
-            <Route path="search" element={<div className="p-6">Search coming soon...</div>} />
+            <Route path="university" element={<University />} />
             <Route path="settings" element={<div className="p-6">Settings coming soon...</div>} />
           </Route>
         </Routes>
@@ -78,6 +80,7 @@ function App() {
     <GoogleOAuthProvider clientId="290624832607-j5jrknsnhd1llhesekjsi2ctkvdkfc9n.apps.googleusercontent.com">
       <AuthProvider>
         <AppRoutes />
+        <Toaster />
       </AuthProvider>
     </GoogleOAuthProvider>
   );

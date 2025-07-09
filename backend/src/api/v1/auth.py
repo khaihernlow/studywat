@@ -8,6 +8,8 @@ from datetime import datetime, timedelta
 from typing import Optional
 from bson import ObjectId
 from ...clients.mongo_client import get_database
+import logging
+logger = logging.getLogger(__name__)
 
 router = APIRouter()
 security = HTTPBearer()
@@ -52,7 +54,7 @@ async def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(s
         
         return user
     except Exception as e:
-        print(f"Error finding user: {str(e)}")
+        logger.error(f"Error finding user: {str(e)}")
         raise HTTPException(status_code=401, detail="User not found")
 
 # Create JWT token
@@ -77,7 +79,7 @@ async def verify_google_token(token: str):
                 raise HTTPException(status_code=400, detail=f"Invalid Google token: {response.text}")
             return response.json()
     except Exception as e:
-        print(f"Error verifying Google token: {str(e)}")
+        logger.error(f"Error verifying Google token: {str(e)}")
         raise HTTPException(status_code=400, detail=f"Token verification error: {str(e)}")
 
 @router.post("/google", response_model=TokenResponse)
@@ -130,7 +132,7 @@ async def google_auth(request: GoogleTokenRequest):
         )
         
     except Exception as e:
-        print(f"Authentication error: {str(e)}")
+        logger.error(f"Authentication error: {str(e)}")
         raise HTTPException(status_code=400, detail=str(e))
 
 @router.get("/me", response_model=UserResponse)

@@ -1,7 +1,16 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
-#from .api.v1 import chat, auth
+from fastapi.responses import JSONResponse
+from fastapi.exception_handlers import RequestValidationError
+from fastapi.exceptions import RequestValidationError
+import logging
+logger = logging.getLogger(__name__)
 from .api.v1 import auth
+from .api.v1 import program_lists
+from .api.v1 import institution
+from .api.v1 import program
+from .api.v1 import orchestrator
+from .api.v1 import profile
 
 app = FastAPI(
     title="StudyWat API",
@@ -12,15 +21,19 @@ app = FastAPI(
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Configure this properly for production
+    allow_origins=["http://localhost:5173"],  # Only allow frontend dev server
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 # Include routers
-#app.include_router(chat.router, prefix="/api/v1/chat", tags=["chat"])
 app.include_router(auth.router, prefix="/auth", tags=["auth"])
+app.include_router(program_lists.router, prefix="/api/v1/program-lists", tags=["program_lists"])
+app.include_router(institution.router, prefix="/api/v1/institutions", tags=["institutions"])
+app.include_router(program.router, prefix="/api/v1/programs", tags=["programs"])
+app.include_router(orchestrator.router, prefix="/api/v1/orchestrator", tags=["orchestrator"])
+app.include_router(profile.router, prefix="/api/v1/profile", tags=["profile"])
 
 @app.get("/")
 async def root():
@@ -36,3 +49,11 @@ async def health_check():
         "status": "healthy",
         "service": "StudyWat API"
     }
+
+@app.exception_handler(RequestValidationError)
+async def validation_exception_handler(request: Request, exc: RequestValidationError):
+    logger.error("Validation error:", exc)
+    return JSONResponse(
+        status_code=422,
+        content={"detail": exc.errors(), "body": exc.body},
+    )
