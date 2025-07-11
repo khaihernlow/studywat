@@ -30,11 +30,10 @@ deploy_frontend:
     changes:
       - frontend/**/*
   image: node:20
-  before_script:
-    - npm install -g vite
-    - npm install -g aws-cli
   script:
     - cd frontend
     - npm ci
+    - echo "VITE_API_URL=$VITE_API_URL" > .env
     - npm run build
+    - npm install -g aws-cli
     - aws s3 sync dist/ s3://$S3_BUCKET_NAME/ --delete

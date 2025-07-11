@@ -120,5 +120,5 @@
 }
 
 .custom-bullet li::marker {
-  font-size: 0.8em; /* or whatever size you want */
+  font-size: 0.8em;
 }
