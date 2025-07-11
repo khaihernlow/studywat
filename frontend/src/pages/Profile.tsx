@@ -5,7 +5,7 @@ import ProfileCard from "../components/ProfileCard";
 
 export default function Profile() {
   const { setTitle } = usePageTitle();
-  const [traits, setTraits] = useState<any[]>([]); // Start with empty array
+  const [traits, setTraits] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {

@@ -5,6 +5,7 @@ stages:
 
 variables:
   AWS_REGION: "ap-southeast-5"
+  AWS_DEFAULT_REGION: "ap-southeast-5"
   LAMBDA_FUNCTION_NAME: "studywat-backend"
   S3_BUCKET_NAME: "studywat-frontend-my"
 
@@ -39,7 +40,7 @@ build_frontend:
     - npm run build
   artifacts:
     paths:
-      - frontend/dist
+      - frontend/dist/
 
 deploy_frontend:
   stage: deploy-frontend
@@ -47,5 +48,5 @@ deploy_frontend:
   dependencies:
     - build_frontend
   script:
-    - aws configure set region "$AWS_REGION"
-    - aws s3 sync frontend/dist "s3://$S3_BUCKET_NAME/" --delete
+    - ls -R .
+    - aws s3 sync frontend/dist/ "s3://$S3_BUCKET_NAME/" --delete
