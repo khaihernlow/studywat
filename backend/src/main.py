@@ -59,5 +59,5 @@ async def validation_exception_handler(request: Request, exc: RequestValidationE
         content={"detail": exc.errors(), "body": exc.body},
     )
 
-# For AWS Lambda [run3]
+# For AWS Lambda [run4]
 handler = Mangum(app)

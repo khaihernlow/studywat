@@ -21,7 +21,7 @@ deploy_backend:
     - "pip install --platform manylinux2014_x86_64 --target=lambda_build --implementation cp --python-version 3.12 --only-binary=:all: --upgrade -r requirements.txt"
     - cp -r src/* lambda_build/src/
     - apt-get update && apt-get install -y zip
-    - zip -r fastapi_lambda.zip lambda_build
+    - cd lambda_build && zip -r ../fastapi_lambda.zip . && cd ..
     - aws lambda update-function-code --function-name $LAMBDA_FUNCTION_NAME --zip-file fileb://fastapi_lambda.zip --region $AWS_REGION
 
 deploy_frontend:
