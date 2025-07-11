@@ -189,6 +189,8 @@ export default function Chat() {
   const [_pendingText, setPendingText] = useState('');
   const [_typingBotId, setTypingBotId] = useState<number | null>(null);
 
+  const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+
   // Rotating loading messages with typing effect and emoji
   const loadingMessages = [
     "🧠 Thinking hard…",
@@ -252,7 +254,7 @@ export default function Chat() {
     try {
       setIsLoadingHistory(true);
       const token = localStorage.getItem('token');
-      const response = await fetch('http://localhost:8000/api/v1/orchestrator/history', {
+      const response = await fetch(`${API_BASE_URL}/api/v1/orchestrator/history`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -313,7 +315,7 @@ export default function Chat() {
       ]);
       setPendingText(''); // Reset pending text
 
-      const response = await fetch('http://localhost:8000/api/v1/orchestrator/stream-turn', {
+      const response = await fetch(`${API_BASE_URL}/api/v1/orchestrator/stream-turn`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -372,7 +374,7 @@ export default function Chat() {
         // Fetch the latest chat history and update only the last assistant message's alert
         try {
           const token = localStorage.getItem('token');
-          const histResponse = await fetch('http://localhost:8000/api/v1/orchestrator/history', {
+          const histResponse = await fetch(`${API_BASE_URL}/api/v1/orchestrator/history`, {
             headers: {
               'Authorization': `Bearer ${token}`
             }
