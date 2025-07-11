@@ -44,9 +44,6 @@ build_frontend:
 deploy_frontend:
   stage: deploy-frontend
   image: amazon/aws-cli:latest
-  only:
-    refs:
-      - main
   dependencies:
     - build_frontend
   script:

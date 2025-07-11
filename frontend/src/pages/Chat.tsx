@@ -189,7 +189,7 @@ export default function Chat() {
   const [_pendingText, setPendingText] = useState('');
   const [_typingBotId, setTypingBotId] = useState<number | null>(null);
 
-  // Rotating loading messages with typing effect and emoji (emoji hardcoded in phrase)
+  // Rotating loading messages with typing effect and emoji
   const loadingMessages = [
     "🧠 Thinking hard…",
     "🔮 Consulting the study gods…",
