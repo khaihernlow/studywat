@@ -1,5 +1,7 @@
 stages:
-  - deploy
+  - deploy-backend
+  - build-frontend
+  - deploy-frontend
 
 variables:
   AWS_REGION: "ap-southeast-5"
@@ -7,11 +9,11 @@ variables:
   S3_BUCKET_NAME: "studywat-frontend-my"
 
 deploy_backend:
-  stage: deploy
+  stage: deploy-backend
+  image: python:3.12
   only:
     changes:
       - backend/**/*
-  image: python:3.12
   before_script:  
     - pip install --upgrade pip
     - pip install awscli
@@ -24,16 +26,29 @@ deploy_backend:
     - cd lambda_build && zip -r ../fastapi_lambda.zip . && cd ..
     - aws lambda update-function-code --function-name $LAMBDA_FUNCTION_NAME --zip-file fileb://fastapi_lambda.zip --region $AWS_REGION
 
-deploy_frontend:
-  stage: deploy
+build_frontend:
+  stage: build-frontend
+  image: node:20
   only:
     changes:
       - frontend/**/*
-  image: node:20
   script:
     - cd frontend
     - npm ci
     - echo "VITE_API_URL=$VITE_API_URL" > .env
     - npm run build
-    - npm install -g aws-cli
-    - aws s3 sync dist/ s3://$S3_BUCKET_NAME/ --delete
+  artifacts:
+    paths:
+      - frontend/dist
+
+deploy_frontend:
+  stage: deploy-frontend
+  image: amazon/aws-cli:latest
+  only:
+    refs:
+      - main
+  dependencies:
+    - build_frontend
+  script:
+    - aws configure set region "$AWS_REGION"
+    - aws s3 sync frontend/dist "s3://$S3_BUCKET_NAME/" --delete
