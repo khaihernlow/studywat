@@ -44,9 +44,10 @@ build_frontend:
 
 deploy_frontend:
   stage: deploy-frontend
-  image: amazon/aws-cli:latest
+  image: python:3.12
   dependencies:
     - build_frontend
+  before_script:
+    - pip install awscli
   script:
-    - ls -R frontend/dist/
     - aws s3 sync frontend/dist/ s3://$S3_BUCKET_NAME/ --delete
