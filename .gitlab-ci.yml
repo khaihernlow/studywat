@@ -17,9 +17,9 @@ deploy_backend:
     - pip install awscli
   script:
     - cd backend
-    - mkdir -p lambda_build
+    - mkdir -p lambda_build/src
     - "pip install --platform manylinux2014_x86_64 --target=lambda_build --implementation cp --python-version 3.12 --only-binary=:all: --upgrade -r requirements.txt"
-    - xcopy /E /I /Y src lambda_build\src
+    - cp -r src/* lambda_build/src/
     - Compress-Archive -Path .\lambda_build\* -DestinationPath .\fastapi_lambda.zip
     - aws lambda update-function-code --function-name $LAMBDA_FUNCTION_NAME --zip-file fileb://fastapi_lambda.zip --region $AWS_REGION
 
