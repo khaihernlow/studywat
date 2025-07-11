@@ -48,5 +48,6 @@ deploy_frontend:
   dependencies:
     - build_frontend
   script:
-    - ls -R .
-    - aws s3 sync frontend/dist/ "s3://$S3_BUCKET_NAME/" --delete
+    - echo "S3 bucket: $S3_BUCKET_NAME"
+    - ls -R frontend/dist/
+    - aws s3 sync frontend/dist/ s3://$S3_BUCKET_NAME/ --delete
