@@ -1,28 +1,7 @@
 import { useEffect, useState } from "react";
 import { usePageTitle } from "@/contexts/PageTitleContext";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Rocket, Brain, BookOpen, Flame, HelpCircle } from "lucide-react";
 import { getTraits } from "@/services/profileApi";
 import ProfileCard from "../components/ProfileCard";
-
-// Map trait to icon (as a function for dynamic props)
-const traitIcons: Record<string, (props?: any) => React.ReactNode> = {
-  goal: (props) => <Rocket {...props} />,
-  academic_strengths: (props) => <Brain {...props} />,
-  learning_style: (props) => <BookOpen {...props} />,
-  motivation: (props) => <Flame {...props} />,
-};
-
-// Map trait to gradient class
-const traitGradients: Record<string, string> = {
-  goal: "bg-gradient-to-r from-[#0096C7] to-[#ADE8F4]", // blue
-  academic_strengths: "bg-gradient-to-r from-[#3A5A40] to-[#DAD7CD]", // green
-  motivation: "bg-gradient-to-r from-[#CC5803] to-[#FFB627]", // orange
-  learning_style: "bg-gradient-to-r from-[#720026] to-[#CE4257]", // red-pink
-  // fallback for other traits
-  default: "bg-gradient-to-r from-[#4361EE] to-[#B9FBC0]", // purple to mint
-};
 
 export default function Profile() {
   const { setTitle } = usePageTitle();
@@ -42,7 +21,7 @@ export default function Profile() {
         );
         setLoading(false);
       })
-      .catch((err) => {
+      .catch(() => {
         setTraits([]);
         setLoading(false);
       });

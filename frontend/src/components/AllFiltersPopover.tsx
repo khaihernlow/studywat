@@ -137,60 +137,6 @@ export function AllFiltersPopover({
     setCostMax(val);
   };
 
-  const content = (
-    <div
-      ref={popoverRef}
-      className="w-80 max-h-[70vh] overflow-y-auto p-4 flex flex-col gap-4"
-    >
-      {renderSection('Country', countryOptions, countryFilter, setCountryFilter)}
-      <Separator />
-      {renderSection('Type', typeOptions, typeFilter, setTypeFilter)}
-      <Separator />
-      {renderSection('Ranking', rankingOptions, rankingFilter, setRankingFilter)}
-      <Separator />
-      {/* Cost filter section */}
-      <div className="w-full">
-        <div className="mb-2 font-medium text-sm text-muted-foreground">Cost (MYR)</div>
-        <div className="flex flex-wrap items-center gap-2 mb-2 w-full">
-          <Input
-            type="number"
-            min={costMinLimit}
-            max={costMax - 1}
-            value={costMin}
-            onChange={handleInputMin}
-            className="w-20 h-8 text-sm"
-            aria-label="Min cost"
-          />
-          <span className="text-muted-foreground text-xs">to</span>
-          <Input
-            type="number"
-            min={costMin + 1}
-            max={costMaxLimit}
-            value={costMax}
-            onChange={handleInputMax}
-            className="w-20 h-8 text-sm"
-            aria-label="Max cost"
-          />
-        </div>
-        <DualRangeSlider
-          min={costMinLimit}
-          max={costMaxLimit}
-          step={100}
-          value={[costMin, costMax]}
-          onValueChange={([min, max]: number[]) => {
-            setCostMin(min);
-            setCostMax(max);
-          }}
-          className="w-full"
-        />
-        <div className="flex justify-between text-xs text-muted-foreground mt-1 w-full">
-          <span>{costMinLimit.toLocaleString()}</span>
-          <span>{costMaxLimit.toLocaleString()}</span>
-        </div>
-      </div>
-    </div>
-  );
-
   if (isMobile) {
     return (
       <Drawer open={open} onOpenChange={setOpen}>

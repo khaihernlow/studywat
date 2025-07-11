@@ -6,7 +6,6 @@ import { Input } from './ui/input';
 import { Button } from './ui/button';
 import { MoreVertical, X } from 'lucide-react';
 import ReactDOM from 'react-dom';
-import { programListsApi } from '../services/programLists';
 import type { ProgramList } from '../services/programLists';
 import { toast } from 'sonner';
 import { Skeleton } from './ui/skeleton';

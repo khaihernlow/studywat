@@ -11,6 +11,7 @@ from .api.v1 import institution
 from .api.v1 import program
 from .api.v1 import orchestrator
 from .api.v1 import profile
+from mangum import Mangum
 
 app = FastAPI(
     title="StudyWat API",
@@ -57,3 +58,5 @@ async def validation_exception_handler(request: Request, exc: RequestValidationE
         status_code=422,
         content={"detail": exc.errors(), "body": exc.body},
     )
+
+handler = Mangum(app)

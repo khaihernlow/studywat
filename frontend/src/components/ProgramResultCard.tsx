@@ -56,7 +56,7 @@ interface ProgramResultCardProps {
 }
 
 const ProgramResultCard: React.FC<ProgramResultCardProps> = ({ program, lists, onRemoveProgramFromList }) => {
-  const [selectedLists, setSelectedLists] = useState<string[]>([]);
+  const [selectedLists, _setSelectedLists] = useState<string[]>([]);
   const [popoverOpen, setPopoverOpen] = useState(false);
   const buttonRef = useRef<HTMLButtonElement>(null);
   const popoverRef = useRef<HTMLDivElement>(null);

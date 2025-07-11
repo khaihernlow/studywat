@@ -1,6 +1,5 @@
 import { useEffect, useState, useRef, memo } from 'react';
 import { usePageTitle } from '@/contexts/PageTitleContext';
-import { useAuth } from '@/contexts/AuthContext';
 import { Send } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import type { Components } from 'react-markdown';
@@ -63,9 +62,6 @@ const markdownComponents: Components = {
     <td className="px-4 py-2 break-words max-w-md">{children}</td>
   ),
 };
-
-// Regex to match markdown tables
-const tableRegex = /^ *\|(.|\n)*?\| *$/gm;
 
 // Improved function to split markdown into table and text blocks
 function splitMarkdownBlocks(markdown: string) {
@@ -185,14 +181,13 @@ const ChatMessage = memo(function ChatMessage({ message }: { message: Message })
 
 export default function Chat() {
   const { setTitle } = usePageTitle();
-  const { user } = useAuth();
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const [messages, setMessages] = useState<Message[]>([]);
   const [inputValue, setInputValue] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [isLoadingHistory, setIsLoadingHistory] = useState(true);
-  const [pendingText, setPendingText] = useState('');
-  const [typingBotId, setTypingBotId] = useState<number | null>(null);
+  const [_pendingText, setPendingText] = useState('');
+  const [_typingBotId, setTypingBotId] = useState<number | null>(null);
 
   // Rotating loading messages with typing effect and emoji (emoji hardcoded in phrase)
   const loadingMessages = [
@@ -212,7 +207,6 @@ export default function Chat() {
   const [showDots, setShowDots] = useState(false);
   const typingInterval = 40; // ms per character
   const dotsDuration = 2200; // ms to show dots after message is fully typed (longer bounce)
-  const rotateInterval = 3000; // ms between message rotations
   useEffect(() => {
     if (!isLoading) return;
     setTypedMsg('');

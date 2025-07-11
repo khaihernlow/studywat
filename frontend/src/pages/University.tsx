@@ -2,7 +2,7 @@ import { useEffect, useState, useRef } from 'react';
 import { usePageTitle } from '@/contexts/PageTitleContext';
 import { Button } from '@/components/ui/button';
 import { FilterPopover } from '@/components/FilterPopover';
-import { RefreshCw, X } from 'lucide-react';
+import { X } from 'lucide-react';
 import { AllFiltersPopover } from '@/components/AllFiltersPopover';
 import ListCardRow from '@/components/ListCardRow';
 import FieldOfStudyFilterPopover from '@/components/FieldOfStudyFilterPopover';
@@ -15,7 +15,6 @@ import type { Program } from '@/services/programsApi';
 import { useSearchParams } from 'react-router-dom';
 import { programListsApi } from '@/services/programLists';
 import type { CreateProgramListDto, UpdateProgramListDto } from '@/services/programLists';
-import { Select } from '@/components/ui/select';
 
 export default function Home() {
   const { setTitle } = usePageTitle();
@@ -35,9 +34,9 @@ export default function Home() {
   // Backend-driven options
   const [countryOptions, setCountryOptions] = useState<{ label: string; value: string }[]>([]);
   const [universityOptions, setUniversityOptions] = useState<{ label: string; value: string }[]>([]);
-  const [loadingOptions, setLoadingOptions] = useState(true);
-  const [institutions, setInstitutions] = useState<Institution[]>([]);
-  const [loadingInstitutions, setLoadingInstitutions] = useState(false);
+  const [_loadingOptions, setLoadingOptions] = useState(true);
+  const [_institutions, setInstitutions] = useState<Institution[]>([]);
+  const [_loadingInstitutions, setLoadingInstitutions] = useState(false);
   const [programs, setPrograms] = useState<Program[]>([]);
   const [loadingPrograms, setLoadingPrograms] = useState(false);
 

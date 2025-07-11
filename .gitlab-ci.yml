@@ -1,19 +1,39 @@
-# You can override the included template(s) by including variable overrides
-# SAST customization: https://docs.gitlab.com/ee/user/application_security/sast/#customizing-the-sast-settings
-# Secret Detection customization: https://docs.gitlab.com/user/application_security/secret_detection/pipeline/configure
-# Dependency Scanning customization: https://docs.gitlab.com/ee/user/application_security/dependency_scanning/#customizing-the-dependency-scanning-settings
-# Container Scanning customization: https://docs.gitlab.com/ee/user/application_security/container_scanning/#customizing-the-container-scanning-settings
-# Note that environment variables can be set in several places
-# See https://docs.gitlab.com/ee/ci/variables/#cicd-variable-precedence
 stages:
-- test
-- secret-detection
-sast:
-  stage: test
-include:
-- template: Security/SAST.gitlab-ci.yml
-- template: Security/Secret-Detection.gitlab-ci.yml
+  - deploy
+
 variables:
-  SECRET_DETECTION_ENABLED: 'true'
-secret_detection:
-  stage: secret-detection
+  AWS_REGION: "ap-southeast-5"
+  LAMBDA_FUNCTION_NAME: "studywat-backend"
+  S3_BUCKET_NAME: "studywat-frontend-my"
+
+deploy_backend:
+  stage: deploy
+  only:
+    changes:
+      - backend/**/*
+  image: python:3.12
+  before_script:
+    - pip install --upgrade pip
+    - pip install awscli
+  script:
+    - cd backend
+    - mkdir -p lambda_build
+    - pip install --platform manylinux2014_x86_64 --target=lambda_build --implementation cp --python-version 3.12 --only-binary=:all: --upgrade -r requirements.txt
+    - xcopy /E /I /Y src lambda_build\src
+    - Compress-Archive -Path .\lambda_build\* -DestinationPath .\fastapi_lambda.zip
+    - aws lambda update-function-code --function-name $LAMBDA_FUNCTION_NAME --zip-file fileb://fastapi_lambda.zip --region $AWS_REGION
+
+deploy_frontend:
+  stage: deploy
+  only:
+    changes:
+      - frontend/**/*
+  image: node:20
+  before_script:
+    - npm install -g vite
+    - npm install -g aws-cli
+  script:
+    - cd frontend
+    - npm ci
+    - npm run build
+    - aws s3 sync dist/ s3://$S3_BUCKET_NAME/ --delete
