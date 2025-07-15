@@ -186,8 +186,8 @@ export default function Chat() {
   const [inputValue, setInputValue] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [isLoadingHistory, setIsLoadingHistory] = useState(true);
-  const [_pendingText, setPendingText] = useState('');
-  const [_typingBotId, setTypingBotId] = useState<number | null>(null);
+  const [_pendingText, _setPendingText] = useState('');
+  const [_typingBotId, _setTypingBotId] = useState<number | null>(null);
 
   const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
