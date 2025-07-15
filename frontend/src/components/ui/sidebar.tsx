@@ -180,6 +180,16 @@ function Sidebar({
   }
 
   if (isMobile) {
+    const [shouldRenderSheet, setShouldRenderSheet] = React.useState(openMobile);
+    React.useEffect(() => {
+      if (openMobile) {
+        setShouldRenderSheet(true);
+      } else {
+        const timeout = setTimeout(() => setShouldRenderSheet(false), 300); // match exit animation duration
+        return () => clearTimeout(timeout);
+      }
+    }, [openMobile]);
+    if (!shouldRenderSheet) return null;
     return (
       <Sheet open={openMobile} onOpenChange={setOpenMobile} {...props}>
         <SheetContent
