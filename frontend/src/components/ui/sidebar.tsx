@@ -162,7 +162,18 @@ function Sidebar({
   variant?: "sidebar" | "floating" | "inset"
   collapsible?: "offcanvas" | "icon" | "none"
 }) {
-  const { isMobile, state, openMobile, setOpenMobile } = useSidebar()
+  const { isMobile, state, openMobile, setOpenMobile } = useSidebar();
+
+  // Always call hooks at the top level
+  const [shouldRenderSheet, setShouldRenderSheet] = React.useState(openMobile);
+  React.useEffect(() => {
+    if (openMobile) {
+      setShouldRenderSheet(true);
+    } else {
+      const timeout = setTimeout(() => setShouldRenderSheet(false), 300); // match exit animation duration
+      return () => clearTimeout(timeout);
+    }
+  }, [openMobile]);
 
   if (collapsible === "none") {
     return (
@@ -180,15 +191,6 @@ function Sidebar({
   }
 
   if (isMobile) {
-    const [shouldRenderSheet, setShouldRenderSheet] = React.useState(openMobile);
-    React.useEffect(() => {
-      if (openMobile) {
-        setShouldRenderSheet(true);
-      } else {
-        const timeout = setTimeout(() => setShouldRenderSheet(false), 300); // match exit animation duration
-        return () => clearTimeout(timeout);
-      }
-    }, [openMobile]);
     if (!shouldRenderSheet) return null;
     return (
       <Sheet open={openMobile} onOpenChange={setOpenMobile} {...props}>
