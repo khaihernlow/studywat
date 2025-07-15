@@ -306,16 +306,7 @@ export default function Chat() {
         timestamp: m.timestamp
       }));
 
-      // Add a placeholder for the streaming assistant message
-      const botMessageId = Date.now() + 1;
-      setTypingBotId(botMessageId);
-      setMessages(prev => [
-        ...prev,
-        { id: botMessageId, text: '', isUser: false, timestamp: new Date(), alert: [] }
-      ]);
-      setPendingText(''); // Reset pending text
-
-      const response = await fetch(`${API_BASE_URL}/api/v1/orchestrator/stream-turn`, {
+      const response = await fetch(`${API_BASE_URL}/api/v1/orchestrator/turn`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -327,78 +318,25 @@ export default function Chat() {
         })
       });
 
-      if (response.ok && response.body) {
-        const reader = response.body.getReader();
-        let done = false;
-        let assistantText = '';
-        let isFirstChunk = true;
-        let botMessageId = Date.now() + 1;
-
-        while (!done) {
-          const { value, done: doneReading } = await reader.read();
-          done = doneReading;
-          if (value) {
-            const chunk = new TextDecoder().decode(value);
-            if (isFirstChunk) {
-              // The first chunk is the alert info as JSON
-              try {
-                const alertObj = JSON.parse(chunk);
-                const alert = alertObj.alert || null;
-                // Add the assistant message with alert and empty text
-                setMessages(prev => [
-                  ...prev,
-                  { id: botMessageId, text: '', isUser: false, timestamp: new Date(), alert }
-                ]);
-              } catch (err) {
-                // If parsing fails, just add an empty assistant message
-                setMessages(prev => [
-                  ...prev,
-                  { id: botMessageId, text: '', isUser: false, timestamp: new Date(), alert: [] }
-                ]);
-              }
-              isFirstChunk = false;
-            } else {
-              assistantText += chunk;
-              setMessages(prev =>
-                prev.map(msg =>
-                  msg.id === botMessageId
-                    ? { ...msg, text: assistantText }
-                    : msg
-                )
-              );
-            }
+      if (response.ok) {
+        const data = await response.json();
+        setMessages(prev => [
+          ...prev,
+          {
+            id: Date.now() + 1,
+            text: data.assistant_text,
+            isUser: false,
+            timestamp: new Date(),
+            alert: data.alert || []
           }
-        }
-        setIsLoading(false); // Hide loading dots after streaming is done
-
-        // Fetch the latest chat history and update only the last assistant message's alert
-        try {
-          const token = localStorage.getItem('token');
-          const histResponse = await fetch(`${API_BASE_URL}/api/v1/orchestrator/history`, {
-            headers: {
-              'Authorization': `Bearer ${token}`
-            }
-          });
-          if (histResponse.ok) {
-            const data = await histResponse.json();
-            const lastMsg = data.conversations[data.conversations.length - 1];
-            setMessages(prev =>
-              prev.map((msg, idx) =>
-                idx === prev.length - 1 && !msg.isUser
-                  ? { ...msg, alert: lastMsg.alert || [] }
-                  : msg
-              )
-            );
-          }
-        } catch (err) {
-          console.error('Failed to update alert for last assistant message:', err);
-        }
+        ]);
+        setIsLoading(false);
       } else {
         setMessages(prev => [
           ...prev,
           { id: Date.now() + 2, text: 'Sorry, something went wrong.', isUser: false, timestamp: new Date(), alert: [] }
         ]);
-        setTypingBotId(null);
+        setIsLoading(false);
       }
     } catch (error) {
       setMessages(prev => [
@@ -411,7 +349,7 @@ export default function Chat() {
           alert: [],
         }
       ]);
-      setTypingBotId(null);
+      setIsLoading(false);
     }
   };
 
@@ -423,8 +361,9 @@ export default function Chat() {
   };
 
   // Show loading indicator if isLoading and the latest assistant message has no text
-  const lastAssistantMsg = [...messages].reverse().find(m => !m.isUser);
-  const showLoadingIndicator = isLoading && (!lastAssistantMsg || lastAssistantMsg.text.length === 0);
+  //const lastAssistantMsg = [...messages].reverse().find(m => !m.isUser);
+  //const showLoadingIndicator = isLoading && (!lastAssistantMsg || lastAssistantMsg.text.length === 0);
+  const showLoadingIndicator = isLoading;
 
   // Show loading spinner while fetching history
   if (isLoadingHistory) {

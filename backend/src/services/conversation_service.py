@@ -61,15 +61,10 @@ class ConversationService:
             return "consolidation"
         return "recommendation"
 
-    async def stream_next_turn(self, user_profile, conversation_history):
-        """
-        Stream Gemini's response for the next turn as chunks (for FastAPI streaming).
-        The prompt is tailored based on the current state (exploration, consolidation, recommendation).
-        """
+    def _build_prompt(self, user_profile, conversation_history):
         state = self.get_state(user_profile)
         if state == "recommendation":
-            yield "Thank you for sharing! We now have enough information to make recommendations."
-            return
+            prompt = "Thank you for sharing! We now have enough information to make recommendations."
         elif state == "consolidation":
             low_conf_traits = [t for t in user_profile.traits if t.confidence < self.confidence_threshold]
             if low_conf_traits:
@@ -103,7 +98,6 @@ class ConversationService:
         else:
             prompt = "Ask a question to learn more about the user."
 
-        # Compose the full prompt with enhancements, probes, profile, and conversation context
         enhancements_section = self.format_enhancements_for_prompt()
         probes_section = self.format_probes_for_prompt()
         full_prompt = (
@@ -116,5 +110,15 @@ class ConversationService:
             "Next turn: \n"
             "Important: Only output the final message or question you would say to the user. Do not include your reasoning, trait selection, or probe selection in your response."
         )
+        return full_prompt
+
+    async def next_turn(self, user_profile, conversation_history):
+        full_prompt = self._build_prompt(user_profile, conversation_history)
+        return await self.gemini.generate_response([
+            {"role": "system", "content": full_prompt}
+        ])
+
+    async def stream_next_turn(self, user_profile, conversation_history):
+        full_prompt = self._build_prompt(user_profile, conversation_history)
         async for chunk in self.gemini.stream_response([full_prompt]):
             yield chunk

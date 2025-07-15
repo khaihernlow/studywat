@@ -38,7 +38,7 @@ build_frontend:
   script:
     - cd frontend
     - npm ci
-    - echo "VITE_API_URL=$VITE_API_URL" > .env.production
+    - echo "VITE_API_URL=$VITE_API_URL" > .env
     - npm run build
   artifacts:
     paths:

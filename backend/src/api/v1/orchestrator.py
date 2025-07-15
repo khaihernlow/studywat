@@ -29,6 +29,42 @@ class OrchestratorMessageResponse(BaseModel):
 
 # Remove the /message endpoint and its related code
 
+@router.post("/turn")
+async def next_turn(request: Request, current_user=Depends(get_current_user)):
+    try:
+        body = await request.json()
+        user_id = ObjectId(str(current_user["_id"]))
+        conversation_history = body.get("conversation_history", [])
+        user_message = body.get("message", "")
+
+        result = await orchestrator_service.process_user_message(
+            user_id,
+            user_message,
+            conversation_history
+        )
+        profile = result["profile"]
+        alert_data = result.get("alert", [])
+        alert_list = []
+        if alert_data and isinstance(alert_data, list):
+            alert_list = [Alert(**a) if isinstance(a, dict) else a for a in alert_data]
+
+        # Generate the full assistant response (non-streaming)
+        assistant_text = await conversation_service.next_turn(profile, conversation_history)
+        msg = ChatMessage(
+            role="assistant",
+            content=assistant_text,
+            timestamp=datetime.utcnow(),
+            alert=alert_list
+        )
+        await profile_service.append_chat_history(user_id, msg)
+        return {
+            "assistant_text": assistant_text,
+            "alert": [a.dict() for a in alert_list]
+        }
+    except Exception as e:
+        logger.error(f"Error in /turn: {e}", exc_info=True)
+        raise HTTPException(status_code=500, detail="Failed to get next turn")
+
 @router.post("/stream-turn")
 async def stream_next_turn(request: Request, current_user=Depends(get_current_user)):
     try:
@@ -48,7 +84,6 @@ async def stream_next_turn(request: Request, current_user=Depends(get_current_us
         if alert_data and isinstance(alert_data, list):
             alert_list = [Alert(**a) if isinstance(a, dict) else a for a in alert_data]
 
-        # Streaming generator
         async def event_generator_and_save():
             import json
             assistant_chunks = []
