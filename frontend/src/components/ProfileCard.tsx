@@ -13,10 +13,12 @@ import {
   Puzzle,
 } from "lucide-react";
 import { Skeleton } from "@/components/ui/skeleton";
+import { useNavigate } from "react-router-dom";
 
 interface ProfileCardProps {
   trait?: string;
   label?: string;
+  label_description?: string;
   loading?: boolean;
 }
 
@@ -48,7 +50,8 @@ function formatTrait(trait: string) {
   return trait.replace(/_/g, ' ').toUpperCase();
 }
 
-const ProfileCard: React.FC<ProfileCardProps> = ({ trait, label, loading = false }) => {
+const ProfileCard: React.FC<ProfileCardProps> = ({ trait, label, label_description, loading = false }) => {
+  const navigate = useNavigate();
   const gradient = trait && traitGradients[trait];
   const skeletonClass = "bg-gray-200 dark:bg-gray-700";
   return (
@@ -72,13 +75,30 @@ const ProfileCard: React.FC<ProfileCardProps> = ({ trait, label, loading = false
           size="sm"
           className="absolute top-2 right-2 bg-white text-gray-700 hover:bg-gray-100 px-3 py-1 rounded-full shadow"
           disabled={loading}
+          onClick={() => {
+            if (!loading && trait && label) {
+              navigate("/chat", { state: { trait, label } });
+            }
+          }}
         >
           {loading ? <Skeleton className={`w-8 h-4 ${skeletonClass}`} /> : "Ask"}
         </Button>
       </div>
-      {/* Bottom half: label, full width, left-aligned, with padding */}
-      <div className="flex-1 flex items-start bg-white text-gray-800 text-base rounded-b-lg w-full p-3">
-        {loading ? <Skeleton className={`w-full h-5 ${skeletonClass}`} /> : label}
+      {/* Bottom half: label and label_description */}
+      <div className="flex-1 flex flex-col items-start bg-white text-gray-800 rounded-b-lg w-full p-3">
+        {loading ? (
+          <>
+            <Skeleton className={`w-3/4 h-5 mb-2 ${skeletonClass}`} />
+            <Skeleton className={`w-full h-4 ${skeletonClass}`} />
+          </>
+        ) : (
+          <>
+            <div className="font-semibold text-base mb-1">{label}</div>
+            {label_description && (
+              <div className="text-sm text-muted-foreground leading-snug">{label_description}</div>
+            )}
+          </>
+        )}
       </div>
     </Card>
   );

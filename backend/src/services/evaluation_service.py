@@ -40,11 +40,14 @@ class EvaluationService:
         manifest_text = self.manifest_traits_text()
         trait_keys = self.get_trait_keys()
         prompt = (
-            "You are an educational psychologist. Here are the traits we are interested in, with their descriptions:\n"
+            "You are an educational psychologist and career coach. Here are the traits we are interested in, with their descriptions:\n"
             f"{manifest_text}\n"
             "Given the following turn and user answer, select the most relevant trait (from the list above). "
             "For the selected trait, return a JSON object with these fields: "
-            "trait (the trait key from the list), label (the specific characteristic, e.g., 'visual learner'), confidence (float between 0 and 1), and evidence (short text snippet justifying the label). "
+            "trait (the trait key from the list), label (the specific characteristic, e.g., 'Visual Learner'), "
+            "label_description (a 1-2 sentence, user-facing, vivid, and actionable description of the label, always written in the second person, as if speaking directly to the user. Do NOT write a dry summary or generic statement. Instead, make it personal, engaging, specific, and can be assumptive of their character/behavior when appropriate.), "
+            "confidence (float between 0 and 1), and evidence (short text snippet justifying the label). "
+            "The label should be phrased and capitalized for display as a card title. "
             "If the user's answer does not provide any information about a trait, return an empty JSON object {}.\n"
             f"Turn: {turn}\n"
             f"Answer: {user_answer}"
@@ -68,6 +71,7 @@ class EvaluationService:
                     result = {}
             trait = result.get("trait") or "unknown"
             label = result.get("label") or "unknown"
+            label_description = result.get("label_description") or ""
             confidence = result.get("confidence")
             if confidence is None:
                 confidence = 0.0
@@ -77,6 +81,7 @@ class EvaluationService:
                 result = {
                     "trait": trait,
                     "label": label,
+                    "label_description": label_description,
                     "confidence": confidence,
                     "evidence": evidence,
                     "timestamp": datetime.utcnow()
@@ -89,6 +94,7 @@ class EvaluationService:
             return {
                 "trait": "unknown",
                 "label": "unknown",
+                "label_description": "unknown",
                 "confidence": 0.0,
                 "evidence": "Could not parse LLM response.",
                 "timestamp": datetime.utcnow()

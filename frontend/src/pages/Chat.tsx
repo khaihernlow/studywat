@@ -4,6 +4,8 @@ import { Send } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import type { Components } from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import { useLocation, useNavigate } from 'react-router-dom';
+import { useIsMobile } from '@/hooks/use-mobile';
 
 interface Message {
   id: number;
@@ -188,6 +190,12 @@ export default function Chat() {
   const [isLoadingHistory, setIsLoadingHistory] = useState(true);
   const [_pendingText, _setPendingText] = useState('');
   const [_typingBotId, _setTypingBotId] = useState<number | null>(null);
+  const location = useLocation();
+  const navigate = useNavigate();
+  const autoSendMessageRef = useRef<string | null>(null);
+  const [autoSendReady, setAutoSendReady] = useState(false);
+  const [isAutomating, setIsAutomating] = useState(false);
+  const isMobile = useIsMobile();
 
   const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
@@ -244,6 +252,50 @@ export default function Chat() {
     setTitle('Chat Advisor');
     loadChatHistory();
   }, [setTitle]);
+
+  // Step 1: After chat loads, fill input and set up auto-send message
+  useEffect(() => {
+    if (
+      !isLoadingHistory &&
+      location.state &&
+      location.state.trait &&
+      location.state.label
+    ) {
+      setIsAutomating(true);
+      const { trait, label } = location.state;
+      const message = `Can you help me understand why you said my trait is ${label} for ${trait} from my profile? I’d love to know how you came up with that and what it says about me.`;
+      autoSendMessageRef.current = message;
+      setAutoSendReady(false);
+      // Wait 1 second after chat loads, then fill input
+      const fillTimer = setTimeout(() => {
+        setInputValue(message);
+        setAutoSendReady(true);
+      }, 1000);
+      return () => clearTimeout(fillTimer);
+    }
+  }, [isLoadingHistory, location.state]);
+
+  // Step 2: When inputValue matches auto-send message and ready, send after delay
+  useEffect(() => {
+    if (autoSendReady && inputValue && autoSendMessageRef.current && inputValue === autoSendMessageRef.current) {
+      const sendTimer = setTimeout(() => {
+        handleSendMessage();
+        // Clear the state so it doesn't repeat if user navigates back
+        navigate(location.pathname, { replace: true, state: {} });
+        autoSendMessageRef.current = null;
+        setAutoSendReady(false);
+        setIsAutomating(false);
+      }, 1500);
+      return () => clearTimeout(sendTimer);
+    }
+  }, [autoSendReady, inputValue, navigate, location.pathname]);
+
+  // If automation is cancelled (e.g., user navigates away), reset automation state
+  useEffect(() => {
+    return () => {
+      setIsAutomating(false);
+    };
+  }, []);
 
   // Auto-scroll to bottom when messages change
   useEffect(() => {
@@ -368,7 +420,7 @@ export default function Chat() {
   // Show loading spinner while fetching history
   if (isLoadingHistory) {
     return (
-      <div className="flex-1 flex items-center justify-center p-6">
+      <div className="flex-1 flex items-center justify-center p-6 min-h-screen">
         <div className="text-center w-full">
           <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-primary mx-auto mb-4"></div>
           <p className="text-muted-foreground">Loading your conversation history...</p>
@@ -378,53 +430,55 @@ export default function Chat() {
   }
 
   return (
-    <div className="p-6">
+    <div className="flex-1 flex flex-col min-h-0">
       {/* Messages Area */}
-      <div className="space-y-4 max-w-3xl mx-auto mb-4">
-        {messages.length === 0 && (
-          <div className="text-center text-muted-foreground py-8">
-            <p className="text-lg">Hello! I'm your study advisor. How can I help you today?</p>
-          </div>
-        )}
-        {messages.map((message) => (
-          <ChatMessage key={message.id} message={message} />
-        ))}
-        {showLoadingIndicator && (
-          <div className="flex flex-col items-start max-w-xs lg:max-w-md py-5">
-            <div className="mb-2 text-sm text-muted-foreground min-h-[1.5em] flex items-center">
-              <span style={{paddingRight: '0.5em'}}>{typedMsg}</span>
-              {showDots && (
-                <span className="flex items-center ml-2">
-                  <span className="w-2 h-2 bg-muted-foreground/40 rounded-full animate-bounce" style={{ animationDelay: '0s', opacity: 0.6 }}></span>
-                  <span className="w-2 h-2 bg-muted-foreground/40 rounded-full animate-bounce" style={{ animationDelay: '0.1s', opacity: 0.4, marginLeft: '0.2em' }}></span>
-                  <span className="w-2 h-2 bg-muted-foreground/40 rounded-full animate-bounce" style={{ animationDelay: '0.2s', opacity: 0.2, marginLeft: '0.2em' }}></span>
-                </span>
-              )}
+      <div className="flex-1 overflow-y-auto">
+        <div className="max-w-3xl mx-auto px-4 pt-6 pb-2 space-y-4">
+          {messages.length === 0 && (
+            <div className="text-center text-muted-foreground py-8">
+              <p className="text-lg">Hello! I'm your study advisor. How can I help you today?</p>
             </div>
-          </div>
-        )}
-        <div ref={messagesEndRef} />
+          )}
+          {messages.map((message) => (
+            <ChatMessage key={message.id} message={message} />
+          ))}
+          {showLoadingIndicator && (
+            <div className="flex flex-col items-start max-w-xs lg:max-w-md py-5">
+              <div className="mb-2 text-sm text-muted-foreground min-h-[1.5em] flex items-center">
+                <span style={{paddingRight: '0.5em'}}>{typedMsg}</span>
+                {showDots && (
+                  <span className="flex items-center ml-2">
+                    <span className="w-2 h-2 bg-muted-foreground/40 rounded-full animate-bounce" style={{ animationDelay: '0s', opacity: 0.6 }}></span>
+                    <span className="w-2 h-2 bg-muted-foreground/40 rounded-full animate-bounce" style={{ animationDelay: '0.1s', opacity: 0.4, marginLeft: '0.2em' }}></span>
+                    <span className="w-2 h-2 bg-muted-foreground/40 rounded-full animate-bounce" style={{ animationDelay: '0.2s', opacity: 0.2, marginLeft: '0.2em' }}></span>
+                  </span>
+                )}
+              </div>
+            </div>
+          )}
+          <div ref={messagesEndRef} />
+        </div>
       </div>
-
       {/* Input Area */}
-      <div className="border-t bg-background p-4 max-w-3xl mx-auto sticky bottom-0 z-20">
-        <div className="flex gap-2">
+      <div className="sticky bottom-0 w-full z-20 bg-background border-t px-4">
+        <div className="flex gap-2 w-full py-4 max-w-3xl mx-auto">
           <input
             type="text"
             value={inputValue}
             onChange={(e) => setInputValue(e.target.value)}
             onKeyPress={handleKeyPress}
             placeholder="Type your message..."
-            disabled={isLoading}
-            className="flex-1 px-3 py-2 border rounded-lg focus:outline-none disabled:opacity-50"
+            disabled={isLoading || isAutomating}
+            className="flex-1 px-4 py-2 border rounded focus:outline-none focus:ring-2 focus:ring-primary/50 bg-background"
           />
           <button
+            className="bg-primary text-white px-4 py-2 rounded disabled:opacity-50 flex items-center gap-2"
             onClick={handleSendMessage}
-            disabled={!inputValue.trim() || isLoading}
-            className="px-4 py-2 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+            disabled={isLoading || !inputValue.trim() || isAutomating}
+            aria-label="Send"
           >
-            <Send className="w-4 h-4" />
-            Send
+            <Send className="w-5 h-5" />
+            {!isMobile && <span>Send</span>}
           </button>
         </div>
       </div>

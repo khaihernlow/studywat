@@ -17,6 +17,7 @@ export default function Profile() {
           data.map((t: any) => ({
             trait: t.trait,
             label: t.label,
+            label_description: t.label_description,
           }))
         );
         setLoading(false);
@@ -37,7 +38,7 @@ export default function Profile() {
                 <ProfileCard key={i} loading={true} />
               ))
             : traits.map((trait) => (
-                <ProfileCard key={trait.trait} trait={trait.trait} label={trait.label} />
+                <ProfileCard key={trait.trait} trait={trait.trait} label={trait.label} label_description={trait.label_description} />
               ))}
         </div>
       </div>

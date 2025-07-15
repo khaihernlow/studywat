@@ -23,6 +23,7 @@ class PyObjectId(ObjectId):
 class Trait(BaseModel):
     trait: str  # The trait key, matching the manifest
     label: str
+    label_description: str
     confidence: float
     evidence: str
     timestamp: datetime
