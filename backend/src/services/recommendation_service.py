@@ -70,11 +70,25 @@ class RecommendationService:
             "For each course, return a JSON object with these fields:\n"
             "- course (the course name)\n"
             "- course_fit (1, 2, or 3)\n"
-            "- matched_traits (list of user's traits that relate to this course, this should come from the 'label' key from their profile)\n"
+            "- matched_traits (a list of the user's trait labels from the 'label' field in the traits that are relevant to this course)\n"
             "- reason (1-2 sentences explaining why it's a good match)\n"
-            "Return a JSON array of 10 objects.\n"
+            "Return ONLY a JSON array of 10 objects, with NO extra text, explanation, or formatting.\n"
+            "Example:\n"
+            "[\n"
+            "  {\n"
+            "    \"course\": \"Computer Science\",\n"
+            "    \"course_fit\": 1,\n"
+            "    \"matched_traits\": [\"analytical thinking\", \"problem solving\"],\n"
+            "    \"reason\": \"The user's traits indicate strong analytical skills, which are essential for Computer Science.\"\n"
+            "  },\n"
+            "  ...\n"
+            "]\n"
             f"User traits: {json.dumps(traits)}"
         )
+        # Log the first 3-4 lines of the prompt for debugging
+        # prompt_lines = prompt.split("\n")
+        # logger.info("Prompt preview: %s", "\n".join(prompt_lines[:4]))
+
         try:
             logger.info("Calling Gemini API for course recommendations")
             loop = asyncio.get_event_loop()
