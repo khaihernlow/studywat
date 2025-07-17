@@ -12,10 +12,10 @@ variables:
 deploy_backend:
   stage: deploy-backend
   image: python:3.12
-  only:
-    changes:
-      - backend/**/*
-      - .gitlab-ci.yml
+  rules:
+    - changes:
+        - backend/**/*
+        - .gitlab-ci.yml
   before_script:  
     - pip install --upgrade pip
     - pip install awscli
@@ -31,10 +31,10 @@ deploy_backend:
 build_frontend:
   stage: build-frontend
   image: node:20
-  only:
-    changes:
-      - frontend/**/*
-      - .gitlab-ci.yml
+  rules:
+    - changes:
+        - frontend/**/*
+        - .gitlab-ci.yml
   script:
     - cd frontend
     - npm ci
@@ -49,6 +49,10 @@ deploy_frontend:
   image: python:3.12
   dependencies:
     - build_frontend
+  rules:
+    - changes:
+        - frontend/**/*
+        - .gitlab-ci.yml
   before_script:
     - pip install awscli
   script:
