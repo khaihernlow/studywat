@@ -4,6 +4,12 @@ from fastapi.responses import JSONResponse
 from fastapi.exception_handlers import RequestValidationError
 from fastapi.exceptions import RequestValidationError
 import logging
+
+logging.basicConfig(
+    level=logging.INFO,  # Change to logging.DEBUG for even more detail
+    format="%(asctime)s %(levelname)s [%(name)s] %(message)s"
+)
+
 logger = logging.getLogger(__name__)
 from .api.v1 import auth
 from .api.v1 import program_lists
@@ -11,6 +17,7 @@ from .api.v1 import institution
 from .api.v1 import program
 from .api.v1 import orchestrator
 from .api.v1 import profile
+from .api.v1 import recommendation
 from mangum import Mangum
 
 app = FastAPI(
@@ -39,6 +46,7 @@ app.include_router(institution.router, prefix="/api/v1/institutions", tags=["ins
 app.include_router(program.router, prefix="/api/v1/programs", tags=["programs"])
 app.include_router(orchestrator.router, prefix="/api/v1/orchestrator", tags=["orchestrator"])
 app.include_router(profile.router, prefix="/api/v1/profile", tags=["profile"])
+app.include_router(recommendation.router, prefix="/api/v1", tags=["recommendation"])
 
 @app.get("/")
 async def root():

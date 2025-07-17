@@ -73,7 +73,7 @@ const ProfileCard: React.FC<ProfileCardProps> = ({ trait, label, label_descripti
         </span>
         <Button
           size="sm"
-          className="absolute top-2 right-2 bg-white text-gray-700 hover:bg-gray-100 px-3 py-1 rounded-full shadow"
+          className="absolute top-2 right-2 bg-white text-gray-700 hover:bg-gray-100 px-3 py-1 rounded-full shadow cursor-pointer"
           disabled={loading}
           onClick={() => {
             if (!loading && trait && label) {

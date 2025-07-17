@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { usePageTitle } from "@/contexts/PageTitleContext";
 import { getTraits } from "@/services/profileApi";
 import ProfileCard from "../components/ProfileCard";
+import CourseSuggestions from "../components/CourseSuggestions";
 
 export default function Profile() {
   const { setTitle } = usePageTitle();
@@ -31,7 +32,11 @@ export default function Profile() {
   return (
     <div className="p-6">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-2xl font-bold mb-4">Profile</h1>
+        <h1 className="text-2xl font-bold mb-6">About Me</h1>
+        <div className="mb-8">
+          <h2 className="text-lg font-semibold mb-3">Suggested Courses to Study</h2>
+          <CourseSuggestions />
+        </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 items-stretch">
           {loading
             ? Array.from({ length: 3 }).map((_, i) => (

@@ -3,6 +3,9 @@ from datetime import datetime
 from src.clients.mongo_client import get_database
 from src.models.pydantic.profile import Profile, Trait, PyObjectId, ChatMessage, Alert
 from typing import Dict, Any, List
+import logging
+
+logger = logging.getLogger(__name__)
 
 class ProfileService:
     def __init__(self):
@@ -55,3 +58,17 @@ class ProfileService:
         # Return updated profile
         doc = await self.collection.find_one({"user_id": user_id})
         return Profile(**doc)
+
+    async def get_courses_recommendation(self, user_id: ObjectId) -> list:
+        doc = await self.collection.find_one({"user_id": user_id})
+        if doc and "courses_recommendation" in doc:
+            return doc["courses_recommendation"]
+        return []
+
+    async def update_courses_recommendation(self, user_id: ObjectId, recommendations: list) -> None:
+        logger.info(f"Storing {len(recommendations)} recommendations for user_id={user_id}")
+        await self.collection.update_one(
+            {"user_id": user_id},
+            {"$set": {"courses_recommendation": recommendations}}
+        )
+        logger.info(f"Successfully stored recommendations for user_id={user_id}")

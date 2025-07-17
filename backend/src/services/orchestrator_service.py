@@ -7,12 +7,14 @@ from bson import ObjectId
 from src.services.profile_service import ProfileService
 from src.services.conversation_service import ConversationService
 from src.services.evaluation_service import EvaluationService
+from src.services.recommendation_service import RecommendationService
+import asyncio
 from src.models.pydantic.profile import Trait, ChatMessage, Alert, AlertType
 from datetime import datetime
 from src.clients.mongo_client import get_database
-from typing import Dict, Any, List
-import time
+from typing import Dict, Any, List, Optional
 import logging
+
 logger = logging.getLogger(__name__)
 
 class OrchestratorService:
@@ -24,16 +26,22 @@ class OrchestratorService:
         self.profile_service = ProfileService()
         self.conversation_service = ConversationService()
         self.evaluation_service = EvaluationService()
+        self.recommendation_service = RecommendationService()
         self.db = get_database()
 
-    async def process_user_message(self, user_id: ObjectId, user_message: str, conversation_history=None) -> dict:
-        logger.debug("IN process_user_message, about to await get_profile")
+    async def process_user_message(
+        self, 
+        user_id: ObjectId, 
+        user_message: str, 
+        conversation_history: Optional[List[Dict[str, Any]]] = None
+    ) -> dict:
+        """
+        Process a user message: update profile, save chat, evaluate traits, and return updated profile and alerts.
+        """
         profile = await self.profile_service.get_profile(user_id)
-        logger.debug("IN process_user_message, got profile:", profile)
         if not profile:
-            logger.debug("IN process_user_message, about to await create_profile")
             profile = await self.profile_service.create_profile(user_id)
-            logger.debug("IN process_user_message, got new profile:", profile)
+            logger.info(f"Created new profile for user_id={user_id}")
 
         # Save user message to chat_history
         user_msg = ChatMessage(
@@ -42,24 +50,12 @@ class OrchestratorService:
             timestamp=datetime.utcnow(),
             alert=[]
         )
-        logger.debug("IN process_user_message, about to await append_chat_history (user)")
         await self.profile_service.append_chat_history(user_id, user_msg)
-        logger.debug("IN process_user_message, appended user message")
 
-        # Evaluate answer for every user message
         alert_for_update = None
         if user_message:
-            last_turn = None
-            if conversation_history:
-                for msg in reversed(conversation_history):
-                    if msg.get("role") == "assistant":
-                        last_turn = msg.get("content")
-                        break
-            if not last_turn:
-                last_turn = None
-            logger.debug("IN process_user_message, about to await evaluation_service.evaluate_answer")
+            last_turn = self._get_last_assistant_message(conversation_history)
             eval_result = await self.evaluation_service.evaluate_answer(last_turn, user_message)
-            logger.debug(f"[DEBUG] eval_result: {eval_result} (type: {type(eval_result)})")
             if (
                 eval_result
                 and isinstance(eval_result, dict)
@@ -69,20 +65,48 @@ class OrchestratorService:
                 and eval_result.get("evidence")
                 and eval_result.get("timestamp")
             ):
-                logger.debug(f"[TRAIT INSERTED] {eval_result}")
                 trait = Trait(**eval_result)
-                logger.debug("IN process_user_message, about to await merge_trait")
                 profile = await self.profile_service.merge_trait(user_id, trait)
-                logger.debug("IN process_user_message, merged trait, got profile:", profile)
+                logger.info(f"Profile updated with new trait for user_id={user_id}")
                 alert_for_update = Alert(type=AlertType.profile_update, message="Profile has been updated.")
-            else:
-                logger.debug(f"[TRAIT SKIPPED] No valid trait found or missing required fields. eval_result: {eval_result}")
-                # No alert, just proceed
 
+                # Trigger recommendations in the background
+                if len(profile.traits) >= 1:
+                    asyncio.create_task(self._update_recommendations(user_id, profile))
+
+        logger.info("returning message response!")
         return {
             "profile": profile,
             "alert": [alert_for_update] if alert_for_update else []
         }
+
+    async def _update_recommendations(self, user_id: ObjectId, profile):
+        """
+        Generate and store recommendations for the user profile, but only update if the new list is not smaller than the existing one.
+        """
+        try:
+            logger.info(f"Starting recommendation update for user_id={user_id}")
+            recs = await self.recommendation_service.recommend_courses(profile.dict())
+            logger.info(f"Generated {len(recs)} recommendations for user_id={user_id}")
+            existing_recs = await self.profile_service.get_courses_recommendation(user_id)
+            if len(recs) >= len(existing_recs):
+                await self.profile_service.update_courses_recommendation(user_id, recs)
+                logger.info(f"Updated courses_recommendation for user_id={user_id}")
+            else:
+                logger.info(f"Did not update courses_recommendation for user_id={user_id} because new recommendations ({len(recs)}) < existing ({len(existing_recs)})")
+        except Exception as e:
+            logger.error(f"Failed to update courses_recommendation for user_id={user_id}: {e}")
+
+    @staticmethod
+    def _get_last_assistant_message(conversation_history: Optional[List[Dict[str, Any]]]) -> Optional[str]:
+        """
+        Helper to get the last assistant message from conversation history.
+        """
+        if conversation_history:
+            for msg in reversed(conversation_history):
+                if msg.get("role") == "assistant":
+                    return msg.get("content")
+        return None
 
     async def get_chat_history(self, user_id: ObjectId) -> List[Dict[str, Any]]:
         """

@@ -9,6 +9,7 @@ import { PageTitleProvider } from './contexts/PageTitleContext';
 import { AuthProvider, useAuth } from './contexts/AuthContext';
 import Profile from './pages/Profile';
 import { Toaster } from 'sonner';
+import { ChatProvider } from './contexts/ChatContext';
 
 // Protected Route component
 function ProtectedRoute({ children }: { children: React.ReactNode }) {
@@ -79,8 +80,10 @@ function App() {
   return (
     <GoogleOAuthProvider clientId="290624832607-j5jrknsnhd1llhesekjsi2ctkvdkfc9n.apps.googleusercontent.com">
       <AuthProvider>
+        <ChatProvider>
         <AppRoutes />
         <Toaster />
+        </ChatProvider>
       </AuthProvider>
     </GoogleOAuthProvider>
   );

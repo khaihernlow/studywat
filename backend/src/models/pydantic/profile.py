@@ -48,6 +48,7 @@ class Profile(BaseModel):
     traits: List[Trait] = []
     updated_at: datetime
     chat_history: List[ChatMessage] = []
+    courses_recommendation: Optional[list] = None
 
     class Config:
         validate_by_name = True

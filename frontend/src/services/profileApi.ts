@@ -11,3 +11,9 @@ export async function getTraits(): Promise<any[]> {
   });
   return res.data;
 }
+
+export async function getCourseRecommendations(userId: string) {
+  const res = await fetch(`${API_BASE_URL}/api/v1/recommendations/${userId}`);
+  if (!res.ok) throw new Error('Failed to fetch recommendations');
+  return res.json();
+}

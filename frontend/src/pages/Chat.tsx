@@ -6,14 +6,8 @@ import type { Components } from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { useIsMobile } from '@/hooks/use-mobile';
-
-interface Message {
-  id: number;
-  text: string;
-  isUser: boolean;
-  timestamp: Date;
-  alert: { type: string; message: string }[];
-}
+import { useChatContext } from '@/contexts/ChatContext';
+import type { Message } from '@/contexts/ChatContext';
 
 const markdownComponents: Components = {
   p: ({ children }) => <p className="mb-3 last:mb-0">{children}</p>,
@@ -184,10 +178,9 @@ const ChatMessage = memo(function ChatMessage({ message }: { message: Message })
 export default function Chat() {
   const { setTitle } = usePageTitle();
   const messagesEndRef = useRef<HTMLDivElement>(null);
-  const [messages, setMessages] = useState<Message[]>([]);
+  const { messages, setMessages, isLoadingHistory, setIsLoadingHistory } = useChatContext();
   const [inputValue, setInputValue] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const [isLoadingHistory, setIsLoadingHistory] = useState(true);
   const [_pendingText, _setPendingText] = useState('');
   const [_typingBotId, _setTypingBotId] = useState<number | null>(null);
   const location = useLocation();
@@ -196,6 +189,7 @@ export default function Chat() {
   const [autoSendReady, setAutoSendReady] = useState(false);
   const [isAutomating, setIsAutomating] = useState(false);
   const isMobile = useIsMobile();
+  const firstLoadRef = useRef(true);
 
   const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
@@ -263,7 +257,7 @@ export default function Chat() {
     ) {
       setIsAutomating(true);
       const { trait, label } = location.state;
-      const message = `Can you help me understand why you said my trait is ${label} for ${trait} from my profile? I’d love to know how you came up with that and what it says about me.`;
+      const message = `Can you help me understand why you said my trait is ${label} for ${trait} from my profile? I'd love to know how you came up with that and what it says about me. Let's talk about that!`;
       autoSendMessageRef.current = message;
       setAutoSendReady(false);
       // Wait 1 second after chat loads, then fill input
@@ -299,10 +293,21 @@ export default function Chat() {
 
   // Auto-scroll to bottom when messages change
   useEffect(() => {
-    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
-  }, [messages]);
+    if (messagesEndRef.current) {
+      // Use smooth scroll only on first load after reload
+      const behavior = firstLoadRef.current && !isLoadingHistory ? 'smooth' : 'auto';
+      messagesEndRef.current.scrollIntoView({ behavior });
+      if (!isLoadingHistory) {
+        firstLoadRef.current = false;
+      }
+    }
+  }, [messages, isLoadingHistory]);
 
   const loadChatHistory = async () => {
+    if (messages.length > 0) {
+      setIsLoadingHistory(false);
+      return;
+    }
     try {
       setIsLoadingHistory(true);
       const token = localStorage.getItem('token');
@@ -315,9 +320,6 @@ export default function Chat() {
       if (response.ok) {
         const data = await response.json();
         const historyMessages: Message[] = data.conversations.map((msg: any, index: number) => {
-          // if (msg.role === 'assistant') {
-          //   console.log('🤖 Historical AI Response:', msg.content);
-          // }
           return {
             id: index,
             text: msg.content,
@@ -469,10 +471,10 @@ export default function Chat() {
             onKeyPress={handleKeyPress}
             placeholder="Type your message..."
             disabled={isLoading || isAutomating}
-            className="flex-1 px-4 py-2 border rounded focus:outline-none focus:ring-2 focus:ring-primary/50 bg-background"
+            className={`flex-1 px-4 py-2 border focus:outline-none focus:ring-2 focus:ring-primary/50 bg-background ${isMobile ? 'rounded-full' : 'rounded-2xl'}`}
           />
           <button
-            className="bg-primary text-white px-4 py-2 rounded disabled:opacity-50 flex items-center gap-2"
+            className={`bg-primary text-white px-4 py-2 disabled:opacity-50 flex items-center gap-2 ${isMobile ? 'rounded-full' : 'rounded-2xl'}`}
             onClick={handleSendMessage}
             disabled={isLoading || !inputValue.trim() || isAutomating}
             aria-label="Send"
