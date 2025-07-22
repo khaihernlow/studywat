@@ -5,10 +5,17 @@ import { useNavigate } from 'react-router-dom';
 import { GoogleLogin } from '@react-oauth/google';
 import signinCover from "@/assets/signin_cover.jpg";
 import vialingLogo from "@/assets/vialing-logo.png";
+import { usePageTitle } from '@/contexts/PageTitleContext';
+import { useEffect } from 'react';
 
 export default function Login({ className, ...props }: React.ComponentProps<"div">) {
   const { login } = useAuth();
   const navigate = useNavigate();
+  const { setTitle } = usePageTitle();
+
+  useEffect(() => {
+    setTitle('Login');
+  }, [setTitle]);
 
   const handleGoogleSuccess = async (credentialResponse: any) => {
     try {

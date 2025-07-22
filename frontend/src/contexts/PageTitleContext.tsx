@@ -1,4 +1,4 @@
-import { createContext, useContext, useState } from 'react';
+import { createContext, useContext, useState, useEffect } from 'react';
 import type { ReactNode } from 'react';
 
 interface PageTitleContextType {
@@ -10,6 +10,10 @@ const PageTitleContext = createContext<PageTitleContextType | undefined>(undefin
 
 export function PageTitleProvider({ children }: { children: ReactNode }) {
   const [title, setTitle] = useState('Page');
+
+  useEffect(() => {
+    document.title = `Studywat - ${title}`;
+  }, [title]);
 
   return (
     <PageTitleContext.Provider value={{ title, setTitle }}>
