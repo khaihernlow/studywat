@@ -8,6 +8,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import { useIsMobile } from '@/hooks/use-mobile';
 import { useChatContext } from '@/contexts/ChatContext';
 import type { Message } from '@/contexts/ChatContext';
+import { useAuth } from '@/contexts/AuthContext';
 
 const markdownComponents: Components = {
   p: ({ children }) => <p className="mb-3 last:mb-0">{children}</p>,
@@ -190,6 +191,7 @@ export default function Chat() {
   const [isAutomating, setIsAutomating] = useState(false);
   const isMobile = useIsMobile();
   const firstLoadRef = useRef(true);
+  const { getValidAccessToken } = useAuth();
 
   const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
@@ -310,7 +312,8 @@ export default function Chat() {
     }
     try {
       setIsLoadingHistory(true);
-      const token = localStorage.getItem('token');
+      const token = await getValidAccessToken();
+      if (!token) throw new Error('Not authenticated');
       const response = await fetch(`${API_BASE_URL}/api/v1/orchestrator/history`, {
         headers: {
           'Authorization': `Bearer ${token}`
@@ -353,7 +356,8 @@ export default function Chat() {
     setIsLoading(true);
 
     try {
-      const token = localStorage.getItem('token');
+      const token = await getValidAccessToken();
+      if (!token) throw new Error('Not authenticated');
       const conversation_history = [...messages, userMessage].map(m => ({
         role: m.isUser ? 'user' : 'assistant',
         content: m.text,

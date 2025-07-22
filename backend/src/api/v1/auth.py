@@ -17,7 +17,8 @@ security = HTTPBearer()
 # Security settings
 SECRET_KEY = os.getenv("JWT_SECRET_KEY", "your-secret-key-change-this")
 ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 30
+ACCESS_TOKEN_EXPIRE_MINUTES = 30  # 30 minutes
+REFRESH_TOKEN_EXPIRE_DAYS = 30    # 30 days
 
 # Pydantic models
 class GoogleTokenRequest(BaseModel):
@@ -33,6 +34,7 @@ class TokenResponse(BaseModel):
     access_token: str
     token_type: str
     user: UserResponse
+    refresh_token: str  # Add refresh token to response
 
 # Dependency to get current user
 async def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(security)):
@@ -65,6 +67,17 @@ def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):
     else:
         expire = datetime.utcnow() + timedelta(minutes=15)
     to_encode.update({"exp": expire})
+    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
+    return encoded_jwt
+
+# Create refresh token
+def create_refresh_token(data: dict, expires_delta: Optional[timedelta] = None):
+    to_encode = data.copy()
+    if expires_delta:
+        expire = datetime.utcnow() + expires_delta
+    else:
+        expire = datetime.utcnow() + timedelta(days=REFRESH_TOKEN_EXPIRE_DAYS)
+    to_encode.update({"exp": expire, "type": "refresh"})
     encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
     return encoded_jwt
 
@@ -114,10 +127,14 @@ async def google_auth(request: GoogleTokenRequest):
             user_data["_id"] = str(result.inserted_id)
             user = user_data
         
-        # Create JWT token
+        # Create JWT tokens
         access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+        refresh_token_expires = timedelta(days=REFRESH_TOKEN_EXPIRE_DAYS)
         access_token = create_access_token(
             data={"sub": str(user["_id"])}, expires_delta=access_token_expires
+        )
+        refresh_token = create_refresh_token(
+            data={"sub": str(user["_id"])}, expires_delta=refresh_token_expires
         )
         
         return TokenResponse(
@@ -128,7 +145,8 @@ async def google_auth(request: GoogleTokenRequest):
                 name=user["name"],
                 email=user["email"],
                 avatar=user["avatar"]
-            )
+            ),
+            refresh_token=refresh_token
         )
         
     except Exception as e:
@@ -149,3 +167,46 @@ async def logout():
     # In a more complex setup, you might want to blacklist the token
     # For now, we'll just return success
     return {"message": "Logged out successfully"}
+
+class RefreshTokenRequest(BaseModel):
+    refresh_token: str
+
+@router.post("/refresh", response_model=TokenResponse)
+async def refresh_token(request: RefreshTokenRequest):
+    try:
+        payload = jwt.decode(request.refresh_token, SECRET_KEY, algorithms=[ALGORITHM])
+        if payload.get("type") != "refresh":
+            raise HTTPException(status_code=401, detail="Invalid refresh token type")
+        user_id = payload.get("sub")
+        if user_id is None:
+            raise HTTPException(status_code=401, detail="Invalid refresh token")
+        db = get_database()
+        object_id = ObjectId(user_id)
+        user = await db.users.find_one({"_id": object_id})
+        if user is None:
+            raise HTTPException(status_code=401, detail="User not found")
+        # Issue new access and refresh tokens
+        access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+        refresh_token_expires = timedelta(days=REFRESH_TOKEN_EXPIRE_DAYS)
+        access_token = create_access_token(
+            data={"sub": str(user["_id"])} , expires_delta=access_token_expires
+        )
+        refresh_token = create_refresh_token(
+            data={"sub": str(user["_id"])} , expires_delta=refresh_token_expires
+        )
+        return TokenResponse(
+            access_token=access_token,
+            token_type="bearer",
+            user=UserResponse(
+                id=str(user["_id"]),
+                name=user["name"],
+                email=user["email"],
+                avatar=user["avatar"]
+            ),
+            refresh_token=refresh_token
+        )
+    except JWTError:
+        raise HTTPException(status_code=401, detail="Invalid refresh token")
+    except Exception as e:
+        logger.error(f"Refresh token error: {str(e)}")
+        raise HTTPException(status_code=400, detail=str(e))

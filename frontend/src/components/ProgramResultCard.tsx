@@ -5,7 +5,7 @@ import { Button } from './ui/button';
 import { Drawer, DrawerContent, DrawerClose } from './ui/drawer';
 import { Check, PlusCircle } from 'lucide-react';
 import universityCover from '../assets/university_cover.png';
-import { programListsApi } from '../services/programLists';
+import { useProgramListsApi } from '../services/programLists';
 import { toast } from 'sonner';
 
 interface Program {
@@ -63,6 +63,7 @@ const ProgramResultCard: React.FC<ProgramResultCardProps> = ({ program, lists, o
   const [popoverStyle, setPopoverStyle] = useState<React.CSSProperties>({});
   const isMobile = useIsMobile();
   const [updatingListId, setUpdatingListId] = useState<string | null>(null);
+  const { update } = useProgramListsApi();
 
   const programIdStr = String(program.id);
 
@@ -83,7 +84,7 @@ const ProgramResultCard: React.FC<ProgramResultCardProps> = ({ program, lists, o
     list.program_ids = newProgramIds;
     setUpdatingListId(list.id);
     try {
-      await programListsApi.update(list.id, {
+      await update(list.id, {
         title: list.title,
         emoji: list.emoji,
         program_ids: newProgramIds,

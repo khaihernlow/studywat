@@ -12,7 +12,7 @@ import {
 } from "./ui/drawer";
 import { Button } from "./ui/button";
 import { X } from "lucide-react";
-import { getCourseRecommendations } from "../services/profileApi";
+import { useProfileApi } from '@/services/profileApi';
 import { useAuth } from "../contexts/AuthContext";
 import { courseMetadata } from "../lib/courseMetadata";
 import { Skeleton } from "./ui/skeleton";
@@ -62,6 +62,7 @@ const CourseSuggestions: React.FC<CourseSuggestionsProps> = ({ suggestions: prop
   const [_tagsPerRow, setTagsPerRow] = useState(1);
   const isMobile = useIsMobile();
   const { user } = useAuth();
+  const { getCourseRecommendations } = useProfileApi();
 
   useEffect(() => {
     function updateTagsPerRow() {
@@ -95,7 +96,7 @@ const CourseSuggestions: React.FC<CourseSuggestionsProps> = ({ suggestions: prop
           setLoading(false);
         });
     }
-  }, [propSuggestions, user]);
+  }, [propSuggestions, user, getCourseRecommendations]);
 
   useEffect(() => {
     if (!loading && suggestions.length > 0) {

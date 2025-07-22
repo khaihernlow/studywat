@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { usePageTitle } from "@/contexts/PageTitleContext";
-import { getTraits } from "@/services/profileApi";
+import { useProfileApi } from "@/services/profileApi";
 import ProfileCard from "../components/ProfileCard";
 import CourseSuggestions from "../components/CourseSuggestions";
 
@@ -8,6 +8,7 @@ export default function Profile() {
   const { setTitle } = usePageTitle();
   const [traits, setTraits] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
+  const { getTraits } = useProfileApi();
 
   useEffect(() => {
     setTitle('Profile');
@@ -27,7 +28,7 @@ export default function Profile() {
         setTraits([]);
         setLoading(false);
       });
-  }, [setTitle]);
+  }, [setTitle, getTraits]);
 
   return (
     <div className="p-6">

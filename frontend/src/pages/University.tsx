@@ -8,13 +8,12 @@ import ListCardRow from '@/components/ListCardRow';
 import FieldOfStudyFilterPopover from '@/components/FieldOfStudyFilterPopover';
 import ProgramResultsList from '@/components/ProgramResultsList';
 import { useAuth } from '@/contexts/AuthContext';
-import { institutionsApi } from '@/services/institutionsApi';
-import type { Institution } from '@/services/institutionsApi';
-import { programsApi } from '@/services/programsApi';
+import { useProgramsApi } from '@/services/programsApi';
 import type { Program } from '@/services/programsApi';
 import { useSearchParams } from 'react-router-dom';
-import { programListsApi } from '@/services/programLists';
+import { useProgramListsApi } from '@/services/programLists';
 import type { CreateProgramListDto, UpdateProgramListDto } from '@/services/programLists';
+import { useInstitutionsApi } from '@/services/institutionsApi';
 
 export default function Home() {
   const { setTitle } = usePageTitle();
@@ -35,7 +34,7 @@ export default function Home() {
   const [countryOptions, setCountryOptions] = useState<{ label: string; value: string }[]>([]);
   const [universityOptions, setUniversityOptions] = useState<{ label: string; value: string }[]>([]);
   const [_loadingOptions, setLoadingOptions] = useState(true);
-  const [_institutions, setInstitutions] = useState<Institution[]>([]);
+  const [_institutions, setInstitutions] = useState<any[]>([]); // This state is no longer used for filtering, but kept for potential future use or if other parts of the app rely on it.
   const [_loadingInstitutions, setLoadingInstitutions] = useState(false);
   const [programs, setPrograms] = useState<Program[]>([]);
   const [loadingPrograms, setLoadingPrograms] = useState(false);
@@ -65,28 +64,32 @@ export default function Home() {
 
   const [activeList, setActiveList] = useState<any | null>(null);
 
+  const { listCountries, listInstitutionNames, listInstitutions } = useInstitutionsApi();
+  const { listPrograms, getProgramsByIds } = useProgramsApi();
+  const { listByUser, create, update, delete: deleteList } = useProgramListsApi();
+
   // Fetch filter options on mount
   useEffect(() => {
     setTitle('University Search');
     setLoadingOptions(true);
     Promise.all([
-      institutionsApi.listCountries(),
-      institutionsApi.listInstitutionNames(),
+      listCountries(),
+      listInstitutionNames(),
     ]).then(([countries, names]) => {
-      setCountryOptions(countries.filter(Boolean).map(c => ({ label: c, value: c })));
-      setUniversityOptions(names.filter(Boolean).map(n => ({ label: n, value: n })));
+      setCountryOptions((countries.filter(Boolean) as string[]).map((c: string) => ({ label: c, value: c })));
+      setUniversityOptions((names.filter(Boolean) as string[]).map((n: string) => ({ label: n, value: n })));
     }).finally(() => setLoadingOptions(false));
-  }, [setTitle]);
+  }, [setTitle, listCountries, listInstitutionNames]);
 
   // Fetch filtered institutions when filters change
   useEffect(() => {
     setLoadingInstitutions(true);
-    institutionsApi.listInstitutions({
+    listInstitutions({
       country: countryFilter[0],
       type: typeFilter[0],
       name: universityFilter[0],
     }).then(setInstitutions).finally(() => setLoadingInstitutions(false));
-  }, [countryFilter, typeFilter, universityFilter]);
+  }, [countryFilter, typeFilter, universityFilter, listInstitutions]);
 
   // Sync state with URL on filter/page change
   useEffect(() => {
@@ -111,7 +114,7 @@ export default function Home() {
       return;
     }
     setLoadingPrograms(true);
-    programsApi.listPrograms({
+    listPrograms({
       field_of_study: fieldOfStudyCourses[0],
       institution_name: universityFilter.length > 0 ? universityFilter : undefined,
       institution_country: countryFilter[0],
@@ -123,12 +126,12 @@ export default function Home() {
       setPrograms(res.items);
       setTotal(res.total);
     }).finally(() => setLoadingPrograms(false));
-  }, [fieldOfStudyCourses, typeFilter, universityFilter, countryFilter, currentPage, pageSize, activeList, sortOrder]);
+  }, [fieldOfStudyCourses, typeFilter, universityFilter, countryFilter, currentPage, pageSize, activeList, sortOrder, listPrograms]);
 
   const fetchLists = async () => {
     if (user?.id) {
       setLoadingLists(true);
-      const lists = await programListsApi.listByUser(user.id);
+      const lists = await listByUser(user.id);
       setLists(lists.map(l => ({ ...l, id: l.id || (l as any)._id, label: l.title })));
       setLoadingLists(false);
     }
@@ -136,10 +139,10 @@ export default function Home() {
 
   useEffect(() => {
     fetchLists();
-  }, [user]);
+  }, [user, listByUser]);
 
   const handleAddList = async (newListData: CreateProgramListDto) => {
-    await programListsApi.create(newListData);
+    await create(newListData);
     await fetchLists();
   };
 
@@ -150,7 +153,7 @@ export default function Home() {
       setLoadingPrograms(false);
       return;
     }
-    const items = await programsApi.getProgramsByIds(ids);
+    const items = await getProgramsByIds(ids);
     setPrograms(items);
     setLoadingPrograms(false);
   };
@@ -169,7 +172,7 @@ export default function Home() {
   };
 
   const handleEditList = async (id: string, updateData: UpdateProgramListDto) => {
-    const updated = await programListsApi.update(id, updateData);
+    const updated = await update(id, updateData);
     await fetchLists();
     if (activeList && activeList.id === id) {
       setActiveList((prev: any) => ({ ...prev, ...updated }));
@@ -178,7 +181,7 @@ export default function Home() {
   };
 
   const handleDeleteList = async (id: string) => {
-    await programListsApi.delete(id);
+    await deleteList(id);
     await fetchLists();
     if (activeList && activeList.id === id) {
       setActiveList(null);

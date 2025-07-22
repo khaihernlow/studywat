@@ -1,5 +1,7 @@
 import axios from 'axios';
 import qs from 'qs';
+import { useAuth } from '../contexts/AuthContext';
+import { useCallback } from 'react';
 
 const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
@@ -38,8 +40,27 @@ export interface PaginatedPrograms {
   limit: number;
 }
 
-export const programsApi = {
-  listPrograms: async (filters: {
+export function useProgramsApi() {
+  const { getValidAccessToken } = useAuth();
+
+  // Helper to make authenticated requests with auto-refresh
+  const authRequest = useCallback(async (requestFn: (token: string) => Promise<any>) => {
+    let token = await getValidAccessToken();
+    if (!token) throw new Error('Not authenticated');
+    try {
+      return await requestFn(token);
+    } catch (err: any) {
+      if (err.response && err.response.status === 401) {
+        token = await getValidAccessToken();
+        if (!token) throw new Error('Not authenticated');
+        return await requestFn(token);
+      }
+      throw err;
+    }
+  }, [getValidAccessToken]);
+
+  // Example: if listPrograms does not require auth, keep as is
+  const listPrograms = useCallback(async (filters: {
     field_of_study?: string;
     location?: string;
     program_type?: string;
@@ -59,9 +80,19 @@ export const programsApi = {
       paramsSerializer: params => qs.stringify(params, { arrayFormat: 'repeat' })
     });
     return response.data;
-  },
-  getProgramsByIds: async (ids: string[]): Promise<Program[]> => {
-    const response = await axios.post(`${API_BASE_URL}/api/v1/programs/by-ids`, ids);
-    return response.data;
-  },
-}; 
+  }, []);
+
+  // If getProgramsByIds requires auth, use authRequest
+  const getProgramsByIds = useCallback(async (ids: string[]): Promise<Program[]> => {
+    return authRequest(async (token) => {
+      const response = await axios.post(`${API_BASE_URL}/api/v1/programs/by-ids`, ids, {
+        headers: {
+          'Authorization': `Bearer ${token}`,
+        },
+      });
+      return response.data;
+    });
+  }, [authRequest]);
+
+  return { listPrograms, getProgramsByIds };
+} 
