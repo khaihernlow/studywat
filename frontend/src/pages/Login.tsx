@@ -20,7 +20,7 @@ export default function Login({ className, ...props }: React.ComponentProps<"div
   const handleGoogleSuccess = async (credentialResponse: any) => {
     try {
       await login(credentialResponse);
-      navigate('/', { replace: true });
+      navigate('/chat', { replace: true });
     } catch (error) {
       console.error('Login failed:', error);
     }
