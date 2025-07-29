@@ -1,0 +1,3192 @@
+{
+  "institution_name": "Methodist College Kuala Lumpur (MCKL)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Diploma in Financial Technology + UK Final Year Degree (University of Northampton)",
+      "field_of_study": "Accounting and Finance",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects including Mathematics and a pass in English.",
+        "O-Level": "Min. 3 credits in any subjects including Mathematics.",
+        "STPM": "Min. a Grade C in any subjects.  Pass SPM with a credit in Mathematics and a pass in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core: Business Ethics Business Law Supply Chain Management Information System for Business Business Data Communication Introduction to Microeconomics Introduction to Macroeconomics Introduction to Business Communication Financial Accounting Calculus and Algebra Introduction to Management Introduction to Marketing Quantitative Methods Discipline Core: Introduction to Finance Financial Management Principles of Investment Financial Modelling Personal Financial Planning Introduction to FinTech Introduction to Blockchain FinTech Governance FinTech Project Business Statistics Compulsory Subjects: Fundamentals of Innovation and Entrepreneurship Introduction to Digital Marketing Industrial Training: Industrial Training for FinTech",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits in any subjects including Mathematics and a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits in any subjects including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subjects.  Pass SPM with a credit in Mathematics and a pass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Financial Technology + UK Final Year Degree (Middlesex University London)",
+      "field_of_study": "Accounting and Finance",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects including Mathematics and a pass in English.",
+        "O-Level": "Min. 3 credits in any subjects including Mathematics.",
+        "STPM": "Min. a Grade C in any subjects.  Pass SPM with a credit in Mathematics and a pass in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core: Business Ethics Business Law Supply Chain Management Information System for Business Business Data Communication Introduction to Microeconomics Introduction to Macroeconomics Introduction to Business Communication Financial Accounting Calculus and Algebra Introduction to Management Introduction to Marketing Quantitative Methods Discipline Core: Introduction to Finance Financial Management Principles of Investment Financial Modelling Personal Financial Planning Introduction to FinTech Introduction to Blockchain FinTech Governance FinTech Project Business Statistics Compulsory Subjects: Fundamentals of Innovation and Entrepreneurship Introduction to Digital Marketing Industrial Training: Industrial Training for FinTech",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits in any subjects including Mathematics and a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits in any subjects including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subjects.  Pass SPM with a credit in Mathematics and a pass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Financial Technology + UK Final Year Degree (De Monfort University)",
+      "field_of_study": "Accounting and Finance",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core: Business Ethics Business Law Supply Chain Management Information System for Business Business Data Communication Introduction to Microeconomics Introduction to Macroeconomics Introduction to Business Communication Financial Accounting Calculus and Algebra Introduction to Management Introduction to Marketing Quantitative Methods Discipline Core: Introduction to Finance Financial Management Principles of Investment Financial Modelling Personal Financial Planning Introduction to FinTech Introduction to Blockchain FinTech Governance FinTech Project Business Statistics Compulsory Subjects: Fundamentals of Innovation and Entrepreneurship Introduction to Digital Marketing Industrial Training: Industrial Training for FinTech",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Business + UK Final Year Degree (University of Northampton)",
+      "field_of_study": "Business and Management",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods  Discipline Core Business Law Introduction to E-Commerce Supply Chain Management Business Application Development Digital Business Project Business Data Communication Cybersecurity Decision Support Systems Introduction to Digital Marketing  Industrial Training Industrial Training for Digital Business  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Business + UK Final Year Degree (Middlesex University London)",
+      "field_of_study": "Business and Management",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods  Discipline Core Business Law Introduction to E-Commerce Supply Chain Management Business Application Development Digital Business Project Business Data Communication Cybersecurity Decision Support Systems Introduction to Digital Marketing  Industrial Training Industrial Training for Digital Business  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Business + UK Final Year Degree (Northumbria University)",
+      "field_of_study": "Business and Management",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods  Discipline Core Business Law Introduction to E-Commerce Supply Chain Management Business Application Development Digital Business Project Business Data Communication Cybersecurity Decision Support Systems Introduction to Digital Marketing  Industrial Training Industrial Training for Digital Business  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Business (with SQA Advanced Diploma) + UK Final Year Degree (University of Essex)",
+      "field_of_study": "Business and Management",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 11500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods  Discipline Core Business Law Introduction to E-Commerce Supply Chain Management Business Application Development Digital Business Project Business Data Communication Cybersecurity Decision Support Systems Introduction to Digital Marketing  Industrial Training Industrial Training for Digital Business  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Business + UK Final Year Degree (De Monfort University)",
+      "field_of_study": "Business and Management",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods  Discipline Core Business Law Introduction to E-Commerce Supply Chain Management Business Application Development Digital Business Project Business Data Communication Cybersecurity Decision Support Systems Introduction to Digital Marketing  Industrial Training Industrial Training for Digital Business  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science + UK Final Year Degree (University of Northampton)",
+      "field_of_study": "Computer Science",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History).",
+        "O-Level": "Min. 3 credits including Mathematics.",
+        "UEC": "Min. 3Bs including Mathematics.",
+        "STPM": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Core Computer Organisation and Architecture Fundamentals of Database Discrete Mathematics Calculus and Algebra Data Communications and Networking Computers and Operating Systems Programming with Python Systems Analysis and Design Statistics** Cybersecurity Professionalism and Ethics in Computing  Discipline Core Design Thinking Human Computer Interaction Project Management Data Structure and Algorithms Mobile Computing Web Computing Object-Oriented Development Cloud Computing  Specialisation Fundamentals of Data Science** Data Processing and Visualisation** Introduction to Data Mining** Machine Learning** Big Data Architecture  Industrial Training  Capstone Project  ** Uses SAS content and software.  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3Bs including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science + UK Final Year Degree (Middlesex University London)",
+      "field_of_study": "Computer Science",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History).",
+        "O-Level": "Min. 3 credits including Mathematics.",
+        "UEC": "Min. 3Bs including Mathematics.",
+        "STPM": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Core Computer Organisation and Architecture Fundamentals of Database Discrete Mathematics Calculus and Algebra Data Communications and Networking Computers and Operating Systems Programming with Python Systems Analysis and Design Statistics** Cybersecurity Professionalism and Ethics in Computing  Discipline Core Design Thinking Human Computer Interaction Project Management Data Structure and Algorithms Mobile Computing Web Computing Object-Oriented Development Cloud Computing  Specialisation Fundamentals of Data Science** Data Processing and Visualisation** Introduction to Data Mining** Machine Learning** Big Data Architecture  Industrial Training  Capstone Project  ** Uses SAS content and software.  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3Bs including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science (with SQA Advanced Diploma) + UK Final Year Degree (University of Essex)",
+      "field_of_study": "Computer Science",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History).",
+        "O-Level": "Min. 3 credits including Mathematics.",
+        "UEC": "Min. 3Bs including Mathematics.",
+        "STPM": "Min. Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 11500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Core Computer Organisation and Architecture Fundamentals of Database Discrete Mathematics Calculus and Algebra Data Communications and Networking Computers and Operating Systems Programming with Python Systems Analysis and Design Statistics** Cybersecurity Professionalism and Ethics in Computing  Discipline Core Design Thinking Human Computer Interaction Project Management Data Structure and Algorithms Mobile Computing Web Computing Object-Oriented Development Cloud Computing  Specialisation Fundamentals of Data Science** Data Processing and Visualisation** Introduction to Data Mining** Machine Learning** Big Data Architecture  Industrial Training  Capstone Project  ** Uses SAS content and software.  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3Bs including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science (with SQA Advanced Diploma) + UK Final Year Degree (De Monfort University)",
+      "field_of_study": "Computer Science",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History).",
+        "O-Level": "Min. 3 credits including Mathematics.",
+        "UEC": "Min. 3Bs including Mathematics.",
+        "STPM": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 11500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Core Computer Organisation and Architecture Fundamentals of Database Discrete Mathematics Calculus and Algebra Data Communications and Networking Computers and Operating Systems Programming with Python Systems Analysis and Design Statistics** Cybersecurity Professionalism and Ethics in Computing  Discipline Core Design Thinking Human Computer Interaction Project Management Data Structure and Algorithms Mobile Computing Web Computing Object-Oriented Development Cloud Computing  Specialisation Fundamentals of Data Science** Data Processing and Visualisation** Introduction to Data Mining** Machine Learning** Big Data Architecture  Industrial Training  Capstone Project  ** Uses SAS content and software.  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3Bs including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education + UK Final Year Degree (University of Northampton)",
+      "field_of_study": "Early Childhood Education",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 4200,
+        "tuition_fee": 21600
+      },
+      "course_content": {
+        "core": "Core Child Development Behavioural Guidance of Children Foundations of Early Childhood Education Creative Expressions Through Music and Movement Language and Early Literacy Creative Expressions Through Art and Drama Physical Education for Young Children Programme Planning and Implementation Observation and Assessment of Young Children Infant and Toddler Care Teaching Social Studies to Young Children Play in Early Childhood Education Partnership with Families and the Community Teaching Mathematics to Young Children Introduction to Early Childhood Educational Research Children with Special Needs Foundations of Professional Practice Early Childhood Education Standards and Approaches Child’s Health, Safety and Nutrition Technology in Early Childhood Education Entrepreneurship and Early Childhood Administration English Enhancement Pedagogies in Early Childhood Education  Practical Practicum I: Block Practice in Childcare Centre (TASKA) Practicum II: Block Practice in Preschool/ Kindergarten (TADIKA)  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education + Ireland Final Year Degree (Munster Technological University)",
+      "field_of_study": "Early Childhood Education",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 4200,
+        "tuition_fee": 21600
+      },
+      "course_content": {
+        "core": "Core Child Development Behavioural Guidance of Children Foundations of Early Childhood Education Creative Expressions Through Music and Movement Language and Early Literacy Creative Expressions Through Art and Drama Physical Education for Young Children Programme Planning and Implementation Observation and Assessment of Young Children Infant and Toddler Care Teaching Social Studies to Young Children Play in Early Childhood Education Partnership with Families and the Community Teaching Mathematics to Young Children Introduction to Early Childhood Educational Research Children with Special Needs Foundations of Professional Practice Early Childhood Education Standards and Approaches Child’s Health, Safety and Nutrition Technology in Early Childhood Education Entrepreneurship and Early Childhood Administration English Enhancement Pedagogies in Early Childhood Education  Practical Practicum I: Block Practice in Childcare Centre (TASKA) Practicum II: Block Practice in Preschool/ Kindergarten (TADIKA)  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology + UK Final Year Degree (University of Northampton)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History).",
+        "O-Level": "Min. 3 credits including Mathematics.",
+        "STPM": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Year 1 Information Technology and Computer Science Computer Organisation and Architecture Fundamentals of Databases Data Communications and Networking Discrete Mathematics Calculus and Algebra Programming with C Programming with Python Design Thinking Human Computer Interaction Fundamentals of IoT Processors and Peripherals MPU I* MPU II* MPU III*  Year 2 Wireless Communications and Networking IoT Sensors and Devices Data Processing and Visualisation Cloud Computing for IoT Mobile Computing Project Management Web Computing Cybersecurity in IoT IoT Data Analytics Capstone Project MPU IV* Elective I Elective II Elective III  Year 3 Industrial Training  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology + UK Final Year Degree (Middlesex University London)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History).",
+        "O-Level": "Min. 3 credits including Mathematics.",
+        "STPM": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Year 1 Information Technology and Computer Science Computer Organisation and Architecture Fundamentals of Databases Data Communications and Networking Discrete Mathematics Calculus and Algebra Programming with C Programming with Python Design Thinking Human Computer Interaction Fundamentals of IoT Processors and Peripherals MPU I* MPU II* MPU III*  Year 2 Wireless Communications and Networking IoT Sensors and Devices Data Processing and Visualisation Cloud Computing for IoT Mobile Computing Project Management Web Computing Cybersecurity in IoT IoT Data Analytics Capstone Project MPU IV* Elective I Elective II Elective III  Year 3 Industrial Training  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology (with SQA Advanced Diploma) + UK Final Year Degree (University of Essex)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History).",
+        "O-Level": "Min. 3 credits including Mathematics.",
+        "STPM": "Min. Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 11500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Year 1 Information Technology and Computer Science Computer Organisation and Architecture Fundamentals of Databases Data Communications and Networking Discrete Mathematics Calculus and Algebra Programming with C Programming with Python Design Thinking Human Computer Interaction Fundamentals of IoT Processors and Peripherals MPU I* MPU II* MPU III*  Year 2 Wireless Communications and Networking IoT Sensors and Devices Data Processing and Visualisation Cloud Computing for IoT Mobile Computing Project Management Web Computing Cybersecurity in IoT IoT Data Analytics Capstone Project MPU IV* Elective I Elective II Elective III  Year 3 Industrial Training  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology (with SQA Advanced Diploma) + UK Final Year Degree (De Monfort University)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History).",
+        "O-Level": "Min. 3 credits including Mathematics.",
+        "STPM": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 11500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Year 1 Information Technology and Computer Science Computer Organisation and Architecture Fundamentals of Databases Data Communications and Networking Discrete Mathematics Calculus and Algebra Programming with C Programming with Python Design Thinking Human Computer Interaction Fundamentals of IoT Processors and Peripherals MPU I* MPU II* MPU III*  Year 2 Wireless Communications and Networking IoT Sensors and Devices Data Processing and Visualisation Cloud Computing for IoT Mobile Computing Project Management Web Computing Cybersecurity in IoT IoT Data Analytics Capstone Project MPU IV* Elective I Elective II Elective III  Year 3 Industrial Training  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Marketing + UK Final Year Degree (University of Northampton)",
+      "field_of_study": "Marketing",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods  Discipline Core Digital Marketing Project Search Engine Optimisation Consumer Behaviour Service Marketing Strategic Brand Management Social Media Content Marketing Strategic Global Marketing Marketing Research and Analytics Introduction to Digital Marketing  Industrial Training Industrial Training for Digital Marketing  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Marketing + UK Final Year Degree (Middlesex University London)",
+      "field_of_study": "Marketing",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods  Discipline Core Digital Marketing Project Search Engine Optimisation Consumer Behaviour Service Marketing Strategic Brand Management Social Media Content Marketing Strategic Global Marketing Marketing Research and Analytics Introduction to Digital Marketing  Industrial Training Industrial Training for Digital Marketing  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Marketing + UK Final Year Degree (Northumbria University)",
+      "field_of_study": "Marketing",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods  Discipline Core Digital Marketing Project Search Engine Optimisation Consumer Behaviour Service Marketing Strategic Brand Management Social Media Content Marketing Strategic Global Marketing Marketing Research and Analytics Introduction to Digital Marketing  Industrial Training Industrial Training for Digital Marketing  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Marketing (with SQA Advanced Diploma) + UK Final Year Degree (University of Essex)",
+      "field_of_study": "Marketing",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 11500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods  Discipline Core Digital Marketing Project Search Engine Optimisation Consumer Behaviour Service Marketing Strategic Brand Management Social Media Content Marketing Strategic Global Marketing Marketing Research and Analytics Introduction to Digital Marketing  Industrial Training Industrial Training for Digital Marketing  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Marketing + UK Final Year Degree (De Monfort University)",
+      "field_of_study": "Marketing",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods  Discipline Core Digital Marketing Project Search Engine Optimisation Consumer Behaviour Service Marketing Strategic Brand Management Social Media Content Marketing Strategic Global Marketing Marketing Research and Analytics Introduction to Digital Marketing  Industrial Training Industrial Training for Digital Marketing  *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students  NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "ACCA (Full/Part Time)",
+      "field_of_study": "Professional Accounting",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jul"
+      ],
+      "program_duration_years": 3,
+      "internship": "No Internship",
+      "entry_requirements_raw": {
+        "A-Level": "Min. Grade D in any 2 subjects.",
+        "UEC": "5Bs inclusive of English and Mathematics.",
+        "STPM": "Min. Grade C+ (NGMP 2.33) in any 2 subjects.",
+        "SACE/WACE": "70.00 ATAR."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5.5",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 4200,
+        "tuition_fee": 19440
+      },
+      "course_content": {
+        "core": "Applied Knowledge Papers\nF1 - Accounting in Business (AB)\nF2 - Management Accounting (MA)\nF3 - Financial Accounting (FA) Applied Knowledge Papers Applied Skills Papers\nF4 - Corporate and Business Law (LW)\nF5 - Performance Management (PM)\nF6 - Taxation (TX)\nF7 - Financial Reporting (FR)\nF8 - Audit and Assurance (AA)\nF9 - Financial Management (FM) Applied Skills Papers Strategic Professional Papers (Essential)\nStrategic Business Leader\nStrategic Business Reporting\nOptions (Select two):\nAdvanced Audit and Assurance\nAdvanced Financial Management\nAdvanced Performance Management\nAdvanced Taxation Strategic Professional Papers (Essential) Strategic Professional Papers (Select two)\nP4 - Advanced Financial Management (AFM)\nP5 - Advanced Performance Management (APM)\nP6 - Advanced Taxation (ATX)\nP7 - Advanced Audit and Assurance (AAA) Strategic Professional Papers (Select two)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "professional",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Min. Grade D in any 2 subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Bs inclusive of English and Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Min. Grade C+ (NGMP 2.33) in any 2 subjects."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "raw",
+            "text": "70.00 ATAR."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Business",
+      "field_of_study": "Business and Management",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core: Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods Discipline Core: Business Law Introduction to E-Commerce Supply Chain Management Business Application Development Digital Business Project Business Data Communication Cybersecurity Decision Support Systems Introduction to Digital Marketing Industrial Training: Industrial Training for Digital Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Business (DDB)",
+      "field_of_study": "Business and Management",
+      "location": "MCKL, Pykett Penang",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1100,
+        "resource_fee": 5500,
+        "tuition_fee": 23400
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods Discipline Core Business Law Introduction to E-Commerce Supply Chain Management Business Application Development Digital Business Project Business Data Communication Cybersecurity Decision Support Systems Introduction to Digital Marketing Industrial Training: Industrial Training for Digital Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science (DCS)",
+      "field_of_study": "Computer Science",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics.",
+        "O-Level": "Pass with 3 credits including Mathematics.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Core Computer Organisation and Architecture Fundamentals of Database Discrete Mathematics Calculus and Algebra Data Communications and Networking Computers and Operating Systems Programming with Python Systems Analysis and Design Statistics** Cybersecurity Professionalism and Ethics in Computing Discipline Core Design Thinking Human Computer Interaction Project Management Data Structure and Algorithms Mobile Computing Web Computing Object-Oriented Development Cloud Computing Industrial Training Capstone Project Specialisation Fundamentals of Data Science** Data Processing and Visualisation** Introduction to Data Mining** Machine Learning** Big Data Architecture *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Information Literacy Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science (DCS)",
+      "field_of_study": "Computer Science",
+      "location": "MCKL, Pykett Penang",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History).",
+        "O-Level": "Min. 3 credits including Mathematics.",
+        "STPM": "Min. Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1100,
+        "resource_fee": 5500,
+        "tuition_fee": 23400
+      },
+      "course_content": {
+        "core": "Core Computer Organisation and Architecture Fundamentals of Database Discrete Mathematics Calculus and Algebra Data Communications and Networking Computers and Operating Systems Programming with Python Systems Analysis and Design Statistics** Cybersecurity Professionalism and Ethics in Computing Discipline Core Design Thinking Human Computer Interaction Project Management Data Structure and Algorithms Mobile Computing Web Computing Object-Oriented Development Cloud Computing Industrial Training Capstone Project Specialisation Fundamentals of Data Science** Data Processing and Visualisation** Introduction to Data Mining** Machine Learning** Big Data Architecture *Mata Pelajaran Umum (MPU) Falsafah dan Isu Semasa Information Literacy Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students NOTE: *MPU: The Ministry of Higher Education (MOHE) requires all students to take Mata Pelajaran Umum (MPU) (i.e. General Studies) within the duration of their studies. MCKL established a series of subjects that different programs need to implement for all students to meet the Ministry’s requirements. Subjects will differ depending on the institution and the level of degree the student is taking.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Min. Grade C in any subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education",
+      "field_of_study": "Early Childhood Education",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship Available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits, including English.",
+        "O-Level": "3 credits, including English.",
+        "UEC": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 4200,
+        "tuition_fee": 21600
+      },
+      "course_content": {
+        "core": "Core Subjects \nChild Development \nBehavioural Guidance of Children\nFoundations of Early Childhood Education\nCreative Expressions Through Music and Movement\nLanguage and Early Literacy \nCreative Expressions Through Art and Drama\nPhysical Education for Young Children\nProgramme Planning and Implementation\nObservation and Assessment of Young Children \nInfant and Toddler Care \nTeaching Social Studies to Young Children\nPlay in Early Childhood Education\nPartnership with Families and the Community \nTeaching Mathematics to Young Children\nIntroduction to Early Childhood Educational Research\nChildren with Special Needs \nFoundations of Professional Practice \nEarly Childhood Education Standards and Approaches \nChild’s Health, Safety and Nutrition \nTechnology in Early Childhood Education\nEntrepreneurship and Early Childhood Administration\nEnglish Enhancement\nPedagogies in Early Childhood Education Core Subjects Practical \nPracticum I: Block Practice in Childcare Centre (TASKA)\nPracticum II: Block Practice in Preschool/ Kindergarten (TADIKA) Practical",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education (DECE)",
+      "field_of_study": "Early Childhood Education",
+      "location": "MCKL, Pykett Penang",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Others": "ICCE General Certificate - Min. 80% in 5 subjects.",
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1100,
+        "resource_fee": 4200,
+        "tuition_fee": 20700
+      },
+      "course_content": {
+        "core": "Core Subjects \nChild Development \nBehavioural Guidance of Children\nFoundations of Early Childhood Education\nCreative Expressions Through Music and Movement\nLanguage and Early Literacy \nCreative Expressions Through Art and Drama\nPhysical Education for Young Children\nProgramme Planning and Implementation\nObservation and Assessment of Young Children \nInfant and Toddler Care \nTeaching Social Studies to Young Children\nPlay in Early Childhood Education\nPartnership with Families and the Community \nTeaching Mathematics to Young Children\nIntroduction to Early Childhood Educational Research\nChildren with Special Needs \nFoundations of Professional Practice \nEarly Childhood Education Standards and Approaches \nChild’s Health, Safety and Nutrition \nTechnology in Early Childhood Education\nEntrepreneurship and Early Childhood Administration\nEnglish Enhancement\nPedagogies in Early Childhood Education Core Subjects Practical \nPracticum I: Block Practice in Childcare Centre (TASKA)\nPracticum II: Block Practice in Preschool/ Kindergarten (TADIKA) Practical",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Others": [
+          {
+            "type": "raw",
+            "text": "ICCE General Certificate - Min. 80% in 5 subjects."
+          }
+        ],
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Financial Technology",
+      "field_of_study": "Finance",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects including Mathematics and a pass in English.",
+        "O-Level": "Min. 3 credits in any subjects including Mathematics.",
+        "STPM": "Min. a Grade C in any subjects.  Pass SPM with a credit in Mathematics and a pass in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core: Business Ethics Business Law Supply Chain Management Information System for Business Business Data Communication Introduction to Microeconomics Introduction to Macroeconomics Introduction to Business Communication Financial Accounting Calculus and Algebra Introduction to Management Introduction to Marketing Quantitative Methods Discipline Core: Introduction to Finance Financial Management Principles of Investment Financial Modelling Personal Financial Planning Introduction to FinTech Introduction to Blockchain FinTech Governance FinTech Project Business Statistics Compulsory Subjects: Fundamentals of Innovation and Entrepreneurship Introduction to Digital Marketing Industrial Training: Industrial Training for FinTech",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits in any subjects including Mathematics and a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits in any subjects including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subjects.  Pass SPM with a credit in Mathematics and a pass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics.",
+        "O-Level": "Pass with 3 credits including Mathematics.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Core Discipline Core Specialisation Computer Organisation and Architecture Fundamentals of Database Discrete Mathematics Calculus and Algebra Data Communications and Networking Computers and Operating Systems Programming with Python Systems Analysis and Design Statistics Cybersecurity Professionalism and Ethics in Computing Design Thinking Human Computer Interaction Project Management Data Structure and Algorithms Mobile Computing Web Computing Object-Oriented Development Cloud Computing Industrial Training Capstone Project Fundamentals of IoT IoT Sensors and Devices IoT Data Analytics Introduction to Intelligent Systems Artificial Intelligence *Mata Pelajaran Pengajian Umum (MPU): Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Tehnology (DIT)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "MCKL, Pykett Penang",
+      "intakes": [
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History).",
+        "O-Level": "Min. 3 credits including Mathematics.",
+        "UEC": "Min. 3Bs including Mathematics.",
+        "STPM": "Min. a Grade C in any subject.  A credit in Mathematics at SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "IELTS": "4.5",
+        "TOEFL": "33"
+      },
+      "fees": {
+        "registration_fee": 1100,
+        "resource_fee": 5500,
+        "tuition_fee": 23400
+      },
+      "course_content": {
+        "core": "Core Discipline Core Specialisation Computer Organisation and Architecture Fundamentals of Database Discrete Mathematics Calculus and Algebra Data Communications and Networking Computers and Operating Systems Programming with Python Systems Analysis and Design Statistics Cybersecurity Professionalism and Ethics in Computing Design Thinking Human Computer Interaction Project Management Data Structure and Algorithms Mobile Computing Web Computing Object-Oriented Development Cloud Computing Industrial Training Capstone Project Fundamentals of IoT IoT Sensors and Devices IoT Data Analytics Introduction to Intelligent Systems Artificial Intelligence *Mata Pelajaran Pengajian Umum (MPU): Falsafah dan Isu Semasa Integrity and Anti-Corruption Character Formation Service Learning Bahasa Kebangsaan A\nFor local students who do not have credit in SPM BM For local students who do not have credit in SPM BM Bahasa Melayu Komunikasi 1\nFor international students For international students",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics and a pass in Bahasa Melayu and Sejarah (History)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 3Bs including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. a Grade C in any subject.  A credit in Mathematics at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Marketing",
+      "field_of_study": "Marketing",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "STPM": "Min. a Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6500,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods Discipline Core Digital Marketing Project Search Engine Optimisation Consumer Behaviour Service Marketing Strategic Brand Management Social Media Content Marketing Strategic Global Marketing Marketing Research and Analytics Introduction to Digital Marketing Industrial Training: Industrial Training for Digital Marketing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Marketing (DDM)",
+      "field_of_study": "Marketing",
+      "location": "MCKL, Pykett Penang",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 3 credits in any subjects.",
+        "O-Level": "Min. 3 credits in any subjects.",
+        "STPM": "Min. Grade C in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1100,
+        "resource_fee": 5500,
+        "tuition_fee": 23400
+      },
+      "course_content": {
+        "core": "Common Core Business Ethics Organisational Behaviour Fundamentals of Innovation and Entrepreneurship Introduction to Digital Business International Business Business Process Management Introduction to Business Communication Information System for Business Introduction to Microeconomics Introduction to Macroeconomics Financial Accounting Introduction to Finance Introduction to Management Introduction to Human Resource Management Introduction to Marketing Quantitative Methods Discipline Core Digital Marketing Project Search Engine Optimisation Consumer Behaviour Service Marketing Strategic Brand Management Social Media Content Marketing Strategic Global Marketing Marketing Research and Analytics Introduction to Digital Marketing Industrial Training: Industrial Training for Digital Marketing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Social Work (Part Time)",
+      "field_of_study": "Social Sciences",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship Available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits, including Bahasa Melayu.",
+        "O-Level": "3 credits, including Bahasa Melayu."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 2200,
+        "tuition_fee": 21600
+      },
+      "course_content": {
+        "core": "Human Behaviour and Social Environment (HBSE)\nIntroduction to Psychology for Social Workers\nIntroduction to Sociology for Social Workers Human Behaviour and Social Environment (HBSE) Social Welfare Policies, Programmes and Services (SWPP)\nIntroduction to Professional Social Work\nSocial Problems and Social Needs in Malaysia\nOrganisational Context of Social Work Practice\nPublic Policy and the Law and Social Work Practice Social Welfare Policies, Programmes and Services (SWPP) Social Work Methods\nSocial Work Methods I - Casework\nSocial Work Methods II – Groupwork\nSocial Work Methods III – Community Work\nPublicly Accountable Practice\nInterpersonal and Counselling Skills in Social Work Practice\nCreative Expressions Through Art and Drama \nPreparation for Field Placement I\nIntegrated Field Placement Learning I\nTransferring Field Placement Learning I\nPreparation for Field Placement II\nIntegrated Field Placement Learning II\nTransferring Field Placement Learning II\nPreparing for Graduate Practice\nField of Practice I – Child and Family Welfare\nField of Practice II – Health and Mental Health\nField of Practice III – Drug and Alcohol Addiction\nWorking with Domestic Violence Concerns\nWorking with People with a Disability Social Work Methods Social Work Field Practice \nField Placement I\nField Placement II Social Work Field Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits, including Bahasa Melayu."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits, including Bahasa Melayu."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Cambridge A-Levels (4 Subjects)",
+      "field_of_study": "A-Level",
+      "location": "MCKL, Pykett Penang",
+      "intakes": [
+        "Jan",
+        "Jul"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 5 credits including English.",
+        "O-Level": "Min. 5 credits including English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 5100,
+        "tuition_fee": 24000
+      },
+      "course_content": {
+        "core": "Compulsory Subjects Character Formation Service Learning Digital and Information Literacy *(PG) * (PG)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 5 credits including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 5 credits including English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Cambridge A-Levels (4 Subjects)",
+      "field_of_study": "A-Level",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum pass SPM with 5 Credits.",
+        "O-Level": "Minimum pass O-Level with 5 Grade C."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6000,
+        "tuition_fee": 32400
+      },
+      "course_content": {
+        "core": "Compulsory Subjects Character Formation Service Learning Digital and Information Literacy *(PG) * (PG)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum pass SPM with 5 Credits."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum pass O-Level with 5 Grade C."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Cambridge A-Levels (3 Subjects)",
+      "field_of_study": "A-Level",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "No Internship",
+      "entry_requirements_raw": {
+        "SPM": "Minimum pass SPM with 5 Credits.",
+        "O-Level": "Minimum pass O-Level with 5 Grade C."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 6000,
+        "tuition_fee": 24300
+      },
+      "course_content": {
+        "core": "Compulsory Subjects Character Formation Service Learning Digital and Information Literacy *(PG) * (PG)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum pass SPM with 5 Credits."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum pass O-Level with 5 Grade C."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Cambridge A-Levels (3 Subjects)",
+      "field_of_study": "A-Level",
+      "location": "MCKL, Pykett Penang",
+      "intakes": [
+        "Jan",
+        "Jul"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Min. 5 credits including English.",
+        "O-Level": "Min. 5 credits including English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 5100,
+        "tuition_fee": 21000
+      },
+      "course_content": {
+        "core": "Compulsory Subjects: Character Formation Service Learning Digital and Information Literacy *(PG) *(PG)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 5 credits including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Min. 5 credits including English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "American Degree Transfer Program (ADTP)",
+      "field_of_study": "American Degree Transfer Programme",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "May",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "No Internship",
+      "entry_requirements_raw": {
+        "SPM": "5 credits overall.",
+        "O-Level": "5 credits overall.",
+        "A-Level": "Minimum 2 principal passes.",
+        "UEC": "5 Bs overall.",
+        "STPM": "Minimum 2 principal passes."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 8000,
+        "tuition_fee": 34450
+      },
+      "course_content": {
+        "core": "Oral Communication and Writing\nIntensive English\nEnglish for Academic Writing 1\nEnglish for Academic Writing 2\nPublic Speaking\nBusiness Communications Oral Communication and Writing Social Sciences\nIntroduction to Cultural Anthropology\nIntroduction to Sociology\nGeneral Psychology\nSocial Psychology\nDevelopmental Psychology\nAbnormal Psychology\nAmerican Government Social Sciences Humanities\nIntroduction to Philosophy\nEthics\nWorld Civilizations 1\nWorld Civilizations 2\nWorld Religions\nBible Knowledge\nIntroduction to Christian Theology Humanities Business Studies\nIntroduction to Business\nIntroduction to Leadership\nPrinciples of Accounting 1\nPrinciples of Accounting 2\nMicroeconomics\nMacroeconomics\nPrinciples of Marketing\nBusiness Law Business Studies Literature and the Arts\nFoundation of Acting\nMusic Appreciation Literature and the Arts Quantitative Skills\nCollege Algebra\nConcepts of Calculus\nPre-Calculus\nCalculus 1\nCalculus 2\nCalculus 3 with Lab\nDifferential Equations\nIntroduction to Linear Algebra\nProbability and Statistics\nStatistical Methods with Lab\nStatistical Analysis with Lab Quantitative Skills Natural Sciences\nBiology 1 with Lab\nBiology 2 with Lab\nEnvironmental Science\nChemistry in Context with Lab\nIntroduction to Foods with Lab\nIntroduction to Nutrition with Lab\nCollege Chemistry with Lab\nGeneral Chemistry 1 with Lab\nGeneral Chemistry 1 with Lab\nCollege Physics with Lab\nGeneral Physics 1 with Lab\nGeneral Physics 2 with Lab Natural Sciences Computer Sciences\nIntroduction to Computers with Lab\nObject-Oriented Programming 1 with Lab\nObject-Oriented Programming 2 with Lab\nProgramming in C++ with Lab Computer Sciences Engineering Intro to Engineering\nEngineering Statics \nCircuits 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 credits overall."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 credits overall."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2 principal passes."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 Bs overall."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2 principal passes."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Australian Matriculation (AUSMAT)",
+      "field_of_study": "Australian Matriculation (AUSMAT)",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": "No Internship",
+      "entry_requirements_raw": {
+        "SPM": "5 credits.",
+        "O-Level": "5 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 5050,
+        "tuition_fee": 17500
+      },
+      "course_content": {
+        "core": "August intake may be subject to higher fees. Please check with our counsellors to confirm",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Australian Matriculation (AUSMAT)",
+      "field_of_study": "Australian Matriculation (AUSMAT)",
+      "location": "MCKL, Pykett Penang",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Others": "ICCE General Certificate - Min. 80% in 5 subjects.",
+        "SPM": "Min. 5 credits including English.",
+        "O-Level": "Min. 5 credits including English.",
+        "UEC": "Min. 5 Bs in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 3900,
+        "tuition_fee": 14000
+      },
+      "course_content": {
+        "core": "Students are required to select a combination of 5 ATAR courses or 4 ATAR + 1 General Subject from the list below with at least one course from List A and one course from List B. Students will also need to select 1 language course. Compulsory Subjects: Service Learning Character Formation List A (Arts/Languages/Social Sciences) Business Management and Enterprise Economics English/General English *English as an Additional Language/Dialect (EALD) List B (Mathematics/Science/Technology) Accounting and Finance ^KL ^KL Applied Information Technology ^KL ^ KL Biology ^KL ^KL Chemistry Human Biology Mathematics Applications Mathematics Methods Physics Psychology Online Literacy And Numeracy Assessment (OLNA): Numeracy Reading Writing NOTE: *Evidence is required to be produced for EALD eligibility (less than 7 years of English medium education). ^KL – Subjects offered in Kuala Lumpur Campus only. ^KL ATAR courses are only offered in January & June intakes. General subjects and Human Biology (ATAR course) are only offered in the June intake. August intake students will need to re-register their courses in the subsequent January semester allowing them to choose different course combination depending on the course requirement. The ONLA is an online assessment designed to enable students to successfully meet the Western Australian Certificate of Education (WACE) requirement of demonstrating the minimum standard of literacy (reading and writing) and numeracy. The ONLA",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "Others": [
+          {
+            "type": "raw",
+            "text": "ICCE General Certificate - Min. 80% in 5 subjects."
+          }
+        ],
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "ACCA Foundation in Accountancy (ACCA FiA)",
+      "field_of_study": "Professional Accounting",
+      "location": "MCKL, Kuala Lumpur",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits including Maths and English.",
+        "O-Level": "Pass with at least 5 Grade C including Maths and English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": 3200,
+        "tuition_fee": 10100
+      },
+      "course_content": {
+        "core": "1 Year Recording Financial Transactions**\nManagement Information\nMaintaining Financial Records\nManaging Costs and Finance\nBusiness and Technology\nManagement Accounting\nFinancial Accounting Compulsory Subjects: Service Learning\nCharacter Formation\nDigital Literacy\nIntroduction to Spreadsheet",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 credits including Maths and English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 Grade C including Maths and English."
+          }
+        ]
+      }
+    }
+  ]
+}

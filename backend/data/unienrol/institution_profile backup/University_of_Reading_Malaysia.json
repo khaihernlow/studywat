@@ -1,0 +1,1392 @@
+{
+  "institution_name": "University of Reading Malaysia",
+  "institution_country": "Malaysia",
+  "institution_type": "Public",
+  "world_rank": 11656,
+  "malaysia_rank": 80,
+  "programs": [
+    {
+      "program_name": "Pre-Sessional English",
+      "field_of_study": "English",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Feb",
+        "Jul"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "O-Level": "Grade D."
+      },
+      "english_requirements": {
+        "IELTS": "4.5 overall with min. 4.0 in each component"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 6300
+      },
+      "course_content": {
+        "core": "The programme covers a range of topics including:\n\nAcademic English Academic English Writing in a structured way Academic writing for essays Academic writing for exams Reading academic texts Reading academic journals Conversing confidently Speaking with clarity Participating in group discussions Making a presentation Participating in seminars Developing your listening skills Listening for lectures Listening for discussion Study Skills Problem-solving Conducting independent research Fact-finding Evaluating arguments Critical thinking Proposing solutions E-learning skills Accessing online resources Digital literacy Effective note-taking Independent study",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "language_prep",
+      "entry_requirements_processed": {
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Accounting & Finance",
+      "field_of_study": "Accounting and Finance",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "BBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher.",
+        "UEC": "ABBBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher.",
+        "STPM": "BBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher.",
+        "Foundation": "[MUFY] Overall average 65% or above (Mathematics module is expected).",
+        "CPU": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected..",
+        "IB Diploma": "Overall 30 points; 5 in Standard Level (SL) or 6 in a Higher Level (HL) Mathematics module is expected..",
+        "SACE/WACE": "ATAR 87 or above.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 (no component below 5.5)",
+        "Others": "SPM English 1119/IGSCE English: Grade B or Grade A2 in UEC English"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 122400
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Accounting Introduction to Business Management Information Introductory Securities and Markets Introductory Finance/Trading Simulation I Introductory Quantitative Techniques for Business and Finance Introduction to General Law Introduction to Business Law Year 2 Financial Accounting Further Management Accounting Financial Management Portfolio Management Assurance. Governance end Ethics. Plus 1 optional module Year 3 Work Placement Experience (12 months full-time work placement) Year 4 Advanced International Financial Reporting Business and Professional Ethics Derivative Securities Management of Risk Principles of Taxation Plus 1 optional module",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABBBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 65.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[MUFY] Overall average 65% or above (Mathematics module is expected)."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 75.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Overall 30 points; 5 in Standard Level (SL) or 6 in a Higher Level (HL) Mathematics module is expected.."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 87.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 87 or above.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Finance & Business Management",
+      "field_of_study": "Business and Management",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher.",
+        "UEC": "ABBBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher.",
+        "STPM": "BBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher.",
+        "Foundation": "[MUFY] Overall average 65% or above (Mathematics module is expected).",
+        "CPU": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected..",
+        "IB Diploma": "Overall 30 points; 5 in Standard Level (SL) or 6 in a Higher Level (HL) Mathematics module is expected..",
+        "SACE/WACE": "ATAR 87 or above.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 (no component below 5.5)",
+        "Others": "SPM English 1119/IGSCE English: Grade B or Grade A2 in UEC English"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 122400
+      },
+      "course_content": {
+        "core": "Year 1\nModules include: Year 1 Introductory Securities and Markets Introductory Finance/Trading Simulation Introductory Economics for Business and Finance Introductory Quantitative Techniques for Business and Finance Ethics in Investment Management Business in Practice: Accounting for Managers Year 2\nModules include: Year 2 Management Accounting Corporate Finance Portfolio Management Financial Modelling Marketing Essentials Building Competitiveness Advantage: Business Strategy and Operations Year 3\nCore modules include: Year 3 Management of Risk Islamic Banking Practices Fintech and Cryptocurrencies Derivative Securities Strategy and International Business International Marketing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABBBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "[MUFY] Overall average 65% or above (Mathematics module is expected)."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Overall 30 points; 5 in Standard Level (SL) or 6 in a Higher Level (HL) Mathematics module is expected.."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 87 or above.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Business and Management",
+      "field_of_study": "Business and Management",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher.",
+        "UEC": "ABBBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher.",
+        "STPM": "BBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher.",
+        "Foundation": "[MUFY] Overall average 65% or above (Mathematics module is expected).",
+        "CPU": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected..",
+        "IB Diploma": "Overall 30 points; 5 in Standard Level (SL) Mathematics module is expected..",
+        "SACE/WACE": "ATAR 87 or above.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 (no component below 5.5)",
+        "Others": "SPM English 1119/IGSCE English: Grade B or Grade A2 in UEC English"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 122400
+      },
+      "course_content": {
+        "core": "Year 1\nModules include: Year 1 Management Debates: ways of thinking about business Business in Practice: Markets, Marketing and Management Business in Practice: Accounting for managers Business in Practice: Data analytics Developing Professional Excellence Year 2\nModules include: Year 2 Building Competitive Advantage: Business Strategy and Operations Introductory Economics for Business and Finance Managing Work and People: Organisational Behaviour and Human Resource Management Marketing Essentials Practice of Entrepreneurship Social Responsibility in Action Year 3\nModules include: Year 3 Digital Marketing Entrepreneurial Project Fintech and Cryptocurrencies Marketing Across Cultures Strategy and International Business Plus 1 Optional Module",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABBBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABBBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "[MUFY] Overall average 65% or above (Mathematics module is expected)."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Overall 30 points; 5 in Standard Level (SL) Mathematics module is expected.."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 87 or above.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Laws (LL.B)",
+      "field_of_study": "Law (LL.B.)",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB.",
+        "UEC": "ABBBB.",
+        "STPM": "BBB.",
+        "Foundation": "Overall average 65% or above.",
+        "CPU": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects..",
+        "IB Diploma": "Overall 30 points.",
+        "SACE/WACE": "ATAR 87 or above."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 (no component below 5.5)",
+        "Others": "SPM English 1119/IGSCE English: Grade B or Grade A2 in UEC English"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 122400
+      },
+      "course_content": {
+        "core": "Year 1 Legal Skills Tort Contract Public Law 1 Criminal Law Research and Writing Skills Year 2 Equity & Trusts Land Law Public Law 2 Plus 3 Elective modules from the following: Legal Writing Credit Research Project Alternative Dispute Resolution* Malaysian Legal System* Year 3 Foundation of EU Law Writing Credit Pro Bono and Professional Practice Elective modules forming 80 credits from the following: Company Law Commercial Law Dissertation Employment Law Environmental Law Evidence* Family Law International Children’s Rights International Human Rights Intellectual Property Law International Mooting Law Medical Law Research Writing Credit Writing Credit Pro Bono and Professional Practice Note:\n\n1. All optional modules are subject to availability and change.\n\n2.* - Additional modules offered only at UoRM.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "raw",
+            "text": "BBB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABBBB"
+          },
+          {
+            "type": "raw",
+            "text": "ABBBB."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "raw",
+            "text": "BBB."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "Overall average 65% or above."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Overall 30 points."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 87 or above."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Real Estate",
+      "field_of_study": "Property & Real Estate",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher.",
+        "UEC": "ABBBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher.",
+        "STPM": "BBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher.",
+        "Foundation": "[MUFY] Overall average 65% or above (Mathematics module is expected).",
+        "CPU": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected..",
+        "IB Diploma": "Overall 30 points; 5 in Standard Level (SL) Mathematics module is expected..",
+        "SACE/WACE": "ATAR 87 or above.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 (no component below 5.5)",
+        "Others": "SPM English 1119/IGSCE English: Grade B or Grade A2 in UEC English"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 122400
+      },
+      "course_content": {
+        "core": "Year 1\nCore modules include: Year 1 General Introduction to Law Introduction to Property Law Introduction to Planning and Building Introductory Economics for Business and Finance Introduction to Data Analysis Investment Appraisal Projects in Real Estate and Planning (1) Year 2\nCore modules include: Year 2 Applied Property Law Managing Change in Real Estate Sector Planning Law and Practice Projects in Real Estate and Planning (2) Property Valuation Real Estate Economics and Investment Year 3\nCore modules include: Year 3 Applied Valuation Projects in Appraisal and Management Dissertation (optional) Development Appraisal and Finance Real Estate Asset Management Finance and Markets (optional) Investment Strategy and Management (optional)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABBBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABBBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "[MUFY] Overall average 65% or above (Mathematics module is expected)."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.65
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected.."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.75
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Overall 30 points; 5 in Standard Level (SL) Mathematics module is expected.."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 5.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ATAR 87"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 87 or above.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Psychology",
+      "field_of_study": "Psychology",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB.",
+        "UEC": "ABBBB.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher.",
+        "STPM": "BBB.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher.",
+        "Foundation": "[MUFY] Overall average 65% or above and mathematics module is expected..",
+        "CPU": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected..",
+        "IB Diploma": "Overall 30 points; 5 in Standard Level (SL) Mathematics module is expected..",
+        "SACE/WACE": "ATAR 87 or above.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 (no component below 5.5)",
+        "Others": "SPM English 1119/IGSCE English: Grade B or Grade A2 in UEC English"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 112800
+      },
+      "course_content": {
+        "core": "Year 1\nCore modules include: Year 1 The Person and the Brain Learning about Learning Introduction to Psychological Research Debates in Mental Health Applied & Professional Psychology Psychology in the Workplace (with work placement) Year 2\nCore modules include: Year 2 Cognitive and Biological Psychology Development Across the Lifespan Research Methods in Psychology Social Psychology and Individual Differences Professional and Clinical Practice (with work placement) Behaviour Change Optional modules include Alternative Dispute Resolution Behaviour Change Founder Dilemmas Year 3/Year 4\nCore modules include: Year 3/Year 4 Research Project Communicating Current Psychology Practicum / Industrial Training Optional modules include Counselling: Theory and Practice Face Processing Forensic Psychology Psychology and Culture Visual Perception: Physiology, Psychophysics, and Psychology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABBBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABBBB.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "[MUFY] Overall average 65% or above and mathematics module is expected.."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Overall 30 points; 5 in Standard Level (SL) Mathematics module is expected.."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 87 or above.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Psychology with Professional Placement",
+      "field_of_study": "Psychology",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "BBB.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher.",
+        "UEC": "ABBBB.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher.",
+        "STPM": "BBB.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher.",
+        "Foundation": "[MUFY] Overall average 65% or above and mathematics module is expected..",
+        "CPU": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected..",
+        "IB Diploma": "Overall 30 points; 5 in Standard Level (SL) Mathematics module is expected..",
+        "SACE/WACE": "ATAR 87 or above.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 (no component below 5.5)",
+        "Others": "SPM English 1119/IGSCE English: Grade B or Grade A2 in UEC English"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 118440
+      },
+      "course_content": {
+        "core": "Year 1\nCore modules include: Year 1 The Person and the Brain Learning about Learning Introduction to Psychological Research Debates in Mental Health Applied & Professional Psychology Psychology in the Workplace (with work placement) Year 2\nCore modules include: Year 2 Cognitive and Biological Psychology Development Across the Lifespan Research Methods in Psychology Social Psychology and Individual Differences Professional and Clinical Practice (with work placement) Behaviour Change Optional modules include Alternative Dispute Resolution Behaviour Change Founder Dilemmas Year 3\nIndustry Placement Experience (12 months’ full-time work placement) Year 3 Year 4\nCore modules include: Year 4 Research Project Communicating Current Psychology Practicum / Industrial Training Optional modules include Face Processing Forensic Psychology Psychology and Culture Visual Perception: Physiology, Psychophysics, and Psychology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABBBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABBBB.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "[MUFY] Overall average 65% or above and mathematics module is expected.."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Overall 30 points; 5 in Standard Level (SL) Mathematics module is expected.."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 87 or above.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Quantity Surveying",
+      "field_of_study": "Quantity Surveying",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB including Mathematics.",
+        "UEC": "ABBBB including Mathematics.",
+        "Diploma": "CGPA 3.0.  Credits in SPM Mathematics, English and any one subject related to science/technical/vocational",
+        "STPM": "BBB.  Credits in SPM Mathematics, English and any one subject related to science/technical/vocational",
+        "Foundation": "[MUFY] Overall average 65% or above and Mathematics module is expected. [MQA accredited Foundation] CGPA 3.0 and credits in SPM Mathematics, English and any one subject related to science/technical/vocational.",
+        "CPU": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected..",
+        "IB Diploma": "Overall 30 points; 5 in Standard Level (SL) Mathematics module is expected..",
+        "SACE/WACE": "ATAR 87 or above, including a pass in Mathematics."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 (no component below 5.5)",
+        "Others": "SPM English 1119/IGSCE English: Grade B or Grade A2 in UEC English"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 112800
+      },
+      "course_content": {
+        "core": "Year 1 Core modules include: Construction Science Construction Site Engineering Construction Technology Economics for Construction and Engineering Introduction to Economics Empirical Studies General Introduction to Law Information and Communication Principles of Management Projects 1 Year 2 Core modules include: Building Environment Systems Building Pathology Building Technology Construction Contract Law Construction Economics Construction Procurement Construction Statutory Law Introduction to Quantification and Computerised Taking-Off Management in the Built Environment Research Skills Projects 2 Year 3 Core modules include: Project QS Quantification and Costing Sustainability Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABBBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABBBB including Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 3.0.  Credits in SPM Mathematics, English and any one subject related to science/technical/vocational"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "BBB.  Credits in SPM Mathematics, English and any one subject related to science/technical/vocational"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "[MUFY] Overall average 65% or above and Mathematics module is expected. [MQA accredited Foundation] CGPA 3.0 and credits in SPM Mathematics, English and any one subject related to science/technical/vocational."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Successful completion of Grade 12 OSSD with a transcript prescribing a minimum of 75% subject average over 6 subjects and Mathematics is expected.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Overall 30 points; 5 in Standard Level (SL) Mathematics module is expected.."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 87 or above, including a pass in Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "International Foundation Programme (Psychology)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Credits (A-C).",
+        "UEC": "BBBCC.",
+        "IB Diploma": "28 points with 4 points or higher in at least 5 subjects."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (no component below 4.5)",
+        "Others": "SPM English 1119/IGSCE English: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 24500
+      },
+      "course_content": {
+        "core": "Students are required to completed total of 4 moduels (depending on their chosen pathway): Academic Skills (compulsory) International English (if required) Economics An Introduction to Business and Management Foundation Mathematics Psychology Law",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits (A-C)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "BBBCC."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 28.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 4.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "28 points with 4 points or higher in at least 5 subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "International Foundation Programme",
+      "field_of_study": "Foundation in Arts",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Credits (A-C).",
+        "UEC": "BBBCC.",
+        "IB Diploma": "28 points with 4 points or higher in at least 5 subjects."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (no component below 4.5)",
+        "Others": "SPM English 1119/IGSCE English: Grade C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 24500
+      },
+      "course_content": {
+        "core": "Students are required to completed total of 4 moduels (depending on their chosen pathway): Academic Skills (compulsory) International English (if required) Economics An Introduction to Business and Management Foundation Mathematics Psychology Law",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 28.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 4.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "PhD in Built Environment",
+      "field_of_study": "Architecture",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Master’s degree or an equivalent qualification recognised by the Malaysian Government, or other qualification that the University accepts..",
+        "Degree": "A minimum upper second-class or international equivalent, or in exceptional circumstances, such as where a student has accrued significant relevant experience, a good 2.2 (lower second-class honours) degree.."
+      },
+      "english_requirements": {
+        "IELTS": "7.0 overall, with no element below 6.0"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 135000
+      },
+      "course_content": {
+        "core": "Research in topics related to our three main research pillars: Business Innovation in Construction Digital Practices Transition Pathways to Low Carbon Development",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "Master’s degree or an equivalent qualification recognised by the Malaysian Government, or other qualification that the University accepts.."
+          }
+        ],
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "A minimum upper second-class or international equivalent, or in exceptional circumstances, such as where a student has accrued significant relevant experience, a good 2.2 (lower second-class honours) degree.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "PhD in Business & Management",
+      "field_of_study": "Business and Management",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Master’s degree or an equivalent qualification recognised by the Malaysian Government, or other qualification that the University accepts..",
+        "Degree": "A minimum upper second-class or international equivalent, or in exceptional circumstances, such as where a student has accrued significant relevant experience, a good 2.2 (lower second-class honours) degree.."
+      },
+      "english_requirements": {
+        "IELTS": "7.0 overall, with no element below 6.0"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 135000
+      },
+      "course_content": {
+        "core": "Research Projects in the following areas: Real Estate, especially: Urban planning, town planning, placemaking (e.g., challenges of an ageing society). Smart cities and ESG factors (e.g., smart transportation systems and social inclusion). Property management and property investment (e.g., proptech startups, smart contract to facilitate property investment). Finance and Accounting, especially: Applied financial econometrics (e.g., AI techniques to develop predictive models for financial markets). Blockchain and cryptocurrency analysis (e.g., behaviour of blockchain-based markets and trading strategies). Green bonds (fixed-income security) (e.g., technology enabling green bond structures and environmental impacts). Carbon accounting and management (e.g., new carbon accounting methodologies). Entrepreneurship and innovation, especially: Social entrepreneurship (e.g., AI and social innovation, ethical considerations). Digital startups (e.g., “gain-of-function,” AGI alignment and safety). Disruption and innovation (e.g., new technologies and business models). New product development (e.g., IoT technologies, blockchain-based supply chain management). Supply chain management (SCM) (e.g., cybersecurity risks, innovation in SCM). Business analytics, especially: Decision support (e.g., new visualization methods to support decision-making processes). Big data analytics (e.g., flood mitigation and monitoring techniques). Predictive analytics (e.g., predictive models for marketing).",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "Master’s degree or an equivalent qualification recognised by the Malaysian Government, or other qualification that the University accepts.."
+          }
+        ],
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "A minimum upper second-class or international equivalent, or in exceptional circumstances, such as where a student has accrued significant relevant experience, a good 2.2 (lower second-class honours) degree.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "PhD in Psychology",
+      "field_of_study": "Psychology",
+      "location": "Reading, EduCity Iskandar",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A minimum upper second-class or international equivalent, or in exceptional circumstances, such as where a student has accrued significant relevant experience, a good 2.2 (lower second-class honours) degree..",
+        "Masters": "Master’s degree or an equivalent qualification recognised by the Malaysian Government, or other qualification that the University accepts.."
+      },
+      "english_requirements": {
+        "IELTS": "7.0 overall, with no element below 6.0"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 135000
+      },
+      "course_content": {
+        "core": "Research Projects in the following areas: Counselling and Mental Health, especially: Use of mental health apps Forensic Psychology, especially: orensic Psychology, especially: Aversive personalities Offending and criminal behaviour Investigative interviewing Nutrition and Cognition, especially: Effects of food (nuts, supplements, fruits and vegetables) on cognition Executive functions Perception, especially: Face perception, including health-related judgements Self-face perception, atypical self-representation Judgement and decision-making Effects of nature scenes on cognition Social Psychology, especially: Social psychology of communication Social cognition, attitudes, culture Applied and critical social psychology Vision Science, especially: Vision and cognitive benefits Texture perception",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "A minimum upper second-class or international equivalent, or in exceptional circumstances, such as where a student has accrued significant relevant experience, a good 2.2 (lower second-class honours) degree.."
+          }
+        ],
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "Master’s degree or an equivalent qualification recognised by the Malaysian Government, or other qualification that the University accepts.."
+          }
+        ]
+      }
+    }
+  ]
+}

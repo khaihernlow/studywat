@@ -14,6 +14,7 @@ interface AuthContextType {
   login: (credentialResponse: any) => Promise<void>;
   logout: () => void;
   getValidAccessToken: () => Promise<string | null>;
+  setClearChatCallback: (callback: () => void) => void;
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
@@ -25,6 +26,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const [isLoading, setIsLoading] = useState(true);
   const [accessToken, setAccessToken] = useState<string | null>(null);
   const [refreshToken, setRefreshToken] = useState<string | null>(null);
+  const [clearChatCallback, setClearChatCallback] = useState<(() => void) | null>(null);
 
   // Helper to update tokens in state and localStorage
   const setTokens = (access: string, refresh: string) => {
@@ -107,6 +109,10 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const login = async (credentialResponse: any) => {
     try {
       setIsLoading(true);
+      // Clear any existing chat messages before login
+      if (clearChatCallback) {
+        clearChatCallback();
+      }
       // Send Google token to backend
       const response = await fetch(`${API_BASE_URL}/google`, {
         method: 'POST',
@@ -136,10 +142,14 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     setUser(null);
     clearTokens();
     localStorage.removeItem('user');
+    // Clear chat messages when user logs out
+    if (clearChatCallback) {
+      clearChatCallback();
+    }
   };
 
   return (
-    <AuthContext.Provider value={{ user, isLoading, login, logout, getValidAccessToken }}>
+    <AuthContext.Provider value={{ user, isLoading, login, logout, getValidAccessToken, setClearChatCallback }}>
       {children}
     </AuthContext.Provider>
   );

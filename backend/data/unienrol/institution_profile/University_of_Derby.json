@@ -4,10 +4,13 @@
     "institution_type": "Public",
     "world_rank": 1945,
     "malaysia_rank": null,
+    "institution_images": [
+        "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/University+of+Derby/Kedleston+Road/Campus+and+Surroundings/01c_Kedleston_Road_One_Friar_Gate_Square_Campus.jpeg"
+    ],
     "programs": [
         {
             "program_name": "BA International Architecture and Venue Design (Hons)",
-            "field_of_study": "Architecture",
+            "field_of_study": "Architecture and Built Environment",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep"
@@ -34,35 +37,42 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "A-Level": {
-                    "raw": "BBB-BBC.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "UEC": {
-                    "raw": "5B5.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "STPM": {
-                    "raw": "BBB-BBC.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "A-Level": [
+                    {
+                        "raw": "BBB-BBC.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "UEC": [
+                    {
+                        "raw": "5B5.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "STPM": [
+                    {
+                        "raw": "BBB-BBC.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Architecture"
         },
         {
             "program_name": "BEng Motorsport Engineering (Hons)",
-            "field_of_study": "Automotive Technology",
+            "field_of_study": "Engineering",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep"
@@ -89,35 +99,42 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "A-Level": {
-                    "raw": "BBB-BBC (At least a grade C in Mathematics or Physics (or equivalent qualification)).",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": "C",
-                    "required_credits": [],
-                    "related_field": true
-                },
-                "UEC": {
-                    "raw": "5B5.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "STPM": {
-                    "raw": "BBB-BBC (At least a grade C in Mathematics or Physics (or equivalent qualification)).",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": "C",
-                    "required_credits": [],
-                    "related_field": true
-                }
-            }
+                "A-Level": [
+                    {
+                        "raw": "BBB-BBC (At least a grade C in Mathematics or Physics (or equivalent qualification)).",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": "C",
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ],
+                "UEC": [
+                    {
+                        "raw": "5B5.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "STPM": [
+                    {
+                        "raw": "BBB-BBC (At least a grade C in Mathematics or Physics (or equivalent qualification)).",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": "C",
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ]
+            },
+            "course": "Automotive Technology"
         },
         {
             "program_name": "BSc Computer Science (Hons)",
-            "field_of_study": "Computer Science",
+            "field_of_study": "Computing and IT",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep"
@@ -144,35 +161,42 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "A-Level": {
-                    "raw": "BBB-BBC.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "UEC": {
-                    "raw": "5B5.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "STPM": {
-                    "raw": "BBB-BBC.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "A-Level": [
+                    {
+                        "raw": "BBB-BBC.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "UEC": [
+                    {
+                        "raw": "5B5.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "STPM": [
+                    {
+                        "raw": "BBB-BBC.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Computer Science"
         },
         {
             "program_name": "BA Fine Art (Hons)",
-            "field_of_study": "Creative Arts",
+            "field_of_study": "Creative Arts and Design",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep"
@@ -199,35 +223,42 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "A-Level": {
-                    "raw": "BBC-BCC.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "UEC": {
-                    "raw": "5B5.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "STPM": {
-                    "raw": "BBC-BCC.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "A-Level": [
+                    {
+                        "raw": "BBC-BCC.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "UEC": [
+                    {
+                        "raw": "5B5.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "STPM": [
+                    {
+                        "raw": "BBC-BCC.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Creative Arts"
         },
         {
             "program_name": "BSc International Business Management",
-            "field_of_study": "International Business",
+            "field_of_study": "Business",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep"
@@ -254,35 +285,42 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "A-Level": {
-                    "raw": "BBB-BBC (UCAS Points 112-120).",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "UEC": {
-                    "raw": "5B5.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "STPM": {
-                    "raw": "BBB-BBC.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "A-Level": [
+                    {
+                        "raw": "BBB-BBC (UCAS Points 112-120).",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "UEC": [
+                    {
+                        "raw": "5B5.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "STPM": [
+                    {
+                        "raw": "BBB-BBC.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "International Business"
         },
         {
             "program_name": "LLB Law (Hons)",
-            "field_of_study": "Law (LL.B.)",
+            "field_of_study": "Law",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep"
@@ -307,35 +345,42 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "A-Level": {
-                    "raw": "BBB-BBC.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "UEC": {
-                    "raw": "5B5.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "STPM": {
-                    "raw": "BBB-BBC.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "A-Level": [
+                    {
+                        "raw": "BBB-BBC.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "UEC": [
+                    {
+                        "raw": "5B5.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "STPM": [
+                    {
+                        "raw": "BBB-BBC.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Law (LL.B.)"
         },
         {
             "program_name": "BEng Mechanical Engineering (Hons)",
-            "field_of_study": "Mechanical Engineering",
+            "field_of_study": "Engineering",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep"
@@ -362,35 +407,42 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "A-Level": {
-                    "raw": "BBB-BBC (At least a grade C in Mathematics or Physics (or equivalent qualification)).",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": "C",
-                    "required_credits": [],
-                    "related_field": true
-                },
-                "UEC": {
-                    "raw": "5B5.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "STPM": {
-                    "raw": "BBB-BBC (At least a grade C in Mathematics or Physics (or equivalent qualification)).",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": "C",
-                    "required_credits": [],
-                    "related_field": true
-                }
-            }
+                "A-Level": [
+                    {
+                        "raw": "BBB-BBC (At least a grade C in Mathematics or Physics (or equivalent qualification)).",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": "C",
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ],
+                "UEC": [
+                    {
+                        "raw": "5B5.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "STPM": [
+                    {
+                        "raw": "BBB-BBC (At least a grade C in Mathematics or Physics (or equivalent qualification)).",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": "C",
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ]
+            },
+            "course": "Mechanical Engineering"
         },
         {
             "program_name": "BSc Psychology (Hons)",
-            "field_of_study": "Psychology",
+            "field_of_study": "Language and Social Studies",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep"
@@ -417,35 +469,42 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "A-Level": {
-                    "raw": "ABB-BBB.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "UEC": {
-                    "raw": "5B5.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                },
-                "STPM": {
-                    "raw": "ABB-BBB.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "A-Level": [
+                    {
+                        "raw": "ABB-BBB.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "UEC": [
+                    {
+                        "raw": "5B5.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ],
+                "STPM": [
+                    {
+                        "raw": "ABB-BBB.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Psychology"
         },
         {
             "program_name": "MA Design",
-            "field_of_study": "Creative Arts",
+            "field_of_study": "Creative Arts and Design",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep",
@@ -469,19 +528,22 @@
             },
             "program_type": "masters",
             "entry_requirements_processed": {
-                "Degree": {
-                    "raw": "Undergraduate degree (at least second class), in a related subject, or an equivalent qualification and a portfolio of your practice..  If English is not your first language, you'll also need an IELTS score of 6.0 (with 5.5 in each skills area) or equivalent.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": true
-                }
-            }
+                "Degree": [
+                    {
+                        "raw": "Undergraduate degree (at least second class), in a related subject, or an equivalent qualification and a portfolio of your practice..  If English is not your first language, you'll also need an IELTS score of 6.0 (with 5.5 in each skills area) or equivalent.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ]
+            },
+            "course": "Creative Arts"
         },
         {
             "program_name": "Masters in Law (LLM)",
-            "field_of_study": "Law (LL.B.)",
+            "field_of_study": "Law",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep",
@@ -505,19 +567,22 @@
             },
             "program_type": "masters",
             "entry_requirements_processed": {
-                "Degree": {
-                    "raw": "An honours degree in any subject at least 2.2 classification.  We will also consider applicants with relevant work experience who may be accepted following the interview\nIf your first language is not English, you will need to evidence a proficiency in English (IELTS 7.0 with 6.5 in each skills area)",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Degree": [
+                    {
+                        "raw": "An honours degree in any subject at least 2.2 classification.  We will also consider applicants with relevant work experience who may be accepted following the interview\nIf your first language is not English, you will need to evidence a proficiency in English (IELTS 7.0 with 6.5 in each skills area)",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Law (LL.B.)"
         },
         {
             "program_name": "MSc Management",
-            "field_of_study": "Management",
+            "field_of_study": "Business",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep",
@@ -541,19 +606,22 @@
             },
             "program_type": "masters",
             "entry_requirements_processed": {
-                "Degree": {
-                    "raw": "An undergraduate degree with a minimum 2:2 classification or its international equivalent..  If English is not your first language, you will also need IELTS 6.5 with 6.0 in each skills area.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": true
-                }
-            }
+                "Degree": [
+                    {
+                        "raw": "An undergraduate degree with a minimum 2:2 classification or its international equivalent..  If English is not your first language, you will also need IELTS 6.5 with 6.0 in each skills area.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ]
+            },
+            "course": "Management"
         },
         {
             "program_name": "MSc Marketing Management",
-            "field_of_study": "Marketing",
+            "field_of_study": "Business",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep",
@@ -577,19 +645,22 @@
             },
             "program_type": "masters",
             "entry_requirements_processed": {
-                "Degree": {
-                    "raw": "An undergraduate degree with a minimum 2:2 classification or its international equivalent..  If English is not your first language, you will also need IELTS 6.5 with 6.0 in each skills area.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": true
-                }
-            }
+                "Degree": [
+                    {
+                        "raw": "An undergraduate degree with a minimum 2:2 classification or its international equivalent..  If English is not your first language, you will also need IELTS 6.5 with 6.0 in each skills area.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ]
+            },
+            "course": "Marketing"
         },
         {
             "program_name": "MSc Mechanical and Manufacturing Engineering",
-            "field_of_study": "Mechanical Engineering",
+            "field_of_study": "Engineering",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep"
@@ -612,19 +683,22 @@
             },
             "program_type": "masters",
             "entry_requirements_processed": {
-                "Degree": {
-                    "raw": "You will normally need an appropriate engineering or science undergraduate degree (2:2 or above), or an equivalent professional qualification, or significant industrial or professional experience following your initial qualification..  If English is not your first language, you will also need an IELTS score of 6.5 or the equivalent.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": true
-                }
-            }
+                "Degree": [
+                    {
+                        "raw": "You will normally need an appropriate engineering or science undergraduate degree (2:2 or above), or an equivalent professional qualification, or significant industrial or professional experience following your initial qualification..  If English is not your first language, you will also need an IELTS score of 6.5 or the equivalent.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ]
+            },
+            "course": "Mechanical Engineering"
         },
         {
             "program_name": "MA Social Work",
-            "field_of_study": "Social Sciences",
+            "field_of_study": "Language and Social Studies",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep"
@@ -649,19 +723,22 @@
             },
             "program_type": "masters",
             "entry_requirements_processed": {
-                "Degree": {
-                    "raw": "A minimum 2:1 honours degree (except in exceptional circumstances) or international equivalent.  To be considered for interview your Personal Statement must evidence the following:\nAn understanding of the roles and responsibilities of UK based social workers\nRelevant social care/work experience (paid or unpaid).* You need to state how this relates to social work. You may want to refer to Social Work England/BASW Professional Capabilities Framework domains to do this.\nThe length of time you have spent gaining this experience and how it makes you suitable for undertaking the social work course at this time.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": true
-                }
-            }
+                "Degree": [
+                    {
+                        "raw": "A minimum 2:1 honours degree (except in exceptional circumstances) or international equivalent.  To be considered for interview your Personal Statement must evidence the following:\nAn understanding of the roles and responsibilities of UK based social workers\nRelevant social care/work experience (paid or unpaid).* You need to state how this relates to social work. You may want to refer to Social Work England/BASW Professional Capabilities Framework domains to do this.\nThe length of time you have spent gaining this experience and how it makes you suitable for undertaking the social work course at this time.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ]
+            },
+            "course": "Social Sciences"
         },
         {
             "program_name": "MA Art Therapy",
-            "field_of_study": "Social Sciences",
+            "field_of_study": "Language and Social Studies",
             "location": "University of Derby, Kedleston Road",
             "intakes": [
                 "Sep"
@@ -684,15 +761,18 @@
             },
             "program_type": "masters",
             "entry_requirements_processed": {
-                "Degree": {
-                    "raw": "Completed an undergraduate degree, either: - BA (Hons) Creative Expressive Arts, Health and Wellbeing - A degree in the visual arts, or - An undergraduate degree in other related areas, such as psychology, occupational therapy, social work, and nursing and have a sound current folio of artwork, or - An equivalent professional qualification and extensive experience in a related field..  Applicants go through a selection and interview process that usually includes attending an experiential workshop as well as a formal individual interview which includes a discussion of a portfolio of your artwork.",
-                    "min_gp": null,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": true
-                }
-            }
+                "Degree": [
+                    {
+                        "raw": "Completed an undergraduate degree, either: - BA (Hons) Creative Expressive Arts, Health and Wellbeing - A degree in the visual arts, or - An undergraduate degree in other related areas, such as psychology, occupational therapy, social work, and nursing and have a sound current folio of artwork, or - An equivalent professional qualification and extensive experience in a related field..  Applicants go through a selection and interview process that usually includes attending an experiential workshop as well as a formal individual interview which includes a discussion of a portfolio of your artwork.",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ]
+            },
+            "course": "Social Sciences"
         }
     ]
 }

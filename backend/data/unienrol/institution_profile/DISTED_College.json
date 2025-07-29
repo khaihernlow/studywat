@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 13007,
   "malaysia_rank": 89,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Disted+College/Disted+YCE/Campus_and_Surroundings/01b_Disted_YCE_Main_Campus.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor in Accounting (Hons), HELP University & Colleges, Malaysia",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "May",
@@ -161,11 +164,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Communication (Media Studies) (Hons), HELP University & Colleges, Malaysia",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -319,11 +323,12 @@
             "text": "Min of 24 points."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Information Technology (Honours) (Data Analytics), HELP University & Colleges, Malaysia",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -450,11 +455,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor in Marketing (Hons), HELP University & Colleges, Malaysia",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -574,11 +580,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BA (Hons) in Psychology (3+0), HELP University & Colleges, Malaysia",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -814,11 +821,12 @@
             "text": "ATAR 65.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Diploma in Accounting.",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -925,11 +933,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Business Studies.",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -988,11 +997,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Computer Science.",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -1072,11 +1082,12 @@
             "text": "Pass with 3Bs including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -1181,11 +1192,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Mass Communication",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Disted Wawasan City, Georgetown",
       "intakes": [
         "Jan",
@@ -1295,11 +1307,12 @@
             "text": "Pass or its equivalent, with a minimum Grade C (GP 2.00) in any subject.  Credit in English at SPM or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Creative Multimedia Production.",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -1385,11 +1398,12 @@
             "text": "3 Credits (Grade B) and a pass in English."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Cambridge A-Levels (3 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Feb",
@@ -1458,11 +1472,12 @@
             "text": "5 credits with passes (Grade E) in relevant Science subjects and English."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "Cambridge A-Levels (4 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Feb",
@@ -1541,11 +1556,12 @@
             "text": "5 credits with passes (Grade E) in relevant Science subjects and English."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "South Australian Certificate of Education (SACE International)",
-      "field_of_study": "Australian Matriculation (AUSMAT)",
+      "field_of_study": "International Pre-University",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Feb",
@@ -1638,11 +1654,12 @@
             "text": "3 credits with passes (Grade B6) in relevant Science subjects and English."
           }
         ]
-      }
+      },
+      "course": "Australian Matriculation (AUSMAT)"
     },
     {
       "program_name": "Foundation in Arts (Accounting)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Feb",
@@ -1740,11 +1757,12 @@
             "text": "min. 3 credits including Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Psychology)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Feb",
@@ -1860,11 +1878,12 @@
             "text": "min. 3 credits including Mathematics, 1 science subject and pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Communication)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Feb",
@@ -1932,11 +1951,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Business)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Feb",
@@ -2031,11 +2051,12 @@
             "text": "3 Credits (min Grade B), pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Science (Medicine)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -2145,11 +2166,12 @@
             "text": "B4 in 3 subjects including Biology, Chemistry, Physics or Mathematics (or Additional Mathematics)."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Dentistry)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -2259,11 +2281,12 @@
             "text": "B4 in 3 subjects including Biology, Chemistry, Physics or Mathematics (or Additional Mathematics)."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Pharmacy)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -2344,11 +2367,12 @@
             "text": "Grade B in 5 subjects including Mathematics (or Additional Mathematics), Biology, Chemistry, Physics, and 1 other subject, and Credit in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Biomedical, Biotechnology and Sciences)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -2478,11 +2502,12 @@
             "text": "Grade B in 3 subjects including Mathematics and 2 Science subjects and pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Engineering)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -2585,11 +2610,12 @@
             "text": "Grade B in 3 subjects including Mathematics and 1 Physical Science subject."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Computer Science and Software Engineering)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -2674,11 +2700,12 @@
             "text": "Grade B in 3 subjects including Additional Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Information Technology and Information System)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Disted YCE Heritage, Georgetown",
       "intakes": [
         "Jan",
@@ -2763,7 +2790,8 @@
             "text": "Grade B in 3 subjects including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

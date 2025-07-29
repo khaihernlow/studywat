@@ -12,6 +12,7 @@ export interface Institution {
   institution_type: string;
   world_rank?: number;
   malaysia_rank?: number;
+  institution_images?: string[];
   program_ids: string[];
 }
 
@@ -61,7 +62,7 @@ export function useProgramsApi() {
 
   // Example: if listPrograms does not require auth, keep as is
   const listPrograms = useCallback(async (filters: {
-    field_of_study?: string;
+    course?: string[];
     location?: string;
     program_type?: string;
     program_name?: string;
@@ -94,5 +95,10 @@ export function useProgramsApi() {
     });
   }, [authRequest]);
 
-  return { listPrograms, getProgramsByIds };
+  const getFieldOfStudyOptions = useCallback(async (): Promise<{sections: Array<{label: string, courses: Array<{label: string, value: string, description: string}>}>}> => {
+    const response = await axios.get(`${API_BASE_URL}/api/v1/programs/field-of-study-options`);
+    return response.data;
+  }, []);
+
+  return { listPrograms, getProgramsByIds, getFieldOfStudyOptions };
 } 

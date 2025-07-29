@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/CATS+Boarding+School+UK/CATS+Cambridge/Campus+and+Surroundings/01b_CATS_Cambridge_Main_Building_Aerial_View.jpeg"
+  ],
   "programs": [
     {
       "program_name": "A-Levels",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "CATS Cambridge",
       "intakes": [
         "Jan",
@@ -66,11 +69,12 @@
             "text": "Pass IGCSE with minimum 5 Cs."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "A-Levels",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "CATS London",
       "intakes": [
         "Jan",
@@ -129,11 +133,12 @@
             "text": "Pass IGCSE with minimum 5 Cs."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "A-Levels",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "CATS Canterbury",
       "intakes": [
         "Jan",
@@ -192,11 +197,12 @@
             "text": "Pass IGCSE with minimum 5 Cs."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "University Foundation Programme (UFP) - Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "CATS Cambridge",
       "intakes": [
         "Jan",
@@ -255,11 +261,12 @@
             "text": "Pass IGCSE with minimum 5 Cs."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University Foundation Programme (UFP) - Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "CATS London",
       "intakes": [
         "Jan",
@@ -318,11 +325,12 @@
             "text": "Pass IGCSE with minimum 5 Cs."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University Foundation Programme (UFP) - Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "CATS Canterbury",
       "intakes": [
         "Jan",
@@ -381,11 +389,12 @@
             "text": "Pass IGCSE with minimum 5 Cs."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University Foundation Programme (UFP) - Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "CATS Cambridge",
       "intakes": [
         "Jan",
@@ -478,11 +487,12 @@
             "text": "minimum 5Cs including 2 science subjects and Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "University Foundation Programme (UFP) - Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "CATS London",
       "intakes": [
         "Jan",
@@ -567,11 +577,12 @@
             "text": "minimum 5Cs including 2 science subjects and Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "University Foundation Programme (UFP) - Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "CATS Canterbury",
       "intakes": [
         "Jan",
@@ -656,11 +667,12 @@
             "text": "minimum 5Cs including 2 science subjects and Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "International Baccalaurate (IB)",
-      "field_of_study": "International Baccalaureate (IB)",
+      "field_of_study": "International Pre-University",
       "location": "CATS Canterbury",
       "intakes": [
         "Sep"
@@ -718,7 +730,8 @@
             "text": "Pass IGCSE with minimum 5 Cs."
           }
         ]
-      }
+      },
+      "course": "International Baccalaureate (IB)"
     }
   ]
 }

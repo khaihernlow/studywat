@@ -18,6 +18,7 @@ interface Program {
   cost: number;
   field: string;
   imageUrl?: string;
+  institutionImages?: string[];
   malaysiaRank?: number;
   worldRank?: number;
   intakeMonths?: string[];
@@ -129,7 +130,7 @@ const ProgramResultCard: React.FC<ProgramResultCardProps> = ({ program, lists, o
         position: 'absolute',
         left: rect.right - 192, // 192px = w-48
         top: rect.top - popover.offsetHeight - 8 + window.scrollY, // 8px margin
-        zIndex: 9999,
+        zIndex: 10,
         width: 192,
       });
     }
@@ -180,7 +181,9 @@ const ProgramResultCard: React.FC<ProgramResultCardProps> = ({ program, lists, o
       <div className="md:shrink-0">
         <div
           className="w-full h-40 md:h-full md:w-48 bg-muted bg-cover bg-center"
-          style={{ backgroundImage: `url('${universityCover}')` }}
+          style={{ 
+            backgroundImage: `url('${program.institutionImages && program.institutionImages.length > 0 ? program.institutionImages[0] : universityCover}')` 
+          }}
         />
       </div>
       {/* Right content */}
@@ -238,7 +241,7 @@ const ProgramResultCard: React.FC<ProgramResultCardProps> = ({ program, lists, o
             {!isMobile && popoverOpen && typeof window !== 'undefined' && ReactDOM.createPortal(
               <div
                 ref={popoverRef}
-                className="rounded-md border bg-popover p-2 shadow-lg z-50"
+                className="rounded-md border bg-popover p-2 shadow-lg z-10"
                 style={popoverStyle}
               >
                 <div className="font-medium text-sm mb-2">Add to List</div>

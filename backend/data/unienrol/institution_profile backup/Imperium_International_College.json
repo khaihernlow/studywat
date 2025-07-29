@@ -1,0 +1,960 @@
+{
+  "institution_name": "Imperium International College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Certificate in Business",
+      "field_of_study": "Business Administration",
+      "location": "Imperium, KL",
+      "intakes": [
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "1 credit in any subject, or any equivalent qualification."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 2400,
+        "tuition_fee": 4745
+      },
+      "course_content": {
+        "core": "YEAR 1 Pengajian Malaysia 1 / Bahasa Melayu Komunikasi 1 English 1 Business Communication Fundamentals of Business Mathematics Principles of Accounting Critical Thinking Basic Computing English 2 Introduction to Business Principles of Marketing Basic Statistics Comparative Religion English 3 Principles of Finance YEAR 2 Public Speaking Fundamentals of Business Law Fundamentals of Economics Principles of Management Introduction to Human Resource Management Introduction to Entrepreneurship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "1 credit in any subject, or any equivalent qualification."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Accounting & Finance",
+      "field_of_study": "Accounting and Finance",
+      "location": "Imperium, KL",
+      "intakes": [
+        "Jan",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum of Grade D.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "6.0",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 3600,
+        "tuition_fee": 42965
+      },
+      "course_content": {
+        "core": "YEAR 1 Business Economics\nInternational Business\nEnterprise and Entrepreneurial Management\nSystems and Operations Management\nBusiness Research Methods\nImproving Organisational Performance\nConsumer Behaviour\nAsian Entrepreneurship and Innovation\nTamadun Islam dan Tamadun Asia / Pengajian Malaysia 3\nMalaysian Economy YEAR 2 Business Economics\nInternational Business\nEnterprise and Entrepreneurial Management\nSystems and Operations Management\nSystems and Operations Management YEAR 3 Organisational Change Management\nStrategic Management Analysis\nSustainable Management Futures\nInternational Intercultural Management\nStrategic Management in Action\nMarketing Consultancy\nUndergraduate Major Project (Desk Based)\nCommunity Services\nInternship (3 Months)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum of Grade D.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Business Management",
+      "field_of_study": "Business and Management",
+      "location": "Imperium, KL",
+      "intakes": [
+        "Jan",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "6.0",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 3600,
+        "tuition_fee": 42965
+      },
+      "course_content": {
+        "core": "YEAR 1 Business Economics\nInternational Business\nEnterprise and Entrepreneurial Management\nSystems and Operations Management\nBusiness Research Methods\nImproving Organisational Performance\nConsumer Behaviour\nAsian Entrepreneurship and Innovation\nTamadun Islam dan Tamadun Asia / Pengajian Malaysia 3\nMalaysian Economy YEAR 2 Business Economics\nInternational Business\nEnterprise and Entrepreneurial Management\nSystems and Operations Management\nSystems and Operations Management YEAR 3 Organisational Change Management\nStrategic Management Analysis\nSustainable Management Futures\nInternational Intercultural Management\nStrategic Management in Action\nMarketing Consultancy\nUndergraduate Major Project (Desk Based)\nCommunity Services\nInternship (3 Months)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Marketing",
+      "field_of_study": "Marketing",
+      "location": "Imperium, KL",
+      "intakes": [
+        "Jan",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "6.0",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 3600,
+        "tuition_fee": 42965
+      },
+      "course_content": {
+        "core": "YEAR 1 Economics for Business and Management Introduction to Accounting and Finance Introduction to Business Law Academic Skills Marketing Essentials Analysis of Business Introduction to People, Organisation and Management Information Technology for Business Hubungan Etnik / Bahasa Melayu Komunikasi 2 Strategic Planning for Entrepreneurs YEAR 2 Business to Business Marketing International Business Enterprise and Entrepreneurial Management Systems and Operations Management Marketing Communications Business Research Methods Consumer Behaviour Asian Entrepreneurship and Innovation Tamadun Islam dan Tamadun Asia / Pengajian Malaysia 3 Malaysian Economy YEAR 3 Organisational Change Management Strategic Management Analysis Sustainable Management Futures Retail Marketing International Marketing Marketing Consultancy Undergraduate Major Project (Desk Based) Community Services Internship (3 months)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Association of Chartered Certified Accountants (ACCA)",
+      "field_of_study": "Professional Accounting",
+      "location": "Imperium, KL",
+      "intakes": [
+        "Jan",
+        "Jul"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Passed A-Levels with 2 Principal passes.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "UEC": "Passed UEC with minimum 5 B’s (including English & Mathematics).  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Diploma": "Pass with CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "STPM": "Passed STPM with 2 Principal passes.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Foundation": "Pass with CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 4200,
+        "tuition_fee": 15800
+      },
+      "course_content": {
+        "core": "FUNDAMENTAL LEVEL APPLIED KNOWLEDGE BT Business and Technology MA Management Accounting FA Financial Accounting APPLIED SKILLS LW Corporate & Business Law PM Performance Management TX Taxation FR Financial Reporting AA Audit & Assurance FM Financial Management STRATEGIC PROFESSIONAL ESSENTIAL MODULES SBL Strategic Business Leader SBR Strategic Business Reporting",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "professional",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed A-Levels with 2 Principal passes.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed UEC with minimum 5 B’s (including English & Mathematics).  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed STPM with 2 Principal passes.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass with CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Accountancy",
+      "field_of_study": "Accounting",
+      "location": "Imperium, KL",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics AND Pass in English.",
+        "O-Level": "Pass with 3 credits including Mathematics AND Pass in English.",
+        "UEC": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 3000,
+        "tuition_fee": 15486
+      },
+      "course_content": {
+        "core": "YEAR 1 Accounting I English Writing Skills Pengajian Malaysia 2 / Bahasa Melayu Komunikasi 1 (MPU) Accounting II Business Mathematics Microeconomics Human Resource Management Introduction to Entrepreneurial Behaviour (MPU) Fundamentals of Cost and Management Accounting Accounting III Statistics for Business Business Communication Business Law Comparative Religion (MPU) YEAR 2 Cost & Management Accounting Audit I Macroeconomics Accounting IV Finance I Principles of Taxation Accounting for Management Controls Company Law Community Services (MPU) Audit II Accounting V Business Taxation Accounting for Decisions Accounting Information System Finance II Internship (3 Months)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business",
+      "field_of_study": "Business and Management",
+      "location": "Imperium, KL",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 3000,
+        "tuition_fee": 15486
+      },
+      "course_content": {
+        "core": "YEAR 1 Pengajian Malaysia 2 / Bahasa Melayu Komunikasi 1 (MPU) Introduction to Business Introduction to Economics Business Statistics Introduction to Information Systems Introduction to Entrepreneurial Behaviour (MPU) English 2 Marketing Principles Business Information Systems Mathematics Comparative Religion (MPU) YEAR 2 Management Principle Human Resource Management Accounting, Decisions and Accountability Business Finance Work and Organisation Communication and the Media Community Services (MPU) Introduction to Law Business Economics Elective Subject Elective Subject Elective Subject Internship (3 Months)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business Studies",
+      "field_of_study": "Foundation in Arts",
+      "location": "Imperium, KL",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum of 5 credits.",
+        "O-Level": "Minimum Grade C in 5 subjects.",
+        "UEC": "Minimum Grade B in 3 subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 2100,
+        "tuition_fee": 6360
+      },
+      "course_content": {
+        "core": "SEMESTER 1 English 1 Mathematics 1 Financial Acounting Introduction to Law Entrepreneurship SEMESTER 2 Introduction to Management Introduction to Marketing Essentials of Economics Economics Management Accounting SEMESTER 3 English 2 Thinking Skills Basic Information Communication Technology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business Studies (Accounting & Finance)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Imperium, KL",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 Credits.",
+        "O-Level": "Pass with 5 Grade C.",
+        "UEC": "Passed Unified Examination Certificate (UEC) with a minimum Grade B in 3 subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 2100,
+        "tuition_fee": 6360
+      },
+      "course_content": {
+        "core": "SEMESTER 1 English 1 Mathematics 1 Financial Acounting Introduction to Law Entrepreneurship SEMESTER 2 Introduction to Management Introduction to Marketing Essentials of Economics Management Accounting SEMESTER 3 English 2 Thinking Skills Basic Information Communication Technology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "ACCA Foundation in Accountancy (ACCA FIA)",
+      "field_of_study": "Professional Accounting",
+      "location": "Imperium, KL",
+      "intakes": [
+        "Jan",
+        "Jul"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 Credits including Mathematics and English.",
+        "O-Level": "Pass with 5 Grade C including Mathematics and English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 2500,
+        "tuition_fee": 6150
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\n- FA1 Recording Financial Transactions\n- MA1 Management Information\n- FA2 Maintaining Financial Records\n- MA2 Managing Costs and Finances\nCompulsory Institution Subjects\n- KWI 1101 Public Speaking Year 1 Semester 1 Compulsory Institution Subjects Semester 2\n- FBT Business and Technology\n- FMA Management Accounting\n- FFA Financial Accounting\nCompulsory Institution Subjects\n- KWI 1102 Critical Thinking Semester 2 Compulsory Institution Subjects",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Credits including Mathematics and English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Grade C including Mathematics and English."
+          }
+        ]
+      }
+    }
+  ]
+}

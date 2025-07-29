@@ -1,0 +1,820 @@
+{
+  "institution_name": "University of York",
+  "institution_country": "United Kingdom",
+  "institution_type": "Public",
+  "world_rank": 187,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "BA (Hons) Economics and Philosophy",
+      "field_of_study": "Economics",
+      "location": "York, Heslington",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "AAB including Mathematics.",
+        "UEC": "Grade 4A 1B in 5 Subjects including Mathematics.",
+        "Diploma": "Minimum CGPA 3.25 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5, with a minimum of 6.0 in each component",
+        "TOEFL": "87 overall, with a minimum of 21 in each component",
+        "Others": "Grade C in GCSE/IGCSE/O level English Language (as a first or second language)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 355590
+      },
+      "course_content": {
+        "core": "Year 1 Economics Economics 1 \nMathematics 1 \nProbability 1 \nStatistics 1 Economics 1 Mathematics 1 Probability 1 Statistics 1 Philosophy Ancient Philosophy \nBeginning Philosophy \nEarly Modern Philosophy B \nReason and Argument B Ancient Philosophy Beginning Philosophy Early Modern Philosophy B Reason and Argument B Option modules Philosophy\nEthics \nKnowledge and Perception Philosophy Ethics Knowledge and Perception Year 2 Economics Economics II - Microeconomics \nEconomics II - Macroeconomics \nEconometrics II Economics II - Microeconomics Economics II - Macroeconomics Econometrics II Option modules\nPhilosophy Philosophy of Mind \nRationalism: Spinoza and Leibniz Philosophy of Mind Rationalism: Spinoza and Leibniz  You could choose up to two short Key Ideas modules. Current options include: Applied Ethics (Short) \nPhilosophy of Science (Short) \nIntermediate Logic (Short) Applied Ethics (Short) Philosophy of Science (Short) Intermediate Logic (Short) Year 3 Dissertation PPE dissertation PPE Rationalism: Spinoza and Leibniz Option modules\nPPE Ethics and Public Policy \nThe Democratic Economy Ethics and Public Policy The Democratic Economy Economics\nYou'll choose at least two economics modules. Current choices include: Monetary Economics \nInternational Economics \nBubbles, Panics and Crashes: A Long Period Assessment of the Causes and Consequences of Financial Crises Monetary Economics International Economics Bubbles, Panics and Crashes: A Long Period Assessment of the Causes and Consequences of Financial Crises Philosophy\nYou'll choose at least two philosophy modules. Current choices include: Contemporary Issues in Bioethics\nFrom Marx to Critical Theory \nProperty and Self-Ownership Contemporary Issues in Bioethics From Marx to Critical Theory Property and Self-Ownership",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "AAB including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade 4A 1B in 5 Subjects including Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.25
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.25 (Diploma in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Economics and Politics",
+      "field_of_study": "Economics",
+      "location": "York, Heslington",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "AAB including Mathematics.",
+        "UEC": "Grade 4A 1B in 5 Subjects including Mathematics.",
+        "Diploma": "Minimum CGPA 3.25 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5, with a minimum of 6.0 in each component",
+        "TOEFL": "87 overall, with a minimum of 21 in each component",
+        "Others": "Grade C in GCSE/IGCSE/O level English Language (as a first or second language)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 355590
+      },
+      "course_content": {
+        "core": "Year 1 Economics\nEconomics I \nMathematics I \nProbability I \nStatistics I Economics Economics I Mathematics I Probability I Statistics I Option modules\nPolitics\nYou'll choose modules from a list similar to the following: Option modules Politics What is Politics? \nIntroduction to Democratic Politics \nIntroduction to International Politics \nIntroduction to Political Theory What is Politics? Introduction to Democratic Politics Introduction to International Politics Introduction to Political Theory Year 2 Economics Economics II - Microeconomics \nEconomics II - Macroeconomics \nEconometrics II Economics II - Microeconomics Economics II - Macroeconomics Econometrics II Option modules\nPolitics\nYou may choose: one module from the Political Theory group\none module from either The State and Political Institutions or International Politics group one module from the Political Theory group one module from either The State and Political Institutions or International Politics group Current modules include:\n\nPolitical Theory group Democracy and Struggles for Social Justice \nHistory of Political Thought \nState, Economy and Society \nEmpire, War and Law Democracy and Struggles for Social Justice History of Political Thought State, Economy and Society Empire, War and Law The State and Political Institutions group Democracy, Autocracy and the State \nPolitics in the United Kingdom \nThe European Union: Politics and Policies \nPolitics of Development \nThe Rising Powers Democracy, Autocracy and the State Politics in the United Kingdom The European Union: Politics and Policies Politics of Development The Rising Powers International Politics group War and Peace \nThe United States and Global Politics after the Cold War \nHuman Rights and Wrongs in a Globalised World \nCritical Global Security Studies War and Peace The United States and Global Politics after the Cold War Human Rights and Wrongs in a Globalised World Critical Global Security Studies Year 3 Dissertation PPE dissertation PPE The Democratic Economy Option modules\nPPE Monetary Economics \nInternational Economics \nBubbles, Panics and Crashes: A Long Period Assessment of the Causes and Consequences of Financial Crises Monetary Economics International Economics Bubbles, Panics and Crashes: A Long Period Assessment of the Causes and Consequences of Financial Crises Politics\nYou'll choose at least two politics  modules. Current choices include: Terrorism and Counterterrorism \nBorder Politics: Contemporary Perspectives on Sovereignty, Mobility and Citizenship \nAfrica and International Politics Terrorism and Counterterrorism Border Politics: Contemporary Perspectives on Sovereignty, Mobility and Citizenship Africa and International Politics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "AAB including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade 4A 1B in 5 Subjects including Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.25
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.25 (Diploma in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Education",
+      "field_of_study": "Education",
+      "location": "York, Heslington",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5, with a minimum of 6.0 in each component",
+        "TOEFL": "87 overall, with a minimum of 21 in each component",
+        "Others": "Grade C in GCSE/IGCSE/O level English Language (as a first or second language)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 355590
+      },
+      "course_content": {
+        "core": "Year 1 Perspectives on Education \nResearching Education \nWhat is Education?\nKey Concepts of Education Perspectives on Education Researching Education What is Education? Key Concepts of Education Year 2 Education, Policy & Society \nEducational Research Methods Education, Policy & Society Educational Research Methods Option modules\nYou will take a selection of option modules, examples of which may include: Option modules Current Debates in Educational Psychology \nLearning Through Language \nTeaching and Learning Literature \nFrom Eliza Doolittle to Harry Potter: Narratives of Youth \nCreative Writing for Children, Creative Writing with Children \nEducation and the Environment Current Debates in Educational Psychology Learning Through Language Teaching and Learning Literature From Eliza Doolittle to Harry Potter: Narratives of Youth Creative Writing for Children, Creative Writing with Children Education and the Environment Year 3 Dissertation dissertation Core module New Directions in Educational Research Option modules\nYou will take a selection of option modules, examples of which may include: Assessment in Education \nDrama and Education \nEducation and Citizenship \nEducation and International Development \nGenetics and Education \nLandmarks in British Poetry \nLanguage and Psychology \nLearning Gender \nPerspectives on Literacy in Education \nPhilosophy, Education and Children \nScience, Education and Society\nSupporting Pupils' Psychological Development in School \nReading Development and Disorders \nUnderstanding Motivation and Emotions in Education \nWriting for Diverse Audiences \nPositive Psychology in Education \nIntelligence Assessment in Education Drama and Education Education and Citizenship Education and International Development Genetics and Education Landmarks in British Poetry Language and Psychology Learning Gender Perspectives on Literacy in Education Philosophy, Education and Children Science, Education and Society Supporting Pupils' Psychological Development in School Reading Development and Disorders Understanding Motivation and Emotions in Education Writing for Diverse Audiences Positive Psychology in Education Intelligence Alternative options Individual study module Placement study",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "BBB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) /BSc (Hons) in Mathematics",
+      "field_of_study": "Mathematics",
+      "location": "York, Heslington",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "-AAA including A in mathematics -AAB including A in mathematics and A in Further mathematics -AAB including A in mathematics and A in Further mathematics at AS level.",
+        "UEC": "5A including Mathematics.",
+        "Diploma": "Minimum CGPA 3.5 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5, with a minimum of 6.0 in each component",
+        "TOEFL": "87 overall, with a minimum of 21 in each component",
+        "Others": "Grade C in GCSE/IGCSE/O level English Language (as a first or second language)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 355590
+      },
+      "course_content": {
+        "core": "Year 1 Calculus \nAlgebra \nMathematical Skills I: Reasoning and communication  \nIntroduction to Probability and Statistics \nReal Analysis  \nIntroduction to Applied Mathematics Calculus Algebra Mathematical Skills I: Reasoning and communication Introduction to Probability and Statistics Real Analysis Introduction to Applied Mathematics Year 2 Vector & Complex Calculus\nLinear Algebra Vector & Complex Calculus Linear Algebra Year 3 Extended Independent Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "-AAA including A in mathematics -AAB including A in mathematics and A in Further mathematics -AAB including A in mathematics and A in Further mathematics at AS level."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5A including Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.5 (Diploma in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Applied Social Science",
+      "field_of_study": "Social Sciences",
+      "location": "York, Heslington",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB.",
+        "UEC": "2A 3B in 5 subjects.",
+        "Diploma": "Minimum CGPA 3.0 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5, with a minimum of 6.0 in each component",
+        "TOEFL": "87 overall, with a minimum of 21 in each component",
+        "Others": "Grade C in GCSE/IGCSE/O level English Language (as a first or second language)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 317520
+      },
+      "course_content": {
+        "core": "Year 1 Introducing Social Policy \nContemporary Issues in Social and Political Sciences\nPolitics and Economics for Social Policy \nExploring Social Policy and Social Justice Introducing Social Policy Contemporary Issues in Social and Political Sciences Politics and Economics for Social Policy Exploring Social Policy and Social Justice Year 2 Social Research Methods",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "BBB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "2A 3B in 5 subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.0 (Diploma in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Archaeology",
+      "field_of_study": "Social Sciences",
+      "location": "York, Heslington",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "AAB.",
+        "UEC": "4A 1B in 5 subjects.",
+        "Diploma": "Minimum CGPA 3.25 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5, with a minimum of 6.0 in each component",
+        "TOEFL": "87 overall, with a minimum of 21 in each component",
+        "Others": "Grade C in GCSE/IGCSE/O level English Language (as a first or second language)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 355590
+      },
+      "course_content": {
+        "core": "Year 1  Prehistory to the Present\nArtefacts and Materials\nArchaeological Theory\nIntroduction to Archaeological Science \nField Archaeology Prehistory to the Present Artefacts and Materials Archaeological Theory Introduction to Archaeological Science Field Archaeology  Year 2 Themes in Prehistory\nThemes in Historical Archaeology Themes in Prehistory Themes in Historical Archaeology Dissertation Communicating Archaeology\nResearching Archaeology\nDesigning Research Communicating Archaeology Researching Archaeology Designing Research Year 3 Dissertation Dissertation and Assessed Lecture Recent titles have included: Autism and Upper Palaeolithic Art\nGrave goods in the European Mesolithic and Neolithic\nThe Material Culture of Viking Food\nThe Archaeology of a Civil War Battlefield Autism and Upper Palaeolithic Art Grave goods in the European Mesolithic and Neolithic The Material Culture of Viking Food The Archaeology of a Civil War Battlefield",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "AAB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "4A 1B in 5 subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.25
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.25 (Diploma in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Archaeology and Heritage",
+      "field_of_study": "Social Sciences",
+      "location": "York, Heslington",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "AAB.",
+        "UEC": "4A 1B in 5 subjects.",
+        "Diploma": "Minimum CGPA 3.25 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5, with a minimum of 6.0 in each component",
+        "TOEFL": "87 overall, with a minimum of 21 in each component",
+        "Others": "Grade C in GCSE/IGCSE/O level English Language (as a first or second language)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 355590
+      },
+      "course_content": {
+        "core": "Year 1  Prehistory to the Present\nArtefacts and Materials\nArchaeological Theory\nIntroduction to Archaeological Science \nField Archaeology Prehistory to the Present Artefacts and Materials Archaeological Theory Introduction to Archaeological Science Field Archaeology  Year 2 Themes in Prehistory\nThemes in Historical Archaeology Themes in Prehistory Themes in Historical Archaeology Dissertation Communicating Archaeology\nResearching Archaeology\nDesigning Research Communicating Archaeology Researching Archaeology Designing Research Year 3 Dissertation Dissertation and Assessed Lecture Recent titles have included: Autism and Upper Palaeolithic Art\nGrave goods in the European Mesolithic and Neolithic\nThe Material Culture of Viking Food\nThe Archaeology of a Civil War Battlefield Autism and Upper Palaeolithic Art Grave goods in the European Mesolithic and Neolithic The Material Culture of Viking Food The Archaeology of a Civil War Battlefield",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "AAB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "4A 1B in 5 subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.25
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.25 (Diploma in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Criminology",
+      "field_of_study": "Social Sciences",
+      "location": "York, Heslington",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "AAB.",
+        "UEC": "Grade 4A 1B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 3.25 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5, with a minimum of 6.0 in each component",
+        "TOEFL": "87 overall, with a minimum of 21 in each component",
+        "Others": "Grade C in GCSE/IGCSE/O level English Language (as a first or second language)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 355590
+      },
+      "course_content": {
+        "core": "Year 1 Introducing Social Policy \nIntroducing Criminal Justice \nIntroduction to Sociological Theory \nSociology of Crime and Deviance Introducing Social Policy Introducing Criminal Justice Introduction to Sociological Theory Sociology of Crime and Deviance Year 2 Crime, Culture and Social Change\nContemporary Issues in Criminal Justice\nCrime and the Life Course\nCrime, Harm and Globalisation\nDoing Research Crime, Culture and Social Change Contemporary Issues in Criminal Justice Crime and the Life Course Crime, Harm and Globalisation Doing Research Year 3 Dissertation\nInfluencers and Ideas in Criminology Dissertation Influencers and Ideas in Criminology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "AAB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "4A"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade 4A 1B in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.25
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.25 (Diploma in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Curating and Art History",
+      "field_of_study": "Social Sciences",
+      "location": "York, Heslington",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "AAB.",
+        "UEC": "Grade 4A 1B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 3.25 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5, with a minimum of 6.0 in each component",
+        "TOEFL": "87 overall, with a minimum of 21 in each component",
+        "Others": "Grade C in GCSE/IGCSE/O level English Language (as a first or second language)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 355590
+      },
+      "course_content": {
+        "core": "Year 1 Approaches to Curatorial Practice\nObjects in Focus (Curating)\nThe Art of Describing \nThe Materials of Art and Architecture \nTheory for Art Historians Approaches to Curatorial Practice Objects in Focus (Curating) The Art of Describing The Materials of Art and Architecture Theory for Art Historians Year 2 Curatorial Internship\nGroup Exhibition Project Curatorial Internship Group Exhibition Project Year 3 Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "AAB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade 4A 1B in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.25
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.25 (Diploma in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Curating and Art History (with a year abroad)",
+      "field_of_study": "Social Sciences",
+      "location": "York, Heslington",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "AAB.",
+        "UEC": "Grade 4A 1B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 3.25 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5, with a minimum of 6.0 in each component",
+        "TOEFL": "87 overall, with a minimum of 21 in each component",
+        "Others": "Grade C in GCSE/IGCSE/O level English Language (as a first or second language)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 373370
+      },
+      "course_content": {
+        "core": "Year 1 Approaches to Curatorial Practice\nObjects in Focus (Curating)\nThe Art of Describing \nThe Materials of Art and Architecture \nTheory for Art Historians Approaches to Curatorial Practice Objects in Focus (Curating) The Art of Describing The Materials of Art and Architecture Theory for Art Historians Year 2 Curatorial Internship\nGroup Exhibition Project Curatorial Internship Group Exhibition Project Year 3 You'll live, study, and potentially work abroad, combining university study with an international vocational opportunity. The department has a number of partners in Europe and China, but you’ll also be able to make use of the university’s partners in the World University Network, and partners beyond the university as well. During the year, you'll study modules on offer at your host institution and you'll pay a reduced fee to York for that year of study. Your assessment will be via two modules, in which you'll write a 2000-word essay, in English, discussing your experience abroad, and assessed by the York department. Year 4 Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "AAB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "4A"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "1B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade 4A 1B in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.25
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.25 (Diploma in a related field)."
+          }
+        ]
+      }
+    }
+  ]
+}

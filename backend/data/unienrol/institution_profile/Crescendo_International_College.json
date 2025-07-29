@@ -4,6 +4,9 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Crescendo+International+College/Crescendo+Ulu+Tiram/Campus_and_Surroundings/01a_Crescendo_Ulu_Tiram_College_Building_Front.png"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Science (Hons) in Accounting & Finance (3+0), University of London, UK",
@@ -201,11 +204,12 @@
             "count": 4
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Business & Management (3+0), University of London, UK",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Crescendo, Ulu Tiram",
       "intakes": [
         "Apr",
@@ -386,11 +390,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor in Science (Hons) in Computer Science (3+0), University of London, UK",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Crescendo, Ulu Tiram",
       "intakes": [
         "Sep"
@@ -665,11 +670,12 @@
             "text": "MQA Accredited Foundation with CGPA of 2.5.  5 Credits in SPM (incl. B in Maths, C in one science subject + 3 other credits"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Laws (LLB) (Hons) (3+0), University of London, UK",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Crescendo, Ulu Tiram",
       "intakes": [
         "Apr",
@@ -743,11 +749,12 @@
             "text": "Please contact our counsellors for further details.  CLP Requirements apply :\nUK Law Degree - 5 credits in SPM/O-Level including English obtained in one examination\nAustralia/NZ Law Degree - 5 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Diploma in Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Crescendo, Ulu Tiram",
       "intakes": [
         "Jan",
@@ -848,7 +855,8 @@
             "text": "3B's (incl. Maths & a pass in English)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     }
   ]
 }

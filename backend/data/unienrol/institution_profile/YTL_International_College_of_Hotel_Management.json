@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/YTL+International+College+of+Hotel+Management/YTL+ICHM+KL/Campus_and_Surroundings/01b_YTL_ICHM_KL_YTL_ICHM_Building.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Diploma in Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "YTL International College, KL",
       "intakes": [
         "Apr",
@@ -80,11 +83,12 @@
             "text": "Pass with at least 3Bs."
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Event Management",
-      "field_of_study": "Event Management",
+      "field_of_study": "Hospitality and Services",
       "location": "YTL International College, KL",
       "intakes": [
         "Apr",
@@ -157,11 +161,12 @@
             "text": "Pass with at least 3Bs."
           }
         ]
-      }
+      },
+      "course": "Event Management"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "YTL International College, KL",
       "intakes": [
         "Apr",
@@ -222,11 +227,12 @@
             "text": "Pass with at least 3Bs."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Pastry & Bakery",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "YTL International College, KL",
       "intakes": [
         "Apr",
@@ -329,7 +335,8 @@
             "text": "3Bs in any subjects."
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     }
   ]
 }

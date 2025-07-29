@@ -1,0 +1,3882 @@
+{
+  "institution_name": "Universiti Tun Abdul Razak (UNIRAZAK)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 10171,
+  "malaysia_rank": 69,
+  "programs": [
+    {
+      "program_name": "Bachelor of Accounting (Honours) - CPA Australia",
+      "field_of_study": "Accounting",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "A pass with a minimum of Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "UEC": "A pass minimum of grade B in FIVE (5) subjects including a pass in Mathematics & English;.  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "Diploma": "A pass with a minimum CGPA of 2.00 from universities/colleges recognized by the Malaysian Government;.  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "STPM": "A pass with a minimum Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "Foundation": "A pass with a minimum CGPA of 2.00 from an institution recognized by the Malaysian Government;.  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "IB Diploma": "A pass with minimum score of 30 points;.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 3000,
+        "tuition_fee": 68900
+      },
+      "course_content": {
+        "core": "School Core Courses Corporate Social Policy\nPrinciples of Management\nBusiness Mathematics\nBusiness Statistics\nPrinciples of Finance\nPrinciples of Marketing\nFinancial Management\nBusiness Law\nStrategic Management\nPrinciples of Microeconomics\nPrinciples of Macroeconomics\nOrganisational Behaviour\nPrinciples of Accounting Corporate Social Policy Principles of Management Business Mathematics Business Statistics Principles of Finance Principles of Marketing Financial Management Business Law Strategic Management Principles of Microeconomics Principles of Macroeconomics Organisational Behaviour Principles of Accounting  Program Core Courses Accounting Information Systems\nPublic Sector Accounting\nForensic Accounting and Fraud Examination\nEthics and Governance\nFinancial Reporting\nStrategic Management Accounting\nGlobal Strategy and Leadership\nAccounting Theory and Practice\nCompany Law\nManagement Accounting 1\nManagement Accounting 2\nAudit 1\nAudit 2\nTaxation 1\nTaxation 2\nSales Tax and Service Tax\nFinancial Accounting and Reporting 1\nFinancial Accounting and Reporting 2\nFinancial Accounting and Reporting 3\nFinancial Accounting and Reporting 4 Accounting Information Systems Public Sector Accounting Forensic Accounting and Fraud Examination Ethics and Governance Financial Reporting Strategic Management Accounting Global Strategy and Leadership Accounting Theory and Practice Company Law Management Accounting 1 Management Accounting 2 Audit 1 Audit 2 Taxation 1 Taxation 2 Sales Tax and Service Tax Financial Accounting and Reporting 1 Financial Accounting and Reporting 2 Financial Accounting and Reporting 3 Financial Accounting and Reporting 4  Internship Professional Practice Internship for Accounting Internship for Accounting",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum of Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass minimum of grade B in FIVE (5) subjects including a pass in Mathematics & English;.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum CGPA of 2.00 from universities/colleges recognized by the Malaysian Government;.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum CGPA of 2.00 from an institution recognized by the Malaysian Government;.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "A pass with minimum score of 30 points;.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Accounting (Honours) - ODL",
+      "field_of_study": "Accounting",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "A pass with at least credit any 3 subjects or any equivalent qualification..",
+        "O-Level": "A pass with minimum of Grade C in 3 subjects..",
+        "UEC": "A pass with minimum grade B in three (3) subjects..",
+        "STPM": "A pass in STPM with a minimum of Grade C (GP 2.00) in any subjects or any equivalent qualification."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 36650
+      },
+      "course_content": {
+        "core": "School Core Courses Corporate Social Policy\nPrinciples of Management\nBusiness Mathematics\nBusiness Statistics\nPrinciples of Finance\nPrinciples of Marketing\nPrinciples of Microeconomics\nPrinciples of Macroeconomics\nOrganisational Behaviour Corporate Social Policy Principles of Management Business Mathematics Business Statistics Principles of Finance Principles of Marketing Principles of Microeconomics Principles of Macroeconomics Organisational Behaviour  Program Core Courses Accounting Information Systems\nBusiness and Technology\nPublic Sector Accounting\nForensic Accounting and Fraud Examination\nAccounting Theory and Practice\nBusiness Law\nCompany Law\nManagement Accounting 1\nManagement Accounting 2\nAudit 1\nAudit 2\nTaxation 1\nTaxation 2\nSales Tax and Service Tax\nPrinciples of Accounting\nFinancial Accounting and Reporting 1\nFinancial Accounting and Reporting 2\nFinancial Accounting and Reporting 3\nFinancial Accounting and Reporting 4\nFinancial Management\nStrategic Management Accounting Information Systems Business and Technology Public Sector Accounting Forensic Accounting and Fraud Examination Accounting Theory and Practice Business Law Company Law Management Accounting 1 Management Accounting 2 Audit 1 Audit 2 Taxation 1 Taxation 2 Sales Tax and Service Tax Principles of Accounting Financial Accounting and Reporting 1 Financial Accounting and Reporting 2 Financial Accounting and Reporting 3 Financial Accounting and Reporting 4 Financial Management Strategic Management  Internship Professional Practice Internship for Accounting Internship for Accounting",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "A pass with at least credit any 3 subjects or any equivalent qualification.."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "A pass with minimum of Grade C in 3 subjects.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "A pass with minimum grade B in three (3) subjects.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "A pass in STPM with a minimum of Grade C (GP 2.00) in any subjects or any equivalent qualification."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Accounting (Honours)",
+      "field_of_study": "Accounting",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level",
+        "UEC": "Grade B in FIVE (5) subjects and pass in Mathematics and English.",
+        "Diploma": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government.",
+        "STPM": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level\nNote: The requirement for a PASS in Mathematics and English at the SPM level can be excluded if the candidate obtained a credit or higher grade at STPM.",
+        "IB Diploma": "Minimum score of 30 points."
+      },
+      "english_requirements": {
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "University Courses Public Speaking 1 Public Speaking 2 Entrepreneurship and Innovation Program Core Courses Accounting Information Systems Business and Technology Public Sector Accounting Forensic Accounting and Fraud Examination Accounting Theory and Practice Business Law Company Law Management Accounting 1 Management Accounting 2 Audit 1 Audit 2 Taxation 1 Taxation 2 Sales Tax and Service Tax Principles of Accounting Financial Accounting and Reporting 1 Financial Accounting and Reporting 2 Financial Accounting and Reporting 3 Financial Accounting and Reporting 4 Financial Management Strategic Management Internship Professional Practice Internship for Accounting School Core Courses Corporate Social Policy Principles of Management Business Mathematics Business Statistics Principles of Finance Principles of Marketing Principles of Microeconomics Principles of Macroeconomics Organisational Behaviour",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in FIVE (5) subjects and pass in Mathematics and English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level\nNote: The requirement for a PASS in Mathematics and English at the SPM level can be excluded if the candidate obtained a credit or higher grade at STPM."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 30
+          },
+          {
+            "type": "raw",
+            "text": "Minimum score of 30 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Taxation (Honours)",
+      "field_of_study": "Accounting",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level",
+        "UEC": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level",
+        "Diploma": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government.",
+        "STPM": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level\nNote: The requirement for a PASS in Mathematics and English at the SPM level can be excluded if the candidate obtained a credit or higher grade at STPM.",
+        "IB Diploma": "Minimum score of 30 points."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "University Courses Public Speaking 1 Public Speaking 2 Volunteerism and Service Learning Entrepreneurship and Innovation Program Core Courses Revenue Law Sales and Service Tax Tax Audit and Tax Investigation in Malaysia Taxation 1 Taxation 2 Tax Planning Taxation for Specialised Industries Cost and Management Accounting Company Law Financial Accounting and Reporting 1 Financial Accounting and Reporting 2 Financial Accounting and Reporting 3 International and Double Taxation School Core Courses Corporate Social Policy Principles of Management Business Mathematics Business Statistics Principles of Finance Principles of Marketing Financial Management Business Law Strategic Management Principles of Microeconomics Principles of Macroeconomics Organizational Behaviour Principle of Accounting Internship Professional Practice Internship for Taxation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level\nNote: The requirement for a PASS in Mathematics and English at the SPM level can be excluded if the candidate obtained a credit or higher grade at STPM."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum score of 30 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Administration (Islamic Banking & Finance) (Honours)",
+      "field_of_study": "Banking and Finance",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level",
+        "UEC": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level",
+        "Diploma": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government.",
+        "STPM": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level",
+        "IB Diploma": "Minimum score of 30 points."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 45150
+      },
+      "course_content": {
+        "core": "University Courses Professional Communication Skills Academic English Volunteerism and Service Learning Entrepreneurship and Innovation Program Core Courses Public Speaking 1 Public Speaking 2 Volunteerism and Service Learning Entrepreneurship and Innovation Corporate Social Policy Principles of Management Principles of Finance Principles of Marketing Principles of Microeconomics Principles of Macroeconomics Organizational Behaviour Principles of Accounting Management Information Systems Financial Management Business Mathematics Project Management Human Resource Management Business Law Strategic Management Business Statistics Specialization International Business Usul Fiqh Islamic Financial Markets and Institutions Shariah, Ethics and Governance Islamic Banking Operation Credit Operation Risk Management in Islamic Banking Islamic Bank Management Islamic Trade Finance Islamic Capital Markets International Islamic Banking and Offshore Practices Wealth Planning Management Internship / Professional Practice Internship for Islamic Banking and Finance",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum score of 30 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Administration (Honours) - ODL",
+      "field_of_study": "Business Administration",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "A pass with a minimum of Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "UEC": "A pass minimum of grade B in FIVE (5) subjects including a pass in Mathematics & English;.  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "Diploma": "A pass with a minimum CGPA of 2.00 from universities/colleges recognized by the Malaysian Government;.  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "STPM": "A pass with a minimum Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "Foundation": "A pass with a minimum CGPA of 2.00 from an institution recognized by the Malaysian Government;.  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "IB Diploma": "A pass with minimum score of 30 points;.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 36650
+      },
+      "course_content": {
+        "core": "Core Courses Public Speaking 1\nPublic Speaking 2\nVolunteerism and Service Learning\nEntrepreneurship and Innovation\nCorporate Social Policy\nPrinciples of Management\nPrinciples of Finance\nPrinciples of Marketing\nPrinciples of Microeconomics\nPrinciples of Macroeconomics\nOrganizational Behaviour\nPrinciples of Accounting\nManagement Information Systems\nFinancial Management\nBusiness Mathematics\nProject Management\nHuman Resource Management\nBusiness Law\nStrategic Management\nBusiness Statistics Public Speaking 1 Public Speaking 2 Volunteerism and Service Learning Entrepreneurship and Innovation Corporate Social Policy Principles of Management Principles of Finance Principles of Marketing Principles of Microeconomics Principles of Macroeconomics Organizational Behaviour Principles of Accounting Management Information Systems Financial Management Business Mathematics Project Management Human Resource Management Business Law Strategic Management Business Statistics Specialization International Business\nCost and Management Accounting\nProblem Solving & Decision Making\nProduction and Operations Management\nFinancial Accounting\nMarketing Management\nCross Cultural Management\nSocial Entrepreneurship\nRetailing Management\nStrategic Entrepreneurship International Business Cost and Management Accounting Problem Solving & Decision Making Production and Operations Management Financial Accounting Marketing Management Cross Cultural Management Social Entrepreneurship Retailing Management Strategic Entrepreneurship Internship / Professional Practice Internship for Business Administration",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum of Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass minimum of grade B in FIVE (5) subjects including a pass in Mathematics & English;.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum CGPA of 2.00 from universities/colleges recognized by the Malaysian Government;.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum CGPA of 2.00 from an institution recognized by the Malaysian Government;.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "A pass with minimum score of 30 points;.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Administration (Honours)",
+      "field_of_study": "Business Administration",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level",
+        "UEC": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level",
+        "Diploma": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government.",
+        "STPM": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level",
+        "IB Diploma": "Minimum score of 30 points."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 41650
+      },
+      "course_content": {
+        "core": "University Courses Professional Communication Skills Academic English Volunteerism and Service Learning Entrepreneurship and Innovation Program Core Courses Public Speaking 1 Public Speaking 2 Volunteerism and Service Learning Entrepreneurship and Innovation Corporate Social Policy Principles of Management Principles of Finance Principles of Marketing Principles of Microeconomics Principles of Macroeconomics Organizational Behaviour Principles of Accounting Management Information Systems Financial Management Business Mathematics Project Management Human Resource Management Business Law Strategic Management Business Statistics Specialization International Business Cost and Management Accounting Problem Solving & Decision Making Production and Operations Management Financial Accounting Marketing Management Cross Cultural Management Social Entrepreneurship Retailing Management Strategic Entrepreneurship Internship Professional Practice Internship for Business Administration",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum score of 30 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business (Honours) in Business Analytics and Digital Marketing",
+      "field_of_study": "Business and Management",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "In Computer Science or Software Engineering or Information Technology or Information Systems or equivalent with a minimum CGPA of 2.5 and a credit in Mathematics at SPM level or its equivalent or Any other Diploma in Science and technology or business studies with a minimum CGPA of 2.5 may be admitted.  A credit in Mathematics at SPM level or its equivalent\nCandidate with a credit in computing related subject at SPM or STPM level or its equivalent may be given preferential consideration.",
+        "STPM": "A pass in STPM with a minimum Grade C (GP 2.0) in any 2 subjects.  A credit in Mathematics at SPM level or its equivalent\nCandidate with a credit in computing related subject at SPM or STPM level or its equivalent may be given preferential consideration.",
+        "Foundation": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a credit in Mathematics at SPM level or its equivalent..  A credit in Mathematics at SPM level or its equivalent\nCandidate with a credit in computing related subject at SPM or STPM level or its equivalent may be given preferential consideration."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 41650
+      },
+      "course_content": {
+        "core": "Core Courses Public Speaking 1\nPublic Speaking 2\nEntrepreneurship and Innovation\nPrinciples of Management\nPrinciples of Finance\nPrinciples of Marketing\nPrinciples of Microeconomics\nPrinciples of Macroeconomics\nOrganizational Behaviour\nPrinciples of Accounting\nBusiness Statistics\nStrategic Management\nHuman Resource Management\nBusiness Law Public Speaking 1 Public Speaking 2 Entrepreneurship and Innovation Principles of Management Principles of Finance Principles of Marketing Principles of Microeconomics Principles of Macroeconomics Organizational Behaviour Principles of Accounting Business Statistics Strategic Management Human Resource Management Business Law  Major 1 - Business Analytics Data Mining\nBusiness Modelling\nBusiness Analytics\nBusiness Intelligence\nData Visualization\nProgramming for Analytics\nPredictive Analytics\nBig Data Analytics\nAdvanced Production and Operations Management\nManagement Information Systems\nApprenticeship 1 / Case Study 1 / Business Plan 1 Data Mining Business Modelling Business Analytics Business Intelligence Data Visualization Programming for Analytics Predictive Analytics Big Data Analytics Advanced Production and Operations Management Management Information Systems Apprenticeship 1 / Case Study 1 / Business Plan 1 Business Plan 1  Major 2 - Digital Marketing Cost and Management Accounting\nMarketing Management\nProject Management\nE-Commerce: Micro-Multinationals\nSocial Media Content Marketing\nPay Per Click Advertising\nApplied Digital Marketing Strategies\nDigital Analytics for Marketing Professionals\nDigital Marketing Channels\nDigital Techniques\nApprenticeship 2 / Case Study 2 / Business Plan 2 Cost and Management Accounting Marketing Management Project Management E-Commerce: Micro-Multinationals Social Media Content Marketing Pay Per Click Advertising Applied Digital Marketing Strategies Digital Analytics for Marketing Professionals Digital Marketing Channels Digital Techniques Apprenticeship 2 / Case Study 2 / Business Plan 2 Business Plan 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "In Computer Science or Software Engineering or Information Technology or Information Systems or equivalent with a minimum CGPA of 2.5 and a credit in Mathematics at SPM level or its equivalent or Any other Diploma in Science and technology or business studies with a minimum CGPA of 2.5 may be admitted.  A credit in Mathematics at SPM level or its equivalent\nCandidate with a credit in computing related subject at SPM or STPM level or its equivalent may be given preferential consideration."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in STPM with a minimum Grade C (GP 2.0) in any 2 subjects.  A credit in Mathematics at SPM level or its equivalent\nCandidate with a credit in computing related subject at SPM or STPM level or its equivalent may be given preferential consideration."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a credit in Mathematics at SPM level or its equivalent..  A credit in Mathematics at SPM level or its equivalent\nCandidate with a credit in computing related subject at SPM or STPM level or its equivalent may be given preferential consideration."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Education (Early Childhood Education) (Honours) - ODL",
+      "field_of_study": "Early Childhood Education",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "A Diploma in ECE or its equivalent; OR A Diploma in any field or its equivalent..",
+        "STPM": "A pass in STPM with a minimum of Grade C (GP 2.0) in any two subjects or its equivalent..",
+        "Foundation": "A pass in Matriculation/Foundation or its equivalent.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 36650
+      },
+      "course_content": {
+        "core": "School Core Courses Philosophy, History and Policy of Education\nResearch Methodology\nInterpersonal and Communication Skills\nSociology in Education\nTechnology in Education\nManagement and Leadership in Education\nLearner and Learning\nPedagogy in Education Philosophy, History and Policy of Education Research Methodology Interpersonal and Communication Skills Sociology in Education Technology in Education Management and Leadership in Education Learner and Learning Pedagogy in Education  Program Core Courses Programme Development in Early Childhood Education\nApproaches in Early Childhood Education\nGrowth and Development for Early Childhood\nArts and Creativity Activities in Early Childhood Education\nManaging Child Behaviour\nLanguage and Literacy in Early Childhood Education\nChildren's Space Design\nHealth, Safety and Nutrition Management in Early Childhood Education\nLearning Environment for Young Children\nMusic for Young Children\nChildren's Toy and Play\nIntervention and Empowering Children with Special Needs\nFamily and Community Involvement in Early Childhood Education\nTeaching Values, Manners and Good Practices in Early Childhood\nManagement and Entrepreneurship in Early Childhood Education\nAssessment and Observation in Early Childhood Education\nMathematics and Numeracy in Early Childhood Education\nScience and Technology In Early Childhood Education\nEducator in Early Childhood Education\nProject paper in Early Childhood Education Programme Development in Early Childhood Education Approaches in Early Childhood Education Growth and Development for Early Childhood Arts and Creativity Activities in Early Childhood Education Managing Child Behaviour Language and Literacy in Early Childhood Education Children's Space Design Health, Safety and Nutrition Management in Early Childhood Education Learning Environment for Young Children Music for Young Children Children's Toy and Play Intervention and Empowering Children with Special Needs Family and Community Involvement in Early Childhood Education Teaching Values, Manners and Good Practices in Early Childhood Management and Entrepreneurship in Early Childhood Education Assessment and Observation in Early Childhood Education Mathematics and Numeracy in Early Childhood Education Science and Technology In Early Childhood Education Educator in Early Childhood Education Project paper in Early Childhood Education  Professional Practice Teaching Practicum TADIKA\nTeaching Practicum TASKA Teaching Practicum TADIKA Teaching Practicum TASKA",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "A Diploma in ECE or its equivalent; OR A Diploma in any field or its equivalent.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "A pass in STPM with a minimum of Grade C (GP 2.0) in any two subjects or its equivalent.."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "A pass in Matriculation/Foundation or its equivalent.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Education (Early Childhood Education) (Honours)",
+      "field_of_study": "Early Childhood Education",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "A Diploma in ECE or its equivalent; OR A Diploma in any field or its equivalent..",
+        "STPM": "Grade C (GP 2.0) in any two subjects or its equivalent."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "University Courses Volunteerism and Service Learning School Core Courses Philosophy, History and Policy of Education Research Methodology Interpersonal and Communication Skills Sociology in Education Technology in Education Management and Leadership in Education Learner and Learning Pedagogy in Education Program Core Courses Programme Development in Early Childhood Education Approaches in Early Childhood Education Growth and Development for Early Childhood Arts and Creativity Activities in Early Childhood Education Managing Child Behaviour Language and Literacy in Early Childhood Education Children's Space Design Health, Safety and Nutrition Management in Early Childhood Education Learning Environment for Young Children Music for Young Children Children's Toy and Play Intervention and Empowering Children with Special Needs Family and Community Involvement in Early Childhood Education Teaching Values, Manners and Good Practices in Early Childhood Management and Entrepreneurship in Early Childhood Education Assessment and Observation in Early Childhood Education Mathematics and Numeracy in Early Childhood Education Science and Technology In Early Childhood Education Educator in Early Childhood Education Project paper in Early Childhood Education Professional Practice Teaching Practicum TADIKA Teaching Practicum TASKA",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "A Diploma in ECE or its equivalent; OR A Diploma in any field or its equivalent.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Economics (Honours)",
+      "field_of_study": "Economics",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level",
+        "UEC": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level",
+        "Diploma": "CGPA of 2.00.",
+        "STPM": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level",
+        "IB Diploma": "Score of 30 points."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "University Courses Public Speaking 1 Public Speaking 2 Volunteerism and Service Learning Entrepreneurship and Innovation School Core Courses Introduction to Public Administration and Services Introduction to Political Science Introduction to Sociology Introduction to Demography Principles of Management Principles of Microeconomics Principles of Macroeconomics Malaysian Economy and Policy Research Methodology Statistics for Social Science Core Courses Principles of Finance Intermediate Microeconomics Intermediate Macroeconomics Introduction to Econometrics Econometrics Mathematics for Social Sciences International Economics Intergovernmental Financial Institutions International Finance and Policy Financial Modelling Blockchain and Digital Cryptocurrency Fintech and Crowdfunding Understanding Governance Governance of Global Financial Markets Risk Management for Financial Institutions Financial Instruments and Markets Internship Professional Practice Internship for Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA of 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "raw",
+            "text": "Score of 30 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Education (Honours) - ODL",
+      "field_of_study": "Education",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "A pass in A-Level with a minimum of Grade D in TWO (2) subjects.  Credit in English at SPM level or any equivalent qualification.",
+        "UEC": "A pass in UEC with minimum of B grade in FIVE (5) subjects.  Credit in English at SPM level or any equivalent qualification.",
+        "Diploma": "Any qualification equivalent to Diploma or Advanced Diploma (Level 4 or 5, MQF)..  Credit in English at SPM level or any equivalent qualification.",
+        "STPM": "A pass in STPM with a minimum grade of C (Grade Point of 2.00) in any TWO (2) subjects.  Credit in English at SPM level or any equivalent qualification.",
+        "Foundation": "A Matriculation/Foundation qualification with a minimum CGPA of 2.00 out 4.00 or any equivalent qualification..  Credit in English at SPM level or any equivalent qualification.",
+        "IB Diploma": "A pass in International Baccalaureate (IB) Diploma with minimum score of 30 points..  Credit in English at SPM level or any equivalent qualification."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 36650
+      },
+      "course_content": {
+        "core": "Education Foundation Courses Interpersonal and Communication Skills\nPhilosophy, History & Policy of Education\nSociology in Education\nPedagogy in Education\nResearch Methodology in Education\nTechnology in Education\nManagement & Leadership in Education\nLearner and Learning Interpersonal and Communication Skills Philosophy, History & Policy of Education Sociology in Education Pedagogy in Education Research Methodology in Education Technology in Education Management & Leadership in Education Learner and Learning  Discipline Core Courses Spirituality in Education\nTesting & Evaluation in Education\nCurriculum and Approaches to Instruction\nCognitive Psychology & Other Related Sciences in Education\nProject Paper in Education\nMajoring Subject 1\nMajoring Subject 2\nMajoring Subject 3\nMajoring Subject 4\nMajoring Subject 5\nMajoring Subject 6\nMajoring Subject 7\nMajoring Subject 8\nMicro Teaching Spirituality in Education Testing & Evaluation in Education Curriculum and Approaches to Instruction Cognitive Psychology & Other Related Sciences in Education Project Paper in Education Majoring Subject 1 Majoring Subject 2 Majoring Subject 3 Majoring Subject 4 Majoring Subject 5 Majoring Subject 6 Majoring Subject 7 Majoring Subject 8 Micro Teaching  Internship Professional Practice Professional Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in A-Level with a minimum of Grade D in TWO (2) subjects.  Credit in English at SPM level or any equivalent qualification."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in UEC with minimum of B grade in FIVE (5) subjects.  Credit in English at SPM level or any equivalent qualification."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Any qualification equivalent to Diploma or Advanced Diploma (Level 4 or 5, MQF)..  Credit in English at SPM level or any equivalent qualification."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in STPM with a minimum grade of C (Grade Point of 2.00) in any TWO (2) subjects.  Credit in English at SPM level or any equivalent qualification."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A Matriculation/Foundation qualification with a minimum CGPA of 2.00 out 4.00 or any equivalent qualification..  Credit in English at SPM level or any equivalent qualification."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in International Baccalaureate (IB) Diploma with minimum score of 30 points..  Credit in English at SPM level or any equivalent qualification."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Education (Honours)",
+      "field_of_study": "Education",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Grade D in any 2 subjects.  Credit in English at SPM level",
+        "UEC": "B grade in FIVE (5) subjects and.  Credit in English at SPM level",
+        "Diploma": "Any qualification equivalent to Diploma or Advanced Diploma (Level 4 or 5, MQF).",
+        "STPM": "Grade of C (Grade Point of 2.00) in any TWO (2) subjects.  Credit in English at SPM level",
+        "IB Diploma": "Score of 30 points."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "Education Foundation Courses Interpersonal and Communication Skills Philosophy, History & Policy of Education Sociology in Education Pedagogy in Education Research Methodology in Education Technology in Education Management & Leadership in Education Learner and Learning Discipline Core Courses Spirituality in Education Testing & Evaluation in Education Curriculum and Approaches to Instruction Cognitive Psychology & Other Related Sciences in Education Project Paper in Education Majoring Subject 1 Majoring Subject 2 Majoring Subject 3 Majoring Subject 4 Majoring Subject 5 Majoring Subject 6 Majoring Subject 7 Majoring Subject 8 Micro Teaching Internship Professional Practice Professional Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade D in any 2 subjects.  Credit in English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "B grade in FIVE (5) subjects and.  Credit in English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Any qualification equivalent to Diploma or Advanced Diploma (Level 4 or 5, MQF)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade of C (Grade Point of 2.00) in any TWO (2) subjects.  Credit in English at SPM level"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "raw",
+            "text": "Score of 30 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Management (Entrepreneurship) (Honours)",
+      "field_of_study": "Entrepreneurship",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level",
+        "UEC": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level",
+        "Diploma": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government.",
+        "STPM": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level",
+        "IB Diploma": "Minimum score of 30 points."
+      },
+      "english_requirements": {
+        "": ""
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "Program Core Courses Public Speaking 1 Public Speaking 2 Volunteerism and Service Learning Entrepreneurship and Innovation Corporate Social Policy Principles of Management Principles of Finance Principles of Marketing Principles of Microeconomics Principles of Macroeconomics Organizational Behaviour Principles of Accounting Management Information Systems Financial Management Business Mathematics Project Management Human Resource Management Business Law Strategic Management Business Statistics Specialisation Courses International Business Cost and Management Accounting Production and Operations Management Financial Accounting Strategic Entrepreneurship Social Entrepreneurship Marketing Management Consumer Behaviour Entrepreneurial Culture and Behaviour Marketing Research Business Idea Generation Business Plan Business Model Validation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum score of 30 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Honours) Majoring : Computer Forensic - ODL",
+      "field_of_study": "Information Technology (IT)",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "In Computer Science or Software Engineering or Information Technology or Information Systems or equivalent with a minimum CGPA of 2.5.  Credit in Mathematics at SPM level or its equivalent;",
+        "STPM": "A pass in STPM with a minimum Grade C (GP 2.0) in any 2 subjects.  Credit in Mathematics at SPM level or its equivalent;",
+        "Foundation": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a credit in Mathematics at SPM level or its equivalent..  Credit in Mathematics at SPM level or its equivalent;"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 41650
+      },
+      "course_content": {
+        "core": "Core Courses Information Technology Fundamentals\nHuman-Computer Interaction\nInformation Security\nSystem Administration and Maintenance\nComputer Organization and Architecture\nSocial and Professional Issues\nWeb Systems and Technologies\nDatabases\nMathematics for Information Technology\nStatistics for Information Technology\nFundamentals of Programming\nNetworking Fundamentals\nProgramming Principles and Techniques\nObject-Oriented Programming\nPlatform Technologies Information Technology Fundamentals Human-Computer Interaction Information Security System Administration and Maintenance Computer Organization and Architecture Social and Professional Issues Web Systems and Technologies Databases Mathematics for Information Technology Statistics for Information Technology Fundamentals of Programming Networking Fundamentals Programming Principles and Techniques Object-Oriented Programming Platform Technologies  Specialization - Computer Forensic Web Segmentation and Analytics\nOperating Systems\nSoftware Project Management\nComputer Forensics, Crime & Justice\nPrinciples of Computer Forensics\nEthical Hacking\nComputer Forensics Implementation\nAdvanced Issues in Computer Forensics\nLegal Aspects of Computer Forensics\nCyber Attacks\nDigital Forensics\nDigital Investigation Web Segmentation and Analytics Operating Systems Software Project Management Computer Forensics, Crime & Justice Principles of Computer Forensics Ethical Hacking Computer Forensics Implementation Advanced Issues in Computer Forensics Legal Aspects of Computer Forensics Cyber Attacks Digital Forensics Digital Investigation  Final Year Project Paper Minor Project\nMajor Project Minor Project Major Project  Internship / Professional Practice Internship for Information Technology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "In Computer Science or Software Engineering or Information Technology or Information Systems or equivalent with a minimum CGPA of 2.5.  Credit in Mathematics at SPM level or its equivalent;"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in STPM with a minimum Grade C (GP 2.0) in any 2 subjects.  Credit in Mathematics at SPM level or its equivalent;"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a credit in Mathematics at SPM level or its equivalent..  Credit in Mathematics at SPM level or its equivalent;"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Honours) Majoring : Software Engineering, Information Science (Data Science) - ODL",
+      "field_of_study": "Information Technology (IT)",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "In Computer Science or Software Engineering or Information Technology or Information Systems or equivalent with a minimum CGPA of 2.5.  Credit in Mathematics at SPM level or its equivalent;",
+        "STPM": "A pass in STPM with a minimum Grade C (GP 2.0) in any 2 subjects.  Credit in Mathematics at SPM level or its equivalent;",
+        "Foundation": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a credit in Mathematics at SPM level or its equivalent..  Credit in Mathematics at SPM level or its equivalent;"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 41650
+      },
+      "course_content": {
+        "core": "Core Courses Information Technology Fundamentals\nHuman-Computer Interaction\nInformation Security\nSystem Administration and Maintenance\nComputer Organization and Architecture\nSocial and Professional Issues\nWeb Systems and Technologies\nDatabases\nMathematics for Information Technology\nStatistics for Information Technology\nFundamentals of Programming\nNetworking Fundamentals\nProgramming Principles and Techniques\nObject-Oriented Programming\nPlatform Technologies Information Technology Fundamentals Human-Computer Interaction Information Security System Administration and Maintenance Computer Organization and Architecture Social and Professional Issues Web Systems and Technologies Databases Mathematics for Information Technology Statistics for Information Technology Fundamentals of Programming Networking Fundamentals Programming Principles and Techniques Object-Oriented Programming Platform Technologies  Specialization - Software Engineering Web Segmentation and Analytics\nOperating Systems\nAlgorithm and Data Structures\nSoftware Project Management\nSystems Analysis & Design\nSoftware Quality and Metrics\nSoftware Architecture and Design\nSoftware Engineering\nSoftware Testing and Maintenance\nRequirements Engineering\nObject Oriented Software Engineering\nMobile Application Development Web Segmentation and Analytics Operating Systems Algorithm and Data Structures Software Project Management Systems Analysis & Design Software Quality and Metrics Software Architecture and Design Software Engineering Software Testing and Maintenance Requirements Engineering Object Oriented Software Engineering Mobile Application Development  Specialization - Data Science Web Segmentation and Analytics\nIntroduction to Information Science\nSystems Analysis & Design\nSoftware Project Management\nOperating System\nInformation Retrieval\nArtificial Intelligence and Intelligent Systems\nData Warehousing and Data Mining\nDatabase Administration and Management\nBig Data Analytics\nData Visualization\nData Science Web Segmentation and Analytics Introduction to Information Science Systems Analysis & Design Software Project Management Operating System Information Retrieval Artificial Intelligence and Intelligent Systems Data Warehousing and Data Mining Database Administration and Management Big Data Analytics Data Visualization Data Science  Final Year Project Paper Minor Project\nMajor Project Minor Project Major Project  Internship / Professional Practice Internship for Information Technology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "In Computer Science or Software Engineering or Information Technology or Information Systems or equivalent with a minimum CGPA of 2.5.  Credit in Mathematics at SPM level or its equivalent;"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in STPM with a minimum Grade C (GP 2.0) in any 2 subjects.  Credit in Mathematics at SPM level or its equivalent;"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a credit in Mathematics at SPM level or its equivalent..  Credit in Mathematics at SPM level or its equivalent;"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Honours) Majoring : Computer Forensic",
+      "field_of_study": "Information Technology (IT)",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "-A Diploma in Computer Science OR Software Engineering OR Information Technology OR Information Systems or equivalent with a minimum CGPA of 2.5 and a credit in Mathematics at SPM level or its equivalent; OR -Any other Diploma in Science and technology or business studies with a minimum CGPA of 2.5 may be admitted, subject to a rigorous internal assessment process and a credit in Mathematics at SPM level or its equivalent.-.",
+        "STPM": "Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics at SPM level",
+        "Foundation": "CGPA of 2.0 and a credit in Mathematics at SPM level."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 44650
+      },
+      "course_content": {
+        "core": "Core Courses Information Technology Fundamentals Human-Computer Interaction Information Security System Administration and Maintenance Computer Organization and Architecture Social and Professional Issues Web Systems and Technologies Databases Mathematics for Information Technology Statistics for Information Technology Fundamentals of Programming Networking Fundamentals Programming Principles and Techniques Object-Oriented Programming Platform Technologies Specialization - Computer Forensic Web Segmentation and Analytics Operating Systems Software Project Management Computer Forensics, Crime & Justice Principles of Computer Forensics Ethical Hacking Computer Forensics Implementation Advanced Issues in Computer Forensics Legal Aspects of Computer Forensics Cyber Attacks Digital Forensics Digital Investigation Final Year Project Paper Minor Project Major Project Internship / Professional Practice Internship for Information Technology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "-A Diploma in Computer Science OR Software Engineering OR Information Technology OR Information Systems or equivalent with a minimum CGPA of 2.5 and a credit in Mathematics at SPM level or its equivalent; OR -Any other Diploma in Science and technology or business studies with a minimum CGPA of 2.5 may be admitted, subject to a rigorous internal assessment process and a credit in Mathematics at SPM level or its equivalent.-."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics at SPM level"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "CGPA of 2.0 and a credit in Mathematics at SPM level."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Management (Honours) - ODL",
+      "field_of_study": "Management",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "Any qualifications equivalent to Diploma or Advanced Diploma (Level 4 or 5, MQF).  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "STPM": "A pass with a minimum Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics and English at SPM level, or any equivalent qualification.",
+        "Foundation": "A minimum CGPA of 2.00 out of 4.00, or any equivalent qualification..  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 36650
+      },
+      "course_content": {
+        "core": "Core Courses Public Speaking 1\nPublic Speaking 2\nVolunteerism and Service Learning\nEntrepreneurship and Innovation\nCorporate Social Policy\nPrinciples of Management\nPrinciples of Finance\nPrinciples of Marketing\nPrinciples of Microeconomics\nPrinciples of Macroeconomics\nOrganizational Behaviour\nPrinciples of Accounting\nManagement Information Systems\nFinancial Management\nBusiness Mathematics\nProject Management\nHuman Resource Management\nBusiness Law\nStrategic Management\nBusiness Statistics Public Speaking 1 Public Speaking 2 Volunteerism and Service Learning Entrepreneurship and Innovation Corporate Social Policy Principles of Management Principles of Finance Principles of Marketing Principles of Microeconomics Principles of Macroeconomics Organizational Behaviour Principles of Accounting Management Information Systems Financial Management Business Mathematics Project Management Human Resource Management Business Law Strategic Management Business Statistics  Specialisation Production and Operations Management\nProblem Solving & Decision Making\nCross Cultural Management\nNegotiations and Conflict Management\nService Operations Management\nLeadership, Innovation and Change\nGlobal Supply Chain Management\nTotal Quality Management\nInternational Business\nOrganizational Development Production and Operations Management Problem Solving & Decision Making Cross Cultural Management Negotiations and Conflict Management Service Operations Management Leadership, Innovation and Change Global Supply Chain Management Total Quality Management International Business Organizational Development  Internship / Professional Practice Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Any qualifications equivalent to Diploma or Advanced Diploma (Level 4 or 5, MQF).  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "A minimum CGPA of 2.00 out of 4.00, or any equivalent qualification..  Pass in Mathematics and English at SPM level, or any equivalent qualification."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts in Public Management (Honours) - ODL",
+      "field_of_study": "Management",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "A Diploma (Level 4, MQF) with at least CGPA of 2.00.",
+        "STPM": "A pass with at least Grade C (GP 2.0) in any TWO subjects*.",
+        "Foundation": "Matriculation / Foundation qualification with at least CGPA of 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 31150
+      },
+      "course_content": {
+        "core": "School Core Courses Introduction to Public Administration and Services\nIntroduction to Political Science\nIntroduction to Sociology\nIntroduction to Demography\nPrinciples of Management\nPrinciples of Microeconomics\nPrinciples of Macroeconomics\nMalaysian Economy and Policy\nResearch Methodology\nStatistics for Social Science Introduction to Public Administration and Services Introduction to Political Science Introduction to Sociology Introduction to Demography Principles of Management Principles of Microeconomics Principles of Macroeconomics Malaysian Economy and Policy Research Methodology Statistics for Social Science  Program Core Courses Human Resource Management\nOrganisational Behaviour\nMalaysian Political and Legal System\nProblem Solving & Decision Making\nCross Cultural Management\nProject Management\nNegotiations and Conflict Management\nSocial Entrepreneurship\nLeadership, Innovation and Change\nPrinciples of Accounting\nPublic Sector Management\nLeadership, Ethics & Governance\nBusiness and Government Relations\nLeadership Development Skills and Group Dynamics\nDigitizing Government\nPrinciples of Finance Human Resource Management Organisational Behaviour Malaysian Political and Legal System Problem Solving & Decision Making Cross Cultural Management Project Management Negotiations and Conflict Management Social Entrepreneurship Leadership, Innovation and Change Principles of Accounting Public Sector Management Leadership, Ethics & Governance Business and Government Relations Leadership Development Skills and Group Dynamics Digitizing Government Principles of Finance  Internship Professional Practice Internship for Public Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "A Diploma (Level 4, MQF) with at least CGPA of 2.00."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "A pass with at least Grade C (GP 2.0) in any TWO subjects*."
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "Matriculation / Foundation qualification with at least CGPA of 2.00."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Management (Honours)",
+      "field_of_study": "Management",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "Any qualifications equivalent to Diploma.",
+        "STPM": "Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics at SPM level",
+        "Foundation": "CGPA of 2.00 out of 4.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "Core Courses Public Speaking 1 Public Speaking 2 Volunteerism and Service Learning Entrepreneurship and Innovation Corporate Social Policy Principles of Management Principles of Finance Principles of Marketing Principles of Microeconomics Principles of Macroeconomics Organizational Behaviour Principles of Accounting Management Information Systems Financial Management Business Mathematics Project Management Human Resource Management Business Law Strategic Management Business Statistics Specialisation Production and Operations Management Problem Solving & Decision Making Cross Cultural Management Negotiations and Conflict Management Service Operations Management Leadership, Innovation and Change Global Supply Chain Management Total Quality Management International Business Organizational Development Internship / Professional Practice Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Any qualifications equivalent to Diploma."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (GP 2.0) in any 2 subjects.  Pass in Mathematics at SPM level"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA of 2.00 out of 4.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts in Governance & Public Policy (Honours)",
+      "field_of_study": "Policy Science",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level",
+        "UEC": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level",
+        "Diploma": "CGPA of 2.00.",
+        "STPM": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level",
+        "IB Diploma": "Score of 30 points."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "University Courses Academic English Professional Communication Skills Volunteerism and Service Learning Entrepreneurship and Innovation Program Core Courses Understanding Governance Introduction to Demography Malaysian Government and Administration Public Policy, Planning and Process Public Sector Management Malaysian Political and Legal Systems Business and Government Relations Non-Governmental Organisation and Management Environmental Issues and Policy Leadership, Ethics & Governance Political Economy for Development International Relations and Diplomacy Negotiation and Conflict Management Project Planning and Development Financial and Management Accounting in Public Sector Socioeconomic Policy School Core Courses Principles of Microeconomics Introduction to Psychology Introduction to Public Administration and Service Introduction to Political Science Introduction to Sociology Principles of Macroeconomics Malaysian Economy and Policy Issue in Globalization Development of Economics Research Methodology Internship Professional Practice Internship for Government and Public Policy",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in FIVE (5) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA of 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "raw",
+            "text": "Score of 30 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Accounting (Honours) Accredited by CPA Australia",
+      "field_of_study": "Professional Accounting",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level",
+        "UEC": "Grade B in FIVE (5) subjects and pass in Mathematics and English at SPM level.",
+        "Diploma": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government.",
+        "STPM": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level Note: The requirement for a PASS in Mathematics and English at the SPM level can be excluded if the candidate obtained a credit or higher grade at STPM.",
+        "IB Diploma": "Minimum score of 30 points."
+      },
+      "english_requirements": {
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 3900,
+        "tuition_fee": 94150
+      },
+      "course_content": {
+        "core": "University Courses Academic English Professional Communication Skills Volunteerism Entrepreneurship and Innovation Program Core Courses Accounting Information System Public Sector Accounting Forensic Accounting and Fraud Examination Ethics and Governance Financial Reporting Strategic Management Accounting Global Strategy and Leadership Accounting Theory and Practice Company Law Management Accounting 1 Management Accounting 2 Audit 1 Audit 2 Taxation 1 Taxation  2 Goods and Service Tax Financial Accounting and Reporting 1 Financial Accounting and Reporting 2 Financial Accounting and Reporting 3 Financial Accounting and Reporting 4 School Core Courses Corporate Social Policy Principles of Management Business Mathematics Business Statistics Principles of Finance Principles of Marketing Financial Management Business Law Strategic Management Principles of Microeconomics Principles of Macroeconomics Organizational Behaviour Principle of Accounting Internship Professional Practice Internship for Accounting",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade D in any 2 subjects.  Pass in Mathematics and English at SPM level"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in FIVE (5) subjects and pass in Mathematics and English at SPM level."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA of 2.00 from universities/colleges recognized by the Malaysian Government."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade Point of 2.00 in any TWO (2) subjects.  Pass in Mathematics and English at SPM level Note: The requirement for a PASS in Mathematics and English at the SPM level can be excluded if the candidate obtained a credit or higher grade at STPM."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum score of 30 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Psychology (Honours) - ODL",
+      "field_of_study": "Psychology",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "A Pass with at least credit in three (3) subjects or A Pass in 0-Level with at least Grade C in 3 subjects..",
+        "STPM": "A Pass with at least Grade C (NGMP of 2.00) in one (1) subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 36650
+      },
+      "course_content": {
+        "core": "Common Core Courses Introduction to Social Science\nResearch Method in Psychology\nInterpersonal and Communication Skills\nReflective Practice for Helping Profession\nCreative Problem Solving and Decision Making\nPositive Psychology\nPublic Speaking 1\nPublic Speaking 2\nEntrepreneurship and Innovation Introduction to Social Science Research Method in Psychology Interpersonal and Communication Skills Reflective Practice for Helping Profession Creative Problem Solving and Decision Making Positive Psychology Public Speaking 1 Public Speaking 2 Entrepreneurship and Innovation  Discipline Core Courses Introduction to Psychology\nHistory and System in Psychology\nStatistics for Social Sciences\nPsychological Testing\nBiological Psychology\nBehaviour Modification\nDevelopmental Psychology\nCognitive Psychology\nPersonality Psychology\nAbnormal Psychology\nSocial Psychology\nApplied Social Psychology\nEthics in Psychology\nChild and Adolescent Psychology\nEnvironmental Psychology Introduction to Psychology History and System in Psychology Statistics for Social Sciences Psychological Testing Biological Psychology Behaviour Modification Developmental Psychology Cognitive Psychology Personality Psychology Abnormal Psychology Social Psychology Applied Social Psychology Ethics in Psychology Child and Adolescent Psychology Environmental Psychology  Final Year Project Final Year Project (Project Paper)  Industrial Exposure Industrial Exposure I\nIndustrial Exposure II Industrial Exposure I Industrial Exposure II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "A Pass with at least credit in three (3) subjects or A Pass in 0-Level with at least Grade C in 3 subjects.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "A Pass with at least Grade C (NGMP of 2.00) in one (1) subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Psychology (Honours)",
+      "field_of_study": "Psychology",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "A Diploma (Level 4, MQF) in any field with at least CGPA of 2.00 out of 4.00.  Diploma Kemahiran Malaysia (DKM)/Diploma Lanjutan Kemahiran Malaysia (DLKM) / Diploma Vokasional Malaysia (DVM) subjected to Higher Education Provider (HEP) Senate/Academic Board’s approval. The HEPs are required to conduct screening and provide appropriate bridging courses in Mathematics and Science\nAn Advanced Diploma (Level 5, MQF) in the relevant fields with at least CGPA of 2.00 out of 4.00.",
+        "STPM": "Minimum of Grade C (GP 2.00) in any two (2) subjects.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "Common Core Introduction to Social Science Research Method in Psychology Interpersonal and Communication Skills Reflective Practise for Helping Profession Creative Problem Solving and Decision Making Positive Psychology Public Speaking 1 Public Speaking 2 Enterpreneurship and Innovation Discipline Core Introduction to Psychology History and System in Psychology Statistics for Social Sciences Psychological Testing Biological Psychology Behaviour Modification Developmental Psychology Cognitive Psychology Personality Psychology Abnormal Psychology Social Psychology Applied Social Psychology Ethics in Psychology Child and Adolescent Psychology Environmental Psychology Final Year Project Final Year Project (Project Paper) Industrial Exposure Industrial Exposure I Industrial Exposure II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "A Diploma (Level 4, MQF) in any field with at least CGPA of 2.00 out of 4.00.  Diploma Kemahiran Malaysia (DKM)/Diploma Lanjutan Kemahiran Malaysia (DLKM) / Diploma Vokasional Malaysia (DVM) subjected to Higher Education Provider (HEP) Senate/Academic Board’s approval. The HEPs are required to conduct screening and provide appropriate bridging courses in Mathematics and Science\nAn Advanced Diploma (Level 5, MQF) in the relevant fields with at least CGPA of 2.00 out of 4.00."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "Minimum of Grade C (GP 2.00) in any two (2) subjects.."
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts in Public Management (Honours)",
+      "field_of_study": "Social Sciences",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "Diploma": "CGPA of 2.00.",
+        "STPM": "Grade C (GP 2.0) in any TWO subjects.",
+        "Foundation": "CGPA of 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "SCHOOL CORE COURSES Introduction to Public Administration and Services Introduction to Political Science Introduction to Sociology Introduction to Demography Principles of Management Principles of Microeconomics Principles of Macroeconomics Malaysian Economy and Policy Research Methodology Statistics for Social Science UNIVERSITY COURSES Public Speaking 1 Public Speaking 2 Volunteerism and Service Learning Entrepreneurship and Innovation PROGRAMME CORE COURSES Human Resource Management Organisational Behaviour Malaysian Political and Legal System Problem Solving & Decision Making Cross Cultural Management Project Management Negotiations and Conflict Management Social Entrepreneurship Leadership, Innovation and Change Principles of Accounting Public Sector Management Leadership, Ethics and Governance Business and Government Relations Leadership Development Skills and Group Dynamics Organisational Leadership Principles of Finance Internship Professional Practice Internship for Public Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Accounting",
+      "field_of_study": "Accounting",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Credit any 3 subjects.",
+        "O-Level": "Grad C in 3 subjects..",
+        "UEC": "Grade B in three (3) subjects.",
+        "STPM": "Grade C (GP 2.00) in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 1750,
+        "tuition_fee": 16450
+      },
+      "course_content": {
+        "core": "School Core Courses Introduction to Management Introduction to Marketing Introduction to Finance Introduction to Business Mathematics Introduction to Business Statistics Introduction to Organizational Behavior Introduction to Business Law Basic Computer Skills Programme Core Courses Microeconomics Macroeconomics Fundamentals of Information Technology Introduction to E-Commerce Introduction to Entrepreneurship Principles of Taxation Taxation Cost Accounting Computerized Accounting Systems Management Accounting Financial Accounting I Financial Accounting II Financial Accounting III Financial Accounting IV Financial Accounting V Introduction to Company Law Auditing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education",
+      "field_of_study": "Early Childhood Education",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Credit any 3 subjects.",
+        "STPM": "Grade C (NGMP of 2.00) in one (1) subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 1750,
+        "tuition_fee": 22150
+      },
+      "course_content": {
+        "core": "University Core Courses English Proficiency Public Speaking Discipline Core Courses Children Growth and Development Guidance and Counselling in Early Childhood Education Intervention Children with Special Needs Curriculum in Early Childhood Education Arts and Craft in Early Childhood Education Teaching and Learning Approaches in Early Childhood Education Mathematics in Early Childhood Music and Movement in Early Childhood Education Language and Literature in Early Childhood Education Science and Technology in Early Childhood Education Assessment in Early Chidhood Education Health and Safety Management in Early Childhood Education Management and Administration in Early Childhood Education Management and Entrepreneurship in Early Childhood Education Nutrition Management for Infant and Young Children Family and Community in Early Childhood Education Professional Communication Skills for ECE Practitioners Proffessionalism in Early Childhood Education ICT in Early Childhood Education Play in Early Childhood Education Internship Professional Practice PRACTICUM 1 (TASKA) PRACTICUM 2 (TADIKA)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "credit in any 3 subjects inclusive of Mathematics.",
+        "STPM": "Grade C (GP 2.0) in any subject or any equivalent qualification.  Credit in Mathematics at SPM level"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 1750,
+        "tuition_fee": 22150
+      },
+      "course_content": {
+        "core": "Faculty Core Courses Object Oriented Programming Database Computer Networking Discrete Mathematics Introduction to Operating System Computer Architecture Introduction to Information Technology Fundamentals of Programming System Analysis and Design University Courses English Proficiency Public Speaking Concentration Courses Requirement Engineering Advanced Technology in Industry Introduction to Information Security Introduction to Artificial Intelligence Software Development Project Introduction to Cloud Computing Introduction to Human-Computer Interaction Software Testing Introduction to System Administration and Maintenance Introduction to Internet Programming Introduction to Platform Technologies Web Design & Development Internship Professional Practice Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "credit in any 3 subjects inclusive of Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (GP 2.0) in any subject or any equivalent qualification.  Credit in Mathematics at SPM level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Management",
+      "field_of_study": "Management",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Credit any 3 subjects.",
+        "O-Level": "Grad C in 3 subjects..",
+        "UEC": "Grade B in three (3) subjects.",
+        "STPM": "Grade C (GP 2.00) in any subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 1750,
+        "tuition_fee": 22150
+      },
+      "course_content": {
+        "core": "University Courses English Proficiency Public Speaking School Core Courses Introduction to Management Introduction to Marketing Introduction to Finance Introduction to Business Mathematics Introduction to Business Statistics Introduction to Organizational Behaviour Introduction to Business Law Basic Computer Skills Program Core Courses Microeconomics Macroeconomics Fundamentals of Information Technology Introduction to E-Commerce Introduction to Entrepreneurship Financial Accounting I Economics and Society Introduction to Human Resource Management Cost and Management Accounting Introduction to Public and Private Organisations Introduction to Business Information Systems Workplace Issues (Capstone) Introduction to Cross-Cultural Management Interpersonal and Communication Skills Introduction to Business Ethics and Values",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Credit any 3 subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Grad C in 3 subjects.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in three (3) subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (GP 2.00) in any subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Psychology",
+      "field_of_study": "Psychology",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "THREE (3) credits in any subject and a pass in Mathematics. and Biology/ Physics/ Chemistry/ General Science/ Applied Science..",
+        "O-Level": "THREE (3) credits in any subject and a pass in Mathematics. and Biology/ Physics/ Chemistry/ General Science/ Applied Science..",
+        "STPM": "Grade C (GP 2.00) in any subject.  Pass in Mathematics and Biology/ Physics/ Chemistry/ General Science/ Applied Science at SPM level"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 1750,
+        "tuition_fee": 22150
+      },
+      "course_content": {
+        "core": "University Courses English Proficiency Public Speaking School Core Courses Introduction to Social Science Parenting and Family Psychology Motivation and Emotion Introduction to Cognitive Psychology Psychology of Communication Ethics in Helping Profession Program Core Courses Fundamental of Psychology Physiological Psychology Psychology of Gerontology Principles of Counselling Introduction to Behavioural Analysis Basic Research Methods Abnormal Psychology Statistics in Social Science Psychology of Learning Personality Psychology Social Psychology Psychology of Children and Adolescents Professional Practice Internship for Psychology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "THREE (3) credits in any subject and a pass in Mathematics. and Biology/ Physics/ Chemistry/ General Science/ Applied Science.."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "THREE (3) credits in any subject and a pass in Mathematics. and Biology/ Physics/ Chemistry/ General Science/ Applied Science.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (GP 2.00) in any subject.  Pass in Mathematics and Biology/ Physics/ Chemistry/ General Science/ Applied Science at SPM level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Social Work",
+      "field_of_study": "Social Sciences",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "A Pass with at least credit in three (3) subjects or A Pass in 0-Level with at least Grade C in 3 subjects.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 1750,
+        "tuition_fee": 22150
+      },
+      "course_content": {
+        "core": "School Core Courses Introduction to Social Science\nEthics in Helping Profession\nIntroduction to Human Services\nCreative Problem Solving Introduction to Social Science Ethics in Helping Profession Introduction to Human Services Creative Problem Solving Program Core Courses Fundamentals of Psychology\nIntroduction to Social Work\nTheories in Social Work Practice\nSocial Work Methods with Individuals\nSocial Work Methods with Group and Families\nSocial Work Methods with Organizations and Community\nHuman Behaviour in the Social Environment\nBasic of Social Welfare\nSocial Issues and Policy\nSocial Work Intervention Skills\nNon-Governmental Organisation\nCrisis Intervention\nSocial Work Organization and Management\nSocial Enterprise Fundamentals of Psychology Introduction to Social Work Theories in Social Work Practice Social Work Methods with Individuals Social Work Methods with Group and Families Social Work Methods with Organizations and Community Human Behaviour in the Social Environment Basic of Social Welfare Social Issues and Policy Social Work Intervention Skills Non-Governmental Organisation Crisis Intervention Social Work Organization and Management Social Enterprise Internship Professional Practice Field Placement I\nField Placement II Field Placement I Field Placement II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "A Pass with at least credit in three (3) subjects or A Pass in 0-Level with at least Grade C in 3 subjects.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts",
+      "field_of_study": "Foundation in Arts",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits.  Credit in Bahasa Malaysia & English in SPM",
+        "O-Level": "Grade C in FIVE (5) subject.  Credit in Bahasa Malaysia & English in SPM"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 750,
+        "tuition_fee": 11950
+      },
+      "course_content": {
+        "core": "Semester 1 English 1 Introduction to Management Basic Mathematics Basic Information and Communication Technology Personal Development Semester 2 English 2 Principles of Sociology Basic Economics Global Studies Co-curriculum Semester 3 Writing and Research Skills Introduction to Law Principles of Psychology Basic Financial Accounting",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits.  Credit in Bahasa Malaysia & English in SPM"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in FIVE (5) subject.  Credit in Bahasa Malaysia & English in SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Early Childhood Education - FT",
+      "field_of_study": "Early Childhood Education",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "- A Bachelor’s Degree in ECE with a minimum CGPA of 2.50 or its equivalent; OR - A Bachelor’s Degree in a relevant field with a minimum CGPA of 2.50 or its equivalent, as accepted by the Senate AND 3 years working.  A Bachelor’s Degree not meeting CGPA of 2.50 or its equivalent, as accepted by the Senate can be accepted subject to a minimum of 5 years working experience in early childhood fields and rigorous internal assessment."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 1000,
+        "tuition_fee": 20800
+      },
+      "course_content": {
+        "core": "Programme Core Foundations of Education Psychology of Learning and Instruction Young Children in Multicultural Environment Theories and Programme in Early Childhood Education Curriculum Development in Early Childhood Education Assessment in Early Childhood Education Policies and Practice in Early Childhood Education Programs Research Methodology Research Project Project Paper",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "- A Bachelor’s Degree in ECE with a minimum CGPA of 2.50 or its equivalent; OR - A Bachelor’s Degree in a relevant field with a minimum CGPA of 2.50 or its equivalent, as accepted by the Senate AND 3 years working.  A Bachelor’s Degree not meeting CGPA of 2.50 or its equivalent, as accepted by the Senate can be accepted subject to a minimum of 5 years working experience in early childhood fields and rigorous internal assessment."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Education - ODL",
+      "field_of_study": "Education",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A pass with a minimum CGPA of 2.75 or equivalent, as accepted by the University Senate; OR equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; OR equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 750,
+        "tuition_fee": 22150
+      },
+      "course_content": {
+        "core": "Core Courses Philosophical and Sociological Foundations of Education\nResearch Methodology\nEducational Psychology\nCurriculum Instruction and Assessment in Education Philosophical and Sociological Foundations of Education Research Methodology Educational Psychology Curriculum Instruction and Assessment in Education  Research Paper Dissertation 1\nDissertation 2\nDissertation 3 Dissertation 1 Dissertation 2 Dissertation 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum CGPA of 2.75 or equivalent, as accepted by the University Senate"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "OR equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field"
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "OR equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Education - FT",
+      "field_of_study": "Education",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.50 can be accepted subject to rigorous internal assessment..  Bachelor’s Degree or its equivalent that does not meet the minimum CGPA of 2.50 can be accepted subject to a minimum of five 5 years working experience in the related field."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 750,
+        "tuition_fee": 26150
+      },
+      "course_content": {
+        "core": "Core Courses Philosophical and Sociological Foundations of Education Research Methodology Educational Psychology Curriculum Instruction and Assessment in Education Research Paper Dissertation 1 Dissertation 2 Dissertation 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.50 can be accepted subject to rigorous internal assessment..  Bachelor’s Degree or its equivalent that does not meet the minimum CGPA of 2.50 can be accepted subject to a minimum of five 5 years working experience in the related field."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Education (Teaching English as a Second Language) - FT",
+      "field_of_study": "English (Teaching)",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor’s Degree Education (Hons) / Bachelor’s Degree (Hons) in Education with a minimum CGPA 2.50 from an institution recognized by the Malaysian government.  Bachelor’s Degree (Hons) with CGPA less than 2.50, can be accepted subject to five (5) years working experience in the related field"
+      },
+      "english_requirements": {
+        "IELTS": "6",
+        "TOEFL": "PBT: 550; iBT: 80"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 750,
+        "tuition_fee": 21150
+      },
+      "course_content": {
+        "core": "Compulsory Courses Foundations of Education Psychology of Learning, Learners and Instruction Assessment in Education Discipline Core Courses Technology and Learning Design Curriculum and Instruction in Education Language Teaching Methodology Material Design and Selection in TESL Second Language Teaching and Learning Language Planning, Policies and in ESL TESL Approaches in 21st Century Learning Cross Cultural Communication Research Methodology Research Project Project Paper",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor’s Degree Education (Hons) / Bachelor’s Degree (Hons) in Education with a minimum CGPA 2.50 from an institution recognized by the Malaysian government.  Bachelor’s Degree (Hons) with CGPA less than 2.50, can be accepted subject to five (5) years working experience in the related field"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Strategic Human Resource Management - FT",
+      "field_of_study": "Human Resource Management",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+      },
+      "english_requirements": {
+        "IELTS": "6",
+        "TOEFL": "PBT: 550; iBT: 80"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 750,
+        "tuition_fee": 27150
+      },
+      "course_content": {
+        "core": "Core Courses Strategic Human Resource Management Managing Recruitment and Selection Management of Occupational Safety and Health Malaysian Employment Law Compensation Management Performance Management Research Methodology OR Case Research Methods Industrial Relations Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Public Management",
+      "field_of_study": "Management",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "(Level 6, MQF) in related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate; OR (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a rigorous internal assessment; OR (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and with relevant working experience, subject to a rigorous internal assessment; OR (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses; OR other equivalent / related qualifications to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 750,
+        "tuition_fee": 27150
+      },
+      "course_content": {
+        "core": "Core Courses Digital Government\nStrategic Public Management\nPublic Policy Analysis\nStrategic Human Resource Management\nOrganisational Behaviour\nPublic Finance and Budgeting\nResearch Methodology OR\nCase Research Methods\nValues and Ethics in Management Digital Government Strategic Public Management Public Policy Analysis Strategic Human Resource Management Organisational Behaviour Public Finance and Budgeting Research Methodology OR Research Methodology Case Research Methods Values and Ethics in Management  Concentration Courses\nDigital Government (12 Credits) Digital Government (12 Credits) Digital Communication and Social Media\nDigital Government and Society\nData Analytics for Public Management\nPublic Sector Innovation in the Digital Era Digital Communication and Social Media Digital Government and Society Data Analytics for Public Management Public Sector Innovation in the Digital Era  Projects Research Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "(Level 6, MQF) in related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate; OR (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a rigorous internal assessment; OR (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and with relevant working experience, subject to a rigorous internal assessment; OR (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses; OR other equivalent / related qualifications to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Management - ODL",
+      "field_of_study": "Management",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A pass with a minimum CGPA of 2.75 or equivalent, as accepted by the University Senate; OR equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; OR equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 750,
+        "tuition_fee": 16150
+      },
+      "course_content": {
+        "core": "Core Courses Organizational Management\nOrganizational Development and Change\nManagerial Leadership\nStrategic Human Resource Management\nOrganisational Behaviour\nKnowledge Management\nResearch Methodology OR\nCase Research Methods\nCompetitive Strategic Management\nResearch Project Organizational Management Organizational Development and Change Managerial Leadership Strategic Human Resource Management Organisational Behaviour Knowledge Management Research Methodology OR Research Methodology Case Research Methods Competitive Strategic Management Research Project  Specialisation Courses Performance Management\nHuman Capital Development and Talent Management\nMarketing Management\nFinance for Non-Financial Managers\nEconomics for Manager\nValues and Ethics in Management Performance Management Human Capital Development and Talent Management Marketing Management Finance for Non-Financial Managers Economics for Manager Values and Ethics in Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A pass with a minimum CGPA of 2.75 or equivalent, as accepted by the University Senate; OR equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; OR equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Management (Conventional - FT)",
+      "field_of_study": "Management",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or .  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+      },
+      "english_requirements": {
+        "IELTS": "6",
+        "TOEFL": "PBT: 550; iBT: 80"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 750,
+        "tuition_fee": 27150
+      },
+      "course_content": {
+        "core": "Core Courses Organisational Management Organisational Development and Change Managerial Leadership Strategic Human Resource Management Organisational Behaviour Knowledge Management Competitive Strategic Management Research Methodology OR Case Research Methods Research Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or .  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Business Administration (Conventional - FT)",
+      "field_of_study": "MBA Programme",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+      },
+      "english_requirements": {
+        "IELTS": "6",
+        "TOEFL": "PBT: 550; iBT: 80"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 750,
+        "tuition_fee": 27150
+      },
+      "course_content": {
+        "core": "Core Courses Marketing Management Managerial Accounting Strategic Human Resource Management Business Economics Quantitative Techniques and Decision Making Financial Management Organisational Behaviour Research Methodology OR Case Research Methods Competitive Strategic Management Project Research Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Business Administration (ODL - FT)",
+      "field_of_study": "MBA Programme",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Feb",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+      },
+      "english_requirements": {
+        "IELTS": "6",
+        "TOEFL": "PBT: 550; iBT: 80"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 750,
+        "tuition_fee": 23150
+      },
+      "course_content": {
+        "core": "Core Courses Marketing Management Managerial Accounting Strategic Human Resource Management Business Economics Quantitative Techniques and Decision Making Financial Management Organisational Behaviour Research Methodology OR Case Research Methods Competitive Strategic Management Project Research Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Public Policy - FT",
+      "field_of_study": "Policy Science",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+      },
+      "english_requirements": {
+        "IELTS": "6",
+        "TOEFL": "PBT: 550; iBT: 80"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 750,
+        "tuition_fee": 27150
+      },
+      "course_content": {
+        "core": "Core Courses Public Finance and Budgeting Economics for Public Policy Research Methodology Quantitative Techniques and Decision-making Public Policy Analysis Research Colloquium",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Philosophy (Conventional - FT)",
+      "field_of_study": "Social Sciences",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+      },
+      "english_requirements": {
+        "IELTS": "6",
+        "TOEFL": "PBT: 550; iBT: 80"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 1500,
+        "tuition_fee": 26400
+      },
+      "course_content": {
+        "core": "Taught Courses Research Methodology Research Data Analysis Research Seminar Thesis MPhil Proposal MPhil Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy in Education - ODL",
+      "field_of_study": "Education",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "A Master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to:\nhaving shown competency and capability in conducting research at doctoral degree level;\na rigorous internal assessment by the University;\napproval by the University Senate."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 37650
+      },
+      "course_content": {
+        "core": "Taught Courses Research Methodology\nResearch Seminar\nQualitative Research Methods Research Methodology Research Seminar Qualitative Research Methods  Project PhD Proposal\nPhD Thesis PhD Proposal PhD Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "A Master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to:\nhaving shown competency and capability in conducting research at doctoral degree level;\na rigorous internal assessment by the University;\napproval by the University Senate."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy in Education (Conventional) - FT",
+      "field_of_study": "Education",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "A master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to\nHaving shown competency and capability in conducting research at doctoral degree level\nA rigorous internal assessment by the University; - approval by the University Senate."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5",
+        "TOEFL": "iBT: 34"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "Taught Courses Research Methodology Research Seminar Multivariate Date Analysis or Qualitative Research Methods Thesis PhD Proposal PhD Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "A master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to\nHaving shown competency and capability in conducting research at doctoral degree level\nA rigorous internal assessment by the University; - approval by the University Senate."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy - ODL",
+      "field_of_study": "Management",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "A Master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to:\nhaving shown competency and capability in conducting research at doctoral degree level;\na rigorous internal assessment by the University;\napproval by the University Senate."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 37650
+      },
+      "course_content": {
+        "core": "Taught Courses Research Methodology\nResearch Seminar\nQualitative Research Methods Research Methodology Research Seminar Qualitative Research Methods  Project PhD Proposal\nPhD Thesis PhD Proposal PhD Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "A Master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to:\nhaving shown competency and capability in conducting research at doctoral degree level;\na rigorous internal assessment by the University;\napproval by the University Senate."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy (Conventional & ODL) - FT",
+      "field_of_study": "Social Sciences",
+      "location": "UNIRAZAK, Kuala Lumpur",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "A master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to\nHaving shown competency and capability in conducting research at doctoral degree level\nA rigorous internal assessment by the University; - approval by the University Senate."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6",
+        "TOEFL": "iBT: 60"
+      },
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 2250,
+        "tuition_fee": 40650
+      },
+      "course_content": {
+        "core": "Taught Courses Research Methodology Research Seminar Qualitative Research Methods Project PhD Proposal PhD Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "A master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to\nHaving shown competency and capability in conducting research at doctoral degree level\nA rigorous internal assessment by the University; - approval by the University Senate."
+          }
+        ]
+      }
+    }
+  ]
+}

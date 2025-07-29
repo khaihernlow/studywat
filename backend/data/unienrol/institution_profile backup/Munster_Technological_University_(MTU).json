@@ -1,0 +1,51 @@
+{
+  "institution_name": "Munster Technological University (MTU)",
+  "institution_country": "Ireland",
+  "institution_type": "Public",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Bachelor (Hons) Early Childhood Education and Learning",
+      "field_of_study": "Early Childhood Education",
+      "location": "Bishopstown Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL Diploma in Early Childhood Education with the required minimum CGPA of 2.5."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 90000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "MCKL Diploma in Early Childhood Education with the required minimum CGPA of 2.5."
+          }
+        ]
+      }
+    }
+  ]
+}

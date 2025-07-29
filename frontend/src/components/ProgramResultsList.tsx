@@ -161,6 +161,7 @@ const ProgramResultsList: React.FC<ProgramResultsListProps> = ({ lists, programs
                     cost: 0,
                     field: program.field_of_study || '',
                     imageUrl: undefined,
+                    institutionImages: program.institution?.institution_images || [],
                     malaysiaRank: program.institution?.malaysia_rank,
                     worldRank: program.institution?.world_rank,
                     intakeMonths: program.intakes || [],

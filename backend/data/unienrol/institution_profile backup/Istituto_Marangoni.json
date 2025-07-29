@@ -1,0 +1,1711 @@
+{
+  "institution_name": "Istituto Marangoni",
+  "institution_country": "Italy",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "BA (Hons) Fashion Business",
+      "field_of_study": "Business and Management",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least CDD.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B3 in 5 Subjects.",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "Pass with at least CDD.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 320525
+      },
+      "course_content": {
+        "core": "Year One Introduction to Fashion\nAlpha Marketing\nThe Luxury Fashion Product\nPrinciples of Business Introduction to Fashion Alpha Marketing The Luxury Fashion Product Principles of Business Year Two Visual and Emotional Branding\nMarketing in the Luxury Sphere\nFashion Lab Project\nFinance and Management Control Visual and Emotional Branding Marketing in the Luxury Sphere Fashion Lab Project Finance and Management Control Year Three Omnichannel Distribution\nHonours Project Fashion Business\nFuture of Fashion Omnichannel Distribution Honours Project Fashion Business Future of Fashion",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B3"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B3 in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Business & Buying",
+      "field_of_study": "Business and Management",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least CDD.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B3 in 5 Subjects.",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "Pass with at least CDD.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 320525
+      },
+      "course_content": {
+        "core": "Year One Introduction to Fashion\nAlpha Marketing\nThe Luxury Fashion Product\nPrinciples of Business Introduction to Fashion Alpha Marketing The Luxury Fashion Product Principles of Business Year Two Visual and Emotional Branding\nThe Contemporary  Product\nFashion Next\nFinance and Management Control Visual and Emotional Branding The Contemporary  Product Fashion Next Finance and Management Control Year Three Omnichannel Distribution\nHonours Project Fashion Business & Buying\nFuture of Fashion Omnichannel Distribution Honours Project Fashion Business & Buying Future of Fashion",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B3"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B3 in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Business, Digital Communication & Media",
+      "field_of_study": "Communication",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least CDD.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "Pass with at least CDD.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 3.00.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 320525
+      },
+      "course_content": {
+        "core": "Year One Introduction to Fashion\nAlpha Marketing\nThe Luxury Fashion Product\nPrinciples of Business Introduction to Fashion Alpha Marketing The Luxury Fashion Product Principles of Business Year Two Visual and Emotional Branding\nEditorial Environment\nLuxury Image & Brand Construction\nFinance and Management Control Visual and Emotional Branding Editorial Environment Luxury Image & Brand Construction Finance and Management Control Year Three Creative Direction\nHonours Project Fashion Business & Media\nFuture of Fashion Creative Direction Honours Project Fashion Business & Media Future of Fashion",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B3"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\ncredit in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Design",
+      "field_of_study": "Fashion Design",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "UEC": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "STPM": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Foundation": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 322177
+      },
+      "course_content": {
+        "core": "Year One Fashion Drawing Fundamentals\nFashion Design Fundamentals\nFashion Collection Fundamentals\nHistory of Art and Fashion Fashion Drawing Fundamentals Fashion Design Fundamentals Fashion Collection Fundamentals History of Art and Fashion Year Two Fashion Brand Exploration\nArt & Fashion Exploration\nPersonal Style Development\nFashion, Art and Cultural Context Fashion Brand Exploration Art & Fashion Exploration Personal Style Development Fashion, Art and Cultural Context Year Three Personal Research & Concept Development\nFinal Major Project Fashion Design\nFinal Dissertation Personal Research & Concept Development Final Major Project Fashion Design Final Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B3"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Design & Accessories",
+      "field_of_study": "Fashion Design",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "UEC": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "STPM": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Foundation": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 322177
+      },
+      "course_content": {
+        "core": "Year One Fashion Drawing Fundamentals\nFashion Design Fundamentals\nFashion Collection Fundamentals\nHistory of Art and Fashion Fashion Drawing Fundamentals Fashion Design Fundamentals Fashion Collection Fundamentals History of Art and Fashion Year Two Fashion Brand Exploration\nAccessories Design Methodology\nThe Art of Luxury\nFashion, Art and Cultural Context Fashion Brand Exploration Accessories Design Methodology The Art of Luxury Fashion, Art and Cultural Context Year Three Product and Style Innovation\nFinal Major Project Fashion Design & Accessories\nFinal Dissertation Product and Style Innovation Final Major Project Fashion Design & Accessories Final Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B3"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Design & Womenswear",
+      "field_of_study": "Fashion Design",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "UEC": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "STPM": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Foundation": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 322177
+      },
+      "course_content": {
+        "core": "Year One Fashion Drawing Fundamentals\nFashion Design Fundamentals\nFashion Collection Fundamentals\nHistory of Art and Fashion Fashion Drawing Fundamentals Fashion Design Fundamentals Fashion Collection Fundamentals History of Art and Fashion Year Two Fashion Brand Exploration\nArt & Fashion Exploration Womenswear\nPersonal Style Development Womenswear\nFashion, Art and Cultural Context Fashion Brand Exploration Art & Fashion Exploration Womenswear Personal Style Development Womenswear Fashion, Art and Cultural Context Year Three Personal Research & Concept Development Womenswear\nFinal Major Project Fashion Design & Womenswear\nFinal Dissertation Personal Research & Concept Development Womenswear Final Major Project Fashion Design & Womenswear Final Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B3"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Design & Menswear",
+      "field_of_study": "Fashion Design",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "UEC": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "STPM": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Foundation": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 322177
+      },
+      "course_content": {
+        "core": "Year One Fashion Drawing Fundamentals\nFashion Design Fundamentals\nFashion Collection Fundamentals\nHistory of Art and Fashion Fashion Drawing Fundamentals Fashion Design Fundamentals Fashion Collection Fundamentals History of Art and Fashion Year Two Fashion Brand Exploration\nArt & Fashion Exploration Menswear\nPersonal Style Development Menswear\nFashion, Art and Cultural Context Fashion Brand Exploration Art & Fashion Exploration Menswear Personal Style Development Menswear Fashion, Art and Cultural Context Year Three Personal Research & Concept Development Menswear\nFinal Major Project Fashion Design & Menswear\nFinal Dissertation Personal Research & Concept Development Menswear Final Major Project Fashion Design & Menswear Final Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B3"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Design & Marketing",
+      "field_of_study": "Fashion Design",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "UEC": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "STPM": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Foundation": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 322177
+      },
+      "course_content": {
+        "core": "Year One Fashion Drawing Fundamentals\nFashion Design Fundamentals\nFashion Collection Fundamentals\nHistory of Art and Fashion Fashion Drawing Fundamentals Fashion Design Fundamentals Fashion Collection Fundamentals History of Art and Fashion Year Two Fashion Brand Exploration\nMarketing in the Fashion Sphere\nCrafting the Fashion Market\nFashion, Art and Cultural Context Fashion Brand Exploration Marketing in the Fashion Sphere Crafting the Fashion Market Fashion, Art and Cultural Context Year Three Personal Research & Product Management\nFinal Major Project Fashion Design & Marketing\nFinal Dissertation Personal Research & Product Management Final Major Project Fashion Design & Marketing Final Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B3"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Styling & Visual Merchandising",
+      "field_of_study": "Fashion Design",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "UEC": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "STPM": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Foundation": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 320525
+      },
+      "course_content": {
+        "core": "Year One Fashion Image\nNew Media Environment\nProfessional Fashion Panorama\nHistory of Art and Fashion Fashion Image New Media Environment Professional Fashion Panorama History of Art and Fashion Year Two Fashion Branding\nVisual Display Strategies\nRetail Environment\nFashion, Art and Cultural Context Fashion Branding Visual Display Strategies Retail Environment Fashion, Art and Cultural Context Year Three Fashion Retail Strategies\nFinal Major Project Fashion Styling & Visual Merechandising\nFinal Dissertation Fashion Retail Strategies Final Major Project Fashion Styling & Visual Merechandising Final Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B3"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Interior",
+      "field_of_study": "Interior Design",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "UEC": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "STPM": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Foundation": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 300698
+      },
+      "course_content": {
+        "core": "Year One Interior Architectural Fundamentals\nApproaching Interior Design, Project and Processes\nInterior Design Project\nHistory of Art, Design and Visual Culture Interior Architectural Fundamentals Approaching Interior Design, Project and Processes Interior Design Project History of Art, Design and Visual Culture Year Two Contemporary Project Analysis\nInterior Design Experience\nInterior Design Defined\nDesign and Cultural Perspective Contemporary Project Analysis Interior Design Experience Interior Design Defined Design and Cultural Perspective Year Three Residential Interior Design\nBranded Environments\nFinal & Graduate Projects\nResearching Theory and Practice Residential Interior Design Branded Environments Final & Graduate Projects Researching Theory and Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B3"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Grade B3 in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Styling & Creative Direction",
+      "field_of_study": "Multimedia Design",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least CDD.  Applicants may be required to submit a portfolio for assessment",
+        "UEC": "Grade B3 in 5 Subjects.  Applicants may be required to submit a portfolio for assessment",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment",
+        "STPM": "Pass with at least CDD.  Applicants may be required to submit a portfolio for assessment",
+        "Foundation": "Minimum CGPA 3.00.  Applicants may be required to submit a portfolio for assessment"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 320525
+      },
+      "course_content": {
+        "core": "Year One Fashion Image\nNew Media Environment\nProfessional Fashion Panorama\nHistory of Art and Fashion Fashion Image New Media Environment Professional Fashion Panorama History of Art and Fashion Year Two Fashion Branding\nStill Life\nFashion Editorial\nFashion, Art and Cultural Context Fashion Branding Still Life Fashion Editorial Fashion, Art and Cultural Context Year Three Fashion Campaign\nFinal Major Project Fashion Styling & Creative Direction\nFinal Dissertation Fashion Campaign Final Major Project Fashion Styling & Creative Direction Final Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B3"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B3 in 5 Subjects.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least CDD.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Fashion",
+      "field_of_study": "Foundation in Arts",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least 2 Grade C.",
+        "UEC": "Pass with at least 2 B4.",
+        "STPM": "Pass with at least 2 Credit."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 72917
+      },
+      "course_content": {
+        "core": "Core Course Unit Communicating Fashion Concepts\nRepresentation of Fashion Design & Business idea\nTrend & Style creative research\nStyle development\nProduction scenarios in fashion business\nTechniques and fashion product cycle\nFashion trends and styles\nThe Fashion system\nFashion portfolio building\nPresentation & visual communication\nVisual culture Communicating Fashion Concepts Representation of Fashion Design & Business idea Trend & Style creative research Style development Production scenarios in fashion business Techniques and fashion product cycle Fashion trends and styles The Fashion system Fashion portfolio building Presentation & visual communication Visual culture",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 2 Grade C."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 2 B4."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 2 Credit."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least 2 Grade C.",
+        "UEC": "Pass with at least 2 B4.",
+        "STPM": "Pass with at least 2 Credit."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 18174,
+        "resource_fee": null,
+        "tuition_fee": 72917
+      },
+      "course_content": {
+        "core": "Core Course Unit Communicating design concepts\nRepresentation of design ideas\nProduct creative research\nConcept formulation and development\nProduction & environment scenarios\nTechniques and product logic\nInterior design context & defining mood\nRepresentation of product design\nDesign portfolio building\nPresentation & visual communication\nVisual culture Communicating design concepts Representation of design ideas Product creative research Concept formulation and development Production & environment scenarios Techniques and product logic Interior design context & defining mood Representation of product design Design portfolio building Presentation & visual communication Visual culture",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 2 Grade C."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 2 B4."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 2 Credit."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MA Fashion & Luxury Brand Management",
+      "field_of_study": "Business and Management",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Minimum CGPA 3.00 (Degree in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5"
+      },
+      "fees": {
+        "registration_fee": 24232,
+        "resource_fee": null,
+        "tuition_fee": 142088
+      },
+      "course_content": {
+        "core": "Study Units Fashion & Culture\nLuxury Marketing Strategies\nContextual and Cultural Studies\nStrategic Luxury Branding\nResearch Methods\nIndustry Placement\nLuxury Management\nDissertation Fashion & Culture Luxury Marketing Strategies Contextual and Cultural Studies Strategic Luxury Branding Research Methods Industry Placement Luxury Management Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Degree in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MA Fashion Design Womenswear",
+      "field_of_study": "Fashion Design",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Minimum CGPA 3.00 (Degree in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5"
+      },
+      "fees": {
+        "registration_fee": 24232,
+        "resource_fee": null,
+        "tuition_fee": 142088
+      },
+      "course_content": {
+        "core": "Study Units Fashion Exploration\nContextual and Cultural Studies\nDesign Intentions\nResearch Methods\nIndustry Placement\nNew Fashion Identities\nDissertation Fashion Exploration Contextual and Cultural Studies Design Intentions Research Methods Industry Placement New Fashion Identities Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Degree in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MA Fashion Promotion, Communication & Digital Media",
+      "field_of_study": "Marketing",
+      "location": "Marangoni, London",
+      "intakes": [
+        "Feb",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Minimum CGPA 3.00 (Degree in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5"
+      },
+      "fees": {
+        "registration_fee": 24232,
+        "resource_fee": null,
+        "tuition_fee": 142088
+      },
+      "course_content": {
+        "core": "Study Units Communication & Criticism\nFashion & Culture\nContextual and Cultural Studies\nCreative Direction\nResearch methods\nIndustry Placement\nInnovative Communication\nDissertation Communication & Criticism Fashion & Culture Contextual and Cultural Studies Creative Direction Research methods Industry Placement Innovative Communication Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Degree in a related field)."
+          }
+        ]
+      }
+    }
+  ]
+}

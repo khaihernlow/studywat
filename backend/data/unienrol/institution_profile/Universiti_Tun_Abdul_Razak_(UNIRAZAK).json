@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 10171,
   "malaysia_rank": 69,
+  "institution_images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Unirazak_City_Campus.jpg/500px-Unirazak_City_Campus.jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Accounting (Honours) - CPA Australia",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -155,11 +158,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor in Accounting (Honours) - ODL",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -251,11 +255,12 @@
             "text": "A pass in STPM with a minimum of Grade C (GP 2.00) in any subjects or any equivalent qualification."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor in Accounting (Honours)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -377,11 +382,12 @@
             "text": "Minimum score of 30 points."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Taxation (Honours)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -501,11 +507,12 @@
             "text": "Minimum score of 30 points."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Business Administration (Islamic Banking & Finance) (Honours)",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -625,11 +632,12 @@
             "text": "Minimum score of 30 points."
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "Bachelor of Business Administration (Honours) - ODL",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -789,11 +797,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Honours)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -913,11 +922,12 @@
             "text": "Minimum score of 30 points."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business (Honours) in Business Analytics and Digital Marketing",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -1019,11 +1029,12 @@
             "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a credit in Mathematics at SPM level or its equivalent..  A credit in Mathematics at SPM level or its equivalent\nCandidate with a credit in computing related subject at SPM or STPM level or its equivalent may be given preferential consideration."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Education (Early Childhood Education) (Honours) - ODL",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -1078,11 +1089,12 @@
             "text": "A pass in Matriculation/Foundation or its equivalent.."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Education (Early Childhood Education) (Honours)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -1126,11 +1138,12 @@
             "count": 2
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Economics (Honours)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -1250,7 +1263,8 @@
             "text": "Score of 30 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Bachelor of Education (Honours) - ODL",
@@ -1405,7 +1419,8 @@
             "text": "A pass in International Baccalaureate (IB) Diploma with minimum score of 30 points..  Credit in English at SPM level or any equivalent qualification."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Education (Honours)",
@@ -1521,11 +1536,12 @@
             "text": "Score of 30 points."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Business Management (Entrepreneurship) (Honours)",
-      "field_of_study": "Entrepreneurship",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -1647,11 +1663,12 @@
             "text": "Minimum score of 30 points."
           }
         ]
-      }
+      },
+      "course": "Entrepreneurship"
     },
     {
       "program_name": "Bachelor of Information Technology (Honours) Majoring : Computer Forensic - ODL",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -1744,11 +1761,12 @@
             "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a credit in Mathematics at SPM level or its equivalent..  Credit in Mathematics at SPM level or its equivalent;"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Honours) Majoring : Software Engineering, Information Science (Data Science) - ODL",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -1835,11 +1853,12 @@
             "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a credit in Mathematics at SPM level or its equivalent..  Credit in Mathematics at SPM level or its equivalent;"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Honours) Majoring : Computer Forensic",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -1933,11 +1952,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Management (Honours) - ODL",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2018,11 +2038,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Bachelor of Arts in Public Management (Honours) - ODL",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2087,11 +2108,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Bachelor of Management (Honours)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2157,11 +2179,12 @@
             "text": "CGPA of 2.00 out of 4.00."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Bachelor of Arts in Governance & Public Policy (Honours)",
-      "field_of_study": "Policy Science",
+      "field_of_study": "Language and Social Studies",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2281,11 +2304,12 @@
             "text": "Score of 30 points."
           }
         ]
-      }
+      },
+      "course": "Policy Science"
     },
     {
       "program_name": "Bachelor in Accounting (Honours) Accredited by CPA Australia",
-      "field_of_study": "Professional Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2407,11 +2431,12 @@
             "text": "Minimum score of 30 points."
           }
         ]
-      }
+      },
+      "course": "Professional Accounting"
     },
     {
       "program_name": "Bachelor of Psychology (Honours) - ODL",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2469,11 +2494,12 @@
             "text": "A Pass with at least Grade C (NGMP of 2.00) in one (1) subject."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Psychology (Honours)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2539,11 +2565,12 @@
             "count": 2
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Arts in Public Management (Honours)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2596,11 +2623,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2671,11 +2699,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2720,11 +2749,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2789,11 +2819,12 @@
             "text": "Grade C (GP 2.0) in any subject or any equivalent qualification.  Credit in Mathematics at SPM level"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -2885,11 +2916,12 @@
             "text": "Grade C (GP 2.00) in any subjects."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Diploma in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3002,11 +3034,12 @@
             "text": "Grade C (GP 2.00) in any subject.  Pass in Mathematics and Biology/ Physics/ Chemistry/ General Science/ Applied Science at SPM level"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Diploma in Social Work",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3052,11 +3085,12 @@
             "text": "A Pass with at least credit in three (3) subjects or A Pass in 0-Level with at least Grade C in 3 subjects.."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3123,11 +3157,12 @@
             "text": "Grade C in FIVE (5) subject.  Credit in Bahasa Malaysia & English in SPM"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Master in Early Childhood Education - FT",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3158,7 +3193,8 @@
             "text": "- A Bachelor’s Degree in ECE with a minimum CGPA of 2.50 or its equivalent; OR - A Bachelor’s Degree in a relevant field with a minimum CGPA of 2.50 or its equivalent, as accepted by the Senate AND 3 years working.  A Bachelor’s Degree not meeting CGPA of 2.50 or its equivalent, as accepted by the Senate can be accepted subject to a minimum of 5 years working experience in early childhood fields and rigorous internal assessment."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Master of Education - ODL",
@@ -3224,7 +3260,8 @@
             "text": "OR equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Education - FT",
@@ -3277,11 +3314,12 @@
             "text": "Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.50 can be accepted subject to rigorous internal assessment..  Bachelor’s Degree or its equivalent that does not meet the minimum CGPA of 2.50 can be accepted subject to a minimum of five 5 years working experience in the related field."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Education (Teaching English as a Second Language) - FT",
-      "field_of_study": "English (Teaching)",
+      "field_of_study": "Education",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3320,11 +3358,12 @@
             "text": "Bachelor’s Degree Education (Hons) / Bachelor’s Degree (Hons) in Education with a minimum CGPA 2.50 from an institution recognized by the Malaysian government.  Bachelor’s Degree (Hons) with CGPA less than 2.50, can be accepted subject to five (5) years working experience in the related field"
           }
         ]
-      }
+      },
+      "course": "English (Teaching)"
     },
     {
       "program_name": "Master in Strategic Human Resource Management - FT",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3372,11 +3411,12 @@
             "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Master in Public Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3416,11 +3456,12 @@
             "text": "(Level 6, MQF) in related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate; OR (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a rigorous internal assessment; OR (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and with relevant working experience, subject to a rigorous internal assessment; OR (Level 6, MQF) in non-related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses; OR other equivalent / related qualifications to a Bachelor’s degree (Level 6, MQF) recognised by the Malaysian Government.."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Master in Management - ODL",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3473,11 +3514,12 @@
             "text": "A pass with a minimum CGPA of 2.75 or equivalent, as accepted by the University Senate; OR equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; OR equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field.."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Master in Management (Conventional - FT)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3525,11 +3567,12 @@
             "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or .  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Master in Business Administration (Conventional - FT)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3577,11 +3620,12 @@
             "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master in Business Administration (ODL - FT)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Feb",
@@ -3629,11 +3673,12 @@
             "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Public Policy - FT",
-      "field_of_study": "Policy Science",
+      "field_of_study": "Language and Social Studies",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3676,11 +3721,12 @@
             "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "Policy Science"
     },
     {
       "program_name": "Master of Philosophy (Conventional - FT)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3728,7 +3774,8 @@
             "text": "A bachelor’s degree or equivalent with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to a minimum of 2 years working experience in relevant field; or.  Bachelor’s degree or equivalent not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Doctor of Philosophy in Education - ODL",
@@ -3763,7 +3810,8 @@
             "text": "A Master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to:\nhaving shown competency and capability in conducting research at doctoral degree level;\na rigorous internal assessment by the University;\napproval by the University Senate."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Philosophy in Education (Conventional) - FT",
@@ -3802,11 +3850,12 @@
             "text": "A master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to\nHaving shown competency and capability in conducting research at doctoral degree level\nA rigorous internal assessment by the University; - approval by the University Senate."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Philosophy - ODL",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3837,11 +3886,12 @@
             "text": "A Master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to:\nhaving shown competency and capability in conducting research at doctoral degree level;\na rigorous internal assessment by the University;\napproval by the University Senate."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Doctor of Philosophy (Conventional & ODL) - FT",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "UNIRAZAK, Kuala Lumpur",
       "intakes": [
         "Mar",
@@ -3876,7 +3926,8 @@
             "text": "A master’s degree from Universiti Tun Abdul Razak or its equivalent from an institution of higher learning recognised by the Malaysian Government or any other equivalent qualification recognised by the University Senate..  There shall be no direct entry from the bachelor’s degree level to doctoral degree level.\nCandidates with bachelor’s degree qualifications may apply to convert their candidacy to the doctoral degree programmes after a year’s enrolment in a master’s degree subject to\nHaving shown competency and capability in conducting research at doctoral degree level\nA rigorous internal assessment by the University; - approval by the University Senate."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     }
   ]
 }

@@ -1,125 +1,132 @@
 {
-    "institution_name": "Berjaya TVET College",
-    "institution_country": "Malaysia",
-    "institution_type": "Private",
-    "world_rank": null,
-    "malaysia_rank": null,
-    "programs": [
-        {
-            "program_name": "SKM Certificate in Food Preparation and Production + C & G Certificate in Food and Beverage",
-            "field_of_study": "Culinary Arts",
-            "location": "Berjaya TVET, KL City Centre",
-            "intakes": [
-                "Jan",
-                "Feb",
-                "Mar",
-                "Apr",
-                "May",
-                "Jun",
-                "Jul",
-                "Aug",
-                "Sep",
-                "Oct",
-                "Nov",
-                "Dec"
-            ],
-            "program_duration_years": 3,
-            "internship": "N/A",
-            "entry_requirements_raw": {},
-            "english_requirements": {},
-            "fees": {
-                "registration_fee": 550,
-                "resource_fee": 880,
-                "tuition_fee": 28125
-            },
-            "course_content": {
-                "core": "Level 2 (SKM Certificate in Food Preparation and Production) Hygiene, Kitchen Safety and food Handling Cooking Technique Stock, soups and hot sauce production Main course production Rice and Farinaceous Production Appetiser Production Breakfast Production Dessert Production Catering set-up activities Level 3 (SKM Certificate in Food Preparation and Production) Hygiene, safety and food handling Food Production Quality and Quality Control Catering Activities Coordination Supervisory Administrative Coordination Level 4 (C & G Certificate in Food and Beverage) This programme intends to give proper vocational training, knowledge and other training appropriate to food handling, beverage servicing, supervising in restaurant and hotel environment.",
-                "elective": "",
-                "others": ""
-            },
-            "program_type": "preuniversity",
-            "entry_requirements_processed": {}
-        },
-        {
-            "program_name": "SKM Certificate in Food Preparation and Production + C & G Certificate in Food Preparation and Culinary Arts",
-            "field_of_study": "Culinary Arts",
-            "location": "Berjaya TVET, KL City Centre",
-            "intakes": [
-                "Feb",
-                "May",
-                "Aug",
-                "Oct"
-            ],
-            "program_duration_years": 3,
-            "internship": null,
-            "entry_requirements_raw": {},
-            "english_requirements": {},
-            "fees": {
-                "registration_fee": 550,
-                "resource_fee": 880,
-                "tuition_fee": 28125
-            },
-            "course_content": {
-                "core": "Level 2 (SKM Certificate in Food Preparation and Production) Hygiene, Kitchen Safety and food Handling Cooking Technique Stock, soups and hot sauce production Main course production Appetiser Production Rice and Farinaceous Production Breakfast Production Dessert Production Catering set-up activities Dessert Production Level 3 (SKM Certificate in Food Preparation and Production) Hygiene, safety and food handling Food Production Quality and Quality Control Catering Activities Coordination Supervisory Administrative Coordination Level 4 (C & G Certificate in Food Preparation and Culinary Arts) Food Production Hygiene, Safety and Health Administration Menu Implementation Food Production Quality Assurance Monitoring Food Production Cost Control Food Production Daily Operations Food Production Staff Development Kitchen Equipment Maintenance Monitoring",
-                "elective": "",
-                "others": ""
-            },
-            "program_type": "preuniversity",
-            "entry_requirements_processed": {}
-        },
-        {
-            "program_name": "SKM Certificate in Event Management Coordination + C & G Diploma in Food and Beverage",
-            "field_of_study": "Event Management",
-            "location": "Berjaya TVET, KL City Centre",
-            "intakes": [
-                "Feb",
-                "May",
-                "Aug",
-                "Oct"
-            ],
-            "program_duration_years": 2,
-            "internship": "N/A",
-            "entry_requirements_raw": {},
-            "english_requirements": {},
-            "fees": {
-                "registration_fee": 450,
-                "resource_fee": 165,
-                "tuition_fee": 13500
-            },
-            "course_content": {
-                "core": "Level 3 (SKM Certificate in Event Management Coordination) CO1 FRONT OFFICE TELEPHONE SERVICES\nCO2 FRONT DESK OPERATION\nCO3 CONCIERGE SERVICES\nC04 GUEST SERVICE OPERATION",
-                "elective": "",
-                "others": ""
-            },
-            "program_type": "preuniversity",
-            "entry_requirements_processed": {}
-        },
-        {
-            "program_name": "SKM Certificate in Front Office Operation + C & G Diploma in Food and Beverage",
-            "field_of_study": "Hospitality Management",
-            "location": "Berjaya TVET, KL City Centre",
-            "intakes": [
-                "Feb",
-                "May",
-                "Aug",
-                "Oct"
-            ],
-            "program_duration_years": 2,
-            "internship": "N/A",
-            "entry_requirements_raw": {},
-            "english_requirements": {},
-            "fees": {
-                "registration_fee": 450,
-                "resource_fee": 165,
-                "tuition_fee": 13500
-            },
-            "course_content": {
-                "core": "Level 3 CO1 FRONT OFFICE TELEPHONE SERVICES\nCO2 FRONT DESK OPERATION\nCO3 CONCIERGE SERVICES\nC04 GUEST SERVICE OPERATION",
-                "elective": "",
-                "others": ""
-            },
-            "program_type": "preuniversity",
-            "entry_requirements_processed": {}
-        }
-    ]
+  "institution_name": "Berjaya TVET College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "institution_images": [
+    "https://berjayatvet.edu.my/wp-content/uploads/2020/10/Pic-3.jpg"
+  ],
+  "programs": [
+    {
+      "program_name": "SKM Certificate in Food Preparation and Production + C & G Certificate in Food and Beverage",
+      "field_of_study": "Hospitality and Services",
+      "location": "Berjaya TVET, KL City Centre",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "N/A",
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 880,
+        "tuition_fee": 28125
+      },
+      "course_content": {
+        "core": "Level 2 (SKM Certificate in Food Preparation and Production) Hygiene, Kitchen Safety and food Handling Cooking Technique Stock, soups and hot sauce production Main course production Rice and Farinaceous Production Appetiser Production Breakfast Production Dessert Production Catering set-up activities Level 3 (SKM Certificate in Food Preparation and Production) Hygiene, safety and food handling Food Production Quality and Quality Control Catering Activities Coordination Supervisory Administrative Coordination Level 4 (C & G Certificate in Food and Beverage) This programme intends to give proper vocational training, knowledge and other training appropriate to food handling, beverage servicing, supervising in restaurant and hotel environment.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {},
+      "course": "Culinary Arts"
+    },
+    {
+      "program_name": "SKM Certificate in Food Preparation and Production + C & G Certificate in Food Preparation and Culinary Arts",
+      "field_of_study": "Hospitality and Services",
+      "location": "Berjaya TVET, KL City Centre",
+      "intakes": [
+        "Feb",
+        "May",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 880,
+        "tuition_fee": 28125
+      },
+      "course_content": {
+        "core": "Level 2 (SKM Certificate in Food Preparation and Production) Hygiene, Kitchen Safety and food Handling Cooking Technique Stock, soups and hot sauce production Main course production Appetiser Production Rice and Farinaceous Production Breakfast Production Dessert Production Catering set-up activities Dessert Production Level 3 (SKM Certificate in Food Preparation and Production) Hygiene, safety and food handling Food Production Quality and Quality Control Catering Activities Coordination Supervisory Administrative Coordination Level 4 (C & G Certificate in Food Preparation and Culinary Arts) Food Production Hygiene, Safety and Health Administration Menu Implementation Food Production Quality Assurance Monitoring Food Production Cost Control Food Production Daily Operations Food Production Staff Development Kitchen Equipment Maintenance Monitoring",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {},
+      "course": "Culinary Arts"
+    },
+    {
+      "program_name": "SKM Certificate in Event Management Coordination + C & G Diploma in Food and Beverage",
+      "field_of_study": "Hospitality and Services",
+      "location": "Berjaya TVET, KL City Centre",
+      "intakes": [
+        "Feb",
+        "May",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "N/A",
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 165,
+        "tuition_fee": 13500
+      },
+      "course_content": {
+        "core": "Level 3 (SKM Certificate in Event Management Coordination) CO1 FRONT OFFICE TELEPHONE SERVICES\nCO2 FRONT DESK OPERATION\nCO3 CONCIERGE SERVICES\nC04 GUEST SERVICE OPERATION",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {},
+      "course": "Event Management"
+    },
+    {
+      "program_name": "SKM Certificate in Front Office Operation + C & G Diploma in Food and Beverage",
+      "field_of_study": "Hospitality and Services",
+      "location": "Berjaya TVET, KL City Centre",
+      "intakes": [
+        "Feb",
+        "May",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "N/A",
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 450,
+        "resource_fee": 165,
+        "tuition_fee": 13500
+      },
+      "course_content": {
+        "core": "Level 3 CO1 FRONT OFFICE TELEPHONE SERVICES\nCO2 FRONT DESK OPERATION\nCO3 CONCIERGE SERVICES\nC04 GUEST SERVICE OPERATION",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {},
+      "course": "Hospitality Management"
+    }
+  ]
 }

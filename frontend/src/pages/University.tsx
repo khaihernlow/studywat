@@ -15,6 +15,15 @@ import { useProgramListsApi } from '@/services/programLists';
 import type { CreateProgramListDto, UpdateProgramListDto } from '@/services/programLists';
 import { useInstitutionsApi } from '@/services/institutionsApi';
 
+// Add a helper to map course slugs to labels
+function getCourseLabelsFromSlugs(slugs: string[], sections: { label: string; courses: { label: string; value: string; description: string }[] }[]): string[] {
+  const allCourses = sections.flatMap(s => s.courses);
+  return slugs.map(slug => {
+    const found = allCourses.find(c => c.value === slug);
+    return found ? found.label : slug;
+  });
+}
+
 export default function Home() {
   const { setTitle } = usePageTitle();
   const { user } = useAuth();
@@ -65,8 +74,20 @@ export default function Home() {
   const [activeList, setActiveList] = useState<any | null>(null);
 
   const { listCountries, listInstitutionNames, listInstitutions } = useInstitutionsApi();
-  const { listPrograms, getProgramsByIds } = useProgramsApi();
+  const { listPrograms, getProgramsByIds, getFieldOfStudyOptions } = useProgramsApi();
   const { listByUser, create, update, delete: deleteList } = useProgramListsApi();
+
+  // Add state to store the sections from FieldOfStudyFilterPopover
+  const [fieldOfStudySections, setFieldOfStudySections] = useState<any[]>([]);
+  const [fieldOfStudyOptionsLoading, setFieldOfStudyOptionsLoading] = useState(true);
+
+  // Fetch field of study options once on mount
+  useEffect(() => {
+    setFieldOfStudyOptionsLoading(true);
+    getFieldOfStudyOptions().then(data => {
+      setFieldOfStudySections(data.sections);
+    }).finally(() => setFieldOfStudyOptionsLoading(false));
+  }, [getFieldOfStudyOptions]);
 
   // Fetch filter options on mount
   useEffect(() => {
@@ -114,8 +135,10 @@ export default function Home() {
       return;
     }
     setLoadingPrograms(true);
+    // Map selected slugs to labels for the API
+    const selectedCourseLabels = getCourseLabelsFromSlugs(fieldOfStudyCourses, fieldOfStudySections);
     listPrograms({
-      field_of_study: fieldOfStudyCourses[0],
+      course: selectedCourseLabels.length ? selectedCourseLabels : undefined,
       institution_name: universityFilter.length > 0 ? universityFilter : undefined,
       institution_country: countryFilter[0],
       institution_type: typeFilter[0],
@@ -126,7 +149,7 @@ export default function Home() {
       setPrograms(res.items);
       setTotal(res.total);
     }).finally(() => setLoadingPrograms(false));
-  }, [fieldOfStudyCourses, typeFilter, universityFilter, countryFilter, currentPage, pageSize, activeList, sortOrder, listPrograms]);
+  }, [fieldOfStudyCourses, typeFilter, universityFilter, countryFilter, currentPage, pageSize, activeList, sortOrder, listPrograms, fieldOfStudySections]);
 
   const fetchLists = async () => {
     if (user?.id) {
@@ -254,6 +277,8 @@ export default function Home() {
             selectedCourses={fieldOfStudyCourses}
             onChange={setFieldOfStudyCourses}
             resetSignal={resetSignal}
+            sections={fieldOfStudySections}
+            loading={fieldOfStudyOptionsLoading}
           />
           <FilterPopover
             title="University"

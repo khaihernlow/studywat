@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://upload.wikimedia.org/wikipedia/commons/b/bd/RUMC_Facade.jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Science in Medical Informatics",
-      "field_of_study": "Medical Technology",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "RCSI & UCD Malaysia Campus, Penang",
       "intakes": [
         "Sep"
@@ -73,11 +76,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Medical Technology"
     },
     {
       "program_name": "Bachelor of Medicine, Bachelor of Surgery, Bachelor of Obstetrics (MB BCH BAO) (2.5 + 2.5) with Royal College of Surgeons and University College Dublin, Ireland",
-      "field_of_study": "Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "RCSI & UCD Malaysia Campus, Penang",
       "intakes": [
         "Sep"
@@ -430,11 +434,12 @@
             "text": "ATAR 93 with average of 90% or the equivalent of B in any 3 subjects : Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
           }
         ]
-      }
+      },
+      "course": "Medicine"
     },
     {
       "program_name": "Pre-Medical Foundation",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "RCSI & UCD Malaysia Campus, Penang",
       "intakes": [
         "Sep"
@@ -615,11 +620,12 @@
             "text": "80 ATAR provided the subjects include: -Biology -Chemistry -Mathematics or Physics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "RCSI & UCD Malaysia Campus, Penang",
       "intakes": [
         "Jul",
@@ -708,7 +714,8 @@
             "text": "B4 in Biology, Chemistry, Physics or Mathematics or Advanced Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

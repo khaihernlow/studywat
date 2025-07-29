@@ -4,10 +4,13 @@
     "institution_type": "Public",
     "world_rank": 528,
     "malaysia_rank": null,
+    "institution_images": [
+        "https://www.essex.ac.uk/-/media/header-images/accommodation/the-copse-accommodation-landscape-1500x825.jpg?h=825&w=1500&la=en&hash=77E9E0C4F9C16E379932E5011316BDA4"
+    ],
     "programs": [
         {
             "program_name": "BBA Business Administration [MCKL Diploma Pathway]",
-            "field_of_study": "Business Administration",
+            "field_of_study": "Business",
             "location": "Colchester Campus",
             "intakes": [
                 "Oct"
@@ -30,19 +33,22 @@
             },
             "program_type": "diploma",
             "entry_requirements_processed": {
-                "Diploma": {
-                    "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
-                    "min_gp": 3.0,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Diploma": [
+                    {
+                        "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
+                        "min_gp": 3.0,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Business Administration"
         },
         {
             "program_name": "BSc Business and Analytics [MCKL Diploma Pathway]",
-            "field_of_study": "Business and Management",
+            "field_of_study": "Business",
             "location": "Colchester Campus",
             "intakes": [
                 "Oct"
@@ -65,19 +71,22 @@
             },
             "program_type": "diploma",
             "entry_requirements_processed": {
-                "Diploma": {
-                    "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
-                    "min_gp": 3.0,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Diploma": [
+                    {
+                        "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
+                        "min_gp": 3.0,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Business and Management"
         },
         {
             "program_name": "BSc Computer Science [MCKL Diploma Pathway]",
-            "field_of_study": "Computer Science",
+            "field_of_study": "Computing and IT",
             "location": "Colchester Campus",
             "intakes": [
                 "Oct"
@@ -100,19 +109,22 @@
             },
             "program_type": "diploma",
             "entry_requirements_processed": {
-                "Diploma": {
-                    "raw": "Completed the MCKL Diploma in Computer Science and the SQA Advanced Diploma in Computing: Software Development with minimum CGPA of 3.00.",
-                    "min_gp": 3.0,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Diploma": [
+                    {
+                        "raw": "Completed the MCKL Diploma in Computer Science and the SQA Advanced Diploma in Computing: Software Development with minimum CGPA of 3.00.",
+                        "min_gp": 3.0,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Computer Science"
         },
         {
             "program_name": "BSc International Business and Entrepreneurship [MCKL Diploma Pathway]",
-            "field_of_study": "Entrepreneurship",
+            "field_of_study": "Business",
             "location": "Colchester Campus",
             "intakes": [
                 "Oct"
@@ -135,19 +147,22 @@
             },
             "program_type": "diploma",
             "entry_requirements_processed": {
-                "Diploma": {
-                    "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
-                    "min_gp": 3.0,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Diploma": [
+                    {
+                        "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
+                        "min_gp": 3.0,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Entrepreneurship"
         },
         {
             "program_name": "BSc Computer Games [MCKL Diploma Pathway]",
-            "field_of_study": "Information Technology (IT)",
+            "field_of_study": "Computing and IT",
             "location": "Colchester Campus",
             "intakes": [
                 "Oct"
@@ -170,19 +185,22 @@
             },
             "program_type": "diploma",
             "entry_requirements_processed": {
-                "Diploma": {
-                    "raw": "Completed the MCKL Diploma in Computer Science and the SQA Advanced Diploma in Computing: Software Development with minimum CGPA of 3.00.",
-                    "min_gp": 3.0,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Diploma": [
+                    {
+                        "raw": "Completed the MCKL Diploma in Computer Science and the SQA Advanced Diploma in Computing: Software Development with minimum CGPA of 3.00.",
+                        "min_gp": 3.0,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Information Technology (IT)"
         },
         {
             "program_name": "BSc Artificial Intelligence [MCKL Diploma Pathway]",
-            "field_of_study": "Information Technology (IT)",
+            "field_of_study": "Computing and IT",
             "location": "Colchester Campus",
             "intakes": [
                 "Oct"
@@ -205,19 +223,22 @@
             },
             "program_type": "diploma",
             "entry_requirements_processed": {
-                "Diploma": {
-                    "raw": "Completed the MCKL Diploma in Computer Science and the SQA Advanced Diploma in Computing: Software Development with minimum CGPA of 3.00.",
-                    "min_gp": 3.0,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Diploma": [
+                    {
+                        "raw": "Completed the MCKL Diploma in Computer Science and the SQA Advanced Diploma in Computing: Software Development with minimum CGPA of 3.00.",
+                        "min_gp": 3.0,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Information Technology (IT)"
         },
         {
             "program_name": "BSc Data Science and Analytics [MCKL Diploma Pathway]",
-            "field_of_study": "Information Technology (IT)",
+            "field_of_study": "Computing and IT",
             "location": "Colchester Campus",
             "intakes": [
                 "Oct"
@@ -240,19 +261,22 @@
             },
             "program_type": "diploma",
             "entry_requirements_processed": {
-                "Diploma": {
-                    "raw": "Completed the MCKL Diploma in Computer Science and the SQA Advanced Diploma in Computing: Software Development with minimum CGPA of 3.00.",
-                    "min_gp": 3.0,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Diploma": [
+                    {
+                        "raw": "Completed the MCKL Diploma in Computer Science and the SQA Advanced Diploma in Computing: Software Development with minimum CGPA of 3.00.",
+                        "min_gp": 3.0,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Information Technology (IT)"
         },
         {
             "program_name": "BSc International Business and Finance [MCKL Diploma Pathway]",
-            "field_of_study": "International Business",
+            "field_of_study": "Business",
             "location": "Colchester Campus",
             "intakes": [
                 "Oct"
@@ -275,19 +299,22 @@
             },
             "program_type": "diploma",
             "entry_requirements_processed": {
-                "Diploma": {
-                    "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
-                    "min_gp": 3.0,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Diploma": [
+                    {
+                        "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
+                        "min_gp": 3.0,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "International Business"
         },
         {
             "program_name": "BSc Business Administration and Supply Chain Management [MCKL Diploma Pathway]",
-            "field_of_study": "Logistics and Supply Chain Management",
+            "field_of_study": "Business",
             "location": "Colchester Campus",
             "intakes": [
                 "Oct"
@@ -310,19 +337,22 @@
             },
             "program_type": "diploma",
             "entry_requirements_processed": {
-                "Diploma": {
-                    "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
-                    "min_gp": 3.0,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Diploma": [
+                    {
+                        "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
+                        "min_gp": 3.0,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Logistics and Supply Chain Management"
         },
         {
             "program_name": "BSc Marketing [MCKL Diploma Pathway]",
-            "field_of_study": "Marketing",
+            "field_of_study": "Business",
             "location": "Colchester Campus",
             "intakes": [
                 "Oct"
@@ -345,15 +375,18 @@
             },
             "program_type": "diploma",
             "entry_requirements_processed": {
-                "Diploma": {
-                    "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
-                    "min_gp": 3.0,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Diploma": [
+                    {
+                        "raw": "Completed the MCKL Diploma in Digital Business, Digital Marketing and the SQA Advanced Diploma Business with minimum CGPA of 3.00.",
+                        "min_gp": 3.0,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "Marketing"
         }
     ]
 }

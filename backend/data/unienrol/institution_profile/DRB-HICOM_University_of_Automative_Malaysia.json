@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.en.dhuautomotive.edu.my/wp-content/uploads/2025/02/full-campus-pekan-scaled.jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -154,11 +157,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "BBA (Hons) in Business Information",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -267,11 +271,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "BBA (Hons) in Enterprise Risk Management",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -413,11 +418,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 3,
@@ -570,11 +576,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Islamic Banking & Finance",
-      "field_of_study": "Islamic Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 3,
@@ -665,11 +672,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Islamic Finance"
     },
     {
       "program_name": "BBA (Hons) in Operation Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -770,11 +778,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "BBA (Hons) in Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -920,11 +929,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "BBA (Hons) in Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -1077,11 +1087,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering Technology (Manufacturing) with Honours",
-      "field_of_study": "Manufacturing Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 3,
@@ -1192,11 +1203,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Manufacturing Engineering"
     },
     {
       "program_name": "BBA (Hons) in Marketing Management",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -1331,11 +1343,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering Technology (Material) with Honours",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 3,
@@ -1446,11 +1459,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering Technology with Honours",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 3,
@@ -1561,11 +1575,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering Technology (Quality System) with Honours",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 3,
@@ -1676,11 +1691,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering Technology (Automotive Service Technology) with Honours",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -1793,11 +1809,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering Technology (Mechatronic) With Honours",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -1910,11 +1927,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering Technology (Industrial Design) with Honours",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -2027,11 +2045,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor in Occupational Safety and Health",
-      "field_of_study": "Occupational Safety & Health",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 3,
@@ -2185,11 +2204,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Occupational Safety & Health"
     },
     {
       "program_name": "BBA (Hons) in Retail Management",
-      "field_of_study": "Retail Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -2331,11 +2351,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Retail Management"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -2441,11 +2462,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Automotive Technology",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -2534,11 +2556,12 @@
             "text": "3 Credits including Mathematic and any subject in Science/Technical/Vocational and passed in English."
           }
         ]
-      }
+      },
+      "course": "Automotive Technology"
     },
     {
       "program_name": "Diploma in Automotive Engineering Technology (Motorsport)",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -2668,11 +2691,12 @@
             "text": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
           }
         ]
-      }
+      },
+      "course": "Automotive Technology"
     },
     {
       "program_name": "Diploma in Entrepreneurship",
-      "field_of_study": "Entrepreneurship",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 2,
@@ -2728,11 +2752,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Entrepreneurship"
     },
     {
       "program_name": "Diploma of Engineering Technology in Quality System",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 2,
@@ -2891,11 +2916,12 @@
             "text": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Diploma in Material Engineering Technology",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 2,
@@ -3054,11 +3080,12 @@
             "text": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 2,
@@ -3141,11 +3168,12 @@
             "text": "3Bs including Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Islamic Banking & Finance",
-      "field_of_study": "Islamic Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 2,
@@ -3206,11 +3234,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Islamic Finance"
     },
     {
       "program_name": "Diploma in Procurement Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -3286,11 +3315,12 @@
             "text": "Grade B in 3 relevant subjects."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Enterprise Resource Planning",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -3366,11 +3396,12 @@
             "text": "Grade B in 3 relevant subjects."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Diploma in Manufacturing Engineering Technology",
-      "field_of_study": "Manufacturing Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -3486,11 +3517,12 @@
             "text": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
           }
         ]
-      }
+      },
+      "course": "Manufacturing Engineering"
     },
     {
       "program_name": "Diploma in Mechanical Engineering Technology",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 2,
@@ -3588,11 +3620,12 @@
             "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Diploma in Vehicle Assembly Management",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -3743,11 +3776,12 @@
             "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Diploma in Vehicle Inspection",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -3868,11 +3902,12 @@
             "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Diploma in Mechatronics Engineering Technology",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -3987,11 +4022,12 @@
             "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "Diploma in Occupational Safety and Health",
-      "field_of_study": "Occupational Safety & Health",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4121,11 +4157,12 @@
             "text": "Pass with 3 credits including Mathematics or 1 science subject (Biology/Physics/Chemistry/General Science) AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Occupational Safety & Health"
     },
     {
       "program_name": "Diploma in Automotive Management System",
-      "field_of_study": "Retail Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4241,11 +4278,12 @@
             "text": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
           }
         ]
-      }
+      },
+      "course": "Retail Management"
     },
     {
       "program_name": "Diploma in Automotive Retail Management",
-      "field_of_study": "Retail Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4293,11 +4331,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Retail Management"
     },
     {
       "program_name": "Diploma in Automotive Parts Management",
-      "field_of_study": "Retail Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4345,11 +4384,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Retail Management"
     },
     {
       "program_name": "Foundation in Business (Accounting)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4440,11 +4480,12 @@
             "text": "3 credits (B6) including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4507,11 +4548,12 @@
             "text": "3B."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Engineering",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4600,11 +4642,12 @@
             "text": "Pass in Unified Examination Certificate (UEC) with at least a B grade in 3 subjects including Mathematics and any Science subject."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Master of Science in Technopreneurship",
-      "field_of_study": "Entrepreneurship",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 1,
@@ -4622,11 +4665,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Entrepreneurship"
     },
     {
       "program_name": "Master in Engineering Technology",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4649,11 +4693,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Master of Science in Industrial Design",
-      "field_of_study": "Industrial Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 1,
@@ -4674,11 +4719,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Industrial Design"
     },
     {
       "program_name": "Master of Science in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 1,
@@ -4696,11 +4742,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master in Takaful",
-      "field_of_study": "Islamic Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 1,
@@ -4721,11 +4768,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Islamic Finance"
     },
     {
       "program_name": "Master in Islamic Banking",
-      "field_of_study": "Islamic Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "DHU, Pekan",
       "intakes": [],
       "program_duration_years": 1,
@@ -4746,11 +4794,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Islamic Finance"
     },
     {
       "program_name": "Master of Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4772,11 +4821,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Master in Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4796,11 +4846,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Management"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4824,11 +4875,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Science in Project Management",
-      "field_of_study": "Project Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4850,11 +4902,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Project Management"
     },
     {
       "program_name": "PhD in Engineering",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4877,11 +4930,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "PhD in Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4903,11 +4957,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Management"
     },
     {
       "program_name": "Postgraduate Certificate in Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4929,11 +4984,12 @@
         "others": ""
       },
       "program_type": "certificate",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Postgraduate Certificate in Project Management",
-      "field_of_study": "Project Management",
+      "field_of_study": "Business",
       "location": "DHU, Pekan",
       "intakes": [
         "Oct"
@@ -4955,7 +5011,8 @@
         "others": ""
       },
       "program_type": "certificate",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Project Management"
     }
   ]
 }

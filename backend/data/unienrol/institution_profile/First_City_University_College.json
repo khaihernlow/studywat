@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/First+City+University+College/FCUC%2C+Bandar+Utama/Campus_and_Surroundings/01a_FCUC%2C_Bandar_Utama_Main_Building.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Intensive English Programme",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -29,7 +32,8 @@
         "others": ""
       },
       "program_type": "language_prep",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "English"
     },
     {
       "program_name": "BSc (Hons) Accounting",
@@ -208,11 +212,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BA (Hons) Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -370,11 +375,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Computer Science (Intelligent Systems) (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -692,11 +698,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BA (Hons) Fashion Marketing",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -894,11 +901,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -1000,11 +1008,12 @@
             "text": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA (Hons) Furniture and Product Design",
-      "field_of_study": "Industrial Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -1111,11 +1120,12 @@
             "text": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
           }
         ]
-      }
+      },
+      "course": "Industrial Design"
     },
     {
       "program_name": "Bachelor of Information Systems (Hons) in Business Management",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -1281,11 +1291,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Bachelor of Information Technology (Networking and Security)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -1451,11 +1462,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BA (Hons) Interior Architecture and Design",
-      "field_of_study": "Interior Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -1557,11 +1569,12 @@
             "text": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
           }
         ]
-      }
+      },
+      "course": "Interior Architecture"
     },
     {
       "program_name": "BA (Hons) Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -1719,11 +1732,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BA (Hons) Mass Communication",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -1884,11 +1898,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Software Engineering (Honours)",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -2117,11 +2132,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -2194,11 +2210,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -2245,11 +2262,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -2371,11 +2389,12 @@
             "text": "Pass with 3Bs including Mathematics and at least a pass in English."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -2450,11 +2469,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Diploma in Mass Communication",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -2543,11 +2563,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Foundation in Business Administration (Accounting)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -2628,11 +2649,12 @@
             "text": "min. 4 credits including English, Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Art & Design",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -2715,11 +2737,12 @@
             "text": "Minimum 4 Bs (including English)."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business Administration",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -2814,11 +2837,12 @@
             "text": "Minimum 4 Bs (inclusive of English)."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Computer Science & Technology (Software Engineering)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -2917,11 +2941,12 @@
             "text": "min. 4 credits including Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Computer Science & Technology (IT Pathway)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -3007,11 +3032,12 @@
             "text": "Minimum 4Bs including English, Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Master of Design Management",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -3053,11 +3079,12 @@
             "text": "A Bachelor’s degree in Art & Design or related field with minimum CGPA 2.67.  Bachelor’s degree in Art & Design or related field with CGPA 2.00 - 2.66 and a minimum of 3 years working experience in relevant field"
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -3095,11 +3122,12 @@
             "text": "A bachelor’s degree with a minimum CGPA of 2.50 or equivalent."
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Software Engineering",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "First City, Bandar Utama",
       "intakes": [
         "Jan",
@@ -3138,7 +3166,8 @@
             "text": "Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.75.  Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment process or Bachelor’s Degree or its equivalent, with CGPA less than 2.50, with a minimum of 5 years working experience in a relevant field may be accepted"
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     }
   ]
 }

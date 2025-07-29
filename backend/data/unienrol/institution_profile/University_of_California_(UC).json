@@ -4,10 +4,13 @@
     "institution_type": "Public",
     "world_rank": null,
     "malaysia_rank": null,
+    "institution_images": [
+        "https://theredpen.in/wp-content/uploads/2022/06/Hero-Image-Final.jpg"
+    ],
     "programs": [
         {
             "program_name": "UC Irvine Degree for various Majors with UBridge Transfer Programme (Year 3 Entry with TAG)",
-            "field_of_study": "American Degree Transfer Programme",
+            "field_of_study": "International Pre-University",
             "location": "UC Irvine",
             "intakes": [
                 "Aug"
@@ -30,19 +33,22 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "Others": {
-                    "raw": "Complete 60 UC transferable semester units with a minimum GPA 3.2 (GPA 3.4 for some) for TAG. The GPA for admission can be significantly higher due to the applicant pool. Along with math and English, and your major coursework, you are required to complete four courses in at least two of the following areas: Art/Humanities | Social/Behavioral Sciences | Physical/Biological Sciences. .  First two-years in Santa Monica College under the UBridge Transfer Programme",
-                    "min_gp": 3.2,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Others": [
+                    {
+                        "raw": "Complete 60 UC transferable semester units with a minimum GPA 3.2 (GPA 3.4 for some) for TAG. The GPA for admission can be significantly higher due to the applicant pool. Along with math and English, and your major coursework, you are required to complete four courses in at least two of the following areas: Art/Humanities | Social/Behavioral Sciences | Physical/Biological Sciences. .  First two-years in Santa Monica College under the UBridge Transfer Programme",
+                        "min_gp": 3.2,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "American Degree Transfer Programme"
         },
         {
             "program_name": "UC Santa Barbara Degree for various Majors with UBridge Transfer Programme (Year 3 Entry with TAG)",
-            "field_of_study": "American Degree Transfer Programme",
+            "field_of_study": "International Pre-University",
             "location": "UC Santa Barbara",
             "intakes": [
                 "Aug"
@@ -65,19 +71,22 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "Others": {
-                    "raw": "Complete 60 UC transferable semester units with a minimum GPA 3.2 (GPA 3.4 for some) for TAG. The GPA for admission can be significantly higher due to the applicant pool. Along with math and English, and your major coursework, you are required to complete four courses in at least two of the following areas: Art/Humanities | Social/Behavioral Sciences | Physical/Biological Sciences. .  First two-years in Santa Monica College under the UBridge Transfer Programme",
-                    "min_gp": 3.2,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Others": [
+                    {
+                        "raw": "Complete 60 UC transferable semester units with a minimum GPA 3.2 (GPA 3.4 for some) for TAG. The GPA for admission can be significantly higher due to the applicant pool. Along with math and English, and your major coursework, you are required to complete four courses in at least two of the following areas: Art/Humanities | Social/Behavioral Sciences | Physical/Biological Sciences. .  First two-years in Santa Monica College under the UBridge Transfer Programme",
+                        "min_gp": 3.2,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "American Degree Transfer Programme"
         },
         {
             "program_name": "UCLA Degree for various Majors with UBridge Transfer Programme (Year 3 Entry with Priority Admission)",
-            "field_of_study": "American Degree Transfer Programme",
+            "field_of_study": "International Pre-University",
             "location": "UCLA",
             "intakes": [
                 "Aug"
@@ -100,19 +109,22 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "Others": {
-                    "raw": "Complete 60 UC transferable semester units with a minimum GPA 3.2 (GPA 3.4 for some) for TAG. The GPA for admission can be significantly higher due to the applicant pool. Along with math and English, and your major coursework, you are required to complete four courses in at least two of the following areas: Art/Humanities | Social/Behavioral Sciences | Physical/Biological Sciences. .  First two-years in Santa Monica College under the UBridge Transfer Programme",
-                    "min_gp": 3.2,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Others": [
+                    {
+                        "raw": "Complete 60 UC transferable semester units with a minimum GPA 3.2 (GPA 3.4 for some) for TAG. The GPA for admission can be significantly higher due to the applicant pool. Along with math and English, and your major coursework, you are required to complete four courses in at least two of the following areas: Art/Humanities | Social/Behavioral Sciences | Physical/Biological Sciences. .  First two-years in Santa Monica College under the UBridge Transfer Programme",
+                        "min_gp": 3.2,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "American Degree Transfer Programme"
         },
         {
             "program_name": "UC Davis Degree for various Majors with UBridge Transfer Programme (Year 3 Entry with TAG)",
-            "field_of_study": "American Degree Transfer Programme",
+            "field_of_study": "International Pre-University",
             "location": "UC Davis",
             "intakes": [
                 "Aug"
@@ -135,15 +147,18 @@
             },
             "program_type": "bachelor",
             "entry_requirements_processed": {
-                "Others": {
-                    "raw": "Complete 60 UC transferable semester units with a minimum GPA 3.2 (GPA 3.4 for some) for TAG. The GPA for admission can be significantly higher due to the applicant pool. Along with math and English, and your major coursework, you are required to complete four courses in at least two of the following areas: Art/Humanities | Social/Behavioral Sciences | Physical/Biological Sciences. .  First two-years in Santa Monica College under the UBridge Transfer Programme",
-                    "min_gp": 3.2,
-                    "min_subjects": null,
-                    "min_grade": null,
-                    "required_credits": [],
-                    "related_field": false
-                }
-            }
+                "Others": [
+                    {
+                        "raw": "Complete 60 UC transferable semester units with a minimum GPA 3.2 (GPA 3.4 for some) for TAG. The GPA for admission can be significantly higher due to the applicant pool. Along with math and English, and your major coursework, you are required to complete four courses in at least two of the following areas: Art/Humanities | Social/Behavioral Sciences | Physical/Biological Sciences. .  First two-years in Santa Monica College under the UBridge Transfer Programme",
+                        "min_gp": 3.2,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": false
+                    }
+                ]
+            },
+            "course": "American Degree Transfer Programme"
         }
     ]
 }

@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 7311,
   "malaysia_rank": 51,
+  "institution_images": [
+    "https://edufair.fsi.com.my/img/sponsor/56/cover_1678929953.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Association of Chartered Certified Accountants (ACCA)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "QIU, Ipoh",
       "intakes": [
         "Jan",
@@ -153,11 +156,12 @@
             "text": "Foundation qualification with a minimum CGPA of 2.50.  SPM-level or equivalent: 3 credits including Mathematics"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Accountancy (Hons)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -325,11 +329,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Science (Hons) Actuarial Sciences",
-      "field_of_study": "Actuarial Science",
+      "field_of_study": "Business",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -456,11 +461,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Actuarial Science"
     },
     {
       "program_name": "Bachelor of Biomedical Sciences (Hons)",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -578,11 +584,12 @@
             "text": "Minimum CGPA 2.50 with minimum GPA 2.33 in 2 of the following subjects: Biology, Physics/Mathematics, Chemistry."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Biotechnology",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -739,11 +746,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent: 3 credits in\n Mathematics\n1 science subject\n1 any other subject"
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Bachelor Of Business Administration (Hons)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -825,11 +833,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Corporate Communication (Hons)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -936,11 +945,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons) (BCS)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -1098,11 +1108,12 @@
             "text": "Average of 55% in 6 subjects.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons) 2+2",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -1331,11 +1342,12 @@
             "text": "Pass with a minimum CGPA of 2.00.  Credit at SPM level or equivalent in Additional Mathematics; or Mathematics and one subject in Science, Technology or Engineering"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Culinary Arts (Hons)",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -1398,11 +1410,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Bachelor of Early Childhood Education (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -1475,11 +1488,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Electronics Technology with Honors",
-      "field_of_study": "Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -1582,11 +1596,12 @@
             "text": "Pass Foundation in any IPTA / IPTS /permitted institutions to conduct foundation programmes with CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Electronic Engineering"
     },
     {
       "program_name": "Bachelor Of Arts (Hons) Teaching Of English As A Second Language",
-      "field_of_study": "English (Teaching)",
+      "field_of_study": "Education",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -1700,11 +1715,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "English (Teaching)"
     },
     {
       "program_name": "Bachelor of Environmental Technology (Hons)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -1824,11 +1840,12 @@
             "text": "Pass Foundation in Science / Matriculation / Asasi with a minimum CGPA pass of 2.0."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Finance (Hons)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -2006,11 +2023,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor in Food Science with Management (Honours)",
-      "field_of_study": "Food Science",
+      "field_of_study": "Science and Mathematics",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -2158,11 +2176,12 @@
             "text": "Pass with a minimum of Grade C (GPA 2.00) in any two (2) subjects including one (1) Science subject."
           }
         ]
-      }
+      },
+      "course": "Food Science"
     },
     {
       "program_name": "Bachelor of Hospitality Management (Hons)",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -2225,11 +2244,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -2352,11 +2372,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Mass Communication (Hons) Journalism",
-      "field_of_study": "Journalism",
+      "field_of_study": "Communication and Media Studies",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -2459,11 +2480,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Journalism"
     },
     {
       "program_name": "Bachelor of Mass Communication (Advertising)",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -2570,11 +2592,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Mechatronics Engineering with Honours",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -2688,11 +2711,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
-      "field_of_study": "Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "QIU, Ipoh",
       "intakes": [
         "Oct"
@@ -2900,11 +2924,12 @@
             "text": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
           }
         ]
-      }
+      },
+      "course": "Medicine"
     },
     {
       "program_name": "Bachelor of Pharmacy (Hons)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "QIU, Ipoh",
       "intakes": [
         "Oct"
@@ -3053,11 +3078,12 @@
             "text": "Pass with CGPA 3.00 with minimum Grade B in Chemistry.  Malaysian applicants shall be required to attain minimum Grade C in the 2 subjects below at SPM level or its equivalent.\nBahasa Malaysia\nEnglish Language\nMUET Band 3 upon graduation"
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Bachelor Of Psychology (Hons)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -3210,11 +3236,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Special Needs Education (Hons)",
-      "field_of_study": "Special Needs Education",
+      "field_of_study": "Education",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -3284,11 +3311,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Special Needs Education"
     },
     {
       "program_name": "Diploma in Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -3339,11 +3367,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -3407,11 +3436,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Early Childhood Education (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -3477,11 +3507,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Environmental Techonology",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -3536,11 +3567,12 @@
             "text": "1 Principal Passes."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -3646,11 +3678,12 @@
             "text": "1 Principal Passes."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -3751,11 +3784,12 @@
             "text": "1 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Mechatronics Engineering",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -3894,11 +3928,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "ACCA Foundation in Accountancy",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -3989,11 +4024,12 @@
             "text": "A pass in UEC with min. Grade B in 5 subjects including Mathematics and English.."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -4069,11 +4105,12 @@
             "text": "Minimum Grade B in Three (3) subjects.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of TESL\nBachelor of Communication\nBachelor of Psychology"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -4143,11 +4180,12 @@
             "text": "Minumum Grade B in Three (3) subjects.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of Accountancy\nBachelor of Finance"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -4285,11 +4323,12 @@
             "text": "Pass with minimum grade B in three (3) subjects including Mathematics and two (2) other science subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (MBBS & Pharmacy)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -4394,11 +4433,12 @@
             "text": "Pass with minimum grade B4 in three (3) subjects including Biology, Chemistry, Physics or (Mathematics/Additional Mathematics)."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Engineering)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -4486,11 +4526,12 @@
             "text": "Pass with minimum grade B in three (3) subjects including Mathematics, Physics and one (1) other subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Allied Health)",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -4595,11 +4636,12 @@
             "text": "Pass with minimum B4 in Three (3) subjects including Biology, Chemistry and Physics / Mathematics / Additional Mathematics."
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "QIU, Ipoh",
       "intakes": [
         "Feb",
@@ -4646,11 +4688,12 @@
             "text": "Bachelor 's Degree or other equivalent qualifications without the minimum of CGPA of 2.5 can be accepted subject to having at least 5 years of working experience in the relevant field."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Master of Business Administration (ODL)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "QIU, Ipoh",
       "intakes": [
         "Feb",
@@ -4718,7 +4761,8 @@
             "text": "i. A Bachelor’s degree in related fields* with a minimum CGPA of 2.50 as accepted by the QIU Senate; OR ii. A Bachelor’s degree in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a rigorous internal assessment; OR iii. A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the QIU Senate and with relevant working experience, subject to a rigorous internal assessment; OR iv. A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the QIU Senate and without relevant working experience, subject to passing pre-requisite courses**; OR v. Other equivalent/related qualifications to a Bachelor’s degree recognised by the Malaysian Government..  A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the QIU Senate and with relevant working experience, subject to a rigorous internal assessment"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Master of Education (M.ED.)",
@@ -4787,11 +4831,12 @@
             "text": "Applicants without a Bachelor's Degree in a relative field with a minimum CGPA 2.5 or its equivalent can apply through APEL (A). .  The following conditions apply:\nAll applications are subject to appropriate APEL assessments conducted by the Malaysian Qualifications Agency (MQA).\nOnly Malaysian nationals can apply for the APEL (A) provision."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Arts in Teaching English as a Second Language (M.A. TESL)",
-      "field_of_study": "English (Teaching)",
+      "field_of_study": "Education",
       "location": "QIU, Ipoh",
       "intakes": [
         "Feb",
@@ -4851,11 +4896,12 @@
             "text": "Applicants without a Bachelor's degree in a relative field with a minimum CGPA 2.50 or its equivalent can apply through APEL (A). .  The following conditions apply:\nAll applications are subject to appropriate APEL assessments conducted by Malaysian Qualifications Agency (MQA).\nOnly Malaysian nationals can apply for the APEL (A) provision."
           }
         ]
-      }
+      },
+      "course": "English (Teaching)"
     },
     {
       "program_name": "Master of Science (By Research)",
-      "field_of_study": "General Sciences (Postgraduate)",
+      "field_of_study": "Science and Mathematics",
       "location": "QIU, Ipoh",
       "intakes": [
         "Jan",
@@ -4899,11 +4945,12 @@
             "text": "CGPA 2.75 for a Bachelor's Degree in a related field."
           }
         ]
-      }
+      },
+      "course": "General Sciences (Postgraduate)"
     },
     {
       "program_name": "Master in Pharmaceutical Sciences",
-      "field_of_study": "Pharmaceutical Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "QIU, Ipoh",
       "intakes": [
         "Jan",
@@ -4952,11 +4999,12 @@
             "text": "A Bachelor’s degree in the field of Pharmacy or related fields or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted.  Minimum of 5 years of working experience in the relevant field and rigorous internal assessment"
           }
         ]
-      }
+      },
+      "course": "Pharmaceutical Science"
     },
     {
       "program_name": "Doctor of Business Administration (By Coursework with Research)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "QIU, Ipoh",
       "intakes": [
         "Apr",
@@ -5001,11 +5049,12 @@
             "text": "Other qualifications equivalent to a Master's Degree accepted by the Senate:.  Possess at least 3 years of working experiences after the completion of Master's Degree.\nRequired to attend an interview before admission into the programme."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "PhD in Business Administration (By Research)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "QIU, Ipoh",
       "intakes": [
         "Jan",
@@ -5044,7 +5093,8 @@
             "text": "Master's Degree in a relevant field of study accepted b the Senate OR other qualifications equivalent to a Master's Degree accepted by the Senate."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "PhD in Education (By Research)",
@@ -5098,11 +5148,12 @@
             "text": "A bachelor’s degree in the field or related fields with first-class honours and show evidence of related research aptitude to the satisfaction of the Senate; OR Undergo internal assessment; AND Any other requirements of the University.  Bachelor’s degree candidates who are registered for master degree programme may apply to convert to the doctoral degree programs subjected to the following conditions:\nWithin 1 year for full time and within 2 years for part time candidates;\nHaving shown competency and capabilities in conducting research in doctoral-level through rigorous internal evaluation by the University; AND\nApproval of the University Senate."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "PhD in Science (By Research)",
-      "field_of_study": "General Sciences (Postgraduate)",
+      "field_of_study": "Science and Mathematics",
       "location": "QIU, Ipoh",
       "intakes": [
         "Jan",
@@ -5138,11 +5189,12 @@
             "text": "Master's Degree in a relevant field of study accepted by the Senate OR other qualifications equivalent to a Masters Degree accepted by the Senate."
           }
         ]
-      }
+      },
+      "course": "General Sciences (Postgraduate)"
     },
     {
       "program_name": "Doctor of Philosophy in Pharmaceutical Sciences",
-      "field_of_study": "Pharmaceutical Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "QIU, Ipoh",
       "intakes": [
         "Jan",
@@ -5181,7 +5233,8 @@
             "text": "A Master’s degree (Level 7 Malaysian Qualifications Framework, MQF) in Pharmacy or related fields accepted by the HEP or Senate."
           }
         ]
-      }
+      },
+      "course": "Pharmaceutical Science"
     }
   ]
 }

@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/I+System+Colleges/I+System+Kuching/Campus_and_Surroundings/01a_I_System_Kuching_Main_Building.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Automotive- After Sales Service - Level 2",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jun"
@@ -27,11 +30,12 @@
         "others": ""
       },
       "program_type": "vocational",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Automotive Technology"
     },
     {
       "program_name": "Automotive- After Sales Service - Level 3",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jun"
@@ -51,11 +55,12 @@
         "others": ""
       },
       "program_type": "vocational",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Automotive Technology"
     },
     {
       "program_name": "Office Administration Supervision - Level 3",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jun"
@@ -75,11 +80,12 @@
         "others": ""
       },
       "program_type": "vocational",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business Administration"
     },
     {
       "program_name": "Computer Network Services - Level 3",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jun"
@@ -99,11 +105,12 @@
         "others": ""
       },
       "program_type": "vocational",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Computer Science"
     },
     {
       "program_name": "Computer Network Administration - Level 4",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jun"
@@ -123,11 +130,12 @@
         "others": ""
       },
       "program_type": "vocational",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Computer Science"
     },
     {
       "program_name": "Single Phase Electrical Installation & Maintenance - Level 2",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jun"
@@ -147,11 +155,12 @@
         "others": ""
       },
       "program_type": "vocational",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Single Phase Electrical Installation & Maintenance - Level 2",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "I-Systems Colleges Kota Kinabalu",
       "intakes": [
         "Jun"
@@ -171,11 +180,12 @@
         "others": ""
       },
       "program_type": "vocational",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Three Phase Electrical Installation & Maintenance - Level 3",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jun"
@@ -195,11 +205,12 @@
         "others": ""
       },
       "program_type": "vocational",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Information System Administration - Level 4",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jun"
@@ -219,11 +230,12 @@
         "others": ""
       },
       "program_type": "vocational",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Systems"
     },
     {
       "program_name": "Shielded Metal Arc Welding - Level 3",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jun"
@@ -243,11 +255,12 @@
         "others": ""
       },
       "program_type": "vocational",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jun"
@@ -293,11 +306,12 @@
             "text": "3 Credits in any subjects."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Healthcare Management",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jul"
@@ -373,11 +387,12 @@
             "text": "3 Credits in Mathematics or Science (Chemistry/Physic,/Biology/General Science/Applied Science) and 2 other subjects and pass English."
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Diploma In Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "I-Systems Colleges Kuching",
       "intakes": [
         "Jul"
@@ -473,7 +488,8 @@
             "text": "5 Credits in BM or English, Mathematics, Science (Chemistry/Physic,/Biology/General Science/Applied Science) and any 2 subjects and pass English."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     }
   ]
 }

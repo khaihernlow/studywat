@@ -1,0 +1,3086 @@
+{
+  "institution_name": "Falmouth University",
+  "institution_country": "United Kingdom",
+  "institution_type": "Public",
+  "world_rank": 7851,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "BA (Hons) Animation",
+      "field_of_study": "Animation",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  English - Grade C or above\nAudition and portfolio required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  English - Grade C or above\nAudition and portfolio required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Animation Practice 1\nAnimation Practice 2\nUnderpinning 1\nProduction Design\nDesign & Motion\nUnderpinning 2 Animation Practice 1 Animation Practice 2 Underpinning 1 Production Design Design & Motion Underpinning 2 Year two\nModules Year two Planning\nCreate\nUnderpinning 3\nProduction\nPre-production Collaboration\nCritical Proposal Planning Create Underpinning 3 Production Pre-production Collaboration Critical Proposal Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Critical Research\nIdeas and Development\nMajor Pre-production\nProduction\nProfile Critical Research Ideas and Development Major Pre-production Production Profile",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  English - Grade C or above\nAudition and portfolio required"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Audition and portfolio required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Audition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  English - Grade C or above\nAudition and portfolio required"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Audition and portfolio required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 24.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 4.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Audition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Game Animation",
+      "field_of_study": "Animation",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Development Foundations\nDigital Creativity\nGame Animation 1\nReading Games\nMultidisciplinary Teamwork\nGame Animation 2 Development Foundations Digital Creativity Game Animation 1 Reading Games Multidisciplinary Teamwork Game Animation 2 Year two\nModules Year two Game Form and Player Experience\nWorld Building: Pre-production\nGame Animation 3\nWorld Building: Production\nCollaboration Game Form and Player Experience World Building: Pre-production Game Animation 3 World Building: Production Collaboration Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Experience Design\nFuture Skills\nProfessional Portfolio\nFuture of Games\nMajor Collaboration Experience Design Future Skills Professional Portfolio Future of Games Major Collaboration",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Post Production & Visual Effects",
+      "field_of_study": "Animation",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Audio Post-Production Fundamentals\nVideo Post-Production Fundamentals\nVFX Fundamentals\nAudio Post-Production Competency\nVideo Post-Production Competency\nVFX Competency Audio Post-Production Fundamentals Video Post-Production Fundamentals VFX Fundamentals Audio Post-Production Competency Video Post-Production Competency VFX Competency Year two Modules Audio Post-Production Proficiency\nVideo Post-Production Proficiency\nVFX Proficiency 1\nCollaboration Lab 1: Collaborative Project\nIntermediate Post-Production & Visual Effects Project\nVFX Proficiency 2 Audio Post-Production Proficiency Video Post-Production Proficiency VFX Proficiency 1 Collaboration Lab 1: Collaborative Project Intermediate Post-Production & Visual Effects Project VFX Proficiency 2 Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Audio Post-Production Mastery\nVideo Post-Production Mastery\nVFX Mastery\nCollaboration Lab 2: Future Skills\nAdvanced Post-Production & Visual Effects Project Audio Post-Production Mastery Video Post-Production Mastery VFX Mastery Collaboration Lab 2: Future Skills Advanced Post-Production & Visual Effects Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Architecture",
+      "field_of_study": "Architecture",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "typically 112-120 UCAS points, GCSE Mathematics Grade 4 (C).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB including Maths. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "Minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Place\nPeople\nCommunity\nStructure Place People Community Structure Year two\nModules Year two Context\nEnvironment\nHabitation\nPractice Context Environment Habitation Practice Year three\nModules Year three Independent Exploratory Project\nDissertation\nFinal Major Project Independent Exploratory Project Dissertation Final Major Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 112-120 UCAS points, GCSE Mathematics Grade 4 (C).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB including Maths. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Business Management",
+      "field_of_study": "Business and Management",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Market Intelligence\nPresent and Future of Entrepreneurship\nThe Art of Strategy\nWellbeing in Business\nDesign Thinking\nNavigating Uncertainty Market Intelligence Present and Future of Entrepreneurship The Art of Strategy Wellbeing in Business Design Thinking Navigating Uncertainty Year two\nModules Year two Complex Problem-Solving\nHuman Resource Management\nDemonstrating Sustainability\nFinancial Insights\nCollaborative Project: Growth Challenge Complex Problem-Solving Human Resource Management Demonstrating Sustainability Financial Insights Collaborative Project: Growth Challenge Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Creative & Ethical Leadership\nDataLab: Generation, Analysis, Iteration\nGlobal Economies and International Markets\nCrafting Your Future: Professional Practice and Research\nSocial Action Project Creative & Ethical Leadership DataLab: Generation, Analysis, Iteration Global Economies and International Markets Crafting Your Future: Professional Practice and Research Social Action Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Marketing Communications",
+      "field_of_study": "Communication",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Copywriting\nMarketing Communications\nCreative Problem Solving\nProfessional Practice\nMarketing Essentials\nStrategy & Planning Copywriting Marketing Communications Creative Problem Solving Professional Practice Marketing Essentials Strategy & Planning Year two Modules Campaign Creation\nCollaboration Module\nMedia Lab\nConsumer Behaviour Campaign Creation Collaboration Module Media Lab Consumer Behaviour Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Final Year Project\nMarketing Portfolio\nAdvanced Campaign Creation\nEntrepreneurial Practice Final Year Project Marketing Portfolio Advanced Campaign Creation Entrepreneurial Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Computer Science",
+      "field_of_study": "Computer Science",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB including Maths. Please consult our counsellor for further guidance..  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Principles of Computing\nDigital Creativity\nDevelopment Foundations\nData Fundamentals\nIndividual Programming Project\nMultidisciplinary Teamwork Principles of Computing Digital Creativity Development Foundations Data Fundamentals Individual Programming Project Multidisciplinary Teamwork Year two\nModules Year two Complex Problem Solving\nComputational Mathematics\nWeb Technologies\nDistributed Systems\nAlgorithms & Optimisation\nCollaboration Complex Problem Solving Computational Mathematics Web Technologies Distributed Systems Algorithms & Optimisation Collaboration Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Research & Development: Proposal\nAdvanced Topics in Computer Science\nFuture Skills\nResearch & Development: Dissertation\nMajor Collaboration Research & Development: Proposal Advanced Topics in Computer Science Future Skills Research & Development: Dissertation Major Collaboration",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB including Maths. Please consult our counsellor for further guidance..  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Computing for Games",
+      "field_of_study": "Computer Science",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB including Maths. Please consult our counsellor for further guidance..  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Principles of Computing\nDigital Creativity\nDevelopment Foundations\nData Fundamentals\nIndividual Programming Project\nMultidisciplinary Teamwork Principles of Computing Digital Creativity Development Foundations Data Fundamentals Individual Programming Project Multidisciplinary Teamwork Year two\nModules Year two Advanced Game Programming\nComputational Mathematics\nWorld Building: Pre-production\nWorld Building: Production\nCollaboration Advanced Game Programming Computational Mathematics World Building: Pre-production World Building: Production Collaboration Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Graphics & Simulation\nResearch & Development: Proposal\nFuture Skills\nResearch & Development: Dissertation\nMajor Collaboration Graphics & Simulation Research & Development: Proposal Future Skills Research & Development: Dissertation Major Collaboration",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB including Maths. Please consult our counsellor for further guidance..  GCSE Mathematics and English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Immersive Computing",
+      "field_of_study": "Computer Science",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Principles of Computing\nDigital Creativity\nDevelopment Foundations\nData Fundamentals\nIndividual Programming Project\nMultidisciplinary Teamwork Principles of Computing Digital Creativity Development Foundations Data Fundamentals Individual Programming Project Multidisciplinary Teamwork Year two Modules Computational Mathematics \nWorld Building: Pre-production\nVirtual Reality \nWorld Building: Production\nCollaboration Computational Mathematics World Building: Pre-production Virtual Reality World Building: Production Collaboration Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Research & Development: Proposal\nFuture Skills\nImmersive Experience Design\nResearch & Development: Dissertation\nMajor Collaboration Research & Development: Proposal Future Skills Immersive Experience Design Research & Development: Dissertation Major Collaboration",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Robotics",
+      "field_of_study": "Computer Science",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Principles of Computing\nDigital Creativity\nDevelopment Foundations\nData Fundamentals\nIndividual Programming Project\nMultidisciplinary Teamwork Principles of Computing Digital Creativity Development Foundations Data Fundamentals Individual Programming Project Multidisciplinary Teamwork Year two Modules Computational Mathematics\nDigital Prototyping\nRobotics & Cybernetics\nAlgorithms & Optimisation\nRobot Design\nCollaboration Computational Mathematics Digital Prototyping Robotics & Cybernetics Algorithms & Optimisation Robot Design Collaboration Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Research & Development: Proposal\nFuture Skills\nHuman-Robot Interaction\nResearch & Development: Dissertation\nMajor Collaboration Research & Development: Proposal Future Skills Human-Robot Interaction Research & Development: Dissertation Major Collaboration",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Commercial Photography",
+      "field_of_study": "Creative Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Elements of Commercial Practice\nProfessional Practice\nDeveloping Approaches to Commercial Practice\nImage in Context Elements of Commercial Practice Professional Practice Developing Approaches to Commercial Practice Image in Context Year two\nModules Year two Building Brand Narrative\nCollaborative Project\nIndustry Knowhow\nAudience and Context\nWork Experience Building Brand Narrative Collaborative Project Industry Knowhow Audience and Context Work Experience Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Developmental Portfolio\nContextual Project\nFinal Project Developmental Portfolio Contextual Project Final Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Creative Advertising",
+      "field_of_study": "Creative Arts",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Design and Art Direction\nCopywriting\nCreative Problem Solving\nProfessional Practice \nAdland\nStrategy and Planning Design and Art Direction Copywriting Creative Problem Solving Professional Practice Adland Strategy and Planning Year two\nModules Year two Media Lab\nCampaign Creation Media Lab Campaign Creation Optional modules Consumer Behaviour\nWork Placement\nBrand Creation Consumer Behaviour Work Placement Brand Creation Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Advanced Campaign Creation\nFinal Year Project (CIM accredited)\nStart-up\nFinal Portfolio Advanced Campaign Creation Final Year Project (CIM accredited) Start-up Final Portfolio",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Creative Writing",
+      "field_of_study": "Creative Arts",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Writing: Craft and Contexts\nBreaking the Rules: Remix and Writing Back\nExploding the Canon: Writing Then & Now\nLiteratures of Revolution\nPublishing Cultures\nPublishing Studio: Technologizing the Word Writing: Craft and Contexts Breaking the Rules: Remix and Writing Back Exploding the Canon: Writing Then & Now Literatures of Revolution Publishing Cultures Publishing Studio: Technologizing the Word Year two\nModules Year two Writing Project: Making Your Voice Heard\nPost-Digital Content Writing Project: Making Your Voice Heard Post-Digital Content Optional modules Screenwriting\nPoetry\nGames\nSatire & Scandal\nFiction\nCreative Non-Fiction\nRadio & Theatre\nMagic and the Impossible Screenwriting Poetry Games Satire & Scandal Fiction Creative Non-Fiction Radio & Theatre Magic and the Impossible Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Collaborative Project\nPortfolio\nExperiment and Adaption Collaborative Project Portfolio Experiment and Adaption Optional modules We Have Never Been Human\nCrime & Dark Fiction\nChildren & Young Adult We Have Never Been Human Crime & Dark Fiction Children & Young Adult",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Drawing",
+      "field_of_study": "Creative Arts",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Observing Worlds\nPractice in Context 1\nSensing Worlds\nPractice in Context 2 Observing Worlds Practice in Context 1 Sensing Worlds Practice in Context 2 Year two\nModules Year two World Building\nSustained Personal Enquiry 1\nTesting Ground: Collaboration\nNew Territories\nSustained Personal Enquiry 2 World Building Sustained Personal Enquiry 1 Testing Ground: Collaboration New Territories Sustained Personal Enquiry 2 Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Agencies & Audiences\nCritical Worlding\nRealisation\nPublic Platforms Agencies & Audiences Critical Worlding Realisation Public Platforms",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) English & Creative Writing",
+      "field_of_study": "Creative Arts",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Writing: Craft & Contexts\nExploding the Canon: Writing Then & Now\nPublishing Cultures\nBreaking the Rules: Remix and Writing Back\nLiteratures of Revolution\nPublishing Studio: Technologizing the Word Writing: Craft & Contexts Exploding the Canon: Writing Then & Now Publishing Cultures Breaking the Rules: Remix and Writing Back Literatures of Revolution Publishing Studio: Technologizing the Word Year two\nModules Year two Society and the Self\nWriting Now: Prize Winners, Bestsellers & Controversial Content Society and the Self Writing Now: Prize Winners, Bestsellers & Controversial Content Optional modules Satire and Scandal\nPoetry\nScreenwriting\nMagic and the Impossible\nFiction\nCreative Non-Fiction\nGames\nRadio & Theatre Satire and Scandal Poetry Screenwriting Magic and the Impossible Fiction Creative Non-Fiction Games Radio & Theatre Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Collaborative Project\nDissertation and Portfolio\nExperiment and Adaptation Collaborative Project Dissertation and Portfolio Experiment and Adaptation Optional modules We Have Never Been Human\nCrime & Dark Fiction\nChildren & Young Adult We Have Never Been Human Crime & Dark Fiction Children & Young Adult",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B5"
+          },
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fine Art",
+      "field_of_study": "Creative Arts",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Press Play\nPractice in Context 1\nInitiating Practice\nPractice in Context 2 Press Play Practice in Context 1 Initiating Practice Practice in Context 2 Year two\nModules Year two Situating Practice: Studio \nSituating Practice: Art Discourses  \nTesting Ground: Art Encounters  \nTesting Ground: Collaboration  \nTesting Ground: Studio Situating Practice: Studio Situating Practice: Art Discourses Testing Ground: Art Encounters Testing Ground: Collaboration Testing Ground: Studio Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Practice as Research  \nEntrepreneurial Practices: Agencies & Audiences  \nRealisation  \nSustaining Practice Practice as Research Entrepreneurial Practices: Agencies & Audiences Realisation Sustaining Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Game Art",
+      "field_of_study": "Creative Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Concept Art 1\nCharacter Art 1\nGame Animation 1\nEnvironment Art 1\nConcept Art 2\nCharacter Art 2\nEnvironment Art 2 Concept Art 1 Character Art 1 Game Animation 1 Environment Art 1 Concept Art 2 Character Art 2 Environment Art 2 Year two\nModules Year two World Building: Pre-production\nDeveloping Concept Art Vocabularies\nDeveloping Character Art Vocabularies\nDeveloping Environment Art Vocabularies\nArt Research Practice\nWorld Building: Production\nCollaboration World Building: Pre-production Developing Concept Art Vocabularies Developing Character Art Vocabularies Developing Environment Art Vocabularies Art Research Practice World Building: Production Collaboration Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Future Skills\nProfessional Portfolio\nTechnical Art Practice\nFuture of Games\nMajor Collaboration Future Skills Professional Portfolio Technical Art Practice Future of Games Major Collaboration",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Game Development",
+      "field_of_study": "Creative Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Core modules (studied by all specialisms) Development Foundations  \nDigital Creativity\nMultidisciplinary Teamwork\nReading Games* Development Foundations Digital Creativity Multidisciplinary Teamwork Reading Games* Year two Modules Core modules (studied by all specialisms) Game Form & Player Experience\nWorld Building: Pre-Production\nWorld Building: Production\nCollaboration Game Form & Player Experience World Building: Pre-Production World Building: Production Collaboration Year three Modules Core modules (studied by all students) Experience Design\nFuture Skills\nProfessional Portfolio\nFuture of Games\nMajor Collaboration Experience Design Future Skills Professional Portfolio Future of Games Major Collaboration",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Journalism & Creative Writing",
+      "field_of_study": "Creative Arts",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Writing: Craft and Contexts\nMission Launch: The Reporter's Toolkit\nDigital News Lab: Audiovisual Storytelling \nBreaking the Rules: Remix and Writing Back \nThe Information Age: Exploring the Media Landscape \nPublishing Studio: Technologizing the Word Writing: Craft and Contexts Mission Launch: The Reporter's Toolkit Digital News Lab: Audiovisual Storytelling Breaking the Rules: Remix and Writing Back The Information Age: Exploring the Media Landscape Publishing Studio: Technologizing the Word Year two Modules Digital News Lab: Local is Global\nCreative Non-Fiction \nMaking Magazines \nCollaboration Digital News Lab: Local is Global Creative Non-Fiction Making Magazines Collaboration Optional modules Games\nPoetry\nSatire & Scandal\nScreenwriting\nFiction\nMagic & the Impossible\nRadio & Theatre Games Poetry Satire & Scandal Screenwriting Fiction Magic & the Impossible Radio & Theatre Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Digital News Lab: Going Live\nHow to be Right: Advanced Investigation and Research \nThe Springboard Digital News Lab: Going Live How to be Right: Advanced Investigation and Research The Springboard Optional modules Mini-Documentary\nDissertation and Portfolio\nCreative Writing Portfolio\nChildren and Young Adult\nCrime and Dark Fiction\nWe have Never Been Human Mini-Documentary Dissertation and Portfolio Creative Writing Portfolio Children and Young Adult Crime and Dark Fiction We have Never Been Human",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Marine & Natural History Photography",
+      "field_of_study": "Creative Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Developing Practice\nResearch and Critical Thinking\nBiodiversity and Habitat\nExploring Practice\nCommunicating Nature\nThe Marine Environment Developing Practice Research and Critical Thinking Biodiversity and Habitat Exploring Practice Communicating Nature The Marine Environment Year two Modules Moving Image and the Natural World\nPhotography of the Natural World\nConservation and its Representation\nIndependent Practice\nCulture and the Environment\nWork Experience Moving Image and the Natural World Photography of the Natural World Conservation and its Representation Independent Practice Culture and the Environment Work Experience  Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Project Development\nDissertation\nMajor Project\nProfessional Profile Project Development Dissertation Major Project Professional Profile",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Photography",
+      "field_of_study": "Creative Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Elements of Photographic Practice & Context  \nProfessional Practice \nDeveloping Approaches to Practice & Context  \nImage in Context Elements of Photographic Practice & Context Professional Practice Developing Approaches to Practice & Context Image in Context Year two Modules Expanded Practice\nCollaborative Project\nGlobal Positions \nAudience and Context\nWork Experience Expanded Practice Collaborative Project Global Positions Audience and Context Work Experience Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Development Portfolio\nContextual Project\nFinal Project Development Portfolio Contextual Project Final Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Press & Editorial Photography",
+      "field_of_study": "Creative Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Essentials of Photographic Narrative\nProfessional Practice\nHistories, Theories, Practices and Contexts of Press & Editorial Photography\nPhotographic Narrative in Context\nCritical Approaches to Press & Editorial Photography Essentials of Photographic Narrative Professional Practice Histories, Theories, Practices and Contexts of Press & Editorial Photography Photographic Narrative in Context Critical Approaches to Press & Editorial Photography Year two Modules Audio Visual & Multimedia\nMedia Law, Ethics & Human Rights\nAudiences\nCultural & Critical Context of News, Editorial and Photojournalism Genre Audio Visual & Multimedia Media Law, Ethics & Human Rights Audiences Cultural & Critical Context of News, Editorial and Photojournalism Genre Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Developmental portfolio\nDissertation\nFinal portfolio Developmental portfolio Dissertation Final portfolio",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Sound Design",
+      "field_of_study": "Creative Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Audio & Sound Theory\nSound Design: Workflows, Tools & Techniques 1-2\nLinear Sound Design\nNon-linear Sound Design\nSound Studies: Sound in Context Audio & Sound Theory Sound Design: Workflows, Tools & Techniques 1-2 Linear Sound Design Non-linear Sound Design Sound Studies: Sound in Context Year two Modules Sound Design Futures\nImmersive Audio & Sound Design\nFalmouth Team Projects\nCollaboration Sound Design Futures Immersive Audio & Sound Design Falmouth Team Projects Collaboration Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Critical Contextual Project\nFuture Skills\nDeveloping Professional Sound Design Practice (Optional)\nFinal Project Contextualisation\nProfessional Sound Design Portfolio Critical Contextual Project Future Skills Developing Professional Sound Design Practice (Optional) Final Project Contextualisation Professional Sound Design Portfolio",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Business & Entrepreneurship",
+      "field_of_study": "Entrepreneurship",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Market Intelligence\nPresent and Future of Entrepreneurship\nThe Art of Strategy\nWellbeing in Business\nDesign Thinking\nNavigating Uncertainty Market Intelligence Present and Future of Entrepreneurship The Art of Strategy Wellbeing in Business Design Thinking Navigating Uncertainty Year two\nModules Year two Complex Problem-Solving\nCritical and Social Innovation\nIntelligent Brand Building\nDemonstrating Sustainability\nFinancial Insights\nCollaborative Project: Growth Challenge Complex Problem-Solving Critical and Social Innovation Intelligent Brand Building Demonstrating Sustainability Financial Insights Collaborative Project: Growth Challenge Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Creative & Ethical Leadership\nDataLab: Generation, Analysis, Iteration\nGlobal Economies and International Markets\nCrafting Your Future: Professional Practice and Research\nSocial Action Project Creative & Ethical Leadership DataLab: Generation, Analysis, Iteration Global Economies and International Markets Crafting Your Future: Professional Practice and Research Social Action Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points."
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "GCSE English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B5"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "UEC"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "excluding Chinese and Malay"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance.."
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "GCSE English"
+            ]
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points."
+          },
+          {
+            "type": "raw",
+            "text": "A minimum of 5 in standard level English or 4 in Higher Level English"
+          },
+          {
+            "type": "raw",
+            "text": "Audition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Creative Events Management",
+      "field_of_study": "Event Management",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)",
+        "IB Diploma": "minimum 24 points.  \"\nA minimum of 5 in standard level English or 4 in Higher Level English\n\""
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Marketing & Digital Media\nReal World Skills\nContemporary Event & Festival Impact\nWellbeing in Experience Management\nLive Student Event Project\nCreative Innovation in Experience Management Marketing & Digital Media Real World Skills Contemporary Event & Festival Impact Wellbeing in Experience Management Live Student Event Project Creative Innovation in Experience Management Year two\nModules Year two Legal & Financial Management in the Experience Sector\nAudience Insight Project\nLive Digital Event Project\nTeam Learning & Performance\nDemonstrating Sustainability\nLive Public Event Project Legal & Financial Management in the Experience Sector Audience Insight Project Live Digital Event Project Team Learning & Performance Demonstrating Sustainability Live Public Event Project Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Event Innovation Project\nCreative & Ethical Leadership\nCrisis Management for Festivals & Events\nPersonal Research Project\nLive Partnership Event Project Event Innovation Project Creative & Ethical Leadership Crisis Management for Festivals & Events Personal Research Project Live Partnership Event Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  \"\nA minimum of 5 in standard level English or 4 in Higher Level English\n\""
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Sustainable Festival Management",
+      "field_of_study": "Event Management",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Marketing & Digital Media\nContemporary Event & Festival Impacts\nWellbeing in Experience Management\nCreative Innovation in Experience Management\nLive Student Event Project\nReal World Skills Marketing & Digital Media Contemporary Event & Festival Impacts Wellbeing in Experience Management Creative Innovation in Experience Management Live Student Event Project Real World Skills Year two Modules Legal & Financial Management in the Experience Sector\nLive Sustainability Challenge\nTeam Learning & Performance \nLive Public Event Project\nDemonstrating Sustainability Legal & Financial Management in the Experience Sector Live Sustainability Challenge Team Learning & Performance Live Public Event Project Demonstrating Sustainability Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Crisis Management for Festivals & Events\nFestival Innovation Project\nCreative & Ethical Leadership\nPersonal Research Project\nLive Sustainable Festival Project Crisis Management for Festivals & Events Festival Innovation Project Creative & Ethical Leadership Personal Research Project Live Sustainable Festival Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points. GCSE English Grade 4 (C)"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay). GCSE English Grade 4 (C)"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance.. GCSE English Grade 4 (C)"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points. A minimum of 5 in standard level English or 4 in Higher Level English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Design",
+      "field_of_study": "Fashion Design",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Cut and Construct\nRedesign\nBelonging\nHistories\nColour and shape Cut and Construct Redesign Belonging Histories Colour and shape Year two\nModules Year two Industry Practice\nCore Skills: Digital\nCore Skills: Stretch\nInnovation\nTheories Industry Practice Core Skills: Digital Core Skills: Stretch Innovation Theories Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Pre-Collection\nInvestigations\nCollection\nProfessional Strategies Pre-Collection Investigations Collection Professional Strategies",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Photography",
+      "field_of_study": "Fashion Design",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Subcultures & Styles\nBelonging\nThe Body & Ethics\nThe Edit Subcultures & Styles Belonging The Body & Ethics The Edit Year two\nModules Year two Fashion Film\nThe Commercial Image\nTheories\nFashion Image\nCollaboration Fashion Film The Commercial Image Theories Fashion Image Collaboration Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three The Client Brief\nInvestigations\nFinal Major Project\nProfessional Futures, Industry Ambitions The Client Brief Investigations Final Major Project Professional Futures, Industry Ambitions",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Styling & Art Direction",
+      "field_of_study": "Fashion Design",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Fashion Foundations\nFashion & Belonging \nThinking & Storytelling \nBody Politics\nEarth Action Fashion Foundations Fashion & Belonging Thinking & Storytelling Body Politics Earth Action Year two\nModules Year two The Fashion Space \nThe Fashion Show \nThe Fashion Client \nCollaboration The Fashion Space The Fashion Show The Fashion Client Collaboration Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three The Fashion Consultant\nBreaking Ground\nFashion Visionary \nFuture Skills The Fashion Consultant Breaking Ground Fashion Visionary Future Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Costume Design for Film & Television",
+      "field_of_study": "Film & Television",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Making\nSeeing\nHistories\nCommunicating\nBelonging\nEmerging Making Seeing Histories Communicating Belonging Emerging Year two\nModules Year two Wearing\nWorking\nAppearing\nApplying Wearing Working Appearing Applying Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Daring\nUnderpinning\nBeing Daring Underpinning Being",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Film",
+      "field_of_study": "Film & Television",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Production Cultures 1\nProduction Cultures 2\nCultural Contexts\nIndustrial Contexts Production Cultures 1 Production Cultures 2 Cultural Contexts Industrial Contexts Year two\nModules Year two Skills Development \nCreative Delivery \nGenre \nCinema of Experience Skills Development Creative Delivery Genre Cinema of Experience Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Pitch Deck \nThe Other \nDissertation \nSales Deck Pitch Deck The Other Dissertation Sales Deck",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Television",
+      "field_of_study": "Film & Television",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Origin\nBootcamp\nBackdrop\nTelling Tales\nFirst Positions Origin Bootcamp Backdrop Telling Tales First Positions Year two Modules Impact\nArtistry\nMakers or Writers (choose one)\nInception\nBlue Skies\nAgency or Room (choose one) Impact Artistry Makers or Writers (choose one) Inception Blue Skies Agency or Room (choose one) Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Realisation\nDare\nShowcase Realisation Dare Showcase",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Design Process\nA Word in your Eye\nNarrative\nDifference & Identity Design Process A Word in your Eye Narrative Difference & Identity Year two Modules Brand Experience\nTypography\nDesign Directions\nCollaborative Practice Brand Experience Typography Design Directions Collaborative Practice Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Journeys\nCritical Writing\nDestinations Journeys Critical Writing Destinations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Illustration",
+      "field_of_study": "Graphic Design",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Visual Problem Solving\nPractice & Purpose \nMedia & Methods \nContext & Audience Visual Problem Solving Practice & Purpose Media & Methods Context & Audience Year two Modules Refine & Apply \nChallenging Subjects \nIntroduce & Negotiate  \nCollaboration Refine & Apply Challenging Subjects Introduce & Negotiate Collaboration Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Define & Realise \nResearch & Extend \nConnect & Transition \nProfessional Practice Define & Realise Research & Extend Connect & Transition Professional Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Sustainable Product Design",
+      "field_of_study": "Industrial Design",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Creativity & Communication\nSustainable Design Principles\nLife Cycle Thinking \nDesign Ethics Creativity & Communication Sustainable Design Principles Life Cycle Thinking Design Ethics Year two Modules Design & Business\nInclusive Design\nCollaboration\nCircular Economy Design & Business Inclusive Design Collaboration Circular Economy Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Design Drivers\nDesign Visions\nDesign Ambitions\nDesign Futures Design Drivers Design Visions Design Ambitions Design Futures",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Textile Design",
+      "field_of_study": "Industrial Design",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Colour and Pattern\nBelonging\nResponsible Material and Design\nHistories Colour and Pattern Belonging Responsible Material and Design Histories Year two Modules Process\nConnection\nResponsible Production\nCollaboration\nTheories Process Connection Responsible Production Collaboration Theories Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Futures\nInvestigations\nInnovate\nIdentity Futures Investigations Innovate Identity",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Interior Architecture",
+      "field_of_study": "Interior Architecture",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Spatial Awareness\nDesign Principles\nPoetry of Place\nData Fundamentals\nYou, Me, Us Spatial Awareness Design Principles Poetry of Place Data Fundamentals You, Me, Us Year two Modules Spatial Politics\nReinvention\nCollaboration\nFictional Interiors Spatial Politics Reinvention Collaboration Fictional Interiors Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Design Ambitions\nMateriality\nDesign Insights\nLegible Spaces Design Ambitions Materiality Design Insights Legible Spaces",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Spatial Awareness\nDesign Principles\nTaste\nYou, Me, Us Spatial Awareness Design Principles Taste You, Me, Us Year two Modules Trend forecasting\nFuture Living\nCollaboration\nFictional Interiors Trend forecasting Future Living Collaboration Fictional Interiors Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Design Insight\nInnovation\nDesign Ambition \nShowcase Design Insight Innovation Design Ambition Showcase",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Business & Digital Marketing",
+      "field_of_study": "Marketing",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Market Intelligence\nPresent and Future of Marketing Communications\nThe Art of Strategy\nDecision Making and Consumer Behaviour\nDesign Thinking\nNavigating Uncertainty\nFinancial Insights\nCollaborative Project: Marketing in Digital Environments Market Intelligence Present and Future of Marketing Communications The Art of Strategy Decision Making and Consumer Behaviour Design Thinking Navigating Uncertainty Financial Insights Collaborative Project: Marketing in Digital Environments Year two\nModules Year two Complex Problem-Solving\nB2B and the Marketing Ecosystem\nIntelligent Brand Building\nDemonstrating Sustainability Complex Problem-Solving B2B and the Marketing Ecosystem Intelligent Brand Building Demonstrating Sustainability Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Creative & Ethical Leadership\nDataLab: Generation, Analysis, Iteration\nConsumer Psychology and Emotion by Design\nCrafting Your Future: Professional Practice and Research\nSocial Action Project Creative & Ethical Leadership DataLab: Generation, Analysis, Iteration Consumer Psychology and Emotion by Design Crafting Your Future: Professional Practice and Research Social Action Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Marketing",
+      "field_of_study": "Marketing",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Marketing Essentials\nFashion Marketing Communications\nBelonging\nBranding\nVisual Communications\nHistories Marketing Essentials Fashion Marketing Communications Belonging Branding Visual Communications Histories Year two\nModules Year two Global Fashion Futures\nPromotion\nRetail\nCollaboration\nTheories Global Fashion Futures Promotion Retail Collaboration Theories Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Professional Strategies\nMarketing Strategies\nInvestigations\nFinal Major Project Part 1\nFinal Major Project Part 2 Professional Strategies Marketing Strategies Investigations Final Major Project Part 1 Final Major Project Part 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Esports & Livestreaming",
+      "field_of_study": "Mass Communication",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Development Foundations\nLivestreaming Tools\nMarketing & Digital Media \nData Fundamentals \nMultidisciplinary Teamwork \nEsports Production Development Foundations Livestreaming Tools Marketing & Digital Media Data Fundamentals Multidisciplinary Teamwork Esports Production Year two\nModules Year two Legal and Financial Management in the Experience Sector\nIndividual Esports Project\nMedia Lab\nEsports Event\nCollaboration\nEsports Studies Legal and Financial Management in the Experience Sector Individual Esports Project Media Lab Esports Event Collaboration Esports Studies Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Professional Portfolio \nFuture Skills  \nEsports Live Performance \nFuture of Games \nMajor Collaboration Professional Portfolio Future Skills Esports Live Performance Future of Games Major Collaboration",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B5"
+          },
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Media Production",
+      "field_of_study": "Mass Communication",
+      "location": "Falmouth Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Creative Problem Solving\nBootcamp\nMultimedia Methods\nProfessional Practice\nOrigins\nThe Media Landscape Creative Problem Solving Bootcamp Multimedia Methods Professional Practice Origins The Media Landscape Year two Modules Media Lab\nMagazine Content and Creation\nFilmmaking 2: Editing & Post-production\nCollaboration\nAdvanced Multimedia Methods\nThe Global Creative Media Lab Magazine Content and Creation Filmmaking 2: Editing & Post-production Collaboration Advanced Multimedia Methods The Global Creative Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Dissertation\nThe Multimedia Newsroom\nFuture Skills\nFinal Year Portfolio Dissertation The Multimedia Newsroom Future Skills Final Year Portfolio",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Creative Music Technology",
+      "field_of_study": "Music",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Audio Cultures and Critical Theory\nStudiocraft\nDesigning Sound\nCore Music Practice\nThe Electronic Toolkit\nMixcraft Audio Cultures and Critical Theory Studiocraft Designing Sound Core Music Practice The Electronic Toolkit Mixcraft Year two\nModules Year two Creative Writing and Research in Virtual Music\nArt of Production\nProfessional Music Practice\nImmersive Audio Creative Writing and Research in Virtual Music Art of Production Professional Music Practice Immersive Audio Optional modules Voice\nTimbre\nSupersonic\nThe Working Musician: Reproduce; Arrange; Mutate\nThe Hit Machine\nThe Music Educator\nMusic and Moving Image\nCreative Performance Technology Voice Timbre Supersonic The Working Musician: Reproduce; Arrange; Mutate The Hit Machine The Music Educator Music and Moving Image Creative Performance Technology Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Specialists Practice in Context\nDissertation\nProfessional Portfolio Specialists Practice in Context Dissertation Professional Portfolio",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Music",
+      "field_of_study": "Music",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Audio Cultures and Critical Theory\nComposition Studies: The Elements of Music\nPerformance Studies: Self and Sound\nCore Music Practice \nMusic Technologies\nContemporary Techniques Audio Cultures and Critical Theory Composition Studies: The Elements of Music Performance Studies: Self and Sound Core Music Practice Music Technologies Contemporary Techniques Year two Modules Creative Writing and Research in Virtual Music\nMusic Innovations\nProfessional Music Practice\nApplied Music Creative Writing and Research in Virtual Music Music Innovations Professional Music Practice Applied Music Optional modules Voice\nTimbre\nSupersonic\nThe Working Musician: Reproduce; Arrange; Mutate\nThe Hit Machine\nThe Music Educator\nMusic and Moving Image\nCreative Performance Technology Voice Timbre Supersonic The Working Musician: Reproduce; Arrange; Mutate The Hit Machine The Music Educator Music and Moving Image Creative Performance Technology Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Specialist Practice in Context\nDissertation\nProfessional Portfolio Specialist Practice in Context Dissertation Professional Portfolio",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Popular Music",
+      "field_of_study": "Music",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Audio Culture and Critical Theory\nPlaying Live: Creative Performance\nMaking Popular Music: Technology and Aesthetics\nCore Music Practice\nSigns & Lyrics: Making Meaning in Popular Music\nCreative Recording: Studio Practice Audio Culture and Critical Theory Playing Live: Creative Performance Making Popular Music: Technology and Aesthetics Core Music Practice Signs & Lyrics: Making Meaning in Popular Music Creative Recording: Studio Practice Year two Modules Creative Writing and Research in Virtual Music Cultures\nDark Sound: Reading Desire in Popular Music\nProfessional Music Practice\nEnterprise: Innovative Practice in Contemporary Music Industries Creative Writing and Research in Virtual Music Cultures Dark Sound: Reading Desire in Popular Music Professional Music Practice Enterprise: Innovative Practice in Contemporary Music Industries Optional modules Voice\nTimbre\nSupersonic\nThe Working Musician: Reproduce; Arrange; Mutate\nThe Hit Machine\nThe Music Educator\nMusic and the Moving Image\nCreative Performance Technology Voice Timbre Supersonic The Working Musician: Reproduce; Arrange; Mutate The Hit Machine The Music Educator Music and the Moving Image Creative Performance Technology Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Specialist Practice in Context\nDissertation\nProfessional Portfolio Specialist Practice in Context Dissertation Professional Portfolio",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Acting",
+      "field_of_study": "Performing Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  English - Grade C or above\nAudition and portfolio required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one The Actor's Instrument\nPerformance, Culture & Contexts\nActing & Story\nThe Expressive Actor\nContemporary Performance Practices & Concepts\nActing & Character The Actor's Instrument Performance, Culture & Contexts Acting & Story The Expressive Actor Contemporary Performance Practices & Concepts Acting & Character Year two\nModules Year two Performing in Recorded Media\nActing & Contemporary Performance\nThe Integrated Actor\nActing & Classical Performance\nScreen Acting Skills\nActing and the Audience: Production 1 Performing in Recorded Media Acting & Contemporary Performance The Integrated Actor Acting & Classical Performance Screen Acting Skills Acting and the Audience: Production 1 Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Screen Acting Project\nShow in a Bag: Solo Performance Project\nThe Thinking Practitioner: Student-Led Research\nProfessional Preparation\nActing and the Audience: Production 2 Screen Acting Project Show in a Bag: Solo Performance Project The Thinking Practitioner: Student-Led Research Professional Preparation Acting and the Audience: Production 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  English - Grade C or above\nAudition and portfolio required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 24
+          },
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Dance & Choreography",
+      "field_of_study": "Performing Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one\nModules Year one Contemporary Techniques & Improvisation\nPerformance & Choreographic Practices\nEmbodied Learning: Theories & Practices\nContemporary Techniques & Improvisation 2\nDance Cultures, Histories & Practices\nSite-Based Practices Contemporary Techniques & Improvisation Performance & Choreographic Practices Embodied Learning: Theories & Practices Contemporary Techniques & Improvisation 2 Dance Cultures, Histories & Practices Site-Based Practices Year two\nModules Year two Performance & Choreographic Skills\nDance Futures\nApplied Techniques\nResearching Dance: Theories & Contexts Performance & Choreographic Skills Dance Futures Applied Techniques Researching Dance: Theories & Contexts Optional modules Devising Performance\nChoreography in Context\nCross-Disciplinary Performance\nChoreographing the Screen Devising Performance Choreography in Context Cross-Disciplinary Performance Choreographing the Screen Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three\nModules Year three Written Research Project\nPractical Research Project\nAdvanced Bodywork 1\nAdvanced Bodywork 2\nProfessional Practice Project Written Research Project Practical Research Project Advanced Bodywork 1 Advanced Bodywork 2 Professional Practice Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Musical Theatre",
+      "field_of_study": "Performing Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Preparation for Performance: Body, Voice & Wellbeing\nContexts and Histories of Musical Theatre\nActing 1: Storytelling, Character and Improvisation\nDance & Movement 1: Core Skills\nVoice & Singing 1: Core Skills\nActing 2: Naturalism in Rehearsal and Performance Preparation for Performance: Body, Voice & Wellbeing Contexts and Histories of Musical Theatre Acting 1: Storytelling, Character and Improvisation Dance & Movement 1: Core Skills Voice & Singing 1: Core Skills Acting 2: Naturalism in Rehearsal and Performance Year two Modules Dance & Movement 2: Developing Techniques\nVoice & Singing 2: Developing Techniques\nIntegrated Skills 1: Musical Theatre Project\nDance & the Actor: Professional Preparation & Repertoire \nVoice & the Actor: Professional Preparation & Repertoire \nProfessional Development: Contemporary Industry Practice Dance & Movement 2: Developing Techniques Voice & Singing 2: Developing Techniques Integrated Skills 1: Musical Theatre Project Dance & the Actor: Professional Preparation & Repertoire Voice & the Actor: Professional Preparation & Repertoire Professional Development: Contemporary Industry Practice Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Professional Development 2: Advanced Practice \nProfessional Development 3: Musical Theatre Futures \nIntegrated Skills 2: Musical Theatre Performance Professional Development 2: Advanced Practice Professional Development 3: Musical Theatre Futures Integrated Skills 2: Musical Theatre Performance",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Technical Theatre Arts",
+      "field_of_study": "Performing Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Stagecraft 1\nPerformance, Culture and Contexts\nProfessional Development\nStagecraft 2\nPractical Production Stagecraft 1 Performance, Culture and Contexts Professional Development Stagecraft 2 Practical Production Year two Modules Venue Management and Technical Standards\nDigital Performance Technologies\nDesign Project\nCollaborative Project Venue Management and Technical Standards Digital Performance Technologies Design Project Collaborative Project Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Production Management, Design and Realisation\nIndustry Horizons in Technical Theatre\nProfessional Project: Practice\nProfessional Project: Research Production Management, Design and Realisation Industry Horizons in Technical Theatre Professional Project: Practice Professional Project: Research",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Theatre & Performance",
+      "field_of_study": "Performing Arts",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Performance Skills\nPerformance, Culture & Contexts\nPlay Texts\nMaking Skills\nContemporary Performance & Concepts\nEnsemble Performance Performance Skills Performance, Culture & Contexts Play Texts Making Skills Contemporary Performance & Concepts Ensemble Performance Year two Modules Technical Theatre & Scenography\nSolo Performance\nImmersive & Participatory Theatre\nThe Performer’s Body, Directing & Dramaturgy\nModes of Making\nTheatre Futures Technical Theatre & Scenography Solo Performance Immersive & Participatory Theatre The Performer’s Body, Directing & Dramaturgy Modes of Making Theatre Futures Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Creating Companies\nMaster Classes\nThe Thinking Practitioner: Student-led Research\nProfessional Development\nProfessional Production Creating Companies Master Classes The Thinking Practitioner: Student-led Research Professional Development Professional Production",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)\nAudition and portfolio is required"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English\nAudition and portfolio required"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Sustainable Tourism Management",
+      "field_of_study": "Tourism Management",
+      "location": "Penryn Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)",
+        "UEC": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)",
+        "STPM": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)",
+        "IB Diploma": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 with a minimum 5.5 in each skill"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 311177
+      },
+      "course_content": {
+        "core": "Year one Modules Marketing & Digital Media\nContemporary Tourism Impacts\nWellbeing in Experience Management\nCreative Innovation in Experience Management\nLive Sustainable Tour Guide Project\nReal World Skills Marketing & Digital Media Contemporary Tourism Impacts Wellbeing in Experience Management Creative Innovation in Experience Management Live Sustainable Tour Guide Project Real World Skills Year two Modules Legal & Financial Management in the Experience Sector\nLive Sustainability Challenge\nTeam Learning & Performance\nCornish Attraction Project\nDemonstrating Sustainability Legal & Financial Management in the Experience Sector Live Sustainability Challenge Team Learning & Performance Cornish Attraction Project Demonstrating Sustainability Placement year (optional) You can choose to take an optional placement year after your second year on a three-year programme Year three Modules Crisis Management for Tourism\nTourism Innovation Project\nCreative & Ethical Leadership\nPersonal Research Project\nLive International Destination Project Crisis Management for Tourism Tourism Innovation Project Creative & Ethical Leadership Personal Research Project Live International Destination Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "typically 104-120 UCAS points.  GCSE English Grade 4 (C)"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "a minimum of B5 in five subjects in the UEC (excluding Chinese and Malay).  GCSE English Grade 4 (C)"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "BCC/BBC/BBB. Please consult our counsellor for further guidance..  GCSE English Grade 4 (C)"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "minimum 24 points.  A minimum of 5 in standard level English or 4 in Higher Level English"
+          }
+        ]
+      }
+    }
+  ]
+}

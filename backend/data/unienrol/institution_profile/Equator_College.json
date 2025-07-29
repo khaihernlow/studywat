@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/EQUATOR+COLLEGE/LEITH+STREET/Campus_Surroundings/01a_Leith_Street_Campus_Leith_Street_Campus_%28Exterior_View%29.png"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Art &Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Equator, Leith Street",
       "intakes": [
         "Jan",
@@ -55,11 +58,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Digital 3D Animation",
-      "field_of_study": "Animation",
+      "field_of_study": "Communication and Media Studies",
       "location": "Equator, Amoy Lane",
       "intakes": [
         "Jan",
@@ -128,11 +132,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test"
           }
         ]
-      }
+      },
+      "course": "Animation"
     },
     {
       "program_name": "Diploma in Architectural Technology",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Equator, Amoy Lane",
       "intakes": [
         "Jan",
@@ -225,11 +230,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics.  Additional Requirements\nPass Portfolio test"
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "Diploma in Fine Art",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Equator, Leith Street",
       "intakes": [
         "Jan",
@@ -294,11 +300,12 @@
             "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma in Fashion Design Technology",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Equator, Leith Street",
       "intakes": [
         "Jan",
@@ -363,11 +370,12 @@
             "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Graphic & Multimedia Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Equator, Amoy Lane",
       "intakes": [
         "Jan",
@@ -436,11 +444,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Equator, Amoy Lane",
       "intakes": [
         "Jan",
@@ -527,11 +536,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test"
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Foundation in Design",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Equator, Amoy Lane",
       "intakes": [
         "Jan",
@@ -601,7 +611,8 @@
             "text": "Pass with at least 5 Grade B."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     }
   ]
 }

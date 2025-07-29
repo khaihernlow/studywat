@@ -4,6 +4,9 @@
   "institution_type": "Private",
   "world_rank": 19741,
   "malaysia_rank": 125,
+  "institution_images": [
+    "https://www.berjaya.edu.my/university/wp-content/uploads/2022/11/bts-scaled-665x488_c.jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor in Accounting and Finance (Hons)",
@@ -168,11 +171,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Communication (Honours)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -316,11 +320,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Culinary Arts Management (Honours)",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -403,11 +408,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Bachelor of Events Management (Hons)",
-      "field_of_study": "Event Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -514,11 +520,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Event Management"
     },
     {
       "program_name": "Bachelor Of Hospitality Management (Hons)",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -625,11 +632,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Bachelor of Business Management (Hons)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -792,11 +800,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Bachelor of Retail Management (Hons)",
-      "field_of_study": "Retail Management",
+      "field_of_study": "Business",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -959,11 +968,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Retail Management"
     },
     {
       "program_name": "Bachelor of Tourism Management (Hons)",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1070,11 +1080,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Diploma in Aviation Management",
-      "field_of_study": "Aeronautical Engineering",
+      "field_of_study": "Engineering",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1114,11 +1125,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Aeronautical Engineering"
     },
     {
       "program_name": "Diploma in Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1171,11 +1183,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Patisserie",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1228,11 +1241,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Events Management",
-      "field_of_study": "Event Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1285,11 +1299,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Event Management"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1392,11 +1407,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Business Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1453,11 +1469,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Diploma in Public Relations",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1532,11 +1549,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Retail Management",
-      "field_of_study": "Retail Management",
+      "field_of_study": "Business",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1593,11 +1611,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Retail Management"
     },
     {
       "program_name": "Diploma in Tourism & Travel Management",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1650,11 +1669,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Foundation in Arts & Social Science",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1728,11 +1748,12 @@
             "text": "Pass with at least Grade B in 3 subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Commerce",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1785,11 +1806,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Commerce (Accounting, Finance, IT)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1902,11 +1924,12 @@
             "text": "3 credits (B6) including Mathematics and a pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Master of Science in Logistics & Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1932,11 +1955,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Master of Science in Logistics & Supply Chain Management (Part Time)",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -1962,11 +1986,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Master of Philosophy in Management (Full Time)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -2005,11 +2030,12 @@
             "text": "- Five (5) years of working experience in relevant fields if CGPA is below 2.5. - Or any equivalent qualification from recognised institutions as approved by BERJAYA UC Senate."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Master of Business Administration (MBA)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -2035,11 +2061,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration (MBA) (Part Time)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -2065,11 +2092,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "Doctor of Philosophy in Management (Full Time)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "Berjaya UCH, KL City Centre",
       "intakes": [
         "Jan",
@@ -2117,7 +2145,8 @@
             "text": "- A recognised Master's Degree with a minimum CGPA of 2.5 out of 4.0. - Five (5) years of working experience in relevant fields if CGPA is below 2.5. - Or any equivalent qualification from recognised institutions as approved by BERJAYA UC Senate."
           }
         ]
-      }
+      },
+      "course": "Management"
     }
   ]
 }

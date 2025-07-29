@@ -1,0 +1,471 @@
+{
+  "institution_name": "London School of Business and Finance (LSBF) College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Diploma in Business Administration (ODL)",
+      "field_of_study": "Business Administration",
+      "location": "LSBF College Malaysia",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM or equivalent with 3 credits in any subjects.",
+        "O-Level": "Pass with 3 credits in any subjects.",
+        "STPM": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+      },
+      "english_requirements": {
+        "IELTS": "5.0",
+        "TOEFL": "iBT 40"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 1000,
+        "tuition_fee": 19600
+      },
+      "course_content": {
+        "core": "Year 1 English Language\nBusiness Mathematics\nCreative Thinking\nFundamentals of Business\nPhilosophy and Current Issues / Bahasa Melayu Komunikasi 1\nEnglish for Academic Purposes\nBusiness Statistics\nFundamentals of Information Technology\nFundamentals of Management\nE-commerce\nMicroeconomics\nBusiness Communication\nBahasa Kebangsaan A / Entrepreneurship Skills English Language Business Mathematics Creative Thinking Fundamentals of Business Philosophy and Current Issues / Bahasa Melayu Komunikasi 1 English for Academic Purposes Business Statistics Fundamentals of Information Technology Fundamentals of Management E-commerce Microeconomics Business Communication Bahasa Kebangsaan A / Entrepreneurship Skills  Year 2 General Psychology\nFundamentals of Multimedia Technology\nFundamentals of Marketing\nIntroduction to Entrepreneurship\nConsumer Behaviour\nFinancial Accounting 1\nMacroeconomics\nOrganisation Behaviour\nMarketing Management\nInternational Business\nBusiness Ethics\nFinancial Accounting 2\nPrivatisation in Malaysia General Psychology Fundamentals of Multimedia Technology Fundamentals of Marketing Introduction to Entrepreneurship Consumer Behaviour Financial Accounting 1 Macroeconomics Organisation Behaviour Marketing Management International Business Business Ethics Financial Accounting 2 Privatisation in Malaysia  Year 3 Business Law\nFinancial Management\nPrinciples of Operations Management\nHuman Resource Management\nIntegrity And Anti-Corruption Business Law Financial Management Principles of Operations Management Human Resource Management Integrity And Anti-Corruption",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM or equivalent with 3 credits in any subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits in any subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "LSBF College Malaysia",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM or equivalent with 3 credits in any subjects.",
+        "O-Level": "Pass with 3 credits in any subjects.",
+        "STPM": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+      },
+      "english_requirements": {
+        "IELTS": "5.0",
+        "TOEFL": "iBT 40"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 1000,
+        "tuition_fee": 21000
+      },
+      "course_content": {
+        "core": "Year 1 English Language\nBusiness Mathematics\nCreative Thinking\nFundamentals of Business\nPhilosophy and Current Issues / Bahasa Melayu Komunikasi 1\nEnglish for Academic Purposes\nBusiness Statistics\nFundamentals of Information Technology\nFundamentals of Management\nE-commerce\nMicroeconomics\nBusiness Communication\nBahasa Kebangsaan A / Entrepreneurship Skills English Language Business Mathematics Creative Thinking Fundamentals of Business Philosophy and Current Issues / Bahasa Melayu Komunikasi 1 English for Academic Purposes Business Statistics Fundamentals of Information Technology Fundamentals of Management E-commerce Microeconomics Business Communication Bahasa Kebangsaan A / Entrepreneurship Skills  Year 2 General Psychology\nFundamentals of Multimedia Technology\nFundamentals of Marketing\nIntroduction to Entrepreneurship\nConsumer Behaviour\nFinancial Accounting 1\nMacroeconomics\nOrganisation Behaviour\nMarketing Management\nInternational Business\nBusiness Ethics\nFinancial Accounting 2\nPrivatisation in Malaysia General Psychology Fundamentals of Multimedia Technology Fundamentals of Marketing Introduction to Entrepreneurship Consumer Behaviour Financial Accounting 1 Macroeconomics Organisation Behaviour Marketing Management International Business Business Ethics Financial Accounting 2 Privatisation in Malaysia  Year 3 Business Law\nFinancial Management\nPrinciples of Operations Management\nHuman Resource Management\nIntegrity And Anti-Corruption Business Law Financial Management Principles of Operations Management Human Resource Management Integrity And Anti-Corruption",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM or equivalent with 3 credits in any subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits in any subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Entrepreneurship",
+      "field_of_study": "Entrepreneurship",
+      "location": "LSBF College Malaysia",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM or equivalent with 3 credits in any subject.",
+        "O-Level": "Pass with 3 credits in any subject.",
+        "STPM": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+      },
+      "english_requirements": {
+        "IELTS": "5.0",
+        "TOEFL": "iBT 40"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 1000,
+        "tuition_fee": 20000
+      },
+      "course_content": {
+        "core": "Year 1 English Language\nCreative Thinking\nBusiness Mathematics\nFundamentals of Business\nIntroduction to Entrepreneurship\nIntegrity and Anti-Corruption\nEnglish for Academic Purposes\nBusiness Statistics\nFundamentals of Information Technology\nFundamentals of Management\nFundamentals of Marketing\nBahasa Kebangsaan A\nEntrepreneurship Skills\nBusiness Communications\nMicroeconomics\nPrivatisation in Malaysia English Language Creative Thinking Business Mathematics Fundamentals of Business Introduction to Entrepreneurship Integrity and Anti-Corruption English for Academic Purposes Business Statistics Fundamentals of Information Technology Fundamentals of Management Fundamentals of Marketing Bahasa Kebangsaan A Entrepreneurship Skills Business Communications Microeconomics Privatisation in Malaysia  Year 2 Macroeconomics ECO\nOrganisation Behaviour\nInternational Business\nFinancial Accounting 1\nEntrepreneurship strategy\nAppreciation of Ethics and Civilisations\nPhilosophy and Current Issues\nBusiness Ethic\nConsumer Behaviour\nPrinciples of Operations Management\nHuman Resource Management\nSmall Business Management\nMarketing Management\nE-Commerce\nFinancial Management\nBusiness Plan Project Macroeconomics ECO Organisation Behaviour International Business Financial Accounting 1 Entrepreneurship strategy Appreciation of Ethics and Civilisations Philosophy and Current Issues Business Ethic Consumer Behaviour Principles of Operations Management Human Resource Management Small Business Management Marketing Management E-Commerce Financial Management Business Plan Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM or equivalent with 3 credits in any subject."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits in any subject."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Human Resource Management",
+      "field_of_study": "Human Resource Management",
+      "location": "LSBF College Malaysia",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM or equivalent with 3 credits in any subject.",
+        "O-Level": "Pass with 3 credits in any subject.",
+        "STPM": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+      },
+      "english_requirements": {
+        "IELTS": "5.0",
+        "TOEFL": "iBT 40"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 1000,
+        "tuition_fee": 20000
+      },
+      "course_content": {
+        "core": "Year 1 Fundamental of Marketing\nBusiness Law\nPrinciples of Economics\nPrinciples of Accounting\nOrganisational Behaviour\nPhilosophy and Current Issues / Bahasa Melayu Komunikasi 1\nManaging Human Resource\nHuman Resource Development\nPerformance Management\nBahasa Kebangsaan A / Entrepreneurship Skills\nOccupational Safety and Health Management\nPrivatisation in Malaysia\nIntegrity and Anti-Corruption Fundamental of Marketing Business Law Principles of Economics Principles of Accounting Organisational Behaviour Philosophy and Current Issues / Bahasa Melayu Komunikasi 1 Managing Human Resource Human Resource Development Performance Management Bahasa Kebangsaan A / Entrepreneurship Skills Occupational Safety and Health Management Privatisation in Malaysia Integrity and Anti-Corruption  Year 2 HR Issues in Outsourcing\nHR Planning\nBusiness Communications\nBusiness Statistics\nEmployment Relations\nProductivity Link Wage System\nInternational Human Resource Management\nEmployment Law\nReward Management\nBusiness Ethics\nBusiness Mathematics\nOperations Management\nRecruitment and Selection HR Issues in Outsourcing HR Planning Business Communications Business Statistics Employment Relations Productivity Link Wage System International Human Resource Management Employment Law Reward Management Business Ethics Business Mathematics Operations Management Recruitment and Selection",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM or equivalent with 3 credits in any subject."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits in any subject."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Logistics and Supply Chain Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "LSBF College Malaysia",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM or equivalent with 3 credits in any subjects.",
+        "O-Level": "Pass with 3 credits in any subjects.",
+        "STPM": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+      },
+      "english_requirements": {
+        "IELTS": "5.0",
+        "TOEFL": "iBT 40"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 1000,
+        "tuition_fee": 24000
+      },
+      "course_content": {
+        "core": "Year 1 Management Principles\nIntroduction to Human Resource Management\nAccounting and Business Decisions\nBusiness Statistics\nPhilosophy and Current Issues / Bahasa Melayu Komunikasi 1\nIntroduction to Marketing\nBusiness Microeconomics\nFundamentals of Logistics and Supply Chain Management\nTransport Management\nBahasa Kebangsaan A / Entrepreneurship Skills\nBusiness Communications\nBusiness Ethics\nPrivatisation in Malaysia Management Principles Introduction to Human Resource Management Accounting and Business Decisions Business Statistics Philosophy and Current Issues / Bahasa Melayu Komunikasi 1 Introduction to Marketing Business Microeconomics Fundamentals of Logistics and Supply Chain Management Transport Management Bahasa Kebangsaan A / Entrepreneurship Skills Business Communications Business Ethics Privatisation in Malaysia  Year 2 International Logistics\nPhysical Distribution and Warehouse Management\nOperations Management\nBusiness Enterprise Start-Up\nLaw for Logistics\nInternational Business Management\nProject Management\nStrategic Analysis\nEntrepreneurial Marketing\nTransport Management and Movement of Goods\nTransport Policy and Planning\nIntegrity And Anti-Corruption International Logistics Physical Distribution and Warehouse Management Operations Management Business Enterprise Start-Up Law for Logistics International Business Management Project Management Strategic Analysis Entrepreneurial Marketing Transport Management and Movement of Goods Transport Policy and Planning Integrity And Anti-Corruption",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM or equivalent with 3 credits in any subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits in any subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Marketing",
+      "field_of_study": "Marketing",
+      "location": "LSBF College Malaysia",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM or equivalent with 3 credits in any subjects.",
+        "O-Level": "Pass with 3 credits in any subjects.",
+        "STPM": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+      },
+      "english_requirements": {
+        "IELTS": "5.0",
+        "TOEFL": "iBT 40"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 1000,
+        "tuition_fee": 24000
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Digital Entrepreneurship\nFundamentals of Management\nFundamentals of Information Technology\nFundamentals of Marketing\nEnglish for Business Purposes\nPhilosophy and Current Issues / Bahasa Melayu Komunikasi 1\nIntroduction to Digital Marketing\nCreative Thinking in Digital Entrepreneurship\nFundamentals of Business\nBusiness Communications\nConsumer Behaviour\nE-Commerce\nMicroeconomics\nBusiness Law\nBahasa Kebangsaan A / Entrepreneurship Skills Introduction to Digital Entrepreneurship Fundamentals of Management Fundamentals of Information Technology Fundamentals of Marketing English for Business Purposes Philosophy and Current Issues / Bahasa Melayu Komunikasi 1 Introduction to Digital Marketing Creative Thinking in Digital Entrepreneurship Fundamentals of Business Business Communications Consumer Behaviour E-Commerce Microeconomics Business Law Bahasa Kebangsaan A / Entrepreneurship Skills  Year 2 Social Media Marketing\nHuman Resource Management\nBusiness Ethics\nBusiness Statistics\nOrganisation Behaviour\nIntegrity And Anti-Corruption\nDigital Marketing Strategy\nMarketing Management\nPrinciples of Operations Management\nMacroeconomics\nPrivatisation in Malaysia\nFinancial Management for Digital Business\nMultimedia and Web Technology\nBusiness Plan Social Media Marketing Human Resource Management Business Ethics Business Statistics Organisation Behaviour Integrity And Anti-Corruption Digital Marketing Strategy Marketing Management Principles of Operations Management Macroeconomics Privatisation in Malaysia Financial Management for Digital Business Multimedia and Web Technology Business Plan",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM or equivalent with 3 credits in any subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits in any subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
+          }
+        ]
+      }
+    }
+  ]
+}

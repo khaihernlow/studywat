@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 11656,
   "malaysia_rank": 80,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/University+of+Reading+Malaysia/UoRM+EduCity+Iskandar/Campus_and_Surroundings/01c_UoRM_EduCity_Iskandar_Campus_Exterior.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Pre-Sessional English",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Feb",
@@ -40,7 +43,8 @@
             "value": "D"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "BSc Accounting & Finance",
@@ -202,11 +206,12 @@
             "text": "ATAR 87 or above.  Grade A/B in Mathematics is expected at SPM,IGCSE, or an equivalent level qualification or higher."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BSc Finance & Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Apr",
@@ -321,11 +326,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business and Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Apr",
@@ -434,11 +440,12 @@
             "text": "ATAR 87 or above.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Laws (LL.B)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Apr",
@@ -529,11 +536,12 @@
             "text": "ATAR 87 or above."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "BSc Real Estate",
-      "field_of_study": "Property & Real Estate",
+      "field_of_study": "Business",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Apr",
@@ -696,11 +704,12 @@
             "text": "ATAR 87 or above.  Credit in Mathematics is expected at SPM, IGCSE, or an equivalent level qualification or higher."
           }
         ]
-      }
+      },
+      "course": "Property & Real Estate"
     },
     {
       "program_name": "BSc Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Apr",
@@ -808,11 +817,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Psychology with Professional Placement",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Apr",
@@ -924,11 +934,12 @@
             "text": "ATAR 87 or above.  Credits in Mathematics and Science is expected at SPM, IGCSE, or an equivalent level qualification or higher."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Quantity Surveying",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Apr",
@@ -1065,11 +1076,12 @@
             "text": "ATAR 87 or above, including a pass in Mathematics."
           }
         ]
-      }
+      },
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "International Foundation Programme (Psychology)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Apr",
@@ -1152,11 +1164,12 @@
             "text": "28 points with 4 points or higher in at least 5 subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "International Foundation Programme",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Apr",
@@ -1227,11 +1240,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "PhD in Built Environment",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Jan",
@@ -1280,11 +1294,12 @@
             "text": "A minimum upper second-class or international equivalent, or in exceptional circumstances, such as where a student has accrued significant relevant experience, a good 2.2 (lower second-class honours) degree.."
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "PhD in Business & Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Jan",
@@ -1333,11 +1348,12 @@
             "text": "A minimum upper second-class or international equivalent, or in exceptional circumstances, such as where a student has accrued significant relevant experience, a good 2.2 (lower second-class honours) degree.."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "PhD in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Reading, EduCity Iskandar",
       "intakes": [
         "Jan",
@@ -1386,7 +1402,8 @@
             "text": "Master’s degree or an equivalent qualification recognised by the Malaysian Government, or other qualification that the University accepts.."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     }
   ]
 }

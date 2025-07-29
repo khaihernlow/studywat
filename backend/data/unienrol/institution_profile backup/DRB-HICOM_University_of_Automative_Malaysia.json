@@ -1,0 +1,4961 @@
+{
+  "institution_name": "DRB-HICOM University of Automative Malaysia",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Bachelor of Accounting",
+      "field_of_study": "Accounting",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "5Bs and credit in Mathematics and pass in English.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7350,
+        "tuition_fee": 50000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHubungan Etnik\nTITAS\nPengajian Malaysia\nBahasa Melayu Komunikasi 2\nEnglish for Business Communications\nPrinciples of Marketing\nPrinciples of Management\nCo Curriculum 1\n\nSemester 2\nPrinciples of Microeconomics\nIntroduction to Financial Accounting\nIntroduction to MIS\nBusiness Mathematics\nEnglish for Business Studies\nCo Curriculum 2\n\nSemester 3\nPrinciples of Macroeconomics\nKemahiran Berfikir dan Membuat Keputusan\nFinancial Accounting and Reporting I\nBusiness Statistics\nCo-curriculum 3\n\nYear 2\nSemester 4\nIsu-isu kekeluargaan\nEtika dan Moral\nPerkembangan Sains Peradaban Manusia\nPerlembagaan Masyarakat\nFinancial Management 1\nIntroduction to Taxation\nManagement Accounting 1\nFinancial Accounting and Reporting II\nCo-curriculum 4\n\nSemester 5\nManagement Accounting 2\nFinancial Management 2\nCompany Law\nAudit I\nFinancial Accounting and Reporting III\n\nSemester 6\nManagement Accounting III\nAudit II\nFinancial Accounting and Reporting IV\nTaxation II\nPublic Sector Accounting\n\nYear 3\nSemester 7\nInternational Business\nProfessional Values & Ethics\nAccounting Information Systems\nManagement Science\nAdvanced Taxation\nAdvanced Audit & Assurance\n\nSemester 8\nIntegrated Case Study in Accounting\nAccounting Theory & Practices\nAdvances Financial Accounting & Reporting\nOperation & Project Management\nStrategic Management\nRisk Management\nManagement Accounting & Applied Finance\nFinancial Strategy\n\nSemester 9\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7 Semester 8 Semester 9",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Business Information",
+      "field_of_study": "Business Administration",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6850,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHubungan Etnik\nTITAS\nMalaysian Studies\nEnglish for Business Communications\nPrinciples of Marketing\nPrinciples of Management\nCo Curriculum 1\n\nSemester 2\nPrinciples of Microeconomics\nIntroduction to Financial Accounting\nIntroduction to MIS\nBusiness Mathematics\nEnglish for Business Studies\nCo Curriculum 2\n\nSemester 3\nPrinciples of Macroeconomics\nIntroduction to Costing\nFundamentals of Business & Entrepreneurship\nTime Management\nBusiness Statistics\n\nYear 2\nSemester 4\nThe Development of Science and Human Civilization\nOrganizational Behaviour\nOperation Management\nBusiness and Consumer Law\nTotal Quality Management\n\nSemester 5\nHuman Resource Management\nE-Commerce\nFundamentals of Database Management Systems\nAutomotive Industry Environment\n\nSemester 6\nBusiness Ethics\nProject Management\nData Communications and Networking\n\nYear 3\nSemester 7\nResearch Method\nInternational Business\nInformation System Security\nBusiness Intelligence and Analysis\n\nSemester 8\nStrategic Information Systems Management\nFinal project\nCases & Practices in Automotive Business\n\nSemester 9\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7 Semester 8 Semester 9",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Enterprise Risk Management",
+      "field_of_study": "Business Administration",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "5 Bs in any subject including Mathematic and English.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6750,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHubungan Etnik\nTITAS\nEnglish for Business Communications\nPrinciples of Marketing\nPrinciples of Management\nCo Curriculum 1\n\nSemester 2\nPrinciples of Microeconomics\nIntroduction to Financial Accounting\nIntroduction to MIS\nBusiness Mathematics\nEnglish for Business Studies\nCo Curriculum 2\n\nSemester 3\nPrinciples of Macroeconomics\nIntroduction to Costing\nKemahiran Berfikir dan Membuat Keputusan\nFundamentals of Business & Entrepreneurship\nCo Curriculum 3\nBusiness Statistics\n\nYear 2\nSemester 4\nIsu-Isu Kekeluargaaan 3\nOrganizational Behaviour\nOperation Management\nBusiness and Consumer Law\nTotal Quality Management\nCo Curriculum 3\n\nSemester 5\nHuman Resource Management\nRisk in E-Commerce\nFundamentals of Risk Management Systems\nPrinciples of Financial Management\nAutomotive Industry Environment\n\nSemester 6\nBusiness Ethics\nRisk Management Framework\nEnterprise Risk Management 1\nupply Chain Management\n\nYear 3\nSemester 7\nResearch Method\nQuantitative Business Analysis\nEnterprise Risk Management 2\nCOSO-Enterprise Risk Management\nProject Risk Management\n\nSemester 8\nStrategic Management\nFinal project Paper\nGovernance Risk and Compliance\nCases & Practices in Automotive Business\n\nSemester 9\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7 Semester 8 Semester 9",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic",
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6950,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHubungan Etnik\nTITAS\nPengajian Malaysia 3\nBahasa Melayu Komunikasi 2\nEnglish for Business Communications\nComputer Systems\nTechnopreneurship\n\nSemester 2\nComputer Programming (C++)\nSystem Analysis and Design\nIntroduction to Management Information Systems\nMathematics for Information Technology (Discrete Mathematic)\nEnglish for Business Studies\nTime Management\n\nSemester 3\nWeb System and Technology\nMobile Technology\nOperating System\nStatistic for Information Technology\nPembangunan Masyarakat I\nSiswaniaga I\n\nYear 2\nSemester 4\nThe Development of Science and Human Civilization\nPrinciple of Management\nOperations Management 1\nCyber Law\nPembangunan Masyarakat I\nSiswaniaga I\nHuman Computer Interaction\n\nSemester 5\nIntroduction to Object Oriented Programming (JAVA)\nFundamental of Database Management Systems (ACCESS & EXCEL)\nE-Commerce\nAutomotive Industry Environment\n\nSemester 6\nAdvanced Database Management System (SQL)\nIT Project Management (COMPTIA PROJECT+)\nData Communications and Networking\n\nYear 3\nSemester 7\nFinal Project 1\nBusiness Intelligence and Analytics\nInformation Systems Security (COMPTIA SECURITY+)\nInternet of Things\n\nSemester 8\nEthics and IT Professional Practices\nFinal project paper 2\n\nSemester 9\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7 Semester 8 Semester 9",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;."
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">",
+            "value": 2.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Islamic Banking & Finance",
+      "field_of_study": "Islamic Finance",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 3,
+      "internship": "6 months",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics",
+        "UEC": "Please contact our counsellors for further details.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field). Candidates with CGPA below 2.5 but above 2.0 may be admitted subject to an internal assessment process.  SPM-level or equivalent:\npass in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "4",
+        "TOEFL": "397"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6950,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHubungan Etnik\nTITAS\nBahasa Melayu Komunikasi\nPengajian Malaysia\nEnglish for Business Communications\nPrinciples of Marketing\nKo-Kurikulum 1\n\nSemester 2\nPrinciples of Microeconomics\nPhilosophy of Islamic Finance and Banking\nIntroduction to MIS\nBusiness Mathematics\nEnglish for Business Studies\nKo-Kurikulum 2\n\nSemester 3\nPrinciples of Macroeconomics\nFundamentals of Business and Entrepreneurship\nKemahiran Berfikir dan Membuat Keputusan 3\nBusiness Statistics\nIslamic Financial Law 1 (Usul Fiqh)\nKo-Kurikulum 3\n\nYear 2\nSemester 1\nIsu-isu Kekeluargaan 3\nEtika dan Moral (non-muslim)\nIslamic Financial Law 2 (Qawaid Fiqh)\nIslamic Banking and Operational\nIslamic Economic\nBusiness and consumer Law\nKo-Kurikulum 4\n\nSemester 2\nIslamic Accounting\nIslamic Law of Financial Contract (Fiqh Muamalat)\nIslamic Capital Market I\nPrinciple and Practices of Takaful I\nIslamic Credit Management 3\n\nSemester 3\nIslamic Capital Market 2\nPrinciple and Practices of Takaful 2\nIslamic Investment & Retirement\nRisk in Islamic Financial Services 3\n\nYear 3\nSemester 1\nZakat and Taxation\nIslamic Estate Waqf & Succession Planning\nIslamic Wealth Management\n\nSemester 2\nCases and Practices of Automotive Business\nInternational Current Issues & Integrated Case Study in Islamic Finance\nStrategic Management 3\n\nSemester 3\nIndustrial / Practical Training (6 months) Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 1 Semester 2 Semester 3 Year 3 Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field). Candidates with CGPA below 2.5 but above 2.0 may be admitted subject to an internal assessment process.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Operation Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics",
+        "UEC": "5 Bs in any subject including Mathematic and English.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7050,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHubungan Etnik\nTITAS\nPengajian Malaysia\nBahasa Melayu Komunikasi 2\nEnglish for Business Communications\nPrinciples of Marketing\nPrinciples of Management\nCo Curriculum 1\n\nSemester 2\nPrinciples of Microeconomics\nIntroduction to Financial Accounting\nIntroduction to MIS\nBusiness Mathematics\nEnglish for Business Studies\nCo Curriculum 2\n\nSemester 3\nPrinciples of Macroeconomics\nIntroduction to Costing\nFundamentals of Business & Entrepreneurship\nTime Management\nBusiness Statistics\nCo-curriculum 3\n\nYear 2\nSemester 4\nIsu-isu kekeluargaan\nEtika dan Moral\nOrganizational Behaviour\nOperation Management 1\nBusiness and Consumer Law\nProject Management\nCo-curriculum 4\n\nSemester 5\nTotal Quality Management\nOperation Management 2\nHuman Resource Management\nIndustrial Labour Relations\nOccupational Safety and Health\nAutomotive Industry Environment\n\nSemester 6\nBusiness Ethics\nIntroduction to Enterprise Resource Planning\nBusiness Innovation\nTotal Productive Maintenance\nSupply Chain Management\n\nYear 3\nSemester 7\nResearch Method\nManagement Science\nCustomer Relationship Management\nInventory and Warehouse Management\nTechnology Management\nLean Manufacturing\n\nSemester 8\nStrategic Management\nFinal project paper\nCases & Practices in Automotive Business (Operation Management)\nProblem Solving Methodology\nFundamental of Risk Management\n\nSemester 9\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7 Semester 8 Semester 9",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic",
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Supply Chain Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics",
+        "UEC": "5 Bs in any subject including Mathematic and English.  SPM-level or equivalent:\npass in Mathematics",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7050,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHubungan Etnik\nTITAS\nPengajian Malaysia\nBahasa Melayu Komunikasi 2\nEnglish for Business Communications\nPrinciples of Marketing\nPrinciples of Management\nCo Curriculum 1\n\nSemester 2\nPrinciples of Microeconomics\nIntroduction to Financial Accounting\nIntroduction to MIS\nBusiness Mathematics\nEnglish for Business Studies\nCo Curriculum 2\n\nSemester 3\nPrinciples of Macroeconomics\nIntroduction to Costing\nFundamentals of Business & Entrepreneurship\nTime Management\nBusiness Statistics\nCo-curriculum 3\n\nYear 2\nSemester 4\nIsu-isu kekeluargaan\nEtika dan Moral\nTotal Quality Management\nOrganizational Behaviour\nOperation Management 1\nBusiness and Consumer Law\nCo-curriculum 4\n\nSemester 5\nPrinciples of Financial Management\nHuman Resource Management\nCompetitive Advantage of Supply Chain\nLogistic and Transporation Management\nAutomotive Industry Environment\n\nSemester 6\nBusiness Ethics\nEnterprise Resource Planning\nLean Supply Chain\nSupply Chain Management\n\nYear 3\nSemester 7\nResearch Method\nQuantitative Business Analysis\nInternational Business\ninventory and Warehouse Management\nFundamentals of Risk Management\n\nSemester 8\nStrategic Management\nFinal project paper\nCases & Practices in Automotive Business\nProcumbent and Vendor Management\n\nSemester 9\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7 Semester 8 Semester 9",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Bs in any subject including Mathematic and English.  SPM-level or equivalent:\npass in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Management",
+      "field_of_study": "Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "5 Bs in any subject including Mathematic and English.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6750,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHubungan Etnik\nTITAS\nMalaysian Studies\nEnglish for Business Communications\nPrinciples of Marketing\nPrinciples of Management\nCo Curriculum 1\n\nSemester 2\nPrinciples of Microeconomics\nIntroduction to Financial Accounting\nIntroduction to MIS\nBusiness Mathematics\nEnglish for Business Studies\nCo Curriculum 2\n\nSemester 3\nPrinciples of Macroeconomics\nIntroduction to Costing\nFundamentals of Business & Entrepreneurship\nTime Management\nBusiness Statistics\n\nYear 2\nSemester 4\nThe Development of Science and Human Civilization\nOrganizational Behaviour\nOperation Management\nBusiness and Consumer Law\nProject Management\n\nSemester 5\nTotal Quality Management\nHuman Resource Management\nE-Commerce\nManaging Projects and Processes in Organizations\nAutomotive Industry Environment\n\nSemester 6\nBusiness Ethics\nLeadership and People Management\nBusiness Innovation\nSupply Chain Management\n\nYear 3\nSemester 7\nResearch Method\nQuantitative Business Analysis\nInternational Business\nNegotiation and Conflict Management\nBusiness Society and Sustainability\n\nSemester 8\nStrategic Management\nFinal project paper\nCases & Practices in Automotive Business\nManagement Skills Seminar\n\nSemester 9\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7 Semester 8 Semester 9",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Bs in any subject including Mathematic and English.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology (Manufacturing) with Honours",
+      "field_of_study": "Manufacturing Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics and Physics.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7850,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nFundamental English\nHubungan Etnik\nMalaysian Studies 3\nEngineering Mathematics 1\nPrinciple of Electric\nMetrology\nEngineering Drawing\n\nSemester 2\nProfessional English 1\nTamadun Islam dan Tamadun Asia\nMalay Language for Communication 2\nEngineering Mathematics 2\nFundamental of Automotive Technology\nStatics\nWorkshop Practice\n\nSemester 3\nProfessional English 2\nTime Management\nIndustrial Safety Health and Environment\nEngineering Statistics\nDynamics\nEngineering Material\n\nYear 2\nSemester 1\nThe Development of Science and Human Civilization\nFundamental of Business and Entrepreneurship\nSolid Mechanics\nThermodynamics\nprinciple of Electronic\nComputer Programming\n\nSemester 2\nPembangunan Masyarakat I\nSiswaniaga I\nSiswa Siswi Pertahanan Awam Malaysia I\nHydraulics and Pneumatics\nFluid Mechanics\nTotal Quality Management\nManufacturing Process\n\nSemester 3\nPembangunan Masyarakat II\nSiswaniaga II\nSiswa Siswi Pertahanan Awam Malaysia II\nAutomotive Industry Environment\nControl System\nComputer Integrated Manufacturing\nManufacturing System\n\nYear 3\nSemester 1\nMachine Design\nCAD and Product Development: Part 1\nAdvanced Manufacturing Process\n\nSemester 2\nUndergraduate Project 1\nCAD and Product Development: Part 2\nProduct Realisation and Material: Part 1\nEngineering Innovation and Enterprise\n\nSemester 3\nUndergraduate Project 2\nProduct Realisation and Material: Part 2\n\nYear 4\nSemester 1\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 1 Semester 2 Semester 3 Year 3 Semester 1 Semester 2 Semester 3 Year 4 Semester 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Mathematics and Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Marketing Management",
+      "field_of_study": "Marketing",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6850,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHubungan Etnik\nTITAS\nEnglish for Business Communications\nPrinciples of Marketing\nPrinciples of Management\n\nSemester 2\nPrinciples of Microeconomics\nIntroduction to Financial Accounting\nIntroduction to MIS\nBusiness Mathematics\nEnglish for Business Studies\n\nSemester 3\nPrinciples of Macroeconomics\nIntroduction to Costing\nFundamentals of Business & Entrepreneurship\nTime Management\nBusiness Statistics\n\nYear 2\nSemester 4\nThe Development of Science and Human Civilization\nOrganizational Behaviour\nTotal Quality Management\nBusiness and Consumer Law\nOperations Management\nCo-curriculum 1\n\nSemester 5\nHuman Resource Management\nProduct Innovation and Commercialization\nConsumer Behaviour\nAutomotive Industry Environment\n\nSemester 6\nBusiness Ethics\nMarketing Management\nMarketing Research\n\nYear 3\nSemester 7\nRetail Marketing Management\nInternational Marketing\nIntegrated Marketing Communication\nStrategic Marketing\n\nSemester 8\nStrategic Planning and Implementation\nFinal project\nCases & Practices in Automotive Business\n\nSemester 9\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7 Semester 8 Semester 9",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology (Material) with Honours",
+      "field_of_study": "Mechanical Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics and Physics.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7750,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nFundamental English\nHubungan Etnik\nMalaysian Studies 3\nEngineering Mathematics 1\nPrinciple of Electric\nMetrology\nEngineering Drawing\n\nSemester 2\nProfessional English 1\nTamadun Islam dan Tamadun Asia\nMalay Language for Communication 2\nEngineering Mathematics 2\nFundamental of Automotive Technology\nStatics\nWorkshop Practice\n\nSemester 3\nProfessional English 2\nTime Management\nIndustrial Safety Health and Environment\nEngineering Statistics\nDynamics\nEngineering Material\n\nYear 2\nSemester 1\nThe Development of Science and Human Civilization\nFundamental of Business and Entrepreneurship\nSolid Mechanics\nThermodynamics\nprinciple of Electronic\nComputer Programming\n\nSemester 2\nPembangunan Masyarakat I\nSiswaniaga I\nSiswa Siswi Pertahanan Awam Malaysia I\nHydraulics and Pneumatics\nFluid Mechanics\nTotal Quality Management\nManufacturing Process\n\nSemester 3\nPembangunan Masyarakat II\nSiswaniaga II\nSiswa Siswi Pertahanan Awam Malaysia II\nControl System\nComputer Aided Design\nEngineering Polymers\nEngineering Ceramics\n\nYear 3\nSemester 1\nMachine Design\nMetallurgy\nEngineering Composites\nLean Manufacturing for Technology\n\nSemester 2\nUndergraduate Project 1\nNon-Destructive Testing\nCorrosion Engineering\n\nSemester 3\nUndergraduate Project 2\nMaterial Selection\n\nYear 4\nSemester 1\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 1 Semester 2 Semester 3 Year 3 Semester 1 Semester 2 Semester 3 Year 4 Semester 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Mathematics and Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology with Honours",
+      "field_of_study": "Mechanical Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics and Physics.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7850,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nFundamental English\nHubungan Etnik\nMalaysian Studies 3\nEngineering Mathematics 1\nPrinciple of Electric\nMetrology\nEngineering Drawing\n\nSemester 2\nProfessional English 1\nTamadun Islam dan Tamadun Asia\nMalay Language for Communication 2\nEngineering Mathematics 2\nFundamental of Automotive Technology\nStatics\nWorkshop Practice\n\nSemester 3\nProfessional English 2\nTime Management\nIndustrial Safety Health and Environment\nEngineering Statistics\nDynamics\nEngineering Material\n\nYear 2\nSemester 1\nThe Development of Science and Human Civilization\nFundamental of Business and Entrepreneurship\nSolid Mechanics\nThermodynamics\nPrinciple of Electronic\nComputer Programming\n\nSemester 2\nPembangunan Masyarakat I\nSiswaniaga I\nSiswa Siswi Pertahanan Awam Malaysia I\nHydraulics and Pneumatics\nFluid Mechanics\nTotal Quality Management\nComputer Aided Design\n\nSemester 3\nPembangunan Masyarakat II\nSiswaniaga II\nSiswa Siswi Pertahanan Awam Malaysia II\nHeat Transfer\nControl System\nFinite Element Analysis in Solid Mechanics\nEconomic Social Ethical and Environmental 1\n\nYear 3\nSemester 1\nEconomic Social Ethical and Environmental 2\nMachine Design\nStructural Mechanics and Stress Analysis 1\nAerodynamics Design and Analysis 1\nMechnical Vibration\n\nSemester 2\nUndergraduate Project 1\nStructural Mechanics and Stress Analysis 2\nAerodynamics Design and Analysis 2\nProduct Realisation and Material: Part 1\n\nSemester 3\nUndergraduate Project 2\nProduct Realisation and Material: Part 1\n\nYear 4\nSemester 1\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 1 Semester 2 Semester 3 Year 3 Semester 1 Semester 2 Semester 3 Year 4 Semester 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Mathematics and Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology (Quality System) with Honours",
+      "field_of_study": "Mechanical Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics and Physics.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7750,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nFundamental English\nHubungan Etnik\nMalaysian Studies 3\nEngineering Mathematics 1\nPrinciple of Electric\nMetrology\nEngineering Drawing\n\nSemester 2\nProfessional English 1\nTamadun Islam dan Tamadun Asia\nMalay Language for Communication 2\nEngineering Mathematics 2\nFundamental of Automotive Technology\nStatics\nWorkshop Practice\n\nSemester 3\nProfessional English 2\nTime Management\nIndustrial Safety Health and Environment\nEngineering Statistics\nDynamics\nEngineering Material\n\nYear 2\nSemester 1\nThe Development of Science and Human Civilization\nFundamental of Business and Entrepreneurship\nSolid Mechanics\nThermodynamics\nPrinciple of Electronic\nComputer Programming\n\nSemester 2\nPembangunan Masyarakat I\nSiswaniaga I\nSiswa Siswi Pertahanan Awam Malaysia I\nHydraulics and Pneumatics\nFluid Mechanics\nTotal Quality Management\nManufacturing Process\n\nSemester 3\nPembangunan Masyarakat II\nSiswaniaga II\nSiswa Siswi Pertahanan Awam Malaysia II\nComputer Aided Design\nControl System\nProduct Design\nProblem Solving Methodology\n\nYear 3\nSemester 1\nMachine Design\nSix Sigma Methodology\nMistake Proofing\nQuality Control and Reliability\nAutomotive Core Tools\n\nSemester 2\nUndergraduate Project 1\nNon-Destructive Testing\nTesting Product Performance\n\nSemester 3\nUndergraduate Project 2\n\nYear 4\nSemester 1\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 1 Semester 2 Semester 3 Year 3 Semester 1 Semester 2 Semester 3 Year 4 Semester 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Mathematics and Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology (Automotive Service Technology) with Honours",
+      "field_of_study": "Mechanical Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics and Physics.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7450,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nFundamental English\nHubungan Etnik\nMalaysian Studies 3\nEngineering Mathematics 1\nMetrology\nEngineering Drawing\n\nSemester 2\nProfessional English 1\nTamadun Islam dan Tamadun Asia\nMalay Language for Communication 2\nEngineering Mathematics 2\nStatics\nWorkshop Practice\n\nSemester 3\nProfessional English 2\nTime Management\nIndustrial Safety Health and Environment\nPrinciple of Electric\nDynamics\nEngineering Material\n\nYear 2\nSemester 1\nThe Development of Science and Human Civilization\nFundamental of Automotive Technology\nSolid Mechanics\nThermodynamics\nPrinciple of Electronic\n\nSemester 2\nPembangunan Masyarakat I\nSiswaniaga I\nSiswa Siswi Pertahanan Awam Malaysia I\nEngineering Statistics\nManufacturing Process\nHydraulics and Pneumatics\nFluid Mechanics\nQuality Management System\n\nSemester 3\nPembangunan Masyarakat II\nSiswaniaga II\nSiswa Siswi Pertahanan Awam Malaysia II\nAutomotive Industry Environment\nComputer Aided Design\nIntroduction to Costing\nEngine Technology\nChassis Technology\n\nYear 3\nSemester 1\nFundamental of Business and Entrepreneurship\nTransmission Technology\nService Operation and Management\nEngine Management System and Autotronics\n\nSemester 2\nFinal Year Project 1\nAlternative Fuel Technology\nAutomotive Air-Conditioning System\nInstrumentation and Control\n\nSemester 3\nFinal Year Project 2\n\nYear 4\nSemester 1\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 1 Semester 2 Semester 3 Year 3 Semester 1 Semester 2 Semester 3 Year 4 Semester 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Mathematics and Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology (Mechatronic) With Honours",
+      "field_of_study": "Mechanical Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics and Physics.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7950,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nFundamental English\nHubungan Etnik\nMalaysian Studies 3\nEngineering Mathematics 1\nMetrology\nEngineering Drawing\nPrinciple of Electric\n\nSemester 2\nProfessional English 1\nTamadun Islam dan Tamadun Asia\nMalay Language for Communication 2\nEngineering Mathematics 2\nStatics\nWorkshop Practice\n\nSemester 3\nProfessional English 2\nTime Management\nBahasa Kebangsaan A\nIndustrial Safety Health and Environment\nEngineering Statistics\nDynamics\nEngineering Material\n\nYear 2\nSemester 1\nThe Development of Science and Human Civilization\nFundamental of Business and Entrepreneurship\nSolid Mechanics\nThermodynamics\nPrinciple of Electronic\nComputer Programming\n\nSemester 2\nPembangunan Masyarakat I\nSiswaniaga I\nSiswa Siswi Pertahanan Awam Malaysia I\nHydraulics and Pneumatics\nFluid Mechanics\nTotal Quality Management\nManufacturing Process\n\nSemester 3\nPembangunan Masyarakat II\nSiswaniaga II\nSiswa Siswi Pertahanan Awam Malaysia II\nAutomotive Industry Environment\nComputer Aided Design\nControl System\nEconomic Social Ethical and Environmental Part 1\n\nYear 3\nSemester 1\nLinear Systems and Signals\nControl Engineering Part 1\nPLC and Industrial Networking\n\nSemester 2\nUndergraduate Project 1\nSignal Processing Part 1\nMechatronics System Design Part 1\nEconomic Social Ethical and Environmental Part 2\nControl Engineering Part 2\n\nSemester 3\nUndergraduate Project 2\nSignal Processing Part 2\nMechatronics System Design Part 2\n\nYear 4\nSemester 1\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 1 Semester 2 Semester 3 Year 3 Semester 1 Semester 2 Semester 3 Year 4 Semester 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Mathematics and Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechanical Engineering Technology (Industrial Design) with Honours",
+      "field_of_study": "Mechanical Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "Principal Passes in Mathematics and Physics.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7450,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nFundamental English\nHubungan Etnik\nMalaysian Studies 3\nEngineering Mathematics 1\nMetrology\nEngineering Drawing\n\nSemester 2\nProfessional English 1\nTamadun Islam dan Tamadun Asia\nMalay Language for Communication 2\nEngineering Mathematics 2\nStatics\nWorkshop Practice\n\nSemester 3\nProfessional English 2\nTime Management\nIndustrial Safety Health and Environment\nPrinciple of Electric\nDynamics\nEngineering Material\n\nYear 2\nSemester 1\nThe Development of Science and Human Civilization\nFundamental of Automotive Technology\nSolid Mechanics\nThermodynamics\nPrinciple of Electronic\nManufacturing Process\n\nSemester 2\nPembangunan Masyarakat I\nSiswaniaga I\nSiswa Siswi Pertahanan Awam Malaysia I\nEngineering Statistics\nHydraulics and Pneumatics\nFluid Mechanics\nQuality Management System\nProduct Design\n\nSemester 3\nPembangunan Masyarakat II\nSiswaniaga II\nSiswa Siswi Pertahanan Awam Malaysia II\nAutomotive Industry Environment\nComputer Aided Design\nIndustrial Design Studio 1\nErgonomic\n\nYear 3\nSemester 1\nFundamental of Business and Entrepreneurship\nIndustrial Design Studio 2\nCAD/CAM\nRapid Prototyping and Reverse Engineering\n\nSemester 2\nFinal Year Project 1\nIndustrial Design Studio 3\nComputer Aided Engineering\nInstrumentation and Control\n\nSemester 3\nFinal Year Project 2\n\nYear 4\nSemester 1\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 1 Semester 2 Semester 3 Year 3 Semester 1 Semester 2 Semester 3 Year 4 Semester 1",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Principal Passes in Mathematics and Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Occupational Safety and Health",
+      "field_of_study": "Occupational Safety & Health",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry.",
+        "UEC": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry.",
+        "Diploma": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted..",
+        "STPM": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry.",
+        "Foundation": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.5",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7350,
+        "tuition_fee": 50000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nFundamental English\nHubungan Etnik\nMalaysian Studies 3\nHuman Anatomy and Physiology\nOSH Fundamental\nOSH Legislation\n\nSemester 2\nProfessional English 1\nTamadun Islam dan Tamadun Asia\nMalay Language for Communication 2\nIndustrial Safety\nApplied Mechanic for Safety\nFundamental of Business and Entrepreneurship\nOccupational Health\n\nSemester 3\nProfessional English 2\nTime Management\nChemistry\nIndustrial Hygiene\nIndustrial Toxicology\n\nYear 2\nSemester 1\nThe Development of Science and Human Civilization\nErgonomic\nOccupational Epidemiology\nProcess Safety and Loss Prevention\nHazard Recognition and Risk Management\n\nSemester 2\nPembangunan Masyarakat I\nSiswaniaga I\nSiswa Siswi Pertahanan Awam Malaysia I\nOccupational Safety And Health Management System\nToxic & Hazardous Waste Management\nQuality Management System\n\nSemester 3\nPembangunan Masyarakat II\nSiswaniaga II\nSiswa Siswi Pertahanan Awam Malaysia II\nExposure Measurement Techniques and Analysis\nFire and Building Safety\nEmergency Response & Preparedness\n\nYear 3\nSemester 1\nUndegraduate Project 1\nAir Pollution Control Technology\nAccident & Incident Investigation Analysis\n\nSemester 2\nUndergraduate Project 2\n\nSemester 3 & Semester 1 (Year 4)\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 1 Semester 2 Semester 3 Year 3 Semester 1 Semester 2 Semester 3 & Semester 1 (Year 4)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "minimum Grade D in 2 subjects including Biology, Physics/Mathematics or Chemistry."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including 2Bs from Biology, Physics/Mathematics or Chemistry."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics/Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) in Retail Management",
+      "field_of_study": "Retail Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "5 Bs in any subject including Mathematic and English.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6750,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nHubungan Etnik\nTITAS\nEnglish for Business Communications\nPrinciples of Marketing\nPrinciples of Management\nCo Curriculum 1\n\nSemester 2\nPrinciples of Microeconomics\nIntroduction to Financial Accounting\nIntroduction to MIS\nBusiness Mathematics\nEnglish for Business Studies\nCo Curriculum 2\n\nSemester 3\nPrinciples of Macroeconomics\nIntroduction to Costing\nFundamentals of Business & Entrepreneurship\nTime Management\nBusiness Statistics\n\nYear 2\nSemester 4\nThe Development of Science and Human Civilization\nOrganizational Behaviour\nPrinciples Concept and Practices of Retailing\nBusiness and Consumer Law\nHuman Resource Management\n\nSemester 5\nTotal Quality Management\nPrinciples of Financial Management\nE-Commerce\nConsumer Behaviour\nAutomotive Industry Environment\n\nSemester 6\nBusiness Ethics\nRetail Costing and Financial Control\nRetail Management\nSupply Chain Management\n\nYear 3\nSemester 7\nResearch Method\nQuantitative Business Analysis\nRetail Operations and Technology\nGlobal Retailing\nVisual Merchandising\n\nSemester 8\nStrategic Management\nFinal project paper\nCases & Practices in Automotive Business\nMerchandise Management\n\nSemester 9\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7 Semester 8 Semester 9",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic",
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Accounting",
+      "field_of_study": "Accounting",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics AND Pass in English.",
+        "O-Level": "Pass with 3 credits including Mathematics AND Pass in English.",
+        "UEC": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 5950,
+        "tuition_fee": 27500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nComputer Application\nPengajian Malaysia 2\nIntroduction to Marketing\nIntroduction to Management\nCo-curriculum 1\n\nSemester 2\nKemahiran Berfikir dan Membuat Keputusan\nPrinciples of Economics\nKemahiran Menulis / Kemahiran Berfikir\nBusiness Communication\nBusiness Mathematics\nPengurusan Masa\nFinancial Acocunting I\nCo-curriculum 2\n\nSemester 3\nEntrepreneurship and Innovation\nQuantitative Analysis for Business\nBusiness Writing\nFinancial Accounting II\nFoundation in Financial Management\nCo-curriculum 3\n\nYear 2\nSemester 4\nEtika & Moral\nIsu-Isu Kekeluargaan\nPerkembangan Sains Peradaban Manusia\nPerlembagaan Masyarakat\nIntroduction to Taxation\nFinancial Accounting III\nIntroduction to Business\nFundamental of Costing\nCo-curriculum 4\n\nSemester 5\nBusiness and Consumer Law\nFundamental for Islamic Accounting\nManagement Accounting I\nFoundation in Audit\nFinancial Accounting IV\n\nSemester 6\nEmerging Issues and Technology in Auto Industry\nManagement Accounting II\nTaxation in Malaysia\nAccounting for Information System\nBusiness Ethics\n\nYear 3\nSemester 7\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Automotive Technology",
+      "field_of_study": "Automotive Technology",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits including Mathematic and any subject in Science/Technical/Vocational and passed in English.",
+        "O-Level": "3 Credits including Mathematic and any subject in Science/Technical/Vocational and passed in English."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6050,
+        "tuition_fee": 36500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nPengajian Malaysia 2\nMalay Language for Communication 1\nIntroductory English\nAlgebra\nComputer Application\nMaterial Science\nMetrology\n\nSemester 2\nTechnical Communication 1\nCalculus\nFundamental of Automotive Technology\nIntroduction to Electrical and Electronics\nVisual Management\nThermo-Fluids\nThinking Skills/Bahasa Kebangsaan A\n\nSemester 3\nPembangunan Masyarakat 1\nSiswa Niaga 1\nSiswa Siswi Pertahanan Awam Malaysia 1\nTechnical Communication 2\nStatistics\nStatics and Dynamics\nDrivetrain System\nEngine Technology\n\nYear 2\nSemester 4\nPembangunan Masyarakat II\nSiswa Niaga II\nSiswa Siswi Pertahanan Awam Malaysia II\nIntroduction to Quality Management System\nStrength of Materials\nEngineering Drawing\nChassis Technology\nBody Eledctrical and Accessories\n\nSemester 5\nSafety Health and Environment\nAutomotive Air Condition System Discipline\nEngine Management and Control System\nAlternative Fuel Technology\nService Operation and Management\nProject 1\n\nSemester 6\nContstitution and Society\nVehicle Maintenance Servicing and Pre-Delivery\nEmerging Issue and Technology in Automotive Industry\nEntrepreneurship and Innovation\nProject 2\n\nYear 3\nSemester 7\nInternship Programme Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Technical",
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits including Mathematic and any subject in Science/Technical/Vocational and passed in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Technical",
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Credits including Mathematic and any subject in Science/Technical/Vocational and passed in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Automotive Engineering Technology (Motorsport)",
+      "field_of_study": "Automotive Technology",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Passed in SPM with 3 credits including Mathematics and ONE (1) relevant science / technical / vocational subject AND a pass in English.",
+        "O-Level": "Passed in O-Level with 3 Bs including Mathematic and one subject in Science/Technical/Vocaional and passed in English.",
+        "UEC": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
+      },
+      "english_requirements": {
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6050,
+        "tuition_fee": 36500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nAlgebra\nWorkshop Practice 1\nMotorsport Legislation Safety & Health\nFundamental of Automotive Technology\nPengajian Malaysia 2\nMalay Language for Communication 1\n\nSemester 2\nTechnical Communication 1\nCalculus\nEngineering Drawing\nStatics\nMotorsport Vehicle Preparation and Inspection\nThinking Skills/Bahasa Kebangsaaan A\n\nSemester 3\nTechnical Communication 2\nStatistics\nDynamics\nThermodynamics\nFundamental of Electrical and Electronic\nPembangunan Masyarakat I\nSiswa Niaga I\nSiswa Siswi Pertahanan Awam !\n\nYear 2\nSemester 4\nInternal Combustion Enginer\nMotorsport Chasis System\nMotorsport Drivetrain System\nAutomotive Electrical and Electronic\nPembangunan Masyarakat II\nSiswa Niaga II\nSiswa Siswi Pertahanan Awam II\n\nSemester 5\nSafety Health & Environement\nQuality Management System\nEngine Management System\nAutomotive Heating Ventilation and Air Conditioning System\nVehicle Aerodynamic\nProject 1\n\nSemester 6\nConstitution and Society\nMotorsport Engine Tuning\nMotorsport Vehicle Performance\nProject 2\n\nYear 3\nSemester 7\nInternship Programme Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "technical",
+              "vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in SPM with 3 credits including Mathematics and ONE (1) relevant science / technical / vocational subject AND a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Technical",
+              "Vocaional"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in O-Level with 3 Bs including Mathematic and one subject in Science/Technical/Vocaional and passed in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Technical",
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Entrepreneurship",
+      "field_of_study": "Entrepreneurship",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "IELTS": "4",
+        "TOEFL": "397"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 5650,
+        "tuition_fee": 25200
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nComputer Application\nPengajian Malaysia\nIntroduction to Marketing\nIntroduction to Management\nBahasa Melayu Komunikasi 1\n\nSemester 2\nThinking Skills\nPrinciples of Economics\nKemahiran Menulis 2\nBusiness Communication\nBusiness Mathematics\nPengurusan Masa 2\nBahasa Kebangsaan A\nFinancial Accounting\n\nSemester 3\nPembangunan Masyarakat I\nSiswaniaga I\nBusiness Writing Entrepreneurship\nEntrepreneurship Finance\nFundamental Of Retailing\nQuantitative Analysis For Business\n\nYear 2\nSemester 4\nPerkembangan Sains & Peradaban Manusia 2\nConstitution and Society\nPembangunan Masyarakat II\nSiswaniaga II\nEntrepreneurial Selling\nSmall Business Management\nNegotiation Skills\nConsumer Behaviour\n\nSemester 5\nBusiness Law\nCreativity and Innovation\nIntroduction to Supply Chain Management\nIntroduction to Customer Relationship Management\nHuman Resource Management\n\nSemester 6\nEmerging Issues and Technology in Auto Industry\nIntroduction to QMS\nSocial Entrepreneurship\nInternational Entrepreneurship\nBusiness Ethics\n\nYear 3\nSemester 7\nResearch Project\n\nSemester 8\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7 Semester 8",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma of Engineering Technology in Quality System",
+      "field_of_study": "General Engineering and Technology",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Passed in SPM with 3 credits including Mathematics and ONE (1) relevant science / technical / vocational subject AND a pass in English.",
+        "O-Level": "Passed in O-Level with 3 Bs including Mathematic and one subject in Science/Technical/Vocaional and passed in English.",
+        "UEC": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6050,
+        "tuition_fee": 36500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nAlgebra\nComputer Application\nMaterials Science\nMetrology\nPengajian Malaysia 2\nMalay Language for Communication 1\n\nSemester 2\nTechnical Communication 1\nCalculus\nStatics and Dynamics\nEngineering Drawing\nQuality Management System\nThinking Skills\nBahasa Kebangsaaan A\n\nSemester 3\nTechnical Communication 2\nStatistics\nThermofluid\nProject Management\nFundamental of Electrical and Electronic\nPembangunan Masyarakat I\nSiswa Niaga I\nSiswa Siswi Pertahanan Awam !\n\nYear 2\nSemester 4\nIntroduction to Supply Chain Management\nStrength of Materials\nAutomobile Manufacturing Process\nMistake Proofing and Analysis\nPembangunan Masyarakat II\nSiswa Niaga II\nSiswa Siswi Pertahanan Awam II\n\nSemester 5\nSafety Health and Environment\nContinual Improvement\nTotal Quality Management\nQuality Core Tools\nProject 1\n\nSemester 6\nConstitution and Society\nIntroduction to Operation Management\nEntrepreneurship and Innovation\nLean Manufacturing for Technology\nProject 2\n\nYear 3\nSemester 7\nInternship Programme Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant technical"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in SPM with 3 credits including Mathematics and ONE (1) relevant science / technical / vocational subject AND a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Technical"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Vocaional"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in O-Level with 3 Bs including Mathematic and one subject in Science/Technical/Vocaional and passed in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Technical"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Material Engineering Technology",
+      "field_of_study": "General Engineering and Technology",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Passed in SPM with 3 credits including Mathematics and ONE (1) relevant science / technical / vocational subject AND a pass in English.",
+        "O-Level": "Passed in O-Level with 3 Bs including Mathematic and one subject in Science/Technical/Vocaional and passed in English.",
+        "UEC": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6050,
+        "tuition_fee": 36500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nAlgebra\nFundamental of Electrical and Electronic\nMaterials Science\nMetrology\nPengajian Malaysia 2\nMalay Language for Communication 1\n\nSemester 2\nTechnical Communication 1\nCalculus\nStatics and Dynamics\nEngineering Drawing\nBaasic Metallurgy and Heat Treatment\nThinking Skills\nBahasa Kebangsaaan A\n\nSemester 3\nTechnical Communication 2\nStatistics\nThermodynamics\nComputer Application\nPolymeric Materials and Processing\nPembangunan Masyarakat I\nSiswa Niaga I\nSiswa Siswi Pertahanan Awam !\n\nYear 2\nSemester 4\nSafety Health and Environment\nManufacturing Processes of Metals\nComposite Materials and Processing\nStrength of Materials\nCeramic Materials and Processing\nPembangunan Masyarakat II\nSiswa Niaga II\nSiswa Siswi Pertahanan Awam II\n\nSemester 5\nQuality Management System\nNon-Destructive Testing\nCorrosion and Materials Protection\nMaterials Characterization\nProject 1\n\nSemester 6\nConstitution and Society\nEntrepreneurship and Innovation\nMaterials Selection\nProject 2\n\nYear 3\nSemester 7\nInternship Programme Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant technical"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in SPM with 3 credits including Mathematics and ONE (1) relevant science / technical / vocational subject AND a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Technical"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Vocaional"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in O-Level with 3 Bs including Mathematic and one subject in Science/Technical/Vocaional and passed in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Technical"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics.",
+        "O-Level": "Pass with 3 credits including Mathematics.",
+        "UEC": "3Bs including Mathematic and English."
+      },
+      "english_requirements": {
+        "IELTS": "Band 6",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 5550,
+        "tuition_fee": 25200
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nComputer Application\nIntroduction to Database\nIntroduction to Marketing\nIntroduction to Management\nBahasa Melayu Komunikasi 1/Pengajian Malaysia\n\nSemester 2\nThinking Skills\nBusiness Communication\nBusiness Mathematics\nBahasa Kebangsaan A\nComputer System Artchitecture\nIntroduction to Computer Programming\n\nSemester 3\nPembangunan Masyarakat 1\nSiswaniaga 1\nBusiness Writing\nEntrepreneurship\nBusiness Computing\nIntroduction to Information System Security\n\nYear 2\nSemester 4\nU3 Constitution and Society\nPembangunan Masyarakat 2\nSiswaniaga 2\nIntroduction to System Analysis & Design Computer System Maintenance\nDiscrete Mathematics\n\nSemester 5\nIntroduction to Operating System\nNetwork and Communication\nComputer Ethics\nJava Programming\n\nSemester 6\nEmerging Issues and Technology in Auto Industry\nE-Commerce\nComputing Project\n\nYear 3\nSemester 7\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3Bs including Mathematic and English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Islamic Banking & Finance",
+      "field_of_study": "Islamic Finance",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics AND Pass in English.",
+        "O-Level": "Please contact our counsellors for further details.",
+        "UEC": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "IELTS": "4",
+        "TOEFL": "397"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 5650,
+        "tuition_fee": 25200
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nComputer Application\nPengajian Malaysia 2\nIntroduction to Marketing\nIntroduction to Management\nCo-curriculum 1\nBahasa Melayu Komunikasi 1\n\nSemester 2\nKemahiran Berfikir dan Membuat Keputusan\nPrinciples of Economics\nKemahiran Menulis\nBusiness Communication\nBusiness Mathematics\nPengurusan Masa\nCo-curriculum 2\nBahasa Kebangsaan A\nIntroduction to Islamic Banking and Finance\n\nSemester 3\nEntrepreneurship and Innovation\nUsul Fiqh\nFundamental for Islamic Accoutning\nBusiness Writing\nCo-curriculum 3\n\nYear 2\nSemester 4\nEtika & Moral/Isu-Isu Kekeluargaan/Perkembangan Sains Peradaban Manusia/Perlembagaan Masyarakat\nIslamic Capital Market 4\nTakaful\nFiqh Muamalat\nCo-curriculum 4\n\nSemester 5\nBusiness and Consumer Law\nIslamic Banking and Operational\nIslamic Credit Management\nMarketing of Islamic Finance Products and Quality Customer Service\nIslamic Wealth Management\n\nSemester 6\nEmerging Issues and Technology in Auto Industry\nIslamic Economic\nQawaid Fiqh\nBusiness Ethics\n\nYear 3\nSemester 7\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Procurement Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 Credits in any subjects and pass in English.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 5750,
+        "tuition_fee": 25200
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nComputer Application\nPengajian Malaysia 2\nIntroduction to Marketing\nIntroduction to Management\nCo-curriculum 1\n\nSemester 2\nKemahiran Berfikir dan Membuat Keputusan\nPrinciples of Economics\nBusiness Communication\nBusiness Mathematics\nIntroduction to Accounting\nCo-curriculum 2\n\nSemester 3\nIntroduction to Supply Chain Management\nEntrepreneurship and Innovation\nBusiness Writing\nTrade Finance\nE-Commerce\nCo-curriculum 3\n\nYear 2\nSemester 4\nEtika & Moral\nIsu-Isu Kekeluargaan\nFundamental of Automotive Technology\nVendor Management\nNegotiation Skills\nFundamental of Costing\nCo-curriculum 4\n\nSemester 5\nBusiness and Consumer Law\nSafety and Health (She)\nHuman Resource Management\nCustomer Relationship Management\nIntroduction to Finance\n\nSemester 6\nIntroduction to QMS\nLogistics and Transportation Management\nEmerging Issues and Technology in Auto Industry\nBusiness Ehitcs\n\nYear 3\nSemester 7\nIntroduction to Procurement Management\nResearch Project\n\nSemester 8\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7 Semester 8",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Credits in any subjects and pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Enterprise Resource Planning",
+      "field_of_study": "Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 Credits in any subjects and pass in English.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 5750,
+        "tuition_fee": 25200
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nComputer Application\nPengajian Malaysia\nIntroduction to Marketing\nIntroduction to Management\nCo-curriculum 1\n\nSemester 2\nKemahiran Berfikir dan Membuat Keputusan\nPrinciples of Economics\nBusiness Communication\nBusiness Mathematics\nIntroduction to Accounting\nEntrepreneurship & Innovation\nCo-curriculum 2\n\nSemester 3\nQuantitative Analysis for Business\nIntroduction to Enterprise Resource Planning\nERP Fundamental Setup\nBusiness Writing\nFundamental of Auto Tech\nCo-curriculum 3\n\nYear 2\nSemester 4\nEtika & Moral/Isu-Isu Kekeluargaan\nSupply Chain Management\nIntroduction to Operation Management\nProcurement Management\nSafety Health & Environment (SHE)\nCo-curriculum 4\n\nSemester 5\nBusiness and Consumer Law\nIntroduction to QMS\nProduction Planning and Control\nIntroduction to Finance\nProject Management\n\nSemester 6\nFinancial Accounting\nEmerging Issues and Technology in Auto Industry\nBusiness Ehitcs\nShop Floor Control\nResearch Project\n\nYear 3\nSemester 7\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Credits in any subjects and pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Manufacturing Engineering Technology",
+      "field_of_study": "Manufacturing Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Passed in SPM with Minimum 3 credits including Mathematic and any subject in Science/Technical/Vocational and passed in English.",
+        "O-Level": "Passed in O-Level with 3 Bs including Mathematic and one subject in Science/Technical/Vocaional and passed in English.",
+        "UEC": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6050,
+        "tuition_fee": 36500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nAlgebra\nFundamental of Electrical and Electronic\nMaterials Science\nMetrology\nPengajian Malaysia 2\nMalay Language for Communication 1\n\nSemester 2\nTechnical Communication 1\nCalculus\nStatics\nEngineering Drawing\nWorkshop Practice 1\nThinking Skills/Bahasa Kebangsaaan A\n\nSemester 3\nTechnical Communication 2\nStatistics\nDynamics\nThermodynamics\nComputer Application\nPembangunan Masyarakat I\nSiswa Niaga I\nSiswa Siswi Pertahanan Awam !\n\nYear 2\nSemester 4\nSafety Health and Environment\nFluid Mechanics\nStrength of Materials\nManufacturing Process\nOperation Management\nPembangunan Masyarakat II\nSiswa Niaga II\nSiswa Siswi Pertahanan Awam II\n\nSemester 5\nQuality Management System\nProduct System Design\nManufacturing Systems\nWorkshop Practice 2\nProject 1\n\nSemester 6\nConstitution and Society\nEntrepreneurship and Innovation\nInventory Management and Scheduling\nProject 2\n\nYear 3\nSemester 7\nInternship Programme Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technical",
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in SPM with Minimum 3 credits including Mathematic and any subject in Science/Technical/Vocational and passed in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technical",
+              "Vocaional"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in O-Level with 3 Bs including Mathematic and one subject in Science/Technical/Vocaional and passed in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technical",
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Mechanical Engineering Technology",
+      "field_of_study": "Mechanical Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "O-Level": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "UEC": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6050,
+        "tuition_fee": 36500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nAlgebra\nFundamental of Electrical and Electronic\nMaterials Science\nMetrology\nPengajian Malaysia 2\nMalay Language for Communication 1\n\nSemester 2\nTechnical Communication 1\nCalculus\nStatics\nEngineering Drawing\nWorkshop Practice 1\nThinking Skills\nBahasa Kebangsaaan A\n\nSemester 3\nTechnical Communication 2\nStatistics\nDynamics\nThermodynamics\nComputer Application\nPembangunan Masyarakat I\nSiswa Niaga I\nSiswa Siswi Pertahanan Awam !\n\nYear 2\nSemester 4\nSafety Health and Environment\nFluid Mechanics\nSolid Mechanics\nManufacturing Process\nHydraulics and Pneumatics\nPembangunan Masyarakat II\nSiswa Niaga II\nSiswa Siswi Pertahanan Awam II\n\nSemester 5\nQuality Management System\nIntroduction to Operation Management\nComputer Aided Design\nMachine Design\nProject 1\n\nSemester 6\nConstitution and Society\nEntrepreneurship and Innovation\nMaterials Selection\nProject 2\n\nYear 3\nSemester 7\nInternship Programme Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Vehicle Assembly Management",
+      "field_of_study": "Mechanical Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "O-Level": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "UEC": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6050,
+        "tuition_fee": 36500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nAlgebra\nComputer Application\nMaterials Science\nMetrology\nPengajian Malaysia 2\nMalay Language for Communication 1\nSafety Health and Environment\n\nSemester 2\nTechnical Communication 1\nCalculus\nFundamental of Automotive Technology\nVisual Management\nThermo-Fluids\nIntroduction to Electrical and Electronics\nThinking Skills\nBahasa Kebangsaaan\n\nSemester 3\nTechnical Communication 2\nStatistics\nStatics and Dynamics\nBodyshop Production\nIntroduction to Vehicle Assembly\nPembangunan Masyarakat I\nSiswa Niaga I\nSiswa Siswi Pertahanan Awam 1\n\nYear 2\nSemester 4\nIntroduction to Quality Management System\nStrength of Materials\nEngineering Drawing\nManufacturing Process\nOperation Maintenance\nPembangunan Masyarakat II\nSiswa Niaga II\nSiswa Siswi Pertahanan Awam II\n\nSemester 5\nQuality Core Tools\nPaintshop Production\nPrinciple of Trim and Final Production\nRobotic and Automation\nProject 1\n\nSemester 6\nConstitution and Society\nEmerging Issue and Technology in Automotive Industry\nEntrepreneurship and Innovation\nIntroduction to Supply Chain Management\nProject 2\n\nYear 3\nSemester 7\nInternship Programme Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant technical"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant technical"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant technical"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Vehicle Inspection",
+      "field_of_study": "Mechanical Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "O-Level": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "UEC": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6050,
+        "tuition_fee": 36500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nAlgebra\nComputer Application\nMaterials Science\nMetrology\nPengajian Malaysia 2\nMalay Language for Communication 1\n\nSemester 2\nTechnical Communication 1\nCalculus\nFundamental of Automotive Technology\nIntroduction to Vehicle Inspection\nThermo-Fluids\nIntroduction to Electrical and Electronics\nThinking Skills\nBahasa Kebangsaaan A\n\nSemester 3\nTechnical Communication 2\nStatistics\nStatics and Dynamics\nRules and Regulations in Vehicle Inspection\nPembangunan Masyarakat I\nSiswa Niaga I\nSiswa Siswi Pertahanan Awam !\n\nYear 2\nSemester 4\nIntroduction to Quality Management System\nStrength of MAterials\nEngineering Drawing\nAutonomous Maintenance\nVehicle Inspection Operation and Analysis 1\nPembangunan Masyarakat II\nSiswa Niaga II\nSiswa Siswi Pertahanan Awam II\n\nSemester 5\nSafety Health and Environment\nCustomer Service Management\nLegal Issues in Vehicle Inspection\nVehicle Inspection Operation and Analysis 2\nVehicle Modification and Inspection\nProject 1\n\nSemester 6\nConstitution and Society\nEmerging Issue and Technology in Automotive Industry\nEntrepreneurship and Innovation\nVehicle Maintenance Servicing and Pre-Delivery\nProject 2\n\nYear 3\nSemester 7\nInternship Programme Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "technical",
+              "vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "technical",
+              "vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science",
+              "technical",
+              "vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Mechatronics Engineering Technology",
+      "field_of_study": "Mechatronics Engineering",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "O-Level": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "UEC": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6050,
+        "tuition_fee": 36500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nAlgebra\nFundamental of Electrical and Electronic\nMaterials Science\nMetrology\nPengajian Malaysia 2\nMalay Language for Communication 1\n\nSemester 2\nTechnical Communication 1\nCalculus\nStatics\nEngineering Drawing\nHydraulics and Pneumatics\nThinking Skills\nBahasa Kebangsaaan A\n\nSemester 3\nTechnical Communication 2\nStatistics\nDynamics\nThermodynamics\nComputer Application\nPembangunan Masyarakat I\nSiswa Niaga I\nSiswa Siswi Pertahanan Awam !\n\nYear 2\nSemester 4\nSafety Health and Environment\nFluid Mechanics\nStrength of Materials\nMechatronics System Design\nMicrocontroller\nPembangunan Masyarakat II\nSiswa Niaga II\nSiswa Siswi Pertahanan Awam II\n\nSemester 5\nQuality Management System\nElectrical Circuit\nProgrammable Logic Controller\nElectrical Motors and Drives\nProject 1\n\nSemester 6\nConstitution and Society\nEntrepreneurship and Innovation\nControl Systems\nProject 2\n\nYear 3\nSemester 7\nInternship Programme Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Occupational Safety and Health",
+      "field_of_study": "Occupational Safety & Health",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics or 1 science subject (Biology/Physics/Chemistry/General Science) AND Pass in Bahasa Malaysia and English.",
+        "O-Level": "Pass with 3 credits including Mathematics or 1 science subject (Biology/Physics/Chemistry/General Science) AND Pass in English.",
+        "UEC": "Pass with 3 credits including Mathematics or 1 science subject (Biology/Physics/Chemistry/General Science) AND Pass in English."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 5350,
+        "tuition_fee": 26900
+      },
+      "course_content": {
+        "core": "Semester 1\nIntroduction English\nMathematics 1\nComputer Application\nIntroduction to OSH\nBasic Anatomy and Physiology Discipline Core\nU1 : Pengajian Malaysia 2\n\nSemester 2\nTechnical Communication 1\nMathematics 2\nVisual Management\nOSH Legislations\nFire Prevention and Protection System\n\nSemester 3\nTechnical Communication 2\nStatistics\nQuality Management System\nIndustrial Safety\nErgonomic\nU2: Kemahiran Berfikir & Membuat Keputusan/ Pengurusan Masa/ Kemahiran\nMenulis\n\nSemester 4\nKo-Kurikulum\nEngineering Science\nIndustrial Health\nIncident and Accident Investigation\nHazard Identification and\nRisk Management\n\nSemester 5\nStudy of Automotive Industry\nProject Management\nIndustrial Hygiene\nEnvironmental Mangement and Sustainability\nWaste Management\n\nSemester 6\nU3 : Etika & Moral/ Perkembangan Sains & Peradaban Manusia/ Perlembagaan & Masyarakat/ Isu-isu Kekeluargaan\nProcess Safety and Loss Prevention\nOSH Management Systems\nResearch Project\n\nSemester 7\nInternship Programme Semester 1 Semester 2 Semester 3 Semester 4 Semester 5 Semester 6 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics or 1 science subject (Biology/Physics/Chemistry/General Science) AND Pass in Bahasa Malaysia and English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics or 1 science subject (Biology/Physics/Chemistry/General Science) AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics or 1 science subject (Biology/Physics/Chemistry/General Science) AND Pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Automotive Management System",
+      "field_of_study": "Retail Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Passed with Minimum 3 credits including Mathematic and any subject in Science/Technical/Vocational and passed in English.",
+        "O-Level": "Passed with Minimum 3 credits including Mathematic and any subject in Science/Technical/Vocational and passed in English.",
+        "UEC": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 6050,
+        "tuition_fee": 36500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nAlgebra\nComputer Application\nMaterials Science\nMetrology\nPengajian Malaysia 2\nMalay Language for Communication 1\n\nSemester 2\nTechnical Communication 1\nCalculus\nFundamental of Automotive Technology\nVisual Management\nPrinciples of Production Systems\nIntroduction to Electrical and Electronics\nThinking Skills\nBahasa Kebangsaaan A\n\nSemester 3\nTechnical Communication 2\nStatistics\nStatics and Dynamics\nWork Measurement\nMistake Proofing and Analysis\nPembangunan Masyarakat I\nSiswa Niaga I\nSiswa Siswi Pertahanan Awam !\n\nYear 2\nSemester 4\nIntroduction to Quality Management System\nEngineering Drawing\nAutonomous Maintenance\nTools Change Management\nOperation Management\nPembangunan Masyarakat II\nSiswa Niaga II\nSiswa Siswi Pertahanan Awam II\n\nSemester 5\nQuality Core Tools\nValue Stream Mapping\nProject Management\nContinual Improvement\nProject 1\n\nSemester 6\nConstitution and Society\nEmerging Issue and Technology in Automotive Industry\nEntrepreneurship and Innovation\nIntroduction of Operation Management\nProject 2\n\nYear 3\nSemester 7\nInternship Programme Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic",
+              "Science",
+              "Technical",
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed with Minimum 3 credits including Mathematic and any subject in Science/Technical/Vocational and passed in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic",
+              "Science",
+              "Technical",
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed with Minimum 3 credits including Mathematic and any subject in Science/Technical/Vocational and passed in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematic"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science",
+              "Technical",
+              "Vocational"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passed in Unified Examination Certificate (UEC) with 3 Bs including Mathematic and one subject in Science/Technical/Vocational and passed in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Automotive Retail Management",
+      "field_of_study": "Retail Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 5750,
+        "tuition_fee": 25200
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nComputer Application\nPengajian Malaysia 2\nIntroduction to Marketing\nIntroduction to Management\nCo-curriculum 1\n\nSemester 2\nKemahiran Berfikir dan Membuat Keputusan\nPrinciples of Economics\nBusiness Communication\nBusiness Mathematics\nIntroduction to Accounting\nEntrepreneurship & Innovation\nCo-curriculum 2\n\nSemester 3\nFundamental of Retailing\nQuantitative Analysis for Business\nIntroduction to Supply Chain Management\nBusiness Writing\nFundamental of Automotive Technology\nCo-curriculum 3\n\nYear 2\nSemester 4\nEtika & Moral\nIsu-Isu Kekeluargaan\nCustomer Relationship Management\nConsumer Behaviour\nSafety Health & Environment (SHE)\nFundamental of Costing\nCo-curriculum 4\n\nSemester 5\nBusiness and Consumer Law\nIntroduction to QMS\nHuman Resource Management\nAfter Sales Services Management\nEmerging Issues and Technology in Auto Industry\nIntroduction to Finance\n\nSemester 6\nVehicle Sales Management\nBusiness Ehitcs\nStrategic Management of Retailing\nResearch Project\n\nYear 3\nSemester 7\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Automotive Parts Management",
+      "field_of_study": "Retail Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 5750,
+        "tuition_fee": 25200
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nIntroductory English\nComputer Application\nPengajian Malaysia 2\nIntroduction to Marketing\nIntroduction to Management\nCo-curriculum 1\n\nSemester 2\nKemahiran Berfikir dan Membuat Keputusan\nPrinciples of Economics\nBusiness Communication\nBusiness Mathematics\nIntroduction to Accounting\nEntrepreneurship & Innovation\nCo-curriculum 2\n\nSemester 3\nAutomotive Parts Management\nQuantitative Analysis for Business\nIntroduction to Supply Chain Management\nBusiness Writing\nFundamental of Automotive Technology\nCo-curriculum 3\n\nYear 2\nSemester 4\nEtika & Moral\nIsu-Isu Kekeluargaan\nAutomotive Parts Information Management System\nWarehouse Management\nSafety Health & Environment (SHE)\nFundamental of Costing\nCo-curriculum 4\n\nSemester 5\nBusiness and Consumer Law\nIntroduction to QMS\nHuman Resource Management\nAutomotive Parts Marketing Management\nIntroduction to Finance\n\nSemester 6\nAutomotive Parts Inventory Operations\nEmerging Issues and Technology in Automotive Industry\nBusiness Ethics\nTransportation and Distribution Management Systems\nResearch Project\n\nYear 3\nSemester 7\nInternship Year 1 Semester 1 Semester 2 Semester 3 Year 2 Semester 4 Semester 5 Semester 6 Year 3 Semester 7",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business (Accounting)",
+      "field_of_study": "Foundation in Arts",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits (C) including Mathematics.",
+        "O-Level": "5 credits (C) including Mathematics.",
+        "UEC": "3 credits (B6) including Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 3000,
+        "tuition_fee": 9000
+      },
+      "course_content": {
+        "core": "Semester 1\nEnglish 1\nBusiness Administration 1\nIntroduction to Accounting\nFundamental Mathematics 1\nMalay Language for Communication 1 (0ptional)\nBahasa Kebangsaan A (optional)\nThinking Skills\n\nSemester 2\nBusiness Administration 2\nPrinciples of Economics\nIntroduction to Marketing\nComputer Application for Business\nEnglish 2\nIntroduction to Management\n\nSemester 3\nPengajian Malaysia\nIntroduction to Financial & Costing System\nIntroduction to Entrepreneurship\nFundamental Mathematics 2\nBusiness Computing\nConstitution and Society Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C) including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C) including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (B6) including Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business",
+      "field_of_study": "Foundation in Arts",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Credits in any subjects.",
+        "O-Level": "5Cs in any subjects.",
+        "UEC": "3B."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 3000,
+        "tuition_fee": 9000
+      },
+      "course_content": {
+        "core": "Semester 1\nEnglish 1\nBusiness Administration 1\nIntroduction to Accounting\nFundamental Mathematics 1\nMalay Language for Communication 1 (0ptional)\nBahasa Kebangsaan A (optional)\nThinking Skills\n\nSemester 2\nBusiness Administration 2\nPrinciples of Economics\nIntroduction to Marketing\nComputer Application for Business\nEnglish 2\nIntroduction to Management\n\nSemester 3\nPengajian Malaysia\nIntroduction to Financial & Costing System\nIntroduction to Entrepreneurship\nFundamental Mathematics 2\nBusiness Computing\nConstitution and Society Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits in any subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in any subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "3B."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Engineering",
+      "field_of_study": "Foundation in Science",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass in Sijil Pelajaran Malaysia (SPM) / Sijil Pelajaran Malaysia Vokasional (SPMV) with at least 5 credits in subjects including Mathematics and any Science subject.",
+        "O-Level": "Pass in O-Level with at least grade C in five subjects including Mathematics and any Science subject.",
+        "UEC": "Pass in Unified Examination Certificate (UEC) with at least a B grade in 3 subjects including Mathematics and any Science subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 2800,
+        "tuition_fee": 11000
+      },
+      "course_content": {
+        "core": "Semester 1\nEnglish 1\nPengajian Malaysia 2\nComputer Application for Engineering\nSafety Health & Environment\nMathematics 1\n\nSemester 2\nChemistry 1\nMathematics 2\nThinking Skills\nPhysics 1\nEnglish 2\n\nSemester 3\nConstitution and Society\nChemistry 2\nFundamental of programming\nMathematics 3\nPhysics 2 Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in Sijil Pelajaran Malaysia (SPM) / Sijil Pelajaran Malaysia Vokasional (SPMV) with at least 5 credits in subjects including Mathematics and any Science subject."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in O-Level with at least grade C in five subjects including Mathematics and any Science subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in Unified Examination Certificate (UEC) with at least a B grade in 3 subjects including Mathematics and any Science subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Science in Technopreneurship",
+      "field_of_study": "Entrepreneurship",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7250,
+        "tuition_fee": 30500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nDeveloping New Business Models\nTechnology Innovation and Design\nAdvanced Research Methods\nEntrepreneurship and Business Planning\nVenture Capital Financing\n\nSemester 2\nAccounting for New and Ongoing Ventures\nIntellectual Property and Technology Evaluation and Commercialisation\n\nSemester 3\nDissertation Year 1 Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master in Engineering Technology",
+      "field_of_study": "General Engineering and Technology",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7550,
+        "tuition_fee": 40000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Science in Industrial Design",
+      "field_of_study": "Industrial Design",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7550,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nAdvanced Design Techniques\nComputer Aided Product Development\nIndustrial Design Technology\nMaterials and Sustainable Design\nAdvance Research Methodology\n\nSemester 2\nDesign for Manufacture and Assembly\nInnovative Product Development Design\nIndustrial Engineering Systems\nResearch Project 1\n\nSemester 3\nResearch Project 2 Year 1 Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Science in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7250,
+        "tuition_fee": 30500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nAdvanced Information Systems Security\nManagement Information System\nNetworking and Telecommunication\nSoftware Engineering\nData Analytics and Business Intelligence\n\nSemester 2\nPrinciples of Project Management\nAdvanced Research Methods\nStrategic Management\nLeadership in Organization\nSupply Chain Management\n\nSemester 3\nProfessional Issues in Information Communication Technology (ICT)\nResearch Project Year 1 Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master in Takaful",
+      "field_of_study": "Islamic Finance",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7250,
+        "tuition_fee": 30500
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master in Islamic Banking",
+      "field_of_study": "Islamic Finance",
+      "location": "DHU, Pekan",
+      "intakes": [],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7250,
+        "tuition_fee": 30500
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Supply Chain Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7250,
+        "tuition_fee": 30500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nSupply Chain Management\nOperations Management\nLogistics and Transportation Management\nLeadership in Organization\nStorage and Warehouse Techniques\n\nSemester 2\nProcurement Management\nFinancial Analysis and Control Systems\nOrganizations Behaviour\nBusiness Process Management\nAdvanced Research Methods\n\nSemester 3\nLean Operations\nStrategic Operation Management\nSupply Chain Quality Management\nResearch Project Year 1 Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master in Management",
+      "field_of_study": "Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7250,
+        "tuition_fee": 30500
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Business Administration",
+      "field_of_study": "MBA Programme",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "MUET": "3",
+        "IELTS": "6",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7250,
+        "tuition_fee": 30500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nOrganizational Behaviour\nManagement Information Systems\nMarketing Management\nAccounting for Managers\nEconomics for Managers\n\nSemester 2\nCorporate Finance\nStrategic Management\nAdvanced Research Methods\nQuantitative Analysis\n\nSemester 3\nResearch Project Year 1 Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Science in Project Management",
+      "field_of_study": "Project Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7250,
+        "tuition_fee": 30500
+      },
+      "course_content": {
+        "core": "Year 1\nSemester 1\nProject Management Fundamentals\nOrganisational Behaviour in Project Management\nProject Cost Management\nProject Scope and Time Management\nProject Quality Management\n\nSemester 2\nProject Risk Management\nProject Communications Management\nProject Procurement Management\nAdvanced Research Methods\nStrategic Management\n\nSemester 3\nLeadership in Organization\nProject Health and Safety\nManagement Information Systems\nResearch Project Year 1 Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "PhD in Engineering",
+      "field_of_study": "General Engineering and Technology",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7150,
+        "tuition_fee": 34000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "PhD in Management",
+      "field_of_study": "Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 7450,
+        "tuition_fee": 30000
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Postgraduate Certificate in Supply Chain Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 4550,
+        "tuition_fee": 25000
+      },
+      "course_content": {
+        "core": "Semester 1\nSupply Chain Management\nOperations Management\nLogistics and Transportation Management\nLeadership in Organization\nStorage and Warehouse Techniques\n\nSemester 2\nProcurement Management\nFinancial Analysis and Control Systems Semester 1 Semester 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Postgraduate Certificate in Project Management",
+      "field_of_study": "Project Management",
+      "location": "DHU, Pekan",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 4550,
+        "tuition_fee": 25000
+      },
+      "course_content": {
+        "core": "Semester 1\nProject Management Fundamentals\nOrganisational Behaviour in Project Management\nProject Cost Management\nProject Scope and Time Management\nProject Quality Management\n\nSemester 2\nProject Risk Management\nProject Communications Management\nProject Procurement Management\nAdvanced Research Methods\nStrategic Management Semester 1 Semester 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {}
+    }
+  ]
+}

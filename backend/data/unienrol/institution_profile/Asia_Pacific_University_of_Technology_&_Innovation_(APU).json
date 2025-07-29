@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 5665,
   "malaysia_rank": 41,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/APU/BUKIT+JALIL+CAMPUS%2C+KL/Campus+_+Surroundings/01a_Asia_Pacific_University_of_Technology_and_Innovation_-_APU_Bukit_Jalil_Campus_Entrance_Of_The_Ultra_Modern_Campus.png"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Administrative Skills",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -88,11 +91,12 @@
             "text": "Minimum 1 credit (B6)."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "CERTIFICATE IN INFORMATION & COMMUNICATION TECHNOLOGY (CICT)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -181,7 +185,8 @@
             "text": "1 Credit (Grade B & above) in any subject with a Pass in Mathematics at UEC."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BA (Hons) in Accounting and Finance with a specialism in Accounting Technology",
@@ -302,7 +307,8 @@
             "text": "Passed Foundation programme (minimum CGPA of 2.5).  Credit in Mathematics at SPM Level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BA (HONS) IN ACCOUNTING AND FINANCE",
@@ -490,7 +496,8 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BA (HONS) IN ACCOUNTING AND FINANCE WITH A SPECIALISM IN FORENSIC ACCOUNTING",
@@ -645,7 +652,8 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BA (HONS) IN ACCOUNTING AND FINANCE WITH A SPECIALISM IN FOREX AND INVESTMENTS",
@@ -794,11 +802,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Science (Honours) in Actuarial Studies with a specialism in Data Analytics",
-      "field_of_study": "Actuarial Science",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -912,11 +921,12 @@
             "text": "Passed Foundation programme (minimum CGPA of 2.5).  Credit in Mathematics and a Pass in English at SPM Level or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Actuarial Science"
     },
     {
       "program_name": "Bachelor of Science (Honours) in Actuarial Studies with a specialism in Financial Technology",
-      "field_of_study": "Actuarial Science",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -1050,11 +1060,12 @@
             "text": "Passed Foundation programme (minimum CGPA of 2.5).  Credit in Mathematics and a Pass in English at SPM Level or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Actuarial Science"
     },
     {
       "program_name": "BSC (HONS) IN ACTUARIAL STUDIES",
-      "field_of_study": "Actuarial Science",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -1203,11 +1214,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Actuarial Science"
     },
     {
       "program_name": "BA (Hons) in Visual Effects",
-      "field_of_study": "Animation",
+      "field_of_study": "Communication and Media Studies",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -1333,11 +1345,12 @@
             "text": "Please contact our counsellors for further details.  Applicants may be required to submit a portfolio for assessment"
           }
         ]
-      }
+      },
+      "course": "Animation"
     },
     {
       "program_name": "BA (Hons) in Animation",
-      "field_of_study": "Animation",
+      "field_of_study": "Communication and Media Studies",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -1428,11 +1441,12 @@
             "text": "Minimum CGPA of 2.00."
           }
         ]
-      }
+      },
+      "course": "Animation"
     },
     {
       "program_name": "BSc (Hons) in Architecture",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "May",
@@ -1566,11 +1580,12 @@
             "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0.  Credit in Mathematics at SPM/ O-Level/ IGCSE or equivalent."
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "Bachelor in Banking and Finance (Hons) with a specialism in Investment Analytics",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -1684,11 +1699,12 @@
             "text": "Passed Foundation programme (minimum CGPA of 2.5).  Credit in Mathematics and a Pass in English at SPM Level or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "Bachelor in Banking and Finance (Hons) with a specialism in Financial Technology",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -1832,11 +1848,12 @@
             "text": "Passed Foundation programme (minimum CGPA of 2.5).  Credit in Mathematics and a Pass in English at SPM/O-Level/IGCSE or equivalent."
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "BACHELOR IN BANKING AND FINANCE (HONS)",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -2049,11 +2066,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "BA (Hons) in Business Management with a specialism in Digital Leadership",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -2170,11 +2188,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BACHELOR OF ARTS (HONOURS) IN BUSINESS MANAGEMENT WITH A SPECIALISM IN BUSINESS ANALYTICS",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -2297,11 +2316,12 @@
             "text": "Passed Foundation programme (minimum CGPA of 2.0)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (HONS) IN BUSINESS MANAGEMENT",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -2463,11 +2483,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (HONS) IN BUSINESS MANAGEMENT WITH SPECIALISM IN E-BUSINESS",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -2624,11 +2645,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) in Business Management with a specialism in Business Analytics",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Mar",
@@ -2773,11 +2795,12 @@
             "text": "Passed Foundation programme (minimum CGPA of 2.0)..  Pass in English and Mathematics at SPM/ O-Level/ IGCSE or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Arts (Honours) in Media and Communication Studies",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -2896,11 +2919,12 @@
             "text": "Passed Foundation programme (minimum CGPA of 2.0).  SPM-level or equivalent:\nCredit in English"
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons) (Artificial Intelligence)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -3129,11 +3153,12 @@
             "text": "• A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 with a Credit in Additional Mathematics at SPM/IGCSE/O-Level or its equivalent. OR • A pass in Matriculation or Foundation studies with minimum CGPA of 2.0 and a Credit in Mathematics and Science or ICT subject at SPM/IGCSE/O-Level or its equivalent. Candidates need to do a Pre-Requisite module in Further Mathematics or equivalent in the first semester of Degree Programme..  Note: The requirement for the Additional Mathematics can be exempted if the Matriculation or Foundation offers Mathematics module which is equivalent or higher requirement than the Additional Mathematics at SPM level."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) in Computer Science with a specialism in Digital Forensics",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -3247,11 +3272,12 @@
             "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0.  Credit in Additional Mathematics at SPM/IGCSE/O-Level or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) in Computer Science (Cyber Security)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -3374,11 +3400,12 @@
             "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0.  Credit in Mathematics and Science or ICT subject at SPM/IGCSE/O-Level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSC (HONS) IN COMPUTER SCIENCE",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -3536,11 +3563,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSC (HONS) IN COMPUTER SCIENCE WITH A SPECIALISM IN DATA ANALYTICS",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -3724,11 +3752,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor in Interactive Media and Immersive Technology (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Mar",
@@ -3839,11 +3868,12 @@
             "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0.  Pass in Mathematics at SPM/O-Level/IGCSE or equivalent.\nPass an interview or a portfolio review."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "B.ENG (HONS) IN COMPUTER ENGINEERING",
-      "field_of_study": "Computer Systems Engineering",
+      "field_of_study": "Engineering",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -3983,11 +4013,12 @@
             "text": "ATAR 60%."
           }
         ]
-      }
+      },
+      "course": "Computer Systems Engineering"
     },
     {
       "program_name": "B. ENG (HONS) IN ELECTRICAL & ELECTRONIC ENGINEERING",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -4132,11 +4163,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "BA (Hons) in Digital Advertising",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -4222,11 +4254,12 @@
             "text": "A Pass in Matriculation or Foundation studies with minimum CGPA of 2.00 ."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA (Hons) in Tourism Management with a specialism in Hospitality",
-      "field_of_study": "Hospitality and Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -4317,11 +4350,12 @@
             "text": "CGPA of 2.0."
           }
         ]
-      }
+      },
+      "course": "Hospitality and Tourism Management"
     },
     {
       "program_name": "BSc (Hons) in Hospitality and Tourism",
-      "field_of_study": "Hospitality and Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Jul",
@@ -4376,11 +4410,12 @@
             "text": "A minimum CGPA of 2.00 or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Hospitality and Tourism Management"
     },
     {
       "program_name": "BA (HONS) IN HUMAN RESOURCE MANAGEMENT",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -4547,11 +4582,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "BA (Hons) in Industrial Design",
-      "field_of_study": "Industrial Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -4665,11 +4701,12 @@
             "text": "A Pass in Matriculation or Foundation studies with minimum CGPA of 2.00."
           }
         ]
-      }
+      },
+      "course": "Industrial Design"
     },
     {
       "program_name": "BSc (Hons) in Information Technology with a specialism in Sustainable Computing",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -4801,11 +4838,12 @@
             "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0.  Credit in Mathematics at SPM.\nNote: Candidates who have obtained a Pass in Mathematics, but do not have a Credit Pass in Mathematics at SPM/ IGCSE or equivalent need to take a Pre-Requisite Mathematics module prior to or at the beginning of the study."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc (Hons) in Information Technology with a specialism in Digital Transformation",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -4937,11 +4975,12 @@
             "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0.  Credit in Mathematics at SPM/ IGCSE/ O-Level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc (Hons) in Information Technology with a specialism in Financial Technology (FinTech)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -5073,11 +5112,12 @@
             "text": "A pass in Matriculation or Foundation studies with minimum CGPA of 2.0.  Credit in Mathematics at SPM/ IGCSE/ O-Level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSC (HONS) IN COMPUTER GAMES DEVELOPMENT",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -5253,11 +5293,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSC (HONS) IN INFORMATION TECHNOLOGY",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -5423,11 +5464,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSC (HONS) IN INFORMATION TECHNOLOGY WITH A SPECIALISM IN CLOUD ENGINEERING",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -5566,11 +5608,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSC (HONS) IN INFORMATION TECHNOLOGY WITH SPECIALISM IN BUSINESS INFORMATION SYSTEMS",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -5730,11 +5773,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSC (HONS) IN INFORMATION TECHNOLOGY WITH SPECIALISM IN INFORMATION SYSTEMS SECURITY",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -5889,11 +5933,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSC (HONS) IN INFORMATION TECHNOLOGY WITH SPECIALISM IN INTERNET OF THINGS (IOT)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -6048,11 +6093,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BA (HONS) IN INTERNATIONAL BUSINESS MANAGEMENT",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -6224,11 +6270,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) in International Relations",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -6343,11 +6390,12 @@
             "text": "Passed Foundation programme (minimum CGPA of 2.0).  Credit in English at SPM/O-Level/IGCSE or equivalent"
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "BA (HONS) IN MARKETING MANAGEMENT WITH A SPECIALISM IN DIGITAL MARKETING",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -6459,11 +6507,12 @@
             "text": "Passed Foundation programme (minimum CGPA of 2.0)."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BA (HONS) IN MARKETING MANAGEMENT",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -6635,11 +6684,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "B.Eng in Mechanical Engineering with Honours",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -6796,11 +6846,12 @@
             "text": "Passed the relevant Foundation programme (minimum CGPA of 2.0).  Credit in Mathematics at SPM Level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "B. ENG (HONS) IN MECHATRONIC ENGINEERING",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -6943,11 +6994,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "BSc (Hons) in Interactive Media and Immersive Technology with a specialism in VR/AR",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -7095,11 +7147,12 @@
             "text": "Passed Foundation programme (minimum CGPA of 2.5).  Credit in Mathematics and a Pass in English at SPM/O-Level/IGCSE or equivalent."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "BACHELOR IN INTERACTIVE MEDIA AND IMMERSIVE TECHNOLOGY (HONOURS)",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -7223,11 +7276,12 @@
             "text": "Please contact our counsellors for further details.  Applicants may be required to submit a portfolio for assessment"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "B. ENG (HONS) IN PETROLEUM ENGINEERING",
-      "field_of_study": "Petroleum Engineering",
+      "field_of_study": "Engineering",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -7375,11 +7429,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Petroleum Engineering"
     },
     {
       "program_name": "Bachelor of Science (Honours) in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -7470,11 +7525,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSC (HONS) IN SOFTWARE ENGINEERING",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -7640,11 +7696,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "BA (HONS) IN TOURISM MANAGEMENT",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -7781,11 +7838,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "DIPLOMA IN ACCOUNTING",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -7862,11 +7920,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "DIPLOMA IN BUSINESS ADMINISTRATION",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -7912,11 +7971,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "DIPLOMA IN BUSINESS INFORMATION TECHNOLOGY",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -7962,11 +8022,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Events Management",
-      "field_of_study": "Event Management",
+      "field_of_study": "Hospitality and Services",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Jul",
@@ -8047,11 +8108,12 @@
             "text": "3 Credits (Grade B & above) in at least 3 subjects in UEC."
           }
         ]
-      }
+      },
+      "course": "Event Management"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Jul",
@@ -8137,11 +8199,12 @@
             "text": "3 Credits (Grade B & above) in at least 3 subjects in UEC."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "DIPLOMA IN INFORMATION & COMMUNICATION TECHNOLOGY",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -8207,11 +8270,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "DIPLOMA IN INFORMATION & COMMUNICATION TECHNOLOGY WITH SPECIALISM IN SOFTWARE ENGINEERING",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -8277,11 +8341,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "DIPLOMA IN INFORMATION & COMMUNICATION TECHNOLOGY WITH A SPECIALISM IN DATA INFORMATICS",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -8347,11 +8412,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "DIPLOMA IN INFORMATION & COMMUNICATIONS TECHNOLOGY WITH A SPECIALISM IN INTERACTIVE TECHNOLOGY",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -8409,11 +8475,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "DIPLOMA IN INTERNATIONAL STUDIES",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -8458,11 +8525,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "DIPLOMA IN MECHATRONIC ENGINEERING",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -8643,11 +8711,12 @@
             "text": "Pass Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent.  Pass in Mathematics, English and ONE (1) relevant science/technical/vocational subject at the SPM level"
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "DIPLOMA IN DESIGN AND MEDIA",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -8692,11 +8761,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "FOUNDATION PROGRAMME (Computing & Technology Pathway) - Computer Science",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "May",
@@ -8804,11 +8874,12 @@
             "text": "5 credits incl. - a credit in Additional Mathematics OR - a credit in Mathematics and one science/technology/engineering subject."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "FOUNDATION PROGRAMME (Business, Finance and Social Sciences Pathway) - Accounting, Banking, Finance and Actuarial",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "May",
@@ -8885,11 +8956,12 @@
             "text": "5 grade C passes at ‘O’ Level / GCSE including a credit in Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "FOUNDATION PROGRAMME (Architecture and Design Pathway) - Architecture",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "May",
@@ -8954,11 +9026,12 @@
             "text": "5 Credits (Grade C & above) in at least 5 subjects at IGCSE with a credit in Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "FOUNDATION PROGRAMME (Business, Finance and Social Sciences Pathway)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "May",
@@ -9035,11 +9108,12 @@
             "text": "3 Credits (Grade B & above) in at least 3 subjects in UEC."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "FOUNDATION PROGRAMME (Architecture and Design Pathway)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "May",
@@ -9094,11 +9168,12 @@
             "text": "5 credits (Any subjects).  Portfolio is required"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "FOUNDATION PROGRAMME (Business, Finance and Social Sciences Pathway) - Psychology",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "May",
@@ -9225,11 +9300,12 @@
             "text": "3 Credits (Grade B & above) in at least 3 subjects in UEC including Mathematics and Science OR Physics OR Chemistry OR Biology with a minimum of a pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "FOUNDATION PROGRAMME (Computing) - Open Distance Learning (ODL)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "May",
@@ -9333,11 +9409,12 @@
             "text": "3 Credits (Grade B & above) in at least 3 subjects, including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "FOUNDATION PROGRAMME (Business, Finance and Social Sciences Pathway) - Communication",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "May",
@@ -9420,11 +9497,12 @@
             "text": "3 Credits (Grade B & above) in at least 3 subjects incl. English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "FOUNDATION PROGRAMME (Computing & Technology Pathway)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "May",
@@ -9496,11 +9574,12 @@
             "text": "5 credits (including a credit in Mathematics)."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "FOUNDATION PROGRAMME (Engineering Pathway)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "May",
@@ -9576,11 +9655,12 @@
             "text": "5 credits (including a credit in Mathematics and Physics OR Chemistry)."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "MASTER OF ACCOUNTING",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -9600,11 +9680,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Accounting"
     },
     {
       "program_name": "MASTER OF ACCOUNTING IN FORENSIC ANALYSIS",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -9624,11 +9705,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Accounting"
     },
     {
       "program_name": "M.SC. IN INTERNATIONAL BUSINESS COMMUNICATIONS",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -9648,11 +9730,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Communication"
     },
     {
       "program_name": "MSC IN DATA SCIENCE AND BUSINESS ANALYTICS",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -9672,11 +9755,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Computer Science"
     },
     {
       "program_name": "MSC IN COMPUTING (BY RESEARCH)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -9699,11 +9783,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Computer Science"
     },
     {
       "program_name": "MASTER OF FINANCE",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -9723,11 +9808,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Finance"
     },
     {
       "program_name": "MASTER OF PHILOSOPHY (MPHIL) IN ENGINEERING",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -9750,11 +9836,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "M.SC. IN INFORMATION TECHNOLOGY MANAGEMENT",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -9774,11 +9861,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "MASTER OF PHILOSOPHY (MPHIL) IN MANAGEMENT",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -9801,11 +9889,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Management"
     },
     {
       "program_name": "MASTER OF TECHNOLOGY MANAGEMENT",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -9825,11 +9914,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Management"
     },
     {
       "program_name": "M.SC. IN GLOBAL MARKETING MANAGEMENT",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Nov"
@@ -9849,11 +9939,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Marketing"
     },
     {
       "program_name": "MASTER OF BUSINESS ADMINISTRATION (EURO ASIA BUSINESS)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Feb",
@@ -9875,11 +9966,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "MASTER OF BUSINESS ADMINISTRATION (MBA)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -9899,11 +9991,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "MASTER OF PROJECT MANAGEMENT",
-      "field_of_study": "Project Management",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -9923,11 +10016,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Project Management"
     },
     {
       "program_name": "M.SC. IN SOFTWARE ENGINEERING",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep"
@@ -9947,11 +10041,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Software Engineering"
     },
     {
       "program_name": "PHD IN COMPUTING",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -9974,11 +10069,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Computer Science"
     },
     {
       "program_name": "PHD IN FINANCE",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -10001,11 +10097,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Finance"
     },
     {
       "program_name": "PHD IN ENGINEERING",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -10028,11 +10125,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "PHD IN MANAGEMENT",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "APU, Technology Park Malaysia Campus",
       "intakes": [
         "Sep",
@@ -10055,7 +10153,8 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Management"
     }
   ]
 }

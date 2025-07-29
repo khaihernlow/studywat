@@ -1,0 +1,54 @@
+{
+  "institution_name": "Forward College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "NitroDegree in Applied Software Engineering",
+      "field_of_study": "Information Technology (IT)",
+      "location": "Forward College, Penang",
+      "intakes": [
+        "Jul"
+      ],
+      "program_duration_years": 2,
+      "internship": "Yes",
+      "entry_requirements_raw": {
+        "SPM": "SPM Mathematics and English Pass.  Score at least 10/20 or 50% of the Forward School Aptitude test*"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 150,
+        "resource_fee": 240,
+        "tuition_fee": 39500
+      },
+      "course_content": {
+        "core": "Year 1 Programming Fundamentals Software Design and Architecture HTML and CSS JavaScript Essentials and Modern JavaScript Backend Architecture and Web Services Database Design and Architecture Data Structures and Algorithms English for Career Development Server-side Programming and Frameworks Model-View-Controller (MVC) Application Development REST API Design and Development Web Application Security DevOps and Containers Introduction to Machine Learning Data Analysis and Visualization Neural Networks and Deep Learning Introduction to Product Management and Development Agile Development and UI/UX Testing and Architecture Designathon and Hackathon Data Science (Basic Mathematics TVET Module) Year 2 Introduction to Android Development Introduction to Kotlin UI Design in Android Applications Frontend Frameworks and React App Layout Design User Interaction Design User Navigation Design UI Testing Progressive Web Applications Contracting Entrepreneurship Persistent Data in Android Mobile Networking Android Concurrency and Parallelism Advanced Architectural Patterns in Android Debugging and Analytics Android Publication Job Search and Interview Practise First 90 Days at Work Careers in Engineering Final Year Project Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "SPM Mathematics and English Pass.  Score at least 10/20 or 50% of the Forward School Aptitude test*"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -8,6 +8,7 @@ class InstitutionInDB(BaseModel):
     institution_type: str
     world_rank: Optional[int]
     malaysia_rank: Optional[int]
+    institution_images: Optional[List[str]] = None
     program_ids: List[str]
 
     class Config:

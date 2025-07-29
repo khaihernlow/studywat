@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 13538,
   "malaysia_rank": 91,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/HELP/HELP_SUBANG/Campus_Surroundings/HELP+University+Subang+2+campus.png"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -70,11 +73,12 @@
             "text": "1 B.  Students enrolling into the IEP are required to take a placement test. HELP uses the online Oxford Placement test to assess the students’ English Language proficiency in Reading and Writing Skills, Listening Comprehension, Grammar and Vocabulary. The purpose of the test is to place students in a course that is suited to their level of proficiency in the language.\nA fee of RM100 is charged for the test for any non-HELP students and the receipt of payment must be produced before taking the test. The Placement Test is only valid for six (6 months). If you do not register within six (6) months for the course, you will be required to retake the Placement Test."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor in Accounting (Honours)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -259,11 +263,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes.  The stated qualifications need to be supported with a pass in Mathematics, English, Sejarah and Bahasa Melayu at SPM level."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor in Accounting (Honours)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -461,11 +466,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Communication (Hons) Media Studies",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -611,11 +617,12 @@
             "text": "Examination At least 5 passes with a university aggregate of 50%."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Communication (Hons) Marketing Communication",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -761,11 +768,12 @@
             "text": "Examination At least 5 passes with a university aggregate of 50%."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Communication (Hons) Public Relations",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -869,11 +877,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -1128,11 +1137,12 @@
             "text": "Five (5) SAM / TEE examination passes with a university aggregate of 50%.  A credit in Additional Mathematics OR Mathematics AND one of the Science, Technology or Engineering at Sijil Pelajaran Malaysia (SPM) level/O- Level OR equivalent:"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Early Childhood Education (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -1241,11 +1251,12 @@
             "text": "A university aggregate of 50%."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Economics (Hons)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -1425,11 +1436,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes.  The stated qualifications need to be supported with a pass in Mathematics, English, Sejarah and Bahasa Melayu at SPM level."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Bachelor of Business (Entrepreneurship) (Hons)",
-      "field_of_study": "Entrepreneurship",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -1607,11 +1619,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Entrepreneurship"
     },
     {
       "program_name": "Bachelor of Business (Finance) (Hons)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -1808,11 +1821,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes.  The stated qualifications need to be supported with a pass in Mathematics, English, Sejarah and Bahasa Melayu at SPM level."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Business (Finance) (Hons)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -1985,11 +1999,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Business (Hospitality Management) (Hons)",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -2163,11 +2178,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes.  The stated qualifications need to be supported with a pass in Sejarah and Bahasa Melayu at SPM Level."
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Bachelor of Business (Human Resource Management) (Hons)",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -2345,11 +2361,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -2440,11 +2457,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) Data Analytics",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -2516,11 +2534,12 @@
             "text": "Minimum CGPA of 2.00 and a credit in Mathematics at SPM level or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Business Analytics (Honours)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -2685,11 +2704,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor in International Business (Honours)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -2867,11 +2887,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Bachelor in International Business (Honours)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -3059,11 +3080,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes.  Supported with a pass in Mathematics, English, Sejarah and Bahasa Melayu at SPM level."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Bachelor of Laws (Hons) (HELP)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -3118,11 +3140,12 @@
             "text": "CGPA of 2.0 out of 4.0."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Bachelor of Laws (UK Transfer Programme) (2+1)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -3177,11 +3200,12 @@
             "text": "CGPA of 2.0 out of 4.0."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Bachelor of Laws (UK Transfer Programme) (1+2)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jul",
@@ -3236,11 +3260,12 @@
             "text": "CGPA of 2.0 out of 4.0."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Bachelor of Management (Hons)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -3426,11 +3451,12 @@
             "text": "The stated qualifications need to be supported with a pass in Mathematics, English, Sejarah and Bahasa Melayu at SPM level."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Bachelor in Marketing (Honours)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -3618,11 +3644,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes.  The stated qualifications need to be supported with a pass in Mathematics, English, Sejarah and Bahasa Melayu at SPM level."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor in Marketing (Honours)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -3810,11 +3837,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes.  Supported with a pass in Mathematics, English, Sejarah and Bahasa Melayu at SPM level."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor of Business Psychology (Hons)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -4002,11 +4030,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes.  Supported with a pass in Mathematics, English, Sejarah and Bahasa Melayu at SPM level."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Psychology (Hons)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -4280,11 +4309,12 @@
             "text": "ATAR 65.  SPM or equivalent\nCredit in Mathematics\nCredit in One Science/General Science subject\nA in English"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Tourism Management (Hons)",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -4466,11 +4496,12 @@
             "text": "University Aggregate of 50% or ATAR score of at least 50 for various programmes.  The stated qualifications need to be supported with a pass in Sejarah and Bahasa Melayu at SPM Level"
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Diploma in Business",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -4562,11 +4593,12 @@
             "text": "Minimum Grade C (GP 2.0) in any subject."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -4630,11 +4662,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Communication",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -4735,11 +4768,12 @@
             "text": "A pass in STPM or its equivalent, with a min Grade C in any subject."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -4775,7 +4809,8 @@
             "text": "At least 3 credits .  CANDIDATES WITHOUT SPM OR MCE HAVE THE FOLLOWING OPTIONS WITH MQA APPROVAL\nSPM / MCE 2 credits AND\nTeaching Experience 3 Years\nSPM / MCE 1 credits AND\nTeaching Experience 5 Years\nCANDIDATES WITHOUT SPM OR MCE HAVE THE FOLLOWING OPTIONS WITH MQA APPROVAL\nQualifying test on BM, English and Mathematics; i.e. the APEL Route created by MQA.2 credits AND"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Education",
@@ -4815,11 +4850,12 @@
             "text": "3 credits.  Notes:\nCandidates without SPM or MCE have one pathway, approved by MQA\nQualifying test on BM, English and Mathematics; i.e. the APEL Route created by MQA."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -4878,11 +4914,12 @@
             "text": "Grade of C [Cumulative Grade Point Average (CGPA) 2.00] in any subject or equivalent qualification.  Notes:\nCandidates with a pass in Mathematics at an SPM level or its equivalent may be admitted if the certificate programme contains subjects in Mathematics that are equivalent to Mathematics at SPM level.\nCandidates with a pass in Mathematics at SPM level and without a related certificate need to take a reinforcement Mathematics subject with appropriate topics in the discipline of Computing at the beginning of the study.\nCandidate with a credit in a Computing-related subject at SPM level or its equivalent may be given preferential consideration."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Foundation in Arts (Law)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -4955,11 +4992,12 @@
             "text": "3 Bs."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Computer Science)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -5043,11 +5081,12 @@
             "text": "3 Bs including Additional Mathematics.  Students wishing to pursue the following undergraduate programmes are required to meet the following pre-requisites in SPM or equivalent qualifications:\nComputer Science / Software Engineering\nCredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Communication)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -5131,11 +5170,12 @@
             "text": "3 Bs including English.  Students wishing to pursue the following undergraduate programmes are required to meet the following pre-requisites in SPM or equivalent qualifications:\nCommunication\nCredit in English"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Accounting, Finance, IT)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -5237,11 +5277,12 @@
             "text": "3 Bs including credit in Mathematics and Pass in English.  Students wishing to pursue the following undergraduate programmes are required to meet the following pre-requisites in SPM or equivalent qualifications:\nAccounting & Finance\nCredit in Mathematics\nPass in English\nInformation Technology\nCredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Business, Education)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -5325,11 +5366,12 @@
             "text": "3 Bs including a pass in English.  Students wishing to pursue the following undergraduate programmes are required to meet the following pre-requisites in SPM or equivalent qualifications:\nBusiness\nPass in Mathematics and English\nTeaching English as Second Language\nPass in English"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Psychology)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -5484,11 +5526,12 @@
             "text": "3 Bs including credit in Math, 1 Science subject and A in English.  Students wishing to pursue the following undergraduate programmes are required to meet the following pre-requisites in SPM or equivalent qualifications:\nPsychology\nCredit in Mathematics\nCredit in One Science/General Science subject\nA in English"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Business, Education)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -5572,11 +5615,12 @@
             "text": "3 Bs including a pass in English.  Students wishing to pursue the following undergraduate programmes are required to meet the following pre-requisites in SPM or equivalent qualifications:\nBusiness\nPass in Mathematics and English\nTeaching English as Second Language\nPass in English"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Psychology)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -5696,11 +5740,12 @@
             "text": "3 Bs including credit in Math, 1 Science subject and A in English.  Students wishing to pursue the following undergraduate programmes are required to meet the following pre-requisites in SPM or equivalent qualifications:\nPsychology\nCredit in Mathematics\nCredit in One Science/General Science subject\nA in English"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Accounting, Finance, IT)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -5798,11 +5843,12 @@
             "text": "3 Bs including credit in Mathematics and Pass in English.  Students wishing to pursue the following undergraduate programmes are required to meet the following pre-requisites in SPM or equivalent qualifications:\nAccounting & Finance\nCredit in Mathematics\nPass in English\nInformation Technology\nCredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Law)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -5875,11 +5921,12 @@
             "text": "3 Bs."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Computer Science, Software Engineering)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -5963,11 +6010,12 @@
             "text": "3 Bs including Additional Mathematics.  Students wishing to pursue the following undergraduate programmes are required to meet the following pre-requisites in SPM or equivalent qualifications:\nComputer Science / Software Engineering\nCredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Communication)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -6051,11 +6099,12 @@
             "text": "3 Bs including English.  Students wishing to pursue the following undergraduate programmes are required to meet the following pre-requisites in SPM or equivalent qualifications:\nCommunication\nCredit in English"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -6123,7 +6172,8 @@
             "text": "5 SPM/SPMV Credits. At least a credit in Mathematics and 2 Science subjects (Biology/Chemistry/Physics) and a pass in Bahasa Melayu and History..  Students wishing to pursue the following undergraduate programmes are required to meet the following pre-requisites in SPM or equivalent qualifications:\n  Accounting & Finance\nCredit in Mathematics\nPass in English\n  Business\nPass in Mathematics and English\n  Communication\nCredit in English\n  Computer Science / Software Engineering\nCredit in Additional Mathematics\n  Information Technology\nCredit in Mathematics\n  Psychology\nCredit in Mathematics\nCredit in One Science/General Science subject\nA in English\n  Teaching English as Second Language\nPass in English\n  Dentistry, Medicine and Pharmacy\n5 Bs each in Biology, Chemistry, Physics, Mathematics (or Additional Mathematics) and another subject"
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Master of Accounting and Finance (MAF)",
@@ -6190,7 +6240,8 @@
             "text": "Non-degree holders (Malaysian) with at least a STPM may obtain MQA Accreditation of Prior Experiential Learning (Access) [APEL (A)] approval for programme admission..  CGPA of less than 2.75 but with 5 years’ relevant working experience are also admissible\nStudents are also expected to submit a preliminary research proposal as part of the application and undergo a personal interview with a faculty member."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Master of Corporate Governance",
@@ -6257,11 +6308,12 @@
             "text": "Non-degree holders (Malaysian) with at least a STPM may obtain MQA Accreditation of Prior Experiential Learning (Access) [APEL (A)] approval for programme admission..  CGPA of less than 2.50 but with 5 years’ relevant working experience are also admissible.\nApplicants without a statistics or mathematics background) are required to do the applied business statistics as a pre-requisite to enhance their appreciation and learning experience and outcome."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Master of Philosophy",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan"
@@ -6304,11 +6356,12 @@
             "text": "A Bachelor’s degree in business or related field with a minimum CGPA of 2.75 or equivalent from HELP University or a recognised university. CGPA of 2.50 and above but less than 2.75 or equivalent from HELP University or a recognised university are subject to approval by the Dean of the School in consultation with the Academic Programme Director.  Other qualifications equivalent to a bachelor’s degree with a minimum of 5 years working experience in a relevant field that is subject to rigorous internal assessment acceptable by the Senate;"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Master of Applied Business Analytics",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -6371,11 +6424,12 @@
             "text": "Non-degree holders (Malaysian) with at least a STPM may obtain MQA Accreditation of Prior Experiential Learning (Access) [APEL (A)] approval for programme admission..  CGPA of less than 2.50 but with 5 years’ relevant working experience are also admissible.\nApplicants without a statistics or mathematics background) are required to do the applied business statistics as a pre-requisite to enhance their appreciation and learning experience and outcome."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Masters in Counselling",
-      "field_of_study": "Counselling",
+      "field_of_study": "Language and Social Studies",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan"
@@ -6414,11 +6468,12 @@
             "text": "Bachelor’s degree of at least 3 years’ study in any discipline from a recognized university with a minimum CGPA of 2.5 or equivalent preferred but not necessarily with industry experience.."
           }
         ]
-      }
+      },
+      "course": "Counselling"
     },
     {
       "program_name": "Master of Science in Economic Crime Management",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -6449,11 +6504,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Economics"
     },
     {
       "program_name": "Master of Entrepreneurship",
-      "field_of_study": "Entrepreneurship",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -6516,11 +6572,12 @@
             "text": "Non-degree holders (Malaysian) with at least a STPM may obtain MQA Accreditation of Prior Experiential Learning (Access) [APEL (A)] approval for programme admission.."
           }
         ]
-      }
+      },
+      "course": "Entrepreneurship"
     },
     {
       "program_name": "Master of Investment and Wealth Management",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jul",
@@ -6561,11 +6618,12 @@
             "text": "Subject to a minimum of five years relevant working experience and rigorous internal assessment"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Master of Human Resource Development",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -6628,11 +6686,12 @@
             "text": "Non-degree holders (Malaysian) with at least a STPM may obtain MQA Accreditation of Prior Experiential Learning (Access) [APEL (A)] approval for programme admission.."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Master of Data Science",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -6655,11 +6714,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -6722,11 +6782,12 @@
             "text": "Non-degree holders (Malaysian) with at least a STPM may obtain MQA Accreditation of Prior Experiential Learning (Access) [APEL (A)] approval for programme admission..  CGPA of less than 2.50 but with 5 years’ relevant working experience are also admissible.\nApplicants without a statistics or mathematics background) are required to do the applied business statistics as a pre-requisite to enhance their appreciation and learning experience and outcome."
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration (Online)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan"
@@ -6778,11 +6839,12 @@
             "text": "Non-degree holders (Malaysian) with at least a STPM may obtain MQA Accreditation of Prior Experiential Learning (Access) [APEL (A)] approval for programme admission..  CGPA of less than 2.50 but with 5 years’ relevant working experience are also admissible.\nApplicants without a statistics or mathematics background) are required to do the applied business statistics as a pre-requisite to enhance their appreciation and learning experience and outcome."
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Project Management accredited by PMI GAC",
-      "field_of_study": "Project Management",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -6845,11 +6907,12 @@
             "text": "Non-degree holders (Malaysian) with at least a STPM may obtain MQA Accreditation of Prior Experiential Learning (Access) [APEL (A)] approval for programme admission.."
           }
         ]
-      }
+      },
+      "course": "Project Management"
     },
     {
       "program_name": "Master of Clinical Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan"
@@ -6897,11 +6960,12 @@
             "text": "Bachelor’s degree of at least 3 years’ study in Psychology from a recognised university with at least a 2nd Class Honours (Upper division), or a minimum CGPA of 3.0 or equivalent..  Shortlisted applicants must pass an interview with members of the selection committee"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Master of Philosophy (MPhil) in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan"
@@ -6945,11 +7009,12 @@
             "text": "Candidates with a bachelor’s degree in psychology (or a relevant area) with a minimum CGPA of 3.25 out of 4.00 (or equivalent) and candidates with a bachelor’s degree in fields related to psychology with a minimum CGPA of 3.25 out of 4.00.  And the completion of a minimum of 45 credits of psychology modules, subject to the assessment of the university."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Master of Education in Teaching And Learning",
-      "field_of_study": "Teaching",
+      "field_of_study": "Education",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -6971,11 +7036,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Teaching"
     },
     {
       "program_name": "Doctor of Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -7019,11 +7085,12 @@
             "text": "A Master’s degree in business or management or related or professional disciplines from a recognised university, preferably with adequate relevant experience in business and industry.."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Doctor of Philosophy in Business, Management and Entrepreneurship (PhD in BEM)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "HELP, Damansara Heights",
       "intakes": [
         "Jan",
@@ -7053,7 +7120,8 @@
             "text": "A recognised Master’s degree in business or relevant field or other qualification approved by the HELP University Senate.."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Doctor of Philosophy (PhD) in Education (Mixed-Mode)",
@@ -7086,11 +7154,12 @@
             "text": "- Master’s degree in Education OR - Master’s degree other than Education and possess a Bachelor’s degree in Education; OR - Master’s degree other than Education and possess a Diploma/Certificate in Teaching; OR - Master’s degree other than Education and possess at least 2 years of teaching experience; OR - Master’s degree other than Education and pass three (3) bridging courses offered by HELP University; OR - Any equivalent qualifications recognised by the Malaysian Government."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Philosophy (PhD) in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "HELP, Subang 2",
       "intakes": [
         "Jan",
@@ -7130,7 +7199,8 @@
             "text": "Candidates with a master’s degree in psychology or a related area, accepted by the University Senate.."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     }
   ]
 }

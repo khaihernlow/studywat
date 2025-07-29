@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://edufair.fsi.com.my/img/sponsor/35/cover_1726108679.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -62,11 +65,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -135,11 +139,12 @@
             "text": "Pass Portfolio Review or Interview conducted by Raffles Kuala Lumpur"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Bachelor of Business (Accountancy) (Honours)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -263,11 +268,12 @@
             "text": "Minimum CGPA 2.00.  A pass in Mathematics and English at SPM level or equivalent qualifications."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Fashion Design (Honours)",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -364,11 +370,12 @@
             "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Bachelor in Graphic Design (Honours)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -465,11 +472,12 @@
             "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Bachelor of Interior Design (Honours)",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -566,11 +574,12 @@
             "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Bachelor in Multimedia Design (Honours)",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -667,11 +676,12 @@
             "text": "Minimum CGPA 2.00.  Pass Portfolio Review or Interview"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Bachelor of Pyschology (Honours)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -853,11 +863,12 @@
             "text": "Minimum CGPA 2.00.  Credits in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science and a pass in English at SPM level."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Diploma in Business Studies",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -914,11 +925,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "DIploma in E-Commerce",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -975,11 +987,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Jewellery Design",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -1044,11 +1057,12 @@
             "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Fashion Design",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -1113,11 +1127,12 @@
             "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Fashion Marketing",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -1174,11 +1189,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Fashion Styling",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -1243,11 +1259,12 @@
             "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -1334,11 +1351,12 @@
             "text": "Grade B in 3 relevant subjects."
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Diploma in Creative New Media Technology",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -1395,11 +1413,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Applied Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Raffles, KL City Centre",
       "intakes": [
         "Jan",
@@ -1456,7 +1475,8 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Psychology"
     }
   ]
 }

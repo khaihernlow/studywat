@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/IMPERIUM+INTERNATIONAL+COLLEGE/KL+CAMPUS/Facilities_Amenities/01a_Imperium_KL_Campus_Lobby_at_entrance.png"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Business",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Imperium, KL",
       "intakes": [
         "Apr",
@@ -42,7 +45,8 @@
             "text": "1 credit in any subject, or any equivalent qualification."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "BSc (Hons) Accounting & Finance",
@@ -182,11 +186,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BA (Hons) Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Imperium, KL",
       "intakes": [
         "Jan",
@@ -324,11 +329,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Imperium, KL",
       "intakes": [
         "Jan",
@@ -466,11 +472,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Association of Chartered Certified Accountants (ACCA)",
-      "field_of_study": "Professional Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Imperium, KL",
       "intakes": [
         "Jan",
@@ -586,11 +593,12 @@
             "text": "Pass with CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Professional Accounting"
     },
     {
       "program_name": "Diploma in Accountancy",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Imperium, KL",
       "intakes": [
         "Jan",
@@ -697,11 +705,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Imperium, KL",
       "intakes": [
         "Jan",
@@ -760,11 +769,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Foundation in Business Studies",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Imperium, KL",
       "intakes": [
         "Jan",
@@ -822,11 +832,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business Studies (Accounting & Finance)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Imperium, KL",
       "intakes": [
         "Jan",
@@ -884,11 +895,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "ACCA Foundation in Accountancy (ACCA FIA)",
-      "field_of_study": "Professional Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Imperium, KL",
       "intakes": [
         "Jan",
@@ -954,7 +966,8 @@
             "text": "Pass with 5 Grade C including Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Professional Accounting"
     }
   ]
 }

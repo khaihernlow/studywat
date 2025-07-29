@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 783,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.ntu.ac.uk/media/images/banner-images/section-home/arkwright-blue-sky.jpg"
+  ],
   "programs": [
     {
       "program_name": "BSc (Hons) Architectural Technology",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -107,11 +110,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "BArch (Hons) Architecture (ARB/RIBA Part 1)",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -163,11 +167,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15-16 points from three Higher Level Subjects. GCSE English and Maths grade C / 4 A digital portfolio required"
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "BSc (Hons) Biochemistry",
-      "field_of_study": "Biochemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -219,11 +224,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects including A-level equivalent Biology grade C. GCSE English, Maths and Science grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Biochemistry"
     },
     {
       "program_name": "BSc (Hons) Animal Biology",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "NTU, Brackenhurst",
       "intakes": [
         "Sep"
@@ -275,11 +281,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 13-14 points from three Higher Level Subjects.  GCSE English, Maths and Science grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "BSc (Hons) Biological Sciences",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -331,11 +338,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects including A-level equivalent Biology grade C. GCSE English, Maths and Science grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "BEng (Hons) Biomedical Engineering",
-      "field_of_study": "Biomedical Engineering",
+      "field_of_study": "Engineering",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -387,11 +395,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects including A-level equivalent Biology grade C.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Biomedical Engineering"
     },
     {
       "program_name": "BSc (Hons) Biomedical Science",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -443,11 +452,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects including A-level equivalent Biology grade C.  GCSE English, Maths and Science grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "BA (Hons) Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -499,11 +509,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 16 points from three Higher Level Subjects.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management (Accelerated)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -555,11 +566,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 17 points from three Higher Level Subjects.  GCSE English grade B / 5 and Maths grade B / 5."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management and Accounting and Finance",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -611,11 +623,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management and Economics",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -715,11 +728,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management and Entrepreneurship",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -839,11 +853,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management and Human Resources",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -943,11 +958,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management and Marketing",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -1067,11 +1083,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc (Hons) Chemistry",
-      "field_of_study": "Chemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -1176,11 +1193,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Chemistry"
     },
     {
       "program_name": "BSc (Hons) Chemistry with Secondary Education (QTS)",
-      "field_of_study": "Chemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -1321,11 +1339,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Chemistry"
     },
     {
       "program_name": "BSc (Hons) Civil Engineering",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -1489,11 +1508,12 @@
             "value": "4"
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "BEng (Hons) Civil Engineering",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -1616,11 +1636,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "BSc (Hons) Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -1672,11 +1693,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects including an A-level equivalent IT, Maths or Science subject grade C. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Science (Artificial Intelligence)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -1728,11 +1750,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects including an A-level equivalent IT, Maths or Science subject grade C. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Science (Games Technology)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -1784,11 +1807,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects including an A-level equivalent IT, Maths or Science subject grade C.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Science and Mathematics",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -1840,11 +1864,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects including A-level or equivalent Maths grade C.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computing",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -1896,11 +1921,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects including an A-level equivalent IT or Science subject grade C.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computing with Secondary Education (QTS)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -1952,11 +1978,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects including an A-level equivalent IT or Science subject grade C.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Cyber Security",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -2008,11 +2035,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects including A-level equivalent in an IT, Maths or Science subject grade C. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Construction Management",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -2112,11 +2140,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "BA (Hons) Content Creation",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, Confetti Nottingham",
       "intakes": [
         "Sep"
@@ -2168,11 +2197,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "BA (Hons) Creative Direction and Curation for Fashion",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -2272,11 +2302,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "BA (Hons) Creative Writing",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -2328,11 +2359,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "BA (Hons) English and Film & TV",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -2384,11 +2416,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "BA (Hons) Fine Art",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -2440,11 +2473,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "BA (Hons) Games Art",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, Confetti Nottingham",
       "intakes": [
         "Sep"
@@ -2496,11 +2530,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "BA (Hons) Early Childhood Studies",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -2552,7 +2587,8 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "BA (Hons) Education Studies",
@@ -2608,7 +2644,8 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C / 4.\nYou will also need to complete:\nEnhanced with Barred List(s) DBS check; and\nSatisfactory placement suitability check."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "BA (Hons) Education Studies and Psychology",
@@ -2664,7 +2701,8 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C / 4.\nYou will also need to complete:\nEnhanced with Barred List(s) DBS check; and\nSatisfactory placement suitability check."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "BA (Hons) Primary Education (QTS)",
@@ -2735,11 +2773,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects.  Five GCSEs at grade C / 4 or above, including English, Maths and Science.\nAn interview and English test; -an enhanced Disclosure and Barring Service check, and any other safeguarding checks that may be necessary\nA Fitness to Practise declaration; and\nSchool Experience Programme"
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "BEng (Hons) Electronic and Electrical Engineering",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -2791,11 +2830,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects including A-level equivalent Maths grade C.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "BA (Hons) English",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -2847,11 +2887,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "BA (Hons) English and History",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -2903,11 +2944,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "BA (Hons) English and Media",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -2959,11 +3001,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "BA (Hons) English and Philosophy",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -3015,11 +3058,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "BA (Hons) English Language and Linguistics",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -3071,11 +3115,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "BA (Hons) English with Secondary Education (QTS)",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -3127,11 +3172,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects.  GCSEs – five at grade C / 4 or equivalent including English and Mathematics\nRequire an interview\nEnhanced Disclosure and Barring Service check, and any other safeguarding checks that may be necessary"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "BSc (Hons) Climate Change",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "NTU, Brackenhurst",
       "intakes": [
         "Sep"
@@ -3183,11 +3229,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "BA (Hons) Event Management",
-      "field_of_study": "Event Management",
+      "field_of_study": "Hospitality and Services",
       "location": "NTU, Confetti Nottingham",
       "intakes": [
         "Sep"
@@ -3317,11 +3364,12 @@
             "value": "4"
           }
         ]
-      }
+      },
+      "course": "Event Management"
     },
     {
       "program_name": "BA (Hons) Costume Design and Construction",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -3373,11 +3421,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 13-14 points from three Higher Level Subjects.  GCSE English and Maths grade C / 4.\nA portfolio required"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Fashion Communication and Promotion",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -3458,11 +3507,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Fashion Design",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -3543,11 +3593,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Fashion Knitwear Design and Knitted Textiles",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -3599,11 +3650,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C / 4.\nA portfolio required"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Fashion Management",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -3702,11 +3754,12 @@
             "value": "4"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Film & TV and History",
-      "field_of_study": "Film & Television",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -3758,11 +3811,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Film & Television"
     },
     {
       "program_name": "BA (Hons) Film & TV and Philosophy",
-      "field_of_study": "Film & Television",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -3814,11 +3868,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Film & Television"
     },
     {
       "program_name": "BA (Hons) Filmmaking",
-      "field_of_study": "Film & Television",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -3870,11 +3925,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C / 4.\nA portfolio required"
           }
         ]
-      }
+      },
+      "course": "Film & Television"
     },
     {
       "program_name": "BA (Hons) Media and Film & TV",
-      "field_of_study": "Film & Television",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -3926,11 +3982,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Film & Television"
     },
     {
       "program_name": "BA (Hons) Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4054,11 +4111,12 @@
             "value": "4"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA (Hons) Motion Graphics",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4110,11 +4168,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C / 4.\nA portfolio required"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA (Hons) Furniture and Product Design",
-      "field_of_study": "Industrial Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4166,11 +4225,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Industrial Design"
     },
     {
       "program_name": "BA (Hons) Product Design",
-      "field_of_study": "Industrial Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4222,11 +4282,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C / 4.\nA digital portfolio required"
           }
         ]
-      }
+      },
+      "course": "Industrial Design"
     },
     {
       "program_name": "BA (Hons) Textile Design",
-      "field_of_study": "Industrial Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4324,11 +4385,12 @@
             "text": "GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Industrial Design"
     },
     {
       "program_name": "BA (Hons) Interior Architecture and Design",
-      "field_of_study": "Interior Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4380,11 +4442,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Interior Architecture"
     },
     {
       "program_name": "BA (Hons) International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4436,11 +4499,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 17 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) International Business (with French)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4508,11 +4572,12 @@
             "text": "GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) International Business (with Spanish)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4580,11 +4645,12 @@
             "text": "GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) History with International Relations",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -4636,11 +4702,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "BA (Hons) International Relations",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4692,11 +4759,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "BA (Hons) Broadcast Journalism",
-      "field_of_study": "Journalism",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4748,11 +4816,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Journalism"
     },
     {
       "program_name": "BA (Hons) Journalism",
-      "field_of_study": "Journalism",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4804,11 +4873,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Journalism"
     },
     {
       "program_name": "BA (Hons) Fashion Marketing and Branding",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4860,11 +4930,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BA (Hons) Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -4973,11 +5044,12 @@
             "value": "4"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BSc (Hons) Building Surveying",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -5082,11 +5154,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Communications and English",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -5138,11 +5211,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Communications and Film & TV",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -5194,11 +5268,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Communications and History",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -5296,11 +5371,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Communications and Linguistics",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -5352,11 +5428,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Communications and Philosophy",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -5408,11 +5485,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Linguistics and Media",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -5464,11 +5542,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Media and Philosophy",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -5520,11 +5599,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Media Communications and Culture",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -5576,11 +5656,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Media Production",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -5632,11 +5713,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Photography",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -5703,11 +5785,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BEng (Hons) Mechanical Engineering",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -5759,11 +5842,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points (A-level or equivalent Maths grade C).  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "BA (Hons) Design for Film and Television",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -5820,11 +5904,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "BA (Hons) Design for Theatre and Live Performance",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -5901,11 +5986,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "BA (Hons) Music Business",
-      "field_of_study": "Music",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, Confetti Nottingham",
       "intakes": [
         "Sep"
@@ -5957,11 +6043,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Music"
     },
     {
       "program_name": "BA (Hons) Music Performance",
-      "field_of_study": "Music",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, Confetti Nottingham",
       "intakes": [
         "Sep"
@@ -6013,11 +6100,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Music"
     },
     {
       "program_name": "BA (Hons) Music Production",
-      "field_of_study": "Music",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, Confetti Nottingham",
       "intakes": [
         "Sep"
@@ -6069,11 +6157,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  English and Maths grade C / 4"
           }
         ]
-      }
+      },
+      "course": "Music"
     },
     {
       "program_name": "BA (Hons) Illustration",
-      "field_of_study": "Performing Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -6125,11 +6214,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Performing Arts"
     },
     {
       "program_name": "BA (Hons) Politics",
-      "field_of_study": "Policy Science",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -6181,11 +6271,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Policy Science"
     },
     {
       "program_name": "BA (Hons) Politics and International Relations",
-      "field_of_study": "Policy Science",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -6237,11 +6328,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Policy Science"
     },
     {
       "program_name": "BA (Hons) Professional Policing",
-      "field_of_study": "Policy Science",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -6293,11 +6385,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Policy Science"
     },
     {
       "program_name": "BA (Hons) Childhood and Psychology",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -6427,11 +6520,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Childhood and Society",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -6483,11 +6577,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects. GCSE English and Maths grade C / 4\nYou will also need to complete:\nAn Enhanced with Barred List(s) DBS check; and\nA satisfactory placement suitability check."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Childhood: Health and Wellbeing",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -6539,11 +6634,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points from three Higher Level Subjects.  GCSE English and Maths grade C / 4\nYou will also need to complete:\nAn Enhanced with Barred List(s) DBS check; and\nA satisfactory placement suitability check."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Criminology",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -6595,11 +6691,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points from three Higher Level Subjects.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Health and Social Care",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -6651,11 +6748,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) History",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -6707,11 +6805,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) History and Linguistics",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -6763,11 +6862,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) History and Philosophy",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -6819,11 +6919,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) History with Politics",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -6875,11 +6976,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Linguistics and Philosophy",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -6931,11 +7033,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points. GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Social Work",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -6987,11 +7090,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Sociology",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -7043,11 +7147,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Sociology and Criminology",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -7099,11 +7204,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points.  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Youth Justice",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -7160,11 +7266,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Youth Work (JNC)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "NTU, City Campus",
       "intakes": [
         "Sep"
@@ -7216,11 +7323,12 @@
             "text": "Overall Pass in the IB Diploma, including at least 14 points."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Special Educational Needs, Disability and Inclusion",
-      "field_of_study": "Special Needs Education",
+      "field_of_study": "Education",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -7380,11 +7488,12 @@
             "text": "You will also need to complete:\nAn Enhanced with Barred List(s) DBS check; and\nA satisfactory placement suitability check."
           }
         ]
-      }
+      },
+      "course": "Special Needs Education"
     },
     {
       "program_name": "BEng (Hons) Sport Engineering",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "NTU, Clifton",
       "intakes": [
         "Sep"
@@ -7436,7 +7545,8 @@
             "text": "Overall Pass in the IB Diploma, including at least 15 points (A-level equivalent Maths grade C).  GCSE English and Maths grade C/4"
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     }
   ]
 }

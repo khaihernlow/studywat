@@ -1,5 +1,6 @@
-import React, { createContext, useContext, useState } from 'react';
+import React, { createContext, useContext, useState, useEffect } from 'react';
 import type { ReactNode } from 'react';
+import { useAuth } from './AuthContext';
 
 export interface Message {
   id: number;
@@ -14,6 +15,7 @@ interface ChatContextType {
   setMessages: React.Dispatch<React.SetStateAction<Message[]>>;
   isLoadingHistory: boolean;
   setIsLoadingHistory: React.Dispatch<React.SetStateAction<boolean>>;
+  clearMessages: () => void;
 }
 
 const ChatContext = createContext<ChatContextType | undefined>(undefined);
@@ -29,9 +31,20 @@ export const useChatContext = () => {
 export const ChatProvider = ({ children }: { children: ReactNode }) => {
   const [messages, setMessages] = useState<Message[]>([]);
   const [isLoadingHistory, setIsLoadingHistory] = useState(true);
+  const { setClearChatCallback } = useAuth();
+
+  const clearMessages = () => {
+    setMessages([]);
+    setIsLoadingHistory(false);
+  };
+
+  // Register the clearMessages callback with AuthContext
+  useEffect(() => {
+    setClearChatCallback(clearMessages);
+  }, [setClearChatCallback]);
 
   return (
-    <ChatContext.Provider value={{ messages, setMessages, isLoadingHistory, setIsLoadingHistory }}>
+    <ChatContext.Provider value={{ messages, setMessages, isLoadingHistory, setIsLoadingHistory, clearMessages }}>
       {children}
     </ChatContext.Provider>
   );

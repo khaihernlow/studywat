@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/UNITAR/PJ+CAMPUS/Campus+_+Surroundings/01a_UNITAR_PJ_UNITAR_.png"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Business Studies (Conventional Mode)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -60,11 +63,12 @@
             "text": "Pass UEC with at least 1 B."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Certificate in Business Management (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Sungai Petani",
       "intakes": [
         "Jan",
@@ -123,11 +127,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in Business Management (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Penang",
       "intakes": [
         "Jan",
@@ -186,11 +191,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in Business Management (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -249,11 +255,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in Business Management (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -312,11 +319,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in Business Management (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Kuantan",
       "intakes": [
         "Jan",
@@ -375,11 +383,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in Business Management (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -438,11 +447,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in Business Management (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Kuching",
       "intakes": [
         "Jan",
@@ -501,11 +511,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in Business Management (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Melaka",
       "intakes": [
         "Jan",
@@ -564,11 +575,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in Business Studies - Online",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -627,11 +639,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in Art and Design",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -701,11 +714,12 @@
             "text": "grade B in one subject.  Applicants may be required to pass an interview or submit a portfolio for assessment"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Bachelor of Accounting (Hons) - Online",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -845,11 +859,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Accounting (Hons)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -1002,11 +1017,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Animation Design with Game Art",
-      "field_of_study": "Animation",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -1101,11 +1117,12 @@
             "text": "Minimum CGPA 2.00.  Applicants may be required to submit a portfolio for assessment"
           }
         ]
-      }
+      },
+      "course": "Animation"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -1190,11 +1207,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -1344,11 +1362,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kota Bharu",
       "intakes": [
         "Jan",
@@ -1497,11 +1516,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Alor Setar",
       "intakes": [
         "Jan",
@@ -1650,11 +1670,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kuantan",
       "intakes": [
         "Jan",
@@ -1739,11 +1760,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -1892,11 +1914,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons) - Online",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -1981,11 +2004,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Melaka",
       "intakes": [
         "Jan",
@@ -2072,11 +2096,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kuching",
       "intakes": [
         "Jan",
@@ -2141,11 +2166,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kuala Terengganu",
       "intakes": [
         "Jan",
@@ -2232,11 +2258,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Management (Honours)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, UUCKL",
       "intakes": [
         "Jan",
@@ -2337,11 +2364,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Education (Early Childhood Education) (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kuantan",
       "intakes": [
         "Jan",
@@ -2424,11 +2452,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Education (Early Childhood Education) (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Alor Setar",
       "intakes": [
         "Jan",
@@ -2518,11 +2547,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Education (Early Childhood Education) (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -2633,11 +2663,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Education (Early Childhood Education) (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kuching",
       "intakes": [
         "Jan",
@@ -2727,11 +2758,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Education (Early Childhood Education) (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kota Bharu",
       "intakes": [
         "Jan",
@@ -2821,11 +2853,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Education (Early Childhood Education) (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -2935,11 +2968,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Education (Early Childhood Education) (Hons) - Online",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -3022,11 +3056,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Education (Early Childhood Education) (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -3090,7 +3125,8 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Education (Hons)",
@@ -3178,7 +3214,8 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Education (Hons) - Online",
@@ -3266,7 +3303,8 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Education (Hons)",
@@ -3354,7 +3392,8 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Education (Hons) - Conventional",
@@ -3422,7 +3461,8 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Education (Hons)",
@@ -3515,7 +3555,8 @@
             "text": "CGPA of 2.00."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Educations (Hons)",
@@ -3581,7 +3622,8 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Education (Hons)",
@@ -3649,11 +3691,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Fashion Design with Marketing",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -3748,11 +3791,12 @@
             "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Bachelor of Finance (Fintech) (Hons)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -3874,11 +3918,12 @@
             "text": "Pass Matriculation/Foundation with a minimum CGPA of 2.50 and credit Mathematics.  Pass in English in SPM"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Finance (Fintech) (Hons) - Online",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -3982,11 +4027,12 @@
             "text": "Pass Matriculation/Foundation with a minimum CGPA of 2.50 and credit Mathematics.  Pass in English in SPM"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Human Resource Management (Honours)",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "UNITAR, UUCKL",
       "intakes": [
         "Jan",
@@ -4087,11 +4133,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -4173,11 +4220,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -4307,11 +4355,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) - Online",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -4436,11 +4485,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Psychology (Hons)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -4540,11 +4590,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Psychology (Hons)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "UNITAR, Kuching",
       "intakes": [
         "Jan",
@@ -4654,11 +4705,12 @@
             "text": "CGPA of 2.00.  Credit in Mathematics and Science at SPM level"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Psychology (Honours) - Online",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -4778,11 +4830,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -4862,11 +4915,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -4945,11 +4999,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Accounting – Online",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -5021,11 +5076,12 @@
             "text": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) or its equivalent.  Minimum of Grade C (GP 2.0) in any subject, and credits in Mathematics and a pass in English at SPM level"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Animation Design",
-      "field_of_study": "Animation",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -5082,11 +5138,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Animation"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -5134,11 +5191,12 @@
             "text": "A pass in Sijil Tinggi Pelajaran Malaysia (STPM) with at least Grade C (GP 2.0) in any subject."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration – Online",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -5185,11 +5243,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Taj Ipoh",
       "intakes": [
         "Jan",
@@ -5229,11 +5288,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kuching",
       "intakes": [
         "Jan",
@@ -5281,11 +5341,12 @@
             "text": "A pass in Sijil Tinggi Pelajaran Malaysia (STPM) with at least Grade C (GP 2.0) in any subject."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -5332,11 +5393,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Alor Setar",
       "intakes": [
         "Jan",
@@ -5383,11 +5445,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -5435,11 +5498,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kota Bharu",
       "intakes": [
         "Jan",
@@ -5479,11 +5543,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Melaka",
       "intakes": [
         "Jan",
@@ -5531,11 +5596,12 @@
             "text": "A pass in Sijil Tinggi Pelajaran Malaysia (STPM) with at least Grade C (GP 2.0) in any subject."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, UUCKL",
       "intakes": [
         "Jan",
@@ -5586,11 +5652,12 @@
             "text": "A pass in Sijil Tinggi Pelajaran Malaysia (STPM) with at least Grade C (GP 2.0) in any subject."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Secretaryship (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Sungai Petani",
       "intakes": [
         "Jan",
@@ -5630,11 +5697,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Secretaryship (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Penang",
       "intakes": [
         "Jan",
@@ -5674,11 +5742,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Secretaryship (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Kota Bharu",
       "intakes": [
         "Jan",
@@ -5726,11 +5795,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Secretaryship (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -5770,11 +5840,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Secretaryship (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -5814,11 +5885,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Secretaryship (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Kuantan",
       "intakes": [
         "Jan",
@@ -5866,11 +5938,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Secretaryship (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Kuala Terengganu",
       "intakes": [
         "Jan",
@@ -5910,11 +5983,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Secretaryship (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -5959,11 +6033,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Business (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Sungai Petani",
       "intakes": [
         "Jan",
@@ -6011,11 +6086,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Business (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Penang",
       "intakes": [
         "Jan",
@@ -6055,11 +6131,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Business (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Kuantan",
       "intakes": [
         "Jan",
@@ -6099,11 +6176,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Business Management (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Sungai Petani",
       "intakes": [
         "Jan",
@@ -6143,11 +6221,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Business Management (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Kota Bharu",
       "intakes": [
         "Jan",
@@ -6187,11 +6266,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Business Management (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -6231,11 +6311,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Business Management (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -6275,11 +6356,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Business Management (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Kuantan",
       "intakes": [
         "Jan",
@@ -6319,11 +6401,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Business Management (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Kuala Terengganu",
       "intakes": [
         "Jan",
@@ -6363,11 +6446,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Business Management (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -6415,11 +6499,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Secretaryship (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR College Kuching",
       "intakes": [
         "Jan",
@@ -6467,11 +6552,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Secretaryship (College）",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Melaka",
       "intakes": [
         "Jan",
@@ -6511,11 +6597,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Business (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -6555,11 +6642,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Business (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Kuala Terengganu",
       "intakes": [
         "Jan",
@@ -6599,11 +6687,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Business (College)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Melaka",
       "intakes": [
         "Jan",
@@ -6648,11 +6737,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Culinary Arts (College)",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "UNITAR College Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -6692,11 +6782,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Pastry Arts (College)",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "UNITAR College Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -6736,11 +6827,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kuching",
       "intakes": [
         "Jan",
@@ -6780,11 +6872,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, UUCKL",
       "intakes": [
         "Jan",
@@ -6872,11 +6965,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Alor Setar",
       "intakes": [
         "Jan",
@@ -6926,11 +7020,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education - Online",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -6980,11 +7075,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kota Bharu",
       "intakes": [
         "Jan",
@@ -7046,11 +7142,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -7100,11 +7197,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education - Conventional",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -7144,11 +7242,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kuantan",
       "intakes": [
         "Jan",
@@ -7170,11 +7269,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education (College）",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR College Sungai Petani",
       "intakes": [
         "Jan",
@@ -7222,11 +7322,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education (College）",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR College Penang",
       "intakes": [
         "Jan",
@@ -7266,11 +7367,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education (College）",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR College Kota Bharu",
       "intakes": [
         "Jan",
@@ -7310,11 +7412,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education (College）",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR College Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -7354,11 +7457,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education (College）",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -7398,11 +7502,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education (College）",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kuantan",
       "intakes": [
         "Jan",
@@ -7447,11 +7552,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education (College）",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kuala Terengganu",
       "intakes": [
         "Jan",
@@ -7491,11 +7597,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education (College）",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -7543,11 +7650,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -7595,11 +7703,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Melaka",
       "intakes": [
         "Jan",
@@ -7639,11 +7748,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kuala Terengganu",
       "intakes": [
         "Jan",
@@ -7683,11 +7793,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -7727,11 +7838,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Fashion Design",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -7796,11 +7908,12 @@
             "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Digital Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -7865,11 +7978,12 @@
             "text": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum of Grade C (GP 2.00) in any subject, or its equivalent.  Pass an interview OR submission of student’s portfolio determined by the HEP as required."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Computer Graphic Design (College)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR College Penang",
       "intakes": [
         "Jan",
@@ -7917,11 +8031,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Computer Graphic Design (College)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR College Kota Bharu",
       "intakes": [
         "Jan",
@@ -7969,11 +8084,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Computer Graphic Design (College)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR College Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -8021,11 +8137,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Computer Graphic Design (College)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR, Kuala Terengganu",
       "intakes": [
         "Jan",
@@ -8073,11 +8190,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Computer Graphic Design (College)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -8125,11 +8243,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Computer Graphic Design (College)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR College Kuching",
       "intakes": [
         "Jan",
@@ -8177,11 +8296,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent.  Pass the interview OR Portfolio as set by the HEP"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Computer Graphic Design (College)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR, Melaka",
       "intakes": [
         "Jan",
@@ -8229,11 +8349,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent.  Pass the interview OR Portfolio as set by the HEP"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Hotel Management (College)",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "UNITAR College Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -8273,11 +8394,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Human Resource Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "UNITAR, UUCKL",
       "intakes": [
         "Jan",
@@ -8328,11 +8450,12 @@
             "text": "A pass in Sijil Tinggi Pelajaran Malaysia (STPM) with at least Grade C (GP 2.0) in any subject."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -8400,11 +8523,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology (College)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR College Sungai Petani",
       "intakes": [
         "Jan",
@@ -8481,11 +8605,12 @@
             "text": "Grade C of Grade Point (GP) 2.00 in a subject.  Credit in Mathematics and a pass in English at SPM level (or Mathematics equivalent to SPM"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology (College)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR College Penang",
       "intakes": [
         "Jan",
@@ -8550,11 +8675,12 @@
             "text": "Grade C of Grade Point (GP) 2.00 in a subject.  Credit in Mathematics and a pass in English at SPM level (or Mathematics equivalent to SPM"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology (College)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -8619,11 +8745,12 @@
             "text": "Grade C of Grade Point (GP) 2.00 in a subject.  Credit in Mathematics and a pass in English at SPM level (or Mathematics equivalent to SPM"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology (College)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -8700,11 +8827,12 @@
             "text": "Grade C of Grade Point (GP) 2.00 in a subject.  Credit in Mathematics and a pass in English at SPM level (or Mathematics equivalent to SPM"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology - Online",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -8787,11 +8915,12 @@
             "text": "Grade C [Cumulative Grade Point Average (CGPA 2.00)] in any subject or any equivalent qualification.  Credit in Mathematics at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR, Melaka",
       "intakes": [
         "Jan",
@@ -8864,11 +8993,12 @@
             "text": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM), with a minimum of Grade C [Cumulative Grade Point Average (CGPA 2.00)] in any subject or any equivalent qualification and a credit in Mathematics at SPM level or its equivalent.  Candidate with a credit in a Computing-related subject at SPM level or its equivalent may be given preferential consideration"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -8955,11 +9085,12 @@
             "text": "Grade B in 3 relevant subjects."
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Diploma in Logistics Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -9019,11 +9150,12 @@
             "text": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM), with a minimum of Grade C (GP 2.0) in any subject."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Logistics and Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "UNITAR, UUCKL",
       "intakes": [
         "Jan",
@@ -9072,11 +9204,12 @@
             "text": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with at least Grade C (GP 2.0) in any subject."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Logistics Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -9116,11 +9249,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Logistics Management - Online",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -9177,11 +9311,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Multimedia Application (College)",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR College Kota Bharu",
       "intakes": [
         "Jan",
@@ -9229,11 +9364,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent.  Pass an interview (online / virtual / conventional) OR submission of student’s portfolio, to be determined by the HEP as required."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Multimedia Application (College)",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -9281,11 +9417,12 @@
             "text": "Grade C (GP 2.00) in any subject or its equivalent.  Pass an interview (online / virtual / conventional) OR submission of student’s portfolio, to be determined by the HEP as required."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -9366,11 +9503,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Diploma in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "UNITAR, Kuching",
       "intakes": [
         "Jan",
@@ -9450,11 +9588,12 @@
             "text": "A pass in STPM with a minimum of Grade C (GP 2.00) in any subject and a pass in Mathematics and Biology / Physics / Chemistry / General Science / Applied Science* at SPM level;."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Diploma in Psychology - Online",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -9535,11 +9674,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Diploma in Tourism Management (College)",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "UNITAR College Penang",
       "intakes": [
         "Jan",
@@ -9584,11 +9724,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Diploma in Tourism Management (College)",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "UNITAR College Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -9628,11 +9769,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Diploma in Tourism Management (College)",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "UNITAR, Kuantan",
       "intakes": [
         "Jan",
@@ -9672,11 +9814,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Diploma in Tourism Management (College)",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "UNITAR, Kuala Terengganu",
       "intakes": [
         "Jan",
@@ -9716,11 +9859,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Diploma in Tourism Management (College)",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -9760,11 +9904,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Foundation In Management",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Cosmopoint Ipoh",
       "intakes": [
         "Jan",
@@ -9834,11 +9979,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects;."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Management",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kuching",
       "intakes": [
         "Jan",
@@ -9908,11 +10054,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects;."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -9982,11 +10129,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, UUCKL",
       "intakes": [
         "Jan",
@@ -10057,11 +10205,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Management",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Alor Setar",
       "intakes": [
         "Jan",
@@ -10124,11 +10273,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Management",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Johor Bahru",
       "intakes": [
         "Jan",
@@ -10191,11 +10341,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation In Management",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kuantan",
       "intakes": [
         "Jan",
@@ -10265,11 +10416,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects;."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Management",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kota Bharu",
       "intakes": [
         "Jan",
@@ -10344,11 +10496,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Information Technology",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -10439,11 +10592,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects including English, Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Management",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -10506,11 +10660,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Management (Accounting, Finance)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -10605,11 +10760,12 @@
             "text": "3 credits (B6) including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -10679,11 +10835,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kuantan",
       "intakes": [
         "Jan",
@@ -10705,11 +10862,12 @@
         "others": ""
       },
       "program_type": "foundation",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Taj Ipoh",
       "intakes": [
         "Jan",
@@ -10779,11 +10937,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -10841,11 +11000,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Management - Online",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -10924,11 +11084,12 @@
             "text": "Grade B in 3 relevant subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Information Technology - Online",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -11038,11 +11199,12 @@
             "text": "3B including Mathematics or Additional Mathematics AND 1 of science, technology or engineering subject."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts - Online",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -11121,11 +11283,12 @@
             "text": "Grade B in 3 relevant subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Management",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Melaka",
       "intakes": [
         "Jan",
@@ -11195,11 +11358,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects;."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kuching",
       "intakes": [
         "Jan",
@@ -11269,11 +11433,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Management",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kuala Terengganu",
       "intakes": [
         "Jan",
@@ -11344,11 +11509,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects;."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Melaka",
       "intakes": [
         "Jan",
@@ -11418,11 +11584,12 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITAR, Kuala Terengganu",
       "intakes": [
         "Jan",
@@ -11492,7 +11659,8 @@
             "text": "Pass UEC with a minimum of Grade B in three (3) subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Post-Graduate Diploma in Education (Online)",
@@ -11541,11 +11709,12 @@
             "text": "-A Bachelor’s Degree (level 6, MQF) with a minimum CGPA of 2.50 or its equivalent as accepted by the UNITAR Senate; OR? -A Bachelor’s Degree or equivalent, with a minimum CGPA of 2.00 and not meeting CGPA of 2.50, can be accepted subject to a minimum of five (5) years working experience in a relevant field.."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, UUCKL",
       "intakes": [
         "Jan",
@@ -11586,11 +11755,12 @@
             "text": "Bachelor’s Degree in Related Fields: CGPA ≥ 2.50: Automatically accepted. CGPA 2.00–2.49: Subject to a rigorous internal assessment OR Bachelor’s Degree in Non-related Fields: With relevant work experience: Subject to a rigorous internal assessment. Without relevant work experience: Must complete pre-requisite courses.."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Master of Education (Early Childhood Education) - Online",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -11615,7 +11785,8 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Master of Education (Educational Leadership & Management) - Online",
@@ -11641,7 +11812,8 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Education"
     },
     {
       "program_name": "Master of Education (Educational Leadership & Management)",
@@ -11703,7 +11875,8 @@
             "text": "OR? ii. A bachelor’s degree in the field or related fields or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted subject to rigorous internal assessment."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Education (Instructional Technology) - Online",
@@ -11760,11 +11933,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Education (Teaching of English as a Second Language) - Online",
-      "field_of_study": "English (Teaching)",
+      "field_of_study": "Education",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -11789,11 +11963,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "English (Teaching)"
     },
     {
       "program_name": "Master of Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -11818,11 +11993,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of Information Technology - Online",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -11858,11 +12034,12 @@
             "text": "-A Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.75; OR -A Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment process; OR -A Bachelor’s Degree or its equivalent, with CGPA less than 2.50, with a minimum of 5 years working experience in a relevant field may be accepted."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -11887,11 +12064,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration - Online",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -11913,11 +12091,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "Doctor of Philosophy in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -11950,11 +12129,12 @@
             "text": "i. A Master’s Degree in Business or other related discipline; OR ii. A Master’s Degree in non-related fields with relevant working experience; OR iii. A Master’s Degree in non-related fields without relevant working experience, subject to passing prerequisite courses; OR iv. Other equivalent qualifications recognised by the Government of Malaysia; AND v. Written proposal in 500 words (English).."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Doctor in Business Administration - Online",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -11985,11 +12165,12 @@
             "text": "A Master’s Degree (Level 7, MQF) in related fields as accepted by the HEP Senate; OR A Master’s Degree (Level 7, MQF) in non-related fields as accepted by the HEP Senate, subject to having relevant working experience and rigorous internal assessment; OR A Master’s Degree (Level 7, MQF) in non-related fields as accepted by the HEP Senate and without relevant working experience, subject to certain prerequisite requirement courses; OR Other qualifications equivalent to a Master’s Degree (Level 7, MQF) recognised by the Malaysian Government.."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Doctor of Philosophy in Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -12022,7 +12203,8 @@
             "text": "-A Master’s Degree in Business [Level 7, Malaysian Qualification Framework (MQF)] or in other related discipline and recognized by the University Senate; OR -A Master’s degree (Level 7, MQF) in non-related fields as accepted by the HEP Senate, subject to having relevant working experience and rigorous internal assessment;? OR -A Master’s degree (Level 7, MQF) in non-related fields as accepted by the HEP Senate and without relevant working experience, subject to passing prerequisite courses."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Doctor of Education – Online",
@@ -12061,7 +12243,8 @@
             "text": "A Master’s Degree (Level 7, Malaysian Qualifications Framework, (MQF) in the field or related fields accepted by the Higher Education Provider (HEP) Senate."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Philosophy (PhD) in Education",
@@ -12096,11 +12279,12 @@
             "text": "i. A Master’s Degree, as accepted by UNITAR Senate; OR ii. Other qualifications equivalent to a Master’s Degree, as accepted by UNITAR Senate.."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Philosophy Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITAR, Kelana Jaya",
       "intakes": [
         "Jan",
@@ -12133,11 +12317,12 @@
             "text": "-A Master’s Degree or its equivalent AND candidates must graduate in computer or its equivalent either in Bachelor’s Degree or Master’s Degree (e.g. Information Technology, Computer Science, Software Engineering etc); OR -Other qualifications equivalent to a master’s degree recognised by the Malaysian Government.."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Doctor of Philosophy in Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "UNITAR, UUCKL",
       "intakes": [
         "Jan",
@@ -12173,7 +12358,8 @@
             "text": "Master’s Degree in Related Fields: Automatically accepted if in business or a related field OR Master’s Degree in Non-related Fields: With relevant work experience: Subject to a rigorous internal assessment. Without relevant work experience: Must complete pre-requisite courses.."
           }
         ]
-      }
+      },
+      "course": "Management"
     }
   ]
 }

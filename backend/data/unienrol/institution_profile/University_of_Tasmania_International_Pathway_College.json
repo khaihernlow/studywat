@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.applyboard.com/_next/image?url=https%3A%2F%2Fphotos.applyboard.com%2Fschool_photos%2F000%2F017%2F533%2Fphotos%2Foptimized%2FUTAS-Pathway-College-Launceston-June2022.webp%3F1659728890&w=3840&q=75"
+  ],
   "programs": [
     {
       "program_name": "International First Year Diploma (Business)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UTAS International Pathway College",
       "intakes": [
         "Feb",
@@ -64,11 +67,12 @@
             "text": "STPM GPA 2.67."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "International First Year Diploma (Science - ICT)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UTAS International Pathway College",
       "intakes": [
         "Feb",
@@ -116,11 +120,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Foundation Studies (Arts)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UTAS International Pathway College",
       "intakes": [
         "Feb",
@@ -175,11 +180,12 @@
             "text": "3 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation Studies (Arts) - Fast-Track",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UTAS International Pathway College",
       "intakes": [
         "Feb",
@@ -234,11 +240,12 @@
             "text": "4 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation Studies (Science)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "UTAS International Pathway College",
       "intakes": [
         "Feb",
@@ -293,11 +300,12 @@
             "text": "3 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation Studies (Science) - Fast-Track",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "UTAS International Pathway College",
       "intakes": [
         "Feb",
@@ -352,7 +360,8 @@
             "text": "4 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

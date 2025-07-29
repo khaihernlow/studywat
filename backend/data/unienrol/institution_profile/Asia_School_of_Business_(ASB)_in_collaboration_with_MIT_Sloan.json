@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 6395,
   "malaysia_rank": 45,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Asia+School+of+Business+%28ASB%29+in+collaboration+with+MIT+Sloan/Asia+School+of+Business/Campus_and_Surroundings/01a_Asia_School_of_Business_Campus_Exterior.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Asia School of Business",
       "intakes": [
         "Mar",
@@ -38,11 +41,12 @@
             "text": "Bachelor’s Degree or equivalent from a recognized institution.  At least 2 years of work experience\nProof of English proficiency"
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Executive Master of Business Administration",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Asia School of Business",
       "intakes": [
         "May",
@@ -78,7 +82,8 @@
             "text": "Bachelor’s degree or equivalent from a recognized institution with a minimum 2.5 CGPA on a 4.0 scale.  Approximately 8 years or more of work experience\nProof of English proficiency\nEmployed / Self-Employed full time"
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     }
   ]
 }

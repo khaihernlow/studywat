@@ -1,0 +1,291 @@
+{
+  "institution_name": "Fairview University College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Bachelor of Education (Hons) Primary Years (B.Ed)",
+      "field_of_study": "Education",
+      "location": "Fairview, Subang Jaya",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "UEC": "Passed with min. 5Bs.",
+        "Diploma": "Diploma programme - minimum CGPA 2.0.",
+        "STPM": "Sijil Tinggi Pelajaran Malaysia (STPM) - minimum CGPA 2.0 in 2 subjects.",
+        "Foundation": "Foundation programme - minimum CGPA 2.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 34400
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Introduction to Education Curriculum Design for the Primary Years Educational Psychology Schooling, Socialisation and Identity MPU (U1)\nEthnic Relationship\nBM Komunikasi 2 Ethnic Relationship BM Komunikasi 2 School-Based Experience-1 Year 1 Semester 2 Child Growth and Development MPU (U2) – Information Literacy Visual and Performing Arts in Education Year 1 Semester 3 Educational Philosophy Understanding Teaching in School Digital Technology for Teaching & Learning Assessment and Evaluation in the Primary Years Introduction to International Baccalaureate Programmes School-Based Experience-2 Year 2 Semester 1 Introduction to Science and Technology in the Primary School Social Studies in the Primary School Numeracy in the Primary School Literacy in the Primary School MPU (U4) Service Learning School-Based Experience-3 Year 2 Semester 2 Teaching Mathematics via Inquiry-1 Teaching Science via Inquiry Teaching English in Primary School Year 2 Semester 3 Teaching Mathematics via inquiry-2 Teaching English as an Additional Language Primary Years Programme-IB Personal, Social, and Physical Education MPU (U3) Culture of Indigenous Malaysia School-Based Experience-4 Year 3 Semester 1 Values Education Introduction to Action Research Methodology School Organisation and Management Inclusive Education in Primary School IB PYP in Practice School-Based Experience-5 Year 3 Semester 2 Transition to Teaching Advanced Studies\nVisual Art Education Focus\nDrama Education Focus\nMusic Education Focus Visual Art Education Focus Drama Education Focus Music Education Focus Year 3 Semester 2 Teacher Professional Project School-Based Experience Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Passed with min. 5Bs."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Diploma programme - minimum CGPA 2.0."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Sijil Tinggi Pelajaran Malaysia (STPM) - minimum CGPA 2.0 in 2 subjects."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Foundation programme - minimum CGPA 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Music",
+      "field_of_study": "Foundation in Arts",
+      "location": "Fairview, Subang Jaya",
+      "intakes": [
+        "Jan",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with 5 credits in any subjects.",
+        "O-Level": "Pass 5 O Level at Grade C levels in any subjects.",
+        "UEC": "Pass UEC with Grade B in 3 subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 24000
+      },
+      "course_content": {
+        "core": "Semester 1 Major Instruments – 1 Keyboard Studies Musicianship – 1 (Aural Training) Rudiments of Music Theory – 1 Music in Context Concert Practice-1 English for Communication Chamber Music Mentoring Service Learning (Community and Service) Event Internship 1 Semester 2 Professional Presentation Skills Major Instruments – 2 Study Skills (ATL) Musicianship – 2 (Aural Skill) Keyboard Studies 2 Rudiments of Music Theory 2 Basic Music History Concert Practice-2 Event Internship 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with 5 credits in any subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass 5 O Level at Grade C levels in any subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with Grade B in 3 subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Postgraduate Diploma in Education (International Baccalaureate)",
+      "field_of_study": "Education",
+      "location": "Fairview, Subang Jaya",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Aug",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "minimum CGPA 2.50 (Degree in a related field).  5 years of experience in the education field (if the Bachelor Degree is less than CGPA 2.50)"
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "CEFR": "B2"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 32250
+      },
+      "course_content": {
+        "core": "Exploring Teaching and Learning Teaching & learning in Action Developing Professional Practice IB Curriculum Processes IB Teaching and Learning IB Assessment and learning IB Professional Learning Understanding Research Methodology Educational Research Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "5 years of experience in the education field (if the Bachelor Degree is less than CGPA 2.50)"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Education (International Baccalaureate)",
+      "field_of_study": "Education",
+      "location": "Fairview, Subang Jaya",
+      "intakes": [
+        "Jan",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Minimum CGPA 2.50 (Degree in a related field).  5 years of experience in the education field (if the Bachelor Degree is less than CGPA 2.50)"
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "CEFR": "B2"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 48050
+      },
+      "course_content": {
+        "core": "Exploring Teaching and Learning Teaching & learning in Action Developing Professional Practice IB Curriculum Processes IB Teaching and Learning IB Assessment and learning IB Professional Learning Understanding Research Methodology Educational Research Practice Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Degree in a related field).  5 years of experience in the education field (if the Bachelor Degree is less than CGPA 2.50)"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Education",
+      "field_of_study": "Education",
+      "location": "Fairview, Subang Jaya",
+      "intakes": [
+        "Apr",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "Masters": "A Masters degree (Level 7) as approved by University Senate or Training and or professional experience (approximately 3-4 years) in the field of education."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 – 3 Compulsory courses\nSemester 2 – 3 Specialisation courses Year 2 Semester 1 – 2 Specialisation courses\nSemester 2 – Dissertation Year 3 Semester 1 – 2 Specialisation courses\nSemester 2 – Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "A Masters degree (Level 7) as approved by University Senate or Training and or professional experience (approximately 3-4 years) in the field of education."
+          }
+        ]
+      }
+    }
+  ]
+}

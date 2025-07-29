@@ -4,10 +4,13 @@
   "institution_type": null,
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://resources.wobbjobs.com/resized/uploads/jobs-malaysia/company_images/27867/jobs-malaysia-penang-skills-development-centre-1628477986_show.jpg"
+  ],
   "programs": [
     {
       "program_name": "Diploma in Electronic Engineering",
-      "field_of_study": "Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "PSDC, Bayan Lepas",
       "intakes": [
         "Feb",
@@ -121,11 +124,12 @@
             "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Electronic Engineering"
     },
     {
       "program_name": "Diploma in Mechatronic Engineering",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "PSDC, Bayan Lepas",
       "intakes": [
         "Feb",
@@ -233,7 +237,8 @@
             "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     }
   ]
 }

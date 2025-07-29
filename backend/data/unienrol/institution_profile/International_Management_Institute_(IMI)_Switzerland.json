@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/IMI/IMI+Switzerland/Campus_and_Surroundings/01a_IMI_Switzerland_IMI_Switzerland_Campus.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Higher Diploma in Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -45,11 +48,12 @@
             "text": "Completed any Hospitality or Culinary Diploma from an accredited college/Uni.  Colleges doing C & G, students must complete up to Advanced Diploma stage"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Graduate Diploma in International Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -83,11 +87,12 @@
             "text": "Bachelors of any discipline OR minimum 3 years work experience."
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Higher Diploma in International Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -125,11 +130,12 @@
             "text": "Completed any Hospitality or Culinary Diploma from an accredited college/Uni.  Colleges doing C & G, students must complete up to Advanced Diploma stage"
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Graduate Diploma in Hotel & Events Management",
-      "field_of_study": "Event Management",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -163,11 +169,12 @@
             "text": "Bachelors of any discipline OR minimum 3 years work experience."
           }
         ]
-      }
+      },
+      "course": "Event Management"
     },
     {
       "program_name": "Higher Diploma in Hospitality Management",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -201,11 +208,12 @@
             "text": "Completed any Hospitality of Culinary Diploma from an accredited college/Uni.  Colleges doing C & G, students must complete up to Advanced Diploma stage"
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Swiss Advanced Diploma in Hotel & Restaurant Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Nov"
@@ -282,11 +290,12 @@
             "text": "UEC with 3 B's."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Bachelor of Arts with Honours Degree - Business (Pre-U Entry)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -354,11 +363,12 @@
             "text": "Completed STPM with 3 principals."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Arts with Honours Degree - Business (Higher Diploma Entry)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -392,11 +402,12 @@
             "text": "Completed Higher Diploma."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Arts with Honours Degree - Culinary Arts (Pre-U Entry)",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -464,11 +475,12 @@
             "text": "Completed STPM with 3 principals."
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Bachelor of Arts with Honours Degree - Culinary Arts (Higher Diploma Entry)",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -502,11 +514,12 @@
             "text": "Completed Higher Diploma."
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Bachelor of Arts with Honours Degree - Hospitality (Pre-U Entry)",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -574,11 +587,12 @@
             "text": "Completed STPM with 3 principals."
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Bachelor of Arts with Honours Degree - Hospitality (Higher Diploma Entry)",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -612,11 +626,12 @@
             "text": "Completed Higher Diploma."
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Diploma in Business, Hotel & Tourism Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -684,11 +699,12 @@
             "text": "Completed STPM with 3 principals."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in International Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -754,11 +770,12 @@
             "text": "Completed STPM with 3 principals."
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Foundation Certificate in Hotel & Tourism Management",
-      "field_of_study": "Hospitality and Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -838,11 +855,12 @@
             "text": "UEC with 3 B's."
           }
         ]
-      }
+      },
+      "course": "Hospitality and Tourism Management"
     },
     {
       "program_name": "MSc in International Hospitality and Events Management",
-      "field_of_study": "Event Management",
+      "field_of_study": "Hospitality and Services",
       "location": "IMI Switzerland",
       "intakes": [
         "Feb",
@@ -874,7 +892,8 @@
             "text": "Completed Degree studies in an accredited Uni.  Student from any profession can apply"
           }
         ]
-      }
+      },
+      "course": "Event Management"
     }
   ]
 }

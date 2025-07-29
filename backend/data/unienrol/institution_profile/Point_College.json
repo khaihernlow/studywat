@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://store.j-kell.com/public/frontend-theme-2/assets/img/uploads/point-college.jpg"
+  ],
   "programs": [
     {
       "program_name": "Diploma in Digital Animation",
-      "field_of_study": "Animation",
+      "field_of_study": "Communication and Media Studies",
       "location": "Point College, Kota Damansara",
       "intakes": [
         "Jan",
@@ -54,11 +57,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Animation"
     },
     {
       "program_name": "Diploma in Film & TV Production",
-      "field_of_study": "Film & Television",
+      "field_of_study": "Communication and Media Studies",
       "location": "Point College, Kota Damansara",
       "intakes": [
         "Jan",
@@ -115,11 +119,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Film & Television"
     },
     {
       "program_name": "Diploma in New Media Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Point College, Kota Damansara",
       "intakes": [
         "Jan",
@@ -176,7 +181,8 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     }
   ]
 }

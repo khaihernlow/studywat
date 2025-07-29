@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 3102,
   "malaysia_rank": 29,
+  "institution_images": [
+    "https://linc.xmu.edu.my/wp-content/uploads/2023/02/greathall-1.jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Chemical Engineering with Honours",
-      "field_of_study": "Chemical Engineering",
+      "field_of_study": "Engineering",
       "location": "Xiamen, Sepang",
       "intakes": [
         "Feb",
@@ -156,11 +159,12 @@
             "text": "a TER 70 and Grade B in Mathematics AND Chemistry OR Physics."
           }
         ]
-      }
+      },
+      "course": "Chemical Engineering"
     },
     {
       "program_name": "Bachelor of Arts in Chinese Studies (Honours)",
-      "field_of_study": "Chinese Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "Xiamen, Sepang",
       "intakes": [
         "Feb",
@@ -289,11 +293,12 @@
             "text": "A pass in Foundation/Matriculation with at least CGPA 2.0 out of 4.0.  SPM-level or equivalent:\ncredit in Chinese"
           }
         ]
-      }
+      },
+      "course": "Chinese Studies"
     },
     {
       "program_name": "Bachelor of Arts in Communication (Honours)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Xiamen, Sepang",
       "intakes": [
         "Feb",
@@ -426,11 +431,12 @@
             "text": "Pass Matriculation/Foundation or the equivalent with at least CGPA 2.00.  English Language – a credit in SPM level or the equivalent"
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Engineering in Artificial Intelligence (Honours)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Xiamen, Sepang",
       "intakes": [
         "Feb",
@@ -577,11 +583,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Advanced Mathematics subject or Mathematics and one Science/ Technology/ Engineering subject"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Engineering in Computer Science and Technology (Honours)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Xiamen, Sepang",
       "intakes": [
         "Feb",
@@ -749,11 +756,12 @@
             "text": "a TER 70 and Grade B in 2 relevant subjects including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Electrical and Electronics Engineering (Hons)",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Xiamen, Sepang",
       "intakes": [
         "Feb",
@@ -878,11 +886,12 @@
             "text": "A pass in Foundation/Matriculation with at least CGPA 2.0 out of 4.0 AND passes in Mathematics AND Physics."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Arts (Honours) in English Language and Literature",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "Xiamen, Sepang",
       "intakes": [
         "Feb",
@@ -989,11 +998,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "Bachelor of Economics in Finance (Honours)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Xiamen, Sepang",
       "intakes": [
         "Feb",
@@ -1129,11 +1139,12 @@
             "text": "A pass in Foundation/Matriculation with at least CGPA 2.5 out of 4.0.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Arts in Journalism (Honours)",
-      "field_of_study": "Journalism",
+      "field_of_study": "Communication and Media Studies",
       "location": "Xiamen, Sepang",
       "intakes": [
         "Feb",
@@ -1264,11 +1275,12 @@
             "text": "A pass in Foundation/Matriculation with at least CGPA 2.0 out of 4.0.  SPM-level or equivalent:\ncredit in English"
           }
         ]
-      }
+      },
+      "course": "Journalism"
     },
     {
       "program_name": "Bachelor of Arts in Advertising (Honours)",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Xiamen, Sepang",
       "intakes": [
         "Feb",
@@ -1430,7 +1442,8 @@
             "text": "at least Tertiary Entrance Rank (TER) 70 and grade B in 2 related subjects."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     }
   ]
 }

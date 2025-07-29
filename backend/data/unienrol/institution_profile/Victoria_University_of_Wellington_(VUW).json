@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 430,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Victoria+University+of+Wellington/VUW+UP+Education/Campus_and_Surroundings/01a_VUW_UP_Education_Main_Building.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Foundation Studies (Arts)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Wellington Campus",
       "intakes": [
         "Feb",
@@ -95,11 +98,12 @@
             "text": "40 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation Studies (Arts) - Accelerated",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Wellington Campus",
       "intakes": [
         "Feb",
@@ -189,11 +193,12 @@
             "text": "30 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation Studies (Science)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Wellington Campus",
       "intakes": [
         "Feb",
@@ -281,11 +286,12 @@
             "text": "40 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation Studies (Science) - Accelerated",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Wellington Campus",
       "intakes": [
         "Feb",
@@ -375,7 +381,8 @@
             "text": "30 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

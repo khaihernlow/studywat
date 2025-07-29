@@ -4,6 +4,9 @@
   "institution_type": "Private",
   "world_rank": 6007,
   "malaysia_rank": 43,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/HERIOT_WATT/PUTRAJAYA_CAMPUS/Campus_Surroundings/Campus+Exterior+2.png"
+  ],
   "programs": [
     {
       "program_name": "MA (Hons) Accounting and Business Finance",
@@ -259,11 +262,12 @@
             "text": "ATAR 50.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BSc (Hons) Actuarial Science",
-      "field_of_study": "Actuarial Science",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Sep"
@@ -478,11 +482,12 @@
             "text": "[WACE] 90 including 80% in Mathematics Method / Specialist [SACE] 90% including 17 in Mathematics Method / Specialist."
           }
         ]
-      }
+      },
+      "course": "Actuarial Science"
     },
     {
       "program_name": "BBA (Hons) Bachelor of Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -684,11 +689,12 @@
             "text": "ATAR 50.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "MA (Hons) Business and Finance",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Sep"
@@ -879,11 +885,12 @@
             "text": "ATAR 50.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "MA (Hons) International Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -1074,11 +1081,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "MEng Chemical Engineering",
-      "field_of_study": "Chemical Engineering",
+      "field_of_study": "Engineering",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -1357,11 +1365,12 @@
             "text": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Chemistry. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Chemistry.."
           }
         ]
-      }
+      },
+      "course": "Chemical Engineering"
     },
     {
       "program_name": "MEng Civil Engineering",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Sep"
@@ -1599,11 +1608,12 @@
             "text": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Physics. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Physics.."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "BSc (Hons) Computing Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -1820,11 +1830,12 @@
             "text": "ATAR 80 including B in Mathematics Method/Specialist."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "MEng Electrical and Electronic Engineering",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Sep"
@@ -2073,11 +2084,12 @@
             "text": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Physics. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Physics.."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "BSc (Hons) Information Systems with Data Analytics",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Sep",
@@ -2284,11 +2296,12 @@
             "text": "ATAR 70.  Grade C in Mathematics at SPM/ IGCSE or equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "MA Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Sep",
@@ -2468,11 +2481,12 @@
             "text": "ATAR 50.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "MA (Hons) Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -2668,11 +2682,12 @@
             "text": "ATAR 50.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BSc (Hons) Statistical Data Science",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Sep"
@@ -2885,11 +2900,12 @@
             "text": "[WACE] 90 including 80% in Mathematics Method / Specialist [SACE] 90% including 17 in Mathematics Method / Specialist."
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "MEng Mechanical Engineering",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -3138,11 +3154,12 @@
             "text": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Physics. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Physics.."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "BSc (Hons) Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -3344,11 +3361,12 @@
             "text": "ATAR 70.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc (Hons) Psychology with Management",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -3585,11 +3603,12 @@
             "text": "ATAR 70.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc (Hons) Quantity Surveying",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -3797,11 +3816,12 @@
             "text": "ATAR 75.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "Foundation in Business (Psychology)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -3886,11 +3906,12 @@
             "text": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -3976,11 +3997,12 @@
             "text": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business (Actuarial Science/Computing/Statistics)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4059,11 +4081,12 @@
             "text": "Minimum 5 credits (C's) including English, Mathematics and Additional Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business (Accounting, Finance)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4149,11 +4172,12 @@
             "text": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Science (Actuarial Science/Computing/Psychology)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4234,11 +4258,12 @@
             "text": "5 credits (C’s), in O-Levels, including Mathematics, English, Physics and Additional Mathematics - or equivalent global qualifications.."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Engineering)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4312,11 +4337,12 @@
             "text": "5 credits (C’s), in SPM or O-Levels, including Mathematics, English, Physics, Chemistry and Additional Mathematics - or equivalent global qualifications.."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "MSc Business Strategy, Leadership and Change",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4354,11 +4380,12 @@
             "text": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "MSc International Business Management with Finance",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4396,11 +4423,12 @@
             "text": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "MSc Renewable Energy Engineering",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4434,11 +4462,12 @@
             "text": "A relevant first or second class Honours degree in a physical science or engineering discipline, or a degree qualification, or equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "MSc International Business Management with Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4476,11 +4505,12 @@
             "text": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Master of Business Administration (MBA)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4517,11 +4547,12 @@
             "text": "A relevant first or second class Honours degree or a degree qualification, or equivalent qualification recognised by the Malaysian Government, acceptable to the University. At least two years' appropriate business experience.."
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "MSc Advanced Mechanical Engineering",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Sep"
@@ -4556,11 +4587,12 @@
             "text": "A relevant first or second class Honours degree in a physical science or engineering discipline, or a degree qualification, or equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "MSc Petroleum Engineering",
-      "field_of_study": "Petroleum Engineering",
+      "field_of_study": "Engineering",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4614,11 +4646,12 @@
             "text": "For postgraduate conversion courses, *non-related degrees will be considered. Corporate (or chartered) membership of relevant professional institutions will also be considered.."
           }
         ]
-      }
+      },
+      "course": "Petroleum Engineering"
     },
     {
       "program_name": "MSc Strategic Project Management",
-      "field_of_study": "Project Management",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4656,11 +4689,12 @@
             "text": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
           }
         ]
-      }
+      },
+      "course": "Project Management"
     },
     {
       "program_name": "PhD Business and Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4700,11 +4734,12 @@
             "text": "MSc recognised by the Malaysian government and deemed acceptable by the University. Candidates holding an MBA are first required to complete our PG Certificate in Research Methods delivered by the Edinburgh Business School..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "PhD Building",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4744,11 +4779,12 @@
             "text": "MSc or first class MEng recognised by the Malaysian government and deemed acceptable by the University.  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "PhD Statistics",
-      "field_of_study": "Economics and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4788,11 +4824,12 @@
             "text": "MSc recognised by the Malaysian government and deemed acceptable by the University.  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
           }
         ]
-      }
+      },
+      "course": "Economics and Finance"
     },
     {
       "program_name": "PhD Engineering and Engineering Trades",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4832,11 +4869,12 @@
             "text": "MSc or first class MEng recognised by the Malaysian government and deemed acceptable by the University. Candidates holding an MBA are first required to complete our PG Certificate in Research Methods delivered by the Edinburgh Business School..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "PhD Social and Behavioural Science",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Heriot-Watt, Putrajaya",
       "intakes": [
         "Jan",
@@ -4911,7 +4949,8 @@
             "text": "Masters Degree in Psychology or a relevant or equivalent qualification as recognised by the Malaysian government and deemed acceptable by the University.  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     }
   ]
 }

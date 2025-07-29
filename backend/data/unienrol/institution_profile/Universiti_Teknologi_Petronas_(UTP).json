@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 937,
   "malaysia_rank": 5,
+  "institution_images": [
+    "https://media.licdn.com/dms/image/v2/C4D1BAQHyXxkggdewhg/company-background_10000/company-background_10000/0/1583264349227?e=2147483647&v=beta&t=oxlqW8h2SSmy64jw4HJ-LR6ukM_vHsFScyL5fuz3TKA"
+  ],
   "programs": [
     {
       "program_name": "Bachelor in Business Management (Hons)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UTP, Seri Iskandar",
       "intakes": [
         "Jan",
@@ -145,11 +148,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Chemical Engineering with Honours",
-      "field_of_study": "Chemical Engineering",
+      "field_of_study": "Engineering",
       "location": "UTP, Seri Iskandar",
       "intakes": [
         "Jan",
@@ -232,11 +236,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Chemical Engineering"
     },
     {
       "program_name": "Bachelor of Civil Engineering with Honours",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "UTP, Seri Iskandar",
       "intakes": [
         "Jan",
@@ -319,11 +324,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UTP, Seri Iskandar",
       "intakes": [
         "Jan",
@@ -426,11 +432,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Computer Engineering with Honours",
-      "field_of_study": "Computer Systems Engineering",
+      "field_of_study": "Engineering",
       "location": "UTP, Seri Iskandar",
       "intakes": [
         "Jan",
@@ -513,11 +520,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Computer Systems Engineering"
     },
     {
       "program_name": "Bachelor of Information Systems (Hons)",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "UTP, Seri Iskandar",
       "intakes": [
         "Jan",
@@ -620,11 +628,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UTP, Seri Iskandar",
       "intakes": [
         "Jan",
@@ -727,11 +736,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Materials Engineering with Honours",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "UTP, Seri Iskandar",
       "intakes": [
         "Jan",
@@ -818,11 +828,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering with Honours",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "UTP, Seri Iskandar",
       "intakes": [
         "Jan",
@@ -917,11 +928,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Petroleum Engineering with Honours",
-      "field_of_study": "Petroleum Engineering",
+      "field_of_study": "Engineering",
       "location": "UTP, Seri Iskandar",
       "intakes": [
         "Jan",
@@ -1082,7 +1094,8 @@
             "text": "Pass with minimum Grade C or 60% in Mathematics OR Specialised Mathematics, Physics and Chemistry."
           }
         ]
-      }
+      },
+      "course": "Petroleum Engineering"
     }
   ]
 }

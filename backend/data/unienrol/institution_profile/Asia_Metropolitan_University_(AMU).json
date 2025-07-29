@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 14204,
   "malaysia_rank": 93,
+  "institution_images": [
+    "https://university.tuitionjob.com/custom/picture/176/uni_58c3b6badec89.jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "AMU, Cheras",
       "intakes": [
         "Jan",
@@ -41,11 +44,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Science (Hons) Healthcare Management",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AMU, Cheras",
       "intakes": [
         "Feb",
@@ -180,11 +184,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "AMU, Cheras",
       "intakes": [
         "Jan",
@@ -249,11 +254,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Healthcare",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AMU, Cheras",
       "intakes": [
         "Jan",
@@ -328,11 +334,12 @@
             "text": "5 Credits (including English, Maths, 1 science subject, i.e. Biology/Physics/Chemistry/General Science/Applied Science, and any other 2 subjects)."
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Master of Business Administration (Coursework) (General)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "AMU, Cheras",
       "intakes": [
         "Jan",
@@ -356,11 +363,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business Administration"
     },
     {
       "program_name": "Master of Science in Healthcare Management",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AMU, Cheras",
       "intakes": [
         "Jan",
@@ -384,11 +392,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Healthcare"
     },
     {
       "program_name": "Master of Business Administration (Coursework) (Human Resource Management)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "AMU, Cheras",
       "intakes": [
         "Jan",
@@ -412,11 +421,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "Doctor of Business Administration (Coursework)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "AMU, Cheras",
       "intakes": [
         "Jan",
@@ -440,11 +450,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business Administration"
     },
     {
       "program_name": "Doctor of Philosophy in Management (Research)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "AMU, Cheras",
       "intakes": [
         "Jan",
@@ -468,7 +479,8 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Management"
     }
   ]
 }

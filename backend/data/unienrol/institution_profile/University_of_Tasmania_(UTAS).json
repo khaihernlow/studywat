@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 219,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/University+of+Tasmania/Hobart/Campus+and+Surroundings/01c_Hobart_The_Hedberg_Hobart.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Agriculture with Honours (Top-Up)",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -38,11 +41,12 @@
             "text": "Entrants to the degree of Bachelor of Agriculture with Honours will have qualified for admission to the BAgr or an appropriate Bachelor degree in Science or equivalent at an approved tertiary institution. Candidates would normally be expected to obtain at least a credit average in their final year undergraduate units. Candidature will be subject to appropriate supervision being available for the thesis topic approved by the School and subject to satisfying the prerequisites required for the chosen field of study.."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Bachelor of Agricultural Science with Honours",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -110,11 +114,12 @@
             "text": "ATAR 60."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Bachelor of Marine and Antarctic Science with Honours (Top-Up)",
-      "field_of_study": "Aquatic Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -145,11 +150,12 @@
             "text": "Candidates for the degree of Bachelor of Marine and Antarctic Science with Honours will have qualified for admission to the degree of Bachelor of Marine and Antarctic Science or to the Bachelor of Applied Science (Marine Environment) at this University or have obtained an equivalent qualification at another approved tertiary institution.."
           }
         ]
-      }
+      },
+      "course": "Aquatic Science"
     },
     {
       "program_name": "Bachelor of Marine and Antarctic Science",
-      "field_of_study": "Aquatic Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -220,11 +226,12 @@
             "text": "ATAR 50 Some majors within the course require you to have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subjects: Major - Prerequisite Senior Secondary Studies Marine and Antarctic Governance - Nil Marine Biology - Chemistry (CHM415115) and General Mathematics (MTG315115) Marine Resource Management - Nil Oceanography - Mathematics Methods (MTM417117) and Physics (PHY415115) Sustainable Aquaculture - Nil."
           }
         ]
-      }
+      },
+      "course": "Aquatic Science"
     },
     {
       "program_name": "Bachelor of Architecture and Built Environments",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -291,11 +298,12 @@
             "text": "ATAR 60."
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "Bachelor of Science - Marine Biology, Microbiology and Molecular Bioscience",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -391,11 +399,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies Molecular Bioscience (formerly Biochemistry) - Chemistry (recommended but Marine Biology - Chemistry (recommended but not required) Microbiology - Chemistry (recommended but not required)."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Bachelor of Science - Plant Science",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -466,11 +475,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Bachelor of Science - Zoology",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -541,11 +551,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Bachelor of Business with Honours (Top-Up)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -584,11 +595,12 @@
             "text": "Candidates in Management must also have passed the unit BMA331 Marketing Research or an acceptable equivalent unit.."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Business with Honours (Top-Up)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -619,11 +631,12 @@
             "text": "Entry to the Bachelor of Business Honours program is open to students who have completed the Bachelor of Business (or equivalent approved qualification) with an average of distinction or higher in at least 50% of the final year units of the pass degree. Honours candidates in Management require an average of credit or higher for the 200 and 300 level units forming the relevant major(s) in their degree. Candidates in Management must also have passed the unit BMA331 Marketing Research or an acceptable equivalent unit.."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -690,11 +703,12 @@
             "text": "ATAR 65."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Science - Chemistry",
-      "field_of_study": "Chemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -790,11 +804,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies Chemistry - Chemistry."
           }
         ]
-      }
+      },
+      "course": "Chemistry"
     },
     {
       "program_name": "Bachelor of Engineering with Honours - Civil",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -932,11 +947,12 @@
             "text": "ATAR 70 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subject: Mathematics Methods (MTM415117) or equivalent, and Physical Sciences (PSC315109) or equivalent (equivalency includes CHM415115 Chemistry OR PHY415115 Physics)."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Bachelor of Media and Communication with Honours (Top-Up)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -976,11 +992,12 @@
             "text": "Successful completion of a relevant bachelor’s degree with a major in media and communication with a Distinction (70%) average at the University of Tasmania or another approved tertiary institution, or equivalent industry experience, and."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Science - Computer Science and Data Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -1051,11 +1068,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Science - Computer Science and Data Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -1126,11 +1144,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Fine Arts with Honours (Top-Up)",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -1161,11 +1180,12 @@
             "text": "Successful completion of a relevant bachelor’s degree with a major in visual or fine arts, design or theatre and performance with with a Distinction (70%) average at the University of Tasmania or another approved tertiary institution, or equivalent industry experience, and submission of a project proposal which can be supported by appropriate academic supervision."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Bachelor of Fine Arts with Honours (Top-Up)",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -1196,11 +1216,12 @@
             "text": "Successful completion of a relevant bachelor’s degree with a major in visual or fine arts, design or theatre and performance with with a Distinction (70%) average at the University of Tasmania or another approved tertiary institution, or equivalent industry experience, and submission of a project proposal which can be supported by appropriate academic supervision."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Bachelor of Fine Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -1271,11 +1292,12 @@
             "text": "ATAR 50 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in one of the following Tasmanian Senior Secondary subject: ART315117 Art Production ART315214 Art Studio Practice ARA315116 Art Theory and Criticism (replaces Art Appreciation ARA315111) CGD315118 Computer Graphics and Design HDS315118 Housing and Design MED315117 Media Production TEG315115 Technical Graphics."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Bachelor of Fine Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -1346,11 +1368,12 @@
             "text": "ATAR 50 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in one of the following Tasmanian Senior Secondary subject: ART315117 Art Production ART315214 Art Studio Practice ARA315116 Art Theory and Criticism (replaces Art Appreciation ARA315111) CGD315118 Computer Graphics and Design HDS315118 Housing and Design MED315117 Media Production TEG315115 Technical Graphics."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Bachelor of Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -1417,11 +1440,12 @@
             "text": "ATAR 50."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Bachelor of Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -1488,11 +1512,12 @@
             "text": "ATAR 50."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Bachelor of Economics with Honours (Top-Up)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -1523,11 +1548,12 @@
             "text": "Entry to the Bachelor of Economics Honours program is open to students who have completed: Bachelor of Economics with Society and Environment major with a minimum of 65 average in four level 300 Economics units and a minimum of 65 in BEA242; OR Bachelor of Economics with Industry, Policy and Business Strategy major with a minimum of 65 average in four level 300 Economics units; OR Bachelor of Business with Business Economics major with a minimum of 65 average in four level 300 Economics units and a minimum of 65 in BEA242; OR Equivalent approved program.."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Bachelor of Economics",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -1594,7 +1620,8 @@
             "text": "ATAR 65."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Bachelor of Education (Primary)",
@@ -1694,7 +1721,8 @@
             "text": "ATAR 65.  This course includes compulsory work placements. All students must meet the course’s Safety in Practice Requirements before their first placement. This includes external clearances to work with children and vulnerable people. The safety in practice requirements are completed separately to the course application."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Education (Health and Physical Education)",
@@ -1765,7 +1793,8 @@
             "text": "ATAR 65."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Education with Honours",
@@ -1791,11 +1820,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Engineering with Honours - Electrical and Electronics",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -1933,11 +1963,12 @@
             "text": "ATAR 70 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subject: Mathematics Methods (MTM415117) or equivalent, and Physical Sciences (PSC315109) or equivalent (equivalency includes CHM415115 Chemistry OR PHY415115 Physics)."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Engineering with Honours - Electrical Power",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -2075,11 +2106,12 @@
             "text": "ATAR 70 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subject: Mathematics Methods (MTM415117) or equivalent, and Physical Sciences (PSC315109) or equivalent (equivalency includes CHM415115 Chemistry OR PHY415115 Physics)."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Bachelor of Engineering with Honours - Electronics and Communications",
-      "field_of_study": "Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -2150,11 +2182,12 @@
             "text": "ATAR 70 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subject: Mathematics Methods (MTM415117) or equivalent, and Physical Sciences (PSC315109) or equivalent (equivalency includes CHM415115 Chemistry OR PHY415115 Physics)."
           }
         ]
-      }
+      },
+      "course": "Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Applied Science (Professional Honours in Conservation Management)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -2185,11 +2218,12 @@
             "text": "Candidates for the Professional Honours Conservation Management shall be qualified for entry if they hold a bachelor degree in any discipline at the University of Tasmania or hold a degree or other tertiary qualification(s) deemed by the College of Sciences and Engineering to be equivalent for this purpose.."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Applied Science (Professional Honours in Environmental Geospatial Science)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -2220,11 +2254,12 @@
             "text": "Candidates for the Bachelor of Applied Science (Professional Honours in Environmental Geospatial Science) shall be qualified for entry if they hold a bachelor degree in any discipline at the University of Tasmania or hold a degree or other tertiary qualification(s) deemed by the College of Sciences and Engineering to be equivalent for this purpose.."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Environmental Design with Honours (Top-Up)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -2255,11 +2290,12 @@
             "text": "Qualified for admission to the degree of Bachelor of Environmental Design (BEnvDes) in this University or qualified for admission to a degree in another design course in a tertiary institution approved by the College of Sciences and Engineering; and Achieved an Average Weighted Mark of at least 60% in the units of the final year of the BEnvDes course or an equivalent design course in another tertiary institution approved by the College.."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Natural Environment and Wilderness",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -2326,11 +2362,12 @@
             "text": "ATAR 60."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Natural Environment and Wilderness",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -2398,11 +2435,12 @@
             "text": "ATAR 60."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Natural Environment and Wilderness Studies with Honours (Top-Up)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -2433,11 +2471,12 @@
             "text": "Completed the degree of Bachelor of Natural Environment and Wilderness Studies at this University or equivalent qualification at another approved tertiary institution completed to a standard of achievement that is deemed acceptable by the College.."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Natural Environment and Wilderness Studies with Honours (Top-Up)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -2468,11 +2507,12 @@
             "text": "Completed the degree of Bachelor of Natural Environment and Wilderness Studies at this University or equivalent qualification at another approved tertiary institution completed to a standard of achievement that is deemed acceptable by the College.."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Natural Environments and Conservation and Master of Protected Area Conservation",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -2494,11 +2534,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Science - Earth Science and Ecology",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -2569,11 +2610,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Science - Environmental Remediation",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -2644,11 +2686,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies Environmental Remediation - Chemistry."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Science - Geography and Environment",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -2719,11 +2762,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Science - Geography and Environment",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -2819,11 +2863,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Science - Sustainability",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -2919,11 +2964,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Natural Environments and Conservation",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -2990,11 +3036,12 @@
             "text": "ATAR 65."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Natural Environments and Conservation",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -3062,11 +3109,12 @@
             "text": "ATAR 65."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Science - Food Innovation and Safety",
-      "field_of_study": "Food Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -3137,11 +3185,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies Food Innovation and Safety - Chemistry (recommended but not required)."
           }
         ]
-      }
+      },
+      "course": "Food Science"
     },
     {
       "program_name": "Bachelor of Surveying and Spatial Sciences with Honours (Top-Up)",
-      "field_of_study": "Geomatic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -3172,11 +3221,12 @@
             "text": "To be eligible to enrol for the degree applicants must either have qualified for admission to the degree of Bachelor of Surveying and Spatial Sciences in this University or have qualified in another university or tertiary institution for a degree deemed by the College of Sciences and Engineering to be equivalent to that degree. In either case, the standard of pass must be of sufficient merit to satisfy the College of Sciences and Engineering.."
           }
         ]
-      }
+      },
+      "course": "Geomatic Engineering"
     },
     {
       "program_name": "Bachelor of Science - Geospatial Science",
-      "field_of_study": "Geomatic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -3247,11 +3297,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies."
           }
         ]
-      }
+      },
+      "course": "Geomatic Engineering"
     },
     {
       "program_name": "Bachelor of Surveying and Spatial Sciences",
-      "field_of_study": "Geomatic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -3347,11 +3398,12 @@
             "text": "ATAR 65 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subject: Mathematics Methods (MTM415117) or equivalent."
           }
         ]
-      }
+      },
+      "course": "Geomatic Engineering"
     },
     {
       "program_name": "Bachelor of Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -3418,11 +3470,12 @@
             "text": "ATAR 50."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Bachelor of Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -3489,11 +3542,12 @@
             "text": "ATAR 50."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Bachelor of Health Science with Honours",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -3515,11 +3569,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Health Studies"
     },
     {
       "program_name": "Bachelor of Dementia Care",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -3585,11 +3640,12 @@
             "text": "Successful completion Students must have access to a computer, reliable internet connection, webcam, headset and microphone.."
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Bachelor of Information and Communication Technology (Honours) (Top-Up)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -3620,11 +3676,12 @@
             "text": "The Faculty may accept as a candidate for the BICT(Hons) a person who has qualified for a bachelor degree (3 or 4 year degree) from an accredited tertiary institution and who has a DN average over four advanced level units from their ICT related major (or equivalent).."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information and Communication Technology (Honours) (Top-Up)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -3659,11 +3716,12 @@
             "text": "The Faculty may accept as a candidate for the BICT(Hons) a person who has qualified for a bachelor degree (3 or 4 year degree) from an accredited tertiary institution and who has a DN average over four advanced level units from their ICT related major (or equivalent).."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information and Communication Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -3730,11 +3788,12 @@
             "text": "ATAR 65."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information and Communication Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -3801,11 +3860,12 @@
             "text": "ATAR 65."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Laws",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -3872,11 +3932,12 @@
             "text": "ATAR 80."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Bachelor of Global Logistics and Maritime Management with Honours (Top-Up)",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -3907,11 +3968,12 @@
             "text": "Bachelor of Business or Bachelor of Global Logistics and Maritime Management or equivalent degree with a minimum average of a credit level in third year units.."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Bachelor of Global Logistics and Maritime Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -3982,11 +4044,12 @@
             "text": "ATAR 65 Students intending to undertake the Maritime Technology Management major must have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subjects: Mathematics Methods (MTM415117) or equivalent, and Physical Sciences (PSC315109) or equivalent (equivalency includes CHM415115 Chemistry OR PHY415115 Physics)."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Bachelor of Media and Communication",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -4053,11 +4116,12 @@
             "text": "ATAR 50."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Science - Mathematics and Statistics and Decision Science",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -4128,11 +4192,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies Mathematics - Mathematics Methods Statistics and Decision Science - General Mathematics or Mathematics Methods."
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "Bachelor of Engineering with Honours - Mechanical",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -4203,11 +4268,12 @@
             "text": "ATAR 70 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subject: Mathematics Methods (MTM415117) or equivalent, and Physical Sciences (PSC315109) or equivalent (equivalency includes CHM415115 Chemistry OR PHY415115 Physics)."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Maritime Engineering (Specialisation) (Honours) - AUT",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -4303,11 +4369,12 @@
             "text": "ATAR 70 Admission requirement are set forth in the Cooperative Education Agreement sogmed by the University of Tasmania and the Auckland University of Technology.."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Maritime Engineering (Specialisation) (Honours) - ECU",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -4403,11 +4470,12 @@
             "text": "ATAR 70 Admission requirements are set forth in the Cooperative Education Agreement sogmed by the University of Tasmania and Edith Cowan University.."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Maritime Engineering (Specialisation) (Honours) - Flinders",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -4498,11 +4566,12 @@
             "text": "ATAR 70 Admission requirement are set forth in the Cooperative Education Agreement sogmed by the University of Tasmania and Flinders University.."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Maritime Engineering (Specialisation) (Honours)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -4652,11 +4721,12 @@
             "text": "ATAR 70 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subjects: Mathematics Methods (MTM415117) or equivalent, and Physical Sciences (PSC315109) or equivalent (equivalency includes CHM415115 Chemistry OR PHY415115 Physics)."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Medical Research",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -4727,11 +4797,12 @@
             "text": "ATAR 85 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subjects: CHM415115 Chemistry or equivalent."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Bachelor of Medical Research with Honours (Top-Up)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -4762,11 +4833,12 @@
             "text": "Completion of the Bachelor of Medical Research (M3M), or an equivalent degree from another institution completed to a standard of achievement that is deemed acceptable by the College. International Applicants must submit evidence of having IELTS (Academic) - 6.5 with no individual band less than 6.0 Evidence is not required from applicants who have completed the BMedRes at UTAS within the last 5 years Applicants should note that meeting minimum entrance requirements does not guarantee entry to the Bachelor of Medical Research with Honours.."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Bachelor of Medical Science with Honours (Top-Up)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -4797,11 +4869,12 @@
             "text": "Completion of at least three years of 100% load in M3N, or similar approved course interstate; with credit average, or equivalent.."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Bachelor of Laboratory Medicine",
-      "field_of_study": "Medical Technology",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -4872,11 +4945,12 @@
             "text": "ATAR 75 The following course specific requirements must be met to be eligible to study this degree. To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in the following subjects: CHM415115 Chemistry (or equivalent) or KRA161 Chemistry for Life Sciences or KRA001 Chemistry Foundation Unit and one of MTG315120 General Mathematics or MTM315117 Mathematics Methods – Foundation, or MTM415117 Mathematics Methods, or KMA002 Applied Mathematics Foundation, or KMA003 Mathematics Foundation Unit."
           }
         ]
-      }
+      },
+      "course": "Medical Technology"
     },
     {
       "program_name": "Bachelor of Medical Science and Doctor of Medicine",
-      "field_of_study": "Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jun"
@@ -4947,11 +5021,12 @@
             "text": "ATAR 95 Prerequisites CHM415115 Chemistry (or equivalent). Chemistry must have been completed within the last 5 years and equivalence can be one of the following: successful completion of UTAS Chemistry Foundation Unit (KRA001); OR Successful completion of Unilearn Chemistry (UNL21); OR a passing grade for Level 100 or higher (i.e. first year university unit) at any Australian or New Zealand University. Other chemistry units will be assessed on a case-by-case basis, as approved by the Course Coordinator.."
           }
         ]
-      }
+      },
+      "course": "Medicine"
     },
     {
       "program_name": "Bachelor of Music with Honours (Top-Up)",
-      "field_of_study": "Music",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -4991,11 +5066,12 @@
             "text": "Admission to the Bachelor of Music with Honours requires: Successful completion of a relevant bachelor’s degree with a major in music with a Distinction (70%) average at the University of Tasmania or another approved tertiary institution, or equivalent industry experience, and submission of a project proposal which can be supported by appropriate academic supervision, and an audition and interview."
           }
         ]
-      }
+      },
+      "course": "Music"
     },
     {
       "program_name": "Bachelor of Music",
-      "field_of_study": "Music",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -5086,11 +5162,12 @@
             "text": "ATAR 50.  All students must also successfully complete an audition by submitting a private internet link, USB, CD or DVD of your audition repertoire in lieu of a live audition in Hobart, and interview over the phone/internet. If applying from within Tasmania, you may be able to successfully complete an audition and interview in person on-campus in Hobart."
           }
         ]
-      }
+      },
+      "course": "Music"
     },
     {
       "program_name": "Bachelor of Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -5181,11 +5258,12 @@
             "text": "ATAR 60 This course includes compulsory Professional Experience Placements. You must meet the College of Health and Medicine's Safety in Practice Requirements before census date of the first semester of your course. The safety in practice requirements are completed separately to the course admission application.."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "University of Tasmania, Sydney",
       "intakes": [
         "Jul"
@@ -5276,11 +5354,12 @@
             "text": "ATAR 60 This course includes compulsory Professional Experience Placements. You must meet the College of Health and Medicine's Safety in Practice Requirements before census date of the first semester of your course. The safety in practice requirements are completed separately to the course admission application.."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Nursing with Honours (Top-Up)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -5311,11 +5390,12 @@
             "text": "AQF Bachelor of Nursing with a credit average (GPA 5.0/7.0).."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Nursing with Honours (Top-Up)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -5351,11 +5431,12 @@
             "text": "AQF Bachelor of Nursing with a credit average (GPA 5.0/7.0)."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -5446,11 +5527,12 @@
             "text": "ATAR 60 This course includes compulsory Professional Experience Placements. You must meet the College of Health and Medicine's Safety in Practice Requirements before census date of the first semester of your course. The safety in practice requirements are completed separately to the course admission application.."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Nutrition Science",
-      "field_of_study": "Nutrition",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -5606,11 +5688,12 @@
             "text": "ATAR 65 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subjects: Mathematics General (MTG315115) or equivalent."
           }
         ]
-      }
+      },
+      "course": "Nutrition"
     },
     {
       "program_name": "Bachelor of Pharmacy with Honours",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -5681,11 +5764,12 @@
             "text": "ATAR 70 The following course-specific requirements must be met to be eligible to study this degree. To be eligible for an offer, applicants must have studies or experience equivalent to a satisfactory achievement in the following subjects from the Tasmanian Certificate of Education (TCE) (or equivalent), or from the University of Tasmania: Mathematics Methods (/MTM415117) (TCE), or General Mathematics (MTG315120) (TCE), or Mathematics Specialised (MTS415118) (TCE), or Mathematics Methods Foundation (MTM315117) (TCE), or Applied Mathematics Foundation Unit (KMA002) (UTAS), or Mathematics Foundation Unit (KMA003) (UTAS), or Introduction to University Mathematics (KMA100) (UTAS) AND • Satisfactory achievement in one of the following subjects from either the Tasmania Certificate of Education (TCE) (or equivalent), or from UTAS: o Chemistry (CHM415115) (TCE), or o Introduction to Chemistry (KRA161) (UTAS)."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Bachelor of Pharmacy with Honours",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -5756,11 +5840,12 @@
             "text": "ATAR 70 The following course-specific requirements must be met to be eligible to study this degree. To be eligible for an offer, applicants must have studies or experience equivalent to a satisfactory achievement in the following subjects from the Tasmanian Certificate of Education (TCE) (or equivalent), or from the University of Tasmania: Mathematics Methods (/MTM415117) (TCE), or General Mathematics (MTG315120) (TCE), or Mathematics Specialised (MTS415118) (TCE), or Mathematics Methods Foundation (MTM315117) (TCE), or Applied Mathematics Foundation Unit (KMA002) (UTAS), or Mathematics Foundation Unit (KMA003) (UTAS), or Introduction to University Mathematics (KMA100) (UTAS) AND • Satisfactory achievement in one of the following subjects from either the Tasmania Certificate of Education (TCE) (or equivalent), or from UTAS: o Chemistry (CHM415115) (TCE), or o Introduction to Chemistry (KRA161) (UTAS)."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Bachelor of Pharmacy with Honours",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -5831,11 +5916,12 @@
             "text": "ATAR 70 The following course-specific requirements must be met to be eligible to study this degree. To be eligible for an offer, applicants must have studies or experience equivalent to a satisfactory achievement in the following subjects from the Tasmanian Certificate of Education (TCE) (or equivalent), or from the University of Tasmania: Mathematics Methods (/MTM415117) (TCE), or General Mathematics (MTG315120) (TCE), or Mathematics Specialised (MTS415118) (TCE), or Mathematics Methods Foundation (MTM315117) (TCE), or Applied Mathematics Foundation Unit (KMA002) (UTAS), or Mathematics Foundation Unit (KMA003) (UTAS), or Introduction to University Mathematics (KMA100) (UTAS) AND • Satisfactory achievement in one of the following subjects from either the Tasmania Certificate of Education (TCE) (or equivalent), or from UTAS: o Chemistry (CHM415115) (TCE), or o Introduction to Chemistry (KRA161) (UTAS)."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Bachelor of Science - Physics",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -5906,11 +5992,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies Chemistry - Chemistry Environmental Remediation - Chemistry Molecular Bioscience (formerly Biochemistry) - Chemistry (recommended but not required) Mathematics - Mathematics Methods Statistics and Decision Science - General Mathematics or Mathematics Methods Physics - Physics and Mathematics Methods Food Innovation and Safety - Chemistry (recommended but not required) Marine Biology - Chemistry (recommended but not required) Microbiology - Chemistry (recommended but not required)."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Bachelor of Science - Psychological Science",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -5981,11 +6068,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Science - Psychological Science",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -6056,11 +6144,12 @@
             "text": "ATAR 65 The following course specific requirements must be met to be eligible to study this degree. Major - Prerequisite Senior Secondary Studies Chemistry - Chemistry Environmental Remediation - Chemistry Molecular Bioscience (formerly Biochemistry) - Chemistry (recommended but not required) Mathematics - Mathematics Methods Statistics and Decision Science - General Mathematics or Mathematics Methods Physics - Physics and Mathematics Methods Food Innovation and Safety - Chemistry (recommended but not required) Marine Biology - Chemistry (recommended but not required) Microbiology - Chemistry (recommended but not required)."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Psychological Science",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -6127,11 +6216,12 @@
             "text": "ATAR 65."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Psychological Science",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -6198,11 +6288,12 @@
             "text": "ATAR 65."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Psychological Science with Honours (Top-Up)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -6233,11 +6324,12 @@
             "text": "The entrance requirements for the Psychology Honours Program include a Bachelor's Degree (BA, BSc, BPsychSc, BBehavSc or equivalent) with a three-year sequence in Psychology accredited by the Australian Psychology Accreditation Council, and a good academic record. Applicants are expected to have a substantial background in psychology, including statistical methods..  Applicants from international institutions will need to demonstrate they have completed equivalent units by providing an Australian Psychological Society (APS) assessment of the qualification to confirm equivalence with a 3-year APAC-accredited program:"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Psychological Science with Honours (Top-Up)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -6268,11 +6360,12 @@
             "text": "The entrance requirements for the Psychology Honours Program include a Bachelor's Degree (BA, BSc, BPsychSc, BBehavSc or equivalent) with a three-year sequence in Psychology accredited by the Australian Psychology Accreditation Council, and a good academic record. Applicants are expected to have a substantial background in psychology, including statistical methods..  Applicants from international institutions will need to demonstrate they have completed equivalent units by providing an Australian Psychological Society (APS) assessment of the qualification to confirm equivalence with a 3-year APAC-accredited program:"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Justice Studies with Honours (Top-Up)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -6303,11 +6396,12 @@
             "text": "Must have qualified for admission to the degree of Bachelor of Justice Studies, or another approved Bachelor degree, in this University or another approved tertiary institution with a weighted average of 70% of higher."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Justice Studies with Honours (Top-Up)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -6338,11 +6432,12 @@
             "text": "Must have qualified for admission to the degree of Bachelor of Justice Studies, or another approved Bachelor degree, in this University or another approved tertiary institution with a weighted average of 70% of higher."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Philosophy",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -6364,11 +6459,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Philosophy",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -6390,11 +6486,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Justice Studies",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -6447,11 +6544,12 @@
             "text": "20 Points."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Justice Studies",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -6518,11 +6616,12 @@
             "text": "ATAR 50."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Social Work with Honours",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -6618,11 +6717,12 @@
             "text": "ATAR 65.  This course includes compulsory field placements. In order to participate in field placements, all students must: obtain a Tasmania Police Schedule 1 National Police Record Check and Working with Vulnerable Persons and Children Check; and complete a Safety in Practice Agreement"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Social Work with Honours",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -6718,11 +6818,12 @@
             "text": "ATAR 65.  This course includes compulsory field placements. In order to participate in field placements, all students must: obtain a Tasmania Police Schedule 1 National Police Record Check and Working with Vulnerable Persons and Children Check; and complete a Safety in Practice Agreement"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Social Work with Honours",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -6818,11 +6919,12 @@
             "text": "ATAR 65.  This course includes compulsory field placements. In order to participate in field placements, all students must: obtain a Tasmania Police Schedule 1 National Police Record Check and Working with Vulnerable Persons and Children Check; and complete a Safety in Practice Agreement"
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Exercise and Sport Science",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -6918,11 +7020,12 @@
             "text": "ATAR 65 To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in one of the following Tasmanian Senior Secondary subjects: BIO315116 Biology, CHM415115 Chemistry, MTG315120 General Mathematics, PHY415115 Physics, PSC315118 Physical Sciences, SPT315118 Sport Science."
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     },
     {
       "program_name": "Diploma of Fine Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -6974,11 +7077,12 @@
             "text": "Successful completion To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in one of the following Tasmanian Senior Secondary subject: ART315117 Art Production ART315214 Art Studio Practice ARA315116 Art Theory and Criticism (replaces Art Appreciation ARA315111) CGD315118 Computer Graphics and Design HDS315118 Housing and Design MED315117 Media Production TEG315115 Technical Graphics."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma of Fine Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -7030,11 +7134,12 @@
             "text": "Successful completion To be an eligible for an offer, you must have studies or experience equivalent to a satisfactory achievement in one of the following Tasmanian Senior Secondary subject: ART315117 Art Production ART315214 Art Studio Practice ARA315116 Art Theory and Criticism (replaces Art Appreciation ARA315111) CGD315118 Computer Graphics and Design HDS315118 Housing and Design MED315117 Media Production TEG315115 Technical Graphics."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma of Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -7086,11 +7191,12 @@
             "text": "Successful completion."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma of Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -7142,11 +7248,12 @@
             "text": "Successful completion."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma of Creative Arts and Health",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -7198,11 +7305,12 @@
             "text": "Successful completion."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma of Dementia Care",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -7254,11 +7362,12 @@
             "text": "Open access Students must have access to a computer, reliable internet connection, webcam, headset and microphone.."
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Diploma of Ageing Studies and Services",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -7317,11 +7426,12 @@
             "text": "Successful completion Students must have access to a computer, reliable internet connection, webcam, headset and microphone.."
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Diploma of Global Logistics and Maritime Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -7392,11 +7502,12 @@
             "text": "ATAR 50 Students intending to undertake the Maritime Technology Management major must have studies or experience equivalent to a satisfactory achievement in the following Tasmanian Senior Secondary subjects: Mathematics Methods (MTM415117) or equivalent, and Physical Sciences (PSC315109) or equivalent (equivalency includes CHM415115 Chemistry OR PHY415115 Physics)."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma of Paralegal Practice",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -7439,11 +7550,12 @@
             "text": "Pass STPM."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Diploma of Paralegal Practice",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -7486,11 +7598,12 @@
             "text": "Pass STPM."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Master of Professional Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -7521,11 +7634,12 @@
             "text": "Recognised bachelor's degree in any field Applicants with higher education study To be eligible for an offer, applicants must have: - A completed undergraduate or postgraduate course in any discipline at Bachelor level (AQF level 7) or higher (or equivalent). Students having a prior qualification in accounting will be considered for recognition of prior learning (up to 4 units). Applicants with work experience To be eligible for an offer, applicants must have: - Qualifications, relevant work experience or other special circumstances, as approved by the College Executive Dean or delegated authority. You must provide evidence to support your application based on work experience, in particular a copy of your CV demonstrating your work experience, and letters of reference from line managers or similar to confirm your work experience. In the case of applicants who have worked as a sole trader or consultant, additional evidence to support the level of experience must be provided.."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Master of Professional Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -7556,11 +7670,12 @@
             "text": "Recognised bachelor's degree in any field Applicants with higher education study To be eligible for an offer, applicants must have: - A completed undergraduate or postgraduate course in any discipline at Bachelor level (AQF level 7) or higher (or equivalent). Students having a prior qualification in accounting will be considered for recognition of prior learning (up to 4 units). Applicants with work experience To be eligible for an offer, applicants must have: - Qualifications, relevant work experience or other special circumstances, as approved by the College Executive Dean or delegated authority. You must provide evidence to support your application based on work experience, in particular a copy of your CV demonstrating your work experience, and letters of reference from line managers or similar to confirm your work experience. In the case of applicants who have worked as a sole trader or consultant, additional evidence to support the level of experience must be provided.."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Master of Agriculture and Food Sciences (Specialisation)",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -7600,11 +7715,12 @@
             "text": "- Recognised bachelor's degree in a science based field with a relevant minor with a 75% average (or equivalent) - Degree must not be older than 10 years A Bachelor degree in a science related area, and some background (e.g. minor sequence) in sciences relevant to one of the specialisations, completed to a standard of achievement that is deemed acceptable by the College.."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Master of Agricultural Science (Research)",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -7642,11 +7758,12 @@
             "text": "Recognised bachelor's degree in a science based field with a relevant minor with a 75% average (or equivalent). Degree must not be older than 10 years."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Master of Agricultural Science (Research)",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -7684,11 +7801,12 @@
             "text": "Recognised bachelor's degree in a science based field with a relevant minor with a 75% average (or equivalent). Degree must not be older than 10 years."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Master of Agricultural Science (Research)",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -7726,11 +7844,12 @@
             "text": "Recognised bachelor's degree in a science based field with a relevant minor with a 75% average (or equivalent). Degree must not be older than 10 years."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Master of Applied Science in Aquaculture (Research)",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -7768,11 +7887,12 @@
             "text": "Recognised bachelor's degree in a science based field with a relevant minor with a 75% average (or equivalent). Degree must not be older than 10 years."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Master of Philosophy (Marine Conservation) (Research)",
-      "field_of_study": "Aquatic Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -7805,11 +7925,12 @@
             "text": "Recognised bachelor's degree in marine or science field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Aquatic Science"
     },
     {
       "program_name": "Master of Philosophy (Marine Craft Operation) (Research)",
-      "field_of_study": "Aquatic Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -7838,11 +7959,12 @@
             "text": "Recognised bachelor's degree in marine or science field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Aquatic Science"
     },
     {
       "program_name": "Master of Marine and Antarctic Science",
-      "field_of_study": "Aquatic Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -7873,11 +7995,12 @@
             "text": "Recognised bachelor's degree in science with major in life sciences GPA 5/7 or equivalent. Bachelor of Marine and Antarctic Science or Graduate Diploma in Marine and Antarctic Science from the University of Tasmania, or an equivalent qualification from a recognised tertiary education institution.."
           }
         ]
-      }
+      },
+      "course": "Aquatic Science"
     },
     {
       "program_name": "Master of Architecture",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -7908,11 +8031,12 @@
             "text": "- Recognised bachelor's degree in Architecture with a minimum 60% grade average in core units in final year - Portfolio of work To be eligible for the Master of Architecture you require a Bachelor of Architecture and Built Environments (previously called the Bachelor of Environmental Design, or an equivalent three-year undergraduate degree in Architecture. Eligibility is subject to achieving a minimum credit average (60%) across all core subjects in the final year of the undergraduate degree. Students may also be asked to attend an interview and/or submit a portfolio of their work from their previous studies.."
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "Master of Architecture (Research)",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -7941,11 +8065,12 @@
             "text": "Recognised bachelor's degree in Architecture with a minimum 60% grade average in core units in final year."
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "Master of Science (Biological Sciences) (Research)",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -7978,11 +8103,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Master of Science (Biological Sciences) (Research)",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -8015,11 +8141,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Master of Science (Biological Sciences) (Research)",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -8052,11 +8179,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Master of Biomedical Science (Research)",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -8089,11 +8217,12 @@
             "text": "Recognised bachelor's degree in a science based field."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "Master of Biomedical Science (Research)",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -8126,11 +8255,12 @@
             "text": "Recognised bachelor's degree in a science based field."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "Master of Commerce (Research)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -8159,11 +8289,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Master of Commerce (Research)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -8192,11 +8323,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Master of Science (Chemical Sciences) (Research)",
-      "field_of_study": "Chemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -8225,11 +8357,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Chemistry"
     },
     {
       "program_name": "Master of Science (Chemical Sciences) (Research)",
-      "field_of_study": "Chemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -8262,11 +8395,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Chemistry"
     },
     {
       "program_name": "Master of Professional Engineering - Civil and Structural",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -8301,11 +8435,12 @@
             "text": "Recognised bachelor's degree in an engineering or science based field A Bachelor degree in a science based discipline with sufficient numerical skills to undertake the MProfEng (Specialisation) course; or - A Bachelor degree in Engineering (Non-Washington Accord) or - A Bachelor degree in Engineering majoring in a different specialisation than that to be undertaken under the MProfEng (Specialisaton). - Candidates who are able to demonstrate a minimum of 12 weeks practical experience in an engineering environment outside a university where they have been exposed to professional engineering practice will be granted an exemption for ENG700. - Advanced standing for the first year of the MProfEng (Specialisation) may be granted for suitably qualified candidates. Granting of additional exemptions in years 2 and 3 may be considered where applicable. - Students who have completed a Bachelor of Engineering from an Institution accredited under the Washington Accord cannot enroll in the MProfEng (Specialisation) for which they already hold the specialisation.."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Master of Professional Engineering - Civil and Structural",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -8340,11 +8475,12 @@
             "text": "Recognised bachelor's degree in an engineering or science based field A Bachelor degree in a science based discipline with sufficient numerical skills to undertake the MProfEng (Specialisation) course; or - A Bachelor degree in Engineering (Non-Washington Accord) or - A Bachelor degree in Engineering majoring in a different specialisation than that to be undertaken under the MProfEng (Specialisaton). - Candidates who are able to demonstrate a minimum of 12 weeks practical experience in an engineering environment outside a university where they have been exposed to professional engineering practice will be granted an exemption for ENG700. - Advanced standing for the first year of the MProfEng (Specialisation) may be granted for suitably qualified candidates. Granting of additional exemptions in years 2 and 3 may be considered where applicable. - Students who have completed a Bachelor of Engineering from an Institution accredited under the Washington Accord cannot enroll in the MProfEng (Specialisation) for which they already hold the specialisation.."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Master of Speech Pathology",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -8399,11 +8535,12 @@
             "text": "Applicants must have completed a Bachelor or Master degree (other than Speech Pathology) from an Australian university or equivalent, and have completed, in the last 5 years, the equivalent of: • This course requires a minimum GPA of 5 for prior tertiary education and equivalent ranks as part of the admission process. • one unit (12.5 credit points or equivalent) of human anatomy, including detailed head, neck and thorax anatomy (or the equivalent UTAS Short Course) • one unit (12.5 credit points or equivalent) of linguistics (or the equivalent UTAS Short Course) • one unit (12.5 credit points or equivalent) of study in research methods and/or evidence-based practice, (or the equivalent UTAS Short Course). Students will be invited to provide a short video (3-5 minutes) stating their motivation to enter the speech pathology profession at the second stage of the application process.."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Master of Strategic Communication",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -8434,11 +8571,12 @@
             "text": "Recognised bachelor's degree in any field or work experience of at least three years in journalism, public relations, event management, and/or the related professions."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Master of Science (Computing) (Research)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -8467,11 +8605,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Master of Science (Computing) (Research)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -8504,11 +8643,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Master of Science (Computer Engineering) (Research)",
-      "field_of_study": "Computer Systems Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -8537,11 +8677,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Computer Systems Engineering"
     },
     {
       "program_name": "Master of Science (Computer Engineering) (Research)",
-      "field_of_study": "Computer Systems Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -8574,11 +8715,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Computer Systems Engineering"
     },
     {
       "program_name": "Master of Fine Arts (Research)",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -8607,11 +8749,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Master of Fine Arts (Research)",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -8640,11 +8783,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Master of Arts (Research)",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -8673,11 +8817,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Master of Arts (Research)",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -8706,11 +8851,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Master of Arts (Research)",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -8739,11 +8885,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Master of Economics (Research)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -8772,11 +8919,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Master of Economics (Research)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -8805,11 +8953,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Master of Economic Geology",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -8840,7 +8989,8 @@
             "text": "- Recognised bachelor's degree in Geology/Geoscience - Degree in Science.  Statement of interest\nCV\nResearch proposal (on campus students only)"
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Master of Education (Research)",
@@ -8873,7 +9023,8 @@
             "text": "Recognised Bachelor of Education or Master of Teaching."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Education (Research)",
@@ -8906,7 +9057,8 @@
             "text": "Recognised Bachelor of Education or Master of Teaching."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Education (Research)",
@@ -8939,7 +9091,8 @@
             "text": "Recognised Bachelor of Education or Master of Teaching."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Education",
@@ -8974,11 +9127,12 @@
             "text": "- Recognised Bachelor of Education or Master of Teaching - Bachelor's degree AND Diploma in Education.  Cert IV AND 3 years of teaching experience"
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Professional Engineering - Renewable Energy and Electrical Power",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9013,11 +9167,12 @@
             "text": "Recognised bachelor's degree in an engineering or science based field A Bachelor degree in a science based discipline with sufficient numerical skills to undertake the MProfEng (Specialisation) course; or - A Bachelor degree in Engineering (Non-Washington Accord) or - A Bachelor degree in Engineering majoring in a different specialisation than that to be undertaken under the MProfEng (Specialisaton). - Candidates who are able to demonstrate a minimum of 12 weeks practical experience in an engineering environment outside a university where they have been exposed to professional engineering practice will be granted an exemption for ENG700. - Advanced standing for the first year of the MProfEng (Specialisation) may be granted for suitably qualified candidates. Granting of additional exemptions in years 2 and 3 may be considered where applicable. - Students who have completed a Bachelor of Engineering from an Institution accredited under the Washington Accord cannot enroll in the MProfEng (Specialisation) for which they already hold the specialisation.."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Master of Professional Engineering - Renewable Energy and Electrical Power",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -9052,11 +9207,12 @@
             "text": "Recognised bachelor's degree in an engineering or science based field A Bachelor degree in a science based discipline with sufficient numerical skills to undertake the MProfEng (Specialisation) course; or - A Bachelor degree in Engineering (Non-Washington Accord) or - A Bachelor degree in Engineering majoring in a different specialisation than that to be undertaken under the MProfEng (Specialisaton). - Candidates who are able to demonstrate a minimum of 12 weeks practical experience in an engineering environment outside a university where they have been exposed to professional engineering practice will be granted an exemption for ENG700. - Advanced standing for the first year of the MProfEng (Specialisation) may be granted for suitably qualified candidates. Granting of additional exemptions in years 2 and 3 may be considered where applicable. - Students who have completed a Bachelor of Engineering from an Institution accredited under the Washington Accord cannot enroll in the MProfEng (Specialisation) for which they already hold the specialisation.."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Master of Professional Engineering - Electronics and Communications",
-      "field_of_study": "Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9091,11 +9247,12 @@
             "text": "Recognised bachelor's degree in an engineering or science based field A Bachelor degree in a science based discipline with sufficient numerical skills to undertake the MProfEng (Specialisation) course; or - A Bachelor degree in Engineering (Non-Washington Accord) or - A Bachelor degree in Engineering majoring in a different specialisation than that to be undertaken under the MProfEng (Specialisaton). - Candidates who are able to demonstrate a minimum of 12 weeks practical experience in an engineering environment outside a university where they have been exposed to professional engineering practice will be granted an exemption for ENG700. - Advanced standing for the first year of the MProfEng (Specialisation) may be granted for suitably qualified candidates. Granting of additional exemptions in years 2 and 3 may be considered where applicable. - Students who have completed a Bachelor of Engineering from an Institution accredited under the Washington Accord cannot enroll in the MProfEng (Specialisation) for which they already hold the specialisation.."
           }
         ]
-      }
+      },
+      "course": "Electronic Engineering"
     },
     {
       "program_name": "Master of Professional Engineering - Electronics and Communications",
-      "field_of_study": "Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -9130,11 +9287,12 @@
             "text": "Recognised bachelor's degree in an engineering or science based field A Bachelor degree in a science based discipline with sufficient numerical skills to undertake the MProfEng (Specialisation) course; or - A Bachelor degree in Engineering (Non-Washington Accord) or - A Bachelor degree in Engineering majoring in a different specialisation than that to be undertaken under the MProfEng (Specialisaton). - Candidates who are able to demonstrate a minimum of 12 weeks practical experience in an engineering environment outside a university where they have been exposed to professional engineering practice will be granted an exemption for ENG700. - Advanced standing for the first year of the MProfEng (Specialisation) may be granted for suitably qualified candidates. Granting of additional exemptions in years 2 and 3 may be considered where applicable. - Students who have completed a Bachelor of Engineering from an Institution accredited under the Washington Accord cannot enroll in the MProfEng (Specialisation) for which they already hold the specialisation.."
           }
         ]
-      }
+      },
+      "course": "Electronic Engineering"
     },
     {
       "program_name": "Master of Science (Earth Sciences) (Research)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9163,11 +9321,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Master of Science (Earth Sciences) (Research)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -9200,11 +9359,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Master of Environmental Studies (Research)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9233,11 +9393,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Master of Environmental Studies (Research)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -9266,11 +9427,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Master of Environmental Studies (Research)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -9299,11 +9461,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Master of Protected Area Conservation",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9334,11 +9497,12 @@
             "text": "Recognised bachelor's degree in any field Candidates for the Master of Protected Area Conservation shall be qualified for entry if they hold a bachelor degree in any discipline at the University of Tasmania or hold other tertiary qualification(s) deemed by the College to be equivalent for this purpose.."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Master of Finance",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9369,11 +9533,12 @@
             "text": "- Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Master of Engineering Science (Research)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9406,11 +9571,12 @@
             "text": "Recognised bachelor's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Master of Engineering Science (Research)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -9443,11 +9609,12 @@
             "text": "Recognised bachelor's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Master of Science (Geomatic Engineering) (Research)",
-      "field_of_study": "Geomatic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9480,11 +9647,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Geomatic Engineering"
     },
     {
       "program_name": "Master of Science (Geomatic Engineering) (Research)",
-      "field_of_study": "Geomatic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -9517,11 +9685,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Geomatic Engineering"
     },
     {
       "program_name": "Master of Environmental Geospatial Science",
-      "field_of_study": "Geomatic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9552,11 +9721,12 @@
             "text": "- Recognised bachelor's degree in any field - 6 years of work experience in relevant field OR - Advanced Diploma or Associate Degree AND - 3 years of work experience in relevant field Candidates for the Master of Environmental Geospatial Sciences shall be qualified for entry if they hold a bachelor degree in any discipline at the University of Tasmania or hold other tertiary qualification(s) deemed by the College to be equivalent for this purpose.."
           }
         ]
-      }
+      },
+      "course": "Geomatic Engineering"
     },
     {
       "program_name": "Master of Public Health",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9587,11 +9757,12 @@
             "text": "- Recognised bachelor's degree in a health field - Work experience in relevant field AND - Record of high achievement AND - Assessment of capacity to undertake postgraduate study."
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "Master of Dementia",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9626,11 +9797,12 @@
             "text": "- Recognised bachelor's degree in a health field, social work or psychology - Degree in non- Social Work or Psychology area.  1 year of work experience in dementia care, aged care, neurobiology, health systems and services or public health OR\nCompletion of 4 units in the Diploma of Dementia Care at the University of Tasmania"
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Master of Healthcare Redesign",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9661,11 +9833,12 @@
             "text": "- Recognised bachelor's degree in a health or human welfare studies and services field - Recognised bachelor's degree in any field AND - 5 years of relevant professional experience."
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Master of Tourism, Environmental and Cultural Heritage",
-      "field_of_study": "Hospitality and Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9696,11 +9869,12 @@
             "text": "- Recognised bachelor's degree in any field - 3 years of work experience in a relevant field The College of Arts, Law and Education may accept as a candidate for the Master of Tourism, Environmental and Cultural Heritage a person who: - has completed an undergraduate degree in any field; - has completed the Graduate Diploma in Tourism, Environmental and Cultural Heritage; - has completed the Graduate Certificate in Tourism, Environmental and Cultural Heritage; or - has work experience at a management level of at least three years in a relevant field.."
           }
         ]
-      }
+      },
+      "course": "Hospitality and Tourism Management"
     },
     {
       "program_name": "Master of Information Technology and Systems",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9731,11 +9905,12 @@
             "text": "- Recognised bachelor's degree in any field - Bachelor degree in an ICT-related area, or a Bachelor degree in any discipline and a Graduate Certificate/Diploma in an ICT-related area covering at least the fundamental knowledge of software design and programming, computer networks, web system development, and database technology. Students who do not hold a Bachelor or Graduate Certificate/Diploma in an ICT-related area will be required to complete a 2-year, 16 unit masters.."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of Information Technology and Systems",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -9766,11 +9941,12 @@
             "text": "- Recognised bachelor's degree in any field - Bachelor degree in an ICT-related area, or a Bachelor degree in any discipline and a Graduate Certificate/Diploma in an ICT-related area covering at least the fundamental knowledge of software design and programming, computer networks, web system development, and database technology. Students who do not hold a Bachelor or Graduate Certificate/Diploma in an ICT-related area will be required to complete a 2-year, 16 unit masters.."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of Design (Research)",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9799,11 +9975,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Master of Design (Research)",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -9832,11 +10009,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Master of Laws (Research)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -9865,11 +10043,12 @@
             "text": "Recognised bachelor's degree in Law (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Master of Laws (Research)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -9898,11 +10077,12 @@
             "text": "Recognised bachelor's degree in Law (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Master of Philosophy (Maritime and Logistics Management) (Research)",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -9931,11 +10111,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Master of Global Logistics and Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -9966,11 +10147,12 @@
             "text": "- Recognised bachelor's degree in any field - Advanced Diploma or Associate degree AND 3 years of management experience."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Master of Marketing Management",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10001,11 +10183,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Master of Science (Mathematical Sciences) (Research)",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10038,11 +10221,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "Master of Science (Mathematical Sciences) (Research)",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10075,11 +10259,12 @@
             "text": "Recognised bachelor's degree in science based field."
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "Master of Business Administration (International)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10110,11 +10295,12 @@
             "text": "Completed undergraduate degree of an Australian higher education institution or the equivalent standard in any other institution."
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration in Maritime Management",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10145,11 +10331,12 @@
             "text": "- Recognised bachelor's degree in any field AND - Specialisation(s): Maritime Logistics, Shipping Operations - 2 years of work experience - Specialisation(s): Maritime Technology - Degree must be in Engineering - Specialisation(s): Maritime Logistics, Shipping Operations - Accepted professional qualification AND 2 years work experience - Specialisation(s): Maritime Technology Accepted professional qualification."
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Professional Engineering - Mechanical",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10184,11 +10371,12 @@
             "text": "Recognised bachelor's degree in an engineering or science based field A Bachelor degree in a science based discipline with sufficient numerical skills to undertake the MProfEng (Specialisation) course; or - A Bachelor degree in Engineering (Non-Washington Accord) or - A Bachelor degree in Engineering majoring in a different specialisation than that to be undertaken under the MProfEng (Specialisaton). - Candidates who are able to demonstrate a minimum of 12 weeks practical experience in an engineering environment outside a university where they have been exposed to professional engineering practice will be granted an exemption for ENG700. - Advanced standing for the first year of the MProfEng (Specialisation) may be granted for suitably qualified candidates. Granting of additional exemptions in years 2 and 3 may be considered where applicable. - Students who have completed a Bachelor of Engineering from an Institution accredited under the Washington Accord cannot enroll in the MProfEng (Specialisation) for which they already hold the specialisation.."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Master of Professional Engineering - Mechanical",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10223,11 +10411,12 @@
             "text": "Recognised bachelor's degree in an engineering or science based field A Bachelor degree in a science based discipline with sufficient numerical skills to undertake the MProfEng (Specialisation) course; or - A Bachelor degree in Engineering (Non-Washington Accord) or - A Bachelor degree in Engineering majoring in a different specialisation than that to be undertaken under the MProfEng (Specialisaton). - Candidates who are able to demonstrate a minimum of 12 weeks practical experience in an engineering environment outside a university where they have been exposed to professional engineering practice will be granted an exemption for ENG700. - Advanced standing for the first year of the MProfEng (Specialisation) may be granted for suitably qualified candidates. Granting of additional exemptions in years 2 and 3 may be considered where applicable. - Students who have completed a Bachelor of Engineering from an Institution accredited under the Washington Accord cannot enroll in the MProfEng (Specialisation) for which they already hold the specialisation.."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Master of Philosophy (Maritime Engineering and Technology) (Research)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10260,11 +10449,12 @@
             "text": "Recognised bachelor's degree in marine or science field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Master of Philosophy (Maritime Engineering) (Research)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10293,11 +10483,12 @@
             "text": "Recognised 4 year Bachelor of Engineering."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Master of Philosophy (Maritime Engineering) (Research)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10326,11 +10517,12 @@
             "text": "Recognised 4 year Bachelor of Engineering."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Master of Maritime Engineering (Advanced)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10361,11 +10553,12 @@
             "text": "Recognised 4 year Bachelor of Engineering."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Master of Maritime Engineering (Professional)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10396,11 +10589,12 @@
             "text": "Recognised 4 year Bachelor of Engineering."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Master of Medical Science (Research)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10433,11 +10627,12 @@
             "text": "Recognised bachelor's degree in science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master of Medical Science (Research)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10470,11 +10665,12 @@
             "text": "Recognised bachelor's degree in science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master of Medical Science (Research)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -10507,11 +10703,12 @@
             "text": "Recognised bachelor's degree in science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master of Medical Science (Health) (Research)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10540,11 +10737,12 @@
             "text": "Recognised bachelor's degree in science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master of Medical Science (Health) (Research)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10577,11 +10775,12 @@
             "text": "Recognised bachelor's degree in science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master of Laboratory Medicine",
-      "field_of_study": "Medical Technology",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10630,11 +10829,12 @@
             "text": "- Recognised bachelor's degree in Biochemistry, Medical Science, Health Science or a related field (anatomy, physiology, biochemistry, microbiology, immunology and molecular biology) with a credit average."
           }
         ]
-      }
+      },
+      "course": "Medical Technology"
     },
     {
       "program_name": "Master of Music (Research)",
-      "field_of_study": "Music",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10667,11 +10867,12 @@
             "text": "Recognised bachelor's degree in music field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Music"
     },
     {
       "program_name": "Master of Nursing (Research)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10700,11 +10901,12 @@
             "text": "Recognised bachelor's degree nursing (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Master of Nursing (Research)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10733,11 +10935,12 @@
             "text": "Recognised bachelor's degree nursing (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Master of Nursing (Research)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -10766,11 +10969,12 @@
             "text": "Recognised bachelor's degree nursing or science field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Master of Pharmaceutical Science",
-      "field_of_study": "Pharmaceutical Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10801,11 +11005,12 @@
             "text": "- Recognised bachelor's degree in science with a credit average Students who do not meet the credit average requirement can be considered based on: - Academic record AND - Work experience in relevant field - Applicants must have a minimum of a health-based."
           }
         ]
-      }
+      },
+      "course": "Pharmaceutical Science"
     },
     {
       "program_name": "Master of Pharmacy (Research)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10838,11 +11043,12 @@
             "text": "Recognised bachelor's degree pharmacy or science field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Master of Pharmacy (Research)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -10871,11 +11077,12 @@
             "text": "Recognised bachelor's degree pharmacy or science field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Master of Pharmacy (Research)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -10908,11 +11115,12 @@
             "text": "Recognised bachelor's degree pharmacy or science field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Master of Clinical Pharmacy",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10943,11 +11151,12 @@
             "text": "Recognised bachelor's degree in Pharmacy.  Evidence of AHPRA registration (General Registration Type for the profession of Pharmacist) or equivalent with a national pharmacy board\nCV/resume detailing relevant post-registration work experience"
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Master of Science (Natural and Physical Sciences) (Research)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -10976,11 +11185,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Master of Science (Physics and Astronomy) (Research)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11009,11 +11219,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Master of Science (Physics and Astronomy) (Research)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11046,11 +11257,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Master of Science (Natural and Physical Sciences) (Research)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11083,11 +11295,12 @@
             "text": "Recognised bachelor's degree in science based field."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Master of Science (Natural and Physical Sciences) (Research)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -11120,11 +11333,12 @@
             "text": "Recognised bachelor's degree in science based field."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Master of Professional Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11155,11 +11369,12 @@
             "text": "Recognised four year APAC-Accredited sequence in psychology (AQF Level 8) within the last 10 years, together with eligibility for registration with the Psychology Board of Australia as a provisional psychologist and have achieved a GPA equivalent to a Distinction average in their Honours year or fourth year of undergraduate study To be eligible for entry to the course applicants must have attained either a 2B Honours degree or a Distinction minimum average across their psychology subjects in years 3 and 4 of their APAC accredited undergraduate training.."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Master of Professional Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11195,11 +11410,12 @@
             "text": "Recognised four year APAC-Accredited sequence in psychology (AQF Level 8) within the last 10 years, together with eligibility for registration with the Psychology Board of Australia as a provisional psychologist and have achieved a GPA equivalent to a Distinction average in their Honours year or fourth year of undergraduate study To be eligible for entry to the course applicants must have attained either a 2B Honours degree or a Distinction minimum average across their psychology subjects in years 3 and 4 of their APAC accredited undergraduate training.."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Master of Psychology (Clinical)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11230,11 +11446,12 @@
             "text": "- Recognised four year Australian Psychology Accreditation Council (APAC) accredited sequence in psychology within the last 10 years, and who have attained a minimum entrance requirement of an Upper Second Class Honours (2A) psychology degree or equivalent, and who are eligible for registration with the Psychology Board of Australia as a provisional psychologist - 6 years of work experience in relevant field OR - Advanced Diploma or Associate Degree AND - 3 years of work experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Master of Psychology (Clinical)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11265,11 +11482,12 @@
             "text": "- Recognised four year Australian Psychology Accreditation Council (APAC) accredited sequence in psychology within the last 10 years, and who have attained a minimum entrance requirement of an Upper Second Class Honours (2A) psychology degree or equivalent, and who are eligible for registration with the Psychology Board of Australia as a provisional psychologist - 6 years of work experience in relevant field OR - Advanced Diploma or Associate Degree AND - 3 years of work experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Master of Science (Social Sciences) (Research)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11302,11 +11520,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Master of Science (Social Sciences) (Research)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11335,11 +11554,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Master of Social Work (Research)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11368,11 +11588,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Master of Social Work (Research)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11401,11 +11622,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Master of Social Work (Research)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -11434,11 +11656,12 @@
             "text": "Recognised bachelor's degree in any field."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Master of Social Work (Qualifying)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11480,11 +11703,12 @@
             "text": "A bachelor's degree other than in Social Work from the University of Tasmania or approved tertiary institution with: - a major or equivalent in a related field such as social sciences, behavioural sciences, psychology, nursing or education. - a minimum of 8 units (100 credit points) or equivalent in the studies of society and the studies of behavioural or psychological sciences. Of these units, at least one must be in the social sciences and at least one unit in behavioural and psychological sciences. - these 8 units (100 credit points) must have been completed within 10 years of admission to the Master of Social Work (Qualifying)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Master of Social Work (Qualifying)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11526,11 +11750,12 @@
             "text": "A bachelor's degree other than in Social Work from the University of Tasmania or approved tertiary institution with: - a major or equivalent in a related field such as social sciences, behavioural sciences, psychology, nursing or education. - a minimum of 8 units (100 credit points) or equivalent in the studies of society and the studies of behavioural or psychological sciences. Of these units, at least one must be in the social sciences and at least one unit in behavioural and psychological sciences. - these 8 units (100 credit points) must have been completed within 10 years of admission to the Master of Social Work (Qualifying)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Master of Teaching",
-      "field_of_study": "Teaching",
+      "field_of_study": "Education",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11561,11 +11786,12 @@
             "text": "Please consult the counsellor for the minimum discipline for teaching area."
           }
         ]
-      }
+      },
+      "course": "Teaching"
     },
     {
       "program_name": "Master of Planning",
-      "field_of_study": "Urban Planning",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11596,11 +11822,12 @@
             "text": "Recognised bachelor's degree in any field Candidates for the Master of Planning shall be qualified for entry if they have qualified for: Admission to a bachelor degree in any discipline at the University of Tasmania or hold other tertiary qualification(s) deemed by the College to be equivalent for this purpose.."
           }
         ]
-      }
+      },
+      "course": "Urban Planning"
     },
     {
       "program_name": "Doctor of Philosophy (Agriculture) (Research)",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11633,11 +11860,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Doctor of Philosophy (Agriculture) (Research)",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11670,11 +11898,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Doctor of Philosophy (Agriculture) (Research)",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -11707,11 +11936,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Doctor of Philosophy (Quantitative Antarctic Science)",
-      "field_of_study": "Aquatic Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11744,11 +11974,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Aquatic Science"
     },
     {
       "program_name": "Doctor of Philosophy (Quantitative Antarctic Science)",
-      "field_of_study": "Aquatic Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11781,11 +12012,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Aquatic Science"
     },
     {
       "program_name": "Doctor of Philosophy (Quantitative Marine Science)",
-      "field_of_study": "Aquatic Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11818,11 +12050,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Aquatic Science"
     },
     {
       "program_name": "Doctor of Philosophy (Quantitative Marine Science)",
-      "field_of_study": "Aquatic Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11855,11 +12088,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Aquatic Science"
     },
     {
       "program_name": "Doctor of Philosophy (Architecture and Urban Environment) (Research)",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11888,11 +12122,12 @@
             "text": "Recognised bachelor's degree in Architecture or equivalent."
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "Doctor of Philosophy (Architecture and Urban Environment) (Research)",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11921,11 +12156,12 @@
             "text": "Recognised bachelor's degree in Architecture or equivalent."
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "Doctor of Philosophy (Biological Sciences)",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -11958,11 +12194,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Doctor of Philosophy (Biological Sciences)",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -11995,11 +12232,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Doctor of Philosophy (Biological Sciences)",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -12032,11 +12270,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Doctor of Philosophy (Biomedical Engineering)",
-      "field_of_study": "Biomedical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -12065,11 +12304,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Biomedical Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Biomedical Engineering)",
-      "field_of_study": "Biomedical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -12098,11 +12338,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Biomedical Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Management and Commerce)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -12131,11 +12372,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Doctor of Philosophy (Management and Commerce)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -12164,11 +12406,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Doctor of Philosophy (Management and Commerce)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -12197,11 +12440,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Doctor of Philosophy (Management and Commerce)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "University of Tasmania, Sydney",
       "intakes": [
         "Jul"
@@ -12230,11 +12474,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Doctor of Philosophy (Chemical Sciences)",
-      "field_of_study": "Chemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -12267,11 +12512,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Chemistry"
     },
     {
       "program_name": "Doctor of Philosophy (Chemical Sciences)",
-      "field_of_study": "Chemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -12304,11 +12550,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Chemistry"
     },
     {
       "program_name": "Doctor of Philosophy (Chemical Sciences)",
-      "field_of_study": "Chemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -12341,11 +12588,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Chemistry"
     },
     {
       "program_name": "Doctor of Philosophy (Computer Engineering)",
-      "field_of_study": "Computer Systems Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -12378,11 +12626,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Computer Systems Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Computer Engineering)",
-      "field_of_study": "Computer Systems Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -12415,11 +12664,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Computer Systems Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Computer Engineering)",
-      "field_of_study": "Computer Systems Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -12452,11 +12702,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Computer Systems Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Creative Arts)",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -12485,11 +12736,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Doctor of Philosophy (Creative Arts)",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -12518,11 +12770,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Doctor of Philosophy (Economics)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -12551,11 +12804,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Doctor of Philosophy (Economics)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -12584,7 +12838,8 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Doctor of Education",
@@ -12617,7 +12872,8 @@
             "text": "Recognised master's degree in education (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Education",
@@ -12650,7 +12906,8 @@
             "text": "Recognised master's degree in education (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Education",
@@ -12683,7 +12940,8 @@
             "text": "Recognised master's degree in education (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Philosophy (Education)",
@@ -12716,7 +12974,8 @@
             "text": "Recognised master's degree in education (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Philosophy (Education)",
@@ -12749,7 +13008,8 @@
             "text": "Recognised master's degree in education (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Philosophy (Education)",
@@ -12782,11 +13042,12 @@
             "text": "Recognised master's degree in education (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Philosophy (Electrical Engineering)",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -12819,11 +13080,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Electrical Engineering)",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -12856,11 +13118,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Electronic Engineering)",
-      "field_of_study": "Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -12889,11 +13152,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Electronic Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Earth Sciences)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -12926,11 +13190,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Earth Sciences)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -12963,11 +13228,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Earth Sciences)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -12996,11 +13262,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Environmental Engineering)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13033,11 +13300,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Environmental Engineering)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13070,11 +13338,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Environmental Studies)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13107,11 +13376,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Environmental Studies)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13144,11 +13414,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Environmental Studies)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -13181,11 +13452,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Building Services Engineering)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13218,11 +13490,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Doctor of Philosophy (Building Services Engineering)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13255,11 +13528,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Doctor of Science",
-      "field_of_study": "General Sciences (Postgraduate)",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13292,11 +13566,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "General Sciences (Postgraduate)"
     },
     {
       "program_name": "Doctor of Philosophy (Geomatic Engineering)",
-      "field_of_study": "Geomatic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13329,11 +13604,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Geomatic Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Geomatic Engineering)",
-      "field_of_study": "Geomatic Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13366,11 +13642,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Geomatic Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Public Health)",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13403,11 +13680,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "Doctor of Philosophy (Public Health)",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13440,11 +13718,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "Doctor of Philosophy (Public Health)",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -13477,11 +13756,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "Doctor of Philosophy (Public Health)",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "University of Tasmania, Sydney",
       "intakes": [
         "Jul"
@@ -13514,11 +13794,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "Doctor of Philosophy (Dementia Studies)",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13547,11 +13828,12 @@
             "text": "Recognised bachelor's degree in a health field, social work or psychology."
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Doctor of Philosophy (Dementia Studies)",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13580,11 +13862,12 @@
             "text": "Recognised bachelor's degree in a health field, social work or psychology."
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Doctor of Philosophy (Human Movement)",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13613,11 +13896,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Doctor of Philosophy (Human Movement)",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13646,11 +13930,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Doctor of Philosophy (Human Movement)",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -13679,11 +13964,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Doctor of Philosophy (Information Technology)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13712,11 +13998,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Doctor of Philosophy (Information Technology)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13745,11 +14032,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Doctor of Philosophy (Law)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13778,11 +14066,12 @@
             "text": "Recognised master's degree in Law (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Doctor of Philosophy (Law)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13811,11 +14100,12 @@
             "text": "Recognised master's degree in Law (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Doctor of Philosophy (Mathematical Sciences)",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13848,11 +14138,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "Doctor of Philosophy (Mathematical Sciences)",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13885,11 +14176,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "Doctor of Philosophy (Structural Engineering)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -13922,11 +14214,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Structural Engineering)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13955,11 +14248,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Maritime Engineering and Technology)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -13988,11 +14282,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Maritime Engineering)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -14025,11 +14320,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Maritime Engineering)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -14062,11 +14358,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Mechanical Engineering)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -14099,11 +14396,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Mechanical Engineering)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -14136,11 +14434,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Doctor of Philosophy (Medical Science)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -14169,11 +14468,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Medical Science)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -14202,11 +14502,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Medical Science)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -14239,11 +14540,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Medical Studies)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -14276,11 +14578,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Medical Studies)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -14309,11 +14612,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Medical Studies)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -14346,11 +14650,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Marine Craft Operation)",
-      "field_of_study": "Nautical Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -14383,11 +14688,12 @@
             "text": "Recognised master's degree in engineering or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Nautical Science"
     },
     {
       "program_name": "Doctor of Philosophy (Nursing)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -14420,11 +14726,12 @@
             "text": "Recognised master's degree in nursing or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Doctor of Philosophy (Nursing)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -14453,11 +14760,12 @@
             "text": "Recognised master's degree in nursing or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Doctor of Philosophy (Nursing)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -14490,11 +14798,12 @@
             "text": "Recognised master's degree in nursing or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Doctor of Philosophy (Pharmacy)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -14523,11 +14832,12 @@
             "text": "Recognised master's degree in pharmacy or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Doctor of Philosophy (Natural and Physical Sciences)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -14560,11 +14870,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Doctor of Philosophy (Natural and Physical Sciences)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -14593,11 +14904,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Doctor of Philosophy (Natural and Physical Sciences)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -14626,11 +14938,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Doctor of Philosophy (Physics and Astronomy)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -14663,11 +14976,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Doctor of Philosophy (Physics and Astronomy)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -14700,11 +15014,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Doctor of Philosophy (Physics and Astronomy)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -14733,11 +15048,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Doctor of Philosophy (Psychology)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -14770,11 +15086,12 @@
             "text": "Recognised master's degree in psycology or science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Doctor of Philosophy (Psychology)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -14803,11 +15120,12 @@
             "text": "Recognised master's degree in a science based field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Doctor of Philosophy (Society and Culture)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Hobart",
       "intakes": [
         "Jul"
@@ -14836,11 +15154,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Society and Culture)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Launceston",
       "intakes": [
         "Jul"
@@ -14869,11 +15188,12 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Society and Culture)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Tasmania, Cradle Coast",
       "intakes": [
         "Jul"
@@ -14902,7 +15222,8 @@
             "text": "Recognised master's degree in any field (or equivalent)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     }
   ]
 }

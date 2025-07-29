@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 2008,
   "malaysia_rank": 18,
+  "institution_images": [
+    "https://selangor.travel/wp-content/uploads/2019/09/Universiti_Tenaga_Nasional_Information_Resource_Centre_Tourism_Selangor.jpg"
+  ],
   "programs": [
     {
       "program_name": "JAKIM-UNITEN Tahfiz Al-Quran Certification in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Sep"
@@ -63,11 +66,12 @@
             "text": "Grade B in all subjects inclusive of Bahasa Arab..  Students need to pass the interview."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "JAKIM-UNITEN Tahfiz Al-Quran Certification in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Sep"
@@ -118,11 +122,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "JAKIM-UNITEN Tahfiz Al-Quran Certification in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Sep"
@@ -178,11 +183,12 @@
             "text": "Grade B in all subjects inclusive of Bahasa Arab..  Students need to pass the interview."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "JAKIM-UNITEN Tahfiz Al-Quran Certification in Economics and Management",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Sep"
@@ -233,11 +239,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "JAKIM-UNITEN Tahfiz Al-Quran Certification in Engineering",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Sep"
@@ -305,11 +312,12 @@
             "text": "Grade B in all subjects inclusive of Bahasa Arab..  Students need to pass the interview."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "JAKIM-UNITEN Tahfiz Al-Quran Certification in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Sep"
@@ -360,11 +368,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor Of Accounting (Hons)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -570,11 +579,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor Of Accounting (Hons)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -729,11 +739,12 @@
             "text": "60% including Math or Economy."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor Of Business Administration (Hons) In Entrepreneurship & Venture Management",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -941,11 +952,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons) in Human Resource Management",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -1146,11 +1158,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor Of Business Administration (Hons) In Marketing",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -1366,11 +1379,12 @@
             "text": "70%, or SACE and WACE with Band 2 in 2 subjects..  Credit in Mathematics and pass English at SPM level"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Civil Engineering (Hons)",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -1542,11 +1556,12 @@
             "text": "55% in Mathematics and any physical science subject.."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Bachelor of Computer Science (Cyber Security) (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -1774,11 +1789,12 @@
             "text": "Pass.  Grade C in Additional Mathematics at SPM level."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Computer Science (Software Engineering) (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -1916,11 +1932,12 @@
             "text": "Pass.  Grade C in Additional Mathematics at SPM level."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor Of Computer Science (Systems And Networking) (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -2148,11 +2165,12 @@
             "text": "Pass.  Grade C in Additional Mathematics at SPM level."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Economics (Energy) (Hons)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -2294,11 +2312,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Bachelor of Business Economics (Hons)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -2440,11 +2459,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Bachelor of Electrical and Electronics Engineering (Hons)",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -2616,11 +2636,12 @@
             "text": "55% in Mathematics and any physical science subject.."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Electrical Power Engineering (Hons)",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -2807,11 +2828,12 @@
             "text": "55% in Mathematics and any physical science subject.."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Bachelor of Finance (Hons)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -3028,11 +3050,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor in Information Systems (Business Analytics)",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -3219,11 +3242,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Bachelor of Information Technology (Graphics & Multimedia) (Hons)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -3417,11 +3441,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of International Business (Hons)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -3567,11 +3592,12 @@
             "text": "70%, or SACE and WACE with Band 2 in 2 subjects.."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering (Hons)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -3743,11 +3769,12 @@
             "text": "55% in Mathematics and any physical science subject.."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -3860,11 +3887,12 @@
             "text": "Grade B in 3 subjects inclusive of Mathematics and any Science / Technical / Vocational subjects and pass in English.."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Business Studies",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -3989,11 +4017,12 @@
             "text": "Grade B in 3 subjects..  Grade C in Mathematics and pass in English at SPM level."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Digital Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -4118,11 +4147,12 @@
             "text": "Grade B in 3 subjects..  Grade C in Mathematics and pass in English at SPM level."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -4275,11 +4305,12 @@
             "text": "Grade C in 1 subject.  Grade C in Mathematics at SPM level"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Electrical Engineering",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -4400,11 +4431,12 @@
             "text": "Grade B in 3 subjects inclusive of Mathematics, relevant science / technical / vocational subjects and pass in English.."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Diploma in Financial Technology",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -4529,11 +4561,12 @@
             "text": "Grade B in 3 subjects..  Grade C in Mathematics and pass in English at SPM level."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Diploma in Corporate Management Tahfiz",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -4633,11 +4666,12 @@
             "text": "Grade C (NGMP 2.0) in one subject.  Pass one of Arabic or any Islamic Studies subject in Sijil Pelajaran Malaysia (SPM) (or equivalent)\nPass interview (reading and memorizing Al-Quran)."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Diploma in Mechanical Engineering",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -4758,11 +4792,12 @@
             "text": "Grade B in 3 subjects inclusive of Mathematics, relevant science / technical / vocational subjects and pass in English.."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Foundation in Management (Economics)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -4850,11 +4885,12 @@
             "text": "Grade B in 4 subjects.."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation In Accounting",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -4946,11 +4982,12 @@
             "text": "Grade B in 4 subjects inclusive of Mathematics.."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation In Business Administration",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Jan",
@@ -5042,11 +5079,12 @@
             "text": "Grade B in 4 subjects inclusive of Mathematics.."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation In Information Technology",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -5138,11 +5176,12 @@
             "text": "Grade B in 4 subjects inclusive of Mathematics.."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Management",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -5228,11 +5267,12 @@
             "text": "Grade B in 4 subjects.."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation In Computer Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -5346,11 +5386,12 @@
             "text": "Grade B in 4 subjects inclusive of Advance Mathematics.."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Engineering",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jan",
@@ -5462,11 +5503,12 @@
             "text": "Grade B in 3 subjects including English, Mathematics or Advance Mathematics, Physics or any subject and pass in Chemistry."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Master of Science in Accounting (Research)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Feb"
@@ -5504,11 +5546,12 @@
             "text": "• Bachelor’s degree in relevant domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above. • Bachelor’s degree in relevant domains with Lower Second-Class with honours or a CGPA of 2.50 (60%-64%), and 1-year experience in the domains and at least 1 publication in the domains, or 2 years of professional experience in the domains. • Bachelor’s degree in relevant domains with a CGPA below 2.50 (60%, and 5 years of experience in the domain). • Bachelor’s degree in related domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above, and 1 year of experience in the domains (including at least publication in the domains).."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Master of Civil Engineering (Research)",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb"
@@ -5595,11 +5638,12 @@
             "text": "• Bachelor’s degree in related domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above, and 1 year of experience in the domains (including at least publication in the domains).."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Master of Electrical Engineering (Research)",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb"
@@ -5691,11 +5735,12 @@
             "text": "• Bachelor’s degree in related domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above, and 1 year of experience in the domains (including at least publication in the domains).."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Master of Electrical Engineering (Coursework & Research)",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb"
@@ -5738,11 +5783,12 @@
             "text": "• Bachelor’s degree in relevant domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above. • Bachelor’s degree in relevant domains with Lower Second-Class with honours or a CGPA of 2.50 (60%-64%), and 1-year experience in the domains and at least 1 publication in the domains, or 2 years of professional experience in the domains. • Bachelor’s degree in relevant domains with a CGPA below 2.50 (60%, and 5 years of experience in the domain). • Bachelor’s degree in related domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above, and 1 year of experience in the domains (including at least publication in the domains).."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Master of Science in Finance (Research)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Feb"
@@ -5771,11 +5817,12 @@
             "text": "• Bachelor’s degree in relevant domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above. • Bachelor’s degree in relevant domains with Lower Second-Class with honours or a CGPA of 2.50 (60%-64%), and 1-year experience in the domains and at least 1 publication in the domains, or 2 years of professional experience in the domains. • Bachelor’s degree in relevant domains with a CGPA below 2.50 (60%, and 5 years of experience in the domain). • Bachelor’s degree in related domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above, and 1 year of experience in the domains (including at least publication in the domains).."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Master of Engineering Management (Coursework & Project)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb",
@@ -5833,11 +5880,12 @@
             "text": "• Bachelors in the relevant domain with Lower Second-Class with honours or a CGPA of 2.50 (60% - 64%), and above; or • Bachelor’s degree in relevant domains with a CGPA below 2.50 (60%, and 5 years of experience in the domains).."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Master of Structural Engineering (Coursework & Project)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb",
@@ -5867,11 +5915,12 @@
             "text": "• Bachelors in the relevant domain with Lower Second-Class with honours or a CGPA of 2.50 (60% - 64%), and above; or • Bachelor’s degree in relevant domains with a CGPA below 2.50 (60%, and 5 years of experience in the domains).."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Master of Energy Management (Coursework & Project)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb",
@@ -5930,11 +5979,12 @@
             "text": "• Bachelors in the relevant domain with Lower Second-Class with honours or a CGPA of 2.50 (60% - 64%), and above; or • Bachelor’s degree in relevant domains with a CGPA below 2.50 (60%, and 5 years of experience in the domains).."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Master of Information Technology (Research)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb"
@@ -5963,11 +6013,12 @@
             "text": "• Bachelor’s degree in relevant domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above. • Bachelor’s degree in relevant domains with Lower Second-Class with honours or a CGPA of 2.50 (60%-64%), and 1-year experience in the domains and at least 1 publication in the domains, or 2 years of professional experience in the domains. • Bachelor’s degree in relevant domains with a CGPA below 2.50 (60%, and 5 years of experience in the domain). • Bachelor’s degree in related domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above, and 1 year of experience in the domains (including at least publication in the domains).."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of Information Technology (Coursework & Research)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb"
@@ -5996,11 +6047,12 @@
             "text": "• Bachelor’s degree in relevant domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above. • Bachelor’s degree in relevant domains with Lower Second-Class with honours or a CGPA of 2.50 (60%-64%), and 1-year experience in the domains and at least 1 publication in the domains, or 2 years of professional experience in the domains. • Bachelor’s degree in relevant domains with a CGPA below 2.50 (60%, and 5 years of experience in the domain). • Bachelor’s degree in related domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above, and 1 year of experience in the domains (including at least publication in the domains).."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of Science in Management (Research)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "UNITEN, Pahang",
       "intakes": [
         "Feb"
@@ -6034,11 +6086,12 @@
             "text": "• Bachelor’s degree in relevant domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above. • Bachelor’s degree in relevant domains with Lower Second-Class with honours or a CGPA of 2.50 (60%-64%), and 1-year experience in the domains and at least 1 publication in the domains, or 2 years of professional experience in the domains. • Bachelor’s degree in relevant domains with a CGPA below 2.50 (60%, and 5 years of experience in the domain). • Bachelor’s degree in related domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above, and 1 year of experience in the domains (including at least publication in the domains).."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Master of Business Administration - Open Distance Learning (ODL)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Jul",
@@ -6073,11 +6126,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration (Coursework & Project)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb",
@@ -6130,11 +6184,12 @@
             "text": "• Bachelors in the relevant domain with Lower Second-Class with honours or a CGPA of 2.50 (60% - 64%), and above; or • Bachelor’s degree in relevant domains with a CGPA below 2.50 (60%, and 5 years of experience in the domains).."
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Mechanical Engineering (Research)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb"
@@ -6163,11 +6218,12 @@
             "text": "• Bachelor’s degree in relevant domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above. • Bachelor’s degree in relevant domains with Lower Second-Class with honours or a CGPA of 2.50 (60%-64%), and 1-year experience in the domains and at least 1 publication in the domains, or 2 years of professional experience in the domains. • Bachelor’s degree in relevant domains with a CGPA below 2.50 (60%, and 5 years of experience in the domain). • Bachelor’s degree in related domains with Upper Second-Class with honours or a CGPA of 2.75 (65%) and above, and 1 year of experience in the domains (including at least publication in the domains).."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "PhD in Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb"
@@ -6225,11 +6281,12 @@
             "text": "• Bachelor’s degree in the domains with first class with honours or a CGPA of 3.67* and above. For this qualification, candidates must register for Master Programme (Structure A), and apply for conversion to PhD in not earlier than six months and within one year of registration but subject to assessments and approval by Senate. For detail of conversion scheme, refer to COGS Academic Regulation.."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "PhD in Engineering (Research)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb"
@@ -6258,11 +6315,12 @@
             "text": "- A master’s degree accepted by the Higher Education Provider (HEP) Senate;."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "PhD in Information and Communication Technology (Research)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UNITEN, Putrajaya",
       "intakes": [
         "Feb"
@@ -6312,7 +6370,8 @@
             "text": "• Bachelor’s degree holder with a CGPA of 3.67 from recognised universities and registered for Master programme (structure A) for 6 months to 1 year (full time) or 1 to 2 years (part time) can apply for conversion to PhD subject to assessments and approval.."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     }
   ]
 }

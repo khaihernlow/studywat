@@ -4,6 +4,9 @@
   "institution_type": "Public",
   "world_rank": 3170,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://sofiametropolitancollege.com/wp-content/uploads/2023/12/London-Metropolitan-University-Graduate-Centre-UK-1.jpg"
+  ],
   "programs": [
     {
       "program_name": "BA (Hons) Accounting and Finance",
@@ -96,11 +99,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BSc (Hons) Banking and Finance",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Holloway Road",
       "intakes": [
         "Sep",
@@ -194,11 +198,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "BSc (Hons) Biochemistry",
-      "field_of_study": "Biochemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -285,11 +290,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Biochemistry"
     },
     {
       "program_name": "BSc (Hons) Biological Science",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -392,11 +398,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "BSc (Hons) Biomedical Science",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -499,11 +506,12 @@
             "text": "three Principal passes – CCC."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "BA (Hons) Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Holloway Road",
       "intakes": [
         "Sep",
@@ -592,11 +600,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management and Human Resource Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Holloway Road",
       "intakes": [
         "Sep",
@@ -685,11 +694,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management and Marketing",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Holloway Road",
       "intakes": [
         "Sep",
@@ -778,11 +788,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc (Hons) Chemistry",
-      "field_of_study": "Chemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -843,11 +854,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Chemistry"
     },
     {
       "program_name": "BEng (Hons) Computer Networking and Cloud Security",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -944,11 +956,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Networking and Cyber Security",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -1041,11 +1054,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -1133,11 +1147,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computing",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -1230,11 +1245,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Digital Forensics and Cyber Security",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -1331,11 +1347,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BEng (Hons) Computer Systems Engineering and Robotics",
-      "field_of_study": "Computer Systems Engineering",
+      "field_of_study": "Engineering",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -1417,11 +1434,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Computer Systems Engineering"
     },
     {
       "program_name": "BSc (Hons) Economics",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -1508,11 +1526,12 @@
             "text": "three Principal passes – CCC.  English Language GCSE at grade C/4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BSc (Hons) Economics and Finance",
-      "field_of_study": "Economics and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Holloway Road",
       "intakes": [
         "Sep",
@@ -1601,7 +1620,8 @@
             "text": "three Principal passes – CCC.  English Language GCSE at grade C/4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Economics and Finance"
     },
     {
       "program_name": "BA (Hons) Education",
@@ -1693,11 +1713,12 @@
             "text": "three Principal passes – CCC.  English Language GCSE at grade C/4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "BEng (Hons) Electronic Engineering and Internet of Things",
-      "field_of_study": "Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -1794,11 +1815,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Electronic Engineering"
     },
     {
       "program_name": "BSc (Hons) Health and Social Care",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Holloway Road",
       "intakes": [
         "Sep",
@@ -1885,11 +1907,12 @@
             "text": "three Principal passes – CCC.  English Language GCSE at grade C/4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "BSc (Hons) Data Science",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -1976,11 +1999,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc (Hons) Economics, Finance and International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -2104,11 +2128,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BSc (Hons) International Business Management",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -2196,11 +2221,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "LLB (Hons) (Criminal Law)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Holloway Road",
       "intakes": [
         "Sep",
@@ -2289,11 +2315,12 @@
             "text": "three Principal passes – CCC.  English Language GCSE at grade C/4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "LLB (Hons) Law",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Holloway Road",
       "intakes": [
         "Sep",
@@ -2382,11 +2409,12 @@
             "text": "three Principal passes – CCC.  English Language GCSE at grade C/4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "LLB (Hons) Law (with International Relations) -",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -2474,11 +2502,12 @@
             "text": "three Principal passes – CCC.  GCSE English at grade C or above, or Higher Diploma (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "BA (Hons) Law",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Holloway Road",
       "intakes": [
         "Sep",
@@ -2567,11 +2596,12 @@
             "text": "three Principal passes – CCC.  English Language GCSE at grade C/4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "BA (Hons) Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Holloway Road",
       "intakes": [
         "Sep",
@@ -2660,11 +2690,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BSc (Hons) Mathematical Sciences",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -2752,11 +2783,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "BSc (Hons) Mathematics",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -2861,11 +2893,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "BSc (Hons) Medical Bioscience",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -2947,11 +2980,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "BSc (Hons) Nursing (Adult)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -3087,11 +3121,12 @@
             "text": "three Principal passes – CCC.  5 GCSEs at grade 4/C to include Maths and English Language (or equivalent Level 2 functional Maths and English/communication), and preferably a science subject.\n5 days or more of recent (within the last two years) work experience in a care environment would be desirable.\nAn enhanced Disclosure and Barring Service (DBS) check for the Adults' and Children's Workforce.\nClearance for non-exposure prone procedures (EPP) by an approved occupational health service.\nAll applicants will be required to pass an interview"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "BSc (Hons) Dietetics",
-      "field_of_study": "Nutrition",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -3275,11 +3310,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSE at grade C/grade 4 or above (or equivalent)\nDBS check\nHealth at work clearance by an approved occupational health service"
           }
         ]
-      }
+      },
+      "course": "Nutrition"
     },
     {
       "program_name": "BSc (Hons) Dietetics and Nutrition",
-      "field_of_study": "Nutrition",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -3434,11 +3470,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSE at grade C/grade 4 or above (or equivalent)\n10 days (or more) of recent (within the last two years) work experience in a care environment\nAttendance at a dietetics career event - An enhanced DBS Check for the Adults' and Children's Workforce\nClearance for non-exposure prone procedures (EPP) by an approved occupational health service\nAttended and passed an interview"
           }
         ]
-      }
+      },
+      "course": "Nutrition"
     },
     {
       "program_name": "BSc (Hons) Human Nutrition",
-      "field_of_study": "Nutrition",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -3510,11 +3547,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Nutrition"
     },
     {
       "program_name": "BSc (Hons) Pharmaceutical Science",
-      "field_of_study": "Pharmaceutical Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -3608,11 +3646,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Pharmaceutical Science"
     },
     {
       "program_name": "BSc (Hons) Pharmacology",
-      "field_of_study": "Pharmaceutical Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -3699,11 +3738,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Pharmaceutical Science"
     },
     {
       "program_name": "BSc (Hons) Forensic Science",
-      "field_of_study": "Policy Science",
+      "field_of_study": "Language and Social Studies",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -3790,11 +3830,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Policy Science"
     },
     {
       "program_name": "BSc (Hons) Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Holloway Road",
       "intakes": [
         "Sep"
@@ -3898,11 +3939,12 @@
             "text": "three Principal passes – CCC.  English Language and Mathematics GCSEs at grade C/grade 4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc (Hons) Psychology and Sociology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Holloway Road",
       "intakes": [
         "Sep",
@@ -4015,7 +4057,8 @@
             "text": "three Principal passes – CCC.  English Language GCSE at grade C/4 or above (or equivalent)"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     }
   ]
 }

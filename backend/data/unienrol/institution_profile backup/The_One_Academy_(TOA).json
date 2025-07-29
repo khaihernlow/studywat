@@ -1,0 +1,1854 @@
+{
+  "institution_name": "The One Academy (TOA)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Certificate in Communication Design",
+      "field_of_study": "Communication",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "1C.",
+        "O-Level": "1C.",
+        "UEC": "1B."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 2800,
+        "tuition_fee": 20700
+      },
+      "course_content": {
+        "core": "Semester 1 (14 Weeks) Basic Design Introduction to Digital Tools Basic Drawing 1 Medium and Techniques Language Preparatory 1 Malaysian Studies / Bahasa Melayu Komunikasi Semester 2 (14 Weeks) Basic Drawing 2 Visual Thinking Colour Fundamentals Art Appreciation Language Preparatory 2 Bahasa Kebangsaan A Life Drawing Techniques Semester 3 (14 Weeks) Basic Perspective Drawing Figure Fundamental Study Basic Letterforms Visual Composition & Layout Language Preparatory 3 Semester 4 (14 Weeks) Introduction to Visual Communication Figure Study Design Case Study Watercolour Drawing Integrity And Anti-Corruption",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (HONS) Graphic Design (3+0) University of Hertfordshire, UK",
+      "field_of_study": "Graphic Design",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "May"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "UEC": "Grade B in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 8100,
+        "tuition_fee": 115400
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 & 2 Critical and Cultural Studies (L4) (30 Credits) Semester 1 Visual Communication (45 Credits) For Local Student: Hubungan Etnik (Compulsory) For International Student: Bahasa Melayu Komunikasi II (Compulsory) Semester 2 Graphic Design Essential 1 (45 Credits) For Local Student: Philosophy and Topical Debates For International Student: Philosophy and Topical Debates Year 2 Semester 1 & 2 Critical and Cultural Studies (L5) (30 Credits) Semester 1 Graphic Design Essential Part 2 (45 Credits) For Local Student: Business & Marketing (Compulsory) For International Student: Bahasa Kebangsaan A (Compulsory) Semester 2 Graphic Design Professional Development (15 Credits) Graphic Design Live Projects (30 Credits) Year 3 Semester 1 Graphic Design Advanced Practice 1 (30 Credits) Graphic Design Degree Essay (30 Credits) For Local Student: Culture & Humanities (Compulsory) For International Student: Culture & Humanities (Compulsory) Semester 2 Graphic Design Advanced Practice  2 (60 Credits) For International Student: Community Service (Compulsory) For Local Student: Community Service (Compulsory) Internship( 12-week period )",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (HONS) Interior Architecture and Design (3+0) University of Hertfordshire, UK",
+      "field_of_study": "Interior Design",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "May"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "UEC": "Grade B in 5 Subjects.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 12600,
+        "tuition_fee": 112190
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Design Studio 1: Anatomy of Space  (15 Credits) Communication 1: Representing Space  (15 Credits) Technology 1: Introducing Materiality   (15 Credits) Critical and Cultural Studies L4  (15 Credits) For Local Student: For Local Student: Hubungan Etnik (Compulsory) For International Student: Bahasa Melayu Komunikasi II (Compulsory) Semester 2 Semester 2 Design Studio 2: Serious Play  (30 Credits) Communication 2: Digital Skills   (15 Credits) Sustainability: Past, Present and Future   (15 Credits) For Local Student: Tamadun Islam & Tamadun Asia (Compulsory) For International Student: Malaysian Studies (Compulsory)  Year 2 Semester 1 Design Studio 3: Close-Up  (15 Credits) Communication 3: Digital Skills 2  (15 Credits) Technology 2: Detail  (15 Credits) Sustainability in Practice  (15 Credits) For Local Student: Business & Marketing (Compulsory) OR Bahasa Kebangsaan A (Compulsory) For International Student: Business & Marketing (Compulsory) Semester 2 Critical and Cultural Studies L5  (15 Credits) Design Studio 4: Inside Out  (15 Credits) Professional Development 1: Preparing for Industry  (15 Credits)  Year 3 Semester 1 Design Studio 5: Generator  (15 Credits) Technology 3: Contemporary Technologies  (15 Credits) Critical & Cultural Studies L6: Degree Essay/ Report (Design)  (30 Credits) For Local Student: Culture & Humanities(Compulsory) For International Student: Culture & Humanities (Compulsory)  Semester 2 Design Studio 6: Augment  (45 Credits) Professional Development 2: Professional Practice & Employability  (15 Credits) For Local Student: Community Service(Compulsory) For International Student: Community Service (Compulsory) Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (HONS) Digital Media Design (3+0) University of Hertfordshire, UK",
+      "field_of_study": "Multimedia Design",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "May"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  Applicants may be required to submit a portfolio for assessment",
+        "UEC": "Grade B in 5 Subjects.  Applicants may be required to submit a portfolio for assessment",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment",
+        "STPM": "2 Principal Passes.  Applicants may be required to submit a portfolio for assessment",
+        "Foundation": "Minimum CGPA 2.00.  Applicants may be required to submit a portfolio for assessment"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 8100,
+        "tuition_fee": 120660
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 & 2 Visual Communication and Core Media Production(45 Credits) Interaction and Hybrid Media Construction   (45 Credits) Media in Mind: Histories, Theories, Contexts (C&CS)   (30 Credits) For Local Student: Hubungan Etnik (Compulsory) Tamandun Islam & Tamadun Asia (Compulsory) For International Student: Bahasa Melayu Komunikasi II (Compulsory) Malaysian Studies (Compulsory)  Year 2 Semester 1 & 2 Teamwork Practices (30 Credits) Independent Project   (30 Credits) User Experience Design   (15 Credits) Storytelling & Gaming   (15 Credits) Connections & Perspectives I : Exploring Creative Media and Digital Cultures   (15 Credits) Connections & Perspectives II : Exploring Creative Media and Digital Cultures   (15 Credits) For Local Student: Bahasa Kebangsaan (Compulsory) Business & Marketing (Compulsory) For International Student: Business & Marketing (Compulsory)  Year 3 Semester 1 & 2 Degree Project (60 Credits) Dissertation (C&CS)   (30 Credits) Professional Practices   (30 Credits) For Local Student: Culture & Humanities (Compulsory) Community Service (Compulsory) For International Student: Culture & Humanities (Compulsory)  Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Animation",
+      "field_of_study": "Animation",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4",
+        "TOEFL": "IBT 30-31",
+        "Others": "Pass SPM English"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 8100,
+        "tuition_fee": 98000
+      },
+      "course_content": {
+        "core": "Course Modules Design Fundamentals Drawing Advanced Drawing Visual Communication Approaches to Figure Drawing Perspective Studies Functional Drawing Life Figure Drawing Conceptual Art Development Concept Art Introduction to Photography Visual Storytelling Digital Video Creation 3D Maya Essentials Drawn Animation 3D Animation 3D Environment Modelling Applied Practice in Animation & Modelling Specialisation in Animation & Modelling Introduction to Compositing to Editing Studio for Animation & Modelling Animation Short Film: Pre-Production, Production and Post-Production Contextual Courses Language & Communication Skills History of Art & Design Malaysian Studies Business & Marketing Survey of S.E.A. Art & Culture Culture & Humanities Software Adobe Photoshop Adobe Illustrator Adobe After Effects Adobe Premiere Pro Adobe Audition Adobe Animation Adobe Lightroom Adobe Substance 3D Painter Autodesk Maya Pixologic ZBrush Marmoset Toolsbag Marvelous Designer Personal Development Sound Workshop Rigging Workshop Advanced Rigging Workshop Lighting & Compositing Workshop Team Building Activities",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Animation",
+      "field_of_study": "Animation",
+      "location": "TOA, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4",
+        "TOEFL": "IBT 30-31",
+        "Others": "Pass SPM English"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 58800
+      },
+      "course_content": {
+        "core": "Course Modules Design Fundamentals Drawing Advanced Drawing Visual Communication Approaches to Figure Drawing Perspective Studies Functional Drawing Life Figure Drawing Conceptual Art Development Concept Art Introduction to Photography Visual Storytelling Digital Video Creation 3D Maya Essentials Drawn Animation 3D Animation 3D Environment Modelling Applied Practice in Animation & Modelling Specialisation in Animation & Modelling Introduction to Compositing to Editing Studio for Animation & Modelling Animation Short Film: Pre-Production, Production and Post-Production Contextual Courses Language & Communication Skills History of Art & Design Malaysian Studies Business & Marketing Survey of S.E.A. Art & Culture Culture & Humanities Software Adobe Photoshop Adobe Illustrator Adobe After Effects Adobe Premiere Pro Adobe Audition Adobe Animation Adobe Lightroom Adobe Substance 3D Painter Autodesk Maya Pixologic ZBrush Marmoset Toolsbag Marvelous Designer Personal Development Sound Workshop Rigging Workshop Advanced Rigging Workshop Lighting & Compositing Workshop Team Building Activities",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Computer Science",
+      "field_of_study": "Computer Science",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits (3Cs) including a credit in Mathematics.",
+        "UEC": "3 credits (3Bs) including a credit in Mathematics.  Credit in Mathematics at SPM level",
+        "STPM": "Grade C (GP 2.0) in any subjects.  Credit in Mathematics at SPM level"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 19600,
+        "tuition_fee": 109400
+      },
+      "course_content": {
+        "core": "Year 1, Semester 1 Structured Programming I Creative Coding Applied Mathematics for Computer Science Language & Communication Skills I Malaysian Studies 2 (MPU Compulsory) Bahasa Melayu Komunikasi 1 (MPU Compulsory) Year 1, Semester 2 Computing System Components Structured Programming II Analytic Geometry and Linear Algebra Introduction to Software Development Language & Communication Skills 2 Year 1, Semester 3 Introduction to C++ Fundamentals of Game Design Calculus and Analytic Geometry Year 2, Semester 1 Object Oriented Programming in C++ Game System Architecture Game Physics Software Development Project 1 Business and Marketing (MPU Compulsory) Bahasa Kebangsaan A (MPU Compulsory for Malaysian Student without Credit in BM) Year 2, Semester 2 Programming for Game Engines Data Structures and Algorithms Introduction to System Design Methods Introduction to Database Software Development Project 2 Year 2, Semester 3 Client-Side Web Technologies Software Development Project 3 Culture and Humanities (MPU Compulsory) Year 3, Semester 1 Server-Side Web Technologies Game AI Introduction to Level Design Methods Software Development Project 4 Community Service (MPU Compulsory) Year 3, Semester 2 Shader Programming Programming Mobile Applications Introduction to Technical Design Methods Software Development Project 5 Multiplayer Game Programming Year 3, Semester 3 Year 3, Semester 3 Internship (8 - 12 weeks)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (3Cs) including a credit in Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (3Bs) including a credit in Mathematics.  Credit in Mathematics at SPM level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (GP 2.0) in any subjects.  Credit in Mathematics at SPM level"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Illustration",
+      "field_of_study": "Creative Arts",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4",
+        "TOEFL": "IBT 30-31",
+        "Others": "Pass SPM English"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 8100,
+        "tuition_fee": 82250
+      },
+      "course_content": {
+        "core": "Course Modules Drawing Figure Studies Design Fundamentals Visual Communication Perspective Studies Watercolour Rendering Workshop Light & Mood Studies Introduction to Digital Photography Production Sketching Illustration Visual Development Story Development Concept Design Digital Matte Painting Cinematic Storyboarding Collaborative Project Media Pencil Gouache Watercolour Digital Software Adobe Photoshop Adobe Illustrator Adobe Premiere Google SketchUp Blender ZBrush Business Courses Business & Marketing Contextual Courses History of Art & Design Language & Communication Skills Survey of S.E.A Art & Culture Personal Development Seminar & Workshops Graduation Campaign",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Fine Arts",
+      "field_of_study": "Creative Arts",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3C.",
+        "O-Level": "3C.",
+        "UEC": "3B."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 12600,
+        "tuition_fee": 60500
+      },
+      "course_content": {
+        "core": "Course Modules Figure Studies Figure Anatomy Studies Colour Studies Drawing Life Drawing Print Making Material & Method Studies Oil Painting Watercolour Visual Language Sculpture Digital Painting Computer Application Perspective Studies Photography Personal Development Language & Communication Skills Portfolio Presentation Art Marketing Exhibition Contextual Courses History of Art & Design Aesthetic Studies Visual Culture Studies Survey of S.E.A Art & Culture Malaysia Art Studies Contemporary Issues Art Critique Personal Development Interpersonal Skills & Development Workshops Team Building Activities",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "3C."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "3C."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "3B."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Illustration",
+      "field_of_study": "Creative Arts",
+      "location": "TOA, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4",
+        "TOEFL": "IBT 30-31",
+        "Others": "Pass SPM English"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 53490
+      },
+      "course_content": {
+        "core": "Course Modules Drawing Figure Studies Design Fundamentals Visual Communication Perspective Studies Watercolour Rendering Workshop Light & Mood Studies Introduction to Digital Photography Production Sketching Illustration Visual Development Story Development Concept Design Digital Matte Painting Cinematic Storyboarding Collaborative Project Media Pencil Gouache Watercolour Digital Software Adobe Photoshop Adobe Illustrator Adobe Premiere Google SketchUp Blender ZBrush Business Courses Business & Marketing Contextual Courses History of Art & Design Language & Communication Skills Survey of S.E.A Art & Culture Personal Development Seminar & Workshops Graduation Campaign",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Fashion Design & Pattern Making",
+      "field_of_study": "Fashion Design",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4",
+        "TOEFL": "IBT (30-31)"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 12000,
+        "tuition_fee": 119400
+      },
+      "course_content": {
+        "core": "Course Modules Introduction to Fashion Design Fashion Design Computer-aided Fashion Design Current Trends & Forecast Fashion Photography Fashion Illustration Live Drawing for Fashion Fashion Sketching History of Fashion Introduction to Textile Textile Workshop Colour Theory Pattern Making Advanced Draping Sewing Skills & Techniques Sewing Technology Advanced Sewing Technology The Business of Fashion Fashion Show Production Women’s Wear Men’s Wear Personal Development Fashion Show Portfolio Presentation Contextual Courses History of Fashion Language & Communication Skills French Language",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Advertising & Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4",
+        "TOEFL": "IBT 30-31",
+        "Others": "Pass SPM English"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 8100,
+        "tuition_fee": 82250
+      },
+      "course_content": {
+        "core": "Graphic Design Courses Content Creative Thinking Corporate Identity & Brand Communication Design Typography Fundamentals Applied Typography Packaging Design Digital Photography Publication Design Computer Graphic Production Procedures Advertising Courses Content Content Creation Digital Marketing Integrated Campaign Advertising Principles & Strategies New Media in Advertising Advertising Campaign Advertising Visual Copywriting Software Adobe AfterEffect Adobe Premier Adobe XD (UX & UI) Adobe InDesign (Editorial) Adobe Dreamweaver (Web Design) Adobe Audition (Sound Editing) Adobe Photoshop Adobe Illustrator Business Courses Business & Marketing Contextual Courses History of Art & Design Survey of S.E.A. Art & Culture Professional Development Live Project Graduation Exhibition National & International Design Competitions Portfolio Review by Industry Professionals Mock Interview by Industry Professionals Sharing / Workshop Session by Industry Professionals",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Advertising & Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "TOA, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4",
+        "TOEFL": "IBT 30-31",
+        "Others": "Pass SPM English"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 53490
+      },
+      "course_content": {
+        "core": "Graphic Design Courses Content Creative Thinking Corporate Identity & Brand Communication Design Typography Fundamentals Applied Typography Packaging Design Digital Photography Publication Design Computer Graphic Production Procedures Advertising Courses Content Content Creation Digital Marketing Integrated Campaign Advertising Principles & Strategies New Media in Advertising Advertising Campaign Advertising Visual Copywriting Software Adobe AfterEffect Adobe Premier Adobe XD (UX & UI) Adobe InDesign (Editorial) Adobe Dreamweaver (Web Design) Adobe Audition (Sound Editing) Adobe Photoshop Adobe Illustrator Business Courses Business & Marketing Contextual Courses History of Art & Design Survey of S.E.A. Art & Culture Professional Development Live Project Graduation Exhibition National & International Design Competitions Portfolio Review by Industry Professionals Mock Interview by Industry Professionals Sharing / Workshop Session by Industry Professionals",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "O-Level": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4",
+        "TOEFL": "IBT 30-31",
+        "Others": "Pass SPM English"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 8100,
+        "tuition_fee": 82250
+      },
+      "course_content": {
+        "core": "Course Modules Computer Graphic Construction Drawing Creative Thinking Design & Business Management Environment Science & Services Final Project Furniture and Lighting Design Industry-Based Learning Interior & Architectural History Interior Design Interior Fundamental Studies Interior Material Finishes Interior Professional Practice Interior Visual Portfolio Research in Interior Design Personal Development Language & Communication Skills Software Autodesk 3ds Max SketchUp V-Ray Adobe Illustrator Autodesk AutoCAD Lumion Adobe Photoshop Unreal Engine",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "TOA, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "O-Level": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4",
+        "TOEFL": "IBT 30-31",
+        "Others": "Pass SPM English"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 54270
+      },
+      "course_content": {
+        "core": "Course Modules Computer Graphic Construction Drawing Creative Thinking Design & Business Management Environment Science & Services Final Project Furniture and Lighting Design Industry-Based Learning Interior & Architectural History Interior Design Interior Fundamental Studies Interior Material Finishes Interior Professional Practice Interior Visual Portfolio Research in Interior Design Personal Development Language & Communication Skills Software Autodesk 3ds Max SketchUp V-Ray Adobe Illustrator Autodesk AutoCAD Lumion Adobe Photoshop Unreal Engine",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Media Design",
+      "field_of_study": "Multimedia Design",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4",
+        "TOEFL": "IBT 30-31",
+        "Others": "Pass SPM English"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 8100,
+        "tuition_fee": 90500
+      },
+      "course_content": {
+        "core": "Course Modules Design Fundamentals Drawing Visual Communication Advanced Drawing Typography Design Principles & Practices for Digital Media Programming Methodology Perspective Studies Design Methodology Interactive Design Video Production Web & Mobile Design Motion Graphic Design UI/UX Design 3D Motion Design Digital Fabrication Integrated Media & Communication Creative Technologies Final Project Digital Portfolio Industry Training & Practices Contextual Courses Language & Communication Skills History of Art & Design Survey of S.E.A. Art & Culture Business & Marketing Software Adobe Photoshop Adobe XD Adobe Audition Processing Maxon Cinema 4D Blender Adobe Illustrator Adobe After Effects Adobe Premiere Arduino IDE Digital Fabrication Tools Unity 3D Personal Development Interpersonal Skills & Development Workshops Team Building Activities",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital Media Design",
+      "field_of_study": "Multimedia Design",
+      "location": "TOA, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "4",
+        "TOEFL": "IBT 30-31",
+        "Others": "Pass SPM English"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 58800
+      },
+      "course_content": {
+        "core": "Course Modules Design Fundamentals Drawing Visual Communication Advanced Drawing Typography Design Principles & Practices for Digital Media Programming Methodology Perspective Studies Design Methodology Interactive Design Video Production Web & Mobile Design Motion Graphic Design UI/UX Design 3D Motion Design Digital Fabrication Integrated Media & Communication Creative Technologies Final Project Digital Portfolio Industry Training & Practices Contextual Courses Language & Communication Skills History of Art & Design Survey of S.E.A. Art & Culture Business & Marketing Software Adobe Photoshop Adobe XD Adobe Audition Processing Maxon Cinema 4D Blender Adobe Illustrator Adobe After Effects Adobe Premiere Arduino IDE Digital Fabrication Tools Unity 3D Personal Development Interpersonal Skills & Development Workshops Team Building Activities",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Visual Comunication Design",
+      "field_of_study": "Multimedia Design",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 3 credits (3Cs) including a Pass in Bahasa Melayu and Sejarah.  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent",
+        "O-Level": "Minimum 3 credits (3Cs).  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent",
+        "UEC": "Minimum 3 credits (3Bs).  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 8100,
+        "tuition_fee": 82250
+      },
+      "course_content": {
+        "core": "Graphic Design Courses Content\nCreative Thinking\nCorporate Identity & Brand Communication Design\nTypography Fundamentals\nApplied Typography\nPackaging Design\nDigital Photography\nPublication Design\nComputer Graphic Production Procedures Graphic Design Courses Content Creative Thinking\nCorporate Identity & Brand Communication Design\nTypography Fundamentals\nApplied Typography\nPackaging Design\nDigital Photography\nPublication Design\nComputer Graphic Production Procedures Creative Thinking Corporate Identity & Brand Communication Design Typography Fundamentals Applied Typography Packaging Design Digital Photography Publication Design Computer Graphic Production Procedures  Advertising Courses Content\nContent Creation\nDigital Marketing\nIntegrated Campaign\nAdvertising Principles & Strategies\nNew Media in Advertising\nAdvertising Campaign\nAdvertising Visual\nCopywriting Advertising Courses Content Content Creation\nDigital Marketing\nIntegrated Campaign\nAdvertising Principles & Strategies\nNew Media in Advertising\nAdvertising Campaign\nAdvertising Visual\nCopywriting Content Creation Digital Marketing Integrated Campaign Advertising Principles & Strategies New Media in Advertising Advertising Campaign Advertising Visual Copywriting  Software\nAdobe AfterEffect\nAdobe Premier\nAdobe XD (UX & UI)\nAdobe InDesign (Editorial)\nAdobe Dreamweaver (Web Design)\nAdobe Audition (Sound Editing)\nAdobe Photoshop\nAdobe Illustrator Software Adobe AfterEffect\nAdobe Premier\nAdobe XD (UX & UI)\nAdobe InDesign (Editorial)\nAdobe Dreamweaver (Web Design)\nAdobe Audition (Sound Editing)\nAdobe Photoshop\nAdobe Illustrator Adobe AfterEffect Adobe Premier Adobe XD (UX & UI) Adobe InDesign (Editorial) Adobe Dreamweaver (Web Design) Adobe Audition (Sound Editing) Adobe Photoshop Adobe Illustrator  Business Courses\nBusiness & Marketing Business Courses Business & Marketing Contextual Courses\nHistory of Art & Design\nSurvey of S.E.A. Art & Culture Contextual Courses History of Art & Design\nSurvey of S.E.A. Art & Culture History of Art & Design Survey of S.E.A. Art & Culture  Professional Development\nLive Project\nGraduation Exhibition\nNational & International Design Competitions\nPortfolio Review by Industry Professionals\nMock Interview by Industry Professionals\nSharing / Workshop Session by Industry Professionals Professional Development Live Project\nGraduation Exhibition\nNational & International Design Competitions\nPortfolio Review by Industry Professionals\nMock Interview by Industry Professionals\nSharing / Workshop Session by Industry Professionals Live Project Graduation Exhibition National & International Design Competitions Portfolio Review by Industry Professionals Mock Interview by Industry Professionals Sharing / Workshop Session by Industry Professionals",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 credits (3Cs) including a Pass in Bahasa Melayu and Sejarah.  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 credits (3Cs).  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 credits (3Bs).  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Visual Effects",
+      "field_of_study": "Multimedia Design",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits (3Cs) including a Pass in Bahasa Melayu and Sejarah.  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent",
+        "O-Level": "3 credits (3Cs).  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent",
+        "UEC": "3 credits (3Bs).  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 8100,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Course Modules Design Fundamentals Drawing Visual Communication Advanced Drawing Introduction to Digital Photography 3D Maya Essentials & Shader Development Basic Lighting and Compositing Business Marketing for VFX and Animation Pipeline Production Management: Production Pipeline Cinematography: Exploration and Critical Analysis of Films Studies in Visual Narratives for Time-Based Media Project Management for Production Production Tracking Contextual Courses History of Art & Design History of Visual Effects Language & Communication Skills Malaysian Studies Business & Marketing Culture & Humanities Survey of S.E.A Art & Culture Personal Development Interpersonal Skills & Development Workshops Career Realities Software Adobe CC Autodesk Maya The Foundry: NukeX SideFX: Houdini Pixologic ZBrush Substance Painter Autodesk Shotgun",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (3Cs) including a Pass in Bahasa Melayu and Sejarah.  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (3Cs).  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (3Bs).  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Game Design",
+      "field_of_study": "Multimedia Design",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits (3Cs).  Pass an interview or an assessment of a portfolio conducted by The One Academy.",
+        "UEC": "3 credits (3Bs).  Pass an interview or an assessment of a portfolio conducted by The One Academy.",
+        "STPM": "Grade C (GP 2.0) in any subjects.  Pass an interview or an assessment of a portfolio conducted by The One Academy."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 22050,
+        "tuition_fee": 109400
+      },
+      "course_content": {
+        "core": "Year 1, Semester 1 Introduction to Computing Systems Design Process \nProbability and Statistics for Designers Introduction to Computer Technology and Programming Malaysian Studies 2 (MPU Compulsory) Bahasa Melayu Komunikasi 1 (MPU Compulsory) Year 1, Semester 2 Object Oriented Programming for Designers Fundamentals of Interactive Design Fundamentals of Technical Design Introduction to Psychology Language & Communication Skills Year 1, Semester 3 Introduction to 2D Raster Graphics Systems Design Fundamentals I Game Production I: Pre-Production Phase Year 2, Semester 1 Programming Game Engines for Designers Level Design for 2D Games Introduction to Cognitive Psychology Game Production I: Production Phase Business and Marketing (MPU Compulsory) Bahasa Kebangsaan A (MPU Compulsory for Malaysian Student without Credit in BM) Year 2, Semester 2 Technical Design of 2D Games Fundamentals of User Experience Design I Methodologies for User Research I Game Production I: Post-Production Phase Law of Creative Industry Year 2, Semester 3 Introduction to 3D Digital Art Game Production II: Pre-Production Phase Culture and Humanities (MPU Compulsory) Year 3, Semester 1 Systems Design Fundamentals II Level Design for 3D Games Fundamentals of Sound Design Game Production II: Production Phase Community Service (MPU Compulsory) Year 3, Semester 2 Fundamentals of User Experience Design II Methodologies for User Research II Analysis of Game Systems Narrative Design: Building Interactive Stories Game Production II: Post-Production Phase Website Design: Portfolio Building Year 3, Semester 3 Year 3, Semester 3 Internship (8 - 12 weeks)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (3Cs).  Pass an interview or an assessment of a portfolio conducted by The One Academy."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (3Bs).  Pass an interview or an assessment of a portfolio conducted by The One Academy."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (GP 2.0) in any subjects.  Pass an interview or an assessment of a portfolio conducted by The One Academy."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Interior Architecture and Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "May"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits including pass in Bahasa Melayu, Sejarah， English and Mathematics.",
+        "O-Level": "Pass with at least 5 Grade C including pass in English and Mathematics.",
+        "UEC": "Pass with 5Bs including pass in English and Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 2700,
+        "tuition_fee": 26400
+      },
+      "course_content": {
+        "core": "Semester 1 (14 Weeks) Freehand Drawing 1 Interior Colour Studies Interior Design Fundamental Studies Interior Design Principles Interior Visuals Interior Computer Graphic 1 Study Skills 1 Semester 2 (14 Weeks) Architectural Drafting Basic Design Studio 1 Building Design Principles Freehand Drawing 2 Interior Computer Graphic 2 Study Skills 2 Semester 3 (14 Weeks) Basic Design Studio 2 Design & Business Management Design Research Interior Science & System Freehand Drawing 3 Study Skills 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "Sejarah",
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 credits including pass in Bahasa Melayu, Sejarah， English and Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 Grade C including pass in English and Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5Bs including pass in English and Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Communication Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "TOA, Bandar Sunway",
+      "intakes": [
+        "May"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits including pass in Bahasa Melayu, Sejarah and English.",
+        "O-Level": "Pass with at least 5 Grade C including pass in English.",
+        "UEC": "Pass with 5Bs including pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 2700,
+        "tuition_fee": 22900
+      },
+      "course_content": {
+        "core": "Sem 1 Design Fundamentals & Art Finishing Figure Fundamentals Studies Drawing Fundamentals Computer Graphics 1 (Illustrator) Study Skills 1 Sem 2 Dimensional Design Studies Figure Anatomy Studies Colour Studies History of Art Computer Graphics 2 (Photoshop) Study Skills 2 Sem 3 Digital Design & Imaging *[BA(Hons) Digital Media Design Pathway] Time Based Media Studies *[BA(Hons) Graphic Design Pathway] Letterforms and Typography Perspective Studies History of Modern Art Study Skills 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "Sejarah",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 credits including pass in Bahasa Melayu, Sejarah and English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 Grade C including pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5Bs including pass in English."
+          }
+        ]
+      }
+    }
+  ]
+}

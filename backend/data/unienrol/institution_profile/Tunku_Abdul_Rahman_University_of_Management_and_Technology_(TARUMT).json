@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 6995,
   "malaysia_rank": 48,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/TAR+UC/KL+CAMPUS/Campus-Surroundings/01e_KL_Main_Campus_TAR_UC_Setapak_Bangunan_Tun_Tan_Siew_Sin.png"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Accounting (Honours)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -173,11 +176,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Commerce (Honours)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -343,7 +347,8 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Business (Honours) Accounting and Finance",
@@ -497,7 +502,8 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Business (Honours) Accounting and Finance",
@@ -651,7 +657,8 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Business (Honours) Accounting and Finance",
@@ -805,7 +812,8 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Business (Honours) Accounting and Finance",
@@ -947,7 +955,8 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Business (Hons.) Accounting and Finance",
@@ -1101,11 +1110,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Science in Architecture (Honours)",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jul"
@@ -1360,11 +1370,12 @@
             "text": "Minimum CGPA 2.00.  SPM Credit/O Level Grade C/ UEC Grade B in one mathematics subject\nSPM Pass/O Level Grade E (Pass)/UEC Grade C in English Language**\nPass in Portfolio Interview conducted by TAR UMT"
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "Bachelor of Banking and Finance (Honours)",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -1526,11 +1537,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Bioscience with Chemistry",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -1745,11 +1757,12 @@
             "text": "Foundation in Arts. Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics\npass in English Language"
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Bachelor of Communication (Honours) in Broadcasting",
-      "field_of_study": "Broadcasting",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -1881,11 +1894,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nCredit in English"
           }
         ]
-      }
+      },
+      "course": "Broadcasting"
     },
     {
       "program_name": "Bachelor of Business Administration (Honours)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun",
@@ -2022,11 +2036,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Honours)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -2164,11 +2179,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Honours)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Segamat",
       "intakes": [
         "Jun",
@@ -2313,11 +2329,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Honours)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun",
@@ -2454,11 +2471,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration (Honours)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Alamesra",
       "intakes": [
         "May",
@@ -2645,11 +2663,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Corporate Administration (Honours)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -2786,11 +2805,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor in Applied Business Analytics (Honours)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun",
@@ -2928,11 +2948,12 @@
             "text": "TAR UMT Foundation in Business.  Credit in SPM Bahasa Melayu"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Business (Honours) in Business Analytics",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -3078,11 +3099,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Analytical Chemistry",
-      "field_of_study": "Chemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -3265,11 +3287,12 @@
             "text": "Foundation Arts. Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics\npass in English Language"
           }
         ]
-      }
+      },
+      "course": "Chemistry"
     },
     {
       "program_name": "Bachelor of Communication (Honours) in Media Studies",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -3401,11 +3424,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nCredit in English"
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Computer Science (Honours) in Data Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -3616,11 +3640,12 @@
             "text": "Foundation in Computing. CGPA 2.50.  Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test.\nCredit in Mathematics at SPM-level or equivalent\nPass in English Language at SPM-level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Computer Science (Honours) in Data Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -3839,11 +3864,12 @@
             "text": "Foundation in Computing. CGPA 2.50.  Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test.\nCredit in Mathematics at SPM-level or equivalent\nPass in English Language at SPM-level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons) in Interactive Software Technology",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun"
@@ -4054,11 +4080,12 @@
             "text": "Foundation in Computing. CGPA 2.50.  Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test.\nPass in English Language at SPM-level or equivalent:"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Construction Management and Economics (Honours)",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -4227,11 +4254,12 @@
             "text": "Foundation in Arts (Track A).  SPM Credit/O Level Grade C/ UEC Grade B in one mathematics subject\nSPM Pass/O Level Grade E (Pass)/ UEC Grade C in English Language**"
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "Bachelor of Gastropreneurship (Honours)",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun",
@@ -4369,11 +4397,12 @@
             "text": "Foundation in Arts.  SPM-Level or equivalent:\npass in English"
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Bachelor of Early Childhood Education (Honours)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -4511,11 +4540,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Early Childhood Education (Honours)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "TARUMT, Segamat",
       "intakes": [
         "Feb",
@@ -4654,11 +4684,12 @@
             "text": "Foundation in Arts.  SPM-Level or equivalent:\npass in English"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Economics (Honours)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -4795,11 +4826,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Bachelor of Engineering (Honours) Electrical and Electronics",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -4990,11 +5022,12 @@
             "text": "Foundation in Science. Minimum CGPA 2.00.  Pass in English at SPM level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Electronics Engineering Technology with Honours",
-      "field_of_study": "Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -5170,11 +5203,12 @@
             "text": "Foundation in Engineering.  SPM-level or equivalent:\npass in Mathematics\npass in English Language"
           }
         ]
-      }
+      },
+      "course": "Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Arts in English Studies (Honours)",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -5314,11 +5348,12 @@
             "text": "Pass with CGPA 2.0.  SPM-level or equivalent:\nCredit in English Language"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "Bachelor of Arts (Honours) English with Education",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -5454,11 +5489,12 @@
             "text": "Minimum CGPA 2.00.  SPM-Level or equivalent:\ncredit in English"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "Bachelor of Arts (Honours) English with Drama",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -5602,11 +5638,12 @@
             "text": "Minimum CGPA 2.00.  SPM-Level or equivalent:\ncredit in English"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "Bachelor of Business (Honours) in Entrepreneurship",
-      "field_of_study": "Entrepreneurship",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -5751,11 +5788,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Entrepreneurship"
     },
     {
       "program_name": "Bachelor of Design (Honours) in Fashion Design",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -5890,11 +5928,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in English\npass a portfolio test conducted by TAR UMT."
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Bachelor of Finance (Honours)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -6064,11 +6103,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Finance and Investment (Honours)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -6231,11 +6271,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Finance and Investment (Honours)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun",
@@ -6405,11 +6446,12 @@
             "text": "CGPA 2.5.  SPM or Equivalent\nCredit in Mathematics\nPass in English"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Food Science",
-      "field_of_study": "Food Science",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -6636,11 +6678,12 @@
             "text": "Foundation in Science. Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics\nGrade C and above in AMMS0104 General Mathematics conducted by TAR UMT is accepted for applicants who fail the required mathematics subject at SPM/O Level/UEC\npass in English and a science subject"
           }
         ]
-      }
+      },
+      "course": "Food Science"
     },
     {
       "program_name": "Bachelor of Design (Honours) in Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -6787,11 +6830,12 @@
             "text": "Foundation in Arts. Minimum CGPA 2.00.  SPM-level or equivalent: pass in English\nPass a specified portfolio test conducted by TAR UMT"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Bachelor of Hospitality and Catering Management (Honours)",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jul",
@@ -6923,11 +6967,12 @@
             "text": "Minimum CGPA 2.00.  SPM-Level or equivalent:\ncredit in English"
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Bachelor Of Hospitality Management (Honours)",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -7060,11 +7105,12 @@
             "text": "Minimum CGPA 2.00.  SPM-Level or equivalent:\nPass in English"
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Bachelor of Business (Honours) in Human Resource Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -7216,11 +7262,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Bachelor of Information Systems (Hons) in Enterprise Information Systems",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun"
@@ -7381,11 +7428,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics\npass in English Language"
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) in Software Systems Development",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun",
@@ -7559,11 +7607,12 @@
             "text": "Minimum CGPA 2.00.  Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test.\nCredit in Mathematics at SPM-level or equivalent\nPass in English Language at SPM-level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) in Software Systems Development",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Kuantan",
       "intakes": [
         "Jun",
@@ -7737,11 +7786,12 @@
             "text": "Minimum CGPA 2.00.  Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test.\nCredit in Mathematics at SPM-level or equivalent\nPass in English Language at SPM-level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) in Software Systems Development",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Alamesra",
       "intakes": [
         "Jun"
@@ -7902,11 +7952,12 @@
             "text": "Minimum CGPA 2.00.  Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test.\nCredit in Mathematics at SPM-level or equivalent\nPass in English Language at SPM-level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) in Software Systems Development",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -8069,11 +8120,12 @@
             "text": "Minimum CGPA 2.00.  Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test.\nCredit in Mathematics at SPM-level or equivalent\nPass in English Language at SPM-level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) in Information Security",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -8247,11 +8299,12 @@
             "text": "Minimum CGPA 2.00.  Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test.\nCredit in Mathematics at SPM-level or equivalent\nPass in English Language at SPM-level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) in Software Systems Development",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun",
@@ -8413,11 +8466,12 @@
             "text": "Minimum CGPA 2.00.  Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test.\nCredit in Mathematics at SPM-level or equivalent\nPass in English Language at SPM-level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) in Software Systems Development",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Segamat",
       "intakes": [
         "Jun"
@@ -8558,11 +8612,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics\npass in English Language"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Interior Architecture (Honours)",
-      "field_of_study": "Interior Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jul"
@@ -8723,11 +8778,12 @@
             "text": "Minimum CGPA 2.00.  SPM Credit/O Level Grade C/ UEC Grade B in one mathematics subject\nSPM Pass/O Level Grade E (Pass)/UEC Grade C in English Language**\nPass in Portfolio Interview conducted by TAR UMT"
           }
         ]
-      }
+      },
+      "course": "Interior Architecture"
     },
     {
       "program_name": "Bachelor of Business (Honours) in International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -8865,11 +8921,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Bachelor of Business (Honours) International Business Management",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jan",
@@ -9007,11 +9064,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Bachelor of Communication (Honours) in Journalism",
-      "field_of_study": "Journalism",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -9143,11 +9201,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nCredit in English"
           }
         ]
-      }
+      },
+      "course": "Journalism"
     },
     {
       "program_name": "Bachelor of Business (Honours) in Logistics and Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -9285,11 +9344,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Bachelor in Logistics and Supply Chain Management (Honours)",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Kuantan",
       "intakes": [
         "Jun",
@@ -9424,11 +9484,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Bachelor of Materials and Manufacturing Technology with Honours",
-      "field_of_study": "Manufacturing Engineering",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -9580,11 +9641,12 @@
             "text": "Relevant Foundation accredited by MQA.  SPM-Level or equivalent:\npass in English"
           }
         ]
-      }
+      },
+      "course": "Manufacturing Engineering"
     },
     {
       "program_name": "Bachelor of Manufacturing and Industrial Technology with Honours",
-      "field_of_study": "Manufacturing Engineering",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -9727,11 +9789,12 @@
             "text": "Relevant Foundation accredited by MQA.  SPM-Level or equivalent:\npass in English"
           }
         ]
-      }
+      },
+      "course": "Manufacturing Engineering"
     },
     {
       "program_name": "Bachelor of Business (Honours) in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -9869,11 +9932,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nPass in Mathematics and English"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor in Marketing (Honours)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "TARUMT, Kuantan",
       "intakes": [
         "Jun",
@@ -10011,11 +10075,12 @@
             "text": "TAR UMT Foundation in Business.  Credit in SPM Bahasa Melayu"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor in Public Relations (Honours)",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -10146,11 +10211,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nCredit in English"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Communication (Honours) in Advertising",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -10282,11 +10348,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nCredit in English"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Public Relations (Honours)",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun"
@@ -10417,11 +10484,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\nCredit in English"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Communication Studies (Honours)",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun",
@@ -10553,11 +10621,12 @@
             "text": "Foundation in Arts. Minimum CGPA 2.00.  SPM-Level or equivalent:\ncredit in English"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Management Mathematics with Computing",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun"
@@ -10729,11 +10798,12 @@
             "text": "Foundation In Science.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering with Honours",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -10882,11 +10952,12 @@
             "text": "Foundation in Science. Minimum CGPA 2.00.  Pass in English at SPM level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Engineering (Honours) Mechatronic",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -11031,11 +11102,12 @@
             "text": "Foundation in Science. Minimum CGPA 2.00.  Pass in English at SPM level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "Bachelor of Creative Multimedia (Honours)",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -11175,11 +11247,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent: pass in English\nPass a specified portfolio test conducted by TAR UMT"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Nutrition",
-      "field_of_study": "Nutrition",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -11425,11 +11498,12 @@
             "text": "Relevant Foundation with minimum GPA 2.33 in two of the following subjects: Biology, Chemsitry, Physics/Mathematics.  SPM-level or equivalent:\npass in Mathematics\nGrade C and above in AMMS0104 General Mathematics conducted by TAR UMT is accepted for applicants who fail the required mathematics subject at SPM/O Level/UEC\npass in English"
           }
         ]
-      }
+      },
+      "course": "Nutrition"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Applied Physics (Instrumentation)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -11615,11 +11689,12 @@
             "text": "Foundation in Science. Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics\npass in English Language\nGrade C and above in AMMS0104 General Mathematics conducted by TAR UMT is accepted for applicants who fail the required mathematics subject at SPM/O Level/UEC"
           }
         ]
-      }
+      },
+      "course": "Physics"
     },
     {
       "program_name": "Bachelor of Real Estate Management (Honours)",
-      "field_of_study": "Property & Real Estate",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -11782,11 +11857,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
           }
         ]
-      }
+      },
+      "course": "Property & Real Estate"
     },
     {
       "program_name": "Bachelor of Social Science (Honours) in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -11949,11 +12025,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Quantity Surveying (Honours)",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -12085,11 +12162,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\nCredit in English"
           }
         ]
-      }
+      },
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "Bachelor of Retail Management (Honours)",
-      "field_of_study": "Retail Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -12227,11 +12305,12 @@
             "text": "TAR UMT Foundation in Business.  Credit in SPM Bahasa Melayu"
           }
         ]
-      }
+      },
+      "course": "Retail Management"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons) in Software Engineering",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -12416,11 +12495,12 @@
             "text": "Foundation in Computing. CGPA 2.50.  Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test.\nCredit in Mathematics at SPM-level or equivalent\nPass in English Language at SPM-level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons) in Software Engineering",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -12607,11 +12687,12 @@
             "text": "Foundation in Computing. CGPA 2.50.  Graduates with CGPA 2.0001 - 2.4999 are required to sit and pass a Qualifying Test.\nCredit in Mathematics at SPM-level or equivalent\nPass in English Language at SPM-level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Sports and Exercise Science",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -12803,11 +12884,12 @@
             "text": "Foundation in Science. Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics\nGrade C and above in AMMS0104 General Mathematics conducted by TAR UMT is accepted for applicants who fail the required mathematics subject at SPM/O Level/UEC\npass in English and a science subject"
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Sports Coaching and Performance Analysis",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -12963,11 +13045,12 @@
             "text": "Foundation in Science (Track A/Track B).  SPM-level or equivalent:\npass in Mathematics\nGrade C and above in AMMS0104 General Mathematics conducted by TAR UMT is accepted for applicants who fail the required mathematics subject at SPM/O Level/UEC\npass in English"
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     },
     {
       "program_name": "Bachelor in Tourism Management (Honours) (Event Management)",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jul",
@@ -13099,11 +13182,12 @@
             "text": "Minimum CGPA 2.00.  SPM-Level or equivalent:\nPass in English"
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Bachelor Of Tourism Management (Honours)",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -13236,11 +13320,12 @@
             "text": "Minimum CGPA 2.00.  SPM-Level or equivalent:\nPass in English"
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun",
@@ -13345,11 +13430,12 @@
             "text": "3 Grade B including Mathematic and pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Kuantan",
       "intakes": [
         "Jun",
@@ -13454,11 +13540,12 @@
             "text": "3 Grade B including Mathematic and pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Alamesra",
       "intakes": [
         "Jun",
@@ -13563,11 +13650,12 @@
             "text": "3 Grade B including Mathematic and pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Segamat",
       "intakes": [
         "Jun",
@@ -13672,11 +13760,12 @@
             "text": "3 Grade B including Mathematic and pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -13781,11 +13870,12 @@
             "text": "3 Grade B including Mathematic and pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun",
@@ -13890,11 +13980,12 @@
             "text": "3 Grade B including Mathematic and pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma In Aquaculture",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Segamat",
       "intakes": [
         "Jun",
@@ -14009,11 +14100,12 @@
             "text": "Grade B in 3 relevant subjects and grade C in English and one science subject."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Diploma in Manufacturing Technology",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -14116,11 +14208,12 @@
             "text": "3 Grade B in the relevant subjects including Maths and One Science/Technical subject and pass in English."
           }
         ]
-      }
+      },
+      "course": "Automotive Technology"
     },
     {
       "program_name": "Diploma in Banking and Finance",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Alamesra",
       "intakes": [
         "Jun"
@@ -14224,11 +14317,12 @@
             "text": "3 Grade B including Mathematic and pass in English."
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "Diploma in Banking & Finance",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -14333,11 +14427,12 @@
             "text": "3 Grade B including Mathematic and pass in English."
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "Diploma in Banking & Finance",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -14441,11 +14536,12 @@
             "text": "3 Grade B including Mathematic and pass in English."
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "Diploma in Science",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -14562,11 +14658,12 @@
             "text": "Grade B in 3 relevant subjects including Biology or Chemistry and Grade C in Advanced Mathematics (I or II) and English.  Grade C and above in AMMS0104 General Mathematics conducted by TAR UMT is accepted for applicants who fail the required mathematics subject at SPM/O Level/UEC"
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Diploma in Broadcast Communication",
-      "field_of_study": "Broadcasting",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun"
@@ -14669,11 +14766,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Broadcasting"
     },
     {
       "program_name": "Diploma in Broadcast Communication",
-      "field_of_study": "Broadcasting",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -14776,11 +14874,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Broadcasting"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun",
@@ -14882,11 +14981,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Kuantan",
       "intakes": [
         "Jun",
@@ -14988,11 +15088,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Alamesra",
       "intakes": [
         "Jun",
@@ -15094,11 +15195,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Segamat",
       "intakes": [
         "Jun",
@@ -15200,11 +15302,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -15306,11 +15409,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -15411,11 +15515,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Computer Science (Data Science)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Segamat",
       "intakes": [
         "Jun"
@@ -15558,11 +15663,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics/Advanced Mathematics (I or II) and Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun"
@@ -15701,11 +15807,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics/Advanced Mathematics (I or II) and Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -15848,11 +15955,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics/Advanced Mathematics (I or II) and Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Building",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -15963,11 +16071,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics AND pass in English."
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "Diploma in Building",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jan",
@@ -16079,11 +16188,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics AND pass in English."
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "Diploma in Social Science (Counselling)",
-      "field_of_study": "Counselling",
+      "field_of_study": "Language and Social Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -16222,11 +16332,12 @@
             "text": "Grade B in 3 relevant subjects including one Mathematics subject and one science subject AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Counselling"
     },
     {
       "program_name": "Diploma in Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jul",
@@ -16328,11 +16439,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Early Childhood Special Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -16438,11 +16550,12 @@
             "text": "3 Grade B in the relevant subjects and pass in English."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -16490,11 +16603,12 @@
             "text": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum of Grade C (GP 2.0) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "TARUMT, Kuantan",
       "intakes": [
         "Feb",
@@ -16542,11 +16656,12 @@
             "text": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum of Grade C (GP 2.0) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "TARUMT, Alamesra",
       "intakes": [
         "Jun",
@@ -16593,11 +16708,12 @@
             "text": "A pass in Sijil Tinggi Persekolahan Malaysia (STPM) with a minimum of Grade C (GP 2.0) in any subject or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Business Economics",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -16699,11 +16815,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Diploma of Electronic Engineering",
-      "field_of_study": "Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -16806,11 +16923,12 @@
             "text": "3 Grade B in the relevant subjects in the relevant subjects including Maths and One Science subject (Chem/Phy) and pass in English."
           }
         ]
-      }
+      },
+      "course": "Electronic Engineering"
     },
     {
       "program_name": "Diploma of Electronic Engineering",
-      "field_of_study": "Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun",
@@ -16913,11 +17031,12 @@
             "text": "3 Grade B in the relevant subjects including Maths and One Science subject (Chem/Phy) and pass in English."
           }
         ]
-      }
+      },
+      "course": "Electronic Engineering"
     },
     {
       "program_name": "Diploma in Entrepreneurship",
-      "field_of_study": "Entrepreneurship",
+      "field_of_study": "Business",
       "location": "TARUMT, Segamat",
       "intakes": [
         "Jun"
@@ -17018,11 +17137,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Entrepreneurship"
     },
     {
       "program_name": "Diploma in Event Management",
-      "field_of_study": "Event Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jul",
@@ -17124,11 +17244,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Event Management"
     },
     {
       "program_name": "Diploma in Fashion Design",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -17225,11 +17346,12 @@
             "text": "Grade B in 3 relevant subjects and Grade C in English.  Additional Requirement\nMust pass a specified portfolio test to be conducted by TAR UMT"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Finance & Investment",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -17334,11 +17456,12 @@
             "text": "3 Grade B including Mathematic and pass in English."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Diploma in Finance & Investment",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun",
@@ -17443,11 +17566,12 @@
             "text": "3 Grade B including Mathematic and pass in English."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Diploma in Food Science",
-      "field_of_study": "Food Science",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -17566,11 +17690,12 @@
             "text": "Grade B in 3 relevant subjects including Advanced Mathematics (I or II) and Chemistry and Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Food Science"
     },
     {
       "program_name": "Diploma in Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun"
@@ -17691,11 +17816,12 @@
             "text": "4 Grade B in the relevant subjects and pass in English.  SPM Pass/O Level Grade E (Pass) /UEC Grade C in English Language\nPass a specified portfolio test conducted by TAR UMT\nGrade C and above in AELE0364 English Language conducted by TAR UMT is accepted as having fulfilled the English Language requirement for applicants who fail English Language at SPM/O Level/UEC."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jul",
@@ -17797,11 +17923,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Alamesra",
       "intakes": [
         "Jul",
@@ -17903,11 +18030,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Segamat",
       "intakes": [
         "Jul",
@@ -18009,11 +18137,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jul",
@@ -18115,11 +18244,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Human Resource Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -18221,11 +18351,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Diploma in Human Resource Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -18326,11 +18457,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun"
@@ -18437,11 +18569,12 @@
             "text": "Grade B in 3 relevant subjects including including Mathematics or Advanced Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Kuantan",
       "intakes": [
         "Jun"
@@ -18548,11 +18681,12 @@
             "text": "Grade B in 3 relevant subjects including including Mathematics or Advanced Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Alamesra",
       "intakes": [
         "Jun"
@@ -18659,11 +18793,12 @@
             "text": "Grade B in 3 relevant subjects including including Mathematics or Advanced Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Segamat",
       "intakes": [
         "Jun"
@@ -18770,11 +18905,12 @@
             "text": "Grade B in 3 relevant subjects including including Mathematics or Advanced Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun"
@@ -18893,11 +19029,12 @@
             "text": "Grade B in 3 relevant subjects including including Mathematics or Advanced Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -19004,11 +19141,12 @@
             "text": "Grade B in 3 relevant subjects including including Mathematics or Advanced Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Diploma in International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -19110,11 +19248,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Diploma in International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun",
@@ -19216,11 +19355,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Diploma in Journalism",
-      "field_of_study": "Journalism",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -19324,11 +19464,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Journalism"
     },
     {
       "program_name": "Diploma in Logistics & Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -19418,11 +19559,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Logistics & Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Kuantan",
       "intakes": [
         "Jun",
@@ -19517,11 +19659,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Logistics and Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -19622,11 +19765,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Logistics and Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Kuantan",
       "intakes": [
         "Jun",
@@ -19717,11 +19861,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in E-Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun",
@@ -19823,11 +19968,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun"
@@ -19928,11 +20074,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "TARUMT, Alamesra",
       "intakes": [
         "Jun"
@@ -20033,11 +20180,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in E-Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -20139,11 +20287,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -20245,11 +20394,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in E-Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -20350,11 +20500,12 @@
             "text": "3 Grade B in the relevant subjects and pass in Mathematic and English."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in E-Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "TARUMT, Kuantan",
       "intakes": [
         "Jun",
@@ -20466,11 +20617,12 @@
             "text": "Pass SPM/O level Grade E (Pass) in Mathematics/ UEC Grade C in one mathematics subject and English Language"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Public Relations",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun"
@@ -20573,11 +20725,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Advertising",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -20681,11 +20834,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Media Studies",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -20789,11 +20943,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Public Relations",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun"
@@ -20896,11 +21051,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Mass Communication (Public Relations)",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -21003,11 +21159,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Communication and Media Studies",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun",
@@ -21111,11 +21268,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Mechanical Engineering",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -21218,11 +21376,12 @@
             "text": "3 Grade B in the relevant subjects including Maths and One Science subject (Chem/Phy) and pass in English."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Diploma in Product Development Technology",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -21340,11 +21499,12 @@
             "text": "3 Grade B in the relevant subjects including Maths and One Science/Technical subject and pass in English."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Diploma of Mechatronics Engineering",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -21447,11 +21607,12 @@
             "text": "3 Grade B in the relevant subjects including Maths and One Science subject (Chem/Phy) and pass in English."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "Diploma in Multimedia Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun"
@@ -21552,11 +21713,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English.  Additional Requirement\nMust pass a specified portfolio test to be conducted by TAR UMT"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Real Estate Management",
-      "field_of_study": "Property & Real Estate",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -21654,11 +21816,12 @@
             "text": "3 Grade B in the relevant subjects which must include one Mathematics subject and pass in English."
           }
         ]
-      }
+      },
+      "course": "Property & Real Estate"
     },
     {
       "program_name": "Diploma in Quantity Surveying",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -21766,11 +21929,12 @@
             "text": "3 Grade B in the relevant subjects which must include one Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "Diploma in Quantity Surveying",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Feb",
@@ -21871,11 +22035,12 @@
             "text": "3 Grade B in the relevant subjects which must include one Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "Diploma in Retail Management",
-      "field_of_study": "Retail Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jun",
@@ -21956,11 +22121,12 @@
             "text": "3 Grade B in the relevant subjects."
           }
         ]
-      }
+      },
+      "course": "Retail Management"
     },
     {
       "program_name": "Diploma in Software Engineering",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Alamesra",
       "intakes": [
         "Jun"
@@ -22079,11 +22245,12 @@
             "text": "Grade B in 3 relevant subjects including including Mathematics or Advanced Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Diploma in Sport and Exercise Science",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -22211,11 +22378,12 @@
             "text": "Grade B in 3 relevant subjects and Grade C in English and one Mathematics subject."
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     },
     {
       "program_name": "Diploma in Tourism Management",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Kampar",
       "intakes": [
         "Jun"
@@ -22316,11 +22484,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Diploma in Tourism Management",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jul",
@@ -22422,11 +22591,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Foundation in Business (progression to Finance course/s)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -22537,11 +22707,12 @@
             "text": "3 Grade B in the relevant subjects which must include, Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (progression to Social Science course/s)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -22645,11 +22816,12 @@
             "text": "Pass with min. 3Bs including Mathematics, any 1 science subject and English*."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Computing (progression to IT course/s)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -22752,11 +22924,12 @@
             "text": "3 Grade B including one Mathematics subject and Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun",
@@ -22841,11 +23014,12 @@
             "text": "3 Grade B including pass in Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Computing (progression to Computer Science course/s)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Tanjung Bungah",
       "intakes": [
         "Jun"
@@ -22941,11 +23115,12 @@
             "text": "3 Grade B including Advanced Mathematics (I or II) and English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (progression to Construction Management and Real Estate course/s)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -23046,11 +23221,12 @@
             "text": "Pass with min. 3Bs including Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (progression to Creative Arts course/s)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -23161,11 +23337,12 @@
             "text": "3 Grade B in the relevant subjects.  Additional Requirements\nUEC or equivalent Grade C in English Language**\nPass a specified portfolio test and interview conducted by TAR UC except for Bachelor of Creative Multimedia\n(Honours)\n **Grade C and above in AELE0364 English Language conducted by TAR UC is accepted as having fulfilled the English Language requirement for\napplicants who fail English Language at SPM/O Level/UEC."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Computing (progression to IT course/s)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -23271,11 +23448,12 @@
             "text": "3 Grade B including one Mathematics subject and Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -23361,11 +23539,12 @@
             "text": "3 Grade B including pass in Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (progression to Communication course/s)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -23448,11 +23627,12 @@
             "text": "Pass with min. 3Bs including English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Computing (progression to Computer Science course/s)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -23554,11 +23734,12 @@
             "text": "3 Grade B including Advanced Mathematics (I or II) and grade C in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (progression to Humanities course/s)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -23641,11 +23822,12 @@
             "text": "3 Grade B in the relevant subjects which must include, English Language.  Additional Requirement\nMUET Band 4/IELTS Band Score 6.0/equivalent is required for progression to Bachelor Degree"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (progression to Quantity Surveying & Architecture course/s)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -23731,11 +23913,12 @@
             "text": "Pass with min. 3Bs including Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -23863,11 +24046,12 @@
             "text": "3 Grade Bin the relevant subjects which must include Mathematics and 2 Science subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Engineering)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -23953,11 +24137,12 @@
             "text": "3 Grade B in the relevant subjects which must include one mathematics subject and Physics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Nutrition)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Feb",
@@ -24079,7 +24264,8 @@
             "text": "3 Grade B in the relevant subjects which must include Biology, Chemistry and Physics/one mathematics subject and pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Postgraduate Diploma in Education",
@@ -24122,7 +24308,8 @@
             "text": "-A Bachelor's degree with minimum CGPA of 2.75 or equivalent grade which is approved by the Senate; OR -A Bachelor's degree not meeting CGPA of 2.75 but above 2.50, can be accepted subject to rigorous internal assessment which is approved by the Senate;OR -A Bachelor's degree with CGPA lower than 2.50 with 5 years of relevant working experience in the field of study which is approved by the Senate.."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Investment Management",
@@ -24174,7 +24361,8 @@
             "text": "A Bachelor's Degree in a related field with a CGPA below 2.75 out of 4.00 but above 2.50 out of 4.00 or its equivalent qualification can be accepted.  Relevant working experience, OR\nSubject to a rigorous internal assessment, OR\nSubject to passing pre-requisite courses"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Master of Accounting and Finance",
@@ -24226,11 +24414,12 @@
             "text": "A Bachelor's Degree (Level 6/MQF) in accounting or a related field below a CGPA of 2.50 can be accepted.  Subject to a minimum of 5 years working experience in any relevant field."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Master of Architecture",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -24265,11 +24454,12 @@
             "text": "A recognised Lembaga Arkitek Malaysia (LAM) Part 1 Degree in Architecture or the equivalent. Subject to a minimum of 5 years working experience in any relevant field."
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "Master of Arts in Communication",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -24341,11 +24531,12 @@
             "text": "-A Bachelor's degree or its equivalent, with a minimum CGPA of 2.75, as accepted by the Senate; OR -A Bachelor's degree or its equivalent, with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment;OR -A Bachelor's degree or its equivalent, not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in a relevant field.."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Master of Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -24404,11 +24595,12 @@
             "text": "A Bachelor’s degree (Level 6, MQF) in Computing or related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 3.00 can be accepted.  Subject to 5 years of relevant working experience in the field of study which is approved by the Tunku Abdul Rahman University of Management and Technology Senate"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Master of Science in Construction Project Management",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -24496,11 +24688,12 @@
             "text": "-Candidates without a qualification in the related fields or relevant working experience must undergo appropriate pre-requisites courses determined by the HEP and meet the minimum CGPA based on (i) to (iii).."
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "Master of Science in Construction Contract Management",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -24545,11 +24738,12 @@
             "text": "-A Bachelor's Degree in Built Environment such as Architecture, Building, Construction Management, Property Management, Estate Management, Quantity Surveying, Civil Engineering, Building Technology Management, or other related field, with a minimum CGPA of 2.50 or equivalent as accepted by the Senate; OR -A Bachelor's Degree in Built Environment such as Architecture, Building, Construction Management, Property Management, Estate Management, Quantity Surveying, Civil Engineering, Building Technology Management, or other related field, with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted subject to rigorous internal assessment. **Candidates without a qualification or working experience in Built Environment such as Architecture, Building, Construction Management, Property Management, Estate Management, Quantity Surveying, Civil Engineering, Building Technology Management, or other related field, must undergo appropriate prerequisite courses and meet the minimum CGPA based on the above.."
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "Master of Science in Built Environment",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -24603,11 +24797,12 @@
             "text": "-A Bachelor's degree in relevant disciplines of Built Environment such as Architecture, Building, Construction Management, Property Management, Estate Management, Quantity Surveying, Civil Engineering, Building Technology Management, or other related field, with minimum CGPA of 2.75 or equivalent, as accepted by the Senate of TAR UMT; OR -A Bachelor's degree in relevant disciplines of Built Environment such as Architecture, Building, Construction Management, Property Management, Estate Management, Quantity Surveying, Civil Engineering, Building Technology Management, or other related field, with minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment; OR -A Bachelor's degree in relevant disciplines of Built Environment such as Architecture, Building, Construction Management, Property Management, Estate Management, Quantity Surveying, Civil Engineering, Building Technology Management, or other related field, not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in the relevant field and rigorous internal assessment. **Candidates without a qualification or working experience in Built Environment such as Architecture, Building, Construction Management, Property Management, Estate Management, Quantity Surveying, Civil Engineering, Building Technology Management, or other related field, must undergo appropriate prerequisite courses and meet the minimum CGPA based on the above.."
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "Master of Counselling",
-      "field_of_study": "Counselling",
+      "field_of_study": "Language and Social Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -24650,11 +24845,12 @@
             "text": "-A Bachelor's degree (Level 6 MQF) in the related field with a minimum CGPA of 2.50 or its equivalent qualification as accepted by the HEP Senate; OR -A Bachelor's degree (Level 6 MQF) in related field or its equivalent but has not achieved a CGPA of 2.50 can be accepted subject to a minimum of 5 years working experience in the relevant field.."
           }
         ]
-      }
+      },
+      "course": "Counselling"
     },
     {
       "program_name": "Master of Science in Economics",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -24716,7 +24912,8 @@
             "text": "-A Bachelor's degree in Built Environment such as Architecture, Building, Construction Management, Property Management, Estate Management, Quantity Surveying, Civil Engineering, Building Technology Management or other related field with a minimum CGPA of 2.50 or equivalent as accepted by the Senate; OR -A Bachelor's degree in Built Environment such as Architecture, Building, Construction Management, Property Management, Estate Management, Quantity Surveying, Civil Engineering, Building Technology Management or other related field with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted subject to rigorous internal assessment.."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Master of Education",
@@ -24761,11 +24958,12 @@
             "text": "-A bachelor’s degree in the field or related fields with a minimum CGPA of 2.50 or equivalent, as accepted by the HEP Senate; or -A bachelor’s degree in the field or related fields or equivalent with minimum CGPA of 2.00 and not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in the relevant field and rigorous internal assessment. -Candidates without a related qualification in the field/s or working experience in the relevant fields must undergo appropriate prerequisite course determined by the HEP and meet the minimum CGPA based on (i) to (iii).."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Arts in English Studies",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -24827,11 +25025,12 @@
             "text": "-A Bachelor's degree or its equivalent, with a minimum CGPA of 2.75, as accepted by the Senate; OR -A Bachelor's degree or its equivalent, with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment;OR -A Bachelor's degree or its equivalent, not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in a relevant field.."
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "Master of Science (Food Science)",
-      "field_of_study": "Food Science",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -24876,11 +25075,12 @@
             "text": "A Bachelor's Degree (Level 6 MQF) in Food Science or Food Science related field not meeting CGPA of 2.50 can be accepted.  Subject to 5 years of relevant working experience in the field of study which is approved by the Tunku Abdul Rahman University of Management and Technology Senate"
           }
         ]
-      }
+      },
+      "course": "Food Science"
     },
     {
       "program_name": "Master of Engineering Science",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -24943,11 +25143,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Master of Science (Life Science)",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25006,11 +25207,12 @@
             "text": "A Bachelor's Degree (Level 6 MQF) with a CGPA lower than 2.50.  Subject to 5 years of relevant working experience in the field of study which is approved by the Tunku Abdul Rahman University of Management and Technology Senate"
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "Master in Hospitality and Tourism Management",
-      "field_of_study": "Hospitality and Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25058,11 +25260,12 @@
             "text": "-A bachelor’s degree in the field or related fields with a minimum CGPA of 2.50 or equivalent, as accepted by the HEP Senate; or -A bachelor’s degree in the field or related fields or equivalent with minimum CGPA of 2.00 and not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in the relevant field and rigorous internal assessment. -Candidates without a related qualification in the field/s or working experience in the relevant fields must undergo appropriate prerequisite course determined by the HEP and meet the minimum CGPA based on (i) to (iii).."
           }
         ]
-      }
+      },
+      "course": "Hospitality and Tourism Management"
     },
     {
       "program_name": "Master of Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25116,11 +25319,12 @@
             "text": "A Bachelor’s degree (Level 6, MQF) in Computing or related fields with a minimum CGPA of 2.00 and not meeting a CGPA of 3.00 can be accepted.  Subject to a thorough rigorous assessment as determined by the HEP"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25173,11 +25377,12 @@
             "text": "-A Bachelor's degree (Level 6 MQF) in Counselling or equivalent with a minimum CGPA of 2.50 out of 4.00; OR -A Bachelor's degree (Level 6 MQF) in any discipline with a minimum CGPA 2.50 out of 4.00 AND related work experience.."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Master of Corporate Governance",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25217,11 +25422,12 @@
             "text": "Subject to a minimum of 5 years working experience in any relevant field."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Master of Science in Mathematical Science",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25280,11 +25486,12 @@
             "text": "A Bachelor's Degree (MQF, Level 6) in a Mathematics related field with a minimum CGPA of 2.50 and not meeting a CGPA of 2.75, can be accepted.  Subject to a thorough rigorous assessment as determined by the HEP"
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jul",
@@ -25324,11 +25531,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Science in Real Estate Development",
-      "field_of_study": "Property & Real Estate",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25369,11 +25577,12 @@
             "text": "-A Bachelor's degree (Level 6, MQF) or its equivalent with a minimum CGPA of 2.50 as accepted by the HEP Senate; OR -A Bachelor's degree (Level 6, MQF) or its equivalent but has not achieved a CGPA of 2.50 which can be accepted subject to a minimum of 5 years working experience in the relevant field."
           }
         ]
-      }
+      },
+      "course": "Property & Real Estate"
     },
     {
       "program_name": "Master of Science in Property and Facilities Management",
-      "field_of_study": "Property & Real Estate",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25417,11 +25626,12 @@
             "text": "-A Bachelor's degree in Built Environment such as Architecture, Building, Construction Management, Property Management, Estate Management, Quantity Surveying, Civil Engineering, Building Technology Management or other related field with a minimum CGPA of 2.50 or equivalent as accepted by the Senate; OR -A Bachelor's degree in Built Environment such as Architecture, Building, Construction Management, Property Management, Estate Management, Quantity Surveying, Civil Engineering, Building Technology Management or other related field with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50 can be accepted subject to rigorous internal assessment.."
           }
         ]
-      }
+      },
+      "course": "Property & Real Estate"
     },
     {
       "program_name": "Master of Arts (Psychology)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25527,11 +25737,12 @@
             "text": "OR - Other relevant equivalent qualifications recognised by Malaysian government as equivalent to the above requirements.."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Master of Science in Sport Science",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25585,11 +25796,12 @@
             "text": "A Bachelor's Degree (Level 6 MQF) or equivalent not meeting a CGPA of 2.50 can be accepted.  Subject to 5 years of relevant working experience in the field of study which is approved by the Tunku Abdul Rahman University of Management and Technology Senate"
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     },
     {
       "program_name": "Doctor of Philosophy in Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25643,11 +25855,12 @@
             "text": "A Master's Degree (MQF, Level 7) in Business field or relevant field as accepted by the University Senate; OR Other qualifications equivalent to a Master's Degree that are accepted by the University Senate..  - Note: Candidates registered for master's degree programmes may apply to convert their candidacy to the doctoral degree programmes within one year after candidate registers for master's degree programmes subjected to: \n- having shown competency and capability in conducting research at doctoral degree level \n- rigorous internal assessment by the HEP; and \n- approval by the HEP Senate. \n- HEP may take the graduates of the Malaysian Qualifications Framework (MQF) Bachelor Level 6 for direct entry into the MQF Level 8 Doctoral programme with the following conditions: \na) The student obtains a first class or equivalent; OR\nb) Obtain a Cumulative Grade Point Average (CGPA) of 3.67 or equivalent from the academic or Technical and Vocational Education and Training (TVET) programmes; and \nc) Neutral internal assessment by the HEP; and \nd) Obtained approval from the HEP Senate and accepted into the MQF Level 8 Doctoral programme candidacy. Students should show appropriate progress during the candidature."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Doctor of Philosophy in Communication",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25691,11 +25904,12 @@
             "text": "A Master's Degree (Level 7 Malaysian Qualifications Framework, MQF) or equivalent as approved by the HEP Senate."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Doctor of Philosophy (Computer Science)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25748,11 +25962,12 @@
             "text": "A minimum of 6 months practical experience after graduating from the first stage of architectural education at a registered architect office, approved architectural-related organization or practice within the building industry; AND\nPass portfolio interview conducted by TAR UMT."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Doctor of Philosophy (Built Environment)",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25802,11 +26017,12 @@
             "text": "-A Bachelor's degree or its equivalent, with a minimum CGPA of 2.75, as accepted by the Senate; OR -A Bachelor's degree or its equivalent, with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment;OR -A Bachelor's degree or its equivalent, not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in a relevant field..  Candidates without a related qualification or working experience in Civil / Materials Engineering, Engineering Technology, Architecture, Built \nEnvironment, or other related field, must undergo approriate prerequisite courses determined by the Senate of TAR UMT.\nA Bachelor's degree with the following conditions:\nA bachelor's degree in the field or related fields with first-class (CGPA of 3.67 or higher) or its equivalent from an academic or Technical and Vocational Education and Training (TVET) programme;\nUndergo internal assessment; and\nany other requirements set by the Senate of TAR UMT\nBachelor's degree candidates who are registered for master's degree programmes may apply to convert to the doctoral degree programmes subjected to the following conditions: \nwithin 1 year for full time and within 2 years for part-time candidates;\nhaving shown competency and capability in conducting research at doctoral level through rigorous internal evaluation by TAR UMT; and\napproval by the Senate of TAR UMT"
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "Doctor of Philosophy in Economics",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25854,11 +26070,12 @@
             "text": "-A Master's Degree (MQF, Level 7) in the field or related field as accepted by the HEP Senate; OR -Other qualifications equivalent to a Master's Degree (MQF, Level 7) recognized by the Government of Malaysia -Candidates without a related qualification in the field/s or working experience in the relevant fields must undergo prerequisite courses determined by the HEP.."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Doctor of Philosophy in Finance",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25914,11 +26131,12 @@
             "text": "- A master's degree in Finance, Banking Insurance or related field as accepted by the HEP Senate; OR - Other equivalent qualification which is recognized by the Malaysia government."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Doctor of Philosophy (Food Science)",
-      "field_of_study": "Food Science",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -25966,11 +26184,12 @@
             "text": "- A Master's Degree (MQF, Level 7) in Food Science or related field accepted by the HEP Senate; OR - Other qualifications equivalent to a Master's Degree that are accepted by the HEP Senate.."
           }
         ]
-      }
+      },
+      "course": "Food Science"
     },
     {
       "program_name": "Doctor of Philosophy in Engineering",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -26014,11 +26233,12 @@
             "text": "-A Master's Degree (MQF, Level 7) in Engineering or Engineering Technology or Engineering Science accepted by the Higher Educational Provider (HEP) Senate; - Other qualifications equivalent to a Master's Degree (MQF, Level 7) in Engineering or Engineering Technology or Engineering Science that are accepted by the HEP Senate..  - Note: Candidates registered for master's degree programmes may apply to convert their candidacy to the doctoral degree programmes within one year after candidate registers for master's degree programmes subjected to: \n- having shown competency and capability in conducting research at doctoral degree level \n- rigorous internal assessment by the HEP; and \n- approval by the HEP Senate. \n- HEP may take the graduates of the Malaysian Qualifications Framework (MQF) Bachelor Level 6 for direct entry into the MQF Level 8 Doctoral programme with the following conditions: \na) The student obtains a first class or equivalent; OR\nb) Obtain a Cumulative Grade Point Average (CGPA) of 3.67 or equivalent from the academic or Technical and Vocational Education and Training (TVET) programmes; and \nc) Neutral internal assessment by the HEP; and \nd) Obtained approval from the HEP Senate and accepted into the MQF Level 8 Doctoral programme candidacy. Students should show appropriate progress during the candidature."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Doctor of Philosophy (Physical Science)",
-      "field_of_study": "General Sciences (Postgraduate)",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -26063,11 +26283,12 @@
             "text": "A Master's Degree (MQF, Level 7) accepted by the Senate."
           }
         ]
-      }
+      },
+      "course": "General Sciences (Postgraduate)"
     },
     {
       "program_name": "Doctor of Philosophy (Life Science)",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -26112,11 +26333,12 @@
             "text": "A Master's Degree accepted by the Senate."
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "Doctor of Philosophy (Information Technology)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -26169,11 +26391,12 @@
             "text": "A Master’s degree (Level 7, MQF) in non-Computing fields with less than FIVE (5) years of working experience in the field of computing or related fields must undergo appropriate prerequisite courses as determined by the HEP and subject to rigorous internal assessment."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Doctor of Philosophy (Mathematical Science)",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -26233,11 +26456,12 @@
             "text": "A Master's Degree (MQF, Level 7) in Mathematics or Statistics or Mathematical Science related as accepted by the Senate."
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "Doctor of Philosophy in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -26321,11 +26545,12 @@
             "text": "-A Master's degree in Psychology at CGPA of 3.0 out of 4.0 or equivalent (Level 7, MQF) as accepted by the HEP Senate; - Other relevant or equivalent qualifications recognised by Malaysian goverment as equivalent to the above requirements.."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Doctor of Philosophy (Sport Science)",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -26370,11 +26595,12 @@
             "text": "A Master's Degree (MQF, Level 7) accepted by the Senate."
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     },
     {
       "program_name": "Master of Science",
-      "field_of_study": "General Sciences (Postgraduate)",
+      "field_of_study": "Science and Mathematics",
       "location": "TARUMT, Setapak",
       "intakes": [
         "Jan",
@@ -26428,7 +26654,8 @@
             "text": "A Bachelor's Degree (Level 6 MQF) with a CGPA lower than 2.50.  Subject to 5 years of relevant working experience in the field of study which is approved by the Tunku Abdul Rahman University of Management and Technology Senate"
           }
         ]
-      }
+      },
+      "course": "General Sciences (Postgraduate)"
     }
   ]
 }

@@ -1,0 +1,313 @@
+{
+  "institution_name": "University of Auckland (UOA)",
+  "institution_country": "New Zealand",
+  "institution_type": "Public",
+  "world_rank": 133,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Foundation Studies (Arts)",
+      "field_of_study": "Foundation in Arts",
+      "location": "University of Auckland International College",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "2 C grades and 2 D grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "A-Level": "48 UCAS points."
+      },
+      "english_requirements": {
+        "IELTS": "5.0 (No band less than 4.5) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 1275,
+        "resource_fee": null,
+        "tuition_fee": 94782
+      },
+      "course_content": {
+        "core": "Core English for Academic Purposes (EAP) Assessment method 50% final examinations + 50% internal assessment Pass mark for elective courses is 50% A number of courses have increased the variety of their assessment methods to include one or more of the following: Digital assessments Collaborative assessments Research-based assessments Practical assessments Assessments that include a presentation (e.g. face-to-face, video) Assessments that give students choices Assessments that are larger, spread over a longer time, and allow for drafting/checking in throughout  Foundation Studies - Fast Track (8-9 months) Entry Requirements SPM : 5B+ (15 points across 5 academic subjects) O-Level : 4C English Requirement IELTS : 5.5 (no band less than 5.0)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "2 C grades and 2 D grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "48 UCAS points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Arts) - Accelerated",
+      "field_of_study": "Foundation in Arts",
+      "location": "University of Auckland International College",
+      "intakes": [
+        "Feb",
+        "Aug"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Aggregate of 12 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "1 B grades and 3 C grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "A-Level": "80 UCAS points."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (no band less than 5.0)"
+      },
+      "fees": {
+        "registration_fee": 1275,
+        "resource_fee": null,
+        "tuition_fee": 71086
+      },
+      "course_content": {
+        "core": "Core English for Academic Purposes (EAP) Assessment method 50% final examinations + 50% internal assessment Pass mark for elective courses is 50% A number of courses have increased the variety of their assessment methods to include one or more of the following: Digital assessments Collaborative assessments Research-based assessments Practical assessments Assessments that include a presentation (e.g. face-toface, video) Assessments that give students choices Assessments that are larger, spread over a longer time, and allow for drafting/checking in throughout",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Aggregate of 12 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "1 B grades and 3 C grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "80 UCAS points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Science)",
+      "field_of_study": "Foundation in Science",
+      "location": "University of Auckland International College",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "2 C grades and 2 D grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "A-Level": "48 UCAS points."
+      },
+      "english_requirements": {
+        "IELTS": "5.0 (No band less than 4.5) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 1275,
+        "resource_fee": null,
+        "tuition_fee": 94782
+      },
+      "course_content": {
+        "core": "Core English for Academic Purposes (EAP) Assessment method 50% final examinations + 50% internal assessment Pass mark for elective courses is 50% A number of courses have increased the variety of their assessment methods to include one or more of the following: Digital assessments Collaborative assessments Research-based assessments Practical assessments Assessments that include a presentation (e.g. face-toface, video) Assessments that give students choices Assessments that are larger, spread over a longer time, and allow for drafting/checking in throughout  Foundation Studies - Fast Track (8-9 months) Entry Requirements SPM : 5B+ (15 points across 5 academic subjects) O-Level : 4C English Requirement IELTS : 5.5 (no band less than 5.0)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "2 C grades and 2 D grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "48 UCAS points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Science) - Accelerated",
+      "field_of_study": "Foundation in Science",
+      "location": "University of Auckland International College",
+      "intakes": [
+        "Feb",
+        "Aug"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Aggregate of 12 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "1 B grades and 3 C grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "A-Level": "80 UCAS points."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (no band less than 5.0)"
+      },
+      "fees": {
+        "registration_fee": 1275,
+        "resource_fee": null,
+        "tuition_fee": 71086
+      },
+      "course_content": {
+        "core": "Core English for Academic Purposes (EAP) Assessment method 50% final examinations + 50% internal assessment Pass mark for elective courses is 50% A number of courses have increased the variety of their assessment methods to include one or more of the following: Digital assessments Collaborative assessments Research-based assessments Practical assessments Assessments that include a presentation (e.g. face-toface, video) Assessments that give students choices Assessments that are larger, spread over a longer time, and allow for drafting/checking in throughout",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Aggregate of 12 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "1 B grades and 3 C grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "80 UCAS points."
+          }
+        ]
+      }
+    }
+  ]
+}

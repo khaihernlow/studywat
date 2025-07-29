@@ -1,0 +1,393 @@
+{
+  "institution_name": "Auckland University of Technology (AUT)",
+  "institution_country": "New Zealand",
+  "institution_type": "Public",
+  "world_rank": 718,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Foundation Studies (Arts)",
+      "field_of_study": "Foundation in Arts",
+      "location": "UP International College Auckland Campus",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Ds in academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "1 C grades and 3 D grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "A-Level": "40 UCAS points.",
+        "UEC": "40 points."
+      },
+      "english_requirements": {
+        "IELTS": "5.0 (No band less than 4.5) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 1275,
+        "resource_fee": 2551,
+        "tuition_fee": 88575
+      },
+      "course_content": {
+        "core": "Core Subjects English I English IIA and IIB Culture & Society Tertiary Study Skills  Foundation Studies - Fast Track (8-9 months) Entry Requirements SPM : 5Cs in 5 academic subjects O-Level : 2C2D in 4 academic subjects English Requirement IELTS : 5.5 (no band less than 5.0) Tuition Fee $ 24,250 NZD",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "5 Ds in academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "1 C grades and 3 D grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "40 UCAS points."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "40 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Arts) - Accelerated",
+      "field_of_study": "Foundation in Arts",
+      "location": "UP International College Auckland Campus",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 C+ in academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "1 B grades and 3 C grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "A-Level": "48 UCAS points.",
+        "UEC": "30 points."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (no band less than 5.0)"
+      },
+      "fees": {
+        "registration_fee": 1275,
+        "resource_fee": 2551,
+        "tuition_fee": 55271
+      },
+      "course_content": {
+        "core": "Core Subjects English I\nEnglish IIA and IIB\nCulture & Society\nTertiary Study Skills English I English IIA and IIB Culture & Society Tertiary Study Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "5 C+ in academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "1 B grades and 3 C grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "48 UCAS points."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "30 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Science)",
+      "field_of_study": "Foundation in Science",
+      "location": "UP International College Auckland Campus",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Ds in academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "1 C grades and 3 D grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "A-Level": "40 UCAS points.",
+        "UEC": "40 points."
+      },
+      "english_requirements": {
+        "IELTS": "5.0 (No band less than 4.5) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 1275,
+        "resource_fee": 2551,
+        "tuition_fee": 88575
+      },
+      "course_content": {
+        "core": "Core Subjects English I English IIA and IIB Culture & Society Tertiary Study Skills  Foundation Studies - Fast Track (8-9 months) Entry Requirements SPM : 5Cs in 5 academic subjects O-Level : 2C2D in 4 academic subjects English Requirement IELTS : 5.5 (no band less than 5.0) Tuition Fee $ 24,250 NZD",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "5 Ds in academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "1 C grades and 3 D grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "40 UCAS points."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "40 points."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Science) - Accelerated",
+      "field_of_study": "Foundation in Science",
+      "location": "UP International College Auckland Campus",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 C+ in academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "1 B grades and 3 C grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "A-Level": "48 UCAS points.",
+        "UEC": "30 points."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (no band less than 5.0)"
+      },
+      "fees": {
+        "registration_fee": 1275,
+        "resource_fee": 2551,
+        "tuition_fee": 55271
+      },
+      "course_content": {
+        "core": "Core Subjects English I\nEnglish IIA and IIB\nCulture & Society\nTertiary Study Skills English I English IIA and IIB Culture & Society Tertiary Study Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "5 C+ in academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "1 B grades and 3 C grades in 4 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "48 UCAS points."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "30 points."
+          }
+        ]
+      }
+    }
+  ]
+}

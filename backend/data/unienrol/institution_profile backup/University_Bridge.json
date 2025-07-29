@@ -1,0 +1,1049 @@
+{
+  "institution_name": "University Bridge",
+  "institution_country": null,
+  "institution_type": null,
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "UBridge Undergraduate Pathway Program (Hospitality & Services Program)",
+      "field_of_study": "American Degree Transfer Programme",
+      "location": "Ubridge, Santa Monica College",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum five (5) credits.",
+        "O-Level": "Pass with minimum five (5) Grade C.",
+        "A-Level": "Minimum 3 Grade B.",
+        "UEC": "Minimum 5 credits (B6) in any 5 subjects."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "45"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 270000
+      },
+      "course_content": {
+        "core": "Personalized Curriculum List of some of the Main Majors Art Studio\nArchitecture\nAsian Studies\nAstronomy\nBiochemistry\nBusiness\nChemistry\nCinema and Digital media\nCommunication\nCriminology, Law and Society\nDance\nDesign\nDrama\nEconomics\nEngineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering\nFilm and Media Studies\nFrench\nGeography\nGeology\nHistory\nHospitality, Tourism and Event Management\nInternational Relations\nKinesiology\nLinguitics\nLiterature\nMathematics\nMusic\nPhilosophy\nPhysics\nPolitics\nPsychology\nPublic Relations\nReligious Studies\nSociology\nSpanish\nStatistics\nTheater\nZoology Art Studio Architecture Asian Studies Astronomy Biochemistry Business Chemistry Cinema and Digital media Communication Criminology, Law and Society Dance Design Drama Economics Engineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering Biomedical Engineering Chemical Engineering Civil Engineering Computer Engineering Electrical Engineering Environmental Engineering Software Engineering Film and Media Studies French Geography Geology History Hospitality, Tourism and Event Management International Relations Kinesiology Linguitics Literature Mathematics Music Philosophy Physics Politics Psychology Public Relations Religious Studies Sociology Spanish Statistics Theater Zoology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UBridge Undergraduate Pathway Program (Biosciences Program)",
+      "field_of_study": "American Degree Transfer Programme",
+      "location": "Ubridge, Santa Monica College",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum five (5) credits in Mathematics and two (2) science subjects.",
+        "O-Level": "Pass with minimum five (5) Grade C in Mathematics and two (2) science subjects.",
+        "A-Level": "Minimum 3 Grade B including Biology and 1 Science subject.",
+        "UEC": "Minimum 5 credits (B6) including Mathematics and at least 2 Science subject."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "45"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 270000
+      },
+      "course_content": {
+        "core": "Personalized Curriculum List of some of the Main Majors Art Studio\nArchitecture\nAsian Studies\nAstronomy\nBiochemistry\nBusiness\nChemistry\nCinema and Digital media\nCommunication\nCriminology, Law and Society\nDance\nDesign\nDrama\nEconomics\nEngineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering\nFilm and Media Studies\nFrench\nGeography\nGeology\nHistory\nHospitality, Tourism and Event Management\nInternational Relations\nKinesiology\nLinguitics\nLiterature\nMathematics\nMusic\nPhilosophy\nPhysics\nPolitics\nPsychology\nPublic Relations\nReligious Studies\nSociology\nSpanish\nStatistics\nTheater\nZoology Art Studio Architecture Asian Studies Astronomy Biochemistry Business Chemistry Cinema and Digital media Communication Criminology, Law and Society Dance Design Drama Economics Engineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering Biomedical Engineering Chemical Engineering Civil Engineering Computer Engineering Electrical Engineering Environmental Engineering Software Engineering Film and Media Studies French Geography Geology History Hospitality, Tourism and Event Management International Relations Kinesiology Linguitics Literature Mathematics Music Philosophy Physics Politics Psychology Public Relations Religious Studies Sociology Spanish Statistics Theater Zoology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum five (5) credits in Mathematics and two (2) science subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum five (5) Grade C in Mathematics and two (2) science subjects."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 Grade B including Biology and 1 Science subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (B6) including Mathematics and at least 2 Science subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UBridge Undergraduate Pathway Program (Business Program)",
+      "field_of_study": "American Degree Transfer Programme",
+      "location": "Ubridge, Santa Monica College",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum five (5) credits.",
+        "O-Level": "Pass with minimum five (5) Grade C.",
+        "A-Level": "Minimum 3 Grade B.",
+        "UEC": "Minimum 5 credits (B6) in any 5 subjects."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "45"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 270000
+      },
+      "course_content": {
+        "core": "Personalized Curriculum List of some of the Main Majors Art Studio\nArchitecture\nAsian Studies\nAstronomy\nBiochemistry\nBusiness\nChemistry\nCinema and Digital media\nCommunication\nCriminology, Law and Society\nDance\nDesign\nDrama\nEconomics\nEngineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering\nFilm and Media Studies\nFrench\nGeography\nGeology\nHistory\nHospitality, Tourism and Event Management\nInternational Relations\nKinesiology\nLinguitics\nLiterature\nMathematics\nMusic\nPhilosophy\nPhysics\nPolitics\nPsychology\nPublic Relations\nReligious Studies\nSociology\nSpanish\nStatistics\nTheater\nZoology Art Studio Architecture Asian Studies Astronomy Biochemistry Business Chemistry Cinema and Digital media Communication Criminology, Law and Society Dance Design Drama Economics Engineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering Biomedical Engineering Chemical Engineering Civil Engineering Computer Engineering Electrical Engineering Environmental Engineering Software Engineering Film and Media Studies French Geography Geology History Hospitality, Tourism and Event Management International Relations Kinesiology Linguitics Literature Mathematics Music Philosophy Physics Politics Psychology Public Relations Religious Studies Sociology Spanish Statistics Theater Zoology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UBridge Undergraduate Pathway Program (Computer Science Program)",
+      "field_of_study": "American Degree Transfer Programme",
+      "location": "Ubridge, Santa Monica College",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5 credits including Mathematics.",
+        "O-Level": "Minimum 5 Grade C including Mathematics.",
+        "A-Level": "Minimum 3 Grade B including 1 Mathematics.",
+        "UEC": "Minimum 5 credits (B6) including Mathematics."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "45"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 270000
+      },
+      "course_content": {
+        "core": "Personalized Curriculum List of some of the Main Majors Art Studio\nArchitecture\nAsian Studies\nAstronomy\nBiochemistry\nBusiness\nChemistry\nCinema and Digital media\nCommunication\nCriminology, Law and Society\nDance\nDesign\nDrama\nEconomics\nEngineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering\nFilm and Media Studies\nFrench\nGeography\nGeology\nHistory\nHospitality, Tourism and Event Management\nInternational Relations\nKinesiology\nLinguitics\nLiterature\nMathematics\nMusic\nPhilosophy\nPhysics\nPolitics\nPsychology\nPublic Relations\nReligious Studies\nSociology\nSpanish\nStatistics\nTheater\nZoology Art Studio Architecture Asian Studies Astronomy Biochemistry Business Chemistry Cinema and Digital media Communication Criminology, Law and Society Dance Design Drama Economics Engineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering Biomedical Engineering Chemical Engineering Civil Engineering Computer Engineering Electrical Engineering Environmental Engineering Software Engineering Film and Media Studies French Geography Geology History Hospitality, Tourism and Event Management International Relations Kinesiology Linguitics Literature Mathematics Music Philosophy Physics Politics Psychology Public Relations Religious Studies Sociology Spanish Statistics Theater Zoology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 Grade C including Mathematics."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 Grade B including 1 Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (B6) including Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UBridge Undergraduate Pathway Program (Music Program)",
+      "field_of_study": "American Degree Transfer Programme",
+      "location": "Ubridge, Santa Monica College",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum five (5) credits.",
+        "O-Level": "Pass with minimum five (5) Grade C.",
+        "A-Level": "Minimum 3 Grade B.",
+        "UEC": "Minimum 5 credits (B6) in any 5 subjects."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "45"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 270000
+      },
+      "course_content": {
+        "core": "Personalized Curriculum List of some of the Main Majors Art Studio\nArchitecture\nAsian Studies\nAstronomy\nBiochemistry\nBusiness\nChemistry\nCinema and Digital media\nCommunication\nCriminology, Law and Society\nDance\nDesign\nDrama\nEconomics\nEngineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering\nFilm and Media Studies\nFrench\nGeography\nGeology\nHistory\nHospitality, Tourism and Event Management\nInternational Relations\nKinesiology\nLinguitics\nLiterature\nMathematics\nMusic\nPhilosophy\nPhysics\nPolitics\nPsychology\nPublic Relations\nReligious Studies\nSociology\nSpanish\nStatistics\nTheater\nZoology Art Studio Architecture Asian Studies Astronomy Biochemistry Business Chemistry Cinema and Digital media Communication Criminology, Law and Society Dance Design Drama Economics Engineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering Biomedical Engineering Chemical Engineering Civil Engineering Computer Engineering Electrical Engineering Environmental Engineering Software Engineering Film and Media Studies French Geography Geology History Hospitality, Tourism and Event Management International Relations Kinesiology Linguitics Literature Mathematics Music Philosophy Physics Politics Psychology Public Relations Religious Studies Sociology Spanish Statistics Theater Zoology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UBridge Undergraduate Pathway Program (Communication Program)",
+      "field_of_study": "American Degree Transfer Programme",
+      "location": "Ubridge, Santa Monica College",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum five (5) credits.",
+        "O-Level": "Pass with minimum five (5) Grade C.",
+        "A-Level": "Minimum 3 Grade B.",
+        "UEC": "Minimum 5 credits (B6) in any 5 subjects."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "45"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 270000
+      },
+      "course_content": {
+        "core": "Personalized Curriculum List of some of the Main Majors Art Studio\nArchitecture\nAsian Studies\nAstronomy\nBiochemistry\nBusiness\nChemistry\nCinema and Digital media\nCommunication\nCriminology, Law and Society\nDance\nDesign\nDrama\nEconomics\nEngineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering\nFilm and Media Studies\nFrench\nGeography\nGeology\nHistory\nHospitality, Tourism and Event Management\nInternational Relations\nKinesiology\nLinguitics\nLiterature\nMathematics\nMusic\nPhilosophy\nPhysics\nPolitics\nPsychology\nPublic Relations\nReligious Studies\nSociology\nSpanish\nStatistics\nTheater\nZoology Art Studio Architecture Asian Studies Astronomy Biochemistry Business Chemistry Cinema and Digital media Communication Criminology, Law and Society Dance Design Drama Economics Engineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering Biomedical Engineering Chemical Engineering Civil Engineering Computer Engineering Electrical Engineering Environmental Engineering Software Engineering Film and Media Studies French Geography Geology History Hospitality, Tourism and Event Management International Relations Kinesiology Linguitics Literature Mathematics Music Philosophy Physics Politics Psychology Public Relations Religious Studies Sociology Spanish Statistics Theater Zoology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum five (5) credits."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum five (5) Grade C."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 Grade B."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (B6) in any 5 subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UBridge Undergraduate Pathway Program (Psychology Program)",
+      "field_of_study": "American Degree Transfer Programme",
+      "location": "Ubridge, Santa Monica College",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum five (5) credits.",
+        "O-Level": "Pass with minimum five (5) Grade C.",
+        "A-Level": "Minimum 3 Grade B.",
+        "UEC": "Minimum 5 credits (B6) in any 5 subjects."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "45"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 270000
+      },
+      "course_content": {
+        "core": "Personalized Curriculum List of some of the Main Majors Art Studio\nArchitecture\nAsian Studies\nAstronomy\nBiochemistry\nBusiness\nChemistry\nCinema and Digital media\nCommunication\nCriminology, Law and Society\nDance\nDesign\nDrama\nEconomics\nEngineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering\nFilm and Media Studies\nFrench\nGeography\nGeology\nHistory\nHospitality, Tourism and Event Management\nInternational Relations\nKinesiology\nLinguitics\nLiterature\nMathematics\nMusic\nPhilosophy\nPhysics\nPolitics\nPsychology\nPublic Relations\nReligious Studies\nSociology\nSpanish\nStatistics\nTheater\nZoology Art Studio Architecture Asian Studies Astronomy Biochemistry Business Chemistry Cinema and Digital media Communication Criminology, Law and Society Dance Design Drama Economics Engineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering Biomedical Engineering Chemical Engineering Civil Engineering Computer Engineering Electrical Engineering Environmental Engineering Software Engineering Film and Media Studies French Geography Geology History Hospitality, Tourism and Event Management International Relations Kinesiology Linguitics Literature Mathematics Music Philosophy Physics Politics Psychology Public Relations Religious Studies Sociology Spanish Statistics Theater Zoology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B6"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UBridge Undergraduate Pathway Program (Engineering Program)",
+      "field_of_study": "American Degree Transfer Programme",
+      "location": "Ubridge, Santa Monica College",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5 credits including Mathematics and Physics / Chemistry.",
+        "O-Level": "Minimum 5 Grade C including Mathematics and Physics / Chemistry.",
+        "A-Level": "Minimum 3 Grade B including Mathematics and Physics/Chemistry.",
+        "UEC": "Minimum 5 credits (B6) including Mathematics and Physics / Chemistry."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "45"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 270000
+      },
+      "course_content": {
+        "core": "Personalized Curriculum List of some of the Main Majors Art Studio\nArchitecture\nAsian Studies\nAstronomy\nBiochemistry\nBusiness\nChemistry\nCinema and Digital media\nCommunication\nCriminology, Law and Society\nDance\nDesign\nDrama\nEconomics\nEngineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering\nFilm and Media Studies\nFrench\nGeography\nGeology\nHistory\nHospitality, Tourism and Event Management\nInternational Relations\nKinesiology\nLinguitics\nLiterature\nMathematics\nMusic\nPhilosophy\nPhysics\nPolitics\nPsychology\nPublic Relations\nReligious Studies\nSociology\nSpanish\nStatistics\nTheater\nZoology Art Studio Architecture Asian Studies Astronomy Biochemistry Business Chemistry Cinema and Digital media Communication Criminology, Law and Society Dance Design Drama Economics Engineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering Biomedical Engineering Chemical Engineering Civil Engineering Computer Engineering Electrical Engineering Environmental Engineering Software Engineering Film and Media Studies French Geography Geology History Hospitality, Tourism and Event Management International Relations Kinesiology Linguitics Literature Mathematics Music Philosophy Physics Politics Psychology Public Relations Religious Studies Sociology Spanish Statistics Theater Zoology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits including Mathematics and Physics / Chemistry."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 Grade C including Mathematics and Physics / Chemistry."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 Grade B including Mathematics and Physics/Chemistry."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (B6) including Mathematics and Physics / Chemistry."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UBridge Undergraduate Pathway Program (Health Science Program)",
+      "field_of_study": "American Degree Transfer Programme",
+      "location": "Ubridge, Santa Monica College",
+      "intakes": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum five (5) credits in Mathematics and one (1) science subjects.",
+        "O-Level": "Pass with minimum five (5) Grade C in Mathematics and one (1) science subjects.",
+        "A-Level": "Minimum 3 Grade B including Mathematics and 1 Science subject.",
+        "UEC": "Minimum 5 credits (B6) including Mathematics and at least 1 Science subject."
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "45"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 270000
+      },
+      "course_content": {
+        "core": "Personalized Curriculum List of some of the Main Majors Art Studio\nArchitecture\nAsian Studies\nAstronomy\nBiochemistry\nBusiness\nChemistry\nCinema and Digital media\nCommunication\nCriminology, Law and Society\nDance\nDesign\nDrama\nEconomics\nEngineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering\nFilm and Media Studies\nFrench\nGeography\nGeology\nHistory\nHospitality, Tourism and Event Management\nInternational Relations\nKinesiology\nLinguitics\nLiterature\nMathematics\nMusic\nPhilosophy\nPhysics\nPolitics\nPsychology\nPublic Relations\nReligious Studies\nSociology\nSpanish\nStatistics\nTheater\nZoology Art Studio Architecture Asian Studies Astronomy Biochemistry Business Chemistry Cinema and Digital media Communication Criminology, Law and Society Dance Design Drama Economics Engineering\nBiochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering\nBiomedical Engineering\nChemical Engineering\nCivil Engineering\nComputer Engineering\nElectrical Engineering\nEnvironmental Engineering\nSoftware Engineering Biochemical Engineering Biomedical Engineering Chemical Engineering Civil Engineering Computer Engineering Electrical Engineering Environmental Engineering Software Engineering Film and Media Studies French Geography Geology History Hospitality, Tourism and Event Management International Relations Kinesiology Linguitics Literature Mathematics Music Philosophy Physics Politics Psychology Public Relations Religious Studies Sociology Spanish Statistics Theater Zoology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum five (5) credits in Mathematics and one (1) science subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum five (5) Grade C in Mathematics and one (1) science subjects."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 Grade B including Mathematics and 1 Science subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (B6) including Mathematics and at least 1 Science subject."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2338 @@
+{
+  "institution_name": "MILA University",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Bachelor of Accounting (Honours)",
+      "field_of_study": "Accounting",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with Grade C in 2 subjects.  Credit in Maths and pass in English at SPM or equivalent",
+        "UEC": "Pass with minimum 5 Grade B including Mathematics.",
+        "Diploma": "Pass diploma with minimum CGPA 2.50.  Credit in Maths and pass in English at SPM or equivalent",
+        "STPM": "Pass with Grade C+ in 2 subjects.  Credit in Maths and pass in English at SPM or equivalent",
+        "Foundation": "Pass foundation with minimum CGPA 2.50.  Credit in Maths and pass in English at SPM or equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 2100,
+        "tuition_fee": 81360
+      },
+      "course_content": {
+        "core": "Year 1 English for Professional Communication\nFinancial Accounting\nPrinciples of Management\nPrinciples of Marketing\nEntrepreneurship\nCo-Curriculum\nAppreciation of Ethics and Civilisations (Penghayatan Etika dan Peradaban) or Malay Communication II (Bahasa Melayu Komunikasi 2)\nManagement Accounting I\nMicroeconomics\nBusiness Mathematics\nAccounting Information Systems I\nEnglish for Management\nPhilosophy and Current Issues\nIntegrity and Anti-Corruption English for Professional Communication Financial Accounting Principles of Management Principles of Marketing Entrepreneurship Co-Curriculum Appreciation of Ethics and Civilisations (Penghayatan Etika dan Peradaban) or Malay Communication II (Bahasa Melayu Komunikasi 2) Management Accounting I Microeconomics Business Mathematics Accounting Information Systems I English for Management Philosophy and Current Issues Integrity and Anti-Corruption Year 2 Management Accounting II\nFinancial Accounting and Reporting I\nAccounting Information Systems II\nTaxation I\nMacroeconomics\nBusiness Finance\nAdvanced Management Accounting\nFinancial Accounting and Reporting II\nOrganizational Behaviour\nOperations Management\nCorporate and Business Law\nElective Subject I Management Accounting II Financial Accounting and Reporting I Accounting Information Systems II Taxation I Macroeconomics Business Finance Advanced Management Accounting Financial Accounting and Reporting II Organizational Behaviour Operations Management Corporate and Business Law Elective Subject I  Year 3 Auditing I\nIntegrated Case Studies\nFinancial Accounting and Reporting III\nForensic Accounting\nCompany Law\nAuditing II\nEthics and Corporate Governance\nAccounting Theory\nFinancial Accounting and Reporting IV\nTaxation II\nElective Subject II Auditing I Integrated Case Studies Financial Accounting and Reporting III Forensic Accounting Company Law Auditing II Ethics and Corporate Governance Accounting Theory Financial Accounting and Reporting IV Taxation II Elective Subject II  Year 4 Practical Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 2 subjects.  Credit in Maths and pass in English at SPM or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum 5 Grade B including Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass diploma with minimum CGPA 2.50.  Credit in Maths and pass in English at SPM or equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C+ in 2 subjects.  Credit in Maths and pass in English at SPM or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass foundation with minimum CGPA 2.50.  Credit in Maths and pass in English at SPM or equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Biotechnology) (Hons)",
+      "field_of_study": "Biotechnology",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a minimum of Grade D in any two (2) subjects including Mathematics and 1 Science subject.  Posses SPM with 3 credits in Mathematics, 1 Science subject and 1 other subject",
+        "UEC": "Pass with minimum Grade B in 5 subjects.",
+        "Diploma": "Diploma with minimum CGPA 2.00.",
+        "STPM": "Pass STPM with a minimum of Grade C in any 2 subjects.  Posses SPM with 3 credits in Mathematics, 1 Science subject and 1 other subject",
+        "Foundation": "Foundation with minimum CGPA 2.00.  Posses SPM with 3 credits in Mathematics, 1 Science subject and 1 other subject",
+        "CPU": "Pass with average 55% including Mathematics.",
+        "IB Diploma": "Minimum score 24.",
+        "SACE/WACE": "Pass Australian Year with average 55%."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 4200,
+        "tuition_fee": 89400
+      },
+      "course_content": {
+        "core": "Year 1 Fundamental of Science Fundamental of Biology Cell Biology English for Professional Communication Philosophy and Current Issue Co-Curriculum Microbiology Microchemistry Genetics Biostatistics Penghayatan Etika dan Peradaban / Bahasa Melayu Komunikasi 2  Year 2 Biophysics Molecular Biology Developmental Biology Genetic Engineering Computer Skills Plant Biotechnology Animal Biotechnology Microbial Biotechnology Computational Biology Immunology  Year 3 Fermentation Technology and Bioprocess Engineering Environmental Biotechnology IPR, Bioethics and Biosafety Elective 1 Elective 2 Final Project Entrepreneurship Development Integrity and Anti-Corruption  Year 4 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "other subject"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of Grade D in any two (2) subjects including Mathematics and 1 Science subject.  Posses SPM with 3 credits in Mathematics, 1 Science subject and 1 other subject"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum Grade B in 5 subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Diploma with minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "other subject"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with a minimum of Grade C in any 2 subjects.  Posses SPM with 3 credits in Mathematics, 1 Science subject and 1 other subject"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "other subject"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Foundation with minimum CGPA 2.00.  Posses SPM with 3 credits in Mathematics, 1 Science subject and 1 other subject"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Pass with average 55% including Mathematics."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Minimum score 24."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Pass Australian Year with average 55%."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Administration (Honours) Open and Distance Learning",
+      "field_of_study": "Business Administration",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of Grace C in 2 subjects.  Pass in Maths and English in SPM or equivalent",
+        "UEC": "Pass with 5 Grade B in including Mathematics and English.",
+        "Diploma": "Diploma with minimum CGPA 2.00.",
+        "STPM": "Pass with Grade C in 2 subjects.  Pass in Maths and English in SPM or equivalent",
+        "Foundation": "Pass foundation with minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 3850,
+        "tuition_fee": 51254
+      },
+      "course_content": {
+        "core": "Year 1 English for Professional Communication Financial Accounting Principles of Marketing Principles of Information Systems Principles of Management Appreciation of Ethics and Civilisations (Penghayatan Etika dan Peradaban) or Malay Communication II (Bahasa Melayu Komunikasi 2) or Mandarin for Business Business Statistics Business Mathematics Microeconomics Operation Management Year 2 Philosophy and Current Issues or Computer skills Introduction to Psychology Entrepreneurship E-Commerce Business Ethics Macroeconomics Business Finance Organizational Behaviour Research Methods for Business Business Law  Year 3 Corporate Governance Integrity and Anti-corruption Co-curriculum Introduction to Investment Project Management Financial Statement Analysis Pathway Subject 1 Pathway Subject 2 Pathway Subject 3 Pathway Subject 4 Pathway Subject 5  Year 4 (1 Semester) Business Intelligence Pathway Subject 6 Pathway Subject 7 Pathway Subject 8 Pathway Subject 9  Pathway Subjects General Year 3 and 4 Strategic Brand Management Strategic Management Negotiation Skills Management Organizational Change Management Internet Marketing Management Accounting Marketing Management and Planning Introduction to International Business Human Resource Management  Marketing Year 3 and 4 Global Marketing Internet Marketing Advertising and Promotion Management Consumer Behaviour Supply Chain Management Service Marketing Business Analytics for Decision Making Strategic Brand Management Strategic Marketing Management  Logistics Year 3 and 4 Warehouse and Material Management Purchasing and e-Procurement Sea and Maritime Management Principles of Logistic Management Supply Chain Management Inventory Control and Management Distribution and Transport Management Air Transport and Management Business Analytics for Decision Making  International Business Year 3 and 4 Global Marketing International Logistic Management International Cross-Cultural Management Introduction to International Business Supply Chain Management Export Management Freight Forwarding Shipping Management Business Analytics for Decision Making  Human Resources Year 3 and 4 Occupational Health and Safety Management Performance Management Industrial Relation Human Resource Management Human Resource Planning and Staffing Human Resource Development Compensation Management International Human Resource Management Business Analytics for Decision Making  Management Year 3 and 4 Negotiation Skills Management Introduction to International Business Strategic Management Business Analytics for Decision Making International Cross-Cultural Management Human Resource Management Strategic Brand Management Risk Management Organizational Change Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grace C in 2 subjects.  Pass in Maths and English in SPM or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Grade B in including Mathematics and English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Diploma with minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 2 subjects.  Pass in Maths and English in SPM or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass foundation with minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Management (Honours) (International Business)",
+      "field_of_study": "Business and Management",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with Grade C in 2 subjects.",
+        "UEC": "Pass with 5 Grade B including Mathematics and English.",
+        "Diploma": "Pass diploma in related field with minimum CGPA 2.00.",
+        "STPM": "Pass with Grade C in 2 subjects.",
+        "Foundation": "Pass foundation with minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 2100,
+        "tuition_fee": 71120
+      },
+      "course_content": {
+        "core": "Year 1 English for Professional Communication\nFinancial Accounting\nPrinciples of Information Systems\nPrinciples of Management\nPrinciples of Marketing\nAppreciation of Ethics and Civilisations (Penghayatan Etika dan Peradaban) or Malay Communication II (Bahasa Melayu Komunikasi 2)\nMicroeconomics\nBusiness Statistics\nBusiness Law\nFinancial Management\nIntroduction to Psychology\nIntroduction to International Business English for Professional Communication Financial Accounting Principles of Information Systems Principles of Management Principles of Marketing Appreciation of Ethics and Civilisations (Penghayatan Etika dan Peradaban) or Malay Communication II (Bahasa Melayu Komunikasi 2) Microeconomics Business Statistics Business Law Financial Management Introduction to Psychology Introduction to International Business  Year 2 Philosophy and Current Issues\nIntegrity and Anti-Corruption\nCo-Curriculum\nEntrepreneurship\nIssues and Ethics in International Business\nOrganizational Behaviour\nMacroeconomics\nOperations Management\nMandarin I\nHuman Resource Management\nElective Subject 1\nElective Subject 2 Philosophy and Current Issues Integrity and Anti-Corruption Co-Curriculum Entrepreneurship Issues and Ethics in International Business Organizational Behaviour Macroeconomics Operations Management Mandarin I Human Resource Management Elective Subject 1 Elective Subject 2 Elective Subject 2  Year 3 International Cross-Cultural Management\nMandarin II\nResearch Methods for Business\nStrategic Management\nGlobal Marketing\nExport Management\nElective Subject 3\nElective Subject 4 International Cross-Cultural Management Mandarin II Research Methods for Business Strategic Management Global Marketing Export Management Elective Subject 3 Elective Subject 4  Year 4 (1 Semester) Internship or Research Project in International Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 2 subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Grade B including Mathematics and English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass diploma in related field with minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 2 subjects."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass foundation with minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Management (Honours)",
+      "field_of_study": "Business and Management",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum of Grace C in 2 subjects.  Pass in Maths and English in SPM or equivalent",
+        "UEC": "Pass with 5 Grade B in including Mathematics and English.",
+        "Diploma": "Diploma with minimum CGPA 2.00.",
+        "STPM": "Pass with Grade C in 2 subjects.  Pass in Maths and English in SPM or equivalent",
+        "Foundation": "Pass foundation with minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 2100,
+        "tuition_fee": 70460
+      },
+      "course_content": {
+        "core": "Year 1 English for Professional Communication\nFinancial Accounting\nPrinciples of Marketing\nPrinciples of Information System\nPrinciples of Management\nAppreciation of Ethics and Civilisations (Penghayatan Etika dan Peradaban) or Malay Communication II (Bahasa Melayu Komunikasi 2)\nBusiness Statistics\nBusiness Mathematics\nMicroeconomics\nBusiness Law\nProfessional Development\nIntroduction to Psychology English for Professional Communication Financial Accounting Principles of Marketing Principles of Information System Principles of Management Appreciation of Ethics and Civilisations (Penghayatan Etika dan Peradaban) or Malay Communication II (Bahasa Melayu Komunikasi 2) Business Statistics Business Mathematics Microeconomics Business Law Professional Development Introduction to Psychology Year 2 Philosophy and Current Issues\nIntegrity and Anti-Corruption\nCo-Curriculum\nEntrepreneurship\nE-Commerce\nMacroeconomics\nBusiness Finance\nOrganizational Behaviour\nElective Subject 1\nElective Subject 2\nPathway Subject 1\nPathway Subject 2 Philosophy and Current Issues Integrity and Anti-Corruption Co-Curriculum Entrepreneurship E-Commerce Macroeconomics Business Finance Organizational Behaviour Elective Subject 1 Elective Subject 2 Pathway Subject 1 Pathway Subject 2  Year 3 Research Methods for Business\nStrategic Management\nElective Subject 3\nElective Subject 4\nPathway Subject 3\nPathway Subject 4\nPathway Subject 5\nPathway Subject 6\nPathway Subject 7\nPathway Subject 8 Research Methods for Business Strategic Management Elective Subject 3 Elective Subject 4 Pathway Subject 3 Pathway Subject 4 Pathway Subject 5 Pathway Subject 6 Pathway Subject 7 Pathway Subject 8  Year 4 Internship or Research Project  Pathway Subjects General Year 2 Human Resource Management\nOperations Management Human Resource Management Operations Management Year 3 Strategic Brand Management\nInternational Business Environment\nManagement Accounting\nBusiness Ethics\nMarketing Management and Planning\nIntroduction to International Business Strategic Brand Management International Business Environment Management Accounting Business Ethics Marketing Management and Planning Introduction to International Business  Marketing Year 2 Consumer Behavior\nGlobal Marketing Consumer Behavior Global Marketing Year 3 Internet Marketing\nAdvertising and Promotion Management\nSupply Chain Management\nService Marketing\nStrategic Brand Management\nStrategic Marketing Management Internet Marketing Advertising and Promotion Management Supply Chain Management Service Marketing Strategic Brand Management Strategic Marketing Management  Logistics Year 2 Principles of Logistics Management\nPurchasing and e-Procurement Principles of Logistics Management Purchasing and e-Procurement Year 3 Warehouse and Material Management\nInventory Control and Management\nDistribution and Transport Management\nAir Transport and Management\nSupply Chain Management\nSea and Maritime Management Warehouse and Material Management Inventory Control and Management Distribution and Transport Management Air Transport and Management Supply Chain Management Sea and Maritime Management  International Business Year 2 Introduction to International Business\nGlobal Marketing Introduction to International Business Global Marketing Year 3 International Logistic Management\nSupply Chain Management\nInternational Cross-Cultural Management\nExport Management\nFreight Forward\nShipping Management International Logistic Management Supply Chain Management International Cross-Cultural Management Export Management Freight Forward Shipping Management  Human Resources Year 2 Human Resource Management\nOccupational Health and Safety Management Human Resource Management Occupational Health and Safety Management Year 3 Performance Management\nHuman Resource Planning and Staffing\nHuman Resource Development\nCompensation Management\nIndustrial Relation\nInternational Human Resource Management Performance Management Human Resource Planning and Staffing Human Resource Development Compensation Management Industrial Relation International Human Resource Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum of Grace C in 2 subjects.  Pass in Maths and English in SPM or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Grade B in including Mathematics and English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Diploma with minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 2 subjects.  Pass in Maths and English in SPM or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass foundation with minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Chemical Engineering with Honours",
+      "field_of_study": "Chemical Engineering",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 passes in Mathematics and 1 Science subject.",
+        "UEC": "Pass with 5 Grade B including Mathematics and 1 Science subject.",
+        "Diploma": "Pass diploma in related field with minimum CGPA 2.00.",
+        "STPM": "Pass with Grade C in 2 subjects including Mathematics and 1 Physical Science subject.",
+        "Foundation": "Pass foundation with minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 4800,
+        "tuition_fee": 100200
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Engineering Mathematics 1\nComputer Programming\nComputer Programming Lab\nEngineering Graphics\nEnglish for Professional Communication\nSelf-Development and Leadership Building Engineering Mathematics 1 Computer Programming Computer Programming Lab Engineering Graphics English for Professional Communication Self-Development and Leadership Building Semester 2 Chemical Engineering Thermodynamics\nMomentum Transfer\nOrganic Chemistry\nEngineering Mathematics 2 Chemical Engineering Thermodynamics Momentum Transfer Organic Chemistry Engineering Mathematics 2  Year 2 Semester 3 Engineering Mathematics 3\nMass and Energy Balance\nProcess Heat Transfer\nChemical Engineering Lab I\nDatabase Management Systems\nEntrepreneurship Engineering Mathematics 3 Mass and Energy Balance Process Heat Transfer Chemical Engineering Lab I Database Management Systems Entrepreneurship Semester 4 Chemical Process Industries\nMass Transfer\nComputational Methods and Analysis in Chemical Engineering\nEnvironmental Engineering\nChemical Engineering Lab II\nRenewable Energy / Elements of Electrical Engineering (Open Elective) Chemical Process Industries Mass Transfer Computational Methods and Analysis in Chemical Engineering Environmental Engineering Chemical Engineering Lab II Renewable Energy / Elements of Electrical Engineering (Open Elective)  Year 3 Semester 5 Chemical Reaction Engineering\nSeparation Processes\nProcess Control and Instrumentation\nProcess Design, Optimization & Economics\nChemical Engineering Lab III Chemical Reaction Engineering Separation Processes Process Control and Instrumentation Process Design, Optimization & Economics Chemical Engineering Lab III Semester 6 Project Management\nPlant and Equipment Design\nSafety and Loss Prevention\nChemical Engineering Lab IV\nChemical Lab V\nEngineer and Society\nR&D Methodology Project Management Plant and Equipment Design Safety and Loss Prevention Chemical Engineering Lab IV Chemical Lab V Engineer and Society R&D Methodology  Year 4 Semester 7 Mechanical Design of Process Equipment\nDesign Project Part 1\nFinal Year Project Part 1\nAdvanced Chemical Reaction Engineering\nVegetable Oil Milling and Refining Processes (Engineering Elective -1)\nAnalytical Techniques and Instrumentation Lab Mechanical Design of Process Equipment Design Project Part 1 Final Year Project Part 1 Advanced Chemical Reaction Engineering Vegetable Oil Milling and Refining Processes (Engineering Elective -1) Analytical Techniques and Instrumentation Lab Semester 8 Design Project Part 2\nFinal Year Project Part 2\nGreen and Sustainable Chemical Processes\nPetroleum Refinery Engineering (Engineering Elective-2) Design Project Part 2 Final Year Project Part 2 Green and Sustainable Chemical Processes Petroleum Refinery Engineering (Engineering Elective-2)  Short Semester / Long Semester Introduction to Psychology\nTamadun Islam Tamadun Asia (TITAS) (Local) / Pengajian Malaysia (International)\nFamily Issues\nCo-Curriculum\nHubungan Etnik (Local) / Bahasa Melayu Komunikasi 2 (International) Introduction to Psychology Tamadun Islam Tamadun Asia (TITAS) (Local) / Pengajian Malaysia (International) Family Issues Co-Curriculum Hubungan Etnik (Local) / Bahasa Melayu Komunikasi 2 (International)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 passes in Mathematics and 1 Science subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Grade B including Mathematics and 1 Science subject."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass diploma in related field with minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 2 subjects including Mathematics and 1 Physical Science subject."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass foundation with minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons)",
+      "field_of_study": "Computer Science",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 passes with CGPA 2.000.  A credit in Additional Mathematics at SPM",
+        "UEC": "Pass with 5 Grade B including Mathematics.",
+        "Diploma": "Pass diploma in related field with minimum CGPA 2.50.  Subject to rigorous internal assessment and a credit in Additional Mathematics at SPM",
+        "STPM": "Pass with Grade C in 2 subjects.  A credit in Additional Mathematics at SPM",
+        "Foundation": "Pass foundation with minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 4200,
+        "tuition_fee": 79550
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Engineering Mathematics 1\nPrinciples of Computer Science\nProgramming in C/C++\nComputer Organisation & Architecture\nPrinciples of Management Engineering Mathematics 1 Principles of Computer Science Programming in C/C++ Computer Organisation & Architecture Principles of Management Semester 2 Engineering Mathematics 2\nEnglish for Professional Communication\nIntroduction to Java\nRelational DBMS\nInternet & Web Programming\nSustainability Engineering Mathematics 2 English for Professional Communication Introduction to Java Relational DBMS Internet & Web Programming Sustainability Semester 3 TITAS (Local) / Bahasa Melayu Komunikasi 3 (International)\nHubungan Etnik (Local) / Pengajian Malaysia (International)\nCreative and Critical Thinking 2 or Psychology 2 TITAS (Local) / Bahasa Melayu Komunikasi 3 (International) Hubungan Etnik (Local) / Pengajian Malaysia (International) Creative and Critical Thinking 2 or Psychology 2 Year 2 Semester 4 Advanced Java Programming\nSimulation and Modelling\nEnvironmental Science\nGroup Project\nData Structures & Algorithms Operating System Advanced Java Programming Simulation and Modelling Environmental Science Group Project Data Structures & Algorithms Operating System Semester 5 Software Engineering\nGreen ICT\nHuman Computer Interaction\nComputer Graphics\nKnowledge Management\nGroup Project\nFamily Issues Software Engineering Green ICT Human Computer Interaction Computer Graphics Knowledge Management Group Project Family Issues Semester 6 Industrial Training  Year 3 Semester 7 Organizational Behaviour\nArtificial Intelligence\nServer side Programming\nComputer Network & Security\nElective 1\nFinal Year Project\nCommunity Services and Curriculum Organizational Behaviour Artificial Intelligence Server side Programming Computer Network & Security Elective 1 Final Year Project Community Services and Curriculum Semester 8 Entrepreneurship\nMachine Learning\nElective 2\nFinal Year Project Entrepreneurship Machine Learning Elective 2 Final Year Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 passes with CGPA 2.000.  A credit in Additional Mathematics at SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Grade B including Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass diploma in related field with minimum CGPA 2.50.  Subject to rigorous internal assessment and a credit in Additional Mathematics at SPM"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 2 subjects.  A credit in Additional Mathematics at SPM"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass foundation with minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Engineering with Honours",
+      "field_of_study": "Computer Systems Engineering",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 passes in Mathematics and 1 Science subject.",
+        "UEC": "Pass with 5 Grade B including Mathematics and 1 Science subject.",
+        "Diploma": "Pass diploma in related field with minimum CGPA 2.00.",
+        "STPM": "Pass with Grade C in 2 subjects including Mathematics and 1 Physical Science subject.",
+        "Foundation": "Pass foundation with minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 4800,
+        "tuition_fee": 100200
+      },
+      "course_content": {
+        "core": "Year 1 Semester 1 Engineering Mathematics 1\nEnvironmental Science\nComputer Programming\nComputer Programming Lab\nEngineering Graphics\nElements of Electrical Engineering\nFundamentals of Electrical and Electronics Lab Engineering Mathematics 1 Environmental Science Computer Programming Computer Programming Lab Engineering Graphics Elements of Electrical Engineering Fundamentals of Electrical and Electronics Lab Semester 2 Engineering Mathematics 2\nInternet and Web Programming\nInternet and Web Programming Lab\nEnglish for Professional Communication\nElectronic Devices and Circuits\nElectronics Circuits Lab\nSelf Development and Leadership Buildings Engineering Mathematics 2 Internet and Web Programming Internet and Web Programming Lab English for Professional Communication Electronic Devices and Circuits Electronics Circuits Lab Self Development and Leadership Buildings Short Semester TITAS (Local) / Bahasa Melayu Komunikasi\nHubungan Etnik / Pengajian Malaysia TITAS (Local) / Bahasa Melayu Komunikasi Hubungan Etnik / Pengajian Malaysia  Year 2 Semester 1 Combinational and Sequential Circuits\nData Structures\nData Structures Lab\nObject Oriented Programming\nObject Oriented Programming Lab\nComputer Organization and Architecture\nEntrepreneurship Combinational and Sequential Circuits Data Structures Data Structures Lab Object Oriented Programming Object Oriented Programming Lab Computer Organization and Architecture Entrepreneurship Semester 2 Microprocessors and Micro-Controllers\nMicroprocessors Lab\nDatabase Management Systems\nDatabase Management Systems Lab\nAlgorithm Design and Analysis\nSoftware Engineering\nOpen Elective 1 (E-Commerce, Safety & Health, Operations Research, Numercial Methods for Engineering Analysis & Bioinformatics) Microprocessors and Micro-Controllers Microprocessors Lab Database Management Systems Database Management Systems Lab Algorithm Design and Analysis Software Engineering Open Elective 1 (E-Commerce, Safety & Health, Operations Research, Numercial Methods for Engineering Analysis & Bioinformatics) Short Semester Creative and Critical Thinking or Psychology 2\nFamily Issues\nCommunity Services and Curriculum Creative and Critical Thinking or Psychology 2 Family Issues Community Services and Curriculum  Year 3 Semester 1 Artificial Intelligence\nOperating Systems and Unix\nOperating Systems and Unix Lab\nComputer Graphics\nComputer Graphics Lab\nComputer Network\nComputer Network Lab\nOrganizational Behavior Artificial Intelligence Operating Systems and Unix Operating Systems and Unix Lab Computer Graphics Computer Graphics Lab Computer Network Computer Network Lab Organizational Behavior Semester 2 Software Testing and Quality Assurance\n⁠Serverside Programming\n⁠Serverside Programming Lab\n⁠Project Management\nSystem Analysis & Design\nEngineer & Society\n⁠Group Project Software Testing and Quality Assurance ⁠Serverside Programming ⁠Serverside Programming Lab ⁠Project Management System Analysis & Design Engineer & Society ⁠Group Project Short Semester Industrial Training  Year 4 Semester 1 Object Oriented Analysis & design using UML\nObject Oriented Analysis & design using UML -LAB\nEmbedded Systems\nEmbedded Systems Lab\nFinal Year Project 1\nEngineering Elective 1 (Big Data, Distributed Systems, Data Warehousing & Data Mining, Formal Language and Automata Theory & Image Processing) Object Oriented Analysis & design using UML Object Oriented Analysis & design using UML -LAB Embedded Systems Embedded Systems Lab Final Year Project 1 Engineering Elective 1 (Big Data, Distributed Systems, Data Warehousing & Data Mining, Formal Language and Automata Theory & Image Processing) Semester 2 Mobile Computing\nFinal Year Project 2\nEngineering Elective 2 (Language Processors, Cryptography and Network Security, Neural Networks & Fuzzy Logic & E-Governance) Mobile Computing Final Year Project 2 Engineering Elective 2 (Language Processors, Cryptography and Network Security, Neural Networks & Fuzzy Logic & E-Governance) Language Processors, Cryptography and Network Security, Neural Networks & Fuzzy Logic & E-Governance)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 passes in Mathematics and 1 Science subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Grade B including Mathematics and 1 Science subject."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass diploma in related field with minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 2 subjects including Mathematics and 1 Physical Science subject."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass foundation with minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor Of Mass Communication (Hons)",
+      "field_of_study": "Mass Communication",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with Grade C in 2 subjects.  Credit in English in SPM or equivalent",
+        "UEC": "Pass with minimum 5 Grade B in selected subjects.",
+        "Diploma": "Pass diploma with minimum CGPA 2.00.  Credit in English in SPM or equivalent",
+        "STPM": "Pass with Grade C in 2 subjects.  Credit in English in SPM or equivalent",
+        "Foundation": "Pass foundation with minimum CGPA 2.00.  Credit in English in SPM or equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 2100,
+        "tuition_fee": 72500
+      },
+      "course_content": {
+        "core": "Year 1 English for Professional Communication Principles of Mass Communication Principles of Broadcasting Principles of Publishing Principles of Journalism Appreciation of Ethics and Civilisations (Penghayatan Etika dan Peradaban) or Malay Communication II (Bahasa Melayu Komunikasi 2) Principles of Public Relations News Writing and Reporting Human Communication Principles of Advertising Introduction to Photography Elective Subject 1 Year 2 Philosophy and Current Issues Co-Curriculum Introduction to Film Desktop Publishing Radio and TV Broadcasting New Media and Communication Technology Advanced Graphics and Layout Modern and New Media Writing Publicity and Event Management Integrity and anti-corruption Introduction to Web and Digital Design Elective Subject 2 Elective Subject 3  Year 3 Introduction to 2D Animation Communication Theories Elective Subject 4 Elective Subject 5 Mass Media Research Feature Writing Principles of Entrepreneurship Introduction to 3D Animation Academic Project Professional Development Elective Subject 4 Elective Subject 5  Year 4 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 2 subjects.  Credit in English in SPM or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum 5 Grade B in selected subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass diploma with minimum CGPA 2.00.  Credit in English in SPM or equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 2 subjects.  Credit in English in SPM or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass foundation with minimum CGPA 2.00.  Credit in English in SPM or equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechnical Engineering with Honours",
+      "field_of_study": "Mechanical Engineering",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 passes in Mathematics and 1 subject.",
+        "UEC": "Pass with 5 Grade B including Mathematics and 1 Science subject.",
+        "Diploma": "Pass diploma in related field with minimum CGPA 2.00.",
+        "STPM": "Pass with Grade C in 2 subjects including Mathematics and 1 Science subject.",
+        "Foundation": "Pass foundation with minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 4800,
+        "tuition_fee": 105800
+      },
+      "course_content": {
+        "core": "Year 1 Engineering Mathematics 1 Engineering Graphics Computer Programming Computer Programming Lab English for Professional Communication Self-Development & Leadership Building Penghayatan Etika & Peradaban / Bahasa Melayu Komunikasi 2 Engineering Statics Engineering Mathematics 2 Environmental Science Electronic Devices and Circuits Element of Mechanical Engineering Element of Electrical Engineering Introduction to Psychology  Year 2 Engineering Dynamics Thermodynamics 1 Industrial Safety and Health Engineering Mathematics 3 Material Science and Metallurgy Entrepreneurship Co-Curriculum Theory of Machines Mechanics of Materials CAD/CAM Operations Research Manufacturing Processes Mechanical Laboratory 1 Philosophy and Current Issues  Year 3 Mechanical Design Mechanical Measurement Mechanical Laboratory II Organizational Behaviour Capstone Design 1 Computer Aided Engineering Thermodynamics II Fluid Mechanics Heat Transfer Product and Systems Design Capstone 2 Elements of Mechatronics R&D Methodolgy Project Management Integrity and Anti-Corruption Engineering in Society Industrial Training  Year 4 Final Year Project 1 Mechanical Vibrations Corrosion Engineering / Quality Management Turbo Machines / Advance Manufacturing Techniques Composite Materials / Finite Elements Methods Production and Operations Management Technical Seminar Final Year Project 2 Industrial Training Control Engineering Engineering Economics Robotics / Automobile Engineering",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "2 passes in Mathematics and 1 subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Grade B including Mathematics and 1 Science subject."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass diploma in related field with minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 2 subjects including Mathematics and 1 Science subject."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass foundation with minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechatronic Technology (Honours)",
+      "field_of_study": "Mechatronics Engineering",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes (Grade D) in Mathematics and 1 Science subject.",
+        "UEC": "Pass with minimum of 5 Grade B including Mathematics and 1 Science subject.",
+        "Diploma": "Diploma in Engineering/Engineering Technology (recognized by the Malaysian Government) with CGPA 2.00; or Diploma in Vocational and Technical/Skills in r elated field (recognized by the Malaysian Government) with CGPA 2.00.",
+        "STPM": "Pass with minimum of 2 Grade C including Mathematics and 1 Science subject.",
+        "Foundation": "Pass Matriculation/Foundation in relevant field (recognized by the Malaysian Government) with minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 4200,
+        "tuition_fee": 84500
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes (Grade D) in Mathematics and 1 Science subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum of 5 Grade B including Mathematics and 1 Science subject."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Engineering/Engineering Technology (recognized by the Malaysian Government) with CGPA 2.00; or Diploma in Vocational and Technical/Skills in r elated field (recognized by the Malaysian Government) with CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum of 2 Grade C including Mathematics and 1 Science subject."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Matriculation/Foundation in relevant field (recognized by the Malaysian Government) with minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Management",
+      "field_of_study": "Business and Management",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Posses SPM with at least credit in any 3 subjects.",
+        "O-Level": "Posses O-Level with at least credit in any 3 subjects.",
+        "UEC": "Minimum of grade B in 3 subjects.",
+        "STPM": "Pass STPM with at least Grade C in any subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 1000,
+        "tuition_fee": 38800
+      },
+      "course_content": {
+        "core": "Year 1 Principles of Information Systems Principles of Finance Principles of Accounting Principles of Management Mandarin 1 Appreciation of Ethics and Civilisations (Penghayatan Etika dan Peradaban) or Malay Communication 1 (Bahasa Melayu Komunikasi 1) Principles of Marketing Creative & Critical Thinking Mandarin 2 English Financial Accounting Microeconomics Integrity and Anti-Corruption  Year 2 Organizational Behaviour Business Mathematics Financial Management Business Statistics Mandarin 3 Macroeconomics International Business Co-Curriculum Strategic Management Business Law Business Ethics  Year 3 (1 Semester) Introduction to E-Commerce Introduction to Entrepreneurship Managerial Accounting Human Resource Management Operation Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Mass Communication",
+      "field_of_study": "Mass Communication",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 subjects including English.",
+        "O-Level": "Pass with 3 subjects including English.",
+        "STPM": "Pass STPM with at least Grade C in any subject.  Credit in English at SPM or equivalent"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 1800,
+        "tuition_fee": 37760
+      },
+      "course_content": {
+        "core": "Year 1 English\nIntroduction to Mass Communication\nIntroduction to Broadcasting\nIntroduction to Publishing\nIntroduction to Journalism\nIntegrity and Anti-Corruption\nIntroduction to Advertising\nIntroduction to Interpersonal Communication\nPrinciples of Information System\nDesktop Publishing\nBroadcast Journalism\nAppreciation of Ethics and Civilisations (Penghayatan Etika dan Peradaban) or Malay Communication 1 (Bahasa Melayu Komunikasi 1)  \nPrinciples of Public Relations English Introduction to Mass Communication Introduction to Broadcasting Introduction to Publishing Introduction to Journalism Integrity and Anti-Corruption Introduction to Advertising Introduction to Interpersonal Communication Principles of Information System Desktop Publishing Broadcast Journalism Appreciation of Ethics and Civilisations (Penghayatan Etika dan Peradaban) or Malay Communication 1 (Bahasa Melayu Komunikasi 1) Principles of Public Relations  Year 2 Human Communication\nIntercultural Communication\nNew Media and Communication Technology\nMedia Law and Ethics\nMass Media and Society\nRadio and TV Broadcasting\nEvent Planning and Management\nWriting for Mass Media\nGraphics and Layout\nNew Media Marketing\nIntroduction to Communication Theories\nIndustrial Training\nElective Subject Human Communication Intercultural Communication New Media and Communication Technology Media Law and Ethics Mass Media and Society Radio and TV Broadcasting Event Planning and Management Writing for Mass Media Graphics and Layout New Media Marketing Introduction to Communication Theories Industrial Training Elective Subject  Year 3 Mass Media Research\nIntroduction to Entrepreneurship\nCo-Curriculum\nCreative and Critical Thinking Mass Media Research Introduction to Entrepreneurship Co-Curriculum Creative and Critical Thinking",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 subjects including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 subjects including English."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with at least Grade C in any subject.  Credit in English at SPM or equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business Studies",
+      "field_of_study": "Foundation in Arts",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 credits (Grade C).",
+        "O-Level": "Pass with 5 credits (Grade C).",
+        "UEC": "Pass with Grade B in 3 subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 600,
+        "tuition_fee": 24000
+      },
+      "course_content": {
+        "core": "These subjects will be completed in 1 year English 1\nComputer Fundamentals\nPrinciples of Economics\nIntroduction to Finance\nIntroduction to Management\nIntroduction to mass Communication\nIntroduction to Marketing\nBusiness Mathematics\nEnglish 2\nPrinciples of Accounting\nEntrepreneurship\nCreative Thinking\nBusiness Law\nOrganizational Behaviour\nCo-curricular activity  \nSocio-cultural study\nBasic Mandarin English 1 Computer Fundamentals Principles of Economics Introduction to Finance Introduction to Management Introduction to mass Communication Introduction to Marketing Business Mathematics English 2 Principles of Accounting Entrepreneurship Creative Thinking Business Law Organizational Behaviour Co-curricular activity Socio-cultural study Basic Mandarin",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business Studies (Mass Communication)",
+      "field_of_study": "Foundation in Arts",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 credits (Grade C) including English.",
+        "O-Level": "Pass with 5 credits (Grade C) including English.",
+        "UEC": "Pass with Grade B in 3 subjects including English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 600,
+        "tuition_fee": 24000
+      },
+      "course_content": {
+        "core": "These subjects will be completed in 1 year English 1 Computer Fundamentals Principles of Economics Introduction to Finance Introduction to Management Introduction to mass Communication Introduction to Marketing Business Mathematics English 2 Principles of Accounting Entrepreneurship Creative Thinking Business Law Organizational Behaviour Co-curricular activity Socio-cultural study Basic Mandarin",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits (Grade C) including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits (Grade C) including English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade B in 3 subjects including English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science - Science Pathway",
+      "field_of_study": "Foundation in Science",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 credit including Mathematics and 2 Science subjects; AND pass in English and Bahasa Malaysia.",
+        "O-Level": "Pass with 5 credit including Mathematics and 2 Science subjects; AND pass in English and Bahasa Malaysia.",
+        "UEC": "Pass with Grade B in Mathematics and 2 Science subjects; AND pass in English and Bahasa Malaysia."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 1200,
+        "tuition_fee": 25000
+      },
+      "course_content": {
+        "core": "Science Pathway  English 1\nPhysics 1\nCalculus and Analysis 1\nCreative Thinking\nStatistics\nEnglish 2\nComputer Fundamentals\nCalculus and Analysis 1\nChemistry 1\nBiology 1\nBiology 2\nChemistry 2\nIntroduction to Science and Engineering\nPhysics 2 English 1 Physics 1 Calculus and Analysis 1 Creative Thinking Statistics English 2 Computer Fundamentals Calculus and Analysis 1 Chemistry 1 Biology 1 Biology 2 Chemistry 2 Introduction to Science and Engineering Physics 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credit including Mathematics and 2 Science subjects; AND pass in English and Bahasa Malaysia."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credit including Mathematics and 2 Science subjects; AND pass in English and Bahasa Malaysia."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade B in Mathematics and 2 Science subjects; AND pass in English and Bahasa Malaysia."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science - Engineering Pathway",
+      "field_of_study": "Foundation in Science",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Mar",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 credits including Mathematics and 1 physical Science Subjetc; AND pass in English and Bahasa Malaysia.",
+        "O-Level": "Pass with 5 credits including Mathematics and 1 physical Science Subjetc; AND pass in English and Bahasa Malaysia.",
+        "UEC": "Pass with Grade B in 3 subjects including Mathemetics and 1 Physical Science Subject; AND pass in English and bahasa Malaysia."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 1200,
+        "tuition_fee": 25000
+      },
+      "course_content": {
+        "core": "Engineering Pathway  English 1 Physics 1 Calculus and Analysis 1 Creative Thinking Statistics English 2 Computer Fundamentals Calculus and Analysis 1 Chemistry 1 Introduction to Engineering Graphics Calculus and Analysis 3 Chemistry 2 Introduction to Science and Engineering Physics 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "physical Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits including Mathematics and 1 physical Science Subjetc; AND pass in English and Bahasa Malaysia."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "physical Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits including Mathematics and 1 physical Science Subjetc; AND pass in English and Bahasa Malaysia."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathemetics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physical Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "bahasa Malaysia"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade B in 3 subjects including Mathemetics and 1 Physical Science Subject; AND pass in English and bahasa Malaysia."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A Bachelor's degree in any fields with minimum CGPA 2.00.  With rigorous and pre-requisites assessments :\nLatest Resume\nJob Offer Letter\nRelevant Training Certificates\nFace-to-face Interview (Online)\nAssessment on basic business knowledge (managing people, managing financial resources, understanding customers, understanding environments and strategic planning)"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 2400,
+        "tuition_fee": 33600
+      },
+      "course_content": {
+        "core": "Year 1 Research Methodology\nMarketing Management\nHuman Resource Management\nManagerial Economics\nOrganizational Behavior\nAccounting and Finance for Managers Research Methodology Marketing Management Human Resource Management Managerial Economics Organizational Behavior Accounting and Finance for Managers  Year 2 Business Analytics\nStrategic Management\nElective*\nProject Paper Business Analytics Strategic Management Elective* Project Paper",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "A Bachelor's degree in any fields with minimum CGPA 2.00.  With rigorous and pre-requisites assessments :\nLatest Resume\nJob Offer Letter\nRelevant Training Certificates\nFace-to-face Interview (Online)\nAssessment on basic business knowledge (managing people, managing financial resources, understanding customers, understanding environments and strategic planning)"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Science in Business",
+      "field_of_study": "Business and Management",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A Bachelor's degree in any fields with minimum CGPA 2.00.  With rigorous and pre-requisites assessments :\nLatest Resume\nJob Offer Letter\nRelevant Training Certificates\nFace-to-face Interview (Online)\nAssessment on basic business knowledge (managing people, managing financial resources, understanding customers, understanding environments and strategic planning)"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 6500,
+        "tuition_fee": 26000
+      },
+      "course_content": {
+        "core": "MSC701 Research Methodology 1 MSC702 Research Methodology 2 MSC703 Dissertation and Final Viva Typically, the minimum duration of this program is 2 years for full-time mode and 3 years for part-time mode.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A Bachelor's degree in any fields with minimum CGPA 2.00.  With rigorous and pre-requisites assessments :\nLatest Resume\nJob Offer Letter\nRelevant Training Certificates\nFace-to-face Interview (Online)\nAssessment on basic business knowledge (managing people, managing financial resources, understanding customers, understanding environments and strategic planning)"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy in Business",
+      "field_of_study": "Business and Management",
+      "location": "MILA University, Nilai",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "A Master's degree (Level 7, MQF) in related fields recognised by Malaysian Government."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 8500,
+        "tuition_fee": 42000
+      },
+      "course_content": {
+        "core": "PHD801 Research Process and Academic Writing PHD802 Research Design and Methodology PHD803 Thesis 1 (Proposal Defense) PHD804 Thesis 2 (Final Thesis and Viva Voce)  Typically, the duration of this program is 3 to 5 years for full-time mode and 4 to 7 years for part-time mode.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A Master's degree (Level 7, MQF) in related fields recognised by Malaysian Government."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/MILA+University/MILA+University%2C+Nilai/Campus_and_Surroundings/01a_MILA_University%2C_Nilai_MILA_Main_Building.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Accounting (Honours)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -159,11 +162,12 @@
             "text": "Pass foundation with minimum CGPA 2.50.  Credit in Maths and pass in English at SPM or equivalent"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Science (Biotechnology) (Hons)",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -363,11 +367,12 @@
             "text": "Pass Australian Year with average 55%."
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Bachelor of Business Administration (Honours) Open and Distance Learning",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -501,11 +506,12 @@
             "text": "Pass foundation with minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Management (Honours) (International Business)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -614,11 +620,12 @@
             "text": "Pass foundation with minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Business Management (Honours)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -752,11 +759,12 @@
             "text": "Pass foundation with minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Chemical Engineering with Honours",
-      "field_of_study": "Chemical Engineering",
+      "field_of_study": "Engineering",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -904,11 +912,12 @@
             "text": "Pass foundation with minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Chemical Engineering"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -1034,11 +1043,12 @@
             "text": "Pass foundation with minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Computer Engineering with Honours",
-      "field_of_study": "Computer Systems Engineering",
+      "field_of_study": "Engineering",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -1186,11 +1196,12 @@
             "text": "Pass foundation with minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Computer Systems Engineering"
     },
     {
       "program_name": "Bachelor Of Mass Communication (Hons)",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -1312,11 +1323,12 @@
             "text": "Pass foundation with minimum CGPA 2.00.  Credit in English in SPM or equivalent"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Mechnical Engineering with Honours",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -1458,11 +1470,12 @@
             "text": "Pass foundation with minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Mechatronic Technology (Honours)",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -1604,11 +1617,12 @@
             "text": "Pass Matriculation/Foundation in relevant field (recognized by the Malaysian Government) with minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "Diploma in Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -1673,11 +1687,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Mass Communication",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -1754,11 +1769,12 @@
             "text": "Pass STPM with at least Grade C in any subject.  Credit in English at SPM or equivalent"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Foundation in Business Studies",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -1820,11 +1836,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business Studies (Mass Communication)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -1916,11 +1933,12 @@
             "text": "Pass with Grade B in 3 subjects including English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Science - Science Pathway",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -2066,11 +2084,12 @@
             "text": "Pass with Grade B in Mathematics and 2 Science subjects; AND pass in English and Bahasa Malaysia."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science - Engineering Pathway",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "MILA University, Nilai",
       "intakes": [
         "Mar",
@@ -2206,11 +2225,12 @@
             "text": "Pass with Grade B in 3 subjects including Mathemetics and 1 Physical Science Subject; AND pass in English and bahasa Malaysia."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "MILA University, Nilai",
       "intakes": [
         "Jan",
@@ -2247,11 +2267,12 @@
             "text": "A Bachelor's degree in any fields with minimum CGPA 2.00.  With rigorous and pre-requisites assessments :\nLatest Resume\nJob Offer Letter\nRelevant Training Certificates\nFace-to-face Interview (Online)\nAssessment on basic business knowledge (managing people, managing financial resources, understanding customers, understanding environments and strategic planning)"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Master of Science in Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MILA University, Nilai",
       "intakes": [
         "Jan",
@@ -2292,11 +2313,12 @@
             "text": "A Bachelor's degree in any fields with minimum CGPA 2.00.  With rigorous and pre-requisites assessments :\nLatest Resume\nJob Offer Letter\nRelevant Training Certificates\nFace-to-face Interview (Online)\nAssessment on basic business knowledge (managing people, managing financial resources, understanding customers, understanding environments and strategic planning)"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Doctor of Philosophy in Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MILA University, Nilai",
       "intakes": [
         "Jan",
@@ -2332,7 +2354,8 @@
             "text": "A Master's degree (Level 7, MQF) in related fields recognised by Malaysian Government."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     }
   ]
 }

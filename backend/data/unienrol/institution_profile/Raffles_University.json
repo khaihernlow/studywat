@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 8070,
   "malaysia_rank": 60,
+  "institution_images": [
+    "https://edufair.fsi.com.my/img/sponsor/35/cover_1726108679.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor in Business (Accountancy) (Hons)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -139,11 +142,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor in Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -262,11 +266,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Computer Science (Honours) in Data Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -488,11 +493,12 @@
             "text": "CGPA 2.0.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor in Fashion Design (Hons)",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -581,11 +587,12 @@
             "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview with min. Muet Band 3"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Bachelor in Graphic Design (Hons)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -674,11 +681,12 @@
             "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Bachelor of Information System (Hons) in Artificial Intelligence",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -803,11 +811,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Bachelor in Information Technology (Hons)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -1024,11 +1033,12 @@
             "text": "CGPA 2.0.  Credit in Additional Mathematics at the SPM level or its equivalent OR Credit in Mathematics and any one of the Science, Technology or Engineering subjects at SPM level or its equivalent.\nCandidates need to take and pass the reinforcement Mathematics equivalent to Additional Mathematics at the SPM level. The subject must be offered in first semester or before enrolment with unconditional offer"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Interior Design (Hons)",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -1126,11 +1136,12 @@
             "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview"
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Bachelor in Supply Chain Management (Hons)",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -1249,11 +1260,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Bachelor in Multimedia Design (Hons)",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -1351,11 +1363,12 @@
             "text": "Minimum CGPA 2.00.  Additional Requirements\nPass Portfolio test & Interview and min MUET Band 3"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Bachelor of Psychology (Hons)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -1513,11 +1526,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Diploma Business Studies",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -1579,11 +1593,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Fashion Design",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -1697,11 +1712,12 @@
             "text": "Grade C in 1 subject.  Additional Requirements\nPass Portfolio test & Interview"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Visual Communication",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -1775,11 +1791,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test & Interview"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Human Resources Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -1862,11 +1879,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2003,11 +2021,12 @@
             "text": "Pass with a minimum of Grade C (GP 2.0).  Credit in Mathematics at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2099,11 +2118,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test & Interview"
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Diploma in Digital Game Arts",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2221,11 +2241,12 @@
             "text": "Grade C in 1 subject.  Additional Requirements\nRequired to submit student portfolio and art and design assessment form"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2346,11 +2367,12 @@
             "text": "Grade C in 1 subject."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Foundation in Liberal Arts (Psychology)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2469,11 +2491,12 @@
             "text": "Grade B in 3 relevant subjects in Mathematics and 1 Science subject."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Liberal Arts (Information System)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2574,11 +2597,12 @@
             "text": "Grade B in 3 relevant subjects in Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Liberal Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2644,11 +2668,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2715,11 +2740,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business (Accountancy)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2791,11 +2817,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Master of Business Administration (Open Distance Learning)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2839,11 +2866,12 @@
             "text": "A Bachelor’s Degree in related fields with a minimum CGPA of 2.50."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Master of Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2887,7 +2915,8 @@
             "text": "A Bachelor’s Degree in Computing or related fields with a minimum CGPA of 3.00 or equivalent."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Master of Education (Open Distance Learning)",
@@ -2935,11 +2964,12 @@
             "text": "A Bachelor’s Degree in Education related programme or its equivalent with a minimum CGPA of 2.75."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -2990,11 +3020,12 @@
             "text": "Meet any of the Requirement below:.  (i) A recognized Bachelor Degree with a minimum CGPA of 2.5 \nor\n(ii) A recognised Bachelor's degree or its equivalent  in the field or related fields or  equivalent with a minimum CGPA of 2.0 and not meeting a CGPA of 2.50, can be accepted subject to rigorous internal assessment\n* Candidates without a qualification in the related fields or working experience in the relevant fields must undergo appropriate prerequisite course determined by the HEP and meet the minimum CGPA based on (i) to (ii)"
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Design (Open Distance Learning)",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -3038,11 +3069,12 @@
             "text": "A Bachelor’s Degree with a minimum CGPA of 2.50 in the field of Art and Design, Design and Technology, Interior Design or a relevant field.  Pass “RU Portfolio Assessment and Interview”"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Doctor of Philosphy in Business Administration (Open Distance Learning)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -3081,11 +3113,12 @@
             "text": "A Master’s Degree in related fields."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Doctor of Philosphy in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -3127,11 +3160,12 @@
             "text": "Meet any of the Requirement below:.  - Master's Degree in business or related field.\n- Any other equivalent qualification recognised by the Malaysian Goverment Which will be considered on a case by case basis.\n- There shall be no direct entry from Bchelor's degree level or PhD level."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Doctor of Philosophy in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -3170,7 +3204,8 @@
             "text": "A Master’s Degree in the field of Computing or related fields."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Doctor of Philosophy in Education",
@@ -3213,11 +3248,12 @@
             "text": "Master’s Degree in the education field or Education-related fields."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "English Language Preparation Programme (EPP)",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -3241,11 +3277,12 @@
         "others": ""
       },
       "program_type": "language_prep",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "English"
     },
     {
       "program_name": "Concurrent English Language Programme (CELP)",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "Raffles, City Campus",
       "intakes": [
         "Jan",
@@ -3267,7 +3304,8 @@
         "others": ""
       },
       "program_type": "language_prep",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "English"
     }
   ]
 }

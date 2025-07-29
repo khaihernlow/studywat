@@ -1,0 +1,3144 @@
+{
+  "institution_name": "First City University College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Intensive English Programme",
+      "field_of_study": "English",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 1500,
+        "tuition_fee": 13500
+      },
+      "course_content": {
+        "core": "Lower Basic Level: \nGrammar\nWriting\nListening\nSpeaking\nVocabulary and Reading\nConversational English\nHigher Basic Level:\nGrammar\nWriting\nListening\nSpeaking\nVocabulary and Reading\nConversational English\nIntermediate Level:\nAcademic Reading\nAcademic Writing\nListening\nSpeaking\nConversational English\nAdvanced Level:\nAcademic Reading\nAcademic Writing\nListening\nSpeaking Lower Basic Level: Higher Basic Level: Intermediate Level: Advanced Level:",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "language_prep",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "BSc (Hons) Accounting",
+      "field_of_study": "Accounting and Finance",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Industrial training",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum 2Es.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "UEC": "Minimum 5Bs (inclusive English and Mathematics).",
+        "Diploma": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "STPM": "Minimum 2C+.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "SACE/WACE": "Please consult with our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+      },
+      "english_requirements": {
+        "IELTS": "Band 6"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 4200,
+        "tuition_fee": 55440
+      },
+      "course_content": {
+        "core": "Year 1 Economics Principles of Accounting Business Mathematics Business English Business Statistics Principles of Management Financial Accounting 1 Principles of Finance Principles of Marketing Business Law Year 2 Entrepreneurship and Enterprise Management Management Information Systems Managing People and Organisation Financial Management Financial Accounting 2 Investment Business Research Methods Corporate Finance Taxation 1 Management Accounting Financial Reporting Company Law Year 3 Strategic Management Auditing Elective 1 (select ONE)\nCapital Markets & Malaysian Securities Law\nCorporate Secretaryship Capital Markets & Malaysian Securities Law Corporate Secretaryship Elective 2 (select ONE)\nTaxation 2\nIslamic Finance Taxation 2 Islamic Finance Undergraduate Project Global Cross-Cultural Management Ethics in Business Advanced Financial Reporting Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Es.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5Bs (inclusive English and Mathematics)."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2C+.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please consult with our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Business Management",
+      "field_of_study": "Business and Management",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Industrial training",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Minimum 5Bs (inclusive of English).  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Minimum ATAR score of 65%.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "Band 6"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3960,
+        "tuition_fee": 52800
+      },
+      "course_content": {
+        "core": "Year 1 Economics Principles of Accounting Business Mathematics Business English Business Statistics Principles of Management Financial Accounting 1 Principles of Finance Principles of Marketing Business Law Year 2 Entrepreneurship and Enterprise Management Management Information System Managing People and Organisation Business Project Management International Business Business Research Methods Corporate Finance Taxation 1 Management Accounting Social Media Marketing Year 3 Strategic Management Supply Chain Management Marketing Management Elective 1 (select ONE) :\nCapital Markets & Malaysian Securities Law\nCorporate Secretaryship Capital Markets & Malaysian Securities Law Corporate Secretaryship Elective 2 (select ONE) :\nHuman Resource Management\nRisk Management Human Resource Management Risk Management Undergraduate Project Global Cross-Cultural Management Ethics in Business Organisational Development Management Elective 3 (select ONE) :\nCompany Law\nMarketing Communications Company Law Marketing Communications Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5Bs (inclusive of English).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Minimum ATAR score of 65%.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Intelligent Systems) (Hons)",
+      "field_of_study": "Computer Science",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "3 months Y2",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum 2Es.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject",
+        "UEC": "Minimum 5 Bs (inclusive of English & Mathematics).  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject",
+        "STPM": "Minimum 2Cs.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 7200,
+        "tuition_fee": 54656
+      },
+      "course_content": {
+        "core": "Year 1 Mathematics in Computing Basic Computing Principles Programming Methods System Analysis and Design Computer Ethics and Cyber Law Digital Electronics Discrete Mathematics Introduction to Intelligent Systems Computer Networks Database Systems Structured Programming Year 2 IT Project Management Business Intelligence Database Management Systems Generic Programming Operating Systems Visual Programming Software Development Embedded Systems Computer Architecture Multimedia Systems Object Oriented Programming Data Structures and Algorithms *Upon completion of Year 2, students are required to undergo 12 weeks of industrial training. Year 3 Project 1 Human Computer Interaction Artificial Intelligence Elective I & Elective II\nData Science Analytics\nMobile Platform Programing\nLarge Scale Computing\n3D Modelling Data Science Analytics Mobile Platform Programing Large Scale Computing 3D Modelling Project 2 IoT and Intelligent Systems Integration Machine Learning Natural Language Processing Elective III & Elective IV\nReal-Time Analysis and Design\nCloud Computing\nDistributed Systems\nRich Media Technology Real-Time Analysis and Design Cloud Computing Distributed Systems Rich Media Technology",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Es.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 Bs (inclusive of English & Mathematics).  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and a Science/Tech/Engineering subject"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Marketing",
+      "field_of_study": "Fashion Design",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum 2Cs.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "UEC": "Minimum 5Bs.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "STPM": "Minimum 2Cs.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "Foundation": "Minimum CGPA 2.00.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "CPU": "Please contact our counsellors for further details.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "SACE/WACE": "Please contact our counsellors for further details.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 9000,
+        "tuition_fee": 56608
+      },
+      "course_content": {
+        "core": "Year 1 (2 Semesters)\nFashion Communication\nDesign and Illustration\nFashion Through Time\nDesktop Publishing\nCommunication Writing Skills\nVisual Communication\nFashion Marketing and Branding\nFashion Consumer Behavior\nComputer Aided Design\nCommunication Presentation Skills Year 1 (2 Semesters) Year 2 (2 Semesters)\nFashion Marketing\nContemporary Design Influence\nTextile Studies\nGlobalisation and E-Marketing\nElective (select ONE):\nPrinciples of Financial Accounting\nBasic Pattern Construction\nFashion Coordination and Branding\nResearch Methodology\nVisual Merchandising\nFashion Photography\nElective (select ONE):\nPrinciples of Economic\nIntermediate Pattern Construction Year 2 (2 Semesters) Year 3 (2 Semesters)\nFinal Major Project 1\nResearch Methodology\nRetail Marketing and Management\nMerchandising and Buying\nFinal Major Project 2\nIndependent Study Dissertation\nPortfolio Development Year 3 (2 Semesters)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "portfolio review"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Arts"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "portfolio review"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Arts"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5Bs.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "portfolio review"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Arts"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "portfolio review"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Arts"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "portfolio review"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Arts"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "portfolio review"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Arts"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Pass portfolio review and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "portfolio review"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Arts"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "UEC": "Minimum 5Bs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "STPM": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "Foundation": "Minimum CGPA 2.00.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "CPU": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "SACE/WACE": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 8000,
+        "tuition_fee": 55680
+      },
+      "course_content": {
+        "core": "Year 1\nDesign Principles and Practices\nDigital Imaging\nFundamental of Typography\nCommunication Writing Skills\nConceptual Drawing\nAdvertising and Branding\nWeb Design\nIllustration\nCommunication Presentation Skills\nCreative Thinking\nConsumer Behaviour OR\nPrinciples of Economics\nCreative Entrepreneurship OR\nSustainable Design Year 1 Year 2\nDigital Publication\nVisual Culture\nInteractive and Information Design\nIllustration and Image Making\nVisual Merchandising\nExploring Animation\nMotion Graphic\nMobile Apps Design\nVisual Culture\nVisual Merchandising\nSelf-Initiated Research\nIntegrated New Media Design\nDesign Seminar\nProfessional Practice Year 2 Year 3\nFinal Major Project I\nFinal Major Project II\nDissertation\nPortfolio\nIndustrial Training Year 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5Bs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Furniture and Product Design",
+      "field_of_study": "Industrial Design",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Industrial Placement",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "UEC": "Minimum 5Bs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "STPM": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "Foundation": "Minimum CGPA 2.00.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "CPU": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "SACE/WACE": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 8770,
+        "tuition_fee": 55680
+      },
+      "course_content": {
+        "core": "Year 1\nDesign Studio 1\nDesign Communication 1\nMaterial and Technology 1\nCritical Studies 1\nCommunication Writing Skills\nElective Subjects (select one)\nVisual Merchandising\nSustainable Design\nDesign Studio 2\nDesign Communication 2\nMaterial and Technology 2\nCritical Studies 2\nCommunication Presentation Skills\nConsumer Behavior or Principles of Economics\nYear 2\nDesign Studio 3\nComputer Aided Design 1\nCritical Studies 3\nProfessional Practice\nDesign and Portfolio\nDesign Studio 4\nComputer Aided Design 2\nCritical Studies 4\nResearch methodology and proposal\nElective Subjects (select one)\nCreative Entrepreneurship\nDesign Competition And Special Project\nYear 3\nDesign Studio 5\nDesign Studio 6\nDesign and Exhibition\nDissertation\nProject Management\nIndustrial Placement Year 1 Year 2 Year 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5Bs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Systems (Hons) in Business Management",
+      "field_of_study": "Information Systems",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum 2Es.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "UEC : Minimum 5Bs (including English and Mathematics).  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "Minimum 2Cs.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 7200,
+        "tuition_fee": 54208
+      },
+      "course_content": {
+        "core": "Year 1 Basic Computing Principles Systems Analysis and Design Programming Methods Computer Ethics and Cyber Law Web Design Principles Database Systems Structured Programming Internet Programming & Applications Principles of Management Principles of Marketing Year 2 IT Project Management Database Management Systems Business Intelligence Entrepreneurship and Enterprise Management Management Information System Managing People and Organisation Software Development E-Commerce Infrastructure and Technologies Multimedia Systems Business Research Methods Social Media Marketing *Upon completion of Year 2, students are required to undergo 12 weeks of industrial training. Year 3 Project 1 Data Science and Big Data Analytics Mobile Platform Programming Supply Chain Management Elective I & II :\nRisk Management\nHuman Computer Interaction\nLarge-Scale Computing Risk Management Human Computer Interaction Large-Scale Computing Elective III & IV :\nOrganisational Development Management\nCloud Computing\nDistributed System Organisational Development Management Cloud Computing Distributed System Project 2 Data Warehousing and Data Mining Enterprise Resource Planning Ethics in Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Es.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "UEC : Minimum 5Bs (including English and Mathematics).  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Networking and Security)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "3 months",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum 2Es.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "Minimum 5 Bs (inclusive of English & Mathematics).  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "Minimum 2Cs.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 7920,
+        "tuition_fee": 57344
+      },
+      "course_content": {
+        "core": "Year 1 Basic Computing Principles Systems Analysis and Design Programming Methods Computer Ethics and Cyber Law Web Design Principles Mathematics for Computing Computer Architecture Database Systems Structured Programming Internet Programming & Applications Discrete Mathematics Fundamentals of Network Security Year 2 IT Project Management Statistics Operating Systems Web Administration Computer Networks Introduction to Computer Forensics Software Development Object-oriented Programming Data Structures and Algorithms Wireless and Mobile Network Security Biometric Technology Year 3 Project 1 Ethical Hacking Wireless and Mobile Communications Project 2 Internet of Things for Mobile Computing Distributed Systems Elective I & II :\nResearch Methodology\nArtificial Intelligence\nMobile Platform Programming\nMandarin Language (Basic) Research Methodology Artificial Intelligence Mobile Platform Programming Mandarin Language (Basic) Elective III & IV :\nReal-time Analysis and Design\nNatural Language Processing\nMandarin (Higher Basic) Real-time Analysis and Design Natural Language Processing Mandarin (Higher Basic)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Es.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 Bs (inclusive of English & Mathematics).  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Interior Architecture and Design",
+      "field_of_study": "Interior Architecture",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "UEC": "Minimum 5Bs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "STPM": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "Foundation": "Minimum CGPA 2.00.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "CPU": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)",
+        "SACE/WACE": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 9800,
+        "tuition_fee": 57536
+      },
+      "course_content": {
+        "core": "Year 1 (2 Semesters)\nDesign Studio 1\nDesign Communication 1\nArchitecture History and Context 1\nBuilding Material and Construction 1\nCommunication Writing Skills\nDesign Studio 2\nDesign Communication 2\nArchitecture History and Context 2\nBuilding Material and Construction 2\nCommunication Presentation Skills\nYear 2 (2 Semesters)\nDesign Studio 3\nBuilding Technology and Services 1\nArchitecture History and Context 3\nComputer Aided Design 1\nElective Subjects\nCreative Entrepreneurship\nConsumer Behavior\nDesign Studio 4\nBuilding Technology and Services 2\nArchitecture History and Context 4\nComputer Aided Design 2\nDesign Portfolio\nIndustrial Placement (compulsory 6 months duration) after completing Year 2\nYear 3 (2 Semesters)\nDesign Studio 5\nProfessional Practice\nResearch Proposal and Methodology\nElective Subjects\nVisual Merchandising\nSustainable Design\nDesign Competition and Special Project\nDesign Studio 6\nProject Management & Documentation\nDissertation Year 1 (2 Semesters) Year 2 (2 Semesters) Year 3 (2 Semesters)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5Bs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Pass portfolio interview and obtained in SPM-level or equivalent:\npass in English and Arts (Pendidikan Seni)"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Marketing",
+      "field_of_study": "Marketing",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum 2Es.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Minimum 5Bs (inclusive of Mathematics and English).",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "Minimum 2Cs.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "Band 6"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3960,
+        "tuition_fee": 53680
+      },
+      "course_content": {
+        "core": "Year 1 Economics Principles of Accounting Business Mathematics Business English Business Statistics Principles of Management Financial Accounting 1 Principles of Finance Principles of Marketing Business Law Year 2 Entrepreneurship and Enterprise Management Management Information System Business Project Management International Business Marketing Management Business Research Methods Social Media Marketing Customer Relationship Management Marketing Communications Service Management Year 3 Strategic Management Supply Chain Management Marketing Research Elective 1 (select ONE)\nBusiness to Business Marketing\nConsumer Behaviour Business to Business Marketing Consumer Behaviour Elective 2 (select ONE)\nMarketing Consultancy\nProduct Management Marketing Consultancy Product Management Undergraduate Project Global Cross-Cultural Management Ethics in Business Retail Management Elective (Select ONE)\nRisk Management\nOrganisational Development Management Risk Management Organisational Development Management Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Es.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5Bs (inclusive of Mathematics and English)."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Mass Communication",
+      "field_of_study": "Mass Communication",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum 2Es.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "Minimum 2Cs.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "IELTS": "Band 5"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 6300,
+        "tuition_fee": 53680
+      },
+      "course_content": {
+        "core": "Year 1 Public Speaking Introduction To Mass Communication Fundamentals of Public Relations Journalism Studies Communicative English Mass Media and Society Writing For Mass Communication 1 Interpersonal Communication Integrated Marketing Communication Creative and Critical Thinking Year 2 Writing For Mass Communication 2 Approaches To Media And Culture Photojournalism Digital Storytelling and Production Audience and Reception Studies Mass Communication Theories Mass Communication Research Methods Principles of Translation Public Opinion and Persuasion Applied Organizational Communication Year 3 Communication Law And Ethics Media Planning Asian Media Crisis Management in Communication Customer Relationship Management Human Resource Management Communication Technologies Global Media And Communication Mass Communication Project Webpage Design Desktop Publishing Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Es.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Software Engineering (Honours)",
+      "field_of_study": "Software Engineering",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "3 months Y2",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum 2Es.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject",
+        "UEC": "Minimum 5 Bs (inclusive of English & Mathematics).  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject",
+        "STPM": "Minimum 2Cs.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 7200,
+        "tuition_fee": 57344
+      },
+      "course_content": {
+        "core": "Year 1 Basic Computing Principles Systems Analysis and Design Programming Methods Mathematics in Computing Database Systems Internet Design Principles Computer Architecture Computer Ethics and Cyber Law Structured Programming Internet Programming & Applications Discrete Mathematics Software Requirements Engineering Year 2 IT Project Management Generic Programming Visual Programming Software Testing and Quality Assurance Operating Systems Database Management Systems Software Development Object-oriented Programming Software Engineering Principles Data Structures and Algorithms Software Verification and Validation Computer Networks *Upon completion of Year 2, students are required to undergo 12 weeks of industrial training. Year 3 Project 1 Human Computer Interaction Object-oriented Analysis and Design Research Methodology Project 2\nCloud Computing\nFormal Methods\nReal-time Analysis and Design Cloud Computing Formal Methods Real-time Analysis and Design Elective I & II :\nLarge-scale Computing\nArtificial Intelligence\nMobile Platform Programming Large-scale Computing Artificial Intelligence Mobile Platform Programming Elective III & IV :\nInternet of Things\nDistributed Systems\nNatural Language Processing Internet of Things Distributed Systems Natural Language Processing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Es.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 Bs (inclusive of English & Mathematics).  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 2Cs.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics OR\ncredit in Mathematics and one Science/Technology/Engineering subject"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits, pass in English.",
+        "O-Level": "Pass with at least 3 credits, pass in English.",
+        "UEC": "Grade B in 3 relevant subjects, pass in English."
+      },
+      "english_requirements": {
+        "IELTS": "Band 4"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3000,
+        "tuition_fee": 19350
+      },
+      "course_content": {
+        "core": "Year 1\n\n• English\n• Introduction to Microeconomics\n• Information Technology in Business\n• Financial Accounting 1\n• Organizational Theory and Behavior\n• Bus. English for Communication\n• Introduction to Macroeconomics\n• Business Mathematics\n• Financial Accounting 2\n• Introduction to IT\n• English: Reading & Writing for Academic Purposes\n• Statistics for Business\n• International Business Year 1 Year 2\n\n• Public Speaking\n• Cost Accounting\n• Financial Accounting 3\n• Introduction to Marketing\n• Principles of Management\n• Investment Analysis\n• Human Resource Management\n• Business Ethics\n• Introduction to Law\n• E-Commerce\n• Entrepreneurship\n• Business Communication\n• Management Accounting\n• Fundamentals of Finance Year 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 5600,
+        "tuition_fee": 21855
+      },
+      "course_content": {
+        "core": "Year 1 • Color Studies\n• Drawing\n• Design Principles\n• Introduction to Art History\n• English for Academic Writing\n• Illustration\n• Typography\n• Photography\n• Digital Imaging\n• Visual Culture\n• Creative Studies\n• Graphic Design History\n• Introduction to Advertising Design Year 2 • Publication Design\n• Narrative Drawing\n• 2D Animation\n• Professional Practice\n• English for Professional Communication\n• Digital Publication\n• Packaging Design\n• Motion Graphics\n• 3D Animation\n• Corporate Identity Design\n• Industry Placement\n• Industry Placement Simulation Year 3 • Design Showcase\n• Brand Communication\n• Design Major\n• Environmental Graphic Design",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics and at least a pass in English.",
+        "O-Level": "Minimum 3Cs (including Mathematics & 1 Science subject and at least a pass in English).",
+        "UEC": "Pass with 3Bs including Mathematics and at least a pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3600,
+        "tuition_fee": 19800
+      },
+      "course_content": {
+        "core": "Year 1 English for Communication Mathematics for Computing Computer Applications Introduction to ICT Multimedia Technology and Development Communication Skills Database Management Systems Discrete Mathematics Introduction to Programming Basic Web Development Operating Systems System Analysis and Design E-Commerce Year 2 Project Management Human Computer Interaction Fundamentals of Mobile Computing Elective I Elective II Final Project Object-Oriented Development Advanced Web Development Computer Networks Elective III Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics and at least a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3Cs (including Mathematics & 1 Science subject and at least a pass in English)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3Bs including Mathematics and at least a pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects.",
+        "O-Level": "Grade C in 3 relevant subjects.",
+        "UEC": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "": ""
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 5600,
+        "tuition_fee": 21150
+      },
+      "course_content": {
+        "core": "Year 1 Interior Design 1 Architectural Graphics 1 Design History 1 English for Academic Writing Elective Subjects (select one)\n- Creative Studies\n- Life Drawing Interior Design 2 Architectural Graphics 2 Design History 2 Computer Aided Design: 2D Elective Subjects (select one)\n- English for Academic Purpose\n- Colour Studies Building Material Studies Elective Subjects (select one)\n- Photography and Digital Imaging\n- Temporary Structure Design\n- Introduction to Visual Culture Year 2 Interior Design 3 Building Studies 1 Furniture Design 1 Design Communication Computer Aided Design: 3D Interior Design 4 Building Studies 2 Furniture Design 2 Professional Practice Elective Subjects (select one)\n- Industry Placement\n- Industry Placement – Simulation Year 3 Interior Design 5 Design Thesis Report Project Management Tender and Contract Documentation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Mass Communication",
+      "field_of_study": "Mass Communication",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including English.",
+        "O-Level": "Pass with at least 3 credits including English.",
+        "UEC": "Grade B in 3 relevant subjects including English."
+      },
+      "english_requirements": {
+        "IELTS": "Band 5"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 4200,
+        "tuition_fee": 19565
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Mass Communication Public Relations 1 English Introduction to Social Psychology Principles of Advertising Photography 1 Introduction to Business Writing for Mass Media Consumer Behaviour Principles of Marketing Computer Graphics Photography 2 Media Management English for Academic Studies Business Communication Year 2 Introduction to Broadcasting Mass Media and Society Public Relations 2 Journalism 1 Web Design and Development Work Placement Media and Marketing Communications Journalism 2 Communication Laws Speech Communication Multimedia Technology Mass Communication Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects including English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business Administration (Accounting)",
+      "field_of_study": "Foundation in Arts",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "min. 5 credits including English, Mathematics.",
+        "O-Level": "min. 5 credits including English, Mathematics.",
+        "UEC": "min. 4 credits including English, Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2400,
+        "tuition_fee": 6800
+      },
+      "course_content": {
+        "core": "Semester 1\nBusiness Mathematics\nInformation Technology in Practice\nPrinciples of Accounting 1\nMicroeconomics\nEnglish Semester 1 Semester 2\nBusiness Communication\nIntroduction to Business Management\nPrinciples of Accounting 2\nMacroeconomics\nIntroduction to Entrepreneurship Skills Semester 2 Semester 3\nPrinciples of Marketing Electives Semester 3  Electives\nCost & Management Accounting*\nBusiness Statistics*\nOrganisational Behaviour*\nIntroduction to Hospitality and Leisure**\nFoundation In Tourism**\nTourism and Its Environment**\nBusiness Mathematics\nInformation Technology in Practice\nPrinciples of Accounting 1\nMicroeconomics\nEnglish Electives * Elective modules for Business Degree Programme ** Elective modules for Hospitality and Tourism Degree Programme",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 5 credits including English, Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 5 credits including English, Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 4 credits including English, Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Art & Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5 credits (including English).",
+        "O-Level": "Minimum 5 credits (including English).",
+        "UEC": "Minimum 4 Bs (including English)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3900,
+        "tuition_fee": 7000
+      },
+      "course_content": {
+        "core": "Semester 1 Introductory & Diagnostic Projects\nVisual Analysis\nColour Studies\nFundamental of 2D and 3D Designs\nWorkshops (Printmaking, Photography, Computer) Visual Analysis Colour Studies Fundamental of 2D and 3D Designs Workshops (Printmaking, Photography, Computer) Drawing 1\n Basic Skill and Techniques Basic Skill and Techniques Critical Studies 1\n Research and Critical Writing\nHistory and Theory of Art & Design Research and Critical Writing History and Theory of Art & Design English 1\n Academic Writing Skills\nGrammar and Mechanics Academic Writing Skills Grammar and Mechanics Semester 2 Pre Specialist Projects\n Applied 2D and 3D Designs\nApplied Drawing and Colour Applied 2D and 3D Designs Applied Drawing and Colour Drawing 2\n Advanced Skill and Techniques Advanced Skill and Techniques Critical Studies 2\n Research and Critical Writing\nHistory and Theory of Art & Design Research and Critical Writing History and Theory of Art & Design English 2\n Academic Writing Skills\nPresentation Skills Academic Writing Skills Presentation Skills Semester 3 Specialist Projects\nFinal Project: Indication towards choice of degree studies in various specialisations: Graphic Design, Interior Architecture & Design, Furniture & Product Design and Fashion Marketing. Drawing 3\nDrawing in Specialised Areas Drawing in Specialised Areas",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (including English)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (including English)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 4 Bs (including English)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business Administration",
+      "field_of_study": "Foundation in Arts",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5 credits (inclusive of English and at least a pass in Malay Language and History).",
+        "O-Level": "Minimum 5 credits (inclusive of English).",
+        "UEC": "Minimum 4 Bs (inclusive of English)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2400,
+        "tuition_fee": 6800
+      },
+      "course_content": {
+        "core": "Semester 1\nBusiness Mathematics\nInformation Technology in Practice\nPrinciples of Accounting 1\nMicroeconomics\nEnglish\nSemester 2\nBusiness Communication\nIntroduction to Business Management\nPrinciples of Accounting 2\nMacroeconomics\nIntroduction to Entrepreneurship Skills\nSemester 3\nPrinciples of Marketing Electives Semester 1 Semester 2 Semester 3 Electives\nCost & Management Accounting*\nBusiness Statistics*\nOrganisational Behaviour*\nIntroduction to Hospitality and Leisure**\nFoundation In Tourism**\nTourism and Its Environment**\nBusiness Mathematics\nInformation Technology in Practice\nPrinciples of Accounting 1\nMicroeconomics\nEnglish Electives * Elective modules for Business Degree Programme ** Elective modules for Hospitality and Tourism Degree Programme",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Malay Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "History"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (inclusive of English and at least a pass in Malay Language and History)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (inclusive of English)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 4 Bs (inclusive of English)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Computer Science & Technology (Software Engineering)",
+      "field_of_study": "Foundation in Science",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "min. 5 credits including English and Additional Mathematics or credit in Mathematics and Science/Technology/Engineering subjects.",
+        "O-Level": "min. 5 credits including English and Additional Mathematics or credit in Mathematics and Science/Technology/Engineering subjects.",
+        "UEC": "min. 4 credits including Mathematics and English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3000,
+        "tuition_fee": 6800
+      },
+      "course_content": {
+        "core": "Computing\nSemester 1\nAnalytical Mathematics\nCommunication and Study Skills\nComputer Technology\nPersonal and Professional Development\nAdvance Office Software\nSemester 2\nCalculus Mathematics\nSoftware Design Techniques\nWeb Design\nStructured Programming\nSemester 3\nGroup Project\nDatabase\nObject-Oriented Programming\nSystems Analysis and Design Computing Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 5 credits including English and Additional Mathematics or credit in Mathematics and Science/Technology/Engineering subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science",
+              "Technology",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 5 credits including English and Additional Mathematics or credit in Mathematics and Science/Technology/Engineering subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "min. 4 credits including Mathematics and English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Computer Science & Technology (IT Pathway)",
+      "field_of_study": "Foundation in Science",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5 credits including English, Mathematics.",
+        "O-Level": "Minimum 5 credits (inclusive of English, Mathematics).",
+        "UEC": "Minimum 4Bs including English, Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3000,
+        "tuition_fee": 6800
+      },
+      "course_content": {
+        "core": "Computing\nSemester 1\nAnalytical Mathematics\nCommunication and Study Skills\nComputer Technology\nPersonal and Professional Development\nAdvance Office Software\nSemester 2\nCalculus Mathematics\nSoftware Design Techniques\nWeb Design\nStructured Programming\nSemester 3\nGroup Project\nDatabase\nObject-Oriented Programming\nSystems Analysis and Design Computing Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits including English, Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (inclusive of English, Mathematics)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 4Bs including English, Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Design Management",
+      "field_of_study": "Communication",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A Bachelor’s degree in Art & Design or related field with minimum CGPA 2.67.  Bachelor’s degree in Art & Design or related field with CGPA 2.00 - 2.66 and a minimum of 3 years working experience in relevant field"
+      },
+      "english_requirements": {
+        "IELTS": "Band 6.5"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 39600
+      },
+      "course_content": {
+        "core": "Semester 1 Design Management Design Research Contemporary Issues Design Practice Project Semester 2 Design and Brand Strategy Creative Entrepreneurship Design Thinking Design Innovation Project Semester 3 Professional Practice Dissertation Final Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.67
+          },
+          {
+            "type": "raw",
+            "text": "A Bachelor’s degree in Art & Design or related field with minimum CGPA 2.67.  Bachelor’s degree in Art & Design or related field with CGPA 2.00 - 2.66 and a minimum of 3 years working experience in relevant field"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration",
+      "field_of_study": "MBA Programme",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A bachelor’s degree with a minimum CGPA of 2.50 or equivalent."
+      },
+      "english_requirements": {
+        "IELTS": "Band 6.5"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 39600
+      },
+      "course_content": {
+        "core": "Semester 1 Economic for Manager Quantitative Approach Organisation Behaviour Strategic Marketing Management Entrepreneurship and Innovation Semester 2 Ethics and Sustainability Bussiness Management Strategic Financial Analysis Research Methods for Managers Business Law for Managers International Trade & Policy Semester 3 Problem Solving and Decision Making Logistics Management Business Consulting Strategic Management Strategic Human Resource Management Research Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "A bachelor’s degree with a minimum CGPA of 2.50 or equivalent."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Software Engineering",
+      "field_of_study": "Software Engineering",
+      "location": "First City, Bandar Utama",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.75.  Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment process or Bachelor’s Degree or its equivalent, with CGPA less than 2.50, with a minimum of 5 years working experience in a relevant field may be accepted"
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 38700
+      },
+      "course_content": {
+        "core": "Semester 1\nResearch Methodology\nIT Project Management\nSoftware Architecture\nAdvanced Programming and Software Development\nEntrepreneurship and Innovation\nSemester 2\nRequirements Analysis and Specification\nAdvanced Data Structure and Algorithm\nProfessional Practice\nSoftware Testing and Maintenance\nResearch Project 1\nSemester 3\nResearch Project 2\nFormal Methods for Software Engineering\nElective I\nElective II Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.75.  Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment process or Bachelor’s Degree or its equivalent, with CGPA less than 2.50, with a minimum of 5 years working experience in a relevant field may be accepted"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/MDIS+Malaysia+International+College/MDIS%2C+Educity+Nusajaya/Campus_and_Surroundings/01b_MDIS%2C_Educity_Nusajaya_MDIS_Main_Building.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -47,11 +50,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in English Communication",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -116,11 +120,12 @@
             "text": "Pass O-Level with a minimum Grade C in one subject and a pass in English."
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "BSc (Hons) International Tourism and Hospitality Management (3+0), University of Sunderland, United Kingdom",
-      "field_of_study": "Hospitality and Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Feb",
@@ -230,11 +235,12 @@
             "text": "Pass with a minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Hospitality and Tourism Management"
     },
     {
       "program_name": "BA (Hons) Media, Culture & Communication (3+0), University of Sunderland, United Kingdom",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Feb",
@@ -368,11 +374,12 @@
             "text": "Pass with a minimum CGPA 2.00.  Credit in English in SPM"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -543,11 +550,12 @@
             "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Obtain a credit in Mathematics and a pass in English in SPM"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -658,11 +666,12 @@
             "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Finance",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -833,11 +842,12 @@
             "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Obtain a credit in Mathematics and a pass in English in SPM"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -948,11 +958,12 @@
             "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -1093,11 +1104,12 @@
             "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Credit in Mathematics in SPM"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -1208,11 +1220,12 @@
             "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Diploma in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -1323,11 +1336,12 @@
             "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Mass Communication",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -1468,11 +1482,12 @@
             "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Credit in English in SPM"
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Tourism Management",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -1583,11 +1598,12 @@
             "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "MDIS, Educity Nusajaya Johor",
       "intakes": [
         "Jan",
@@ -1640,7 +1656,8 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     }
   ]
 }

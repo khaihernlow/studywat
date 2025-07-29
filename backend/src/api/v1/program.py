@@ -5,6 +5,7 @@ from src.models.pydantic.program import ProgramInDB
 from src.models.pydantic.institution import InstitutionInDB
 from bson import ObjectId
 import logging
+from pathlib import Path
 logger = logging.getLogger(__name__)
 
 router = APIRouter()
@@ -15,9 +16,84 @@ def get_collection(db):
 def get_institution_collection(db):
     return db['institution']
 
+def load_fields_of_study():
+    """Load field of study data from the text file"""
+    # Try multiple possible paths
+    possible_paths = [
+        Path(__file__).resolve().parent.parent.parent / "src" / "resources" / "field_of_study.txt",
+        Path(__file__).resolve().parent.parent / "resources" / "field_of_study.txt",
+        Path.cwd() / "src" / "resources" / "field_of_study.txt",
+        Path.cwd() / "backend" / "src" / "resources" / "field_of_study.txt",
+    ]
+    
+    path = None
+    for p in possible_paths:
+        if p.exists():
+            path = p
+            break
+    
+    if not path:
+        logger.error("Could not find field_of_study.txt file")
+        return []
+    
+    fields = []
+    current_field = None
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                if line.startswith("Field of Study: "):
+                    current_field = line.replace("Field of Study: ", "")
+                elif ":" in line and current_field:
+                    try:
+                        course, desc = line.split(":", 1)
+                        fields.append({
+                            "field": current_field,
+                            "course": course.strip(),
+                            "description": desc.strip()
+                        })
+                    except ValueError:
+                        continue
+    except FileNotFoundError:
+        logger.error(f"Field of study file not found at {path}")
+        return []
+    except Exception as e:
+        logger.error(f"Error reading field of study file: {e}")
+        return []
+    return fields
+
+@router.get("/field-of-study-options")
+async def list_field_of_study_options():
+    """Get all available field of study options grouped by field"""
+    fields_data = load_fields_of_study()
+    
+    # Group by field
+    grouped_fields = {}
+    for item in fields_data:
+        field = item["field"]
+        if field not in grouped_fields:
+            grouped_fields[field] = []
+        grouped_fields[field].append({
+            "label": item["course"],
+            "value": item["course"].lower().replace(" ", "_").replace("&", "and"),
+            "description": item["description"]
+        })
+    
+    # Convert to the format expected by frontend
+    sections = []
+    for field, courses in grouped_fields.items():
+        sections.append({
+            "label": field,
+            "courses": courses
+        })
+    
+    return {"sections": sections}
+
 @router.get("/")
 async def list_programs(
-    field_of_study: Optional[str] = Query(None),
+    course: Optional[List[str]] = Query(None),
     location: Optional[str] = Query(None),
     program_type: Optional[str] = Query(None),
     program_name: Optional[str] = Query(None),
@@ -33,8 +109,8 @@ async def list_programs(
 ):
     logger.info("institution_name param: %s", institution_name)
     match_stage = {}
-    if field_of_study:
-        match_stage["field_of_study"] = field_of_study
+    if course:
+        match_stage["course"] = {"$in": course}
     if location:
         match_stage["location"] = location
     if program_type:

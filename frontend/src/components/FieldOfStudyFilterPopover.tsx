@@ -17,42 +17,27 @@ function useIsMobile() {
   return isMobile;
 }
 
-const SECTIONS = [
-  {
-    label: 'Computing',
-    courses: [
-      { label: 'Computer Science', value: 'computer_science' },
-      { label: 'Software Development', value: 'software_development' },
-      { label: 'Data Science', value: 'data_science' },
-      { label: 'Cybersecurity', value: 'cybersecurity' },
-    ],
-  },
-  {
-    label: 'Law',
-    courses: [
-      { label: 'Law', value: 'law' },
-      { label: 'International Law', value: 'international_law' },
-      { label: 'Business Law', value: 'business_law' },
-    ],
-  },
-  {
-    label: 'Medicine',
-    courses: [
-      { label: 'Medicine', value: 'medicine' },
-      { label: 'Dentistry', value: 'dentistry' },
-      { label: 'Pharmacy', value: 'pharmacy' },
-    ],
-  },
-];
+export interface FieldOfStudySection {
+  label: string;
+  courses: Array<{
+    label: string;
+    value: string;
+    description: string;
+  }>;
+}
 
 export default function FieldOfStudyFilterPopover({
   selectedCourses,
   onChange,
   resetSignal,
+  sections,
+  loading,
 }: {
   selectedCourses: string[];
   onChange: (values: string[]) => void;
   resetSignal?: number;
+  sections: FieldOfStudySection[];
+  loading?: boolean;
 }) {
   const [open, setOpen] = useState(false);
   const [expanded, setExpanded] = useState<string[]>([]);
@@ -107,44 +92,54 @@ export default function FieldOfStudyFilterPopover({
 
   const content = (
     <div className={`w-full flex flex-col ${isMobile ? 'p-4 gap-2' : 'p-1 gap-1'}`}>
-      {SECTIONS.map(section => (
-        <div key={section.label}>
-          <button
-            type="button"
-            className="flex items-center justify-between w-full text-left text-base font-medium"
-            onClick={() => toggleSection(section.label)}
-          >
-            <span>{section.label}</span>
-            {expanded.includes(section.label) ? (
-              <ChevronDown className="w-4 h-4" />
-            ) : (
-              <ChevronRight className="w-4 h-4" />
-            )}
-          </button>
-          {expanded.includes(section.label) && (
-            <div className="flex flex-col pb-2 w-full">
-              {section.courses.map(course => {
-                const checked = selectedCourses.includes(course.value);
-                return (
-                  <div
-                    key={course.value}
-                    className={`flex items-center px-2 py-1.5 cursor-pointer text-sm`}
-                    onClick={() => handleSelect(course.value)}
-                  >
-                    <span className={
-                      'mr-2 flex h-4 w-4 items-center justify-center rounded-sm border border-primary ' +
-                      (checked ? 'bg-primary text-primary-foreground' : 'opacity-50')
-                    }>
-                      {checked && <Check className="h-3 w-3" />}
-                    </span>
-                    <span>{course.label}</span>
-                  </div>
-                );
-              })}
-            </div>
-          )}
+      {loading ? (
+        <div className="text-center py-4 text-muted-foreground">
+          Loading field of study options...
         </div>
-      ))}
+      ) : sections.length === 0 ? (
+        <div className="text-center py-4 text-muted-foreground">
+          No field of study options available
+        </div>
+      ) : (
+        sections.map(section => (
+          <div key={section.label}>
+            <button
+              type="button"
+              className="flex items-center justify-between w-full text-left text-base font-medium"
+              onClick={() => toggleSection(section.label)}
+            >
+              <span>{section.label}</span>
+              {expanded.includes(section.label) ? (
+                <ChevronDown className="w-4 h-4" />
+              ) : (
+                <ChevronRight className="w-4 h-4" />
+              )}
+            </button>
+            {expanded.includes(section.label) && (
+              <div className="flex flex-col pb-2 w-full">
+                {section.courses.map(course => {
+                  const checked = selectedCourses.includes(course.value);
+                  return (
+                    <div
+                      key={course.value}
+                      className={`flex items-center px-2 py-1.5 cursor-pointer text-sm`}
+                      onClick={() => handleSelect(course.value)}
+                    >
+                      <span className={
+                        'mr-2 flex h-4 w-4 items-center justify-center rounded-sm border border-primary ' +
+                        (checked ? 'bg-primary text-primary-foreground' : 'opacity-50')
+                      }>
+                        {checked && <Check className="h-3 w-3" />}
+                      </span>
+                      <span>{course.label}</span>
+                    </div>
+                  );
+                })}
+              </div>
+            )}
+          </div>
+        ))
+      )}
       {selectedCourses.length > 0 && (
         <>
           <Separator className="my-2" />
@@ -184,7 +179,7 @@ export default function FieldOfStudyFilterPopover({
                     {selectedCourses.length} selected
                   </span>
                 ) : (
-                  SECTIONS.flatMap(s => s.courses)
+                  sections.flatMap(s => s.courses)
                     .filter(course => selectedCourses.includes(course.value))
                     .map(course => (
                       <span key={course.value} className="rounded-sm px-1 font-normal bg-secondary">
@@ -236,7 +231,7 @@ export default function FieldOfStudyFilterPopover({
                   {selectedCourses.length} selected
                 </span>
               ) : (
-                SECTIONS.flatMap(s => s.courses)
+                sections.flatMap(s => s.courses)
                   .filter(course => selectedCourses.includes(course.value))
                   .map(course => (
                     <span key={course.value} className="rounded-sm px-1 font-normal bg-secondary">
@@ -249,7 +244,7 @@ export default function FieldOfStudyFilterPopover({
         )}
       </Button>
       {open && (
-        <div className="absolute z-30 mt-2 w-64 max-h-[60vh] overflow-y-auto rounded-md border bg-popover p-2 shadow-lg" ref={popoverRef}>
+        <div className="absolute z-30 mt-2 w-96 max-h-[60vh] overflow-y-auto rounded-md border bg-popover p-2 shadow-lg" ref={popoverRef}>
           {content}
         </div>
       )}

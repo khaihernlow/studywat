@@ -191,7 +191,7 @@ export default function Chat() {
   const [isAutomating, setIsAutomating] = useState(false);
   const isMobile = useIsMobile();
   const firstLoadRef = useRef(true);
-  const { getValidAccessToken } = useAuth();
+  const { getValidAccessToken, user } = useAuth();
 
   const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
@@ -247,7 +247,7 @@ export default function Chat() {
   useEffect(() => {
     setTitle('Chat Advisor');
     loadChatHistory();
-  }, [setTitle]);
+  }, [setTitle, user]); // Add user as dependency
 
   // Step 1: After chat loads, fill input and set up auto-send message
   useEffect(() => {
@@ -306,10 +306,6 @@ export default function Chat() {
   }, [messages, isLoadingHistory]);
 
   const loadChatHistory = async () => {
-    if (messages.length > 0) {
-      setIsLoadingHistory(false);
-      return;
-    }
     try {
       setIsLoadingHistory(true);
       const token = await getValidAccessToken();

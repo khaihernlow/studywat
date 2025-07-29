@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/London+School+of+Business+and+Finance+%28LSBF%29+College/LSBF+College+Malaysia/Campus_and_Surroundings/01c_LSBF_College_Malaysia_ENTRANCE.png"
+  ],
   "programs": [
     {
       "program_name": "Diploma in Business Administration (ODL)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "LSBF College Malaysia",
       "intakes": [
         "Jan",
@@ -80,11 +83,12 @@
             "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "LSBF College Malaysia",
       "intakes": [
         "Jan",
@@ -157,11 +161,12 @@
             "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Entrepreneurship",
-      "field_of_study": "Entrepreneurship",
+      "field_of_study": "Business",
       "location": "LSBF College Malaysia",
       "intakes": [
         "Jan",
@@ -234,11 +239,12 @@
             "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
           }
         ]
-      }
+      },
+      "course": "Entrepreneurship"
     },
     {
       "program_name": "Diploma in Human Resource Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "LSBF College Malaysia",
       "intakes": [
         "Jan",
@@ -311,11 +317,12 @@
             "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Diploma in Logistics and Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "LSBF College Malaysia",
       "intakes": [
         "Jan",
@@ -388,11 +395,12 @@
             "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Digital Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "LSBF College Malaysia",
       "intakes": [
         "Jan",
@@ -465,7 +473,8 @@
             "text": "Pass STPM with minimum GPA 2.00 (Grade C) in any 1 Subject."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     }
   ]
 }

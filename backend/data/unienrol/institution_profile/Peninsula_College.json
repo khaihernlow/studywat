@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 19706,
   "malaysia_rank": 124,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Peninsula+College/The+Ship+Campus/Campus_and_Surroundings/01a_The_Ship_Campus_The_Ship_Campus_Aerial.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Business Studies",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "Jan",
@@ -61,11 +64,12 @@
             "text": "Pass with 1 B6."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Certificate in Business Studies",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "Jan",
@@ -98,7 +102,8 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Accounting & Finance (Accounting) (3+0) University of Plymouth, UK",
@@ -223,7 +228,8 @@
             "text": "min. CGPA 2.50.  Credit in Mathematics and a pass in English at SPM level"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BA (Hons) Accounting & Financial Management Studies (3+0) University of Gloucestershire, UK",
@@ -392,11 +398,12 @@
             "text": "Minimum CGPA 2.50.  Credit in Mathematics and a pass in English at SPM/O-Level"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BA (Hons) Business & Management Studies (3+0) University of Gloucestershire, UK",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "May",
@@ -525,11 +532,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc (Hons) Business Management (3+0) University of Plymouth, UK",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "Jun",
@@ -630,11 +638,12 @@
             "text": "min. CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business & Management Studies (Digital Business) (3+0) University of Gloucestershire, UK",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "May",
@@ -770,11 +779,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc (Hons) Computer Science (Cyber Security) (3+0) University of Plymouth, UK",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "Jun",
@@ -895,11 +905,12 @@
             "text": "min. CGPA 2.00.  Credit in Add Maths at SPM level"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Science (2+0) University of Gloucestershire, UK",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "May",
@@ -1062,11 +1073,12 @@
             "text": "Minimum CGPA 2.00.  Credit in Mathematics and a pass in English at SPM/O-Level"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Maritime Business (Logistics) (3+0) University of Plymouth, UK",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "Jun",
@@ -1172,11 +1184,12 @@
             "text": "min. CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "BA (Hons) Logistics Management (3+0) University of Gloucestershire, UK",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "May",
@@ -1307,11 +1320,12 @@
             "text": "Minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "BSc (Hons) Computer Science (Software Engineering) (3+0) University of Plymouth, UK",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "Jun",
@@ -1455,11 +1469,12 @@
             "text": "min. CGPA 2.00.  Credit in Add Maths at SPM level"
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Diploma of Accountancy",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "Jan",
@@ -1536,11 +1551,12 @@
             "text": "Pass with 3 B6 inclusive of Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma of Accountancy",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "Jan",
@@ -1675,11 +1691,12 @@
             "text": "Minimum of Grade C (GP 2.0) in any subject.  Credit in Mathematics, and a pass in English at SPM/O-Level"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in E-Business Technology",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "Jan",
@@ -1756,11 +1773,12 @@
             "text": "Pass with 3 B6 inclusive of Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in E-Business Technology",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "Jan",
@@ -1826,11 +1844,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Business Studies",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "Jan",
@@ -1883,11 +1902,12 @@
             "text": "Pass with 3 B6."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Business Studies",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "Jan",
@@ -1953,11 +1973,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "Jan",
@@ -2034,11 +2055,12 @@
             "text": "Pass with 3 B6 inclusive of Mathematics and pass in English."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "Jan",
@@ -2149,11 +2171,12 @@
             "text": "Minimum of Grade C (GP 2.0) in any subject.  Credit in Mathematics at SPM/O-Level"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Electical and Electronics Engineering Technology",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "Jan",
@@ -2242,11 +2265,12 @@
             "text": "Pass with 3 B6 inclusive of Mathematics and one relevant Science subject and pass in English."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Diploma in Logistics Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "Jan",
@@ -2291,11 +2315,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Logistics Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "Jan",
@@ -2361,11 +2386,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Maritime Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "Jan",
@@ -2431,11 +2457,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Diploma in Law Enforcement",
-      "field_of_study": "Policy Science",
+      "field_of_study": "Language and Social Studies",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "Jan",
@@ -2501,11 +2528,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Policy Science"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "May",
@@ -2589,11 +2617,12 @@
             "text": "Pass with 3 B6.  A credit in Mathematics and pass in English are required for students interested in progressing to an accounting degree."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Peninsula The Lighthouse Campus, Shah Alam",
       "intakes": [
         "May",
@@ -2650,11 +2679,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Science (Software Engineering, Cyber Security)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "May",
@@ -2735,11 +2765,12 @@
             "text": "Pass with 3 B6 inclusive of Add Math and B6 in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Engineering)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Peninsula The Ship Campus, Penang",
       "intakes": [
         "May",
@@ -2811,7 +2842,8 @@
             "text": "Pass with 3 B6 inclusive of Mathematics and relevant science subject."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

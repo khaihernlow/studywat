@@ -1,0 +1,87 @@
+{
+  "institution_name": "Northumbria University",
+  "institution_country": "United Kingdom",
+  "institution_type": "Public",
+  "world_rank": 546,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "BSc (Hons) Global Business Management",
+      "field_of_study": "Business and Management",
+      "location": "Newcastle City Campus",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL diploma pathway with minimum CGPA 3.30."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 187600
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.3
+          },
+          {
+            "type": "raw",
+            "text": "MCKL diploma pathway with minimum CGPA 3.30."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Global Business Management (Marketing)",
+      "field_of_study": "Marketing",
+      "location": "Newcastle City Campus",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "MCKL diploma pathway with minimum CGPA 3.30."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 187600
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.3
+          },
+          {
+            "type": "raw",
+            "text": "MCKL diploma pathway with minimum CGPA 3.30."
+          }
+        ]
+      }
+    }
+  ]
+}

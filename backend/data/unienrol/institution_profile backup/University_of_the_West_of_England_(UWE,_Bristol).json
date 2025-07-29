@@ -1,0 +1,1682 @@
+{
+  "institution_name": "University of the West of England (UWE, Bristol)",
+  "institution_country": "United Kingdom",
+  "institution_type": "Public",
+  "world_rank": 927,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "BA (Hons) Accounting and Finance",
+      "field_of_study": "Accounting and Finance",
+      "location": "UWE, Frenchay",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in Mathematics and English\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement",
+        "Diploma": "Minimum CGPA 2.80 in relevant field.",
+        "STPM": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Foundation": "Minimum CGPA 2.80 in relevant field.",
+        "CPU": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility.",
+        "IB Diploma": "UCAS Tariff points: 112 Please check with our UE counsellors for more details. ."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.5",
+        "Others": "SPM 1119- C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 239400
+      },
+      "course_content": {
+        "core": "Year 1 Business Law\nEconomic Principles in a Contemporary Context\nEssential Information and Academic Skills\nFoundations of Financial Accounting\nIntroduction to Management Accounting\nIntroduction to Managerial Finance\nManagement and Professional Development for Accounting and Finance\nStatistics and Data Management Year 2 Applied Research Skills in Accounting and Finance\nCorporate Finance \nFinancial Accounting  \nFinancial Accounting and Reporting\nManagement Accounting and Decision Making. Year 3 Business Strategy and Technology\nFinancial Management\nStrategic Project (Accounting and Finance).",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "CCDD"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in Mathematics and English\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 60.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details. ."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Architecture",
+      "field_of_study": "Architecture",
+      "location": "UWE, Frenchay",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Tariff points: 144 4 Passes with BBCC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement",
+        "Diploma": "Minimum CGPA 2.80 in relevant field.",
+        "STPM": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Foundation": "Minimum CGPA 2.80 in relevant field.",
+        "CPU": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility.",
+        "IB Diploma": "UCAS Tariff points: 144 Please check with our UE counsellors for more details.."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.5",
+        "Others": "SPM 1119- C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 260400
+      },
+      "course_content": {
+        "core": "Year 1 Design Studio 1 Healthy and Responsible Architecture History of Architecture Low Carbon Structures. Year 2 Architectural Technology and Environment 2 Architecture and Design Studio 2 Design Representation Histories and Theories of Architecture Research and Design Strategies. Year 3 Advanced Technology and Environment 3 Architecture and Design Studio 3 Collaborative Practice Dissertation Theories of Architecture and Design.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Tariff points: 144 4 Passes with BBCC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "UCAS Tariff points: 144 Please check with our UE counsellors for more details.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Banking and Finance",
+      "field_of_study": "Banking and Finance",
+      "location": "UWE, Frenchay",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement",
+        "Diploma": "Minimum CGPA 2.80 in relevant field.",
+        "STPM": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Foundation": "Minimum CGPA 2.80 in relevant field.",
+        "CPU": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility.",
+        "IB Diploma": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.5",
+        "Others": "SPM 1119- C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 239400
+      },
+      "course_content": {
+        "core": "Year 1 Financial Institutions and Markets Introduction to Finance Introductory Microeconomics Macroeconomics Statistics and Data Management Understanding Business and Financial Information (Accounting,Economics and Finance). Year 2 Financial Accounting Governance and Ethics in Banking Introductory Econometrics Investment Banking Principles and Practice of Banking. Year 3 Final Year Project Contemporary Issues in Banking and Finance Work Integrated Learning or Cross Cultural Learning and Development.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "CCDD"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 60.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Business and Management",
+      "field_of_study": "Business and Management",
+      "location": "UWE, Frenchay",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement",
+        "Diploma": "Minimum CGPA 2.80 in relevant field.",
+        "STPM": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Foundation": "Minimum CGPA 2.80 in relevant field.",
+        "CPU": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility.",
+        "IB Diploma": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.5",
+        "Others": "SPM 1119- C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 239400
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Business and Management Enterprise and Entrepreneurship Understanding Business and Financial Information (Business, International and Management) Understanding the Business and Economic Environment Understanding Organisations and People (Business, International and Management) Understanding the Principles of Marketing (Business, International and Management) Contemporary Business Issues Business Decision Making for Management Year 2 Managing People Management Skills (Business and Management) Accounting Information for Business (Business, International and Management) International Business Research Methods for Business Introductory Research Project Operations and Supply Management Year 3 Strategic Management (Business, International and Management) Managing Organisational Change Integrated Business Management Simulation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "CCDD"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 60.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Early Childhood Education",
+      "field_of_study": "Early Childhood Education",
+      "location": "UWE, Frenchay",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Tariff points: 104 4 Passes with at least CDDD/BCC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement",
+        "Diploma": "Minimum CGPA 2.80 in relevant field.",
+        "STPM": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Foundation": "Minimum CGPA 2.80 in relevant field.",
+        "CPU": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility.",
+        "IB Diploma": "UCAS Tariff points: 104 Please check with our UE counsellors for more details.."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.5",
+        "Others": "SPM 1119- C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 239400
+      },
+      "course_content": {
+        "core": "Year 1 Constructions of Childhood Exploring Play Children's Rights, Health and Wellbeing Working with All Children Guided Studies*. *Only to be taken in exceptional circumstances. Year 2 Becoming a Researcher Children's Meaning Making Early Childhood Policy and Comparative Curricula Leadership and Professional Futures Reflective Practice Guided Studies*. *Only to be taken in exceptional circumstances.  Year 3 Dissertation or Guided Study* (45 credits) Debating Childhoods Emerging Languages and Identities The Development of Reasoning Guided Studies (15 or 30 credits)**. * Only to be taken in exceptional circumstances and by negotiation with the Programme Leader. * ** Only to be taken in exceptional circumstances and never where the 45 credit Guided Study has been chosen in place of the Dissertation. **",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Tariff points: 104 4 Passes with at least CDDD/BCC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "UCAS Tariff points: 104 Please check with our UE counsellors for more details.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "UWE, City Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement",
+        "Diploma": "Minimum CGPA 2.80 in relevant field.",
+        "STPM": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Foundation": "Minimum CGPA 2.80 in relevant field.",
+        "CPU": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility.",
+        "IB Diploma": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.5",
+        "Others": "SPM 1119- C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 239400
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Words and Images Communicating with Words and Images Critical Perspectives Professional Practice and Work Experience 1 Year 2 Exploring Graphic Design Process Creative Analysis Year 3 Preparation for Extended Study in Graphic Design or *Introduction to Level 3 Graphic Design or Extended Study in Graphic Design Independent Research Project Professional Practice and Work Experience 3 *For Level 3 entry students only.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "CCDD"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 60.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "UWE, City Campus",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement",
+        "Diploma": "Minimum CGPA 2.80 in relevant field.",
+        "STPM": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Foundation": "Minimum CGPA 2.80 in relevant field.",
+        "CPU": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility.",
+        "IB Diploma": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.5",
+        "Others": "SPM 1119- C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 239400
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Interior Design Exploring Practice in Interior Design Professional Practice and Work Experience in Interior Design Visual Culture 1 Year 2 Developing Practice in Interior Design Creative Analysis Year 3 Preparation for Extended Study in Interior Design Extended Study in Interior Design Professional Practice and Work Experience in Interior Design 3 Visual Culture 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "CCDD"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 60.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) International Business",
+      "field_of_study": "International Business",
+      "location": "UWE, Frenchay",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement",
+        "Diploma": "Minimum CGPA 2.80 in relevant field.",
+        "STPM": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Foundation": "Minimum CGPA 2.80 in relevant field.",
+        "CPU": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility.",
+        "IB Diploma": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.5",
+        "Others": "SPM 1119- C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 319200
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Management Understanding Business and Financial Information (Business, International and Management (BIM)) Understanding the Principles of Marketing (BIM) Business Decision Making for Management Contemporary Business Issues Understanding Organisations and People (BIM) Enterprise and Entrepreneurship International Business Context Year 2 Global Managing People (including study year abroad preparation) Theory and Practice of International Business Research Methods for Business Global Management Skills Operations and Supply Management Accounting Information for Business Introductory Research Project Intercultural Communications Year 3 Managing Organisational Change Integrated Business Management Simulation Strategic Management (BIM) Multinationals in the Domestic and Global Context Cross Cultural Learning and Development (not available to study as a compulsory module if you complete the Sandwich Year).",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "CCDD"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Marketing",
+      "field_of_study": "Marketing",
+      "location": "UWE, Frenchay",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details.",
+        "UEC": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement",
+        "Diploma": "Minimum CGPA 2.80 in relevant field.",
+        "STPM": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Foundation": "Minimum CGPA 2.80 in relevant field.",
+        "CPU": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility.",
+        "IB Diploma": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.5",
+        "Others": "SPM 1119- C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 239400
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Management Economics for Events and Marketing Understanding Business and Financial Information (Marketing, Events and Tourism) Understanding the Principles of Marketing for Marketing and Events Business Decision Making for Marketing and Events Enterprise and Entrepreneurship Marketing in Society Understanding Organisations and People (Marketing, Events and Tourism) Year 2 Consumer Behaviour Research Methods for Events and Marketing Applied Marketing Practice Introductory Research Project (Marketing and Events) Marketing Planning and Practice. Plus Practical Digital Skills or Management Skills (Marketing and Events) or Introduction to Digital Strategy or Financial Aspects for Marketing, Events and Tourism or Introduction to Social Marketing or Service Operations. Final year Contemporary Issues in Marketing Brand Management And a major project from: Applied Business Project Critical Business Enquiry Project Enterprise Project.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "CCDD"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Tariff points: 112 4 Passes with at least CCDD/BBC.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 60.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass CPU in 6 subjects with an average of 60% including English U Please check with counselor to confirm eligibility."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BEng Robotics",
+      "field_of_study": "Mechatronics Engineering",
+      "location": "UWE, Frenchay",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Tariff points: 112 Passes with at least CCDD/BBC with Grade C in Mathematics plus a pass in one of the following subjects: Biology; Chemistry; Computing/Computer Science; Design and Technology; Electronics; Engineering; ICT; Further Maths; Music Technology; Physics; Statistics.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details.",
+        "UEC": "Grade B4 in Mathematics and 4 other Subjects including 1 of the subjects Biology, Chemistry or Physics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement",
+        "Diploma": "Minimum CGPA 2.80 in relevant field.",
+        "STPM": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English",
+        "Foundation": "Minimum CGPA 2.80 in relevant field.",
+        "CPU": "Pass CPU in 6 subjects with an average of 60% including English U, Maths and a pass in in one of the following subjects: Biology, Chemistry, Computer Science and Physics Please check with counselor to confirm eligibility.",
+        "IB Diploma": "UCAS Tariff points: 112 minimum grade of 5 in Higher Level Mathematics and a pass at Higher Level in one of the following subjects: Biology, Chemistry, Computer Science, Design Technology, Physics, Environmental Systems and Societies."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.5",
+        "Others": "SPM 1119- C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 239400
+      },
+      "course_content": {
+        "core": "Year 1 Engineering Practice 1 Mathematical Modelling for Electronics and Robotics Fundamental Robotics Principles Applied Electronics Programming for Engineers Year 2 Engineering Practice 2 Engineering Research Microcontroller Applications Group Lab Robot Control Systems Signal Theory Introduction to Machine Vision Year 3 Engineering Project Group Design and Integration Project Advanced Vision for Localisation and Mapping Human Robot Interaction Technologies Professionalism for Engineers",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Computing/Computer Science",
+              "Design and Technology",
+              "Electronics",
+              "Engineering",
+              "ICT",
+              "Further Maths",
+              "Music Technology",
+              "Physics",
+              "Statistics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Tariff points: 112 Passes with at least CCDD/BBC with Grade C in Mathematics plus a pass in one of the following subjects: Biology; Chemistry; Computing/Computer Science; Design and Technology; Electronics; Engineering; ICT; Further Maths; Music Technology; Physics; Statistics.  SPM-level or equivalent:\ncredit in Mathematics and English\n*The AS score and A2 score for a single subject cannot be combined, you must calculate for your final grade at A2 level. \nPlease check with our UE counsellors for more details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B4 in Mathematics and 4 other Subjects including 1 of the subjects Biology, Chemistry or Physics Please check with our UE counsellors for more details..  SPM-level or equivalent:\ncredit in English and Mathematics\n*SPM or equivalent subject is acceptable if UEC did not meet the requirement"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes with minimum of Grade C *All applications are subject to rigorous assessment by the institution.  SPM-level or equivalent:\ncredit in Mathematics and English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.8
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.80 in relevant field."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 6
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 60
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English U",
+              "Maths"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Computer Science",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass CPU in 6 subjects with an average of 60% including English U, Maths and a pass in in one of the following subjects: Biology, Chemistry, Computer Science and Physics Please check with counselor to confirm eligibility."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Higher Level Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Computer Science",
+              "Design Technology",
+              "Physics",
+              "Environmental Systems and Societies"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "UCAS Tariff points: 112 minimum grade of 5 in Higher Level Mathematics and a pass at Higher Level in one of the following subjects: Biology, Chemistry, Computer Science, Design Technology, Physics, Environmental Systems and Societies."
+          }
+        ]
+      }
+    }
+  ]
+}

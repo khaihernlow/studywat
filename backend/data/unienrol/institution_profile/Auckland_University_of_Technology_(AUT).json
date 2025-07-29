@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 718,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.ncuk.ac.uk/wp-content/uploads/2020/12/Auckland-University-of-Technology-Image-Gallery-2.jpg"
+  ],
   "programs": [
     {
       "program_name": "Foundation Studies (Arts)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UP International College Auckland Campus",
       "intakes": [
         "Feb",
@@ -97,11 +100,12 @@
             "text": "40 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation Studies (Arts) - Accelerated",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UP International College Auckland Campus",
       "intakes": [
         "Feb",
@@ -199,11 +203,12 @@
             "text": "30 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation Studies (Science)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "UP International College Auckland Campus",
       "intakes": [
         "Feb",
@@ -293,11 +298,12 @@
             "text": "40 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation Studies (Science) - Accelerated",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "UP International College Auckland Campus",
       "intakes": [
         "Feb",
@@ -387,7 +393,8 @@
             "text": "30 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

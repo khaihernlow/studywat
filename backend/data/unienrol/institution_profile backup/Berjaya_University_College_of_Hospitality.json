@@ -1,0 +1,2123 @@
+{
+  "institution_name": "Berjaya University College of Hospitality",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 19741,
+  "malaysia_rank": 125,
+  "programs": [
+    {
+      "program_name": "Bachelor in Accounting and Finance (Hons)",
+      "field_of_study": "Accounting and Finance",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum of Grade D.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 11200,
+        "tuition_fee": 27013
+      },
+      "course_content": {
+        "core": "YEAR 1\nIT Applications\nFundamentals of Management\nMicroeconomics\nMacroeconomics\nLegal Aspects for Business\nFinancial Accounting 1\nFinancial Accounting 2\nCost Accounting\nIntroduction to Finance\nFinancial Institutions & Markets\nPersonal Development Skills\nTeam Development Skills\nProfessional Development Skills\n\nYEAR 2\nBusiness Statistics\nFinancial Reporting 1\nFinancial Reporting 2\nAccounting Information Systems 1\nCorporate Law\nTaxation 1\nFundamentals of Banking\nFinancial Planning & Wealth Management\nCorporate Finance\nInvestment Management\nIslamic Finance & Banking\nStrategic Corporate Finance\nElective 1 & 2\n\nYEAR 3\nResearch Methodology\nProject\nEntrepreneurship\nCorporate Reporting\nAdvanced Audit & Assurance\nAuditing\nTaxation 2\nManagerial Accounting\nStrategic Managerial Accounting\nInternship YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum of Grade D.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Honours)",
+      "field_of_study": "Communication",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 11200,
+        "tuition_fee": 21840
+      },
+      "course_content": {
+        "core": "YEAR 1\nUnderstanding Human Communication\nMedia, Culture & Society\nIT Applications\nPublic Speaking\nNews Writing for the Media\nPrinciples of Advertising & Branding\nIntercultural Communication\nFundamentals of Public Relations\nOrganisational Communication\nIntegrated Marketing Communication: Principles & Practices\n\nYEAR 2\nWebpage Development and Management\nCommunication Law\nConsumer Behaviour\nFundamentals of Copywriting\nBrand Identity & Position\nCritical Understanding in Social Media\nPropaganda & Public Opinion\nImage & Reputation Management\nManaging Interpersonal Communication\nMedia Technology\n\nYEAR 3\nMedia Planning & Management\nCommunication Research Methods\nResearch Project\nCampaign Management\nMedia Literacy\nPolitical Communication\nCorporate Social Responsibility (CSR) YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Culinary Arts Management (Honours)",
+      "field_of_study": "Culinary Arts",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 9600,
+        "tuition_fee": 37867
+      },
+      "course_content": {
+        "core": "YEAR 1\nFundamentals of Culinary Arts\nFundamentals of Baking and Pastry\nIntroduction to Cuisine\nProfessional Pastry and Baking\nNutrition and Dietary Requirements in Culinary Arts\nMalaysian Heritage Cuisine\nIntroduction to Food and Beverage Operations\nMenu Creation and Development\nAcademic Writing Skills\nIT Applications\nPersonal Development Skills\nTeam Development Skills\nProfessional Development Skills\n\nYEAR 2\nFarm-to-Table Restaurant Operation\nPurchasing, Costing and Control\nFood Preservation and Toxicology\nFundamentals of Management\nFoodservice Kitchen Layout and Design\nBeverage Operations and Management\nGastronomy\nFundamentals of Management\nPrinciples of Marketing\nEconomics\nHuman Resource Management\nBeverage Operations and Management\nBusiness Statistics\nRevenue and Profit Management\n\nYEAR 3\nService Quality Management\nLegal Aspects for Hospitality and Tourism\nResearch Methodology\nHonours Seminar Series\nEntrepreneurship\nResearch Project\nService Quality Management\nInternship YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B",
+            "count": 5
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Events Management (Hons)",
+      "field_of_study": "Event Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 12400,
+        "tuition_fee": 34104
+      },
+      "course_content": {
+        "core": "YEAR 1\nAccounting\nConvention Sales\nCreative Design for Events\nFundamentals of Management\nIntegrated Marketing Communication for Events\nIntroduction to Business Event\nIntroduction to the Event Industry\nIT Applications\nMechanics of Event Planning\nProfessional Development Skills\nSpecial Event Management\nTeam Development Skills\n\nYEAR 2\nBusiness Statistics\nCorporate and Incentive Travel Management\nEntertainment Management\nEvent Production and Operation\nEvent Project Management\nEvent Risk Management\nHuman Resource Management\nLegal Aspects for Hospitality and Tourism\nRevenue and Profit Management\nService Quality Management\nElective 1\nElective 2\n\nYEAR 3\nEntrepreneurship\nHonours Seminar Series\nInternship\nProject\nResearch Methodology\nElective 3\nElective 4 YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor Of Hospitality Management (Hons)",
+      "field_of_study": "Hospitality Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 9600,
+        "tuition_fee": 41395
+      },
+      "course_content": {
+        "core": "YEAR 1\nAccounting\nBeverage Operations and Management\nFood and Beverage Management\nFood and Beverage Revenue Management\nFundamentals of Management\nIntroduction to Culinary and Kitchen Hygiene\nIntroduction to Food and Beverage Operations\nIT Applications\nPersonal Development Skills\nPrinciples of Marketing\nProfessional Development Skills\nRoom Division\nTeam Development Skills\n\nYEAR 2\nBusiness Statistics\nEconomics\nElective 1\nElective 2\nElective 3\nElective 4\nFacilities Management\nHuman Resource Management\nLegal Aspects for Hospitality and Tourism\nRevenue and Profit Management\nRooms Division Management\nService Quality Management\nSustainable Operations in Hospitality and Tourism\n\nYEAR 3\nEntrepreneurship\nElective 5\nHonours Seminar Series\nInternship\nProject\nResearch Methodology\nStrategic Hospitality Management YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business Management (Hons)",
+      "field_of_study": "Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 11200,
+        "tuition_fee": 25424
+      },
+      "course_content": {
+        "core": "YEAR 1\nAccounting\nConsumer Behaviour\nFundamentals of Management\nIntroduction to Finance\nIT Applications\nLegal Aspects for Business\nMacroeconomics\nMathematics for Business\nMicroeconomics\nOrganisational Behaviour\nPrinciples of Marketing\nPersonal Development Skills\nTeam Development Skills\nProfessional Development Skills\n\nYEAR 2\nBusiness Statistics\nCustomer Relationship Management\nFinancial Management\nHuman Resource Management\nOperations Management\nManagement Information Systems\nElective 1, 2, 3 & 4\n\nYEAR 3\nCorporate Strategy\nEntrepreneurship\nLeading in a Global Environment\nResearch Methodology\nProject\nProject Management\nInternational Business\nInternship YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Retail Management (Hons)",
+      "field_of_study": "Retail Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 11200,
+        "tuition_fee": 25424
+      },
+      "course_content": {
+        "core": "YEAR 1\nAccounting\nFundamentals of Management\nIntroduction to Finance\nIT Applications\nLegal Aspects for Business\nMacroeconomics\nMathematics for Business\nMicroeconomics\nOrganisational Behaviour\nPersonal Development Skills\nTeam Development Skills\nProfessional Development Skills\nPrinciples of Marketing\nPrinciples of Retailing\n\nYEAR 2\nBusiness Statistics\nBuying and Merchandising Decisions\nConsumer Behaviour\nE-Commerce\nHuman Resource Management\nLoss Prevention in the Retail Business\nManaging Retail Operations\nRetail Advertising and Promotion\nRetail Location Analysis\nSupply Chain Management\n\nYEAR 3\nRetail Loyalty and Events\nResearch Methodology\nProject\nEntrepreneurship\nContemporary Issues in Retail\nElective 1, 2, 3 & 4\nInternship YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Tourism Management (Hons)",
+      "field_of_study": "Tourism Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 13000,
+        "tuition_fee": 31668
+      },
+      "course_content": {
+        "core": "YEAR 1\nAccounting\neTravel\nFundamentals of Management\nIT Applications\nPersonal Development Skills\nPrinciples of Marketing\nProfessional Development Skills\nSpecial Interest Tourism\nTeam Development Skills\nThemed Attractions Management\nTourism Geography\nTourism Professional Activity\nTransportation for Tourism\nTravel Industry Operations\nUnderstanding Hospitality and Tourism industry\n\nYEAR 2\nEconomics\nBusiness Statistics\nCorporate and Incentive Travel Management\nHuman Resource Management\nIntercultural Diversity in the Service Industry\nLegal Aspects for Hospitality and Tourism\nRevenue and Profit Management\nService Quality Management\nTour Vacation Packages Management\nElective 1\nElective 2\n\nYEAR 3\nEntrepreneurship\nHonours Seminar Series\nInternship\nProject\nResearch Methodology\nTourism Destination Planning & Planning\nElective 3\nElective 4 YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Aviation Management",
+      "field_of_study": "Aeronautical Engineering",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "3 credits.",
+        "O-Level": "3 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 6000,
+        "tuition_fee": 22099
+      },
+      "course_content": {
+        "core": "YEAR 1 Introduction to Aviation Management Aviation English Essential Mathematics for Business Accounting 1 Penghayatan Etika & Peradaban (Malaysian Students) / Bahasa Melayu Komunikasi 1 (International Students) Aviation Information Management Microeconomics Service Management Principles of Marketing Managing People in Aviation Industry Thinking Skills/Bahasa Kebangsaan A Warehouse Management Air Traffic Control Fundamentals of Finance Airport Operations Professional Development Skills Integrity & Anti-Corruption YEAR 2 Principles of Logistics/Supply Chain Management Fundamentals of Aircraft & Flying Concept Business Statistics Personal & Team Development Skills Community Service Air Cargo Management Internship Entrepreneurship Development Fundamentals of Aviation Law Safety Management in Aviation Airport Customer Service Professional Service",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Culinary Arts",
+      "field_of_study": "Culinary Arts",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 6000,
+        "tuition_fee": 21123
+      },
+      "course_content": {
+        "core": "YEAR 1\nBasic Food and Beverage Services \nPastry and Baking \nFood Commodities\nBasic Culinary \nCuisine and Restaurant Operations \nAdvanced Pastry and Baking \nKitchen and Hygiene Management\nButchery \nAdvanced Cuisine and Restaurant Operations \nMenu Planning and Development\nEnglish for Academic Purpose\nPersonal Development Skills\nTeam Development Skills\nProfessional Development Skills\n\nYEAR 2\nGarde Manger \nMalaysian Cuisine \nNutrition and Sensory Analysis\nIntroduction to Business\nKitchen Layout and Design\nAseana Cuisine \nEntrepreneurship Development\nFood and Beverage Cost Control\nManaging People in the Service Industry\nInternship YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Patisserie",
+      "field_of_study": "Culinary Arts",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 6000,
+        "tuition_fee": 21123
+      },
+      "course_content": {
+        "core": "YEAR 1\nFoundation in Baking \nFood Commodities\nKitchen and Hygiene Management\nBread Making Technology \nCake Making Technology \nPastry Technology \nDesign and Sugarcraft \nComputer Applications\nBasic Culinary \nAsian Kuih and Desserts \nIntroduction to Business\nEnglish for Academic Purpose\nPersonal Development Skills\nTeam Development Skills\nProfessional Development Skills\n\nYEAR 2\nMenu Planning and Development\nKitchen and Hygiene Management\nNutrition and Sensory Analysis\nKitchen Layout and Design\nBakery and Pastry Production and Operation\nEntrepreneurship Development\nManaging People in the Service Industry\nInternship YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Events Management",
+      "field_of_study": "Event Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 8200,
+        "tuition_fee": 22730
+      },
+      "course_content": {
+        "core": "YEAR 1\nArt of Event Design\nComputer Applications\nEnglish for Academic Purposes\nEvent Planning 1\nEvent Planning 2\nFundamentals of Business EVents\nHospitality Support Services for Events\nIntroduction into Hospitality and Tourism\nIntroduction to Convention Sales\nManagement\nPersonal Development Skills\nPrinciples of Marketing\nProfessional Developement Skills\nTeam Development Skills\nThe Event Industry\n\nYEAR 2\nAccounting\nEntrpreneurship Development\nEvent Project Work\nIncentive Tour Management\nInternship\nIntroduction to Integrated Marketing Communications\nLegal Aspects for Hospitality and Tourism\nManaging People in the Service Industry\nProject Management for Events YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Hotel Management",
+      "field_of_study": "Hotel Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects AND Pass English.",
+        "O-Level": "Grade C in 3 relevant subjects AND Grade E in English.",
+        "UEC": "Grade B in 3 relevant subjects AND Grade C in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 6000,
+        "tuition_fee": 22730
+      },
+      "course_content": {
+        "core": "YEAR 1\nAdvanced Cuisine & Restaurant Operations\nBar, Beverage and Barista\nComputer Applications\nCuisine and Restaurant Operations\nEnglish for Academic Purposes\nFood and Beverage Cost Control\nFood and Beverage Operations\nFood Hygiene and Nutrition Alimentation\nFront Office Computerised System\nIntroduction to Hospitality and Tourism\nKitchen Operations and Hygiene\nPastry and Baking\nPersonal Development Skills\nProfessional Development Skills\nTeam Development Skills\n\nYEAR 2\nAccommodation Management\nAccounting\nEntrepreneurship Development\nInternship\nLegal Aspects for Hospitality & Tourism\nManagement\nManaging People in the Service Industry\nManaging Service Excellence\nPrinciples of Marketing\nRooms Division Operations YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects AND Pass English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects AND Grade E in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects AND Grade C in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Management",
+      "field_of_study": "Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "N/A",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 7200,
+        "tuition_fee": 15750
+      },
+      "course_content": {
+        "core": "YEAR 1\nAccounting 1\nBusiness Statistics\nComputer Applications\nEnglish for Academic Purposes\nEssential Mathematics for Business\nIntroduction to Organisational Behaviour\nMacroeconomics\nManagement\nMicroeconomics\nPersonal Development Skills\nTeam Development Skills\nProfessional Development Skills\nPrinciples of Marketing\n\nYEAR 2\nAccounting 2\nCross Culture Management\nE-Commerce\nEntrepreneurship Development\nFundamentals of Finance\nInventory Management\nLegal Aspects for Business\nManaging People in the Service Industry\nService Management\nSupply Chain Management\nElective 1, 2 & 3 YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Public Relations",
+      "field_of_study": "Mass Communication",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including English.",
+        "O-Level": "Pass with at least 3 credits including English.",
+        "UEC": "Grade B in 3 relevant subjects including English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 7000,
+        "tuition_fee": 14350
+      },
+      "course_content": {
+        "core": "YEAR 1\nCommunication Law\nComputer Applications\nEnglish for Academic Purposes\nIntroduction to Mass Communication\nMedia, Culture and Society\nNews Writing for the Media\nPersonal Development Skills\nPrinciples of Persuasion\nPrinciples of Public Relations\nProfessional Development Skills\nPublic Speaking Skills\nPublic Relations Writing\nTeam Development Skills\nThe Event Industry\n\nYEAR 2\nCrisis Public Relations\nDesktop Publishing and Multimedia Applications\nEntrepreneurship Development\nFundamentals of Business Events\nOrganisational Communication Skills\nMedia Relations and Management\nPR Planning and Strategies\nSocial Media Strategies for Public Relations\nElective 1\nElective 2\nInternship YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Retail Management",
+      "field_of_study": "Retail Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 7000,
+        "tuition_fee": 16974
+      },
+      "course_content": {
+        "core": "YEAR 1\nManagement\nComputer Applications\nEnglish for Academic Purposes\nIntroduction to Retailing\nIntroductory Economics\nRetail Store Operations\nAccounting\nMerchandise Mathematics for Retailing\nRetail Store Management\nSupply Chain Management\nCustomer Service\nPersonal Development Skills\nTeam Development Skills\nProfessional Development Skills\n\nYEAR 2\nInventory Management\nPrinciples of Marketing\nLegal Aspect for Business\nRetail Security and Loss Prevention\nE-Commerce\nManaging People in the Service Industry\nVisual Merchandising and Display\nAdvertising and Promotion in Retail Environment\nCustomer Relationship Management\nEntrepreneurship Development\nRetail Shoppers Behaviour\nInternship YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Tourism & Travel Management",
+      "field_of_study": "Tourism Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 6000,
+        "tuition_fee": 20521
+      },
+      "course_content": {
+        "core": "YEAR 1\nAir Travel Ticketing\nComputer Application\nDestination Geography\nEnglish for Academic Purposes\nIntercultural Diversity\nIntroduction into Hospitality and Tourism\nPersonal Development Skills\nPrinciples of Marketing\nProfessional Development Skills\nTeam Development Skills\nTour Packages Development\nTourism Experiential Activity\nTransportation for Tourists\nManagement\n\nYEAR 2\nAccounting\nAttraction Management\nEntrepreneurship Development\nForeign Language\nFundamentals of Business Event\nInternship\nLegal Aspects for Hospitality and Tourism\nManaging People in the Service Industry\nSpecialised Vacation Packages Development\nTravel Technology YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts & Social Science",
+      "field_of_study": "Foundation in Arts",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least a credit in 5 subjects.",
+        "O-Level": "Pass with at least Grade C in 5 subjects.",
+        "UEC": "Pass with at least Grade B in 3 subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 3600,
+        "tuition_fee": 6000
+      },
+      "course_content": {
+        "core": "Year 1 Trimester 1 English for Foundation Studies 1 University Life and Study Skills Learning Computer Applications Introduction to Practical Research Media Literacy Trimester 2 English for Foundation Studies 2 Developing Critical Thinkers Introduction to Psychology Introduction to Social Science Introduction to Business OR Fundamentals of Hospitality, Tourism and Services OR Advertising and Society Trimester 3 English for Foundation Studies 3 Basic Research Skills Intercultural Communication Skills Business Mathematics OR Discovering Arts and Culture OR Media and Democracy Introduction to Business OR Fundamentals of Hospitality, Tourism and Services OR Advertising and Society",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least a credit in 5 subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least Grade C in 5 subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least Grade B in 3 subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Commerce",
+      "field_of_study": "Foundation in Arts",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "five (5) Credits.",
+        "O-Level": "five (5) Credits.",
+        "UEC": "3B."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 3600,
+        "tuition_fee": 6000
+      },
+      "course_content": {
+        "core": "Business Mathematics\nDevelop Critical Thinkers\nEnglish for Foundation Studies 1, 2 & 3\nEssentials of Accounting\nEssentials of Service Operations\nFundamentals of Marketing\nIntroduction to Commercial Studies\nIntroduction to Finance\nIntroduction to Mathematics and Statistics\nLearning Computer Applications\nManaging People and Organisations\nPrinciple of Economics\nUniversity Life & Study Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Commerce (Accounting, Finance, IT)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 credits (C) including Mathematics and a pass in English.",
+        "O-Level": "5 credits (C) including Mathematics and a pass in English.",
+        "UEC": "3 credits (B6) including Mathematics and a pass in English."
+      },
+      "english_requirements": {
+        "SPM/O": "Level - Pass English"
+      },
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 3600,
+        "tuition_fee": 6000
+      },
+      "course_content": {
+        "core": "Business Mathematics\nDevelop Critical Thinkers\nEnglish for Foundation Studies 1, 2 & 3\nEssentials of Accounting\nEssentials of Service Operations\nFundamentals of Marketing\nIntroduction to Commercial Studies\nIntroduction to Finance\nIntroduction to Mathematics and Statistics\nLearning Computer Applications\nManaging People and Organisations\nPrinciple of Economics\nUniversity Life & Study Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C) including Mathematics and a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C) including Mathematics and a pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (B6) including Mathematics and a pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Science in Logistics & Supply Chain Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "MUET": "Band 5",
+        "IELTS": "6",
+        "TOEFL": "600"
+      },
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 3600,
+        "tuition_fee": 14960
+      },
+      "course_content": {
+        "core": "Research Methodology and Analysis Techniques Operations Management and Decision Science Applied Corporate Finance and Economics Global Information and Communication Technology Management Supply Chain Management Dynamics Logistics and Transportation Management Strategic Procurement Management Supply Chain Finance Management Research Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Science in Logistics & Supply Chain Management (Part Time)",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "MUET": "Band 5",
+        "IELTS": "6.0",
+        "TOEFL": "600"
+      },
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 7200,
+        "tuition_fee": 29920
+      },
+      "course_content": {
+        "core": "Research Methodology and Analysis Techniques Operations Management and Decision Science Applied Corporate Finance and Economics Global Information and Communication Technology Management Supply Chain Management Dynamics Logistics and Transportation Management Strategic Procurement Management Supply Chain Finance Management Research Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Philosophy in Management (Full Time)",
+      "field_of_study": "Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "- A recognised Bachelor's Degree with a minimum CGPA of 2.5 out of 4.0. - Five (5) years of working experience in relevant fields if CGPA is below 2.5. - Or any equivalent qualification from recognised institutions as approved by BERJAYA UC Senate."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "TOEFL": "600/ CBT 250/ iBT 100"
+      },
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 7200,
+        "tuition_fee": 22140
+      },
+      "course_content": {
+        "core": "Teaching course during Semester 1 - Research Methodology & Analysis Technique All subsequent semesters, including study under supervisor for thesis proposal defence, thesis preparation, and etc.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "- Five (5) years of working experience in relevant fields if CGPA is below 2.5. - Or any equivalent qualification from recognised institutions as approved by BERJAYA UC Senate."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration (MBA)",
+      "field_of_study": "MBA Programme",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "MUET": "Band 5",
+        "IELTS": "6",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 3600,
+        "tuition_fee": 14490
+      },
+      "course_content": {
+        "core": "Strategic Marketing & Corporate Communication\nLeading in a Global Environment\nStrategic Human Resource Management\nApplied Corporate Finance & Economics\nOperations Management & Decision Science\nGlobal Information & Communication Technology Management\nManagement Control & Costing System\nElectives 1\nElectives 2\nResearch Methodology & Analysis Techniques\nManagement Research Report",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Master of Business Administration (MBA) (Part Time)",
+      "field_of_study": "MBA Programme",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {
+        "MUET": "Band 5",
+        "IELTS": "6.0",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 7200,
+        "tuition_fee": 29980
+      },
+      "course_content": {
+        "core": "General Courses Strategic Marketing & Corporate Communication Leading in a Global Environment Strategic Human Resource Management Applied Corporate Finance & Economics Operations Management & Decision Science Global Information & Communication Technology Management Management Control & Costing System Electives 1 Electives 2 Research Methodology & Analysis Techniques Management Research Report",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "Doctor of Philosophy in Management (Full Time)",
+      "field_of_study": "Management",
+      "location": "Berjaya UCH, KL City Centre",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "- A recognised Master's Degree with a minimum CGPA of 2.5 out of 4.0. - Five (5) years of working experience in relevant fields if CGPA is below 2.5. - Or any equivalent qualification from recognised institutions as approved by BERJAYA UC Senate."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "TOEFL": "600/ CBT 250/ iBT 100"
+      },
+      "fees": {
+        "registration_fee": 550,
+        "resource_fee": 10800,
+        "tuition_fee": 28350
+      },
+      "course_content": {
+        "core": "Teaching course during Semester 1 - Research Methodology & Analysis Technique All subsequent semesters, including study under supervisor for thesis proposal defence, thesis preparation, and etc. Choices of Research Areas: Human Resource Management Marketing Accounting Finance Business Economics Management Business Analytics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "- A recognised Master's Degree with a minimum CGPA of 2.5 out of 4.0. - Five (5) years of working experience in relevant fields if CGPA is below 2.5. - Or any equivalent qualification from recognised institutions as approved by BERJAYA UC Senate."
+          }
+        ]
+      }
+    }
+  ]
+}

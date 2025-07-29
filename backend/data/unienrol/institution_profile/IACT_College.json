@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/IACT+College/IACT+Petaling+Jaya/Campus_and_Surroundings/01c_IACT_Petaling_Jaya_Campus_Building_3.jpeg"
+  ],
   "programs": [
     {
       "program_name": "BA (Hons) Film Production (3+0), University of Sunderland, UK",
-      "field_of_study": "Film & Television",
+      "field_of_study": "Communication and Media Studies",
       "location": "IACT, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -107,11 +110,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "Film & Television"
     },
     {
       "program_name": "UK Degree Transfer Programme (2+1) Mass Communication",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "IACT, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -211,11 +215,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Media, Culture and Communication (3+0), University of Sunderland, UK",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "IACT, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -315,11 +320,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Social Media Management (3+0), University of Sunderland, UK",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "IACT, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -422,11 +428,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Advertising and Design (3+0), University of Sunderland, UK",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "IACT, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -554,11 +561,12 @@
             "text": "5 subjects with a minimum score of 50%.  Applicants are also required to submit a portfolio"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Digital Media and Communications",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "IACT, Petaling Jaya",
       "intakes": [
         "Feb",
@@ -644,11 +652,12 @@
             "text": "3Bs in UEC including English."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Diploma in Broadcasting & Film",
-      "field_of_study": "Film & Television",
+      "field_of_study": "Communication and Media Studies",
       "location": "IACT, Petaling Jaya",
       "intakes": [
         "Feb",
@@ -732,11 +741,12 @@
             "text": "3Bs in UEC including English."
           }
         ]
-      }
+      },
+      "course": "Film & Television"
     },
     {
       "program_name": "Foundation in Media Studies",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "IACT, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -802,7 +812,8 @@
             "text": "Minimum 3Bs in UEC."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     }
   ]
 }
