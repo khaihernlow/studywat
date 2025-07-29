@@ -3,8 +3,6 @@
 import {
   EllipsisVertical,
   LogOut,
-  Bell,
-  CircleUserRound,
 } from "lucide-react";
 
 import {
@@ -15,7 +13,6 @@ import {
 import {
   DropdownMenu,
   DropdownMenuContent,
-  DropdownMenuGroup,
   DropdownMenuItem,
   DropdownMenuLabel,
   DropdownMenuSeparator,
