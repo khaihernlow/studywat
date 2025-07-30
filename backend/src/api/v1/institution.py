@@ -6,7 +6,7 @@ from src.models.pydantic.institution import InstitutionInDB
 router = APIRouter()
 
 def get_collection(db):
-    return db['institution']
+    return db['institutions']
 
 @router.get("/", response_model=List[InstitutionInDB])
 async def list_institutions(

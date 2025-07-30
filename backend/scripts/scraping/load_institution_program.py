@@ -4,8 +4,8 @@ load_institution_profiles.py
 
 - Validates each JSON against Pydantic models
 - Loads all files in institution_profile/
-- Inserts programs into `program` collection
-- Inserts each institution (with a program_ids array) into `institution`
+- Inserts programs into `programs` collection
+- Inserts each institution (with a program_ids array) into `institutions`
 """
 
 import json
@@ -114,8 +114,8 @@ def main():
         return
     
     db = client.get_default_database()
-    inst_coll = db["institution"]
-    prog_coll = db["program"]
+    inst_coll = db["institutions"]
+    prog_coll = db["programs"]
     logger.info(f"Connected to database: {db.name}")
 
     logger.info(f"Scanning folder: {folder}")

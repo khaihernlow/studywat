@@ -11,10 +11,10 @@ logger = logging.getLogger(__name__)
 router = APIRouter()
 
 def get_collection(db):
-    return db['program']
+    return db['programs']
 
 def get_institution_collection(db):
-    return db['institution']
+    return db['institutions']
 
 def load_fields_of_study():
     """Load field of study data from the text file"""
@@ -121,7 +121,7 @@ async def list_programs(
     pipeline = [
         {
             "$lookup": {
-                "from": "institution",
+                "from": "institutions",
                 "let": { "programId": "$_id" },
                 "pipeline": [
                     { "$match": { "$expr": { "$in": ["$$programId", "$program_ids"] } } }
@@ -214,7 +214,7 @@ async def get_programs_by_ids(ids: List[str] = Body(...), db=Depends(get_databas
         {"$match": {"_id": {"$in": object_ids}}},
         {
             "$lookup": {
-                "from": "institution",
+                "from": "institutions",
                 "let": {"programId": "$_id"},
                 "pipeline": [
                     {"$match": {"$expr": {"$in": ["$$programId", "$program_ids"]}}}

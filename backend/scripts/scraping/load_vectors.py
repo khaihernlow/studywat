@@ -70,8 +70,8 @@ index = pc.Index(INDEX_NAME)
 print("🔌 Connecting to MongoDB…")
 client    = MongoClient(MONGO_URI)
 db        = client.get_default_database()
-inst_coll = db["institution"]
-prog_coll = db["program"]
+inst_coll = db["institutions"]
+prog_coll = db["programs"]
 
 count_insts = inst_coll.count_documents({})
 print(f"🔎 Found {count_insts} institutions in MongoDB")
