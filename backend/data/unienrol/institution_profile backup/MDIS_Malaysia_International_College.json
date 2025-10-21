@@ -1,0 +1,1646 @@
+{
+  "institution_name": "MDIS Malaysia International College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Certificate in Business Management",
+      "field_of_study": "Business and Management",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 1 credit in any subject.",
+        "O-Level": "Pass with at least 1 credit in any subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 1300,
+        "tuition_fee": 13600
+      },
+      "course_content": {
+        "core": "Common Core\n• Academic English\n• Fundamentals of Marketing\n• Quantitative Methods for Business\n• Introduction to Information Technology\n• Fundamentals of Management\n• Introduction to Basic Business\n• Basic English for Business\n• Economics for Beginners\n• Principles of Human Resource Management\n• Principles of International Business\n• Fundamentals of Business Finance\n• Principles of Accounting\n• Introduction to Entrepreneurship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Certificate in English Communication",
+      "field_of_study": "English",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass in Sijil Pelajaran Malaysia (SPM) or its equivalent with a minimum one credit and pass in English.",
+        "O-Level": "Pass O-Level with a minimum Grade C in one subject and a pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 1300,
+        "tuition_fee": 13600
+      },
+      "course_content": {
+        "core": "Common Core\n• Mechanics of  Grammar 1\n• Reading and Writing Skills 1\n• Listening and Speaking\n• Study Skills\n• Basic English for Business\n• Mechanics of  Grammar 2\n• Reading and Writing  Skills 2\n• Listening and Speaking      \n• Reading and Writing Skills 3\n• Listening and Speaking\n• Mechanics of  Grammar 3\n• Critical and Creative Thinking Skills\n• English in Basic Journalism\n• English in News Writing and Reporting\n• Basic Writing for Creative Production\n• Fundamental of Professional Speaking and Writing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in Sijil Pelajaran Malaysia (SPM) or its equivalent with a minimum one credit and pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass O-Level with a minimum Grade C in one subject and a pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) International Tourism and Hospitality Management (3+0), University of Sunderland, United Kingdom",
+      "field_of_study": "Hospitality and Tourism Management",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a minimum Grade C (CGPA 2.00) in 2 subjects.",
+        "UEC": "Pass with a minimum of 5 credits in any subjects.",
+        "Diploma": "Pass in a related field with a minimum CGPA 2.00.",
+        "STPM": "Pass with a minimum Grade C (CGPA 2.00) in 2 subjects.",
+        "Foundation": "Pass with a minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2700,
+        "tuition_fee": 67338
+      },
+      "course_content": {
+        "core": "Common Core\n• Urban Tourism\n• International Hospitality Management Major Project Discipline Core\n• Tourism and Heritage Management\n• Impacts of Festivals and Events\n• Fundamentals of Leisure, Tourism and Hospitality\n• Global Tourism\n• Study Skills for the Service Sector\n• Marketing and Business for the Service Sector\n• Current Issues in Tourism and Hospitality\n• Meetings, Incentives, Conferences and Exhibitions (MICE)\n• Research Methods for the Service Sector\n• Consultancy for the Visitor Economy\n• International Hospitality Management Industrial Training\n• Industrial Training 1\n• Industrial Training 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 2 subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "credit",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 5 credits in any subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass in a related field with a minimum CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 2 subjects."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Media, Culture & Communication (3+0), University of Sunderland, United Kingdom",
+      "field_of_study": "Mass Communication",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with a minimum Grade C (CGPA 2.00) in 2 subjects.  Credit in English in SPM",
+        "UEC": "Pass with a minimum of 5 credits in any subjects.",
+        "Diploma": "Pass in a related field with a minimum CGPA 2.00.  Credit in English in SPM",
+        "STPM": "Pass with a minimum Grade C (CGPA 2.00) in 2 subjects.  Credit in English in SPM",
+        "Foundation": "Pass with a minimum CGPA 2.00.  Credit in English in SPM"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2700,
+        "tuition_fee": 69120
+      },
+      "course_content": {
+        "core": "Discipline Core\n• Understanding Media and Culture\n• Introduction to Digital Media Cultures\n• The Making of Popular Culture\n• Digital Fictional Film 1\n• Sound and Vision: Broadcasting Histories, Texts and Contexts\n• Interrogating Factual Media\n• Practical Public Relations: Strategy and Theory\n• Digital Fictional Film 2\n• Researching Media in Theory and Practice\n• Cultural Theory and Popular Culture 1\n• Video Documentary Production\n• Cultural Theory and Popular Culture 2\n• Advanced Public Relations\n• Media and Society\n• Media Research Project\n• Media Ethics  Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 2 subjects.  Credit in English in SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 5 credits in any subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in a related field with a minimum CGPA 2.00.  Credit in English in SPM"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 2 subjects.  Credit in English in SPM"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum CGPA 2.00.  Credit in English in SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Accounting",
+      "field_of_study": "Accounting",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with a minimum of 3 credits including Mathematics and a pass in English.",
+        "O-Level": "Pass with a minimum of 3 credits including Mathematics and a pass in English.",
+        "A-Level": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Obtain a credit in Mathematics and a pass in English in SPM",
+        "UEC": "Pass with a minimum Grade B in 3 subjects including Mathematics and a pass in English.",
+        "STPM": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Obtain a credit in Mathematics and a pass in English in SPM"
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 38700
+      },
+      "course_content": {
+        "core": "Common Core\n• English for Academic Purposes \n• Principles of Management\n• Fundamentals of Marketing\n• Microeconomics\n• Macroeconomic\n• Organisational Behaviour\n• Introduction to Entrepreneurship\n• Investment Analysis Discipline Core\n• Business Mathematics\n• Financial Accounting I\n• Business Statistics\n• Personal Taxation\n• Financial Accounting II\n• Company Taxation\n• Cost Accounting\n• Financial Accounting III\n• Financial Accounting and Reporting in Malaysia\n• Introduction to Finance\n• Ethics and Governance\n• Fundamental of Auditing\n• Accounting Information System\n• Management Accounting\n• Business Law Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits including Mathematics and a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits including Mathematics and a pass in English."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Obtain a credit in Mathematics and a pass in English in SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade B in 3 subjects including Mathematics and a pass in English."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Obtain a credit in Mathematics and a pass in English in SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Management",
+      "field_of_study": "Business and Management",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with a minimum of 3 credits in any subjects.",
+        "O-Level": "Pass with a minimum of 3 credits in any subjects.",
+        "A-Level": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.",
+        "UEC": "Pass with a minimum Grade B in 3 subjects.",
+        "STPM": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 38700
+      },
+      "course_content": {
+        "core": "Common Core\n• Business Mathematics\n• Business Statistics\n• Organizational Behaviour\n• Communication Skills\n• English for Academic Purposes\n• International Trade Practice\n• Introduction to Finance\n• Consumer Behaviour\n• Business Accounting\n• Electronic Commerce\n• Fundamentals of Marketing\n• Microeconomics\n• Accounting for Decision Making\n• Business Law\n• Macroeconomics\n• Principles of Information Technology Discipline Core\n• Leadership and Change Management\n• Introduction to Business\n• Human Resource Management\n• Introduction to Business Ethics\n• Principles of Management\n• Introduction to Operation Management\n• Strategic Management\n• Introduction to Entrepreneurship\n• Research Methodology Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits in any subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits in any subjects."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade B in 3 subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Finance",
+      "field_of_study": "Finance",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with a minimum of 3 credits including Mathematics and a pass in English.",
+        "O-Level": "Pass with a minimum of 3 credits including Mathematics and a pass in English.",
+        "A-Level": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Obtain a credit in Mathematics and a pass in English in SPM",
+        "UEC": "Pass with a minimum Grade B in 3 subjects including Mathematics and a pass in English.",
+        "STPM": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Obtain a credit in Mathematics and a pass in English in SPM"
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 38400
+      },
+      "course_content": {
+        "core": "Common Core\n• Principles of Management\n• Business Mathematics\n• Principles of Information Technology\n• Business Accounting\n• Fundamentals of Marketing\n• Microeconomics\n• Business Statistics\n• Accounting for Decision Making\n• Business Law\n• Macroeconomics Discipline Core\n• Fundamentals of Finance\n• Principles of Investment\n• Applied Economics\n• Financial Management\n• Risk Management\n• Investment Analysis\n• Financial Markets & Institutions\n• Financial Mathematics\n• Financial Statement  Analysis\n• Portfolio Management\n• Personal Financial Planning\n• Ethics and Governance\n\nIndustrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits including Mathematics and a pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits including Mathematics and a pass in English."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Obtain a credit in Mathematics and a pass in English in SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade B in 3 subjects including Mathematics and a pass in English."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Obtain a credit in Mathematics and a pass in English in SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Hotel Management",
+      "field_of_study": "Hotel Management",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with a minimum of 3 credits in any subjects.",
+        "O-Level": "Pass with a minimum of 3 credits in any subjects.",
+        "A-Level": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.",
+        "UEC": "Pass with a minimum Grade B in 3 subjects.",
+        "STPM": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+      },
+      "english_requirements": {
+        "IELTS": "4"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 41900
+      },
+      "course_content": {
+        "core": "Common Core\n• English for Academic Purposes Discipline Core\n• Basic Cookery\n• Food and Beverage Management\n• Food and Beverage Operations\n• Fundamentals of Marketing\n• Principles of Management\n• Foreign Language I: French / Japanese / Mandarin\n• Foreign Language II: French / Japanese / Mandarin\n• Front Office Operations\n• Housekeeping Operations\n• Hygiene and Safety in Hospitality Industry\n• Introduction to Accounting Principles\n• Introduction to Commercial Cookery\n• Introduction to Event Management\n• Introduction to Food and Beverage Cost Control\n• Introduction to Hospitality and Travel Law\n• Introduction to Hospitality Industry\n• Menu Planning and Development\n• Purchasing Free Elective Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits in any subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits in any subjects."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade B in 3 subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with a minimum of 3 credits including Mathematics.",
+        "O-Level": "Pass with a minimum of 3 credits including Mathematics.",
+        "A-Level": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Credit in Mathematics in SPM",
+        "UEC": "Pass with a minimum Grade B in 3 subjects including Mathematics.",
+        "STPM": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Credit in Mathematics in SPM"
+      },
+      "english_requirements": {
+        "IELTS": "4"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 38400
+      },
+      "course_content": {
+        "core": "Core\n• Computer Organisation and Architecture\n• Database Design\n• Data Communications and Networks\n• Mathematics for Computing\n• Operating System\n• Programming Principles\n• System Analysis and Design\n• Statistics and Probability in Computing\n• Advanced Mathematics for Computing\n• Computer Security\n• Computing Ethics Discipline Core\n• Principles of Information Technology\n• Human Computer Interaction\n• Electronic Commerce\n• Artificial Intelligence\n• Object Oriented Programming\n• PC Troubleshooting\n• Web Programming\n• Cloud Computing\n• Mobile Application\n• Internet of Things\n• Project I\n• Project II Free Elective Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits including Mathematics."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Credit in Mathematics in SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade B in 3 subjects including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Credit in Mathematics in SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in International Business",
+      "field_of_study": "International Business",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with a minimum of 3 credits in any subjects.",
+        "O-Level": "Pass with a minimum of 3 credits in any subjects.",
+        "A-Level": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.",
+        "UEC": "Pass with a minimum Grade B in 3 subjects.",
+        "STPM": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 38700
+      },
+      "course_content": {
+        "core": "Common Core\n• Fundamentals of Marketing\n• Consumer Behaviour\n• English for Academic Purposes\n• Communication Skills\n• Principles of Management\n• Organisational Behaviour\n• Introduction to Entrepreneurship\n• Introduction to Finance\n• Business Mathematics\n• Business Statistics\n• Microeconomics\n• Macroeconomics\n• Business Accounting\n• Accounting for Decision Making\n• Principles of Information Technology\n• Business Law Discipline Core\n• International Human Resource Management\n• International Trade Practice\n• International Relations\n• International Marketing\n• Principles of Import-Export Trade\n• International Supply Chain Management\n• International Finance\n• International Business Strategy\n• Contemporary Issues in International Business Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits in any subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits in any subjects."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade B in 3 subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Marketing",
+      "field_of_study": "Marketing",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with a minimum of 3 credits in any subjects.",
+        "O-Level": "Pass with a minimum of 3 credits in any subjects.",
+        "A-Level": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.",
+        "UEC": "Pass with a minimum Grade B in 3 subjects.",
+        "STPM": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 38700
+      },
+      "course_content": {
+        "core": "Common Core\n• Business Accounting\n• English for Academic Purposes \n• Principles of Management\n• Introduction to Finance\n• Business Mathematics\n• Business Statistics\n• Microeconomics\n• Macroeconomics\n• Organisational Behaviour\n• Accounting for Decision Making\n• Human Resource Management\n• Research Methodology\n• Introduction to Entrepreneurship\n• Principles of Information Technology\n• Communication Skills\n• International Marketing Discipline Core\n• Consumer Behaviour\n• Customer Relationship Management\n• Digital Marketing\n• Marketing Communication\n• Sales Administration\n• Product Innovation and Management\n• Retailing\n• Fundamentals of Marketing\n• Services Marketing Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits in any subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits in any subjects."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade B in 3 subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Mass Communication",
+      "field_of_study": "Mass Communication",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with a minimum of 3 credits including English.",
+        "O-Level": "Pass with a minimum of 3 credits including English.",
+        "A-Level": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Credit in English in SPM",
+        "UEC": "Pass with a minimum Grade B in 3 subjects including English.",
+        "STPM": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Credit in English in SPM"
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 38700
+      },
+      "course_content": {
+        "core": "Discipline Core\n• Introduction to Mass Communication\n• Introduction to New Media\n• Media Studies\n• Principles of Public Relations\n• Introduction to Journalism\n• Structure and Practice of Print Media\n• Introduction to Online Journalism\n• Introduction to Scriptwriting\n• Principles of Advertisng\n• Media Ethics and Law\n• Techniques of Professional Speaking and Writing\n• Public Relations Campaign\n• News Writing and Reporting\n• Media and Communication Research 1\n• Advertising Campaign\n• Introduction to Visual Communication\n• Media and Communication Research 2\n• Globalisation, Media and Culture\n• Mobile Video Production\n• Introduction to Entrepreneurship\n• Digital Media Culture  Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits including English."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Credit in English in SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade B in 3 subjects including English."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.  Credit in English in SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Tourism Management",
+      "field_of_study": "Tourism Management",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with a minimum of 3 credits in any subjects.",
+        "O-Level": "Pass with a minimum of 3 credits in any subjects.",
+        "A-Level": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject.",
+        "UEC": "Pass with a minimum Grade B in 3 subjects.",
+        "STPM": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+      },
+      "english_requirements": {
+        "IELTS": "4"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 2100,
+        "tuition_fee": 38700
+      },
+      "course_content": {
+        "core": "Common Core\n• English for Academic Purposes\n• Fundamentals of Marketing\n• Principles of Management Discipline Core\n• Business Accounting\n• Fares and Computer Reservation System\n• Food and Cultural Studies\n• Foreign Language I\n• Foreign Language II\n• Human Resource Management\n• Introduction to Event Management\n• Introduction to Hospitality and Travel Law\n• Introduction to Tourism Industry\n• Meetings, Incentives, Conferences, and Exhibitions (MICE)\n• Principles of Customer Service\n• Recreational Tourism\n• Safety, Health and Security in Tourism\n• Tour Guiding Services\n• Tourism Destinations\n• Tourism Information Technology\n• Travel Agency and Tour Operations Management Free Electives  Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits in any subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 3 credits in any subjects."
+          }
+        ],
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade B in 3 subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum Grade C (CGPA 2.00) in 1 subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business",
+      "field_of_study": "Foundation in Arts",
+      "location": "MDIS, Educity Nusajaya Johor",
+      "intakes": [
+        "Jan",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with a minimum of 5 credits in any subjects.",
+        "O-Level": "Pass with a minimum of 5 credits in any subjects.",
+        "UEC": "Pass with a minimum of Grade B in 3 subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 1250,
+        "tuition_fee": 15750
+      },
+      "course_content": {
+        "core": "Common Core\n• Mathematics for Business\n• Statistics for Business\n• Computer Applications\n• Fundamentals of Business Studies\n• Basic Business Management\n• Introduction to Economics\n• Basic Business Accounting\n• Basic Marketing\n• Introduction to Finance",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    }
+  ]
+}

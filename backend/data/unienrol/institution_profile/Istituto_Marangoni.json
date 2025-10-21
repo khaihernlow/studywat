@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.istitutomarangonimiami.com/wp-content/uploads/2024/05/img-5-1.png"
+  ],
   "programs": [
     {
       "program_name": "BA (Hons) Fashion Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -149,11 +152,12 @@
             "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Fashion Business & Buying",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -295,11 +299,12 @@
             "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Fashion Business, Digital Communication & Media",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -443,11 +448,12 @@
             "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\ncredit in English"
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "BA (Hons) Fashion Design",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -561,11 +567,12 @@
             "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Fashion Design & Accessories",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -679,11 +686,12 @@
             "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Fashion Design & Womenswear",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -797,11 +805,12 @@
             "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Fashion Design & Menswear",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -915,11 +924,12 @@
             "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Fashion Design & Marketing",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -1033,11 +1043,12 @@
             "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Fashion Styling & Visual Merchandising",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -1151,11 +1162,12 @@
             "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Interior",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -1294,11 +1306,12 @@
             "text": "Minimum CGPA 3.00.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "BA (Hons) Fashion Styling & Creative Direction",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -1412,11 +1425,12 @@
             "text": "Minimum CGPA 3.00.  Applicants may be required to submit a portfolio for assessment"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Foundation in Fashion",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -1491,11 +1505,12 @@
             "text": "Pass with at least 2 Credit."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Design",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -1570,11 +1585,12 @@
             "text": "Pass with at least 2 Credit."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "MA Fashion & Luxury Brand Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -1615,11 +1631,12 @@
             "text": "Minimum CGPA 3.00 (Degree in a related field)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "MA Fashion Design Womenswear",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -1660,11 +1677,12 @@
             "text": "Minimum CGPA 3.00 (Degree in a related field)."
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "MA Fashion Promotion, Communication & Digital Media",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Marangoni, London",
       "intakes": [
         "Feb",
@@ -1705,7 +1723,8 @@
             "text": "Minimum CGPA 3.00 (Degree in a related field)."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     }
   ]
 }

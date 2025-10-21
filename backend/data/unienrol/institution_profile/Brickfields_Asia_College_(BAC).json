@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/BAC+PICTURES+%28Done%29/PJ+CAMPUS/Campus+_+Surroundings/01a_Brickfields_Asia_College_-_BAC_PJ_Green_Campus_Surrounding.png"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Business (2+1), UK University",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "BAC, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -28,11 +31,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business Administration"
     },
     {
       "program_name": "LLB (Hons) (3+0) with University of London International Programmes, UK",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "BAC, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -109,11 +113,12 @@
             "text": "Minimum CGPA 2.50.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "LLB (Hons) (2+1) with UK University",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "BAC, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -230,11 +235,12 @@
             "text": "Minimum CGPA 2.50.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination\nMeet Requirement by Partner University"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "A-Levels (Sciences) - 4 Subjects",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "BAC, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -294,11 +300,12 @@
             "text": "5 O-Level Credits (including English)."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "A-Levels (Arts) - 3 Subjects",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "BAC, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -368,11 +375,12 @@
             "text": "Pass with 5 Cs including English."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "A-Levels (Sciences) - 3 Subjects",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "BAC, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -466,11 +474,12 @@
             "text": "Pass with 5 Cs including English, Mathematics and 2 Science Subjects."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "A-Levels (Arts) - 4 Subjects",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "BAC, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -530,11 +539,12 @@
             "text": "5 Grade Credits (including English)."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "Foundation in Business (Business)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "BAC, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -592,11 +602,12 @@
             "text": "Pass with 5 Cs."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Law",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "BAC, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -655,11 +666,12 @@
             "text": "Pass with 5 Cs."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business (Accounting, Finance)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "BAC, Petaling Jaya",
       "intakes": [
         "Jan",
@@ -729,7 +741,8 @@
             "text": "Pass with 5 Cs including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     }
   ]
 }

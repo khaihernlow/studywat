@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://sjis.edu.my/wp-content/uploads/image-10.webp"
+  ],
   "programs": [
     {
       "program_name": "Cambridge A-Levels (3 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "SJIS, KL",
       "intakes": [
         "Jan",
@@ -73,11 +76,12 @@
             "text": "Pass with at least 5 Grade C including English and Mathematics."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "Cambridge A-Levels (4 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "SJIS, KL",
       "intakes": [
         "Jan",
@@ -143,7 +147,8 @@
             "text": "Pass with at least 5 Grade C including English and Mathematics."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     }
   ]
 }

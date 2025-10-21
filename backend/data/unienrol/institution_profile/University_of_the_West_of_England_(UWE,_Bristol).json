@@ -4,6 +4,9 @@
   "institution_type": "Public",
   "world_rank": 927,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.ncuk.ac.uk/wp-content/uploads/2024/07/University-of-the-West-of-England-%E2%80%93-UWE-Bristol-Image-Gallery-2.jpg"
+  ],
   "programs": [
     {
       "program_name": "BA (Hons) Accounting and Finance",
@@ -171,11 +174,12 @@
             "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details. ."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BSc (Hons) Architecture",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "UWE, Frenchay",
       "intakes": [
         "Sep"
@@ -319,11 +323,12 @@
             "text": "UCAS Tariff points: 144 Please check with our UE counsellors for more details.."
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "BSc (Hons) Banking and Finance",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "UWE, Frenchay",
       "intakes": [
         "Sep"
@@ -487,11 +492,12 @@
             "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "BA (Hons) Business and Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UWE, Frenchay",
       "intakes": [
         "Jan",
@@ -650,11 +656,12 @@
             "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UWE, Frenchay",
       "intakes": [
         "Sep"
@@ -795,11 +802,12 @@
             "text": "UCAS Tariff points: 104 Please check with our UE counsellors for more details.."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "BA (Hons) Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UWE, City Campus",
       "intakes": [
         "Sep"
@@ -963,11 +971,12 @@
             "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA (Hons) Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "UWE, City Campus",
       "intakes": [
         "Sep"
@@ -1131,11 +1140,12 @@
             "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "BA (Hons) International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "UWE, Frenchay",
       "intakes": [
         "Sep"
@@ -1294,11 +1304,12 @@
             "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "UWE, Frenchay",
       "intakes": [
         "Sep"
@@ -1451,11 +1462,12 @@
             "text": "UCAS Tariff points: 112 Please check with our UE counsellors for more details.."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BEng Robotics",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "UWE, Frenchay",
       "intakes": [
         "Sep"
@@ -1676,7 +1688,8 @@
             "text": "UCAS Tariff points: 112 minimum grade of 5 in Higher Level Mathematics and a pass at Higher Level in one of the following subjects: Biology, Chemistry, Computer Science, Design Technology, Physics, Environmental Systems and Societies."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     }
   ]
 }

@@ -1,0 +1,239 @@
+{
+  "institution_name": "Penang Skills Development Centre (PSDC)",
+  "institution_country": "Malaysia",
+  "institution_type": null,
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Diploma in Electronic Engineering",
+      "field_of_study": "Electronic Engineering",
+      "location": "PSDC, Bayan Lepas",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jul"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "O-Level": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "UEC": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 266,
+        "tuition_fee": 27000
+      },
+      "course_content": {
+        "core": "Engineering Mathematics\nIntroduction to Engineering Science\nEnglish 1\nEnglish 2\nBahasa Kebangsaan A\nProject Management Series\nIsu-Isu Etika dan Moral\nPenghayatan Etika dan Peradaban\nAnalytical Methods for Engineers\nEngineering Science 1\nElectrical Technology B\nElectronics 1\nBusiness Management Techniques\nDigital and Analog Devices and Circuits\nCircuit Theory/Analysis\nIntroduction to Computer Programming\nElectronics 2\nProject\nSignals and Systems\nOperational Amplifier\nEngineering Design\nCombinational & Sequential Logic\nEmbedded Systems and Applications\nControl Systems\nFundamental of Internet-of-Thing\nCommunication Engineering\nFinal Year Project\nIndustrial Attachment",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Mechatronic Engineering",
+      "field_of_study": "Mechatronics Engineering",
+      "location": "PSDC, Bayan Lepas",
+      "intakes": [
+        "Feb",
+        "Apr",
+        "Jul"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "O-Level": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "UEC": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 100,
+        "resource_fee": 266,
+        "tuition_fee": 27000
+      },
+      "course_content": {
+        "core": "Electrical Technology A\nEngineering Mathematics\nIntroduction to Engineering Science\nEnglish 1\nEnglish 2\nBahasa Kebangsaan A* /\nProject Management Series **\nIsu-Isu Etika dan Moral\nPenghayatan Etika dan Peradaban\nAnalytical Methods for Engineers\nEngineering Science 1\nElectrical Technology B\nElectronics 1\nBusiness Management Techniques\nDigital and Analog Devices and Circuits\nIntroduction to Computer Programming\nMechanical Technology\nFluid Power System\nProject\nAdvanced CAD Techniques\nElectric Machine and Instrumentation\nEngineering Design\nCombinational & Sequential Logic\nProgrammable Logic Controllers\nMaterials Engineering\nControl Systems\nRobot Technology\nDesign of Mechanical System & Component\nFinal Year Project\nIndustrial Attachment",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ]
+      }
+    }
+  ]
+}

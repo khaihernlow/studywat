@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 1692,
   "malaysia_rank": 15,
+  "institution_images": [
+    "https://study.utar.edu.my/images/img100-69rvcopy_1682994551.jpg?n=1682994552010set"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Accounting (Hons)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UTAR, Sungai Long",
       "intakes": [
         "Jan",
@@ -192,11 +195,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Arts (Hons) Digital Animation",
-      "field_of_study": "Animation",
+      "field_of_study": "Communication and Media Studies",
       "location": "UTAR, Sungai Long",
       "intakes": [
         "Jan",
@@ -365,11 +369,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Animation"
     },
     {
       "program_name": "Bachelor of Arts (Hons) Chinese Studies",
-      "field_of_study": "Chinese Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "UTAR, Kampar",
       "intakes": [
         "Jan",
@@ -533,11 +538,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Chinese Studies"
     },
     {
       "program_name": "Bachelor of Arts (Hons) English Language",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "UTAR, Kampar",
       "intakes": [
         "Jan",
@@ -705,11 +711,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in English"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "Bachelor of Arts (Hons) English Education",
-      "field_of_study": "English (Teaching)",
+      "field_of_study": "Education",
       "location": "UTAR, Kampar",
       "intakes": [
         "Jan",
@@ -877,11 +884,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "English (Teaching)"
     },
     {
       "program_name": "Bachelor of Business Administration (Honours) Healthcare Management",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "UTAR, Kampar",
       "intakes": [
         "Jan",
@@ -1039,11 +1047,12 @@
             "text": "An average of 70% in 6 subjects.  Pass in Mathematics and English at SPM level / equivalent*"
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Bachelor of Arts (Hons) Journalism in Chinese Media",
-      "field_of_study": "Journalism",
+      "field_of_study": "Communication and Media Studies",
       "location": "UTAR, Sungai Long",
       "intakes": [
         "Jan",
@@ -1220,11 +1229,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in English, Chinese"
           }
         ]
-      }
+      },
+      "course": "Journalism"
     },
     {
       "program_name": "Bachelor of Arts (Hons) Game Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UTAR, Sungai Long",
       "intakes": [
         "Jan",
@@ -1403,11 +1413,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Bachelor of Arts (Hons) Graphic Design and Multimedia",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UTAR, Sungai Long",
       "intakes": [
         "Jan",
@@ -1586,11 +1597,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\npass in Mathematics\napplicants may be required to submit a portfolio"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Bachelor of Building and Property Management (Hons)",
-      "field_of_study": "Property & Real Estate",
+      "field_of_study": "Business",
       "location": "UTAR, Sungai Long",
       "intakes": [
         "Jan",
@@ -1766,7 +1778,8 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\npass in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Property & Real Estate"
     }
   ]
 }

@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 26,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.timeshighereducation.com/cms-academic/sites/default/files/2024-12/2023-09-Library-Lawn-03.jpg"
+  ],
   "programs": [
     {
       "program_name": "UNSW Transition Program Online",
-      "field_of_study": "Transition Program",
+      "field_of_study": "International Pre-University",
       "location": "UNSW Global (Online)",
       "intakes": [
         "Jan",
@@ -82,7 +85,8 @@
             "text": "ATAR 60. There may be specific subject requirements, depending on your intended degree program; for example, a minimum grade in mathematics and/or science subjects may be required..  Note: This program is suitable for students who narrowly missed the academic requirements for direct entry into Bachelor's degree at UNSW Sydney. When you successfully complete your pathway program and meet the grade point average (GPA) and English language requirements, you will gain entry to your chosen UNSW bachelor's degree."
           }
         ]
-      }
+      },
+      "course": "Transition Program"
     }
   ]
 }

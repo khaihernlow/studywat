@@ -4,6 +4,9 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Fairview+University+College/Fairview+Subang+Jaya/Campus_and_Surroundings/01a_Fairview_Subang_Jaya_Main_Building.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Education (Hons) Primary Years (B.Ed)",
@@ -84,11 +87,12 @@
             "text": "Foundation programme - minimum CGPA 2.0."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Foundation in Music",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Fairview, Subang Jaya",
       "intakes": [
         "Jan",
@@ -157,7 +161,8 @@
             "text": "Pass UEC with Grade B in 3 subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Postgraduate Diploma in Education (International Baccalaureate)",
@@ -205,7 +210,8 @@
             "text": "5 years of experience in the education field (if the Bachelor Degree is less than CGPA 2.50)"
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Master in Education (International Baccalaureate)",
@@ -251,7 +257,8 @@
             "text": "Minimum CGPA 2.50 (Degree in a related field).  5 years of experience in the education field (if the Bachelor Degree is less than CGPA 2.50)"
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Doctor of Education",
@@ -285,7 +292,8 @@
             "text": "A Masters degree (Level 7) as approved by University Senate or Training and or professional experience (approximately 3-4 years) in the field of education."
           }
         ]
-      }
+      },
+      "course": "Education"
     }
   ]
 }

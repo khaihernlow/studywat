@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 2985,
   "malaysia_rank": 27,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Curtin+University+Malaysia/Curtin%2C+Miri/Campus_and_Surroundings/01a_Curtin%2C_Miri_Main_Building.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Intensive English Programme",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -30,11 +33,12 @@
         "others": ""
       },
       "program_type": "language_prep",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "English"
     },
     {
       "program_name": "Bachelor of Commerce (Accounting and Audit Analytics)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -149,11 +153,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Commerce (Accounting)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -287,7 +292,8 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Commerce (Accounting & Finance)",
@@ -425,11 +431,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -565,11 +572,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Engineering (Chemical Engineering)(Honours)",
-      "field_of_study": "Chemical Engineering",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -706,11 +714,12 @@
             "text": "ATAR 80, including mathematics, e.g. calculus, and physics or chemistry..  null"
           }
         ]
-      }
+      },
+      "course": "Chemical Engineering"
     },
     {
       "program_name": "Bachelor of Engineering(Civil and Construction Engineering)(Honours)",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -831,11 +840,12 @@
             "text": "ATAR 80, including mathematics, e.g. calculus, and physics or chemistry..  null"
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Bachelor of Computing (Cyber Security)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -942,11 +952,12 @@
             "text": "ATAR 80.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Technology (Computer Systems and Networking)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -1153,11 +1164,12 @@
             "text": "ATAR 70 including Mathematics (including Calculus), physics and chemistry.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Applied Science (Hons.) (Construction Management)",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -1291,11 +1303,12 @@
             "text": "ATAR 70 incuding Mathematics.  null"
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "Bachelor of Engineering (Electrical and Electronic Engineering)(Honours)",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -1432,11 +1445,12 @@
             "text": "ATAR 80, including mathematics, e.g. calculus, and physics or chemistry..  null"
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Commerce (Finance)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -1627,11 +1641,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Commerce (Finance & Management)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -1822,11 +1837,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Commerce (Finance & Marketing)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -2027,11 +2043,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Engineering (Environmental)(Honours)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -2198,11 +2215,12 @@
             "text": "ATAR 80 including Mathematics (including calculus), physics and chemistry.  null"
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Bachelor of Engineering (Energy Engineering) (Honours)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -2376,11 +2394,12 @@
             "text": "ATAR 80, including mathematics, e.g. calculus, and physics or chemistry.."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Bachelor of Science (Applied Geology)",
-      "field_of_study": "Geology",
+      "field_of_study": "Science and Mathematics",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -2516,11 +2535,12 @@
             "text": "ATAR 70 including Mathematics (including calculus), physics and chemistry..  null"
           }
         ]
-      }
+      },
+      "course": "Geology"
     },
     {
       "program_name": "Bachelor of Commerce (Marketing and Tourism and Hospitality)",
-      "field_of_study": "Hospitality and Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -2607,11 +2627,12 @@
             "text": "ATAR 70.  null"
           }
         ]
-      }
+      },
+      "course": "Hospitality and Tourism Management"
     },
     {
       "program_name": "Bachelor of Commerce (Tourism and Hospitality)",
-      "field_of_study": "Hospitality and Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -2702,11 +2723,12 @@
             "text": "ATAR 70."
           }
         ]
-      }
+      },
+      "course": "Hospitality and Tourism Management"
     },
     {
       "program_name": "Bachelor of Commerce (Human Resources Management and Management)",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -2857,11 +2879,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Bachelor of Commerce (Management & Marketing)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -3017,11 +3040,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Bachelor of Commerce (Management)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -3112,11 +3136,12 @@
             "text": "ATAR 70."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Bachelor of Commerce (Marketing)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -3207,11 +3232,12 @@
             "text": "ATAR 70."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor of Communications",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -3365,11 +3391,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Engineering (Mechanical Engineering)(Honours)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -3506,11 +3533,12 @@
             "text": "ATAR 80 including Mathematics (including calculus), physics and chemistry.  null"
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Engineering (Mechatronic Engineering) (Honours)",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -3684,11 +3712,12 @@
             "text": "ATAR 80, including mathematics, e.g. calculus, and physics or chemistry.."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "Bachelor of Science (Health, Safety & Environment)",
-      "field_of_study": "Occupational Safety & Health",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -3808,11 +3837,12 @@
             "text": "ATAR 70 including Mathematics (including calculus), physics and chemistry..  null"
           }
         ]
-      }
+      },
+      "course": "Occupational Safety & Health"
     },
     {
       "program_name": "Bachelor of Science (Psychological Science)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -3932,11 +3962,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Computing (Software Engineering)",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -4091,11 +4122,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Diploma in Aquaculture",
-      "field_of_study": "Agriculture",
+      "field_of_study": "Science and Mathematics",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -4241,11 +4273,12 @@
             "text": "Minimum of Grade C (GP 2.00)."
           }
         ]
-      }
+      },
+      "course": "Agriculture"
     },
     {
       "program_name": "Diploma of Commerce",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Mar",
@@ -4352,11 +4385,12 @@
             "text": "Grade C (GP2.0) in any subject."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma of Media Studies",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Curtin, Miri",
       "intakes": [
         "Mar",
@@ -4463,11 +4497,12 @@
             "text": "Grade C (GP2.0) in any subject."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Diploma of Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Curtin, Miri",
       "intakes": [
         "Mar",
@@ -4583,11 +4618,12 @@
             "text": "Grade C (GP2.0) in any subject.  A credit in Mathematics at SPM/O-Level"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Foundation in Arts and Commerce",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -4680,11 +4716,12 @@
             "text": "Grade B in 3 relevant academic subjects and English competence."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Engineering & Science (Science)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -4789,11 +4826,12 @@
             "text": "Grade B in three relevant academic subjects and English competence.."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Engineering & Science (Engineering)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -4922,11 +4960,12 @@
             "text": "Grade B in three relevant academic subjects and English competence.."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Graduate Diploma in Project Management",
-      "field_of_study": "Project Management",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -4953,11 +4992,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Project Management"
     },
     {
       "program_name": "Master of Philosophy (Accounting)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -4984,11 +5024,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Accounting"
     },
     {
       "program_name": "Master of Philosophy (Business)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5024,11 +5065,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business and Management"
     },
     {
       "program_name": "Master of Philosophy (Engineering) (Chemical Engineering)",
-      "field_of_study": "Chemical Engineering",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5064,11 +5106,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Chemical Engineering"
     },
     {
       "program_name": "Master of Philosophy (Engineering) (Civil Engineering)",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5104,11 +5147,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Master of Philosophy (Humanities) (Media, Culture & Creative Arts)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5142,11 +5186,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Communication"
     },
     {
       "program_name": "Master of Philosophy (Economics & Finance)",
-      "field_of_study": "Economics and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5182,11 +5227,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Economics and Finance"
     },
     {
       "program_name": "Master of Philosophy (Engineering) (Electrical & Computer Engineering)",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5222,11 +5268,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Master of Philosophy (Engineering) (Geology)",
-      "field_of_study": "Geology",
+      "field_of_study": "Science and Mathematics",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5262,11 +5309,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Geology"
     },
     {
       "program_name": "Master of Health Sciences (Public Health)",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -5292,11 +5340,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Health Studies"
     },
     {
       "program_name": "Master of International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -5317,11 +5366,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "International Business"
     },
     {
       "program_name": "Master of Philosophy (Marketing)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5357,11 +5407,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Marketing"
     },
     {
       "program_name": "Master of Philosophy (Engineering) (Mechanical Engineering)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5397,11 +5448,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Master of Science (Project Management)",
-      "field_of_study": "Project Management",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5428,11 +5480,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Project Management"
     },
     {
       "program_name": "Doctor of Philosophy (by Research) (Business)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5467,11 +5520,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business Administration"
     },
     {
       "program_name": "Doctor of Philosophy (by Research) (Engineering)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5506,11 +5560,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Doctor of Philosophy (Humanities)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5545,11 +5600,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Social Sciences"
     },
     {
       "program_name": "Graduate Certificate in Public Health",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Curtin, Miri",
       "intakes": [
         "Feb",
@@ -5573,11 +5629,12 @@
         "others": ""
       },
       "program_type": "certificate",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Health Studies"
     },
     {
       "program_name": "Graduate Certificate in Project Management",
-      "field_of_study": "Project Management",
+      "field_of_study": "Business",
       "location": "Curtin, Miri",
       "intakes": [
         "Jan",
@@ -5601,7 +5658,8 @@
         "others": ""
       },
       "program_type": "certificate",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Project Management"
     }
   ]
 }

@@ -4,6 +4,9 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/MCKL/KL+CAMPUS/Campus+_+Surroundings/01b_Methodist_College_KL_MCKL_Campus_Front_View.png"
+  ],
   "programs": [
     {
       "program_name": "Diploma in Financial Technology + UK Final Year Degree (University of Northampton)",
@@ -95,7 +98,8 @@
             "text": "Min. a Grade C in any subjects.  Pass SPM with a credit in Mathematics and a pass in English"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Diploma in Financial Technology + UK Final Year Degree (Middlesex University London)",
@@ -187,7 +191,8 @@
             "text": "Min. a Grade C in any subjects.  Pass SPM with a credit in Mathematics and a pass in English"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Diploma in Financial Technology + UK Final Year Degree (De Monfort University)",
@@ -239,11 +244,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Diploma in Digital Business + UK Final Year Degree (University of Northampton)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -291,11 +297,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Digital Business + UK Final Year Degree (Middlesex University London)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -343,11 +350,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Digital Business + UK Final Year Degree (Northumbria University)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -395,11 +403,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Digital Business (with SQA Advanced Diploma) + UK Final Year Degree (University of Essex)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -447,11 +456,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Digital Business + UK Final Year Degree (De Monfort University)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -499,11 +509,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Computer Science + UK Final Year Degree (University of Northampton)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -616,11 +627,12 @@
             "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Computer Science + UK Final Year Degree (Middlesex University London)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -738,11 +750,12 @@
             "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Computer Science (with SQA Advanced Diploma) + UK Final Year Degree (University of Essex)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -855,11 +868,12 @@
             "text": "Min. Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Computer Science (with SQA Advanced Diploma) + UK Final Year Degree (De Monfort University)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -972,11 +986,12 @@
             "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Early Childhood Education + UK Final Year Degree (University of Northampton)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -1024,11 +1039,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education + Ireland Final Year Degree (Munster Technological University)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -1076,11 +1092,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Information Technology + UK Final Year Degree (University of Northampton)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jun",
@@ -1169,11 +1186,12 @@
             "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology + UK Final Year Degree (Middlesex University London)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jun",
@@ -1262,11 +1280,12 @@
             "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology (with SQA Advanced Diploma) + UK Final Year Degree (University of Essex)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jun",
@@ -1355,11 +1374,12 @@
             "text": "Min. Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology (with SQA Advanced Diploma) + UK Final Year Degree (De Monfort University)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jun",
@@ -1448,11 +1468,12 @@
             "text": "Min. a Grade C in any subjects.  Credit in Mathematics at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Digital Marketing + UK Final Year Degree (University of Northampton)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -1500,11 +1521,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Digital Marketing + UK Final Year Degree (Middlesex University London)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -1552,11 +1574,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Digital Marketing + UK Final Year Degree (Northumbria University)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -1604,11 +1627,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Digital Marketing (with SQA Advanced Diploma) + UK Final Year Degree (University of Essex)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -1656,11 +1680,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Digital Marketing + UK Final Year Degree (De Monfort University)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -1708,11 +1733,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "ACCA (Full/Part Time)",
-      "field_of_study": "Professional Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -1809,11 +1835,12 @@
             "text": "70.00 ATAR."
           }
         ]
-      }
+      },
+      "course": "Professional Accounting"
     },
     {
       "program_name": "Diploma in Digital Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -1861,11 +1888,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Digital Business (DDB)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "MCKL, Pykett Penang",
       "intakes": [
         "Jan",
@@ -1913,11 +1941,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Computer Science (DCS)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -1989,11 +2018,12 @@
             "text": "Min. a Grade C in any subjects."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Computer Science (DCS)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Pykett Penang",
       "intakes": [
         "Jan",
@@ -2082,11 +2112,12 @@
             "text": "Min. Grade C in any subjects."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -2145,11 +2176,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Early Childhood Education (DECE)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "MCKL, Pykett Penang",
       "intakes": [
         "Jan",
@@ -2204,11 +2236,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Financial Technology",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -2296,11 +2329,12 @@
             "text": "Min. a Grade C in any subjects.  Pass SPM with a credit in Mathematics and a pass in English"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -2372,11 +2406,12 @@
             "text": "Min. a Grade C in any subjects."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Tehnology (DIT)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "MCKL, Pykett Penang",
       "intakes": [
         "Jun",
@@ -2496,11 +2531,12 @@
             "text": "Min. a Grade C in any subject.  A credit in Mathematics at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Digital Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -2548,11 +2584,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Digital Marketing (DDM)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "MCKL, Pykett Penang",
       "intakes": [
         "Jan",
@@ -2600,11 +2637,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Social Work (Part Time)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Aug"
@@ -2662,11 +2700,12 @@
             "text": "3 credits, including Bahasa Melayu."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Cambridge A-Levels (4 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "MCKL, Pykett Penang",
       "intakes": [
         "Jan",
@@ -2725,11 +2764,12 @@
             "text": "Min. 5 credits including English."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "Cambridge A-Levels (4 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -2782,11 +2822,12 @@
             "text": "Minimum pass O-Level with 5 Grade C."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "Cambridge A-Levels (3 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -2839,11 +2880,12 @@
             "text": "Minimum pass O-Level with 5 Grade C."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "Cambridge A-Levels (3 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "MCKL, Pykett Penang",
       "intakes": [
         "Jan",
@@ -2902,11 +2944,12 @@
             "text": "Min. 5 credits including English."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     },
     {
       "program_name": "American Degree Transfer Program (ADTP)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -2995,11 +3038,12 @@
             "text": "Minimum 2 principal passes."
           }
         ]
-      }
+      },
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "Australian Matriculation (AUSMAT)",
-      "field_of_study": "Australian Matriculation (AUSMAT)",
+      "field_of_study": "International Pre-University",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -3039,11 +3083,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "Australian Matriculation (AUSMAT)"
     },
     {
       "program_name": "Australian Matriculation (AUSMAT)",
-      "field_of_study": "Australian Matriculation (AUSMAT)",
+      "field_of_study": "International Pre-University",
       "location": "MCKL, Pykett Penang",
       "intakes": [
         "Jan",
@@ -3115,11 +3160,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "Australian Matriculation (AUSMAT)"
     },
     {
       "program_name": "ACCA Foundation in Accountancy (ACCA FiA)",
-      "field_of_study": "Professional Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "MCKL, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -3186,7 +3232,8 @@
             "text": "Pass with at least 5 Grade C including Maths and English."
           }
         ]
-      }
+      },
+      "course": "Professional Accounting"
     }
   ]
 }

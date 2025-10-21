@@ -1,0 +1,692 @@
+{
+  "institution_name": "Swinburne University of Technology (SUT)",
+  "institution_country": "Australia",
+  "institution_type": "Public",
+  "world_rank": 342,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "UniLink Bridging Program",
+      "field_of_study": "Transition Program",
+      "location": "UP Education Swinburne Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "UEC": "UEC (United Examination Certificate) with an average of C8 (8) in 5 best subjects.",
+        "STPM": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 1.33."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 50704
+      },
+      "course_content": {
+        "core": "Complete two units from one discipline. Students should choose: Students should choose: the Design discipline for entry into Diploma of Design (UniLink)\nthe Engineering / Science discipline for entry into Diploma of Engineering (UniLink) or Diploma of Science (UniLink)\nthe General discipline* for entry into any other UniLink diploma. the Design discipline for entry into Diploma of Design (UniLink) the Engineering / Science discipline for entry into Diploma of Engineering (UniLink) or Diploma of Science (UniLink) the General discipline* for entry into any other UniLink diploma. *Students must complete one core unit between CMS00001 and MTH00011. Students are advised to choose these electives, as they might serve as pre-requisites for your progression into a diploma or bachelor course.  Design Discipline Core Units Global Communication  Engineering/Science Discipline Core Units General Mathematics\nFoundation Mathematics General Mathematics Foundation Mathematics  General Discipline Core Units Global Communication\nGeneral Mathematics Global Communication General Mathematics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C8"
+          },
+          {
+            "type": "raw",
+            "text": "UEC (United Examination Certificate) with an average of C8 (8) in 5 best subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 1.33
+          },
+          {
+            "type": "raw",
+            "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 1.33."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma of Business (UniLink)",
+      "field_of_study": "Business and Management",
+      "location": "UP Education Swinburne Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7.",
+        "UEC": "UEC (United Examination Certificate), an average of C7 in 5 best subjects.",
+        "STPM": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 99993
+      },
+      "course_content": {
+        "core": "Core Units Accounting for Success\nBusiness Innovation and Professional Practice\nIntroduction to Business Information Systems\nMarketing Principles and Practices\nEconomic Principles\nManagement 2030 Accounting for Success Business Innovation and Professional Practice Introduction to Business Information Systems Marketing Principles and Practices Economic Principles Management 2030",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "UEC (United Examination Certificate), an average of C7 in 5 best subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma of Arts and Communication (UniLink)",
+      "field_of_study": "Communication",
+      "location": "UP Education Swinburne Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7.",
+        "UEC": "UEC (United Examination Certificate), an average of C7 in 5 best subjects.",
+        "STPM": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 99993
+      },
+      "course_content": {
+        "core": "Core Units Grand Challenges - Industrial Revolution to Digital Age\nIntroduction to Media Studies\nPopular Culture\nApplied Communication\nIndigenous Studies\nMedia Content Development Grand Challenges - Industrial Revolution to Digital Age Introduction to Media Studies Popular Culture Applied Communication Indigenous Studies Media Content Development",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "UEC (United Examination Certificate), an average of C7 in 5 best subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma of Engineering (UniLink)",
+      "field_of_study": "General Engineering and Technology",
+      "location": "UP Education Swinburne Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7.",
+        "UEC": "UEC (United Examination Certificate), an average of C7 in 5 best subjects.",
+        "STPM": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 110586
+      },
+      "course_content": {
+        "core": "Core Units Energy and Motion\nCalculus and Applications\nSustainable and Innovative Design in Engineering Projects\nMaterials and Processes\nLinear Algebra and Applications\nMechanics of Structures\nFundamentals of Programming\nDigital Technology in an Indigenous Context Energy and Motion Calculus and Applications Sustainable and Innovative Design in Engineering Projects Materials and Processes Linear Algebra and Applications Mechanics of Structures Fundamentals of Programming Digital Technology in an Indigenous Context",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "UEC (United Examination Certificate), an average of C7 in 5 best subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma of Science (UniLink)",
+      "field_of_study": "General Sciences (Oversea)",
+      "location": "UP Education Swinburne Campus",
+      "intakes": [
+        "Feb",
+        "Jun"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7.",
+        "UEC": "UEC (United Examination Certificate), an average of C7 in 5 best subjects.",
+        "STPM": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 110586
+      },
+      "course_content": {
+        "core": "Core Units Introduction to Biology\nChemistry\nSustainable and Innovative Design in Engineering Projects\nCalculus and Applications\nStatistics 101 Introduction to Biology Chemistry Sustainable and Innovative Design in Engineering Projects Calculus and Applications Statistics 101",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "UEC (United Examination Certificate), an average of C7 in 5 best subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma of Health Science (UniLink)",
+      "field_of_study": "Health Studies",
+      "location": "UP Education Swinburne Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7.",
+        "UEC": "UEC (United Examination Certificate), an average of C7 in 5 best subjects.",
+        "STPM": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 110586
+      },
+      "course_content": {
+        "core": "Core Units Introduction to Anatomy and Physiology\nIntroduction to Critical Thinking and Research Methodology\nPsychology Fundamentals\nStatistics 101\nHealth and Disease\nHealth Science 1\nIntroduction to Digital Health Introduction to Anatomy and Physiology Introduction to Critical Thinking and Research Methodology Psychology Fundamentals Statistics 101 Health and Disease Health Science 1 Introduction to Digital Health",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "UEC (United Examination Certificate), an average of C7 in 5 best subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma of Information Technology (UniLink)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "UP Education Swinburne Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7.",
+        "UEC": "UEC (United Examination Certificate), an average of C7 in 5 best subjects.",
+        "STPM": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 101722
+      },
+      "course_content": {
+        "core": "Core Units Fundamentals of Programming\nDigital Technology in an Indigenous Context\nComputer Technology\nComputing Systems Project\nCloud Computing Fundamentals of Programming Digital Technology in an Indigenous Context Computer Technology Computing Systems Project Cloud Computing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "UEC (United Examination Certificate), an average of C7 in 5 best subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma of Design (UniLink)",
+      "field_of_study": "Multimedia Design",
+      "location": "UP Education Swinburne Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7.",
+        "UEC": "UEC (United Examination Certificate), an average of C7 in 5 best subjects.",
+        "STPM": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 103514
+      },
+      "course_content": {
+        "core": "Core Units Introduction to Biology\nChemistry\nSustainable and Innovative Design in Engineering Projects\nCalculus and Applications\nStatistics 101 Introduction to Biology Chemistry Sustainable and Innovative Design in Engineering Projects Calculus and Applications Statistics 101",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Completion of 1 AS and 2 A level subjects with a minimum combined score of 7."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "UEC (United Examination Certificate), an average of C7 in 5 best subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Arts)",
+      "field_of_study": "Foundation in Arts",
+      "location": "UP Education Swinburne Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5C in SPM academic units (Sijil Pelajaran Malaysia).  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "Satisfactory (C) completion of minimum 3 subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 92575
+      },
+      "course_content": {
+        "core": "Core Units Global Communication\nAcademic and Communication Skills A\nAcademic and Communication Skills B\nInformation Technology\nInnovation and Change\nGeneral Mathematics Global Communication Academic and Communication Skills A Academic and Communication Skills B Information Technology Innovation and Change General Mathematics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5C in SPM academic units (Sijil Pelajaran Malaysia).  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Satisfactory (C) completion of minimum 3 subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation Studies (Science)",
+      "field_of_study": "Foundation in Science",
+      "location": "UP Education Swinburne Campus",
+      "intakes": [
+        "Feb",
+        "Jun",
+        "Oct"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5C in SPM academic units (Sijil Pelajaran Malaysia).  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "Satisfactory (C) completion of minimum 3 subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 92575
+      },
+      "course_content": {
+        "core": "Core Units Global Communication\nAcademic and Communication Skills A\nAcademic and Communication Skills B\nInformation Technology\nInnovation and Change\nGeneral Mathematics Global Communication Academic and Communication Skills A Academic and Communication Skills B Information Technology Innovation and Change General Mathematics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5C in SPM academic units (Sijil Pelajaran Malaysia).  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Satisfactory (C) completion of minimum 3 subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ]
+      }
+    }
+  ]
+}

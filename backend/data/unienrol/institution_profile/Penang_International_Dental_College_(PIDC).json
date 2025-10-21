@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://pmed.my/wp-content/uploads/2025/02/penang-international-dental-college-pidc.jpg"
+  ],
   "programs": [
     {
       "program_name": "Doctor of Dental Surgery (DDS)",
-      "field_of_study": "Dentistry",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "PIDC, Butterworth",
       "intakes": [
         "Sep"
@@ -160,11 +163,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
           }
         ]
-      }
+      },
+      "course": "Dentistry"
     },
     {
       "program_name": "Foundation in Science (PIDC)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "PIDC, Butterworth",
       "intakes": [
         "Jul",
@@ -221,7 +225,8 @@
             "text": "Minimum grade B in Biology, Chemistry, Physics, Mathematics / Additional Mathematics and 1 other subject."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

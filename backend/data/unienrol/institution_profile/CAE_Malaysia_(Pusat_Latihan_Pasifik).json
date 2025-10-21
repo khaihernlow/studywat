@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/CAE+Malaysia/Pusat+Latihan+Asia+Pasifik%2C+Puchong/Activities+and+Lifestyle/01a_Pusat_Latihan_Asia_Pasifik%2C_Puchong_CAE_Office.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Advanced Certification in Special Education",
-      "field_of_study": "Special Needs Education",
+      "field_of_study": "Education",
       "location": "CAE PLAP, Puchong",
       "intakes": [
         "Jan",
@@ -46,11 +49,12 @@
             "text": "Preferably a diploma holder."
           }
         ]
-      }
+      },
+      "course": "Special Needs Education"
     },
     {
       "program_name": "Certification in Disability Studies",
-      "field_of_study": "Special Needs Education",
+      "field_of_study": "Education",
       "location": "CAE PLAP, Puchong",
       "intakes": [
         "Jan",
@@ -87,11 +91,12 @@
             "text": "SPM with a pass in BM and Sejarah. No credits required. Preferably with 1 year working experience."
           }
         ]
-      }
+      },
+      "course": "Special Needs Education"
     },
     {
       "program_name": "Certification in Learning Disorders Management and Child Psychology",
-      "field_of_study": "Special Needs Education",
+      "field_of_study": "Education",
       "location": "CAE PLAP, Puchong",
       "intakes": [
         "Jan",
@@ -128,11 +133,12 @@
             "text": "SPM with a pass in BM and Sejarah. No credits required. Preferably with 1 year working experience."
           }
         ]
-      }
+      },
+      "course": "Special Needs Education"
     },
     {
       "program_name": "Certification in Education (Special Needs)",
-      "field_of_study": "Special Needs Education",
+      "field_of_study": "Education",
       "location": "CAE PLAP, Puchong",
       "intakes": [
         "Jan",
@@ -169,7 +175,8 @@
             "text": "SPM with a pass in BM and Sejarah. No credits required. Preferably with 1 year working experience."
           }
         ]
-      }
+      },
+      "course": "Special Needs Education"
     }
   ]
 }

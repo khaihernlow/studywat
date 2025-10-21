@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://myeducation.my/wp-content/uploads/2021/05/6-1-1024x630.jpg"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Art & Design",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "MIA, Melawati",
       "intakes": [
         "Jan",
@@ -56,11 +59,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma in Fine Art",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "MIA, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -137,11 +141,12 @@
             "text": "UEC with minimum 3 Grade B in any subjects."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma In Illustration",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "MIA, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -218,11 +223,12 @@
             "text": "UEC with minimum 3 Grade B in any subjects."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma In Textile & Fashion Design",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "MIA, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -299,11 +305,12 @@
             "text": "UEC with minimum 3 Grade B in any subjects."
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "MIA, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -380,11 +387,12 @@
             "text": "UEC with minimum 3 Grade B in any subjects."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Industrial Design",
-      "field_of_study": "Industrial Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "MIA, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -461,11 +469,12 @@
             "text": "UEC with minimum 3 Grade B in any subjects."
           }
         ]
-      }
+      },
+      "course": "Industrial Design"
     },
     {
       "program_name": "Diploma In Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "MIA, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -542,11 +551,12 @@
             "text": "UEC with minimum 3 Grade B in any subjects."
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Diploma in Music",
-      "field_of_study": "Music",
+      "field_of_study": "Creative Arts and Design",
       "location": "MIA, Kuala Lumpur",
       "intakes": [
         "Jan",
@@ -623,7 +633,8 @@
             "text": "UEC with minimum 3 Grade B in any subjects."
           }
         ]
-      }
+      },
+      "course": "Music"
     }
   ]
 }

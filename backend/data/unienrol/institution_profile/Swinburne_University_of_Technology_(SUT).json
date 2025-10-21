@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 342,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.swinburne.edu.my/wp-content/uploads/2024/07/DJI_0061-scaled.jpg"
+  ],
   "programs": [
     {
       "program_name": "UniLink Bridging Program",
-      "field_of_study": "Transition Program",
+      "field_of_study": "International Pre-University",
       "location": "UP Education Swinburne Campus",
       "intakes": [
         "Feb",
@@ -62,11 +65,12 @@
             "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 1.33."
           }
         ]
-      }
+      },
+      "course": "Transition Program"
     },
     {
       "program_name": "Diploma of Business (UniLink)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UP Education Swinburne Campus",
       "intakes": [
         "Feb",
@@ -133,11 +137,12 @@
             "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma of Arts and Communication (UniLink)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UP Education Swinburne Campus",
       "intakes": [
         "Feb",
@@ -204,11 +209,12 @@
             "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Diploma of Engineering (UniLink)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "UP Education Swinburne Campus",
       "intakes": [
         "Feb",
@@ -275,11 +281,12 @@
             "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Diploma of Science (UniLink)",
-      "field_of_study": "General Sciences (Oversea)",
+      "field_of_study": "Science and Mathematics",
       "location": "UP Education Swinburne Campus",
       "intakes": [
         "Feb",
@@ -345,11 +352,12 @@
             "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
           }
         ]
-      }
+      },
+      "course": "General Sciences (Oversea)"
     },
     {
       "program_name": "Diploma of Health Science (UniLink)",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "UP Education Swinburne Campus",
       "intakes": [
         "Feb",
@@ -416,11 +424,12 @@
             "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "Diploma of Information Technology (UniLink)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UP Education Swinburne Campus",
       "intakes": [
         "Feb",
@@ -487,11 +496,12 @@
             "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma of Design (UniLink)",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UP Education Swinburne Campus",
       "intakes": [
         "Feb",
@@ -558,11 +568,12 @@
             "text": "Successful completion of the STPM (Sijil Tinggi Pelajaran Malaysia) with minimum GPA of 2.0."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Foundation Studies (Arts)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UP Education Swinburne Campus",
       "intakes": [
         "Feb",
@@ -622,11 +633,12 @@
             "text": "Satisfactory (C) completion of minimum 3 subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation Studies (Science)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "UP Education Swinburne Campus",
       "intakes": [
         "Feb",
@@ -686,7 +698,8 @@
             "text": "Satisfactory (C) completion of minimum 3 subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

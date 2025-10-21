@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 11257,
   "malaysia_rank": 76,
+  "institution_images": [
+    "https://www.nilai.edu.my/sites/default/files/slide-item/image/2012_0.png"
+  ],
   "programs": [
     {
       "program_name": "Advanced Diploma in Aircraft Engineering Technology",
-      "field_of_study": "Aircraft Maintenance Engineering",
+      "field_of_study": "Engineering",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -29,7 +32,8 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Aircraft Maintenance Engineering"
     },
     {
       "program_name": "BA (Hons) in Accounting & Finance",
@@ -184,11 +188,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Science (Hons) Biotechnology",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -391,11 +396,12 @@
             "text": "Minimum 50% in 5 subjects.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Bachelor in Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -551,11 +557,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "BBA (Hons) in Finance",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -711,11 +718,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor in Computer Science (Hons) (Artificial Intelligence)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -897,11 +905,12 @@
             "text": "Pass with a minimum CGPA of 2.00.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Event Management (Hons)",
-      "field_of_study": "Event Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -923,11 +932,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Event Management"
     },
     {
       "program_name": "BBA (Hons) in Human Resource Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -1083,11 +1093,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) (Internet Engineering & Cloud Computing)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -1254,11 +1265,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -1435,11 +1447,12 @@
             "text": "Minimum 50% in 5 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BBA (Hons) in International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -1595,11 +1608,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Bachelor of Commerce (Honours) in International Business - ODL",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -1728,11 +1742,12 @@
             "text": "A pass with a minimum CGPA of 2.0."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BBA (Hons) in Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -1888,11 +1903,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "BBA (Hons) in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -2043,11 +2059,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Apr",
@@ -2322,11 +2339,12 @@
             "text": "Minimum CGPA 2.50. Additional health and medical requirements apply.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Nursing (Honours) - ODL",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Apr",
@@ -2362,11 +2380,12 @@
             "text": "Pass Diploma in Nursing and registered with Malaysian Nursing Board (MNB).  Minimum TWO (2) years clinical working experience\nPossess current Annual Practising Certificate (APC) for nurses from MNB\nCompleted a minimum of 52 weeks of clinical placement during the diploma in nursing programme"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons) (Software Engineering)",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -2582,11 +2601,12 @@
             "text": "Minimum 50% in 5 subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Bachelor of Software Engineering (Honours) (Application Development) - ODL",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -2781,11 +2801,12 @@
             "text": "Pass with a minimum CGPA of 2.00.  Credit in Additional Mathematics at the SPM Level or its equivalent OR credit in SPM Mathematics and any one of the Science, Technology or Engineering subjects or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -2890,11 +2911,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Aircraft Maintenance Engineering",
-      "field_of_study": "Aircraft Maintenance Engineering",
+      "field_of_study": "Engineering",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3014,11 +3036,12 @@
             "text": "3Bs including Mathematics and 1 Science/Technical/Vocational subject AND a pass in English."
           }
         ]
-      }
+      },
+      "course": "Aircraft Maintenance Engineering"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3075,11 +3098,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3157,11 +3181,12 @@
             "text": "Pass with 3Bs including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3214,11 +3239,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3321,11 +3347,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3351,11 +3378,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Apr",
@@ -3460,11 +3488,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3541,11 +3570,12 @@
             "text": "3Bs."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business (Accounting, IT)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3658,11 +3688,12 @@
             "text": "3 credits (B6) including Mathematics, and pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3788,11 +3819,12 @@
             "text": "3 credits (B6) including Mathematics and any 2 science subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Nursing)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3877,11 +3909,12 @@
             "text": "min. 5 credits including Mathematics, any 2 science subjects plus pass in English, Biology.  Additional Requirements: \ncredit in Bahasa Melayu at SPM-Level to practise Nursing in Malaysia"
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Master of Business Administration - ODL",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3934,11 +3967,12 @@
             "text": "Pass with a minimum CGPA of 2.50 in related field. Pass with a minimum CGPA of 2.00 in non-related field.  A pass with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted subject to an internal evaluation/interview. With related working experiences and subject to an internal evaluation/interview OR without relevant working experience subject to passing of prerequisite courses"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Master of Engineering Science",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3960,11 +3994,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Master of Applied Sciences",
-      "field_of_study": "General Sciences (Postgraduate)",
+      "field_of_study": "Science and Mathematics",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -3986,11 +4021,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "General Sciences (Postgraduate)"
     },
     {
       "program_name": "Master of Business Administration (Banking & Finance)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -4012,11 +4048,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration (Marketing)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -4038,11 +4075,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration (Human Resource Management)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Nilai University, Nilai",
       "intakes": [
         "Jan",
@@ -4064,7 +4102,8 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     }
   ]
 }

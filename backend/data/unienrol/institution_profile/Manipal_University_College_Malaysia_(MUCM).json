@@ -1,1167 +1,1193 @@
 {
-  "institution_name": "Manipal University College Malaysia (MUCM)",
-  "institution_country": "Malaysia",
-  "institution_type": "Private",
-  "world_rank": 15051,
-  "malaysia_rank": 97,
-  "programs": [
-    {
-      "program_name": "Bachelor of Dental Surgery",
-      "field_of_study": "Dentistry",
-      "location": "Manipal, Melaka",
-      "intakes": [
-        "Oct"
-      ],
-      "program_duration_years": 5,
-      "internship": null,
-      "entry_requirements_raw": {
-        "A-Level": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-        "UEC": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-        "Diploma": "CGPA 3.0 (out of 4.0) AND provided the course is not less than 5 semesters or 2 ½ years and completed in the same institution..  SPM-level or equivalent:\nMinimum 2 Bs in  any 2 subjects in Biology; and/or Chemistry; and/or Physics AND Credits in 3 subjects in English; and Mathematics or Additional Mathematics; and another subject",
-        "STPM": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-        "Foundation": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-        "CPU": "Average of 80% in 3 subjects in Biology; and Chemistry; and Physics or Mathematic.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-        "IB Diploma": "A minimum of 30 points overall AND Attained a minimum score of 5 each in 3 of the following subject in Biology; and Chemistry; and Physics or Mathematics with a minimum of 2 at Higher Level (HL) and 1 at Standard Level.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-        "SACE/WACE": "80% ATAR provided the subjects include in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)"
-      },
-      "english_requirements": {},
-      "fees": {
-        "registration_fee": 500,
-        "resource_fee": null,
-        "tuition_fee": 360000
-      },
-      "course_content": {
-        "core": "Phase 1 Anatomy Biochemistry Medical Microbiology General Pathology Pre-Clinical Prosthodontics Oral Biology Pharmacology Physiology Dental Material & Dental Technology Pre-Clinical Conservative Dentistry Phase 2 Community Dentistry Conservative Dentistry & Edodontics Oral Maxillofacial Surgery/Radiology Oral Medicine Prosthodontics General Dental Practice Human Disease (General Medicine & Surgery) Paediatric Dentistry & Orthodontics Oral Pathology Periodontics",
-        "elective": "",
-        "others": ""
-      },
-      "program_type": "bachelor",
-      "entry_requirements_processed": {
-        "A-Level": {
-          "raw": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-          "min_gp": null,
-          "min_subjects": null,
-          "min_grade": "B",
-          "required_credits": [],
-          "related_field": true
+    "institution_name": "Manipal University College Malaysia (MUCM)",
+    "institution_country": "Malaysia",
+    "institution_type": "Private",
+    "world_rank": 15051,
+    "malaysia_rank": 97,
+    "institution_images": [
+        "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/MUCM/MANIPAL+MELAKA/Campus_Surroundings/01a_Manipal_Melaka_Campus_Dental_Clinic.png"
+    ],
+    "programs": [
+        {
+            "program_name": "Bachelor of Dental Surgery",
+            "field_of_study": "Medicine and Allied Health Sciences",
+            "location": "Manipal, Melaka",
+            "intakes": [
+                "Oct"
+            ],
+            "program_duration_years": 5,
+            "internship": null,
+            "entry_requirements_raw": {
+                "A-Level": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                "UEC": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                "Diploma": "CGPA 3.0 (out of 4.0) AND provided the course is not less than 5 semesters or 2 ½ years and completed in the same institution..  SPM-level or equivalent:\nMinimum 2 Bs in  any 2 subjects in Biology; and/or Chemistry; and/or Physics AND Credits in 3 subjects in English; and Mathematics or Additional Mathematics; and another subject",
+                "STPM": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                "Foundation": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                "CPU": "Average of 80% in 3 subjects in Biology; and Chemistry; and Physics or Mathematic.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                "IB Diploma": "A minimum of 30 points overall AND Attained a minimum score of 5 each in 3 of the following subject in Biology; and Chemistry; and Physics or Mathematics with a minimum of 2 at Higher Level (HL) and 1 at Standard Level.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                "SACE/WACE": "80% ATAR provided the subjects include in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)"
+            },
+            "english_requirements": {},
+            "fees": {
+                "registration_fee": 500,
+                "resource_fee": null,
+                "tuition_fee": 360000
+            },
+            "course_content": {
+                "core": "Phase 1 Anatomy Biochemistry Medical Microbiology General Pathology Pre-Clinical Prosthodontics Oral Biology Pharmacology Physiology Dental Material & Dental Technology Pre-Clinical Conservative Dentistry Phase 2 Community Dentistry Conservative Dentistry & Edodontics Oral Maxillofacial Surgery/Radiology Oral Medicine Prosthodontics General Dental Practice Human Disease (General Medicine & Surgery) Paediatric Dentistry & Orthodontics Oral Pathology Periodontics",
+                "elective": "",
+                "others": ""
+            },
+            "program_type": "bachelor",
+            "entry_requirements_processed": {
+                "A-Level": [
+                    {
+                        "raw": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": "B",
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ],
+                "UEC": [
+                    {
+                        "raw": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": "B",
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ],
+                "Diploma": [
+                    {
+                        "raw": "CGPA 3.0 (out of 4.0) AND provided the course is not less than 5 semesters or 2 ½ years and completed in the same institution..  SPM-level or equivalent:\nMinimum 2 Bs in  any 2 subjects in Biology; and/or Chemistry; and/or Physics AND Credits in 3 subjects in English; and Mathematics or Additional Mathematics; and another subject",
+                        "min_gp": 3.0,
+                        "min_subjects": 2,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ],
+                "STPM": [
+                    {
+                        "raw": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ],
+                "Foundation": [
+                    {
+                        "raw": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                        "min_gp": 3.0,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ],
+                "CPU": [
+                    {
+                        "raw": "Average of 80% in 3 subjects in Biology; and Chemistry; and Physics or Mathematic.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                        "min_gp": null,
+                        "min_subjects": 3,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ],
+                "IB Diploma": [
+                    {
+                        "raw": "A minimum of 30 points overall AND Attained a minimum score of 5 each in 3 of the following subject in Biology; and Chemistry; and Physics or Mathematics with a minimum of 2 at Higher Level (HL) and 1 at Standard Level.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                        "min_gp": null,
+                        "min_subjects": 3,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ],
+                "SACE/WACE": [
+                    {
+                        "raw": "80% ATAR provided the subjects include in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
+                        "min_gp": null,
+                        "min_subjects": null,
+                        "min_grade": null,
+                        "required_credits": [],
+                        "related_field": true
+                    }
+                ]
+            },
+            "course": "Dentistry"
         },
-        "UEC": {
-          "raw": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-          "min_gp": null,
-          "min_subjects": null,
-          "min_grade": "B",
-          "required_credits": [],
-          "related_field": true
+        {
+            "program_name": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
+            "field_of_study": "Medicine and Allied Health Sciences",
+            "location": "Manipal, Melaka",
+            "intakes": [
+                "Apr",
+                "Oct"
+            ],
+            "program_duration_years": 5,
+            "internship": null,
+            "entry_requirements_raw": {
+                "A-Level": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+                "UEC": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+                "Diploma": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 2Bs including Biology, Chemistry or Physics\ncredit in Mathematics, English and another subject\nin addition, credit in Bahasa Melayu required to practise Medicine in Malaysia",
+                "STPM": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+                "Foundation": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+                "CPU": "Average of 80% in 3 subjects in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+                "SACE/WACE": "80% ATAR provided the subjects include in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+            },
+            "english_requirements": {},
+            "fees": {
+                "registration_fee": 500,
+                "resource_fee": null,
+                "tuition_fee": 375000
+            },
+            "course_content": {
+                "core": "Semester 1-4: Pre-Clerkship Including Cadaver Dissection\nAnatomy *\nPhysiology\nBiochemistry\nPharmacology\nPathology\nMicrobiology\nForensic Medicine\nFoundation of Clinical Skills Semester 1-4: Pre-Clerkship Including Cadaver Dissection Semester 5-7: Junior Clerkship\nMedicine\nSurgery\nObstetrics & Gynaecology\nPaediatrics\nCommunity Medicine\nPsychiatry\nOrthopaedics\nPalliative Medicine\nMedical Ethics\nElective** Semester 5-7: Junior Clerkship Semester 8-9: Senior Clerkship\nMedicine\nSurgery\nObstetrics & Gynaecology\nPaediatrics\nCommunity Medicine\nFamily Medicine\nPsychiatry\nOrthopaedics\nOphthalmology\nEar, Nose & Throat Semester 8-9: Senior Clerkship Semester 10: Shadow Housemanship\nMedicine\nSurgery\nObstetrics & Gynaecology\nPaediatrics\nOrthopaedics\nEmergency Medicine\nFamily Medicine Semester 10: Shadow Housemanship",
+                "elective": "",
+                "others": ""
+            },
+            "program_type": "bachelor",
+            "entry_requirements_processed": {
+                "A-Level": [
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "BBB"
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "ABC"
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 3
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Chemistry",
+                            "Physics",
+                            "Mathematics"
+                        ]
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Mathematics",
+                            "Biology",
+                            "Chemistry",
+                            "Physics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu",
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+                    }
+                ],
+                "UEC": [
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "B4"
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 4
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Chemistry",
+                            "Physics",
+                            "Advanced Mathematics (I)",
+                            "Advanced Mathematics (II)"
+                        ]
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Mathematics",
+                            "Biology",
+                            "Chemistry",
+                            "Physics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu",
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+                    }
+                ],
+                "Diploma": [
+                    {
+                        "type": "cgpa",
+                        "comparator": ">=",
+                        "value": 3.5
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 2Bs including Biology, Chemistry or Physics\ncredit in Mathematics, English and another subject\nin addition, credit in Bahasa Melayu required to practise Medicine in Malaysia"
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 2
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Chemistry",
+                            "Physics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Mathematics",
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 1
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu"
+                        ]
+                    }
+                ],
+                "STPM": [
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "BBB"
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "ABC"
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 3
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Chemistry",
+                            "Physics",
+                            "Mathematics"
+                        ]
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Mathematics",
+                            "Biology",
+                            "Chemistry",
+                            "Physics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu",
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+                    }
+                ],
+                "Foundation": [
+                    {
+                        "type": "cgpa",
+                        "comparator": ">=",
+                        "value": 3.0
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 3
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Chemistry",
+                            "Physics",
+                            "Mathematics"
+                        ]
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Mathematics",
+                            "Biology",
+                            "Chemistry",
+                            "Physics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu",
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+                    }
+                ],
+                "CPU": [
+                    {
+                        "type": "raw",
+                        "text": "Average of 80% in 3 subjects in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 3
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Mathematics",
+                            "Biology",
+                            "Chemistry",
+                            "Physics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu",
+                            "English"
+                        ]
+                    }
+                ],
+                "SACE/WACE": [
+                    {
+                        "type": "raw",
+                        "text": "80% ATAR provided the subjects include in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 3
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Chemistry",
+                            "Physics",
+                            "Mathematics"
+                        ]
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Mathematics",
+                            "Biology",
+                            "Chemistry",
+                            "Physics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu",
+                            "English"
+                        ]
+                    }
+                ]
+            },
+            "course": "Medicine"
         },
-        "Diploma": {
-          "raw": "CGPA 3.0 (out of 4.0) AND provided the course is not less than 5 semesters or 2 ½ years and completed in the same institution..  SPM-level or equivalent:\nMinimum 2 Bs in  any 2 subjects in Biology; and/or Chemistry; and/or Physics AND Credits in 3 subjects in English; and Mathematics or Additional Mathematics; and another subject",
-          "min_gp": 3.0,
-          "min_subjects": 2,
-          "min_grade": null,
-          "required_credits": [],
-          "related_field": true
+        {
+            "program_name": "Bachelor of Science (Honours) in Occupational Therapy",
+            "field_of_study": "Medicine and Allied Health Sciences",
+            "location": "Manipal, Melaka",
+            "intakes": [
+                "Mar",
+                "Oct"
+            ],
+            "program_duration_years": 4,
+            "internship": "Yes",
+            "entry_requirements_raw": {
+                "A-Level": "Pass with minimum Grade D in TWO (2) of the following subjects (Biology, Physics, Mathematics, Chemistry).",
+                "UEC": "Pass with minimum Grade B5 in FIVE (5) subjects including (Biology/Physics and Chemistry).",
+                "Diploma": "Pass with minimum CGPA 2.75 in related field.",
+                "STPM": "Pass with minimum GPA 2.33 or Grade C+ in TWO (2) of the following subjects (Biology, Physics, Mathematics, Chemistry).",
+                "CPU": "Pass with average minimum of 55% for THREE (3) subjects including (Biology/Physics and Chemistry).",
+                "IB Diploma": "Pass with minimum score of at least 24 points including (Biology/Physics and Chemistry).",
+                "SACE/WACE": "Pass with minimum Scaled Score of 12 in THREE (3) subjects including (Biology/Physics and Chemistry)."
+            },
+            "english_requirements": {
+                "MUET": "Band 3",
+                "TOEFL": "550",
+                "IELTS": "5.5"
+            },
+            "fees": {
+                "registration_fee": 300,
+                "resource_fee": 2000,
+                "tuition_fee": 60000
+            },
+            "course_content": {
+                "core": "PROGRAMME STRUCTURE Year 1 Anatomy Human Physiology Basics to Occupational Therapy Introduction to Psychology Basic Clinical Skills for Occupational Therapy General Medicine Co-Curriculum Community Service General Pharmacology Introduction to Neuropsychology Occupational Analysis and Therapeutic Activity Basic Pathology Clinical Placement: Introduction Co-Curriculum Community Service MPU subjects Year 2 Clinical Orthopaedics Occupational Therapy for Orthopaedic and Surgical Conditions Orthotics, Prosthetics and Pressure Garment in Occupation Therapy Applied Kinesiology and Biomechanics Neurological Conditions Occupational Therapy for Medical & Neurological Conditions Developmental Psychology Ergonomics Elective: (Choose 1) : Neuroscience / Communication and Basic Counselling Clinical Placement: Orthopaedic and Neurological Conditions MPU subjects Year 3 Clinical Paediatrics Occupational Therapy for Paediatric Conditions Research for Allied Health Profession Critical Review of Journals Aged Care Psychiatric Conditions Occupational Therapy for Psychiatric Conditions Biostatistics Community Based Rehabilitation Work and Driving Rehabilitation Clinical Placement: Paediatric, Psychiatric & Aged Care Year 4 Clinical Placement: Work and Driving Rehabilitation Occupational Therapy Administration and Management Health Promotion in Occupational Therapy Occupational Therapy for Innovation and Entrepreneurship Electives (Choose 2): Sexuality and Disability / Assistive Technology and Universal Accessibility / Student Mobility Program / Special Education in Occupational Therapy Research for Allied Health Profession Research Writing for Allied Health Profession Final Clinical Placement",
+                "elective": "",
+                "others": ""
+            },
+            "program_type": "bachelor",
+            "entry_requirements_processed": {
+                "A-Level": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 2
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "D"
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Physics",
+                            "Mathematics",
+                            "Chemistry"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with minimum Grade D in TWO (2) of the following subjects (Biology, Physics, Mathematics, Chemistry)."
+                    }
+                ],
+                "UEC": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "B5"
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology/Physics",
+                            "Chemistry"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with minimum Grade B5 in FIVE (5) subjects including (Biology/Physics and Chemistry)."
+                    }
+                ],
+                "Diploma": [
+                    {
+                        "type": "cgpa",
+                        "comparator": ">=",
+                        "value": 2.75
+                    },
+                    {
+                        "type": "related_field",
+                        "value": true
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with minimum CGPA 2.75 in related field."
+                    }
+                ],
+                "STPM": [
+                    {
+                        "type": "gpa",
+                        "comparator": ">=",
+                        "value": 2.33
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "C+"
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 2
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Physics",
+                            "Mathematics",
+                            "Chemistry"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with minimum GPA 2.33 or Grade C+ in TWO (2) of the following subjects (Biology, Physics, Mathematics, Chemistry)."
+                    }
+                ],
+                "CPU": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 3
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology/Physics",
+                            "Chemistry"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with average minimum of 55% for THREE (3) subjects including (Biology/Physics and Chemistry)."
+                    }
+                ],
+                "IB Diploma": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 24
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology/Physics",
+                            "Chemistry"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with minimum score of at least 24 points including (Biology/Physics and Chemistry)."
+                    }
+                ],
+                "SACE/WACE": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 3
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "value": 12
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology/Physics",
+                            "Chemistry"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with minimum Scaled Score of 12 in THREE (3) subjects including (Biology/Physics and Chemistry)."
+                    }
+                ]
+            },
+            "course": "Physiotherapy"
         },
-        "STPM": {
-          "raw": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-          "min_gp": null,
-          "min_subjects": null,
-          "min_grade": null,
-          "required_credits": [],
-          "related_field": true
+        {
+            "program_name": "Bachelor of Science (Honours) in Physiotherapy",
+            "field_of_study": "Medicine and Allied Health Sciences",
+            "location": "Manipal, Melaka",
+            "intakes": [
+                "Mar",
+                "Oct"
+            ],
+            "program_duration_years": 4,
+            "internship": null,
+            "entry_requirements_raw": {
+                "A-Level": "Pass with minimum Grade D in TWO (2) of the following subjects: Biology, Physics / Mathematics, Chemistry.",
+                "UEC": "Pass with minimum Grade B5 in FIVE (5) subjects including: Chemistry, Biology / Physics, 3 other subjects.",
+                "Diploma": "Minimum CGPA < 2.75 in related field with minimum 3 years (36 months) working experience in related field..",
+                "STPM": "Pass with minimum GPA ≥ 2.33 or Grade C+ in TWO (2) of the following subjects: Biology, Physics / Mathematics, Chemistry.",
+                "Foundation": "Minimum CGPA < 2.75 in related field with minimum 3 years (36 months) working experience in related field..",
+                "IB Diploma": "Pass with minimum score of at least 24 points including: Chemistry, Biology / Physics."
+            },
+            "english_requirements": {
+                "MUET": "Band 3",
+                "IELTS": "5.5",
+                "TOEFL": "550"
+            },
+            "fees": {
+                "registration_fee": 300,
+                "resource_fee": 2000,
+                "tuition_fee": 60000
+            },
+            "course_content": {
+                "core": "Year 1 Anatomy\nPhysiology\nKinesiology Physiotherapy\nFundamental of Psychology\nProfessional Development in Physiotherapy\nPharmacology for Allied Health Science\nBahasa Melayu Komunikasi\nPhysiotherapeutic Skills 1\nElectrophysical Agents in Physiotherapy 1\nPhilosophy and Current Issues Anatomy Physiology Kinesiology Physiotherapy Fundamental of Psychology Professional Development in Physiotherapy Pharmacology for Allied Health Science Bahasa Melayu Komunikasi Physiotherapeutic Skills 1 Electrophysical Agents in Physiotherapy 1 Philosophy and Current Issues Year 2 Physiotherapeutic Skills 2\nElectrophysical Agents in Physiotherapy 2\nEvidence-Based Practice in Rehabilitation\nNeurosciences\nSociology\nPathology\nAppreciation of Ethics and Civilizations\nResearch Methodology in Health Sciences\nBiostatistics\nMusculoskeletal Physiotherapy 1\nNeurological Physiotherapy 1\nCardiopulmonary Physiotherapy 1\nPhysiotherapy in Occupational and Industrial Health Physiotherapeutic Skills 2 Electrophysical Agents in Physiotherapy 2 Evidence-Based Practice in Rehabilitation Neurosciences Sociology Pathology Appreciation of Ethics and Civilizations Research Methodology in Health Sciences Biostatistics Musculoskeletal Physiotherapy 1 Neurological Physiotherapy 1 Cardiopulmonary Physiotherapy 1 Physiotherapy in Occupational and Industrial Health Year 3 Musculoskeletal Physiotherapy 2\nCardiopulmonary Physiotherapy 2\nNeurological Physiotherapy 2\nPhysiotherapy in Community Based Rehabilitation\nClinical Practice 1 (Musculoskeletal +Cardiorespiratory)\nResearch Project 1\nSpine Care and Rehabilitation\nPhysiotherapy in Critical Care\nSports Physiotherapy and Rehabilitation\nClinical Exercise Science\nCommunity Service\nAssistive Technology and Universal Accessibility\nClinical Practice 2 (Neurology + Critical Care) Musculoskeletal Physiotherapy 2 Cardiopulmonary Physiotherapy 2 Neurological Physiotherapy 2 Physiotherapy in Community Based Rehabilitation Clinical Practice 1 (Musculoskeletal +Cardiorespiratory) Research Project 1 Spine Care and Rehabilitation Physiotherapy in Critical Care Sports Physiotherapy and Rehabilitation Clinical Exercise Science Community Service Assistive Technology and Universal Accessibility Clinical Practice 2 (Neurology + Critical Care) Year 4 Physiotherapy in Pediatrics\nPhysiotherapy in Women’s Health\nPhysiotherapy practice in Geriatrics\nEntrepreneur Skills / Special education in Occupational\nTherapyResearch Project 2\nBahasa Kebangsaan A\nClinical Practice 3 (Sports +Peadiatrics)\nClinical Practise 4 (Women Health + Geriatrics)\nFinal Clinical Practice (Musculoskeletal , Neurology, Cardiorespiratory) Physiotherapy in Pediatrics Physiotherapy in Women’s Health Physiotherapy practice in Geriatrics Entrepreneur Skills / Special education in Occupational TherapyResearch Project 2 Bahasa Kebangsaan A Clinical Practice 3 (Sports +Peadiatrics) Clinical Practise 4 (Women Health + Geriatrics) Final Clinical Practice (Musculoskeletal , Neurology, Cardiorespiratory)",
+                "elective": "",
+                "others": ""
+            },
+            "program_type": "bachelor",
+            "entry_requirements_processed": {
+                "A-Level": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 2
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "D"
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Physics",
+                            "Mathematics",
+                            "Chemistry"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with minimum Grade D in TWO (2) of the following subjects: Biology, Physics / Mathematics, Chemistry."
+                    }
+                ],
+                "UEC": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "B5"
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Chemistry",
+                            "Biology",
+                            "Physics"
+                        ]
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 3
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with minimum Grade B5 in FIVE (5) subjects including: Chemistry, Biology / Physics, 3 other subjects."
+                    }
+                ],
+                "Diploma": [
+                    {
+                        "type": "cgpa",
+                        "comparator": "<",
+                        "value": 2.75
+                    },
+                    {
+                        "type": "related_field",
+                        "value": true
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Minimum CGPA < 2.75 in related field with minimum 3 years (36 months) working experience in related field.."
+                    }
+                ],
+                "STPM": [
+                    {
+                        "type": "cgpa",
+                        "comparator": ">=",
+                        "value": 2.33
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "C+"
+                    },
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 2
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Physics",
+                            "Mathematics",
+                            "Chemistry"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with minimum GPA ≥ 2.33 or Grade C+ in TWO (2) of the following subjects: Biology, Physics / Mathematics, Chemistry."
+                    }
+                ],
+                "Foundation": [
+                    {
+                        "type": "cgpa",
+                        "comparator": "<",
+                        "value": 2.75
+                    },
+                    {
+                        "type": "related_field",
+                        "value": true
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Minimum CGPA < 2.75 in related field with minimum 3 years (36 months) working experience in related field.."
+                    }
+                ],
+                "IB Diploma": [
+                    {
+                        "type": "raw",
+                        "text": "Pass with minimum score of at least 24 points including: Chemistry, Biology / Physics."
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Chemistry",
+                            "Biology",
+                            "Physics"
+                        ]
+                    }
+                ]
+            },
+            "course": "Physiotherapy"
         },
-        "Foundation": {
-          "raw": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-          "min_gp": 3.0,
-          "min_subjects": null,
-          "min_grade": null,
-          "required_credits": [],
-          "related_field": true
+        {
+            "program_name": "Bachelor of Science (Honours) in Psychology",
+            "field_of_study": "Language and Social Studies",
+            "location": "Manipal, Melaka",
+            "intakes": [
+                "Mar",
+                "Oct"
+            ],
+            "program_duration_years": 3,
+            "internship": null,
+            "entry_requirements_raw": {
+                "A-Level": "Minimum of two full passes (C-grade) with CGPA 2.00.  Credits in Mathematics and Biology/Physics/Chemistry/ General Science/ Applied Science, and a pass in English",
+                "Diploma": "Minimum CGPA 2.00 out of 4.00.",
+                "STPM": "Minimum of two full passes (C-grade) with CGPA 2.00.  Credits in Mathematics and Biology/Physics/Chemistry/ General Science/ Applied Science, and a pass in English",
+                "Foundation": "Minimum CGPA 2.00 out of 4.00."
+            },
+            "english_requirements": {
+                "MUET": "Band 3",
+                "IELTS": "5.5",
+                "TOEFL": "550"
+            },
+            "fees": {
+                "registration_fee": 300,
+                "resource_fee": 1500,
+                "tuition_fee": 49725
+            },
+            "course_content": {
+                "core": "Year 1 Introduction to Psychology Research Methods Statistics 1 Child Psychology Intelligence Memory Learning Statistics 2 Adolescent Psychology Motivation and Emotion Physiological Psychology History and Systems in Psychology MPU Subjects Year 2 Psychology of Adulthood Personality Psychology Abnormal Psychology Sensation & Perception Health Psychology Counselling Psychology Professional and Ethics in Psychology Clinical Psychology Cross-Cultural Psychology Research Project 1(Thesis) MPU Subjects Year 3 Psychological Test and Measurements Psychology of Language and Communication Cognitive Psychology Social Psychology Behaviour Modication Research Project 2 (Thesis) Industrial Training (Practicum)",
+                "elective": "",
+                "others": ""
+            },
+            "program_type": "bachelor",
+            "entry_requirements_processed": {
+                "A-Level": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 2
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "C"
+                    },
+                    {
+                        "type": "cgpa",
+                        "comparator": ">=",
+                        "value": 2.0
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Mathematics",
+                            "Biology",
+                            "Physics",
+                            "Chemistry",
+                            "General Science",
+                            "Applied Science"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Minimum of two full passes (C-grade) with CGPA 2.00.  Credits in Mathematics and Biology/Physics/Chemistry/ General Science/ Applied Science, and a pass in English"
+                    }
+                ],
+                "Diploma": [
+                    {
+                        "type": "cgpa",
+                        "comparator": ">=",
+                        "value": 2.0
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Minimum CGPA 2.00 out of 4.00."
+                    }
+                ],
+                "STPM": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 2
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "C"
+                    },
+                    {
+                        "type": "cgpa",
+                        "comparator": ">=",
+                        "value": 2.0
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Mathematics",
+                            "Biology",
+                            "Physics",
+                            "Chemistry",
+                            "General Science",
+                            "Applied Science"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Minimum of two full passes (C-grade) with CGPA 2.00.  Credits in Mathematics and Biology/Physics/Chemistry/ General Science/ Applied Science, and a pass in English"
+                    }
+                ],
+                "Foundation": [
+                    {
+                        "type": "cgpa",
+                        "comparator": ">=",
+                        "value": 2.0
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Minimum CGPA 2.00 out of 4.00."
+                    }
+                ]
+            },
+            "course": "Psychology"
         },
-        "CPU": {
-          "raw": "Average of 80% in 3 subjects in Biology; and Chemistry; and Physics or Mathematic.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-          "min_gp": null,
-          "min_subjects": 3,
-          "min_grade": null,
-          "required_credits": [],
-          "related_field": true
+        {
+            "program_name": "Foundation in Science (MBBS/BDS)",
+            "field_of_study": "Foundation",
+            "location": "Manipal, Melaka",
+            "intakes": [
+                "Mar",
+                "Jun",
+                "Aug"
+            ],
+            "program_duration_years": 1,
+            "internship": null,
+            "entry_requirements_raw": {
+                "SPM": "Pass with at least 5 B including Biology, Chemistry, Physics, Mathemathics and Additional Mathematics/other subjects.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+                "O-Level": "Pass with at least 5 Grade B including Biology, Chemistry, Physics, Mathemathics and Additional Mathematics/other subjects.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+                "UEC": "Pass with at least 3 B4 including Biology, Chemistry and Additional Mathematics/ Physics/ Mathemathics.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+            },
+            "english_requirements": {},
+            "fees": {
+                "registration_fee": 0,
+                "resource_fee": 2100,
+                "tuition_fee": 12900
+            },
+            "course_content": {
+                "core": "Semester 1 English I Mathematics I Biology Physics Study Skills & Critical Thinking Semester 2 English II Mathematics II General Chemistry Introduction to Psychology Basic Human Anatomy Semester 3 Basic Human Physiology Organic Chemistry Fundamentals of ICT Basic Pharmacology",
+                "elective": "",
+                "others": ""
+            },
+            "program_type": "foundation",
+            "entry_requirements_processed": {
+                "SPM": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "B"
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Chemistry",
+                            "Physics",
+                            "Mathemathics",
+                            "Additional Mathematics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu",
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with at least 5 B including Biology, Chemistry, Physics, Mathemathics and Additional Mathematics/other subjects.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+                    }
+                ],
+                "O-Level": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "B"
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Chemistry",
+                            "Physics",
+                            "Mathemathics",
+                            "Additional Mathematics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu",
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with at least 5 Grade B including Biology, Chemistry, Physics, Mathemathics and Additional Mathematics/other subjects.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+                    }
+                ],
+                "UEC": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 3
+                    },
+                    {
+                        "type": "grade",
+                        "comparator": ">=",
+                        "value": "B4"
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Chemistry",
+                            "Additional Mathematics",
+                            "Physics",
+                            "Mathemathics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu",
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "Pass with at least 3 B4 including Biology, Chemistry and Additional Mathematics/ Physics/ Mathemathics.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+                    }
+                ]
+            },
+            "course": "Foundation in Science"
         },
-        "IB Diploma": {
-          "raw": "A minimum of 30 points overall AND Attained a minimum score of 5 each in 3 of the following subject in Biology; and Chemistry; and Physics or Mathematics with a minimum of 2 at Higher Level (HL) and 1 at Standard Level.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-          "min_gp": null,
-          "min_subjects": 3,
-          "min_grade": null,
-          "required_credits": [],
-          "related_field": true
-        },
-        "SACE/WACE": {
-          "raw": "80% ATAR provided the subjects include in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\n5Bs each in: Biology; and Chemistry; and Physics; and Mathematics/ Additional Mathematics; and another subject (except Art/ KSI)",
-          "min_gp": null,
-          "min_subjects": null,
-          "min_grade": null,
-          "required_credits": [],
-          "related_field": true
+        {
+            "program_name": "Foundation in Science (100% Scholarship)",
+            "field_of_study": "Foundation",
+            "location": "Manipal, Melaka",
+            "intakes": [
+                "Mar",
+                "Jun",
+                "Aug"
+            ],
+            "program_duration_years": 1,
+            "internship": null,
+            "entry_requirements_raw": {
+                "SPM": "5A (include Biology, Chemistry, Physics, Mathematics and a 5th Subject (Additional Mathematics or non language subject).  SPM-level or equivalent: credit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+                "O-Level": "5A (include Biology, Chemistry, Physics, Mathematics and a 5th Subject (Additional Mathematics or non language subject).  SPM-level or equivalent: credit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+            },
+            "english_requirements": {},
+            "fees": {
+                "registration_fee": 0,
+                "resource_fee": 600,
+                "tuition_fee": 0
+            },
+            "course_content": {
+                "core": "Semester 1 English I Mathematics I Biology Physics Study Skills & Critical Thinking Semester 2 English II Mathematics II General Chemistry Introduction to Psychology Basic Human Anatomy Semester 3 Basic Human Physiology Organic Chemistry Fundamentals of ICT Basic Pharmacology",
+                "elective": "",
+                "others": ""
+            },
+            "program_type": "foundation",
+            "entry_requirements_processed": {
+                "SPM": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Chemistry",
+                            "Physics",
+                            "Mathematics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Additional Mathematics",
+                            "non language subject"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu",
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "5A (include Biology, Chemistry, Physics, Mathematics and a 5th Subject (Additional Mathematics or non language subject).  SPM-level or equivalent: credit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+                    }
+                ],
+                "O-Level": [
+                    {
+                        "type": "subjects",
+                        "comparator": ">=",
+                        "count": 5
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Biology",
+                            "Chemistry",
+                            "Physics",
+                            "Mathematics"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Additional Mathematics",
+                            "non language subject"
+                        ]
+                    },
+                    {
+                        "type": "credit",
+                        "subjects": [
+                            "Bahasa Melayu",
+                            "English"
+                        ]
+                    },
+                    {
+                        "type": "raw",
+                        "text": "5A (include Biology, Chemistry, Physics, Mathematics and a 5th Subject (Additional Mathematics or non language subject).  SPM-level or equivalent: credit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+                    }
+                ]
+            },
+            "course": "Foundation in Science"
         }
-      }
-    },
-    {
-      "program_name": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
-      "field_of_study": "Medicine",
-      "location": "Manipal, Melaka",
-      "intakes": [
-        "Apr",
-        "Oct"
-      ],
-      "program_duration_years": 5,
-      "internship": null,
-      "entry_requirements_raw": {
-        "A-Level": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
-        "UEC": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
-        "Diploma": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 2Bs including Biology, Chemistry or Physics\ncredit in Mathematics, English and another subject\nin addition, credit in Bahasa Melayu required to practise Medicine in Malaysia",
-        "STPM": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
-        "Foundation": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
-        "CPU": "Average of 80% in 3 subjects in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
-        "SACE/WACE": "80% ATAR provided the subjects include in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-      },
-      "english_requirements": {},
-      "fees": {
-        "registration_fee": 500,
-        "resource_fee": null,
-        "tuition_fee": 375000
-      },
-      "course_content": {
-        "core": "Semester 1-4: Pre-Clerkship Including Cadaver Dissection\nAnatomy *\nPhysiology\nBiochemistry\nPharmacology\nPathology\nMicrobiology\nForensic Medicine\nFoundation of Clinical Skills Semester 1-4: Pre-Clerkship Including Cadaver Dissection Semester 5-7: Junior Clerkship\nMedicine\nSurgery\nObstetrics & Gynaecology\nPaediatrics\nCommunity Medicine\nPsychiatry\nOrthopaedics\nPalliative Medicine\nMedical Ethics\nElective** Semester 5-7: Junior Clerkship Semester 8-9: Senior Clerkship\nMedicine\nSurgery\nObstetrics & Gynaecology\nPaediatrics\nCommunity Medicine\nFamily Medicine\nPsychiatry\nOrthopaedics\nOphthalmology\nEar, Nose & Throat Semester 8-9: Senior Clerkship Semester 10: Shadow Housemanship\nMedicine\nSurgery\nObstetrics & Gynaecology\nPaediatrics\nOrthopaedics\nEmergency Medicine\nFamily Medicine Semester 10: Shadow Housemanship",
-        "elective": "",
-        "others": ""
-      },
-      "program_type": "bachelor",
-      "entry_requirements_processed": {
-        "A-Level": [
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "BBB"
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "ABC"
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 3
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Chemistry",
-              "Physics",
-              "Mathematics"
-            ]
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Mathematics",
-              "Biology",
-              "Chemistry",
-              "Physics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu",
-              "English"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-          }
-        ],
-        "UEC": [
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "B4"
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 4
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Chemistry",
-              "Physics",
-              "Advanced Mathematics (I)",
-              "Advanced Mathematics (II)"
-            ]
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Mathematics",
-              "Biology",
-              "Chemistry",
-              "Physics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu",
-              "English"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-          }
-        ],
-        "Diploma": [
-          {
-            "type": "cgpa",
-            "comparator": ">=",
-            "value": 3.5
-          },
-          {
-            "type": "raw",
-            "text": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 2Bs including Biology, Chemistry or Physics\ncredit in Mathematics, English and another subject\nin addition, credit in Bahasa Melayu required to practise Medicine in Malaysia"
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 2
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Chemistry",
-              "Physics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Mathematics",
-              "English"
-            ]
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 1
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu"
-            ]
-          }
-        ],
-        "STPM": [
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "BBB"
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "ABC"
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 3
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Chemistry",
-              "Physics",
-              "Mathematics"
-            ]
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Mathematics",
-              "Biology",
-              "Chemistry",
-              "Physics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu",
-              "English"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-          }
-        ],
-        "Foundation": [
-          {
-            "type": "cgpa",
-            "comparator": ">=",
-            "value": 3.0
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 3
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Chemistry",
-              "Physics",
-              "Mathematics"
-            ]
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Mathematics",
-              "Biology",
-              "Chemistry",
-              "Physics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu",
-              "English"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-          }
-        ],
-        "CPU": [
-          {
-            "type": "raw",
-            "text": "Average of 80% in 3 subjects in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 3
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Mathematics",
-              "Biology",
-              "Chemistry",
-              "Physics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu",
-              "English"
-            ]
-          }
-        ],
-        "SACE/WACE": [
-          {
-            "type": "raw",
-            "text": "80% ATAR provided the subjects include in Biology; and Chemistry; and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 3
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Chemistry",
-              "Physics",
-              "Mathematics"
-            ]
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Mathematics",
-              "Biology",
-              "Chemistry",
-              "Physics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu",
-              "English"
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "program_name": "Bachelor of Science (Honours) in Occupational Therapy",
-      "field_of_study": "Physiotherapy",
-      "location": "Manipal, Melaka",
-      "intakes": [
-        "Mar",
-        "Oct"
-      ],
-      "program_duration_years": 4,
-      "internship": "Yes",
-      "entry_requirements_raw": {
-        "A-Level": "Pass with minimum Grade D in TWO (2) of the following subjects (Biology, Physics, Mathematics, Chemistry).",
-        "UEC": "Pass with minimum Grade B5 in FIVE (5) subjects including (Biology/Physics and Chemistry).",
-        "Diploma": "Pass with minimum CGPA 2.75 in related field.",
-        "STPM": "Pass with minimum GPA 2.33 or Grade C+ in TWO (2) of the following subjects (Biology, Physics, Mathematics, Chemistry).",
-        "CPU": "Pass with average minimum of 55% for THREE (3) subjects including (Biology/Physics and Chemistry).",
-        "IB Diploma": "Pass with minimum score of at least 24 points including (Biology/Physics and Chemistry).",
-        "SACE/WACE": "Pass with minimum Scaled Score of 12 in THREE (3) subjects including (Biology/Physics and Chemistry)."
-      },
-      "english_requirements": {
-        "MUET": "Band 3",
-        "TOEFL": "550",
-        "IELTS": "5.5"
-      },
-      "fees": {
-        "registration_fee": 300,
-        "resource_fee": 2000,
-        "tuition_fee": 60000
-      },
-      "course_content": {
-        "core": "PROGRAMME STRUCTURE Year 1 Anatomy Human Physiology Basics to Occupational Therapy Introduction to Psychology Basic Clinical Skills for Occupational Therapy General Medicine Co-Curriculum Community Service General Pharmacology Introduction to Neuropsychology Occupational Analysis and Therapeutic Activity Basic Pathology Clinical Placement: Introduction Co-Curriculum Community Service MPU subjects Year 2 Clinical Orthopaedics Occupational Therapy for Orthopaedic and Surgical Conditions Orthotics, Prosthetics and Pressure Garment in Occupation Therapy Applied Kinesiology and Biomechanics Neurological Conditions Occupational Therapy for Medical & Neurological Conditions Developmental Psychology Ergonomics Elective: (Choose 1) : Neuroscience / Communication and Basic Counselling Clinical Placement: Orthopaedic and Neurological Conditions MPU subjects Year 3 Clinical Paediatrics Occupational Therapy for Paediatric Conditions Research for Allied Health Profession Critical Review of Journals Aged Care Psychiatric Conditions Occupational Therapy for Psychiatric Conditions Biostatistics Community Based Rehabilitation Work and Driving Rehabilitation Clinical Placement: Paediatric, Psychiatric & Aged Care Year 4 Clinical Placement: Work and Driving Rehabilitation Occupational Therapy Administration and Management Health Promotion in Occupational Therapy Occupational Therapy for Innovation and Entrepreneurship Electives (Choose 2): Sexuality and Disability / Assistive Technology and Universal Accessibility / Student Mobility Program / Special Education in Occupational Therapy Research for Allied Health Profession Research Writing for Allied Health Profession Final Clinical Placement",
-        "elective": "",
-        "others": ""
-      },
-      "program_type": "bachelor",
-      "entry_requirements_processed": {
-        "A-Level": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 2
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "D"
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Physics",
-              "Mathematics",
-              "Chemistry"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with minimum Grade D in TWO (2) of the following subjects (Biology, Physics, Mathematics, Chemistry)."
-          }
-        ],
-        "UEC": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "B5"
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology/Physics",
-              "Chemistry"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with minimum Grade B5 in FIVE (5) subjects including (Biology/Physics and Chemistry)."
-          }
-        ],
-        "Diploma": [
-          {
-            "type": "cgpa",
-            "comparator": ">=",
-            "value": 2.75
-          },
-          {
-            "type": "related_field",
-            "value": true
-          },
-          {
-            "type": "raw",
-            "text": "Pass with minimum CGPA 2.75 in related field."
-          }
-        ],
-        "STPM": [
-          {
-            "type": "gpa",
-            "comparator": ">=",
-            "value": 2.33
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "C+"
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 2
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Physics",
-              "Mathematics",
-              "Chemistry"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with minimum GPA 2.33 or Grade C+ in TWO (2) of the following subjects (Biology, Physics, Mathematics, Chemistry)."
-          }
-        ],
-        "CPU": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 3
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology/Physics",
-              "Chemistry"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with average minimum of 55% for THREE (3) subjects including (Biology/Physics and Chemistry)."
-          }
-        ],
-        "IB Diploma": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 24
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology/Physics",
-              "Chemistry"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with minimum score of at least 24 points including (Biology/Physics and Chemistry)."
-          }
-        ],
-        "SACE/WACE": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 3
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "value": 12
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology/Physics",
-              "Chemistry"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with minimum Scaled Score of 12 in THREE (3) subjects including (Biology/Physics and Chemistry)."
-          }
-        ]
-      }
-    },
-    {
-      "program_name": "Bachelor of Science (Honours) in Physiotherapy",
-      "field_of_study": "Physiotherapy",
-      "location": "Manipal, Melaka",
-      "intakes": [
-        "Mar",
-        "Oct"
-      ],
-      "program_duration_years": 4,
-      "internship": null,
-      "entry_requirements_raw": {
-        "A-Level": "Pass with minimum Grade D in TWO (2) of the following subjects: Biology, Physics / Mathematics, Chemistry.",
-        "UEC": "Pass with minimum Grade B5 in FIVE (5) subjects including: Chemistry, Biology / Physics, 3 other subjects.",
-        "Diploma": "Minimum CGPA < 2.75 in related field with minimum 3 years (36 months) working experience in related field..",
-        "STPM": "Pass with minimum GPA ≥ 2.33 or Grade C+ in TWO (2) of the following subjects: Biology, Physics / Mathematics, Chemistry.",
-        "Foundation": "Minimum CGPA < 2.75 in related field with minimum 3 years (36 months) working experience in related field..",
-        "IB Diploma": "Pass with minimum score of at least 24 points including: Chemistry, Biology / Physics."
-      },
-      "english_requirements": {
-        "MUET": "Band 3",
-        "IELTS": "5.5",
-        "TOEFL": "550"
-      },
-      "fees": {
-        "registration_fee": 300,
-        "resource_fee": 2000,
-        "tuition_fee": 60000
-      },
-      "course_content": {
-        "core": "Year 1 Anatomy\nPhysiology\nKinesiology Physiotherapy\nFundamental of Psychology\nProfessional Development in Physiotherapy\nPharmacology for Allied Health Science\nBahasa Melayu Komunikasi\nPhysiotherapeutic Skills 1\nElectrophysical Agents in Physiotherapy 1\nPhilosophy and Current Issues Anatomy Physiology Kinesiology Physiotherapy Fundamental of Psychology Professional Development in Physiotherapy Pharmacology for Allied Health Science Bahasa Melayu Komunikasi Physiotherapeutic Skills 1 Electrophysical Agents in Physiotherapy 1 Philosophy and Current Issues Year 2 Physiotherapeutic Skills 2\nElectrophysical Agents in Physiotherapy 2\nEvidence-Based Practice in Rehabilitation\nNeurosciences\nSociology\nPathology\nAppreciation of Ethics and Civilizations\nResearch Methodology in Health Sciences\nBiostatistics\nMusculoskeletal Physiotherapy 1\nNeurological Physiotherapy 1\nCardiopulmonary Physiotherapy 1\nPhysiotherapy in Occupational and Industrial Health Physiotherapeutic Skills 2 Electrophysical Agents in Physiotherapy 2 Evidence-Based Practice in Rehabilitation Neurosciences Sociology Pathology Appreciation of Ethics and Civilizations Research Methodology in Health Sciences Biostatistics Musculoskeletal Physiotherapy 1 Neurological Physiotherapy 1 Cardiopulmonary Physiotherapy 1 Physiotherapy in Occupational and Industrial Health Year 3 Musculoskeletal Physiotherapy 2\nCardiopulmonary Physiotherapy 2\nNeurological Physiotherapy 2\nPhysiotherapy in Community Based Rehabilitation\nClinical Practice 1 (Musculoskeletal +Cardiorespiratory)\nResearch Project 1\nSpine Care and Rehabilitation\nPhysiotherapy in Critical Care\nSports Physiotherapy and Rehabilitation\nClinical Exercise Science\nCommunity Service\nAssistive Technology and Universal Accessibility\nClinical Practice 2 (Neurology + Critical Care) Musculoskeletal Physiotherapy 2 Cardiopulmonary Physiotherapy 2 Neurological Physiotherapy 2 Physiotherapy in Community Based Rehabilitation Clinical Practice 1 (Musculoskeletal +Cardiorespiratory) Research Project 1 Spine Care and Rehabilitation Physiotherapy in Critical Care Sports Physiotherapy and Rehabilitation Clinical Exercise Science Community Service Assistive Technology and Universal Accessibility Clinical Practice 2 (Neurology + Critical Care) Year 4 Physiotherapy in Pediatrics\nPhysiotherapy in Women’s Health\nPhysiotherapy practice in Geriatrics\nEntrepreneur Skills / Special education in Occupational\nTherapyResearch Project 2\nBahasa Kebangsaan A\nClinical Practice 3 (Sports +Peadiatrics)\nClinical Practise 4 (Women Health + Geriatrics)\nFinal Clinical Practice (Musculoskeletal , Neurology, Cardiorespiratory) Physiotherapy in Pediatrics Physiotherapy in Women’s Health Physiotherapy practice in Geriatrics Entrepreneur Skills / Special education in Occupational TherapyResearch Project 2 Bahasa Kebangsaan A Clinical Practice 3 (Sports +Peadiatrics) Clinical Practise 4 (Women Health + Geriatrics) Final Clinical Practice (Musculoskeletal , Neurology, Cardiorespiratory)",
-        "elective": "",
-        "others": ""
-      },
-      "program_type": "bachelor",
-      "entry_requirements_processed": {
-        "A-Level": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 2
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "D"
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Physics",
-              "Mathematics",
-              "Chemistry"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with minimum Grade D in TWO (2) of the following subjects: Biology, Physics / Mathematics, Chemistry."
-          }
-        ],
-        "UEC": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "B5"
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Chemistry",
-              "Biology",
-              "Physics"
-            ]
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 3
-          },
-          {
-            "type": "raw",
-            "text": "Pass with minimum Grade B5 in FIVE (5) subjects including: Chemistry, Biology / Physics, 3 other subjects."
-          }
-        ],
-        "Diploma": [
-          {
-            "type": "cgpa",
-            "comparator": "<",
-            "value": 2.75
-          },
-          {
-            "type": "related_field",
-            "value": true
-          },
-          {
-            "type": "raw",
-            "text": "Minimum CGPA < 2.75 in related field with minimum 3 years (36 months) working experience in related field.."
-          }
-        ],
-        "STPM": [
-          {
-            "type": "cgpa",
-            "comparator": ">=",
-            "value": 2.33
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "C+"
-          },
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 2
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Physics",
-              "Mathematics",
-              "Chemistry"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with minimum GPA ≥ 2.33 or Grade C+ in TWO (2) of the following subjects: Biology, Physics / Mathematics, Chemistry."
-          }
-        ],
-        "Foundation": [
-          {
-            "type": "cgpa",
-            "comparator": "<",
-            "value": 2.75
-          },
-          {
-            "type": "related_field",
-            "value": true
-          },
-          {
-            "type": "raw",
-            "text": "Minimum CGPA < 2.75 in related field with minimum 3 years (36 months) working experience in related field.."
-          }
-        ],
-        "IB Diploma": [
-          {
-            "type": "raw",
-            "text": "Pass with minimum score of at least 24 points including: Chemistry, Biology / Physics."
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Chemistry",
-              "Biology",
-              "Physics"
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "program_name": "Bachelor of Science (Honours) in Psychology",
-      "field_of_study": "Psychology",
-      "location": "Manipal, Melaka",
-      "intakes": [
-        "Mar",
-        "Oct"
-      ],
-      "program_duration_years": 3,
-      "internship": null,
-      "entry_requirements_raw": {
-        "A-Level": "Minimum of two full passes (C-grade) with CGPA 2.00.  Credits in Mathematics and Biology/Physics/Chemistry/ General Science/ Applied Science, and a pass in English",
-        "Diploma": "Minimum CGPA 2.00 out of 4.00.",
-        "STPM": "Minimum of two full passes (C-grade) with CGPA 2.00.  Credits in Mathematics and Biology/Physics/Chemistry/ General Science/ Applied Science, and a pass in English",
-        "Foundation": "Minimum CGPA 2.00 out of 4.00."
-      },
-      "english_requirements": {
-        "MUET": "Band 3",
-        "IELTS": "5.5",
-        "TOEFL": "550"
-      },
-      "fees": {
-        "registration_fee": 300,
-        "resource_fee": 1500,
-        "tuition_fee": 49725
-      },
-      "course_content": {
-        "core": "Year 1 Introduction to Psychology Research Methods Statistics 1 Child Psychology Intelligence Memory Learning Statistics 2 Adolescent Psychology Motivation and Emotion Physiological Psychology History and Systems in Psychology MPU Subjects Year 2 Psychology of Adulthood Personality Psychology Abnormal Psychology Sensation & Perception Health Psychology Counselling Psychology Professional and Ethics in Psychology Clinical Psychology Cross-Cultural Psychology Research Project 1(Thesis) MPU Subjects Year 3 Psychological Test and Measurements Psychology of Language and Communication Cognitive Psychology Social Psychology Behaviour Modication Research Project 2 (Thesis) Industrial Training (Practicum)",
-        "elective": "",
-        "others": ""
-      },
-      "program_type": "bachelor",
-      "entry_requirements_processed": {
-        "A-Level": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 2
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "C"
-          },
-          {
-            "type": "cgpa",
-            "comparator": ">=",
-            "value": 2.0
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Mathematics",
-              "Biology",
-              "Physics",
-              "Chemistry",
-              "General Science",
-              "Applied Science"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "English"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Minimum of two full passes (C-grade) with CGPA 2.00.  Credits in Mathematics and Biology/Physics/Chemistry/ General Science/ Applied Science, and a pass in English"
-          }
-        ],
-        "Diploma": [
-          {
-            "type": "cgpa",
-            "comparator": ">=",
-            "value": 2.0
-          },
-          {
-            "type": "raw",
-            "text": "Minimum CGPA 2.00 out of 4.00."
-          }
-        ],
-        "STPM": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 2
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "C"
-          },
-          {
-            "type": "cgpa",
-            "comparator": ">=",
-            "value": 2.0
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Mathematics",
-              "Biology",
-              "Physics",
-              "Chemistry",
-              "General Science",
-              "Applied Science"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "English"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Minimum of two full passes (C-grade) with CGPA 2.00.  Credits in Mathematics and Biology/Physics/Chemistry/ General Science/ Applied Science, and a pass in English"
-          }
-        ],
-        "Foundation": [
-          {
-            "type": "cgpa",
-            "comparator": ">=",
-            "value": 2.0
-          },
-          {
-            "type": "raw",
-            "text": "Minimum CGPA 2.00 out of 4.00."
-          }
-        ]
-      }
-    },
-    {
-      "program_name": "Foundation in Science (MBBS/BDS)",
-      "field_of_study": "Foundation in Science",
-      "location": "Manipal, Melaka",
-      "intakes": [
-        "Mar",
-        "Jun",
-        "Aug"
-      ],
-      "program_duration_years": 1,
-      "internship": null,
-      "entry_requirements_raw": {
-        "SPM": "Pass with at least 5 B including Biology, Chemistry, Physics, Mathemathics and Additional Mathematics/other subjects.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
-        "O-Level": "Pass with at least 5 Grade B including Biology, Chemistry, Physics, Mathemathics and Additional Mathematics/other subjects.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
-        "UEC": "Pass with at least 3 B4 including Biology, Chemistry and Additional Mathematics/ Physics/ Mathemathics.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-      },
-      "english_requirements": {},
-      "fees": {
-        "registration_fee": 0,
-        "resource_fee": 2100,
-        "tuition_fee": 12900
-      },
-      "course_content": {
-        "core": "Semester 1 English I Mathematics I Biology Physics Study Skills & Critical Thinking Semester 2 English II Mathematics II General Chemistry Introduction to Psychology Basic Human Anatomy Semester 3 Basic Human Physiology Organic Chemistry Fundamentals of ICT Basic Pharmacology",
-        "elective": "",
-        "others": ""
-      },
-      "program_type": "foundation",
-      "entry_requirements_processed": {
-        "SPM": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "B"
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Chemistry",
-              "Physics",
-              "Mathemathics",
-              "Additional Mathematics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu",
-              "English"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with at least 5 B including Biology, Chemistry, Physics, Mathemathics and Additional Mathematics/other subjects.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-          }
-        ],
-        "O-Level": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "B"
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Chemistry",
-              "Physics",
-              "Mathemathics",
-              "Additional Mathematics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu",
-              "English"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with at least 5 Grade B including Biology, Chemistry, Physics, Mathemathics and Additional Mathematics/other subjects.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-          }
-        ],
-        "UEC": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 3
-          },
-          {
-            "type": "grade",
-            "comparator": ">=",
-            "value": "B4"
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Chemistry",
-              "Additional Mathematics",
-              "Physics",
-              "Mathemathics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu",
-              "English"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "Pass with at least 3 B4 including Biology, Chemistry and Additional Mathematics/ Physics/ Mathemathics.  SPM-level or equivalent:\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-          }
-        ]
-      }
-    },
-    {
-      "program_name": "Foundation in Science (100% Scholarship)",
-      "field_of_study": "Foundation in Science",
-      "location": "Manipal, Melaka",
-      "intakes": [
-        "Mar",
-        "Jun",
-        "Aug"
-      ],
-      "program_duration_years": 1,
-      "internship": null,
-      "entry_requirements_raw": {
-        "SPM": "5A (include Biology, Chemistry, Physics, Mathematics and a 5th Subject (Additional Mathematics or non language subject).  SPM-level or equivalent: credit in Bahasa Melayu and English required to practise Medicine in Malaysia",
-        "O-Level": "5A (include Biology, Chemistry, Physics, Mathematics and a 5th Subject (Additional Mathematics or non language subject).  SPM-level or equivalent: credit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-      },
-      "english_requirements": {},
-      "fees": {
-        "registration_fee": 0,
-        "resource_fee": 600,
-        "tuition_fee": 0
-      },
-      "course_content": {
-        "core": "Semester 1 English I Mathematics I Biology Physics Study Skills & Critical Thinking Semester 2 English II Mathematics II General Chemistry Introduction to Psychology Basic Human Anatomy Semester 3 Basic Human Physiology Organic Chemistry Fundamentals of ICT Basic Pharmacology",
-        "elective": "",
-        "others": ""
-      },
-      "program_type": "foundation",
-      "entry_requirements_processed": {
-        "SPM": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Chemistry",
-              "Physics",
-              "Mathematics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Additional Mathematics",
-              "non language subject"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu",
-              "English"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "5A (include Biology, Chemistry, Physics, Mathematics and a 5th Subject (Additional Mathematics or non language subject).  SPM-level or equivalent: credit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-          }
-        ],
-        "O-Level": [
-          {
-            "type": "subjects",
-            "comparator": ">=",
-            "count": 5
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Biology",
-              "Chemistry",
-              "Physics",
-              "Mathematics"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Additional Mathematics",
-              "non language subject"
-            ]
-          },
-          {
-            "type": "credit",
-            "subjects": [
-              "Bahasa Melayu",
-              "English"
-            ]
-          },
-          {
-            "type": "raw",
-            "text": "5A (include Biology, Chemistry, Physics, Mathematics and a 5th Subject (Additional Mathematics or non language subject).  SPM-level or equivalent: credit in Bahasa Melayu and English required to practise Medicine in Malaysia"
-          }
-        ]
-      }
-    }
-  ]
+    ]
 }

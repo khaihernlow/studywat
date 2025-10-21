@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://edufair.fsi.com.my/img/sponsor/15/cover_1633519891.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Business Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "New Era, Kajang",
       "intakes": [
         "May"
@@ -61,11 +64,12 @@
             "text": "Pass UEC with a Credit."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Certificate in Humanities & Social Sciences",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "New Era, Kajang",
       "intakes": [
         "May"
@@ -105,11 +109,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Arts (Honours) in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -260,11 +265,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Arts in Chinese Language & Literature",
-      "field_of_study": "Chinese Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -398,11 +404,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Chinese Studies"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons) in Software Engineering",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -557,11 +564,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Arts (Honours) in Counselling and Psychology",
-      "field_of_study": "Counselling",
+      "field_of_study": "Language and Social Studies",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -771,11 +779,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Counselling"
     },
     {
       "program_name": "Bachelor of Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -862,7 +871,8 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor of Education (Teaching Chinese as a Second Language)",
@@ -953,11 +963,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "Bachelor of Arts (Hons) in Visual Communication",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -1050,11 +1061,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons) in Network Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -1203,11 +1215,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Business in Marketing (Honours)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -1369,11 +1382,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -1461,11 +1475,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -1522,11 +1537,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -1579,11 +1595,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Fashion & Textile Design",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -1647,11 +1664,12 @@
             "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -1708,11 +1726,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in E-Commerce",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -1790,11 +1809,12 @@
             "text": "Pass with 3Bs including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -1877,11 +1897,12 @@
             "text": "Pass with 3Bs including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Web Development Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -1964,11 +1985,12 @@
             "text": "Pass with 3Bs including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -2055,11 +2077,12 @@
             "text": "Grade B in 3 relevant subjects."
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Diploma in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -2116,11 +2139,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Media Studies",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -2177,11 +2201,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Visual Arts",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -2237,11 +2262,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Drama & Visuals",
-      "field_of_study": "Performing Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -2312,11 +2338,12 @@
             "text": "Pass with 5 Passes inclusive of Chinese."
           }
         ]
-      }
+      },
+      "course": "Performing Arts"
     },
     {
       "program_name": "Diploma in Teaching Chinese as a Second Language",
-      "field_of_study": "Teaching",
+      "field_of_study": "Education",
       "location": "New Era, Kajang",
       "intakes": [
         "Mar",
@@ -2399,11 +2426,12 @@
             "text": "Pass with at least 3Bs."
           }
         ]
-      }
+      },
+      "course": "Teaching"
     },
     {
       "program_name": "Foundation in Art & Design",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "New Era, Kajang",
       "intakes": [
         "May",
@@ -2434,11 +2462,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "New Era, Kajang",
       "intakes": [
         "Jan",
@@ -2488,11 +2517,12 @@
             "text": "Please consult our counsellor for further details."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Chinese Communication",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "New Era, Kajang",
       "intakes": [
         "Jan",
@@ -2551,7 +2581,8 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     }
   ]
 }

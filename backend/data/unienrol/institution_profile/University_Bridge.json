@@ -4,10 +4,13 @@
   "institution_type": null,
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://uniglobal.sg/wp-content/uploads/2024/11/Ubidge-Image.png"
+  ],
   "programs": [
     {
       "program_name": "UBridge Undergraduate Pathway Program (Hospitality & Services Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "Ubridge, Santa Monica College",
       "intakes": [
         "Jan",
@@ -90,11 +93,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "UBridge Undergraduate Pathway Program (Biosciences Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "Ubridge, Santa Monica College",
       "intakes": [
         "Jan",
@@ -261,11 +265,12 @@
             "text": "Minimum 5 credits (B6) including Mathematics and at least 2 Science subject."
           }
         ]
-      }
+      },
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "UBridge Undergraduate Pathway Program (Business Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "Ubridge, Santa Monica College",
       "intakes": [
         "Jan",
@@ -348,11 +353,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "UBridge Undergraduate Pathway Program (Computer Science Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "Ubridge, Santa Monica College",
       "intakes": [
         "Jan",
@@ -475,11 +481,12 @@
             "text": "Minimum 5 credits (B6) including Mathematics."
           }
         ]
-      }
+      },
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "UBridge Undergraduate Pathway Program (Music Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "Ubridge, Santa Monica College",
       "intakes": [
         "Jan",
@@ -562,11 +569,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "UBridge Undergraduate Pathway Program (Communication Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "Ubridge, Santa Monica College",
       "intakes": [
         "Jan",
@@ -665,11 +673,12 @@
             "text": "Minimum 5 credits (B6) in any 5 subjects."
           }
         ]
-      }
+      },
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "UBridge Undergraduate Pathway Program (Psychology Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "Ubridge, Santa Monica College",
       "intakes": [
         "Jan",
@@ -757,11 +766,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "UBridge Undergraduate Pathway Program (Engineering Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "Ubridge, Santa Monica College",
       "intakes": [
         "Jan",
@@ -892,11 +902,12 @@
             "text": "Minimum 5 credits (B6) including Mathematics and Physics / Chemistry."
           }
         ]
-      }
+      },
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "UBridge Undergraduate Pathway Program (Health Science Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "Ubridge, Santa Monica College",
       "intakes": [
         "Jan",
@@ -1043,7 +1054,8 @@
             "text": "Minimum 5 credits (B6) including Mathematics and at least 1 Science subject."
           }
         ]
-      }
+      },
+      "course": "American Degree Transfer Programme"
     }
   ]
 }

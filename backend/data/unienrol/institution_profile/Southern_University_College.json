@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 7916,
   "malaysia_rank": 56,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Southern+University+College/Southern+South+Campus/Campus_and_+Surroundings/01a_Southern_South_Campus_Main_Building.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor in Accounting (Hons)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -172,11 +175,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -354,11 +358,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "BA (Hons) in Chinese Studies",
-      "field_of_study": "Chinese Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -497,11 +502,12 @@
             "text": "CGPA 2.00.  A credit in Chinese in SPM"
           }
         ]
-      }
+      },
+      "course": "Chinese Studies"
     },
     {
       "program_name": "Bachelor of Education (Hons) (Guidance & Counselling)",
-      "field_of_study": "Counselling",
+      "field_of_study": "Language and Social Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -588,11 +594,12 @@
             "text": "CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Counselling"
     },
     {
       "program_name": "Bachelor of Early Childhood Education (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -702,11 +709,12 @@
             "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Bachelor Of Electronics Engineering With Honours",
-      "field_of_study": "Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -847,11 +855,12 @@
             "text": "65 with minimum of scaled score 50 for mathematics and one natural science."
           }
         ]
-      }
+      },
+      "course": "Electronic Engineering"
     },
     {
       "program_name": "BBA (Hons) in Finance and Investment",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -1017,11 +1026,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Design (Hons) in Computer Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -1131,11 +1141,12 @@
             "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Pass an interview OR submission of portfolio determined by the HEP as required"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BBA (Hons) in Human Resource Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -1313,11 +1324,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Bachelor in Industrial Design (Honours)",
-      "field_of_study": "Industrial Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -1437,11 +1449,12 @@
             "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Pass an interview OR submission of portfolio determined by the HEP as required"
           }
         ]
-      }
+      },
+      "course": "Industrial Design"
     },
     {
       "program_name": "BA (Hons) in Malay Studies",
-      "field_of_study": "Malay Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -1583,11 +1596,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Malay Studies"
     },
     {
       "program_name": "BBA (Hons) in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -1745,11 +1759,12 @@
             "text": "ATAR 65 and a minimum of scaled score 50 in any two subjects.  Credit in Mathematics and a pass in English at SPM level"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor of Communication (Hons) (Mass Communication)",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -1896,11 +1911,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Property Management (Honours)",
-      "field_of_study": "Project Management",
+      "field_of_study": "Business",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -2002,11 +2018,12 @@
             "text": "CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Project Management"
     },
     {
       "program_name": "Bachelor of Psychology (Honours)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -2190,11 +2207,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor Of Software Engineering (Honours)",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -2373,11 +2391,12 @@
             "text": "CGPA 2.00.  Credit in Additional Mathematics at SPM, or a credit in Mathematics and one S&T/Engineering subject at SPM"
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "BA (Hons) English Language Teaching",
-      "field_of_study": "Teaching",
+      "field_of_study": "Education",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -2519,11 +2538,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Teaching"
     },
     {
       "program_name": "BBA (Hons) in Tourism Management",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -2629,11 +2649,12 @@
             "text": "CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Bachelor of Traditional Chinese Medicine (Hons)",
-      "field_of_study": "Traditional Chinese Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -2815,11 +2836,12 @@
             "text": "ATAR is >65 AND Credit in any 2 Science subjects and Mathematics at SPM (Non Science stream)."
           }
         ]
-      }
+      },
+      "course": "Traditional Chinese Medicine"
     },
     {
       "program_name": "Diploma in Accountancy",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -2915,11 +2937,12 @@
             "text": "3 credits including Mathematics & a pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -2967,11 +2990,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Chinese Studies",
-      "field_of_study": "Chinese Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3049,11 +3073,12 @@
             "text": "3 credits including Chinese."
           }
         ]
-      }
+      },
+      "course": "Chinese Studies"
     },
     {
       "program_name": "Diploma in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3182,11 +3207,12 @@
             "text": "Pass with minimum grade C (CGPA 2.00).  Credit in Mathematics at SPM"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Visual Art",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3234,11 +3260,12 @@
             "text": "Grade C (GP2.00) in any subject.  Pass an interview OR submission of portfolio determined by the HEP as required"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3286,11 +3313,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Electrical & Electronic Engineering",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3368,11 +3396,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Diploma In English Language",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3450,11 +3479,12 @@
             "text": "Any 3 credits including English."
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "Diploma in Financial Analysis",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3550,11 +3580,12 @@
             "text": "3 credits including Mathematics and a pass in English."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Diploma in Industrial Design",
-      "field_of_study": "Industrial Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3614,11 +3645,12 @@
             "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
           }
         ]
-      }
+      },
+      "course": "Industrial Design"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3747,11 +3779,12 @@
             "text": "Grade C (CGPA 2.00).  Credit in Mathematics at SPM"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3799,11 +3832,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Diploma in Journalism",
-      "field_of_study": "Journalism",
+      "field_of_study": "Communication and Media Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3881,11 +3915,12 @@
             "text": "Any 3 credits including English."
           }
         ]
-      }
+      },
+      "course": "Journalism"
     },
     {
       "program_name": "Diploma in Logistics Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3933,11 +3968,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Diploma in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -3985,11 +4021,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Advertising Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4049,11 +4086,12 @@
             "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Multimedia Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4113,11 +4151,12 @@
             "text": "3 credits.  Pass an interview OR submission of portfolio determined by the HEP as required"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Tourism Management",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4165,11 +4204,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Foundation in Arts (Accounting)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4217,11 +4257,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Communication)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4269,11 +4310,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Psychology)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4321,11 +4363,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4373,11 +4416,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts (Software Engineering)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4425,11 +4469,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Traditional Chinese Medicine",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4467,11 +4512,12 @@
             "text": "Science Stream Students: Minimum grade B in 4 subjects, including any 2 subjects in Mathematics/ Physics/ Chemistry / Biology; Arts Stream Students: Minimum grade B in 4 subjects, including Mathematics and students are required to sit for Chinese Medicine Placement Test before any enrolment into Foundation in Traditional Chinese Medicine."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4587,11 +4633,12 @@
             "text": "Grade B in 4 subjects including Mathematics and 2 Science subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "M.A in Chinese Studies",
-      "field_of_study": "Chinese Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4631,11 +4678,12 @@
             "text": "-A Bachelor’s degree in the field or related fields with a minimum CGPA of 2.75 or equivalent; OR, -A Bachelor’s degree in the field or related fields with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment; OR, -A Bachelor’s degree in the field or related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50, can be accepted subject to a minimum of 5 years working experience in a relevant field and rigorous internal assessment.."
           }
         ]
-      }
+      },
+      "course": "Chinese Studies"
     },
     {
       "program_name": "Masters of Communication",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4684,11 +4732,12 @@
             "text": "A Bachelor’s degree (Level 6, MQF) in a related field or its equivalent with a CGPA below 2.50 can be accepted subject to a minimum of 5 years of work experience in the relevant field..  A Bachelor’s degree (Level 6, MQF) in a related field with a minimum CGPA of 2.75 or its equivalent qualification as accepted by the HEP Senate; or\nA Bachelor’s degree (Level 6, MQF) in a related field or its equivalent with at least a CGPA of 2.50 but not achieving CGPA 2.75 can be accepted subject to a systematic internal assessment"
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Master of Science in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4719,11 +4768,12 @@
             "text": "A Bachelor’s Degree of Computing or in the area of science and technology or related to computing, with CGPA less than 2.50, with a minimum of 5 years working experience in a relevant field may be accepted..  A Bachelor’s Degree of Computing or in the area of science and technology or related to computing, with a minimum CGPA of 3.00;\nA Bachelor’s Degree of Computing in the area of science and technology or related to computing with CGPA below 3.00 but above 2.50, can be accepted subject to rigorous internal assessment process"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4768,11 +4818,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Doctor of Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4803,11 +4854,12 @@
             "text": "A Master’s degree (Level 7, MQF) in non-related fields as accepted by SUC Senate.  Subject to having relevant working experience and rigorous internal assessment."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Doctor of Philosophy Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Southern South Campus",
       "intakes": [
         "May",
@@ -4837,11 +4889,12 @@
             "text": "Master’s degree accepted by the SUC Senate."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Doctor of Philosophy (Chinese Studies)",
-      "field_of_study": "Chinese Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "Southern South Campus",
       "intakes": [
         "Mar",
@@ -4876,7 +4929,8 @@
             "text": "A Master’s degree (Level 7), MQF in language or a related field.."
           }
         ]
-      }
+      },
+      "course": "Chinese Studies"
     }
   ]
 }

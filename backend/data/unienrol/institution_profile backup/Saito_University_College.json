@@ -1,0 +1,2015 @@
+{
+  "institution_name": "Saito University College",
+  "institution_country": "Malaysia",
+  "institution_type": "Public",
+  "world_rank": 23014,
+  "malaysia_rank": 147,
+  "programs": [
+    {
+      "program_name": "Bachelor of Business (Management) (Hons)",
+      "field_of_study": "Business and Management",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3000,
+        "tuition_fee": 50000
+      },
+      "course_content": {
+        "core": "Year 1 Business Writing Accounting Principles of Management TITAS / Bahasa Melayu Komunikasi 2 (MPU 1) Business Communication Principles of Marketing Organizational Behavior Management Information System Microeconomics Critical Thinking Hubungan Etnik / Pengajian Malaysia 3 Business Ethic  Year 2 Human Resource Management Management Accounting Financial Management International Business Marketing Management Business Mathematics** E-Commerce** Business & Company Law** Transport and Logistics** Kemahiran Kepimpinan dan Hubungan Insan/ Keusahawanan(MPU2)** Ekonomi Malaysia/Perlembagaan & Masyarakat Malaysia(MPU3)**  Year 3 Macroeconomics Khidmat Masyarakat / Aktiviti Ko-kurikulum Research Methodology Quality and Productivity Management Strategic Management Statistics Final Year Project Decision Making Business Strategy Entrepreneurship &Small Business Banking and Finance",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Education (Honours) (Early Childhood Education)",
+      "field_of_study": "Early Childhood Education",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 1"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3000,
+        "tuition_fee": 50000
+      },
+      "course_content": {
+        "core": "Year 1 Education in Philosophy, Theorical Perspectives and Practices\nInformation Searching and Retrieval\nInstructional Technology and Media\nChild Growth and Development\nSociology in Education\nProgrammes and Practices in Early Childhood Education\nGuiding Young Children’s Behaviour\nTeaching and Learning Strategies in Early Childhood Education\nCurriculum in Early Childhood Education\nChildren’s Health, Safety, Nutrition and Wellbeing\nBahasa Melayu Komunikasi 2\nTamadun Islam dan Tamadun Asia\nHubungan Etnik\nPengajian Malaysia 3\nPerlembagaan Dan Masyarakat Malaysia Year 2 Educational Psychology in Teaching & Learning\nProfessionalism and Ethics in Education\nManagement, Administration and Entrepreneurship in Education\nMusic in Early Childhood Education\nNew Media and Creative Technology in Early Childhood Education\nCreative Movement, Dance and Drama in Early Childhood Education\nArts and Craft in Early Childhood Education\nProgram Development in Education\nKemahiran Kepimpinandan Hubungan Insan Year 3 Moral, Spiritual and Civic education for young children\nMathematics in Early Childhood Education\nLanguage and Literacy in Early Childhood Education\nPlanning, Development and Management in Early Childhood Education\nMaterials for Inquiry in Early Childhood Education\nHome, School and Community Partnership\nSpecial Needs and Inclusion Practices in Education\nObservation and Asessment in Early Childhood Education\nScience and Technology in Early Childhood Education\nPracticum in TASKA\nPracticum in TADIKA\nKhidmat Masyarakat",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B",
+            "count": 5
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Design (Graphic Design) (Honours) [K2]",
+      "field_of_study": "Graphic Design",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 1"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3000,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1 Typography Visual Studies Mata Pelajaran Umum 1 – Module 1 Illustration Techniques Digital Design & Technology Creative Thinking & Practice Digital Photography Digital Publishing 1 Advertising Design Design Studies Mata Pelajaran Umum 1 – Module 2 Communication Writing Year 2 Digital Publishing 2 Brand Strategies Advertising Campaign Design Thinking Design Studio Research Methodology Brand Application Mata Pelajaran Umum 2 Packaging Design Marketing Principles Industry-Based Project Mata Pelajaran Umum 3 Professional Practice Thesis Proposal Writing Degree Project Portfolio Exhibition Year 3 Internship Mata Pelajaran Umum 4 Elective Subjects Web Design* Motion Graphics Communication* Digital Video Production* Animation Basics* Three-Dimensional Animation* Design of Mobile Applications*",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B",
+            "count": 5
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Human Resource Management (Hons)",
+      "field_of_study": "Human Resource Management",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3000,
+        "tuition_fee": 50000
+      },
+      "course_content": {
+        "core": "Year 1 Business English\nCritical Thinking\nPrinciples of Management\nIntroduction to Financial Accounting\nFundamental of Computer Principles & Application\nTITAS / Bahasa Melayu Komunikasi 2 (MPU 1)\nHuman Resource Management\nPrinciples of Marketing\nAcademic Writing\nOccupational Safety and Health Management\nBusiness Management\nHubungan Etnik / Pengajian Malaysia 3  Year 2 Microeconomics\nBusiness Law\nOrganisational Behaviour\nStatistics\nHuman Resource and Information System\nEkonomi Malaysia / Perlembagaan Masyarakat\nMalaysia 3\nCompensation and Benefit Management\nMacroeconomics\nKemahiran Kepimpinan dan Hubungan Insan / Keusahawanan\nFinancial Management\nResearch Methodology\nHuman Resource Planning and Staffing  Year 3 Quality and Productivity Management\nEmployment Law & Employee Relations\nStrategic Management\nPerformance Management\nOrganisational Psychology\nHuman Resource Development\nFinal Year Project\nIndustrial Relations and Trade Union\nKhidmat Masyarakat / Ko-Kurikulum\nInternship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business in Logistics Management and E-business (Honours)",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics",
+        "UEC": "Grade B in 5 Subjects and pass in Mathematics.  SPM-level or equivalent:\npass in Mathematics",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3000,
+        "tuition_fee": 50000
+      },
+      "course_content": {
+        "core": "Year 1 TITAS/Bahasa Melayu Kommunikasi 2\nPrinciples of Economics Accounting (BAB1023) Logistics Management Freight Transport Management Electronic Marketing Business Law Inventory Management & Risk Pooling Social Media and Mobile Marketing Effective Digital Communications Ports and Shipping Management  Year 2 Customer Relationship Management(BMB1163) Hubungan Ethnik/ Pengajian Malaysia 3 Big Data and Emerging Innovation Kemahiran Kepimpinan & Hubungan Insan / Keusahawanaan Ekonomi Malaysia / Perlembagaan dan Masyarakat Malaysia Procument Management Integrated Logistics and Supply Chain Management Container Maritime Trade Operations Freight Operations Management International Marketing Customs and Forwarding  Year 3 Global Logistics & Supply Chain\nE- Commerce in Logistics Final Year Project 1 (BRB3024) Warehousing Management Digital Marketing in Logistics Management Internship Final Year Project 2 Trade Financing & Facilitation and Law Regulatory & Instituitional Framework Khidmat Masyarakat/ Sukan dan Pengurusan Organisasi",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects and pass in Mathematics.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business (Digital Marketing) (Honours)",
+      "field_of_study": "Marketing",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3000,
+        "tuition_fee": 55000
+      },
+      "course_content": {
+        "core": "Year 1 TITAS / Bahasa Melayu Komunikasi 2\nPrinciples of Marketing\nPrinciples of Management\nBusiness English / English\nAccounting\nMicroeconomics\nManagement Information Systems\nHubungan Etnik / Pengajian Malaysia 3\nBusiness Mathematics\nKemahiran Kepimpinan dan Hubungan Insan / Entrepreneurship\nCritical Thinking  Year 2 Consumer Behaviour\nMacroeconomics\nEkonomi Malaysia\nBusiness Writing\nFinancial Management\nHuman Resource Management\nDigital Marketing\nBrand Management\nBusiness Law\nKhidmat Masyarakat / Aktiviti Ko-Kurikulum\nWeb Design\nSocial Media & Mobile Marketing  Year 3 Marketing Research\nElectronic Marketing\nEffective Marketing Communications\nDigital Content Marketing\nSearch and Email Marketing\nStrategic Marketing Management\nBusiness Consultancy / Management Project\nInternational Marketing\nBig Data and Emerging Innovation\nDigital Marketing Planning and Strategy",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Design (Digital Media) (Honours) [K2]",
+      "field_of_study": "Multimedia Design",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 1"
+      },
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3000,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1 Typography Visual Communication Studies Mata Pelajaran Umum 1- Module 1 Illustration Techniques Digital Design & Technology Creative Thinking & Practice Digital Photography Animation Fundamentals Visual Communication and Cultural Studies Digital Video Production Mata Pelajaran Umum 1- Module 2 Design of Mobile Applications  Year 2  Brand Strategies Three-Dimensional Animation History of Visual Art and Design Digital Video Compositing Research Methodology Games Design Motion Graphics Communication Mobile Applications 2 Industry-Based Project Professional Practice Academic Writing in Visual Arts Mata Pelajaran Umum 2 Mata Pelajaran Umum 3 Degree Project Portfolio Exhibition Internship  Year 3 Web Design Mata Pelajaran Umum 4 Elective Subjects: Digital Publishing 1* Advertising Design* Packaging Design* Brand Application* Marketing Principles*",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts in Law Enforcement (Investigation)(Honours)",
+      "field_of_study": "Police Science",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1000,
+        "resource_fee": 3000,
+        "tuition_fee": 57000
+      },
+      "course_content": {
+        "core": "Year 1 Crime & Society Malaysian Criminal Justice System Criminal Law TITAS / * Bahasa Melayu Komunikasi 2 (MPU1) Principles of Security Management English Administrative Law in Malaysia Investigation Techniques Criminalistics Hubungan Etnik / * Pengajian Malaysia (MPU 1) Ethics in Law Enforcement Kemahiran Kepimpinan dan Hubungan Insan / * Keusahawanan (MPU 2)  Year 2 Critical Thinking Managing Secured Environment Sexual Crimes Independent Study 1 (Crime Books Analysis) Risk and Crisis Management Current Issues in Law Enforcement Fundamentals of Human Rights White Collar and Organized Crimes Ekonomi Malaysia / * Perlembagaan Masyrakat Malaysia (MPU 3) Civil Law Academic Writing  Year 3 Research Methodology in Social Studies Finger Prints Identification Law of Evidence Investigative Interview and Report Writing Current Issues in Investigations Khidmat Masyarakat (MPU 4) Principles of Occupational Safety and Health Forensic Psychology Independent Degree Project Emergency and Disaster Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Management",
+      "field_of_study": "Business and Management",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 28400
+      },
+      "course_content": {
+        "core": "Year 1 Pengajian Malaysia 2 Bahasa Melayu Komunikasi 1 Principles of Management Business Communication Critical and Creative Thinking Introduction To Basic Computer Applications Principles of Marketing Principles of Accounting Microeconomics Interpersonal and Communication skills Bahasa Kebangsaan A Pengurusan Masa Bentuk-Bentuk Penulisan Introduction to Human Resource Management Business Mathematics Reading & Writing Skills for Administrative Professionals Year 2 Introduction to Business Statistics Management Accounting Principles of Organizational Behaviour Hak Asasi Manusia Etika Perbandingan Macroeconomics Business Information system Introduction To Quality Management Introduction to Business Law Strategic Management Financial Accounting Industrial Training Year 3 Khidmat Masyarakat Pengurusan Organisasi & Ko-Kurikulum Introduction to International Business Entrepreneurship E-Commerce Training & Development Financial Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Pastry Arts",
+      "field_of_study": "Culinary Arts",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 33800
+      },
+      "course_content": {
+        "core": "First Semester Food Hygiene, Sanitation and Safety\nBasic Western Cookery\nFundamental of Baking\nPastry Making Second Semester Bread Making and Fermented Products\nCake and Sponges Making & Decoration\nIntroduction to Food Service Industry\nPurchasing & Cost Control Third Semester Principles of Accounting\nPrinciples of Marketing Fourth Semester Kitchen Management and Layout / Catering Management\nChocolate, Confectionery& Sugar Arts\nMalaysian Local Pastries & Desserts\nContinental Cakes and Desserts Fifth Semester Industrial Training Sixth Semester Advance Pastries and Bakeries\nBarista / Nutrition\nFood Service Entrepreneurship\nFrench / Mandarin",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Culinary Arts",
+      "field_of_study": "Culinary Arts",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 33800
+      },
+      "course_content": {
+        "core": "First Semester Introduction To Hospitality Industry\nFood Hygiene, Sanitation and Safety\nFood & Beverage Management\nTheory of Food Second Semester Food and Beverage Management\nFood and Beverages Operation\nFood and Beverage Cost Control\nBasic Western Cooking Third Semester Principles of Accounting\nPrinciples of Marketing Fourth Semester Basic Pastry & Bakery\nAsian Cuisine\nLegal Aspects in Hospitality industry\nHuman Resource Management Fifth Semester' Garde Manger\nPurchasing and Procurement\nFrench / Mandarin Sixth Semester Artistic Skills\nWorld Cuisine\nEntrepreneurship Seventh Semester Industry Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education",
+      "field_of_study": "Early Childhood Education",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 27300
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Early Childhood Education\nOpen elective 1\nChild Growth & Development\nChild Psychology & Behaviour Guidance\nCurriculum in Early Childhood Education\nTeaching & Learning Strategies in Early Childhood Education\nHealth, Safety, Nutrition & Well Being of Young Children\nHome, School & Community Partnership\nMoral, Social & Emotional Development in Early Childhood Education\nSupporting Cognitive Development through Inquiry & STEM education\nPlay in Early Childhood Education\nPengajian Malaysia 2\nBahasa Melayu Komunikasi 1\nEnglish Language\nPengurusan Masa\nBahasa Kebangsaan A Year 2 Technology in Early Childhood Education\nTeaching Maths in Early Childhood Education\nArts & Craft for Young Children\nTeaching Language & Literacy in Early Childhood Education\nMusic & Creative Movement for Young Children\nPhysical Education in Early Childhood Education\nAssessment in ECE\nTeaching Science in ECE\nTeachers Professionalism in ECE\nSpecial Needs Education\nManagement & Entrepreneurship in ECE\nPracticum in Taska\nPracticum in Tadika\nOpen Elective 1\nOpen Elective 2\nErika Perbandingan\nKhidmat Masyarakat",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "Year 1 History of Art\nDesign Theory & Practices\nBasic Drawing\nComputer Graphic Design 1\nEnglish Language\nPhotography 1\nComputer Graphic Design 2\nIllustration 1\nDigital Typography\nPengajian Malaysia 2\nAdvertising 1\n2D Animation\nInterpersonal & Communication Skills  Year 2 Digital Illustration\nElectronic Publishing\nCorporate Identity System\nAdvertising 2\nCritical & Creative Thinking\nPhotography 2\nPackaging Design\nComputer Graphic Design 3\nEntrepreneurship\nPengurusan Masa\nBusiness Communication\nProfessional Practice\nCopy Writing\nHak Asasi Manusia  Year 3 Internship\nDiploma Project\nMotion Graphic\nAdvertising 3\nKhidmat Masyarakat",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Hotel Management",
+      "field_of_study": "Hotel Management",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects AND Pass English.",
+        "O-Level": "Grade C in 3 relevant subjects AND Grade E in English.",
+        "UEC": "Grade B in 3 relevant subjects AND Grade C in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 33800
+      },
+      "course_content": {
+        "core": "First Semester Introduction To Hospitality Industry\nFood Hygiene, Sanitation and Safety\nFood & Beverage Management Second Semester Principles of Management\nPrinciples of Marketing\nFood and Beverage Operation\nBusiness Communication Third Semester Hospitality English\nFrench / Mandarin Language\nIntroduction to Basic Computer Applications Fourth Semester Managing Front Office Management\nManaging Housekeeping Management\nTheory of Food\nFood & Beverages Cost Control Fifth Semester' Event Management\nHospitality Law\nBasic Cookery\nPurchasing & Procurement Sixth Semester Entrepreneurship Seventh Semester Industry Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects AND Pass English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects AND Grade E in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects AND Grade C in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Human Resource Management",
+      "field_of_study": "Human Resource Management",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 28400
+      },
+      "course_content": {
+        "core": "Year 1 Pengajian Malaysia 2\nBahasa Melayu Komunikasi 1\nCritical & Creative Thinking\nPrinciples of Management\nEnglish Language\nIntroduction to Basic Computer Applications\nPrinciples of Organization Behaviour\nAccounting Principle\nBusiness Communication\nContemporary Business\nBahasa Kebangsaan A\nPengurusan Masa\nBentuk-Bentuk Penulisan\nIntroduction to Human Resource Management\nIntroduction to Business Law\nHak Asasi Manusia\nEtika Perbandingan  Year 2 Administrative Office Management\nInterpersonal & Communication Skills\nEmployment Law\nHuman Resource Planning and Recruitment\nFinancial Management\nTraining & Development\nIndustrial Relations\nIntroduction to Business Statistics\nPublic Relations\nPayroll & Office Software Applications\nKhidmat Masyarakat\nPengurusan Organisasi & Ko-Kurikulum\nInternship  Year 3 Records Management for Administration Services\nOccupational Safety & Healthy Administration\nDomestic Inquiry\nBusiness Ethics & Etiquette\nEntrepreneurship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects.",
+        "O-Level": "Grade C in 3 relevant subjects.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "Year 1 History of Art\nDesign Theory & Practices\nBasic Drawing\nComputer Graphic Design 1\nEnvironmental Psychology\nEnglish Language\nPengajian Malaysia 2/*B. Melayu Komunikasi 1\nAutoCAD\nPhotography 1\nTechnical Drawing\nHistory of Architecture\nInterior Design 1 (Residential)\nInterpersonal & Communication Skills\nPengurusan Masa\nInterior Design 2 (Commercial)\nComputer Graphic Design 2  Year 2 Hak Asasi Manusia\nBusiness Communication\nInterior Materials & Furnishing\nBuilding Construction 1\nCritical & Creative Thinking\nInterior Design 3 (Institutional)\n3D Studies (3Ds Max)\nInterior Design 4 (Hospitality)\nProfessional Practice\nKhidmat Masyarakat\nBuilding Construction 2\nEnvironmental Science & Services  Year 3 Interior Design 5\nContract & Project Management\nFurniture Design\nInternship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Logistics Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 28400
+      },
+      "course_content": {
+        "core": "Year 1 Pengajian Malaysia 2 / Bahasa Melayu Komunikasi 1 Principles of Management Business Communication Critical and Creative Thinking Introduction to Basic Computer Applications Bahasa Kebangsaan A / Pengurusan Masa Introduction to Business Statistics Principles of Accounting Introduction to Logistics Management Transportation and Freight Logistics Global Logistics & Chain Integration Hak Asasi Manusia Business Information System Economics Year 2 Entrepreneurship Inventory Management & Procurement Container Trade & Supply Chain Customs and Freight Forwarding Supply Chain Management in Aviation Khidmat Masyarakat Security and Risk Management Freight Intermediaries and Operations Warehousing and Distribution Network Supervisory Skills and Management Internship Year 3 Business Law Ports & Shipping Operations Customer Relationship Management Marketing in Supply Chain Management E-Commerce Logistics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Multimedia Design",
+      "field_of_study": "Multimedia Design",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "Year 1 History of Art\nDesign Theory & Practices\nBasic Drawing\nComputer Graphic Design 1\nEnglish Language\nPhotography 1\nComputer Graphic Design 2\nStory Board & Art Direction\nDigital Typography\nPengajian Malaysia 2/ *B. Melayu Komunikasi 1\nVideography\n2D Animation\nInterpersonal & Communication Skills  Year 2 Digital Illustration\nElectronic Publishing\n3D Visualization\nMultimedia Interface Design\nCritical & Creative Thinking\n3D Animation\nDigital Video Production\nMotion Graphic\nEntrepreneurship\nBentuk-Bentuk Penulisan/\nPengurusan Masa/\n**Bahasa Kebangsaan A\nBusiness Communication\nProfessional Practice\nWeb Design\nEtika Perbandingan/Hak Asasi Manusia  Year 3 Internship\nMultimedia Dip. Project\nProduction in Multimedia\nAdvertising Principles\nKhidmat Masyarakat/\nPengurusan Organisasi & Ko-Kurikulum",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma In Law Enforcement Administration",
+      "field_of_study": "Police Science",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 32500
+      },
+      "course_content": {
+        "core": "Year 1 Mata Pelajaran Pengajian Umum 1 Principles of Management Introduction to Crime and Society English Language Introduction to Law Enforcement Introduction to Security Management Introduction to Information Technology Introduction to Human Resource Management Mata Pelajarana Pengajian Umum 2 Principles of Organizational Behaviour Mata Pelajaran Pengajian Umum 3 Business Communication Introduction to Criminal Law Year 2 Computer Security Threats and Liabilities Critical & Creative Thinking Security Risk Management Introduction to Criminal Justice System Investigation Techniques Introduction to Administrative Law Security Crisis Management Introduction to Psychology Introduction to Occupational Safety and Health Administration Security & Intelligence Operations Internship/Industry Placement Year 3 Mata Pelajaran Pengajian Umum 4 Physical Security Management Crime Scene Investigations Decision Making & Control Ethics in Law Enforcement",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Security Management",
+      "field_of_study": "Police Science",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3000,
+        "tuition_fee": 27350
+      },
+      "course_content": {
+        "core": "Year 1 Mata Pelajaran Pengajian Umum 1 Principles of Management Critical & Creative Thinking English Language * Introduction to Crime and Society / * Introduction to Accounting Introduction to Security Management * Security in Events Management / * Management Information System for Security Managers Introduction To Human Resource Management Mata Pelajaran Pengajian Umum 2 Principles of Organisational Behaviour Mata Pelajaran Pengajian Umum 3 Business Communication Year 2 Introduction to Criminal Laws Computer Security Threats & Liability Introduction to Financial Management Security Crisis Management Introduction to Criminal Justice System Investigation Techniques Mata Pelajaran Pengajian Umum 4 Physical Security Management Security Operations Management Occupational Safety & Health Practical Training /Internship Year 3 Introduction to Psychology Business Ethics and Etiquette Decision Making & Control Crime Scene Investigations * Effective Public Relations / * Training & Development * Select only one in each semester",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Design [K2]",
+      "field_of_study": "Foundation in Arts",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits.",
+        "O-Level": "Pass with at least 5 credits.",
+        "UEC": "Grade B in 5 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 1800,
+        "tuition_fee": 10000
+      },
+      "course_content": {
+        "core": "Year 1 English 1 Introduction to Critical Thinking Introduction to Computer Applications Social Psychology Fundamentals of Management Interpersonal Communication Study Skills English 2 Art History Introduction to Photography & Video Production Introduction to Marketing Contemporary Business Co-Curriculum Drawing Techniques Design Principles English 3 Visual Communication",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business Studies",
+      "field_of_study": "Foundation in Arts",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits.",
+        "O-Level": "Pass with at least 5 credits.",
+        "UEC": "Grade B in 5 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 1000,
+        "tuition_fee": 10000
+      },
+      "course_content": {
+        "core": "Year 1 Presentation Skills Time Management Basic Computer Application Introduction to Business Introduction to Accounting Business Mathematics Fundamentals of Organizational Management Introduction to Marketing Social Psychology English for Academic Writing Introduction to Microeconomics Introduction to Critical Thinking Fundamentals in Financial Management Interpersonal Communication Introduction to Macroeconomics Business Statistics Entrepreneurship Ko-kurikulum",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Police Science",
+      "field_of_study": "Foundation in Arts",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits.",
+        "O-Level": "Pass with at least 5 credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 1000,
+        "tuition_fee": 10000
+      },
+      "course_content": {
+        "core": "First Semester English 1\nIntroductionTo Critical Thinking\nIntroduction To Computer Application\nSocial psychology\nCriminology\nLaw Enforcement in Malaysia Second Semester English 2\nIntroduction to Research Methods\nIntroduction To Photography & Video Productions\nIntroduction to Crime and Society\nSecurity Management\nPolicing in contemporary society\nKo-Kurikulum Third Semester English 3\nCriminalistic\nIntroduction to Law and Legal System in Malaysia",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 credits."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 credits."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master Law Enforcement",
+      "field_of_study": "Police Science",
+      "location": "Saito, Petaling Jaya",
+      "intakes": [
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Nov",
+        "Dec"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "-A Bachelor ‘s Degree with minimum CGPA of 2.50 or equivalent, as accepted by SAITO UC Senate; or -A Bachelor ‘s Degree or equivalent not meeting CGPA of 2.50 can be accepted subject to a minimum of 5 years working experience in relevant field. -Any other equivalent qualification recognized by the Malaysia government; or recognition of prior learning as approved by Ministry of Higher Education. Candidate must pass APEL (Accreditation of Prior Experiential Learning) assessment criteria; Minimum age of 30 years old and possess STPM/Diploma/A-Level/ equivalent with relevant work experience.."
+      },
+      "english_requirements": {
+        "MUET": "Band 1"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 400,
+        "tuition_fee": 25000
+      },
+      "course_content": {
+        "core": "Year 1 Law and Legal System\nCritical Issues in Law Enforcement\nCriminal Justice\nResearch Methodology\nElective 1 Year 2 Decision Making With Accountability\nEthics and Governance\nRisk Management in Policing\nIntelligence-led Policing\nElective 2 Year 3 Final Year Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "-A Bachelor ‘s Degree with minimum CGPA of 2.50 or equivalent, as accepted by SAITO UC Senate; or -A Bachelor ‘s Degree or equivalent not meeting CGPA of 2.50 can be accepted subject to a minimum of 5 years working experience in relevant field. -Any other equivalent qualification recognized by the Malaysia government; or recognition of prior learning as approved by Ministry of Higher Education. Candidate must pass APEL (Accreditation of Prior Experiential Learning) assessment criteria; Minimum age of 30 years old and possess STPM/Diploma/A-Level/ equivalent with relevant work experience.."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 173,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://universitiesaustralia.edu.au/wp-content/uploads/2019/06/UTS-2020_Web-1-1333x1000.jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UTS City Campus Sydney",
       "intakes": [
         "Jan",
@@ -73,11 +76,12 @@
             "text": "ATAR Point: 85.2, Mathematics and any two units of English.."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Communication (Digital and Social Media)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UTS City Campus Sydney",
       "intakes": [
         "Jan",
@@ -173,11 +177,12 @@
             "text": "ATAR Point: 77.3."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Communication (Media Arts and Production)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UTS City Campus Sydney",
       "intakes": [
         "Jan",
@@ -273,11 +278,12 @@
             "text": "ATAR Point: 90.15."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Communication (Social and Political Sciences)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UTS City Campus Sydney",
       "intakes": [
         "Jan",
@@ -358,11 +364,12 @@
             "text": "ATAR Point: 72.25."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Communication (Media Business)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UTS City Campus Sydney",
       "intakes": [
         "Jan",
@@ -428,11 +435,12 @@
             "text": "ATAR Point: 83.7."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Artificial Intelligence",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UTS City Campus Sydney",
       "intakes": [
         "Jan",
@@ -535,11 +543,12 @@
             "text": "ATAR Point: 85.4, HSC Mathematics Advanced and any two units of English..  Mathematics Extension 1 and English Advanced are recommended."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Communication (Journalism)",
-      "field_of_study": "Journalism",
+      "field_of_study": "Communication and Media Studies",
       "location": "UTS City Campus Sydney",
       "intakes": [
         "Jan",
@@ -600,11 +609,12 @@
             "text": "ATAR Point: 81.4."
           }
         ]
-      }
+      },
+      "course": "Journalism"
     },
     {
       "program_name": "Bachelor of Advanced Science (Pre-Medicine)",
-      "field_of_study": "Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "UTS City Campus Sydney",
       "intakes": [
         "Jan",
@@ -725,11 +735,12 @@
             "text": "ATAR Point: 95, Mathematics; any two units of English; any two units of Science.."
           }
         ]
-      }
+      },
+      "course": "Medicine"
     },
     {
       "program_name": "Bachelor of Advanced Science (Pharmaceutical Sciences)",
-      "field_of_study": "Pharmaceutical Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "UTS City Campus Sydney",
       "intakes": [
         "Jan",
@@ -795,11 +806,12 @@
             "text": "ATAR Point: 90.9, Mathematics; any two units of English; any two units of Science.."
           }
         ]
-      }
+      },
+      "course": "Pharmaceutical Science"
     },
     {
       "program_name": "Bachelor of Advanced Science (Quantum Technology)",
-      "field_of_study": "Physics",
+      "field_of_study": "Science and Mathematics",
       "location": "UTS City Campus Sydney",
       "intakes": [
         "Jan",
@@ -913,7 +925,8 @@
             "text": "ATAR Point: 99.95, Mathematics; any two units of English; any two units of Science.."
           }
         ]
-      }
+      },
+      "course": "Physics"
     }
   ]
 }

@@ -1,0 +1,84 @@
+{
+  "institution_name": "Asia School of Business (ASB) in collaboration with MIT Sloan",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 6395,
+  "malaysia_rank": 45,
+  "programs": [
+    {
+      "program_name": "Master of Business Administration",
+      "field_of_study": "MBA Programme",
+      "location": "Asia School of Business",
+      "intakes": [
+        "Mar",
+        "May",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor’s Degree or equivalent from a recognized institution.  At least 2 years of work experience\nProof of English proficiency"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 150000
+      },
+      "course_content": {
+        "core": "Core Subjects Financial Accounting Organisational Behavior & Leadership Managerial Economics Quantitative Methods Integrative Management Data, Optimization Models & Decisions Ethics & Corporate Accountability Corporate Finance Competitive Strategy People Analytics Action Learning Business Research Methods Operations Management Marketing Management *Subject to change",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "Bachelor’s Degree or equivalent from a recognized institution.  At least 2 years of work experience\nProof of English proficiency"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Executive Master of Business Administration",
+      "field_of_study": "MBA Programme",
+      "location": "Asia School of Business",
+      "intakes": [
+        "May",
+        "Aug",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor’s degree or equivalent from a recognized institution with a minimum 2.5 CGPA on a 4.0 scale.  Approximately 8 years or more of work experience\nProof of English proficiency\nEmployed / Self-Employed full time"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 180000
+      },
+      "course_content": {
+        "core": "Core Subjects Operations Management Organizational Behavior & Leadership Marketing Data Analytics Managerial Economics Competitive Strategy Finance & Accounting System Dynamics Negotiations Entrepreneurship HR Management Ethics and Corporate Professional Development & Executive Coaching Learning in Action *Subject to change",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor’s degree or equivalent from a recognized institution with a minimum 2.5 CGPA on a 4.0 scale.  Approximately 8 years or more of work experience\nProof of English proficiency\nEmployed / Self-Employed full time"
+          }
+        ]
+      }
+    }
+  ]
+}

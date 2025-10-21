@@ -1,19 +1,60 @@
-# You can override the included template(s) by including variable overrides
-# SAST customization: https://docs.gitlab.com/ee/user/application_security/sast/#customizing-the-sast-settings
-# Secret Detection customization: https://docs.gitlab.com/user/application_security/secret_detection/pipeline/configure
-# Dependency Scanning customization: https://docs.gitlab.com/ee/user/application_security/dependency_scanning/#customizing-the-dependency-scanning-settings
-# Container Scanning customization: https://docs.gitlab.com/ee/user/application_security/container_scanning/#customizing-the-container-scanning-settings
-# Note that environment variables can be set in several places
-# See https://docs.gitlab.com/ee/ci/variables/#cicd-variable-precedence
 stages:
-- test
-- secret-detection
-sast:
-  stage: test
-include:
-- template: Security/SAST.gitlab-ci.yml
-- template: Security/Secret-Detection.gitlab-ci.yml
+  - deploy-backend
+  - build-frontend
+  - deploy-frontend
+
 variables:
-  SECRET_DETECTION_ENABLED: 'true'
-secret_detection:
-  stage: secret-detection
+  AWS_REGION: "ap-southeast-5"
+  AWS_DEFAULT_REGION: "ap-southeast-5"
+  LAMBDA_FUNCTION_NAME: "studywat-backend"
+  S3_BUCKET_NAME: "studywat-frontend-my"
+
+deploy_backend:
+  stage: deploy-backend
+  image: python:3.12
+  rules:
+    - changes:
+        - backend/**/*
+        - .gitlab-ci.yml
+  before_script:  
+    - pip install --upgrade pip
+    - pip install awscli
+  script:
+    - cd backend
+    - mkdir -p lambda_build/src
+    - "pip install --platform manylinux2014_x86_64 --target=lambda_build --implementation cp --python-version 3.12 --only-binary=:all: --upgrade -r requirements.txt"
+    - cp -r src/* lambda_build/src/
+    - apt-get update && apt-get install -y zip
+    - cd lambda_build && zip -r ../fastapi_lambda.zip . && cd ..
+    - aws lambda update-function-code --function-name $LAMBDA_FUNCTION_NAME --zip-file fileb://fastapi_lambda.zip --region $AWS_REGION
+
+build_frontend:
+  stage: build-frontend
+  image: node:20
+  rules:
+    - changes:
+        - frontend/**/*
+        - .gitlab-ci.yml
+  script:
+    - cd frontend
+    - npm ci
+    - echo "VITE_API_URL=$VITE_API_URL" > .env
+    - npm run build
+  artifacts:
+    paths:
+      - frontend/dist/
+
+deploy_frontend:
+  stage: deploy-frontend
+  image: python:3.12
+  dependencies:
+    - build_frontend
+  rules:
+    - changes:
+        - frontend/**/*
+        - .gitlab-ci.yml
+  before_script:
+    - pip install awscli
+  script:
+    - aws s3 sync frontend/dist/ s3://$S3_BUCKET_NAME/ --delete
+    - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths '/*'

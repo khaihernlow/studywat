@@ -33,3 +33,7 @@ Thumbs.db
 # 💻 VSCode/IDE
 .vscode/
 .idea/
+
+# Lambda build artifacts
+lambda_build/
+*.zip

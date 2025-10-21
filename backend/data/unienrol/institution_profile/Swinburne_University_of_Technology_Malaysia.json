@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 5339,
   "malaysia_rank": 38,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Swinburne+University/Swinburne+Sarawak/Campus_and_Surroundings/01e_Swinburne_Sarawak_Aerial_Building_3.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Business (Accounting)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -153,7 +156,8 @@
             "text": "60 points.  Pass in Mathematics/ Advanced Mathematics"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Business (Accounting and Finance)",
@@ -303,11 +307,12 @@
             "text": "60 points.  Pass in Mathematics/ Advanced Mathematics"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Science (Biotechnology)",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -459,11 +464,12 @@
             "text": "70 points including Mathematics and Biology or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Bachelor of Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -590,11 +596,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Business / Bachelor of Information and Communication Technology",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -663,11 +670,12 @@
             "text": "60 points.  Pass in Mathematics/ Advanced Mathematics"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Engineering (Chemical) (Honours)",
-      "field_of_study": "Chemical Engineering",
+      "field_of_study": "Engineering",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -879,11 +887,12 @@
             "text": "75 points including Advanced Math and Physics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Chemical Engineering"
     },
     {
       "program_name": "Bachelor of Engineering (Civil) (Honours)",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -1030,11 +1039,12 @@
             "text": "75 points including Advanced Math and Physics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Bachelor of Engineering (Civil) (Honours)/Bachelor of Business",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -1181,11 +1191,12 @@
             "text": "75 points including Advanced Math and Physics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Bachelor of Engineering (Honours) (Civil) / Bachelor of Computer Science",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -1254,11 +1265,12 @@
             "text": "75 points including Advanced Math and Physics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Bachelor of Media and Communication",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -1335,11 +1347,12 @@
             "count": 60
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Cyber Security",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Mar",
@@ -1504,11 +1517,12 @@
             "text": "ATAR 70, including credit in Mathematics/ Advanced Mathematics."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Data Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Mar",
@@ -1673,11 +1687,12 @@
             "text": "ATAR 70, including credit in Mathematics/ Advanced Mathematics."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -1823,11 +1838,12 @@
             "text": "70 points including Mathematics/ Advanced Mathematics."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Engineering (Electrical & Electronic) (Honours)",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -1896,11 +1912,12 @@
             "text": "75 points including Advanced Math and Physics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Engineering (Honours) (Electrical and Electronic) / Bachelor of Computer Science",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -2052,11 +2069,12 @@
             "text": "75 points including Advanced Math and Physics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Science (Environmental Science)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -2208,11 +2226,12 @@
             "text": "70 points including Mathematics and Biology or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Business (Finance)",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -2358,11 +2377,12 @@
             "text": "60 points.  Pass in Mathematics/ Advanced Mathematics"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Design with a major in Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -2437,11 +2457,12 @@
             "value": 70.0
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Bachelor of Business (Human Resource Management)",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -2568,11 +2589,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Bachelor of Engineering (Robotics & Mechatronics) (Honours)",
-      "field_of_study": "Industrial Engineering",
+      "field_of_study": "Engineering",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -2719,11 +2741,12 @@
             "text": "75 points including Advanced Math and Physics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Industrial Engineering"
     },
     {
       "program_name": "Bachelor of Engineering (Robotics & Mechatronics) (Honours)/Bachelor of Computer Science",
-      "field_of_study": "Industrial Engineering",
+      "field_of_study": "Engineering",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -2792,11 +2815,12 @@
             "text": "75 points including Advanced Math and Physics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Industrial Engineering"
     },
     {
       "program_name": "Bachelor of Information and Communication Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -2923,11 +2947,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Business (International Business)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -3054,11 +3079,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Bachelor of Business (Management)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -3209,11 +3235,12 @@
             "text": "60 points.  Pass in Mathematics/ Advanced Mathematics"
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Bachelor of Business (Management & Digital Media)",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -3340,11 +3367,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Bachelor of Business (Marketing)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -3471,11 +3499,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor of Engineering (Mechanical) (Honours)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -3687,11 +3716,12 @@
             "text": "75 points including Advanced Math and Physics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Engineering (Mechanical) (Honours)/Bachelor of Business",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -3760,11 +3790,12 @@
             "text": "75 points including Advanced Math and Physics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Engineering (Honours) (Mechanical) / Bachelor of Computer Science",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -3833,11 +3864,12 @@
             "text": "75 points including Advanced Math and Physics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Design / Bachelor of Business",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -3964,11 +3996,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Bachelor of Design (Multimedia Design)",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -4037,11 +4070,12 @@
             "text": "70 points."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Bachelor of Quantity Surveying (Honours)",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -4197,11 +4231,12 @@
             "text": "75 points.  C in Mathematics/ Advanced Mathematics at SPM"
           }
         ]
-      }
+      },
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "Bachelor of Engineering (Honours) (Software)",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -4341,11 +4376,12 @@
             "text": "75 points including Advanced Mathematics."
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Diploma of Accountancy",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -4431,11 +4467,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma of Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -4503,11 +4540,12 @@
             "text": "Completion."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma of Early Children Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -4575,11 +4613,12 @@
             "text": "Completion."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma of Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -4675,11 +4714,12 @@
             "text": "Completion.  C in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma of Digital Media Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -4747,11 +4787,12 @@
             "text": "Completion.  Pass in interview or submit student portfolio"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma of Quantity Surveying",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -4843,11 +4884,12 @@
             "text": "Completion.  Credit in Mathematics and Bahasa Melayu or English"
           }
         ]
-      }
+      },
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "Swinburne Foundation Studies (Business)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Jan",
@@ -4927,11 +4969,12 @@
             "text": "3Bs."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Swinburne Foundation Studies (Design)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Jan",
@@ -4999,11 +5042,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Swinburne Foundation Studies (Information Technology/Multimedia)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Jan",
@@ -5083,11 +5127,12 @@
             "text": "3Bs."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Swinburne Foundation Studies (Engineering/Science)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Jan",
@@ -5137,11 +5182,12 @@
             "text": "3Bs.  Credit in AM/MA and PHY (Engineering); or\nCredit in AM/MA and 2 SCI subjects (Science)"
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Master of Construction Management Practice",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -5175,11 +5221,12 @@
             "text": "Recognised bachelor’s degree in civil engineering, building, architecture, quantity surveying, construction management, real estate and other cognate engineering/technology disciplines, or other equivalent qualification.."
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "Master of Arts (Teaching English to Speakers of Other Languages)",
-      "field_of_study": "English (Teaching)",
+      "field_of_study": "Education",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Sep"
@@ -5212,11 +5259,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "English (Teaching)"
     },
     {
       "program_name": "Master of Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -5265,11 +5313,12 @@
             "text": "A recognized Bachelor’s degree with a minimum CGPA of 2.75, or A Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.50 and not meeting CGPA of 2.75, can be accepted subject to rigorous internal assessment process.  A Bachelor’s Degree or its equivalent, with a minimum CGPA of 2.00 and a minimum of 5 years working experience in a relevant field may be accepted."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of Business Administration (International)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Swinburne, Kuching",
       "intakes": [
         "Feb",
@@ -5313,7 +5362,8 @@
             "text": "Applicants should have completed A Bachelor’s degree in related fields with a minimum CGPA of 2.50 as accepted by the Academic Senate; OR A Bachelor’s degree in related fields with a minimum of CGPA of 2.00 as accepted by the Academic Senate, subject to further internal assessment; OR A Bachelor’s degree with a minimum of CGPA of 2.00 as accepted by the Academic Senate, subject to further internal assessment; OR.  Note:\nAn applicant with a non-cognate Bachelor’s degree with a minimum CGPA of 2.00 and without relevant working experience are required to complete all fundamental units.\nAn applicant who has a non-cognate qualification and who has relevant working experience will be assessed to determine completion of all fundamental units.\nAn applicant with a cognate qualification may be determined as having completed all fundamental units."
           }
         ]
-      }
+      },
+      "course": "International Business"
     }
   ]
 }

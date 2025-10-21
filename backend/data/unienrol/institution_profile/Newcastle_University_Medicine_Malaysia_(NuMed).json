@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://pxl-nclacuk.terminalfour.net/prod01/channel_3/mediav8/newcastle-university-medicine-malaysia/images/page-headers/about-us_1800.jpg"
+  ],
   "programs": [
     {
       "program_name": "Biomedical Sciences BSc Honours (2+1), Newcastle University, UK",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "NUMed Malaysia Campus",
       "intakes": [
         "Sep"
@@ -91,11 +94,12 @@
             "text": "ATAR score of 90, inc. Biology, Chemistry, and Physics or Mathematics."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "Bachelor of Medicine, Bachelor of Surgery (MBBS) Honours",
-      "field_of_study": "Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "NUMed Malaysia Campus",
       "intakes": [
         "Sep"
@@ -162,11 +166,12 @@
             "text": "ATAR score of 90, inc. Biology, Chemistry, and Physics or Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
           }
         ]
-      }
+      },
+      "course": "Medicine"
     },
     {
       "program_name": "Foundation in Biological and Biomedical Sciences",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "NUMed Malaysia Campus",
       "intakes": [
         "May",
@@ -246,7 +251,8 @@
             "text": "4As 1B each in Biology, Chemistry, Physics, Mathematics and another subject."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

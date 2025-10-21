@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 1702,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Teeside+University/Teeside+Middlesbrough/Campus_and_Surroundings/01a_Teeside_Middlesbrough_The_Curve.jpeg"
+  ],
   "programs": [
     {
       "program_name": "BEng (Hons) Aerospace Engineering",
-      "field_of_study": "Aeronautical Engineering",
+      "field_of_study": "Engineering",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -52,11 +55,12 @@
             "text": "3C.  GCSE Mathematics grade 4 (Grade C)"
           }
         ]
-      }
+      },
+      "course": "Aeronautical Engineering"
     },
     {
       "program_name": "BA (Hons) Animation",
-      "field_of_study": "Animation",
+      "field_of_study": "Communication and Media Studies",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -103,11 +107,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Animation"
     },
     {
       "program_name": "BEng (Hons) Chemical Engineering",
-      "field_of_study": "Chemical Engineering",
+      "field_of_study": "Engineering",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -152,11 +157,12 @@
             "text": "3C.  GCSE Mathematics grade 4 (Grade C)"
           }
         ]
-      }
+      },
+      "course": "Chemical Engineering"
     },
     {
       "program_name": "BSc (Hons) Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Jan",
@@ -202,11 +208,12 @@
             "text": "3C.  GCSE Mathematics grade 4 or C"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Cyber Security",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -251,11 +258,12 @@
             "text": "3C.  GCSE Mathematics grade 4 (Grade C)"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BA (Hons) Concept Art",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -302,11 +310,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "BA (Hons) llustrations",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -353,11 +362,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "BA (Hons) Children and Early Childhood",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -402,11 +412,12 @@
             "text": "3D.  GCSE English at grade 4 (grade C) or equivalent"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "BEng (Hons) Instrumentation and Control Engineering",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -451,11 +462,12 @@
             "text": "3C.  GCSE Mathematics grade 4 (Grade C)"
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "BA (Hons) Fashion",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -502,11 +514,12 @@
             "value": "3C"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Film and Television Production",
-      "field_of_study": "Film & Television",
+      "field_of_study": "Communication and Media Studies",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Jan",
@@ -564,11 +577,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Film & Television"
     },
     {
       "program_name": "BSc (Hons) Food Science and Technology",
-      "field_of_study": "Food Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -613,11 +627,12 @@
             "text": "3C.  English language and mathematical skills equivalent to at least GCSE grade 4 is required"
           }
         ]
-      }
+      },
+      "course": "Food Science"
     },
     {
       "program_name": "BA (Hons) Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -664,11 +679,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA (Hons) International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -713,11 +729,12 @@
             "text": "CDD."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) Global Enterprise",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -774,11 +791,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) Business with Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -830,11 +848,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BSc (Hons) Diagnostic Radiography",
-      "field_of_study": "Medical Technology",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -879,11 +898,12 @@
             "text": "BBC.  5 GCSEs at grade 4 (C) or above including English language, maths and science"
           }
         ]
-      }
+      },
+      "course": "Medical Technology"
     },
     {
       "program_name": "BA (Hons) Games Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -940,11 +960,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "BA (Hons) Music Production",
-      "field_of_study": "Music",
+      "field_of_study": "Creative Arts and Design",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -989,11 +1010,12 @@
             "text": "3C.  GCSE English language and maths at grade C"
           }
         ]
-      }
+      },
+      "course": "Music"
     },
     {
       "program_name": "BSc (Hons) Nursing Studies (Adult)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Jan",
@@ -1039,11 +1061,12 @@
             "text": "BBC.  2 GCSEs at grade 4 (C) or above including English language and maths"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "BSc (Hons) Nutrition",
-      "field_of_study": "Nutrition",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -1088,11 +1111,12 @@
             "text": "3C.  GCSE English and Mathematics at grade 4 (grade C) or equivalent"
           }
         ]
-      }
+      },
+      "course": "Nutrition"
     },
     {
       "program_name": "BSc (Hons) Physiotherapy",
-      "field_of_study": "Physiotherapy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -1137,11 +1161,12 @@
             "text": "ABB.  5 GCSEs at grade 4 (C) or above including English language, maths and science"
           }
         ]
-      }
+      },
+      "course": "Physiotherapy"
     },
     {
       "program_name": "BSc (Hons) Criminology with Psychology",
-      "field_of_study": "Police Science",
+      "field_of_study": "Language and Social Studies",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -1186,11 +1211,12 @@
             "text": "CDD.  GCSE English at grade 4 (grade C) or equivalent"
           }
         ]
-      }
+      },
+      "course": "Police Science"
     },
     {
       "program_name": "BSc (Hons) Forensic Science",
-      "field_of_study": "Police Science",
+      "field_of_study": "Language and Social Studies",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -1235,11 +1261,12 @@
             "text": "3C.  GCSE English and Mathematics at grade 4 (grade C) or equivalent"
           }
         ]
-      }
+      },
+      "course": "Police Science"
     },
     {
       "program_name": "BSc (Hons) Psychology with Clinical Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -1284,11 +1311,12 @@
             "text": "CCD.  GCSEs in English and maths at grade 4 (grade C) or equivalent"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "MSci (Hons) Chiropractic",
-      "field_of_study": "Chiropractic",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Teesside University, Middlesbrough",
       "intakes": [
         "Sep"
@@ -1333,7 +1361,8 @@
             "text": "ABB.  A minimum of five GCSEs at grade 4 (C) or above including English language\nInterview is required"
           }
         ]
-      }
+      },
+      "course": "Chiropractic"
     }
   ]
 }

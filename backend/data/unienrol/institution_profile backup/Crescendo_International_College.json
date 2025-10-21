@@ -1,0 +1,854 @@
+{
+  "institution_name": "Crescendo International College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Bachelor of Science (Hons) in Accounting & Finance (3+0), University of London, UK",
+      "field_of_study": "Accounting and Finance",
+      "location": "Crescendo, Ulu Tiram",
+      "intakes": [
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum of Grade D.  SPM-level or equivalent:\n4 credits including English & Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\n3 credits including English\nNote: Subjects must be different or \"non-overlapping\" and are acceptable to the University of London.",
+        "Diploma": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 credits including English & Mathematics",
+        "STPM": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\n4 credits including English & Mathematics",
+        "Foundation": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 credits including English & Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 credits including English & Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 credits including English & Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "Band 4",
+        "MUET": "6.0"
+      },
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 5400,
+        "tuition_fee": 39000
+      },
+      "course_content": {
+        "core": "1st Year \nIntroduction to Economics \nPrinciples of Accounting\nMaths 1 & Stats 1\nIntroduction to Finance\n\n2nd Year\nMicroeconomics\nManagement Accounting \nFinancial Reporting \nFinancial Management\n\n3rd Year\nAccounting: Markets and Organisations\nAuditing & Assurance\nManagement Science Methods \nBusiness & Mgt in a Global Context 1st Year 2nd Year 3rd Year",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum of Grade D.  SPM-level or equivalent:\n4 credits including English & Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\n3 credits including English\nNote: Subjects must be different or \"non-overlapping\" and are acceptable to the University of London."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 credits including English & Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\n4 credits including English & Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 credits including English & Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 credits including English & Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 credits including English & Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) in Business & Management (3+0), University of London, UK",
+      "field_of_study": "Business and Management",
+      "location": "Crescendo, Ulu Tiram",
+      "intakes": [
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)",
+        "UEC": "5 Credits (A~B) in UEC (incl. Maths).  SPM-level or equivalent:\n3 Credits in SPM (incl. English)\nNote: UEC & SPM Subjects must be different or \"non-overlapping\" and are acceptable to the University of London.",
+        "Diploma": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)",
+        "Foundation": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 5400,
+        "tuition_fee": 39000
+      },
+      "course_content": {
+        "core": "1st Year \nIntroduction to Economics \nPrinciples of Accounting\nMathematics & Statistics\nBusiness & Mgt in Global Context\n\n2nd Year\nIntroduction to Finance\nManagement Accounting \nHR Management \nOrganisation Theory\n\n3rd Year\nCore Mgt. Concept \nFinance Management\nMarketing Management\nMgt. Science Methods 1st Year 2nd Year 3rd Year",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Maths"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits (A~B) in UEC (incl. Maths).  SPM-level or equivalent:\n3 Credits in SPM (incl. English)\nNote: UEC & SPM Subjects must be different or \"non-overlapping\" and are acceptable to the University of London."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Maths"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Maths"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Maths"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Maths"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Maths"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\n4 Credits in SPM (incl. English & Maths)"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Science (Hons) in Computer Science (3+0), University of London, UK",
+      "field_of_study": "Computer Science",
+      "location": "Crescendo, Ulu Tiram",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass A Level with 2 D's.  Pass SPM with 5 Credits (incl B in Maths, C in English, C in one science subject + 2 other credits)",
+        "UEC": "5 Credits (A~B) in UEC (incl. Additional Maths).  3 Credits in SPM (incl. B in Maths, C in English + 1 other credit). \n\nNote: UEC & SPM Subjects must be different or \"non-overlapping\" and are acceptable to the University of London.",
+        "Diploma": "MQA Accredited Diploma in Computer Science or equivalent with CGPA of 2.5.  3 Credits in SPM (incl. B in Maths)",
+        "STPM": "Pass STPM with 2 C's.  Pass SPM with 5 Credits (incl B in Maths, C in English, C in one science subject + 2 other credits)",
+        "Foundation": "MQA Accredited Foundation with CGPA of 2.5.  5 Credits in SPM (incl. B in Maths, C in one science subject + 3 other credits"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": null,
+        "tuition_fee": 39000
+      },
+      "course_content": {
+        "core": "1st Year Semester 1 Introduction to Programming I Fundamentals of Computer Science Computational Mathematics How Computers Work Semester 2 Introduction to Programming II Discrete Mathematics Algorithms and Data Structures I Web Development  2nd Year Semester 1 Object-Oriented Programming Software Design and Development Programming with Data Agile Software Projects Communication Skills/Bahasa Kebangsaan Semester 2 Computer Security Graphics Programming Algorithms and Data Structures II Databases, Networks and the Web Malaysian Economy  3rd Year Semester 1 (Choose 3 from the following) Data Science Advance Web Development Physical Computing and the Internet of Things Mobile Development 3D Graphics and Animation Hubungan Etnik Tamadun Islam & Tamadun Asia Self Development Semester 2 (Choose 3 from the following) Games Development Natural Language Processing Machine Learning and Neural Networks Artificial Intelligence Final Project  4th Year Semester 1 Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "other credits",
+              "other credits"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass A Level with 2 D's.  Pass SPM with 5 Credits (incl B in Maths, C in English, C in one science subject + 2 other credits)"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Maths"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "other credit"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits (A~B) in UEC (incl. Additional Maths).  3 Credits in SPM (incl. B in Maths, C in English + 1 other credit). \n\nNote: UEC & SPM Subjects must be different or \"non-overlapping\" and are acceptable to the University of London."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "MQA Accredited Diploma in Computer Science or equivalent with CGPA of 2.5.  3 Credits in SPM (incl. B in Maths)"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "other credits",
+              "other credits"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 2 C's.  Pass SPM with 5 Credits (incl B in Maths, C in English, C in one science subject + 2 other credits)"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "other credits",
+              "other credits",
+              "other credits"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "MQA Accredited Foundation with CGPA of 2.5.  5 Credits in SPM (incl. B in Maths, C in one science subject + 3 other credits"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Laws (LLB) (Hons) (3+0), University of London, UK",
+      "field_of_study": "Law (LL.B.)",
+      "location": "Crescendo, Ulu Tiram",
+      "intakes": [
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  CLP Requirements apply :\nUK Law Degree - 5 credits in SPM/O-Level including English obtained in one examination\nAustralia/NZ Law Degree - 5 credits in SPM/O-Level equivalent (Year 10) obtained in one examination",
+        "UEC": "5 Credits (A~B) in UEC.  CLP Requirements\nUK Law Degree - 5 credits in SPM/O-Level including English obtained in one examination\nAustralia/NZ Law Degree - 5 credits in SPM/O-Level equivalent (Year 10) obtained in one examination\nNote: UEC & SPM Subjects must be different or \"non-overlapping\" and are acceptable to the University of London.",
+        "STPM": "2 Principal Passes.  CLP Requirements apply :\nUK Law Degree - 5 credits in SPM/O-Level including English obtained in one examination\nAustralia/NZ Law Degree - 5 credits in SPM/O-Level equivalent (Year 10) obtained in one examination",
+        "SACE/WACE": "Please contact our counsellors for further details.  CLP Requirements apply :\nUK Law Degree - 5 credits in SPM/O-Level including English obtained in one examination\nAustralia/NZ Law Degree - 5 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
+      },
+      "english_requirements": {
+        "MUET": "Band 4 (not required if the student is taught in English)",
+        "IELTS": "6.0 (not required if the student is taught in English)"
+      },
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 5400,
+        "tuition_fee": 39000
+      },
+      "course_content": {
+        "core": "1st Year\nLegal System & Method\nPublic Law \nCriminal Law \nContract Law\n\n2nd Year\nTort Law\nEquity & Trust\nFamily Law\nCommercial Law \n\n3rd Year\nJurisprudence & Legal Theory\nCompany Law\nEquity and Trusts\nEvidence 1st Year 2nd Year 3rd Year",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  CLP Requirements apply :\nUK Law Degree - 5 credits in SPM/O-Level including English obtained in one examination\nAustralia/NZ Law Degree - 5 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits (A~B) in UEC.  CLP Requirements\nUK Law Degree - 5 credits in SPM/O-Level including English obtained in one examination\nAustralia/NZ Law Degree - 5 credits in SPM/O-Level equivalent (Year 10) obtained in one examination\nNote: UEC & SPM Subjects must be different or \"non-overlapping\" and are acceptable to the University of London."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  CLP Requirements apply :\nUK Law Degree - 5 credits in SPM/O-Level including English obtained in one examination\nAustralia/NZ Law Degree - 5 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  CLP Requirements apply :\nUK Law Degree - 5 credits in SPM/O-Level including English obtained in one examination\nAustralia/NZ Law Degree - 5 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business",
+      "field_of_study": "Business and Management",
+      "location": "Crescendo, Ulu Tiram",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 credits (incl. Maths & a pass in English).",
+        "O-Level": "3 credits (incl. Maths & a pass in English).",
+        "UEC": "3B's (incl. Maths & a pass in English)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 600,
+        "resource_fee": null,
+        "tuition_fee": 27550
+      },
+      "course_content": {
+        "core": "Subjects Academic English Financial Accounting 1 3Principles of IT 4Mathematics 1 Pengajian Malaysia Intro. to Business Statistics 1 Intensive English Grammar Principles of Management Microeconomics Consumer Behaviour Financial Accounting 2 Mathematics 2 Principles of Banking Communication Skills Self-Development Malaysian Economy Business & Company Law HR Management Principles of Finance E-Business Principles of Marketing Organisational Behaviour Statistics 2 Business Communication International Business Cost & Management Accounting Entrepreneurship Development Business Ethics Macroeconomics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (incl. Maths & a pass in English)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 credits (incl. Maths & a pass in English)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3B's (incl. Maths & a pass in English)."
+          }
+        ]
+      }
+    }
+  ]
+}

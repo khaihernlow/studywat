@@ -4,6 +4,9 @@
   "institution_type": "Public",
   "world_rank": 1229,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://jmeducationgroup.com/wp-content/uploads/2021/11/Picture-1.png"
+  ],
   "programs": [
     {
       "program_name": "BA Accounting & Finance",
@@ -118,11 +121,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BA Visual Effects",
-      "field_of_study": "Animation",
+      "field_of_study": "Communication and Media Studies",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Oct"
@@ -233,11 +237,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom"
           }
         ]
-      }
+      },
+      "course": "Animation"
     },
     {
       "program_name": "BA Business Management (including pathways)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Oct"
@@ -348,11 +353,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management [MCKL Diploma Pathway]",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -382,11 +388,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management (Finance) [MCKL Diploma Pathway]",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -416,11 +423,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Cyber Security and Digital Forensics",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Oct"
@@ -531,11 +539,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Science [MCKL Diploma Pathway]",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -565,11 +574,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BA Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -670,11 +680,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BSc (Hons) Information Technology and Business Information System [MCKL Diploma Pathway]",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -704,11 +715,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "BSc Information Technology and Business Information System (top-up)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Oct"
@@ -749,11 +761,12 @@
             "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc (Hons) Business Computing and Data Analytics [MCKL Diploma Pathway]",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -783,11 +796,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc (Hons) Information Technology [MCKL Diploma Pathway]",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -817,11 +831,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BA Interior Architecture",
-      "field_of_study": "Interior Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -917,11 +932,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
           }
         ]
-      }
+      },
+      "course": "Interior Architecture"
     },
     {
       "program_name": "BA (Hons) International Business [MCKL Diploma Pathway]",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -951,11 +967,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) International Business Administration [MCKL Diploma Pathway]",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -985,11 +1002,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) Business Management (Marketing) [MCKL Diploma Pathway]",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -1019,11 +1037,12 @@
             "value": 2.5
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BA (Hons) Advertising, Public Relations and Branding [MCKL Diploma Pathway]",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -1057,11 +1076,12 @@
             "text": "Completed the MCKL Diploma with the required minimum CGPA of 2.50."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BA Advertising, Public Relations and Branding",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -1172,11 +1192,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BSc Occupational Safety and Health Management (Top-Up)",
-      "field_of_study": "Occupational Safety & Health",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -1222,11 +1243,12 @@
             "text": "but and with 3 years relevant working experience are also accepted.."
           }
         ]
-      }
+      },
+      "course": "Occupational Safety & Health"
     },
     {
       "program_name": "BA Theatre Performance & Production",
-      "field_of_study": "Performing Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Oct"
@@ -1337,11 +1359,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit showreel"
           }
         ]
-      }
+      },
+      "course": "Performing Arts"
     },
     {
       "program_name": "BSc Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -1447,11 +1470,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Sports and Exercise Science",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Oct"
@@ -1671,11 +1695,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English"
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     },
     {
       "program_name": "MSc Cybercrime and Digital Investigation",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Sep"
@@ -1716,11 +1741,12 @@
             "text": "Minimum CGPA 2.20 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "MSc Data Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Oct"
@@ -1761,11 +1787,12 @@
             "text": "Minimum CGPA 2.20 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "MSc Digital Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Middlesex, The Burroughs",
       "intakes": [
         "Oct"
@@ -1806,7 +1833,8 @@
             "text": "Minimum CGPA 2.20 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     }
   ]
 }

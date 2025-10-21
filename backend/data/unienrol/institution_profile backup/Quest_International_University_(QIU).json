@@ -1,0 +1,5187 @@
+{
+  "institution_name": "Quest International University (QIU)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 7311,
+  "malaysia_rank": 51,
+  "programs": [
+    {
+      "program_name": "Association of Chartered Certified Accountants (ACCA)",
+      "field_of_study": "Accounting",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "A pass in A-Level with a minimum of full passes in two subjects.  SPM-level or equivalent:\n3 credits including English, Mathematics",
+        "UEC": "5 subjects with grade B (including English and Maths).",
+        "Diploma": "A Diploma in Accounting (level 4 MQF) or related field, or its equivalent with a minimum CGPA of 2.50.",
+        "STPM": "A pass in Sijil Tinggi Persekolahan Malaysia (SPTM) with a minimum grade C+ (GP2.33) in any two subjects.  SPM-level or equivalent:\n3 credits including English, Mathematics",
+        "Foundation": "Foundation qualification with a minimum CGPA of 2.50.  SPM-level or equivalent: 3 credits including Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 3350,
+        "tuition_fee": 22950
+      },
+      "course_content": {
+        "core": "Applied Knowledge Papers Accountant In Business (AB) Management Accounting (MA) Financial Accounting (FA) Applied Skills Papers Corporate and Business Law (LW) Performance Management (PM) Taxation (TX) Financial Reporting (FR) Audit and Assurance (AA) Financial Management (FM) ETHICS AND PROFESSIONAL SKILLS MODULE Strategic Professional (Essentials) Strategic Business Leader (SBL) Strategic Business Reporting (SBR) Strategic Professional (Options) *Choose Two Advanced Financial Management (AFM) Advanced Performance Management (APM) Advanced Taxation (ATX) Advanced Audit and Assurance (AAA)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "professional",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "A pass in A-Level with a minimum of full passes in two subjects.  SPM-level or equivalent:\n3 credits including English, Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 subjects with grade B (including English and Maths)."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "A Diploma in Accounting (level 4 MQF) or related field, or its equivalent with a minimum CGPA of 2.50."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "A pass in Sijil Tinggi Persekolahan Malaysia (SPTM) with a minimum grade C+ (GP2.33) in any two subjects.  SPM-level or equivalent:\n3 credits including English, Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Foundation qualification with a minimum CGPA of 2.50.  SPM-level or equivalent: 3 credits including Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Accountancy (Hons)",
+      "field_of_study": "Accounting",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum of Grade D.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "UEC": "A minimum of grade B in five (5) subjects including Mathematics and pass in English.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "STPM": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS": "5.5",
+        "TOEFL": "PBT 550"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 7700,
+        "tuition_fee": 50000
+      },
+      "course_content": {
+        "core": "University Courses English for Academic Purposes Devices, Networks and Applications Disciplined Entrepreneurship Design Thinking Co-curricular Activities Core Courses Business Mathematics Introduction to Financial Accounting Principles of Economics Principles of Management Computer Applications Principles of Macroeconomics Business Statistics Business Communication Principles of Marketing Organizational Behaviour Business Research Method Strategic Management Major Courses Management Accounting 1 Financial Accounting & Reporting 1 Business Law Audit & Assurance 1 Financial Accounting & Reporting 2 Taxation 1 Financial Management Management Accounting 2 Accounting Information System 1 Financial Accounting & Reporting 3 Audit & Assurance 2 Taxation 2 Accounting Theory & Practice Public Sector Accounting Management Accounting 3 Business Ethics & Corporate Governance Company Law Strategic Financial Management Accounting Information System 2 Financial Accounting & Reporting 4 International Business & Globalization Integrated Case Study Project Paper Practical",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum of Grade D.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A minimum of grade B in five (5) subjects including Mathematics and pass in English.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) Actuarial Sciences",
+      "field_of_study": "Actuarial Science",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with grade D including Mathematics.",
+        "UEC": "Grade B in 5 Subjects including Mathematics.",
+        "Diploma": "Pass Diploma with a minimum CGPA of 2.5. Candidates in related field of study with CGPA below 2.5 but above 2.0 may be admitted subject to rigorous internal assessment process.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 49200
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curriculum University Courses Core Courses Year 1\nCalculus and Linear Algebra\nPrinciples of Programming\nFinancial Mathematics\nStatistics and Probability\nMicroeconomics\nMacroeconomics\nDiscrete Mathematics with Applications\nRisk Management and Insurance Planning\nFoundation in Financial Planning\nIntroduction to Financial Accounting\nCorporate Finance\nFinancial Accounting and Reporting Year 1 Year 2 Theory of Probability\nActuarial Mathematics\nRisk Modelling\nRegression Analysis\nRisk Analysis\nOperations Research\nSurvival Models\nLife Contingencies I\nPortfolio Management and Applications\nActuarial Modelling I\nAdvanced Calculus and Differential Equation\nInvestment Planning and Analysis Year 3 Industrial Training\nProject I\nProject II\nActuarial Modelling II\nStochastic Methods for Actuarial Science\nLife Contingencies II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with grade D including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Diploma with a minimum CGPA of 2.5. Candidates in related field of study with CGPA below 2.5 but above 2.0 may be admitted subject to rigorous internal assessment process.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Biomedical Sciences (Hons)",
+      "field_of_study": "Biomedical Sciences",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum Grade D in TWO of the following subjects: Biology, Physics/Mathematics, Chemistry.",
+        "UEC": "5 Grade B with minimum B5 in 2 of the following subjects: Biology, Chemistry, Physics/Mathematics.",
+        "Diploma": "Minimum CGPA 2.75 (Diploma in a related field) OR Candidates with CGPA 2.75 and below with min. 3 years working experience in the related field..",
+        "STPM": "Pass with minimum GPA 2.33 in 2 of the following subjects: Biology, Chemistry, Physics/Mathematics.",
+        "Foundation": "Minimum CGPA 2.50 with minimum GPA 2.33 in 2 of the following subjects: Biology, Physics/Mathematics, Chemistry."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.5",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 9700,
+        "tuition_fee": 52000
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curriculum Activities University Courses Core Courses Year 1 Biochemistry\nHuman Anatomy\nHuman Physiology\nHuman Genetics\nEpidemiology\nBiostatistics\nBasic Microbiology and Parasitology\nImmunology and Immunotechniques Year 2 Bioinformatics\nPharmacology\nClinical Microbiology\nGeneral Pathology\nLaboratory Techniques and Instrumentation\nMolecular Biology\nBasic Haematology & Transfusion Medicine\nResearch Methodology & Data Analysis\nScientific Writing\nIntroduction to Forensic Science\nIntroduction to Health Informatics Year 3 Systemic Pathology and Histopathology\nClinical Biochemistry\nToxicology\nBiomedical Ethics, Safety & Regulation\nMedical Entomology\nIntroduction to Biomedical Technology\nExperimental model organisms and cell culture\nResearch proposal Elective courses: (select 12 credits from the list) (BMS) Systemic Pharmacology\n(BMS) Food Science\n(BBA) Principle of Management\n(BBA) Principle of Marketing\n(BBA) Human Resource Management\n(BPY) Principle of Psychology\n(BPY) Health Psychology\n(BBT) Fermentation Technology\n(BBT) Protein and Enzyme technology Year 4 Research project Phase II\nIndustrial Training (Hospital Training and Internship)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade D in TWO of the following subjects: Biology, Physics/Mathematics, Chemistry."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "5 Grade B with minimum B5 in 2 of the following subjects: Biology, Chemistry, Physics/Mathematics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.75 (Diploma in a related field) OR Candidates with CGPA 2.75 and below with min. 3 years working experience in the related field.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "gpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum GPA 2.33 in 2 of the following subjects: Biology, Chemistry, Physics/Mathematics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "gpa",
+            "comparator": ">=",
+            "value": 2.33
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 with minimum GPA 2.33 in 2 of the following subjects: Biology, Physics/Mathematics, Chemistry."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science (Hons) in Biotechnology",
+      "field_of_study": "Biotechnology",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent: 3 credits in\n Mathematics\n1 science subject\n1 any other subject",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent: 3 credits in\n Mathematics\n1 science subject\n1 any other subject",
+        "STPM": "Minimum Grade C (GPA 2.0) in any two (2) subjects, or its equivalent.  SPM-level or equivalent: 3 credits in\n Mathematics\n1 science subject\n1 any other subject",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent: 3 credits in\n Mathematics\n1 science subject\n1 any other subject"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS (International Student)": "5"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 8750,
+        "tuition_fee": 50400
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curriculum Activities University Courses Core Courses    \nChemistry for Biotechnology\nBiostatistics\nBiology of Organisms\nMicrobiology\nGenetics and Inheritance\nCell and Molecular Biology\nImmunology and Immunotechniques\nPrinciples of Management\nPrinciples of Marketing\nIntroduction to Corporate Communication\nBioinformatics\nPlant in vitro Culture and Development\nOmics\nBiochemistry & Metabolism\nFermentation Technology\nEnzyme and Protein Technology\nGenetic Engineering\nMethods and Skills in Research\nPlant and Animal Breeding\nBioethics, Biosafety and Bioregulation\nExperimental Model Organisms and Cell Culture\nBio Instrumentation & Analytical Techniques\nAdvances in Biomanufacturing\nScience Communication\nResearch Project\nIndustrial Training Core Courses Major Elective Packages Choose one (1) package Advanced Biotechnology Nano Biotechnology\nAdvanced Molecular Biology\nFood Science & Nutrition\nPlant Physiology & Biotechnology Enviromental Biotechnology Introduction to Environmental Science\nSustainable Development & Beyond\nClimate change: Impact, Adaptation & Mitigation\nOccupational Safety, Health & Environment Biomedical Science Human Anatomy\nHuman Physiology\nBasic Haematology & Transfusion medicine\nClinical Biochemistry Information Technology Introduction to Information Technology\nFundamentals of programming\nMultimedia Technology & Development\nIntroduction to Database",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "any other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent: 3 credits in\n Mathematics\n1 science subject\n1 any other subject"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "any other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent: 3 credits in\n Mathematics\n1 science subject\n1 any other subject"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "any other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade C (GPA 2.0) in any two (2) subjects, or its equivalent.  SPM-level or equivalent: 3 credits in\n Mathematics\n1 science subject\n1 any other subject"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "any other subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent: 3 credits in\n Mathematics\n1 science subject\n1 any other subject"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor Of Business Administration (Hons)",
+      "field_of_study": "Business and Management",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects including Mathematics and English Language.",
+        "Diploma": "Pass with minimum CGPA 2.00.",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Pass with minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "IELTS (International Students)": "5",
+        "TOEFL (International Students)": "TOEFL PBT 410 / IBT 34"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "University Courses English for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curriculum Compulsory Courses Principles of Management\nPrinciples of Marketing\nConsumer Behaviour\nMicroeconomics\nMacroeconomics\nBusiness Mathematics\nBusiness Statistics\nIntroduction to Financial Accounting\nManagerial Accounting\nBusiness Ethics & Corporate Governance\nOrganisational Behaviour\nHuman Resource Management\nIndustrial Training\nE-commerce\nManaging Digital Business\nBusiness Law\nIntroduction to Finance Specialisation Courses Management Strategic Management Change Management International Business Total Quality Management Operations Management Research Methods Business Analysis & Decision Making Human Resource Management Human Resource Planning Occupational Safety and Health Training and Development Industrial Relations Compensation & Performance Management Research Methods Business Analysis & Decision Making Marketing Management Strategic Marketing Marketing Communications Product & Brand Management Marketing of Services Digital Marketing Research Method Business Analysis & Decision Making",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Corporate Communication (Hons)",
+      "field_of_study": "Communication",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "IELTS (International Students)": "5",
+        "TOEFL (International Students)": "500"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curriculum Activities University Courses Core Courses    \nIntroduction to Corporate Communication\nMass Media and Society\nCommunication Theory\nScripting for Media\nElective 1: Sociology / Introduction to Journalism\nPersuasive and Strategic Communication\nMarketing Communication\nRhetoric, Articulation and Persuasion\nMedia & Consumer Analytics\nElective 2: Social Psychology / Digital Photography & Videography\nPersonal Image Management\nCorporate Writing\nMedia Law and Ethics\nVisual Communication\nEvent Management\nCommunication Research\nIntroduction to Brand Management\nMedia Psychology\nCrisis Management\nMedia Relations and Publicity Strategies\nGlobalisation and Communication\nResearch Project I\nCorporate Social Responsibility\nManagerial Communication\nInnovative Media\nResearch Project II\nPR Issues and Campaigns\nCorporate Identity Management\nIndustry Training Core Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons) (BCS)",
+      "field_of_study": "Computer Science",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "CPU": "Average of 55% in 6 subjects.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curriculum University Courses Core Courses    \nPrinciples of Programming\nComputer Organization\nDiscrete Mathematics\nSystems Analysis and Design\nCalculus and Linear Algebra\nObject Oriented Programming\nHuman Computer Interaction\nDatabase Systems\nStatistics and Probability\nSoftware Engineering\nWeb Technologies\nData Structure and Algorithms\nIntroduction to Artificial Intelligence\nOperating Systems\nComputer Networks\nProject\nIndustrial Training\nComputer Graphics\nSoftware Project Management\nMobile Computing\nComputer Security Core Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">",
+            "value": 2.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Average of 55% in 6 subjects.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons) 2+2",
+      "field_of_study": "Computer Science",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Two passes in any subjects.  Credit at SPM level or equivalent in Additional Mathematics; or Mathematics and one subject in Science, Technology or Engineering",
+        "UEC": "Pass with minimum Grade B in five subjects including Mathematics and one subject in Science or ICT.  Credit at SPM level or equivalent in Additional Mathematics; or Mathematics and one subject in Science, Technology or Engineering",
+        "Diploma": "Pass with a minimum CGPA of 2.50* in the fields of Computing, Science or Technology..  A candidate with a CGPA between 2.0 and 2.5 may be accepted via a rigorous assessment conducted by the University.",
+        "STPM": "Pass with minimum Grade C (GP 2.00) in any two subjects.  Credit at SPM level or equivalent in Additional Mathematics; or Mathematics and one subject in Science, Technology or Engineering",
+        "Foundation": "Pass with a minimum CGPA of 2.00.  Credit at SPM level or equivalent in Additional Mathematics; or Mathematics and one subject in Science, Technology or Engineering"
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "410 in TOEFL PBT, 34 in TOEEFL IBT",
+        "Others": "A minimum of level 3 in HSK or other equivalent Chinese Proficiency Tests."
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 4000,
+        "tuition_fee": 26400
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curriculum University Courses Core Courses    \nPrinciples of Programming\nComputer Organization\nDiscrete Mathematics\nSystems Analysis and Design\nCalculus and Linear Algebra\nObject Oriented Programming\nHuman Computer Interaction\nDatabase Systems\nStatistics and Probability\nSoftware Engineering\nWeb Technologies\nData Structure and Algorithms\nIntroduction to Artificial Intelligence\nOperating Systems\nComputer Networks\nProject\nIndustrial Training\nComputer Graphics\nSoftware Project Management\nMobile Computing\nComputer Security Core Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Two passes in any subjects.  Credit at SPM level or equivalent in Additional Mathematics; or Mathematics and one subject in Science, Technology or Engineering"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "ICT"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum Grade B in five subjects including Mathematics and one subject in Science or ICT.  Credit at SPM level or equivalent in Additional Mathematics; or Mathematics and one subject in Science, Technology or Engineering"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum CGPA of 2.50* in the fields of Computing, Science or Technology..  A candidate with a CGPA between 2.0 and 2.5 may be accepted via a rigorous assessment conducted by the University."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum Grade C (GP 2.00) in any two subjects.  Credit at SPM level or equivalent in Additional Mathematics; or Mathematics and one subject in Science, Technology or Engineering"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Technology"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Engineering"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum CGPA of 2.00.  Credit at SPM level or equivalent in Additional Mathematics; or Mathematics and one subject in Science, Technology or Engineering"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Culinary Arts (Hons)",
+      "field_of_study": "Culinary Arts",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 51000
+      },
+      "course_content": {
+        "core": "University Compulsory English for Academic Purposes Devices, Networks and Application Disciplined Entrepreneurship Design Thinking Co-curricular Activities Common Core Introduction to Financial Accounting Principles of Management Principles of Marketing Programme Core Food Hygiene and Sanitation Introduction to Hospitality Management Introduction to Culinary Management Patisserie and Baking 1 and 2 Theory of Food Functional Food Butchery Introduction to Food Sciences and Nutrition Principles of Marketing Culinary Practice 1 and 2 Menu Creation and Development Purchasing and Cost Control Food and Beverage Services Principles of Halal Food Management Malaysian Cuisine Asian Cuisine Food and Society Food and Eating Behaviour Food Writing Western Cuisine Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Early Childhood Education (Hons)",
+      "field_of_study": "Early Childhood Education",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "University Courses     \nEnglish for Academic Purposes\nDisciplined Entrepreneurship\nSustainable Development in Malaysia\nDevices, Networks and Applications\nDesign Thinking\nCo-curricular activities University Courses Compulsory Courses    \nIntroduction to Early Childhood Education\nEducational Psychology\nArts, Craft and Creativity in Early Childhood Education.\nSocial-emotional Development\nChild Psychology\nPlay in Early Childhood Education\nHealth, Safety and Nutrition for Early Childhood\nSocial Studies in Early Childhood Education\nMathematics and Science for Young Children\nGuiding Young Children\nSociology of Education\nSpiritual and Moral Growth in Early Childhood Education\nPedagogy in Early Childhood Education\nEnglish Language for Early Childhood\nMusic and Drama in ECE\nSpiritual and Moral Growth in ECE\nBehaviour Management of Young Children\nProgramme Planning and Developments\nQuality Physical Environments\nPracticum\nChild Social-emotional Development”\nMusic and Drama in Early Childhood Education\nInstructional Technology in Early Childhood\nBahasa Melayu dalam Pendidikan Awal Kanak-Kanak\nComparative Education\nCurriculum Development in Early Childhood Education\nPedagogy in Early Childhood Education\nLanguage and Literacy in Early Childhood\nFamily and Community Involvement in Early Childhood Education\nSpecial Needs Children in Early Childhood Education\nManagement and Administration in Early Childhood Education\nAssessment and Evaluation in Early Childhood Education.\nProfessionalism in Early Childhood Educator\nEducational Research\nPracticum (Nursery)\nPracticum (Kindergarten)\nResearch Project Compulsory Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Electronics Technology with Honors",
+      "field_of_study": "Electronic Engineering",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass A-Level with a minimum of full passes in any two (2) subjects.",
+        "UEC": "Pass UEC with at least Grade B in FIVE (5) subjects .",
+        "Diploma": "Pass Diploma in related disciplines with CGPA 2.00 .",
+        "STPM": "Pass STPM or its equivalent with at least Grade C (CGPA 2.00) in TWO (2) subjects.",
+        "Foundation": "Pass Foundation in any IPTA / IPTS /permitted institutions to conduct foundation programmes with CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 7300,
+        "tuition_fee": 49200
+      },
+      "course_content": {
+        "core": "University Courses Digital Skills & Services Creativity & Innovation Entrepreneurship General Interest Course Core Courses Calculus and Linear Algebra Vector Calculus & Differential Equations Numerical Analysis and probability Computer Programming Object Oriented Programming Circuit Theory Electronic Devices and Circuits Electronic Circuit Analysis Electronic Measurement and Instrumentation Sensors Signal & Systems Control Systems Machine Vision Digital Logic Design Integrated Circuit Applications VLSI Technology Microprocessor Architecture & Programming Introduction to Internet of Things (IoT) Power Electronics and Drives Engineering Management & Maintenance Technopreneurship Final Year Project 1 Final Year Project 2 Capstone Project Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Pass A-Level with a minimum of full passes in any two (2) subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with at least Grade B in FIVE (5) subjects ."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Diploma in related disciplines with CGPA 2.00 ."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM or its equivalent with at least Grade C (CGPA 2.00) in TWO (2) subjects."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation in any IPTA / IPTS /permitted institutions to conduct foundation programmes with CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor Of Arts (Hons) Teaching Of English As A Second Language",
+      "field_of_study": "English (Teaching)",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects and pass in English Language subject.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00 and a credit in English at SPM or its equivalent."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "6.0",
+        "TOEFL": "PBT 500 points or iBT 61 points"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 7000,
+        "tuition_fee": 38000
+      },
+      "course_content": {
+        "core": "University Courses     \nEnglish for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curriculum University Courses Core Courses    \nPrinciples of Language Learning and Teaching\nIntroduction to English Literature\nEnglish Grammar\nEnglish Phonetics and Phonology\nSecond Language Acquisition\nConcepts and Theories in ELT\nInformation Technology in Education\nIntroduction to Sociolinguistics\nDiscourse Analysis\nIntroduction to Linguistics\nEducational Psychology\nTESL Methodology\nEnglish Syntax and Morphology\nESL Testing and Evaluation\nTeaching of English Grammar in ESL Classrooms\nCulture and Communication\nEnglish Literature\nTeaching English for Specific Purposes\nTeaching of Listening and Speaking Skills\nTeaching of Writing Skills\nEducational Research Methodology\nEducational Management\nTeaching of Literature in ESL Classrooms\nMaterials Selection and Adaptation\nSeminar in ESL\nComparative Literature\nTeaching of Reading Skills\nMicro Teaching\nResearch Paper\nPracticum Core Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Environmental Technology (Hons)",
+      "field_of_study": "Environmental Sciences",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass A-Level with passes in 2 subjects including Sciences.",
+        "UEC": "A minimum of Grade B in 5 subjects including Mathematics and Science.",
+        "Diploma": "Pass Diploma (Level 4, MQF) in related field of study with minimum CGPA of 2.0 or Pass Diploma (Level 4, MQF) in any other field with a minimum CGPA of 2.5 and with a credit in Mathematics and Science at Sijil Pelajaran Malaysia (SPM) (or equivalent) level.",
+        "STPM": "2 full passes in 2 subjects.  SPM-level or equivalent:\ncredit in Mathematics, Science",
+        "Foundation": "Pass Foundation in Science / Matriculation / Asasi with a minimum CGPA pass of 2.0."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 7300,
+        "tuition_fee": 49200
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curriculum University Courses Fundamental Science Courses    \nPrinciples of Environmental Physics\nGeneral Chemistry\nMathematics\nIntroductory Biology\nEnvironmental Chemistry\nBiostatistics Fundamental Science Courses Core Courses    \nIntroduction to Environmental Technology\nIntroduction to Environmental Science\nPhysico-chemical and Biological Treatment Processes\nEnvironmental Ethics\nEnvironmental Management System\nSoil Science and Land Resources Management\nEnvironmental Toxicology\nAir Pollution and Control Technologies\nEnvironmental Impact Assessment – Theory and Practice\nSustainable Development and Beyond\nEnvironmental Microbiology\nMalaysia Environmental Law and Regulation\nWater Pollution and Treatment Technologies\nResearch Methodology and Data Analysis\nGeographic Information Systems\nNoise and Vibration Control Technology\nEnvironmental Monitoring and Analysis\nSolid and Hazardous Waste Treatment Technology\nEnvironmental Research Project I & II\nIndustrial Training Core Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Pass A-Level with passes in 2 subjects including Sciences."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A minimum of Grade B in 5 subjects including Mathematics and Science."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Diploma (Level 4, MQF) in related field of study with minimum CGPA of 2.0 or Pass Diploma (Level 4, MQF) in any other field with a minimum CGPA of 2.5 and with a credit in Mathematics and Science at Sijil Pelajaran Malaysia (SPM) (or equivalent) level."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 full passes in 2 subjects.  SPM-level or equivalent:\ncredit in Mathematics, Science"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass Foundation in Science / Matriculation / Asasi with a minimum CGPA pass of 2.0."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Finance (Hons)",
+      "field_of_study": "Finance",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes with minimum of Grade D.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "UEC": "Grade B in 5 Subjects including Mathematics and Pass in English Language.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "STPM": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "Foundation": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+      },
+      "english_requirements": {
+        "IELTS": "6",
+        "TOEFL": "60"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "University Compulsory English for Academic Purposes Devices, Networks and Application Disciplined Entrepreneurship Design Thinking Core Courses Business Mathematics Introduction to Financial Accounting Microeconomics Macroeconomics Principles of Management Financial Accounting & Reporting Business Statistics Conventional and Islamic Financial Markets and Institutions Financial Management Commercial Law Research Methods Corporate Finance Business Ethics and Corporate Governance Econometrics Portfolio Management and Applications International Finance Financial Statement Analysis Risk and Business Continuity Financial Futures and Options Research Project Industrial Training Major Courses\nBanking Major Courses Money and Banking Management Islamic Banking and Financial Institutions Financial and Monetary Systems Credit Analysis and Lending Commercial Bank Management Banking Operations and Treasury Management Legal Framework of Banking International Monetary Systems and Banking Islamic Finance Islamic Financial Planning Risk Management and Takaful Islamic Investment Zakat and Tax Islamic Economics Islamic Estate and Waqf Planning Islamic Financial Plan Applications and Professional Responsibilities Islamic Law for Business Transactions Financial Planning Foundations in Financial Planning Risk Management and Insurance Planning Investment Planning and Analysis Tax Planning and Analysis Personal Financial Planning Retirement Planning Financial Plan Construction and Professional Responsibilities Islamic Financial Planning",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes with minimum of Grade D.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics and Pass in English Language.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes with minimum of Grade C+.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor in Food Science with Management (Honours)",
+      "field_of_study": "Food Science",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum Grade D in any two (2) subjects including one (1) Science subject.",
+        "UEC": "Pass with at least grade B in five (5) subjects including one (1) science subject.",
+        "Diploma": "Pass Diploma (Level 4, MQF) in any other field of a minimum CGPA of 2.5 .  Credit in Science at Sijil Pelajaran Malaysia (SPM) (or equivalent) level",
+        "STPM": "Pass with a minimum of Grade C (GPA 2.00) in any two (2) subjects including one (1) Science subject.",
+        "Foundation": "Pass with a minimum of Grade C (GPA 2.00) in any two (2) subjects including one (1) Science subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 7300,
+        "tuition_fee": 49200
+      },
+      "course_content": {
+        "core": "University Courses Digital Skills & Services Creativity & Innovation Entrepreneurship General Interest Course  Major Courses Basic Chemistry Cell Biology Biostatistics Biochemistry & Metabolism Food Microbiology Food Chemistry Human Nutrition Food Analysis Food Preservation Methods and Skills in Research Food Processing and Packaging Sensory Evaluation Food Product Development Food Standards & Regulations Food Safety & Quality Management Principles of Halal Food Management Final Year Research Project Industrial Training Minor Courses Principles of Management Principles of Marketing Introduction to Financial Accounting Organisational Behaviour Entrepreneurship Total Quality Management Consumer Behaviour Business Ethics & Corporate Governance Managing Digital Business E-commerce",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade D in any two (2) subjects including one (1) Science subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least grade B in five (5) subjects including one (1) science subject."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science at Sijil Pelajaran Malaysia (SPM) (or equivalent) level"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass Diploma (Level 4, MQF) in any other field of a minimum CGPA of 2.5 .  Credit in Science at Sijil Pelajaran Malaysia (SPM) (or equivalent) level"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of Grade C (GPA 2.00) in any two (2) subjects including one (1) Science subject."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of Grade C (GPA 2.00) in any two (2) subjects including one (1) Science subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Hospitality Management (Hons)",
+      "field_of_study": "Hotel Management",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "University Compulsory    \nEnglish for Academic Purposes\nDevices, Networks and Application\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curricular Activities University Compulsory Common Core    \nIntroduction to Financial Accounting\nBusiness Mathematics\nResearch Methods\nE-Commerce Common Core Programme Core    \nIntroduction to Hospitality Management\nIntroduction to Tourism Business\nHotel Operations Management\nFood Hygiene and Sanitation\nFood Production\nRoom Division Management\nResort Management\nHospitality Procurement\nClub Management\nMenu Design and Engineering\nCustomer Service Management\nFood & Beverage Services Management\nLegal Aspects in Hospitality Industry\nTalent Management in Hospitality\nMeeting, Incentive, Convention and Exposition\nRestaurant Management\nHospitality and Tourism Marketing\nInternational Hospitality Management\nStrategic Management in Hospitality\nRevenue Management for Hospitality\nTravel Agency Management\nResearch Project\nIndustrial Training Programme Core",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Information Technology (Hons)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish for Academic Purposes\nDisciplined Entrepreneurship\nDevices, Networks & Applications\nCo-Curricular Activities\nDesign Thinking University Courses Compulsory Courses    \nIntroduction to IT\nIntroduction to C Programming\nComputer Organization\nDiscrete Mathematics\nInternet Computing\nMultimedia Technology and Development\nWeb Application\nIntroduction to Database\nSystem Analysis and Design\nObject-Oriented Programming (C++)\nComputer Networks\nJava Programming\nVisual Programming\nOperating Systems\nSoftware Engineering\nMobile Computing\nData Structure and Algorithm\nKnowledge Management\nStatistics & Probability\nSoftware Project Management\nHuman Computer Interaction\nE-Commerce\nBusiness Intelligence\nIncident Response & Disaster Recovery\nInformation Assurance and Security\nMini Project\nFinal Year Project Phase 1\nFinal Year Project Phase 2\nIndustrial Training Compulsory Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mass Communication (Hons) Journalism",
+      "field_of_study": "Journalism",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curriculum Activities University Courses Core Courses    \nIntroduction to Journalism\nMass Media in Society\nCommunication Theory\nScripting for Media\nElective 1: Creative and Critical Thinking / Marketing Communication\nRhetoric, Articulation and Persuasion\nMedia and Consumer Analytics\nElective 2: Social Psychology/ Sociology\nMedia Law and Ethics\nEvent Management\nIntro to Brand Management\nMedia Psychology\nCommunication Research\nIntroduction to Digital Videography\nReporting and Editing for Media\nSpecialised Journalism\nFeature Writing in the Digital Age\nCreative Writing for Media\nIntroduction to Digital Photography\nData Journalism\nInvestigative Journalism\nVisual Communication\nBroadcast and Digital Journalism\nPolitics and the Media\nPhotojournalism\nConvergence Journalism\nDigital Newspaper and E-Magazine Production\nResearch Project I\nGlobalisation and Communication\nResearch Project II\nIndustry Training Core Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B",
+            "subjects": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mass Communication (Advertising)",
+      "field_of_study": "Mass Communication",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "IELTS": "5",
+        "TOEFL": "500"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curriculum Activities University Courses Core Courses    \nCreative and Critical Thinking\nMass Media in Society\nCommunication Theory\nScripting for Media\nElective 1: Introduction to Corporate Communication / Introduction to Journalism\nSociology\nPersuasive and Strategic Communication\nMarketing Communication\nRhetoric, Articulation and Persuasion\nMedia and Consumer Analytics\nSocial Psychology\nDigital Photo & Videography\nMedia Law and Ethics\nCreative Writing for Media\nVisual Communication\nEvent Management\nCommunication Research\nIntroduction to Brand Management\nMedia Psychology\nAdvertising Principles\nGlobalisation and Communication\nResearch Project I\nStrategic Media Planning\nInnovative Media\nResearch Project II\nBrand Identity Design\nAdvertising Campaign\nIndustry Training Core Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Mechatronics Engineering with Honours",
+      "field_of_study": "Mechatronics Engineering",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Passes in Mathematics and Physics.",
+        "UEC": "Pass with minimum grade B in five (5) subjects, including Mathematics and Physics.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "3 Principal Passes in Mathematics and Physics.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "IELTS (International Students)": "5",
+        "TOEFL (International Students)": "TOEFL PBT 410 / IBT 34",
+        "MUET": "Band 2"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 9700,
+        "tuition_fee": 52000
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish For Academic Purposes\nDevices, Networks and Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curricular Activities University Courses Compulsory Courses    \nEngineering Mathematics 1\nEngineering Mathematics 2\nEngineering Mathematics 3\nComputer Programming\nObject Oriented Programming\nCircuit Theory\nElectronic Devices and Circuits\nDigital Logic Designing\nElectronic Measurements & Instrumentation\nElectronic Circuit Analysis\nMicroprocessor Architecture & Programming\nIntegrated Circuit Applications\nMachine Vision\nElectrical Machines\nPower Electronics and Drives\nEngineering Mechanics for Mechatronics Systems\nEngineering Metrology\nFundamentals of Thermodynamics\nStrength of Material\nMechanics of Machines\nQuality and Reliability Engineering\nEngineering Drawing and CAD\nDesign of Machine Elements\nDesign of Mechatronic Systems\nSensors and Actuators\nControl Systems\nPLC and Automation\nApplied Hydraulics and Pneumatics\nFluid Power System and Controls\nRobotic Engineering\nMicro Electro Mechanical System\nDigital Signal Processing\nEngineers in Society\nEngineering Economics and Project Management\nEntrepreneurship for Engineers\nIndustrial Training\nIntegrated Design Project\nResearch Project – Phase 1\nResearch Project – Phase 2 Compulsory Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Passes in Mathematics and Physics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum grade B in five (5) subjects, including Mathematics and Physics."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "3 Principal Passes in Mathematics and Physics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Medicine & Bachelor of Surgery (MBBS)",
+      "field_of_study": "Medicine",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 5,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum BBB, ABC or AAC in 3 subjects i.e. Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Biology, Chemistry, Physics, Mathematics/ Additional Mathematics and 1 other subject\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "UEC": "Grade B4 in Biology, Chemistry, Physics or Mathematics or Additional Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics / Additional Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "Diploma": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 2Bs including Biology, Chemistry or Physics\ncredit in Mathematics / Additional Mathematics, English and another subject\nin addition, credit in Bahasa Melayu required to practise Medicine in Malaysia",
+        "STPM": "Minimum BBB, ABC or AAC in 3 subjects i.e. Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Biology, Chemistry, Physics, Mathematics/ Additional Mathematics and 1 other subject\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia",
+        "Foundation": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "5",
+        "TOEFL": "TOFEL PBT : 410 , TOEFL IBT : 34"
+      },
+      "fees": {
+        "registration_fee": 800,
+        "resource_fee": 16720,
+        "tuition_fee": 330000
+      },
+      "course_content": {
+        "core": "Phase I (Years 1 & 2) Organ / System-Based Modular Approach with Problem-Based Learning Vertical and Horizontal Integration of basic science and clinical disciplines in a spiral manner Cadaveric Dissection for Gross Anatomy Early Clinical Exposure during Year 1 & 2 Clinical and Communication Skills Training Research Projects Phase II (Years 3 to 5) Discipline and Speciality - Based Clinical Postings in Hospitals Case based learning Research Projects Elective Postings",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "AAC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum BBB, ABC or AAC in 3 subjects i.e. Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Biology, Chemistry, Physics, Mathematics/ Additional Mathematics and 1 other subject\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B4 in Biology, Chemistry, Physics or Mathematics or Additional Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics / Additional Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics / Additional Mathematics",
+              "English",
+              "another subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Health Sciences with minimum CGPA 3.50 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 2Bs including Biology, Chemistry or Physics\ncredit in Mathematics / Additional Mathematics, English and another subject\nin addition, credit in Bahasa Melayu required to practise Medicine in Malaysia"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "AAC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum BBB, ABC or AAC in 3 subjects i.e. Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Biology, Chemistry, Physics, Mathematics/ Additional Mathematics and 1 other subject\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Melayu",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Pharmacy (Hons)",
+      "field_of_study": "Pharmacy",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Minimum Grade BBB, ABC or AAC in Biology, Chemistry (minimum Grade B) and Physics / Mathematics.  Malaysian applicants shall be required to attain minimum Grade C in the 2 subjects below at SPM level or its equivalent.\nBahasa Malaysia\nEnglish Language\nMUET Band 3 upon graduation",
+        "UEC": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  Malaysian applicants shall be required to attain minimum Grade C in the 2 subjects below at SPM level or its equivalent.\nBahasa Malaysia\nEnglish Language\nMUET Band 3 upon graduation",
+        "Diploma": "Diploma in Pharmacy with minimum CGPA 3.50 or Diploma in Science (Biology, Physics,, Chemistry) with minimum CGPA 3.75.  Malaysian applicants shall be required to attain minimum Grade C in the 2 subjects below at SPM level or its equivalent.\nBahasa Malaysia\nEnglish Language\nMUET Band 3 upon graduation",
+        "STPM": "CGPA 3.0 with Grades BBB, ABC or AAC in 3 subjects i.e. Biology, Chemistry (minimum Grade B) and Physics / Mathematics.  Malaysian applicants shall be required to attain minimum Grade C in the 2 subjects below at SPM level or its equivalent.\nBahasa Malaysia\nEnglish Language\nMUET Band 3 upon graduation",
+        "Foundation": "Pass with CGPA 3.00 with minimum Grade B in Chemistry.  Malaysian applicants shall be required to attain minimum Grade C in the 2 subjects below at SPM level or its equivalent.\nBahasa Malaysia\nEnglish Language\nMUET Band 3 upon graduation"
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "5.5",
+        "TOEFL": "550"
+      },
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 17500,
+        "tuition_fee": 120000
+      },
+      "course_content": {
+        "core": "Year 1 Medical Sciences\nAnatomy\nPhysiology\nBasic Computer Science and Statistics\nPharmaceutical Chemistry Medical Sciences Pharmaceutical Chemistry Pharmaceutical Organic Chemistry\nPharmaceutical Inorganic Chemistry\nPharmaceutics and Pharmaceutical Technology Pharmaceutics and Pharmaceutical Technology Physical Pharmacy\nPharmacology Pharmacology General Pharmacology\nClinical Pharmacy & Pharmacy Practice Clinical Pharmacy & Pharmacy Practice Introduction to Pharmacy Profession\nUniversity & General Study Subjects University & General Study Subjects English for Academic Purposes\nEthnic Relations\nDesign Thinking\nTamadun Islam dan Tamadun Asia Year 2 Basic Medical Sciences\nMicrobiology\nImmunology\nBiochemistry\nPathology\nPharmaceutical Chemistry Basic Medical Sciences Pharmaceutical Chemistry Medicinal Chemistry\nPharmaceutical Analysis\nPharmaceutics and Pharmaceutical Technology Pharmaceutics and Pharmaceutical Technology Liquid and Semisolid\nDosage Forms\nSolid Dosage Forms\nSterile Dosage Forms\nPharmacology Pharmacology Cardiovascular and Respiratory Pharmacology\nCentral Nervous System Pharmacology\nClinical Pharmacy & Pharmacy Practice Clinical Pharmacy & Pharmacy Practice Pharmacy Informatics\nUniversity & General Study Subjects University & General Study Subjects Media and Communication\nDisciplined Entrepreneurship\nCommunity Service\nDevices, Networks and Applications Year 3 Pharmaceutical Chemistry\nPharmacognosy\nPharmaceutics and Pharmaceutical Technology Pharmaceutical Chemistry Pharmaceutics and Pharmaceutical Technology Pharmaceutical Product Development\nPharmaceutical Quality Assurance\nPharmaceutical Management\nPharmaceutical Biotechnology\nExtemporaneous Preparations\nAdvanced Drug Delivery Systems\nPharmacology Pharmacology Antineoplastic and Antimicrobial Pharmacology\nEndocrine and Gastrointestinal Pharmacology\nClinical Pharmacy & Pharmacy Practice Clinical Pharmacy & Pharmacy Practice Clinical Pharmacokinetics\nCardiovascular System\nRenal System Renal System Respiratory System\nGastrointestinal System Gastrointestinal System Pharmacy Ethics and Legislation\nAttachments Attachments Industrial Pharmacy\nResearch Research Qualifying Examination Year 4 Pharmacology\nPharmaco-toxicology\nClinical Pharmacy & Pharmacy Practice Pharmacology Clinical Pharmacy & Pharmacy Practice Hospital Pharmacy\nCommunity Pharmacy\nPharmacoepidemiology\nPharmacoeconomics\nEndocrine System, Central Nervous System\nOncology, Parenteral Nutrition, Fluid Therapy\nInfection, Musculo-Skeletal System, Dermatology\nPaediatrics, Geriatrics, Eye, ENT\nElectives Electives Veterinary Pharmacy\nGeriatric Pharmacy\nIntroduction to Management\nIntroduction to Marketing\nHuman Resource\nManagement Entrepreneurship\nAttachments Attachments Community Pharmacy\nClinical Pharmacy\nHospital Pharmacy\nResearch Research Qualifying Examination",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade BBB, ABC or AAC in Biology, Chemistry (minimum Grade B) and Physics / Mathematics.  Malaysian applicants shall be required to attain minimum Grade C in the 2 subjects below at SPM level or its equivalent.\nBahasa Malaysia\nEnglish Language\nMUET Band 3 upon graduation"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Advanced Mathematics (I)",
+              "Advanced Mathematics (II)"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  Malaysian applicants shall be required to attain minimum Grade C in the 2 subjects below at SPM level or its equivalent.\nBahasa Malaysia\nEnglish Language\nMUET Band 3 upon graduation"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Pharmacy with minimum CGPA 3.50 or Diploma in Science (Biology, Physics,, Chemistry) with minimum CGPA 3.75.  Malaysian applicants shall be required to attain minimum Grade C in the 2 subjects below at SPM level or its equivalent.\nBahasa Malaysia\nEnglish Language\nMUET Band 3 upon graduation"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 3.0 with Grades BBB, ABC or AAC in 3 subjects i.e. Biology, Chemistry (minimum Grade B) and Physics / Mathematics.  Malaysian applicants shall be required to attain minimum Grade C in the 2 subjects below at SPM level or its equivalent.\nBahasa Malaysia\nEnglish Language\nMUET Band 3 upon graduation"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with CGPA 3.00 with minimum Grade B in Chemistry.  Malaysian applicants shall be required to attain minimum Grade C in the 2 subjects below at SPM level or its equivalent.\nBahasa Malaysia\nEnglish Language\nMUET Band 3 upon graduation"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor Of Psychology (Hons)",
+      "field_of_study": "Psychology",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "UEC": "Grade B in 5 Subjects including Mathematics, one science subject and a pass in English Language.",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+      },
+      "english_requirements": {
+        "IELTS (International Students)": "5",
+        "TOEFL (International Students)": "500"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "University Courses English for Academic Purpose Devices, Networks, and Applications Design Thinking Disciplined Entrepreneurship Co-curricular Activities Compulsory Courses Fundamentals of Psychology Introduction to Statistical Methods in Psychology Research Methods in Psychology Biological Basis of Behaviour History & Systems in Psychology Social Psychology Developmental Psychology Motivation & Emotions Memory, Thinking & Intelligence Psychology of Learning Psychological Test & Measurement Abnormal Psychology Personality Counselling Psychology Special Education and Learning Difficulties Ethics in Psychology Cross Cultural Psychology Research Project Health Psychology Introduction to Industrial and Organizational Psychology Elective 1 (Clinical/ Forensic/ Sports/ Media Psychology) Elective 2 (Clinical/ Forensic/ Sports/ Media Psychology) Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics, one science subject and a pass in English Language."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Special Needs Education (Hons)",
+      "field_of_study": "Special Needs Education",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Pass with a minimum grade B in five (5) subjects.",
+        "Diploma": "Minimum CGPA 2.00.",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5800,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "University Courses    \nEnglish for Academic Purposes\nDevices, Networks & Applications\nDisciplined Entrepreneurship\nDesign Thinking\nCo-curricular Activities University Courses Compulsory Courses    \nFoundation of Educational Theories\nEducational Psychology\nSociology of Education\nEducational Research\nSocial Skills & Moral Development\nGuidance and counselling\nComparative Education\nPrinciple of Special Needs Education\nTeaching Methods and Pedagogy in Special Needs Education\nIdentification & Intervention in Special\nNeeds Education\nSchool Based Assessment & Evaluation in Special Needs Education\nLearning Disabilities and Assistive Technologies\nMathematics in Special Needs Education\nLanguage, Literacy & Communication in Special Needs Education\nBehaviour Management for learners with Special Needs\nPlanning and Administering Special Needs Education Program\nCurriculum for Special Needs\nThe Effective Practitioner in Special Needs Education\nResearch project\nHealth, Nutrition and Safety in Special Needs Education\nIndividual Education Plans for learning Difficulties\nVisual Arts & Music in Special Needs Education\nCreative Movement & Physical Development\nTherapies for Special Needs\nLife Skills for Learners with Special Needs\nPracticum Compulsory Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Management",
+      "field_of_study": "Business and Management",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with credits in any three (3) subjects.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "IELTS (International Students)": "5"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5100,
+        "tuition_fee": 22500
+      },
+      "course_content": {
+        "core": "University Courses    \nPractical English\nAcademic English\nCo-Curriculum Activities University Courses Compulsory Courses    \nIntroduction to Accounting\nPrinciples of Management\nBusiness Mathematics\nMeeting, Incentive, Conventions and Exhibitions (MICE)\nComputer Applications\nMicroeconomics\nFundamentals of Marketing\nIntroduction to International Business\nBusiness Statistics\nMacroeconomics\nIntroduction to Finance\nBusiness Communication\nCost Accounting\nBusiness Law\nOrganisation Structure and Design\nHuman Resource Management\nE-Commerce\nOrganisational Behaviour\nOperations Management\nEntrepreneurship\nProject (I)\nProject (II)\nIndustrial Training (12 weeks) Compulsory Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Culinary Arts",
+      "field_of_study": "Culinary Arts",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with a minimum Grade B in three (3) subjects.",
+        "STPM": "1 Principal Passes."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS (International Student)": "4"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5100,
+        "tuition_fee": 30000
+      },
+      "course_content": {
+        "core": "University Compulsory Practical English I Practical English II Co-Curriculum Activities Common Core Introduction of Accounting Computer Applications Principles of Management Business Law Entrepreneurship Programme Core Introduction to Hospitality Industry Food Safety and Hygiene Fundamental of Food Food Preparation Basic Pastry & Bakery Kitchen Management Food and Beverage Cost Controls Menu Planning Butchery & Garde Manger Food & Beverages Service Skills Commercial Food Production Asian Cuisine Western Cuisine Culinary Artistry Hospitality Human Resources Management Hospitality Sales and Marketing International Cuisine Entrepreneurship Halal Management Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education (Hons)",
+      "field_of_study": "Early Childhood Education",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with minimum of grade B in three (3) subjects.",
+        "STPM": "Minimum Grade C (CGPA 2.00) in any one (1) subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5100,
+        "tuition_fee": 22500
+      },
+      "course_content": {
+        "core": "University Courses    \nPractical English\nAcademic english\nCo-curicular activities University Courses Compulsory Courses    \nHealth, Safety and Nutrition for Early Childhood Education\nTechnology Applications in Early Childhood of Education\nCurriculum For Early Childhood Education\nMorality and Spirituality Development for Early Childhood Education\nSocial Emotional Development of Children\nChild Growth and Development\nPedagogy in Early Childhood\nIntroduction To Early Childhood Education\nLanguage and Literacy in Early Childhood Education\nBasic English for Early Childhood Education\nScience and Mathematics in Early Childhood Education\nPlay in Early Childhood Education\nEarly Childhood Special Needs Education\nObservation and Assessment in Early Childhood Education\nCare Provider for infants and toddlers\nCreativity in Early Childhood Education\nGuiding Young Children\nProfessionalism in Early Childhood Educator\nProgramme Planning and Development in Early Childhood\nApproaches in Early Childhood Education\nPracticum Compulsory Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Environmental Techonology",
+      "field_of_study": "Environmental Sciences",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with at least 3 credits inc. 1 science subject (Non-Science Stream) OR Pass SPM with 3 credits and pass 2 science subjects i.e. Biology, Chemistry, Physics, General/Applied/Health Science (Science Stream).",
+        "STPM": "1 Principal Passes."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 6350,
+        "tuition_fee": 22500
+      },
+      "course_content": {
+        "core": "University Courses    \nPractical English\nPractical English\nCo-curricular Activities University Courses Fundamental Courses    \nBasic Chemistry\nFundamentals of Physics\nIntroduction to Statistics\nFundamentals of Information Technology Fundamental Courses Core Courses    \nIntroduction to Environmental Science and Technology\nIntroduction to Environmental Physics\nFundamental of Industrial Hygiene\nIntroduction to Environmental Microbiology\nEnvironmental Chemistry\nEnvironmental Pollution and Solution\nWastewater Disposal System\nBuilding Construction Technology\nWater Quality Technology and Monitoring\nIntroduction to Occupational Safety, Health and Environment\nIntroduction to Geospatial Technology\nIntroduction to Soil Science and Land Resources Management\nFundamentals of Environmental Toxicology*\nSolid Waste and Hazardous Waste Technology\nAir Pollution and Control*\nNoise Pollution and Control\nEnvironmental Management System\nEnergy Resources Management\nEnvironmental Ethics, Policies and Planning\nDisaster and Risk Management\nIndustrial Training Core Courses",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with at least 3 credits inc. 1 science subject (Non-Science Stream) OR Pass SPM with 3 credits and pass 2 science subjects i.e. Biology, Chemistry, Physics, General/Applied/Health Science (Science Stream)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "1 Principal Passes."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Hotel Management",
+      "field_of_study": "Hotel Management",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with Grade C in 3 relevant subjects.",
+        "O-Level": "Grade C in 3 relevant subjects AND Grade E in English.",
+        "UEC": "Pass with minimum of grade B in three (3) subjects.",
+        "STPM": "1 Principal Passes."
+      },
+      "english_requirements": {
+        "MUET": "Band 2",
+        "IELTS (International Student)": "4"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5100,
+        "tuition_fee": 22500
+      },
+      "course_content": {
+        "core": "University Compulsory Practical English I Practical English II Co-Curriculum Activities Common Core Principles of Management Computer Applications Business Law Introduction to Accounting Entrepreneurship Programme Core Introduction to Hospitality Industry Fundamentals of Food Business Economics Food and Beverage Services Food Production (Basic Cookery) Food Production (Commercial Cookery) Food Safety and Hygiene Hospitality Sales and Marketing Business Etiquette in Customer Service Restaurant Management Front Office Management Housekeeping Management Foodservice Design and Technology Food and Beverage Cost Control Hospitality Human Resource Management Meeting, Incentive, Convention and Exhibition (MICE) Industrial Training Practical Courses Food Production (Basic Cookery) Food Production (Commercial Cookery) Housekeeping Management Front Office Management Food & Beverage Services",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass with Grade C in 3 relevant subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects AND Grade E in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum of grade B in three (3) subjects."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "raw",
+            "text": "1 Principal Passes."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "O-Level": "Pass with 3 credits including Mathematics.",
+        "UEC": "Pass with 3Bs including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "1 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 5100,
+        "tuition_fee": 22500
+      },
+      "course_content": {
+        "core": "University Courses English I English II Study of Society Understanding Human Behaviour Co-Curricular Activities Compulsory Courses Introduction To C Programming Computer Organization Mathematics for Information Technology Introduction to Database Multimedia Technology and Development Web Application Introduction to Information Technology Internet Computing System Analysis and Design Computer Networks Object Oriented Design Computer Programming Visual Programming Operating Systems Fundamental of Software Development E-Commerce Data Structure and Algorithm Mobile Computing Knowledge Management Enterprise Applications Software Project Management Human Computer Interaction Management Information System Business Intelligence Cyberpreneurship Introduction to Artificial Intelligence Information Assurance and Security Industrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3Bs including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "1 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Mechatronics Engineering",
+      "field_of_study": "Mechatronics Engineering",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "O-Level": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English.",
+        "UEC": "Minimum Grade B in three (3) subjects including Mathematics and one (1) relevant science/technical/vocational subject AND Pass in English.",
+        "STPM": "1 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, English, Science",
+        "Foundation": "Minimum CGPA 2.00."
+      },
+      "english_requirements": {
+        "IELTS (International Students)": "6",
+        "TOEFL (International Students)": "550"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 7300,
+        "tuition_fee": 25500
+      },
+      "course_content": {
+        "core": "University Courses    \nPractical English 1\nPractical English 2\nCo-curriculum Activities University Courses Compulsory Courses Common Core Subjects\nApplied Physics\nCalculus\nIntroduction to Programming\nLinear Algebra\nEngineers in Society\nTechnopreneurship Common Core Subjects Discipline Core Subjects Electrical & Electronics: Applied Physics\nCalculus\nIntroduction to Programming\nLinear Algebra\nEngineers in Society\nTechnopreneurship Mechanical & Design Statics\nDynamic\nComputer Aided Drafting\nStrengths of Material\nThermofluids Control & Automation Microprocessor & Microcontroller\nHydraulics and Pneumatics\nProgrammable Logic Controller\nControl System\nMechatronic Workshop\nMechatronic Systems\nMechatronic Design Project Project & Training Project 1\nProject 2\nIndustrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "relevant science/technical/vocational subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade B in three (3) subjects including Mathematics and one (1) relevant science/technical/vocational subject AND Pass in English."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "1 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, English, Science"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "ACCA Foundation in Accountancy",
+      "field_of_study": "Accounting",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "A pass in SPM or equivalent with a minimum of 5 credits including Mathematics and English..",
+        "O-Level": "Pass O-Level with minimum Grade C in five (5) subjects including Mathematics and English..",
+        "UEC": "A pass in UEC with min. Grade B in 5 subjects including Mathematics and English.."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 1700,
+        "tuition_fee": 11000
+      },
+      "course_content": {
+        "core": "Semester 1 FA1: Recording Financial Transactions MA1: Management Information FBT: Foundation in Business and Technology Effective English Semester 2 FA2: Maintaining Financial Records MA2: Managing Costs & Finance Essential English Semester 3 FFA: Foundation in Financial Accounting FMA: Foundation in Management Accounting FIP: Foundation in Professionalism",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in SPM or equivalent with a minimum of 5 credits including Mathematics and English.."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass O-Level with minimum Grade C in five (5) subjects including Mathematics and English.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A pass in UEC with min. Grade B in 5 subjects including Mathematics and English.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Arts",
+      "field_of_study": "Foundation in Arts",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with any five (5) subjects in credits.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of TESL\nBachelor of Communication\nBachelor of Psychology",
+        "O-Level": "Grade C in five (5) subjects.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of TESL\nBachelor of Communication\nBachelor of Psychology",
+        "UEC": "Minimum Grade B in Three (3) subjects.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of TESL\nBachelor of Communication\nBachelor of Psychology"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 2000,
+        "tuition_fee": 10000
+      },
+      "course_content": {
+        "core": "Core courses Interpersonal Communication Personal Development Principles of Management Introduction to Creative Writing and Performing Arts Social Media and Networking Introduction to Mass Communication Principles of Education Learning Strategies & Study Skills Introduction to Psychology University Courses Effective English Essential English Computer Applications Critical Thinking Co-curriculum",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "any"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with any five (5) subjects in credits.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of TESL\nBachelor of Communication\nBachelor of Psychology"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in five (5) subjects.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of TESL\nBachelor of Communication\nBachelor of Psychology"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade B in Three (3) subjects.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of TESL\nBachelor of Communication\nBachelor of Psychology"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business",
+      "field_of_study": "Foundation in Arts",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with any five (5) subjects in credits.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of Accountancy\nBachelor of Finance",
+        "O-Level": "Grade C in five (5) subjects.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of Accountancy\nBachelor of Finance",
+        "UEC": "Minumum Grade B in Three (3) subjects.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of Accountancy\nBachelor of Finance"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 2000,
+        "tuition_fee": 10000
+      },
+      "course_content": {
+        "core": "Core courses Interpersonal Communication Personal Development Principles of Management Introduction to Information System and Technology Effective English Computer Applications Principles of Accounting Essential English Introduction to Marketing Critical Thinking Specialisation Business Management, Accounting and Finance Managing People and Organizations Mathematics for Business Principles of Economics Principles of Finance Culinary Arts, Hospitality and Tourism Management Managing People and Orgoanizations Mathematics for Business Introduction to Hospitality Introduction to Tourism Business Computer Science and Information Technology Statistics and Probability Introduction to Programming Calculus Mathematics for Business Actuarial Science Statistics and Probability Mathematics for Business Principles of Economics Principles of Finance",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with any five (5) subjects in credits.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of Accountancy\nBachelor of Finance"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in five (5) subjects.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of Accountancy\nBachelor of Finance"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Minumum Grade B in Three (3) subjects.  Students who wish to progress to the programmes below are required to complete an additional reinforcement course to ensure they meet the necessary academic standards for entry.\nBachelor of Accountancy\nBachelor of Finance"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science",
+      "field_of_study": "Foundation in Science",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum five (5) credits in Mathematics, two (2) science subjects and two (2) other subjects.",
+        "O-Level": "Pass with minimum five (5) credits in Mathematics, two (2) science subjects and two (2) other subjects.",
+        "UEC": "Pass with minimum grade B in three (3) subjects including Mathematics and two (2) other science subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 2500,
+        "tuition_fee": 12000
+      },
+      "course_content": {
+        "core": "Core Courses Effective English Essential English Interpersonal Communication Critical Thinking Algebra and Geometry Statistics and Probability Physics Computer Applications Frontier Studies Specialisation Biological Science Stream Cell Biology Physiology Inheritance and Diversity of Life Molecular Chemistry Physical Chemistry Computer Science Stream Introduction to Programming Introduction to Information Systems and Technology Calculus Introduction to Web Design Introduction to Multimedia Physical Science Stream Modern Physics Introduction to Electrical and Electronics Engineering Calculus Molecular Chemistry Physical Chemistry",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "other subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum five (5) credits in Mathematics, two (2) science subjects and two (2) other subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "science subjects"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "other subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum five (5) credits in Mathematics, two (2) science subjects and two (2) other subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "other science subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum grade B in three (3) subjects including Mathematics and two (2) other science subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (MBBS & Pharmacy)",
+      "field_of_study": "Foundation in Science",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum B in five (5) subjects including Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject..",
+        "O-Level": "Pass with minimum B in five (5) subjects including Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject..",
+        "UEC": "Pass with minimum grade B4 in three (3) subjects including Biology, Chemistry, Physics or (Mathematics/Additional Mathematics)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 2500,
+        "tuition_fee": 12000
+      },
+      "course_content": {
+        "core": "Core courses Interpersonal Communication Algebra and Geometry Statistics and Probability Effective English Computer Applications Physics Essential English Frontier Studies Critical Thinking Specialisation Biological Science Stream Cell Biology Physiology Inheritance and Diversity of Life Molecular Chemistry Physical Chemistry Computer Science Stream Introduction to Programming Introduction to Information Systems and Technology Calculus Introduction to Web Design Introduction to Multimedia Physical Science Stream Modern Physics Introduction to Electrical and Electronics Engineering Calculus Molecular Chemistry Physical Chemistry",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum B in five (5) subjects including Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject.."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum B in five (5) subjects including Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum grade B4 in three (3) subjects including Biology, Chemistry, Physics or (Mathematics/Additional Mathematics)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Engineering)",
+      "field_of_study": "Foundation in Science",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum five (5) credits in Mathematics/Additional Math, Physics and three (3) other subjects.",
+        "O-Level": "Pass with minimum five (5) credits in Mathematics/Additional Math, Physics and three (3) other subjects.",
+        "UEC": "Pass with minimum grade B in three (3) subjects including Mathematics, Physics and one (1) other subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 2500,
+        "tuition_fee": 12000
+      },
+      "course_content": {
+        "core": "Core courses Interpersonal Communication Algebra and Geometry Statistics and Probability Effective English Computer Applications Physics Essential English Frontier Studies Critical Thinking Specialisation Biological Science Stream Cell Biology Physiology Inheritance and Diversity of Life Molecular Chemistry Physical Chemistry Computer Science Stream Introduction to Programming Introduction to Information Systems and Technology Calculus Introduction to Web Design Introduction to Multimedia Physical Science Stream Modern Physics Introduction to Electrical and Electronics Engineering Calculus Molecular Chemistry Physical Chemistry",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Additional Math",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum five (5) credits in Mathematics/Additional Math, Physics and three (3) other subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Additional Math",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum five (5) credits in Mathematics/Additional Math, Physics and three (3) other subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum grade B in three (3) subjects including Mathematics, Physics and one (1) other subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Allied Health)",
+      "field_of_study": "Health Studies",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with minimum C in five (5) subjects including Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject..",
+        "O-Level": "Pass with minimum C in five (5) subjects including Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject..",
+        "UEC": "Pass with minimum B4 in Three (3) subjects including Biology, Chemistry and Physics / Mathematics / Additional Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 2500,
+        "tuition_fee": 12000
+      },
+      "course_content": {
+        "core": "Core courses Interpersonal Communication Algebra and Geometry Statistics and Probability Effective English Computer Applications Physics Essential English Frontier Studies Critical Thinking Specialisation Biological Science Stream Cell Biology Physiology Inheritance and Diversity of Life Molecular Chemistry Physical Chemistry Computer Science Stream Introduction to Programming Introduction to Information Systems and Technology Calculus Introduction to Web Design Introduction to Multimedia Physical Science Stream Modern Physics Introduction to Electrical and Electronics Engineering Calculus Molecular Chemistry Physical Chemistry",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum C in five (5) subjects including Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject.."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum C in five (5) subjects including Biology, Chemistry, Physics, Mathematics / Additional Mathematics and one other subject.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum B4 in Three (3) subjects including Biology, Chemistry and Physics / Mathematics / Additional Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Feb",
+        "May",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "CGPA 2.50 for a Bachelor's Degree in a related field .  A face-to-face meeting may be requested in order for the applicant and faculty members to clarify and convey programme expectations.\nBachelor 's Degree or other equivalent qualifications without the minimum of CGPA of 2.5 can be accepted subject to having at least 5 years of working experience in the relevant field."
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 1500,
+        "tuition_fee": 28000
+      },
+      "course_content": {
+        "core": "Common Core People and Organisations\nAccounting and Finance for Managers\nEconomy and International Business\nResearch Methods\nDigital Business and Informatics\nMarketing Analysis and Decision Making\nHuman Resource Management\nCrafting and Executing Strategy Project Applied Business Research",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A face-to-face meeting may be requested in order for the applicant and faculty members to clarify and convey programme expectations."
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor 's Degree or other equivalent qualifications without the minimum of CGPA of 2.5 can be accepted subject to having at least 5 years of working experience in the relevant field."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration (ODL)",
+      "field_of_study": "Business Administration",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Feb",
+        "May",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "i. A Bachelor’s degree in related fields* with a minimum CGPA of 2.50 as accepted by the QIU Senate; OR ii. A Bachelor’s degree in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a rigorous internal assessment; OR iii. A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the QIU Senate and with relevant working experience, subject to a rigorous internal assessment; OR iv. A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the QIU Senate and without relevant working experience, subject to passing pre-requisite courses**; OR v. Other equivalent/related qualifications to a Bachelor’s degree recognised by the Malaysian Government..  A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the QIU Senate and with relevant working experience, subject to a rigorous internal assessment"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 1500,
+        "tuition_fee": 26000
+      },
+      "course_content": {
+        "core": "Common Core People and Organisations\nAccounting and Finance for Managers\nEconomy and International Business\nResearch Methods\nDigital Business and Informatics\nMarketing Analysis and Decision Making\nHuman Resource Management\nCrafting and Executing Strategy Project Applied Business Research",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": false
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": false
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "i. A Bachelor’s degree in related fields* with a minimum CGPA of 2.50 as accepted by the QIU Senate; OR ii. A Bachelor’s degree in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a rigorous internal assessment; OR iii. A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the QIU Senate and with relevant working experience, subject to a rigorous internal assessment; OR iv. A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the QIU Senate and without relevant working experience, subject to passing pre-requisite courses**; OR v. Other equivalent/related qualifications to a Bachelor’s degree recognised by the Malaysian Government..  A Bachelor’s degree in non-related fields with a minimum CGPA of 2.00 as accepted by the QIU Senate and with relevant working experience, subject to a rigorous internal assessment"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Education (M.ED.)",
+      "field_of_study": "Education",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Feb",
+        "May",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "CGPA 2.50 for a Bachelor's Degree in a related field.  Candidates who do not have a qualification in education, are required to complete the courses below prior to commencing their candidature on the M.Ed. programme. The courses will be provided via a blended mode of study for a duration of 7 weeks. - Philosophy of Education (MED 1013, 3 credits) - Educational Psychology (MED 1023, 3 credits) - Sociology of Education (MED 1033, 3 credits)",
+        "Others": "Applicants without a Bachelor's Degree in a relative field with a minimum CGPA 2.5 or its equivalent can apply through APEL (A). .  The following conditions apply:\nAll applications are subject to appropriate APEL assessments conducted by the Malaysian Qualifications Agency (MQA).\nOnly Malaysian nationals can apply for the APEL (A) provision."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 1500,
+        "tuition_fee": 28000
+      },
+      "course_content": {
+        "core": "Specialisation Offered E-learning e-Learning Ecologies Curriculum Design and Development Trends, Issues and Challenges in e-Learning Educational Management School principals Vice-principals Heads of departments University lecturers Teachers Individuals in leadership positions at learning institutions Learning and Management e-Learning Ecologies Organisational Learning and Development Corporate Training Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Philosophy of Education",
+              "Educational Psychology",
+              "Sociology of Education"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.50 for a Bachelor's Degree in a related field.  Candidates who do not have a qualification in education, are required to complete the courses below prior to commencing their candidature on the M.Ed. programme. The courses will be provided via a blended mode of study for a duration of 7 weeks. - Philosophy of Education (MED 1013, 3 credits) - Educational Psychology (MED 1023, 3 credits) - Sociology of Education (MED 1033, 3 credits)"
+          }
+        ],
+        "Others": [
+          {
+            "type": "related_field",
+            "value": false
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Applicants without a Bachelor's Degree in a relative field with a minimum CGPA 2.5 or its equivalent can apply through APEL (A). .  The following conditions apply:\nAll applications are subject to appropriate APEL assessments conducted by the Malaysian Qualifications Agency (MQA).\nOnly Malaysian nationals can apply for the APEL (A) provision."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Arts in Teaching English as a Second Language (M.A. TESL)",
+      "field_of_study": "English (Teaching)",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Feb",
+        "May",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "CGPA 2.50 for a Bachelor's Degree in a related field.",
+        "Others": "Applicants without a Bachelor's degree in a relative field with a minimum CGPA 2.50 or its equivalent can apply through APEL (A). .  The following conditions apply:\nAll applications are subject to appropriate APEL assessments conducted by Malaysian Qualifications Agency (MQA).\nOnly Malaysian nationals can apply for the APEL (A) provision."
+      },
+      "english_requirements": {
+        "IELTS (International Students)": "6",
+        "TOEFL (International Students)": "550"
+      },
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 1500,
+        "tuition_fee": 28000
+      },
+      "course_content": {
+        "core": "Discipline Core Courses Assessment and Evaluation in ESL Curriculum Design and Development Curriculum & Pedagogy English for Specific Purposes Language Teaching Methodology Second Language Acquisition Special Project Compulsory Courses Academic Writing Qualitative and Quantitative Research Methods Seminar in English Language Teaching (ELT) Technology for Language Teaching and Learning",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.50 for a Bachelor's Degree in a related field."
+          }
+        ],
+        "Others": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": false
+          },
+          {
+            "type": "raw",
+            "text": "Applicants without a Bachelor's degree in a relative field with a minimum CGPA 2.50 or its equivalent can apply through APEL (A). .  The following conditions apply:\nAll applications are subject to appropriate APEL assessments conducted by Malaysian Qualifications Agency (MQA).\nOnly Malaysian nationals can apply for the APEL (A) provision."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Science (By Research)",
+      "field_of_study": "General Sciences (Postgraduate)",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "CGPA 2.75 for a Bachelor's Degree in a related field."
+      },
+      "english_requirements": {
+        "IELTS": "6.5",
+        "TOEFL": "580 in TOEFL (paper-based) or 237 in TOEFL (computer-based) or 92 in TOEFL (internet-based testing)"
+      },
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 11000,
+        "tuition_fee": 31000
+      },
+      "course_content": {
+        "core": "Compulsory Course Research Methodology Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.75 for a Bachelor's Degree in a related field."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master in Pharmaceutical Sciences",
+      "field_of_study": "Pharmaceutical Science",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A Bachelor’s degree in the field of Pharmacy or related fields or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted.  Minimum of 5 years of working experience in the relevant field and rigorous internal assessment"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 11000,
+        "tuition_fee": 18000
+      },
+      "course_content": {
+        "core": "List of Compulsory Courses/Modules Offered MPS1101 Research Methodology\nMPS2202 Thesis MPS1101 Research Methodology MPS2202 Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "A Bachelor’s degree in the field of Pharmacy or related fields or equivalent with a minimum CGPA of 2.00 and not meeting a CGPA of 2.50, can be accepted.  Minimum of 5 years of working experience in the relevant field and rigorous internal assessment"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Business Administration (By Coursework with Research)",
+      "field_of_study": "Business and Management",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Apr",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Master's Degree in relevant field of study accepted by the Senate.",
+        "Others": "Other qualifications equivalent to a Master's Degree accepted by the Senate:.  Possess at least 3 years of working experiences after the completion of Master's Degree.\nRequired to attend an interview before admission into the programme."
+      },
+      "english_requirements": {
+        "IELTS": "6",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 4500,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "Compulsory courses Academic Writing\nAdvanced Economic Theory\nAdvanced Finance and Accounting\nAdvanced Operation Management\nAdvanced Organizational Management\nBusiness Strategy Consulting\nEntrepreneurship Development\nMultivariate Analysis\nResearch Methodology\nResearch Proposal\nSeminar in Organizational Behaviour\nDissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Master's Degree in relevant field of study accepted by the Senate."
+          }
+        ],
+        "Others": [
+          {
+            "type": "raw",
+            "text": "Other qualifications equivalent to a Master's Degree accepted by the Senate:.  Possess at least 3 years of working experiences after the completion of Master's Degree.\nRequired to attend an interview before admission into the programme."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "PhD in Business Administration (By Research)",
+      "field_of_study": "Business and Management",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Master's Degree in a relevant field of study accepted b the Senate OR other qualifications equivalent to a Master's Degree accepted by the Senate."
+      },
+      "english_requirements": {
+        "IELTS (International Students)": "6",
+        "TOEFL (International Students)": "80"
+      },
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 4500,
+        "tuition_fee": 33000
+      },
+      "course_content": {
+        "core": "Compulsory courses Research Methodology Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Master's Degree in a relevant field of study accepted b the Senate OR other qualifications equivalent to a Master's Degree accepted by the Senate."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "PhD in Education (By Research)",
+      "field_of_study": "Education",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "A masters degree in the field of or related fields accepted by the University Senate, OR Other qualifications equivalent to a masters degree recognised by the Government of Malaysia.  Pre-requisite Courses:\nPhilosophy of Education\nEducational Psychology\nSociology of Education\nCandidates without a related qualification in the field/s or working experience in the relevant fields must undergo appropriate prerequisite courses determined by the University",
+        "Degree": "A bachelor’s degree in the field or related fields with first-class honours and show evidence of related research aptitude to the satisfaction of the Senate; OR Undergo internal assessment; AND Any other requirements of the University.  Bachelor’s degree candidates who are registered for master degree programme may apply to convert to the doctoral degree programs subjected to the following conditions:\nWithin 1 year for full time and within 2 years for part time candidates;\nHaving shown competency and capabilities in conducting research in doctoral-level through rigorous internal evaluation by the University; AND\nApproval of the University Senate."
+      },
+      "english_requirements": {
+        "MUET": "Band 3",
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 4500,
+        "tuition_fee": 33000
+      },
+      "course_content": {
+        "core": "Courses: Research Methodology Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A masters degree in the field of or related fields accepted by the University Senate, OR Other qualifications equivalent to a masters degree recognised by the Government of Malaysia.  Pre-requisite Courses:\nPhilosophy of Education\nEducational Psychology\nSociology of Education\nCandidates without a related qualification in the field/s or working experience in the relevant fields must undergo appropriate prerequisite courses determined by the University"
+          }
+        ],
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A bachelor’s degree in the field or related fields with first-class honours and show evidence of related research aptitude to the satisfaction of the Senate; OR Undergo internal assessment; AND Any other requirements of the University.  Bachelor’s degree candidates who are registered for master degree programme may apply to convert to the doctoral degree programs subjected to the following conditions:\nWithin 1 year for full time and within 2 years for part time candidates;\nHaving shown competency and capabilities in conducting research in doctoral-level through rigorous internal evaluation by the University; AND\nApproval of the University Senate."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "PhD in Science (By Research)",
+      "field_of_study": "General Sciences (Postgraduate)",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "Master's Degree in a relevant field of study accepted by the Senate OR other qualifications equivalent to a Masters Degree accepted by the Senate."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 16500,
+        "tuition_fee": 33000
+      },
+      "course_content": {
+        "core": "Compulsory courses Research Methodology Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Master's Degree in a relevant field of study accepted by the Senate OR other qualifications equivalent to a Masters Degree accepted by the Senate."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy in Pharmaceutical Sciences",
+      "field_of_study": "Pharmaceutical Science",
+      "location": "QIU, Ipoh",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "A Master’s degree (Level 7 Malaysian Qualifications Framework, MQF) in Pharmacy or related fields accepted by the HEP or Senate."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": 16500,
+        "tuition_fee": 24000
+      },
+      "course_content": {
+        "core": "List of Compulsory Courses/Modules Offered PSC1101 Research Methodology PSC2202 Thesis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A Master’s degree (Level 7 Malaysian Qualifications Framework, MQF) in Pharmacy or related fields accepted by the HEP or Senate."
+          }
+        ]
+      }
+    }
+  ]
+}

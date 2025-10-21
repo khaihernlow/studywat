@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 133,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/University+of+Auckland/UoA+International+College/Campus_and_Surroundings/01a_UoA_International_College_UoA_IC_Building.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Foundation Studies (Arts)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of Auckland International College",
       "intakes": [
         "Feb",
@@ -85,11 +88,12 @@
             "text": "48 UCAS points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation Studies (Arts) - Accelerated",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of Auckland International College",
       "intakes": [
         "Feb",
@@ -155,11 +159,12 @@
             "text": "80 UCAS points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation Studies (Science)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "University of Auckland International College",
       "intakes": [
         "Feb",
@@ -237,11 +242,12 @@
             "text": "48 UCAS points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation Studies (Science) - Accelerated",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "University of Auckland International College",
       "intakes": [
         "Feb",
@@ -307,7 +313,8 @@
             "text": "80 UCAS points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

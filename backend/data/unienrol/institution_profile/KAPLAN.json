@@ -4,10 +4,13 @@
   "institution_type": null,
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/9e/Kaplan_Logo.JPG"
+  ],
   "programs": [
     {
       "program_name": "BSc (Hons) Accounting (1+2), University of Essex",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -29,11 +32,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Accounting"
     },
     {
       "program_name": "BSc (Hons) Accounting and Management (1+2), University of Essex",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -55,11 +59,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Accounting"
     },
     {
       "program_name": "Accounting BSc (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -81,11 +86,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Accounting"
     },
     {
       "program_name": "Accounting and Business Management BA (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -107,11 +113,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Accounting"
     },
     {
       "program_name": "Accounting and Finance BA (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -178,7 +185,8 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "BA (Hons) Accounting and Business Management (1+2), University of Westminster",
@@ -247,7 +255,8 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BSc (Hons) Accounting and Finance (1+2), University of Essex",
@@ -328,7 +337,8 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "MAcc (Hons) Accounting and Finance (1+3), University of Essex",
@@ -409,7 +419,8 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BSc (Hons) Accounting and Finance (1+2), Nottingham Trent University",
@@ -490,11 +501,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BEng (Hons) Aerospace Engineering (1+2), University of Birmingham",
-      "field_of_study": "Aeronautical Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -559,11 +571,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Aeronautical Engineering"
     },
     {
       "program_name": "MEng (Hons) Aerospace Engineering (1+3), University of Birmingham",
-      "field_of_study": "Aeronautical Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -628,11 +641,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Aeronautical Engineering"
     },
     {
       "program_name": "Aerospace Engineering BEng (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Aeronautical Engineering",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -709,11 +723,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Aeronautical Engineering"
     },
     {
       "program_name": "Aerospace Engineering MEng (Hons) (1+3), UWE Bristol",
-      "field_of_study": "Aeronautical Engineering",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -780,11 +795,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Aeronautical Engineering"
     },
     {
       "program_name": "Aerospace Engineering with Pilot Studies BEng (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Aeronautical Engineering",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -861,11 +877,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Aeronautical Engineering"
     },
     {
       "program_name": "Aerospace Engineering with Pilot Studies MEng (Hons) (1+3), UWE Bristol",
-      "field_of_study": "Aeronautical Engineering",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -942,11 +959,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Aeronautical Engineering"
     },
     {
       "program_name": "Automotive Engineering BEng (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -1013,11 +1031,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Automotive Technology"
     },
     {
       "program_name": "Automotive Engineering MEng (Hons) (1+3), UWE Bristol",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -1084,11 +1103,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Automotive Technology"
     },
     {
       "program_name": "BSc (Hons) Banking and Finance (1+2), University of Essex",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -1155,11 +1175,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "Banking and Finance BSc (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -1236,11 +1257,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "BSc (Hons) Biochemistry (1+2), University of Essex",
-      "field_of_study": "Biochemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -1317,11 +1339,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Biochemistry"
     },
     {
       "program_name": "BSc (Hons) Genetics (1+2), University of Essex",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -1398,11 +1421,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "BSc (Hons) Human Biology (1+2), University of Essex",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -1479,11 +1503,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "BSc (Hons) Biomedical Science (1+2), University of Essex",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -1560,11 +1585,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "BBA (Hons) Business Administration (1+2), University of Essex",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -1631,11 +1657,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "BSc (Hons) Business Administration and Supply Chain Management (1+2), University of Essex",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -1702,11 +1729,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "BA (Hons) Business Economics (1+2), University of Essex",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -1783,11 +1811,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "BSc (Hons) Business Management (1+2), University of Essex",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -1864,11 +1893,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "BA (Hons) Business Management (1+2), University of Westminster",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -1933,11 +1963,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business (1+2), Nottingham Trent University",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -2014,11 +2045,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management and Accounting and Finance (1+2), Nottingham Trent University",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -2095,11 +2127,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management and Entrepreneurship (1+2), Nottingham Trent University",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -2176,11 +2209,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BA (Hons) Business Management and Human Resources (1+2), Nottingham Trent University",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -2247,11 +2281,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Business Management and Economics BA (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -2328,11 +2363,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Business Management and Marketing BA (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -2409,11 +2445,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Business and Events Management BA (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -2490,11 +2527,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Business and Human Resource Management BA (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -2571,11 +2609,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Business and Management BA (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -2642,11 +2681,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BEng (Hons) Civil Engineering (1+2), University of Birmingham",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -2711,11 +2751,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "MEng (Hons) Civil Engineering (1+3), University of Birmingham",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -2780,11 +2821,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "BEng (Hons) Civil and Railway Engineering (1+2), University of Birmingham",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -2849,11 +2891,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "MEng (Hons) Civil and Railway Engineering (1+3), University of Birmingham",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -2918,11 +2961,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Civil Engineering BEng (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -2989,11 +3033,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Civil Engineering MEng (Hons) (1+3), UWE Bristol",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -3060,11 +3105,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "BSc (Hons) Artificial Intelligence (1+2), University of Essex",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -3141,11 +3187,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Games (1+2), University of Essex",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -3222,11 +3269,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Science (1+2), University of Essex",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -3303,11 +3351,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Science (1+2), Nottingham Trent University",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -3374,11 +3423,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Science (Games Technology) (1+2), Nottingham Trent University",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -3455,11 +3505,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computing (1+2), Nottingham Trent University",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -3536,11 +3587,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Cyber Security (1+2), Nottingham Trent University",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -3617,11 +3669,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Computer Science BSc (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -3698,11 +3751,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Cyber Security and Digital Forensics BSc (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -3769,11 +3823,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BA (Hons) Economics and Management (1+2), University of Westminster",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -3838,11 +3893,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BA (Hons) Economics (1+2), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -3919,11 +3975,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BSc (Hons) Economics (1+2), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -4000,11 +4057,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "MEcon (Hons) Economics (1+3), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -4081,11 +4139,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BA (Hons) Financial Economics (1+2), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -4162,11 +4221,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BSc (Hons) Financial Economics (1+2), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -4233,11 +4293,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BA (Hons) Financial Economics and Accounting (1+2), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -4314,11 +4375,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BA (Hons) International Economics (1+2), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -4385,11 +4447,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BSc (Hons) International Economics (1+2), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -4466,11 +4529,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "MEcon (Hons) International Economics (1+3), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -4537,11 +4601,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BA (Hons) Management Economics (1+2), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -4608,11 +4673,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BSc (Hons) Management Economics (1+2), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -4689,11 +4755,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "MEcon (Hons) Management Economics (1+3), University of Essex",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -4760,11 +4827,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BEng (Hons) Electronic and Electrical Engineering (1+2), University of Birmingham",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -4829,11 +4897,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "MEng (Hons) Electronic and Electrical Engineering (1+3), University of Birmingham",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -4898,11 +4967,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Electrical and Electronic Engineering BEng (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -4979,11 +5049,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "BEng (Hons) Electrical and Railway Engineering (1+2), University of Birmingham",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -5048,11 +5119,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "MEng (Hons) Electrical and Railway Engineering (1+3), University of Birmingham",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -5117,11 +5189,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "BA (Hons) Finance and Business Management (1+2), University of Westminster",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -5186,11 +5259,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "BSc (Hons) Finance (1+2), University of Essex",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -5257,11 +5331,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "BSc (Hons) International Business and Entrepreneurship (1+2), University of Essex",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -5338,11 +5413,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) International Business (1+2), Nottingham Trent University",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -5409,11 +5485,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "International Business BA (Hons) (1+2), UWE Bristol",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -5490,11 +5567,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) International Development (1+2), University of Essex",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -5566,11 +5644,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "BA (Hons) International Relations (1+2), University of Essex",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -5647,11 +5726,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "MPol (Hons) International Relations (1+3), University of Essex",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -5718,11 +5798,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "BA (Hons) Politics (1+2), University of Essex",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -5789,11 +5870,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "BA (Hons) Politics and International Relations (1+2), University of Essex",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -5870,11 +5952,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "BSc (Hons) Politics and International Relations (1+2), University of Essex",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -5951,11 +6034,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "LLB (Hons) Law (1+2), University of Essex",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -6032,11 +6116,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "BSc (Hons) Management and Marketing (1+2), University of Essex",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -6113,11 +6198,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BSc (Hons) Marketing (1+2), University of Essex",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -6184,11 +6270,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "MMan (Hons) Marketing and Management (1+2), University of Essex",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -6255,11 +6342,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BA (Hons) Business Management and Marketing (1+2), Nottingham Trent University",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -6336,11 +6424,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Marketing BA (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -6417,11 +6506,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BEng (Hons) Mechnical Engineering (1+2), University of Birmingham",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -6486,11 +6576,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "MEng (Hons) Mechanical Engineering (1+3), University of Birmingham",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -6555,11 +6646,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Mechanical Engineering BEng (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -6626,11 +6718,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Mechanical Engineering MEng (Hons) (1+3), UWE Bristol",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -6697,11 +6790,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "BEng (Hons) Mechatronic and Robotic Engineering (1+2), University of Birmingham",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -6766,11 +6860,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "MEng (Hons) Mechatronic and Robotic Engineering (1+2), University of Birmingham",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -6835,11 +6930,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "BA (Hons) Psychology (1+2), University of Essex",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -6906,11 +7002,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc (Hons) Psychology (1+2), University of Essex",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -6977,11 +7074,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc (Hons) Psychology with Cognitive Neuroscience (1+2), University of Essex",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -7058,11 +7156,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc (Hons) Software Engineering (1+2), Nottingham Trent University",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -7139,11 +7238,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Software Engineering for Business BSc (Hons) (1+2), UWE Bristol",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -7220,11 +7320,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "International Year One (IYO) in Life Sciences",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -7291,11 +7392,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "International Year One (IYO) in Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -7360,11 +7462,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "International Year One (IYO) in Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Mar",
@@ -7442,11 +7545,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "International Year One (IYO) in Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -7523,11 +7627,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "International Year One (IYO) in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -7604,11 +7709,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "International Year One (IYO) in Computing",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Sep"
@@ -7685,11 +7791,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "International Year One (IYO) in Computing",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -7756,11 +7863,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "International Year One (IYO) in Economics",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -7837,11 +7945,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "International Year One (IYO) in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -7908,11 +8017,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "International Year One (IYO) in Engineering",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -7981,11 +8091,12 @@
             "text": "STPM with minimum 2 passes."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "International Year One (IYO) in Engineering",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "UWE Bristol International College",
       "intakes": [
         "Sep"
@@ -8062,11 +8173,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "International Year One (IYO) in Politics and International Relations",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -8133,11 +8245,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "International Year One (IYO) in Law",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -8204,11 +8317,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "International Year One (IYO) in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "University of Essex International College",
       "intakes": [
         "Sep"
@@ -8285,11 +8399,12 @@
             "text": "22 points."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "University of York IC Foundation Certificate Business and Finance",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of York International Pathway College",
       "intakes": [
         "Sep"
@@ -8376,11 +8491,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University of York IC Foundation Certificate Humanities, Creative Arts and Media",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of York International Pathway College",
       "intakes": [
         "Sep"
@@ -8467,11 +8583,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University of York IC Foundation Certificate Interactive Media",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of York International Pathway College",
       "intakes": [
         "Sep"
@@ -8558,11 +8675,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University of York IC Foundation Certificate Law and Social Sciences",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of York International Pathway College",
       "intakes": [
         "Sep"
@@ -8649,11 +8767,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University of York IC Foundation Certificate Mathematics, Economics and Actuarial Science",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of York International Pathway College",
       "intakes": [
         "Sep"
@@ -8740,11 +8859,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University of Bristol IFP Foundation in Arts and Humanities",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of Bristol International Foundation Programme",
       "intakes": [
         "Sep"
@@ -8831,11 +8951,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University of Bristol IFP Foundation in Social Sciences and Law",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of Bristol International Foundation Programme",
       "intakes": [
         "Sep"
@@ -8922,11 +9043,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University of Bristol IFP Foundation in Science, Technology, Engineering and Mathematics",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of Bristol International Foundation Programme",
       "intakes": [
         "Sep"
@@ -9013,11 +9135,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University of Essex IC Foundation in Humanities",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of Essex International College",
       "intakes": [
         "Mar",
@@ -9105,11 +9228,12 @@
             "text": "16 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Glasgow IC Foundation in Arts and Humanities",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Glasgow International College",
       "intakes": [
         "Sep"
@@ -9180,11 +9304,12 @@
             "value": 24.0
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Glasgow IC Foundation in Business and Social Sciences",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Glasgow International College",
       "intakes": [
         "Sep"
@@ -9271,11 +9396,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "KIC London Foundation in Art and Design",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Kaplan International College London",
       "intakes": [
         "Sep"
@@ -9350,11 +9476,12 @@
             "text": "Minimum 5 subjects with grade average of B."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "KIC London Foundation in Business, Law, and Social Sciences",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Kaplan International College London",
       "intakes": [
         "Mar",
@@ -9430,11 +9557,12 @@
             "text": "Minimum 5 subjects with grade average of B."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University of Nottingham IC Foundation in Business, Law and Social Sciences",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "University of Nottingham International College",
       "intakes": [
         "Mar",
@@ -9524,11 +9652,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Nottingham Trent IC Foundation in Art, Design and Media",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Mar",
@@ -9616,11 +9745,12 @@
             "text": "16 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Nottingham Trent IC Foundation in Business, Law and Social Sciences",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Mar",
@@ -9711,11 +9841,12 @@
             "text": "16 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Nottingham Trent IC Foundation in Computing",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Mar",
@@ -9803,11 +9934,12 @@
             "text": "16 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "UWE Bristol IC Foundation in Business, Law, and Social Sciences",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UWE Bristol International College",
       "intakes": [
         "Mar",
@@ -9896,11 +10028,12 @@
             "text": "16 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "University of York IC Foundation Certificate Computer Science and Engineering",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "University of York International Pathway College",
       "intakes": [
         "Sep"
@@ -9987,11 +10120,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "University of York IC Foundation Certificate Life Science, Biomedicine and Environment",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "University of York International Pathway College",
       "intakes": [
         "Sep"
@@ -10078,11 +10212,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "University of Essex IC Foundation in Social Sciences",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "University of Essex International College",
       "intakes": [
         "Mar",
@@ -10170,11 +10305,12 @@
             "text": "16 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "University of Essex IC Foundation Science and Health",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "University of Essex International College",
       "intakes": [
         "Mar",
@@ -10257,11 +10393,12 @@
             "text": "16 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Glasgow IC Foundation in Science and Engineering",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Glasgow International College",
       "intakes": [
         "Sep"
@@ -10348,11 +10485,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "KIC London Foundation in Science and Engineering",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Kaplan International College London",
       "intakes": [
         "Mar",
@@ -10428,11 +10566,12 @@
             "text": "Minimum 5 subjects with grade average of B."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "University of Nottingham IC Foundation in Science and Engineering",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "University of Nottingham International College",
       "intakes": [
         "Mar",
@@ -10522,11 +10661,12 @@
             "text": "24 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Nottingham Trent IC Foundation in Science and Engineering",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Nottingham Trent International College",
       "intakes": [
         "Mar",
@@ -10614,11 +10754,12 @@
             "text": "16 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "UWE Bristol IC Foundation in Science and Engineering",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "UWE Bristol International College",
       "intakes": [
         "Mar",
@@ -10707,7 +10848,8 @@
             "text": "16 points."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

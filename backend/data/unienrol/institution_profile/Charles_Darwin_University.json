@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 1240,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://images.squarespace-cdn.com/content/v1/63edd9aa49ca9d1e9422aa05/ae2adb13-2bd5-47e1-a449-d0b5ca51f02e/CDU-MAGE-B_NO-LOGO-scaled.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Diploma of Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UP Education Charles Darwin University International College",
       "intakes": [
         "Mar",
@@ -67,11 +70,12 @@
             "text": "2 passes."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma of Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UP Education Charles Darwin University International College",
       "intakes": [
         "Mar",
@@ -131,11 +135,12 @@
             "text": "2 passes."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "International Foundation Studies (Arts)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UP Education Charles Darwin University International College",
       "intakes": [
         "Mar",
@@ -190,11 +195,12 @@
             "text": "2 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "International Foundation Studies (Science)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "UP Education Charles Darwin University International College",
       "intakes": [
         "Mar",
@@ -249,7 +255,8 @@
             "text": "2 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     }
   ]
 }

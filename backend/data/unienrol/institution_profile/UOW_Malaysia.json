@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/UOWKDU/UOWKDU_UTROPOLIS_GLENMARIE/Campus_Surroundings/01f_UOW_KDU_Utropolis_Glenmarie_UOW_Malaysia_KDU%2C_Glenmarie_Selangor_Campus.png"
+  ],
   "programs": [
     {
       "program_name": "Bachelor Of Accountancy (Hons)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -146,11 +149,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor Of Accounting (Hons)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -290,7 +294,8 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor Of Accounting & Finance (Hons)",
@@ -434,11 +439,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor Of Business (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -580,11 +586,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Arts (Honours) Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -713,11 +720,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Arts (Honours) Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Jan",
@@ -845,11 +853,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor Of Communication (Hons)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -959,11 +968,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor Of Arts (Hons) In Media Production",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -1045,11 +1055,12 @@
             "text": "ATAR score of 55."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor Of Creative Industry Management (Hons)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -1153,11 +1164,12 @@
             "text": "Pass."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Feb",
@@ -1358,11 +1370,12 @@
             "text": "ATAR 55 with the relevant subject.  ]"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor Of Computer Science (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -1498,11 +1511,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor Of Culinary Management (Hons) - (Baking & Pastry)",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -1578,11 +1592,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Bachelor Of Culinary Management (Hons) - (Culinary Operations)",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -1662,11 +1677,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Bachelor Of Arts (Hons) In International Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -1740,11 +1756,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Bachelor Of Electrical & Electronics Engineering (Hons)",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -1835,11 +1852,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Arts International Hotel & Tourism Management (3+0), with International Management Institute (IMI), CH",
-      "field_of_study": "Hospitality and Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -1913,11 +1931,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Hospitality and Tourism Management"
     },
     {
       "program_name": "Bachelor of Hospitality Management (Hons)",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -2022,11 +2041,12 @@
             "text": "Pass with CGPA 2.0."
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Bachelor Of Information Systems (Hons) (Enterprise Information Systems)",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -2156,11 +2176,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Bachelor of Information Systems (Hons)",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -2292,11 +2313,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Bachelor of Information Systems (Honours)",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Feb",
@@ -2415,11 +2437,12 @@
             "text": "ATAR score of 55."
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Bachelor Of Game Development (Hons) specialised in Game Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -2522,11 +2545,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Arts (Hons) in Interior Architecture",
-      "field_of_study": "Interior Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Jan",
@@ -2624,11 +2648,12 @@
             "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Interior Architecture"
     },
     {
       "program_name": "Bachelor Of Arts (Hons) In International Business Management",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Jan",
@@ -2748,11 +2773,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Bachelor of Laws (LL.B) (3+0) with University of London, UK",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "May",
@@ -2846,11 +2872,12 @@
             "text": "(Australia/New Zealand Law Degree Only) 2 Passes with ATAR 80.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Bachelor of Communication (Hons) in Media Production",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -2961,11 +2988,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Communication (Hons) Public Relations",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -3076,11 +3104,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor Of Mechanical Engineering (Hons)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -3171,11 +3200,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Mechatronics Engineering with Honours",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Jan",
@@ -3202,11 +3232,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "Bachelor Of Mechatronic Engineering (Hons)",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -3305,11 +3336,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "Bachelor of Art (Hons) Digital Media Production",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -3419,11 +3451,12 @@
             "text": "Pass."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Association of Chartered Certified Accountants (ACCA)",
-      "field_of_study": "Professional Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -3557,11 +3590,12 @@
             "text": "Pass with a minimum CGPA of 2.50 Foundation in Accountancy/Certified Accounting Technician : Pass (exempted from Applied Knowledge level)."
           }
         ]
-      }
+      },
+      "course": "Professional Accounting"
     },
     {
       "program_name": "Bachelor Of Software Engineering (Hons)",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -3696,11 +3730,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Bachelor of Software Engineering (Hons)(Single Award)",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Jan",
@@ -3806,11 +3841,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Diploma In Business",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -3872,11 +3908,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma In Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -3938,11 +3975,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Jan",
@@ -4013,11 +4051,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business Management - ODL",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -4082,11 +4121,12 @@
             "text": "Minimum 3 Credits (3Bs)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Communication & Media",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -4155,11 +4195,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Diploma In Computer Studies",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -4248,11 +4289,12 @@
             "text": "Pass with 3Bs including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma In Entertainment Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -4322,11 +4364,12 @@
             "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma In Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -4385,11 +4428,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -4442,11 +4486,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -4523,11 +4568,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Graphic Design Technology",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -4596,11 +4642,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Healthcare Services",
-      "field_of_study": "Healthcare",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Oct"
@@ -4694,11 +4741,12 @@
             "text": "3 Credits including Mathematics or Science, 2 Credits in any other subject."
           }
         ]
-      }
+      },
+      "course": "Healthcare"
     },
     {
       "program_name": "Diploma In International Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -4807,11 +4855,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma In International Hotel Management (2+0) with International Management Institute (IMI), CH",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -4919,11 +4968,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Jan",
@@ -5038,11 +5088,12 @@
             "text": "1 Principal Passes.  SPM-level or equivalent:\npass in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -5148,11 +5199,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Jan",
@@ -5223,11 +5275,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Diploma In Mass Communication",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -5319,11 +5372,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Mechatronics Engineering",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Feb",
@@ -5432,11 +5486,12 @@
             "text": "3 Credits including Credit in Mathematics and 1 Science subject."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "Diploma in Mechatronics Engineering",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -5555,11 +5610,12 @@
             "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "Diploma in Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -5703,11 +5759,12 @@
             "text": "5 Credits including Bahasa Melayu and Mathematics (Credit in either one (1) any subject in Science/Biology/Chemistry/Physics/Applied Science, 2 Credits in any other subjects) and pass in English."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Diploma In Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -5770,11 +5827,12 @@
             "text": "Contact Uni Enrol to confirm."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Diploma in Physiotherapy",
-      "field_of_study": "Physiotherapy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Oct"
@@ -5916,11 +5974,12 @@
             "text": "5 Credits including Bahasa Melayu and Mathematics (Credit in either one (1) any subject in Science/Biology/Chemistry/Physics/Applied Science, 2 Credits in any other subjects) and pass in English."
           }
         ]
-      }
+      },
+      "course": "Physiotherapy"
     },
     {
       "program_name": "Foundation In Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -5991,11 +6050,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation In Arts (Accounting, IT)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UOW, Georgetown",
       "intakes": [
         "Jan",
@@ -6096,11 +6156,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "UOW, Batu Kawan",
       "intakes": [
         "Jan",
@@ -6171,11 +6232,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "ACCA - Foundation in Accountancy (ACCA - FIA)",
-      "field_of_study": "Professional Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UOW Utropolis Glenmarie, Shah Alam",
       "intakes": [
         "Jan",
@@ -6250,7 +6312,8 @@
             "text": "Grade C in 5 relevant subjects including Mathematics, English."
           }
         ]
-      }
+      },
+      "course": "Professional Accounting"
     }
   ]
 }

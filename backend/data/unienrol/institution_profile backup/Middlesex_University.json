@@ -1,0 +1,1812 @@
+{
+  "institution_name": "Middlesex University",
+  "institution_country": "United Kingdom",
+  "institution_type": "Public",
+  "world_rank": 1229,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "BA Accounting & Finance",
+      "field_of_study": "Accounting and Finance",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least BBB.",
+        "UEC": "Grade B5 in 5 Subjects.",
+        "Diploma": "Minimum CGPA 3.0 (Diploma in a related field).",
+        "STPM": "Pass with at least BBB.",
+        "CPU": "75% in at least 5 subjects.",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 242550
+      },
+      "course_content": {
+        "core": "Year 1 Financial Data Analysis (15 credits) - Compulsory\nCorporate Responsibility and Ethics (15 credits) - Compulsory\nFinancial Business Environment (15 credits) - Compulsory\nAccounting Information Systems (15 credits) - Compulsory\nManagement Accounting (30 credits) - Compulsory\nFinancial Accounting (30 credits) - Compulsory Financial Data Analysis (15 credits) - Compulsory Corporate Responsibility and Ethics (15 credits) - Compulsory Financial Business Environment (15 credits) - Compulsory Accounting Information Systems (15 credits) - Compulsory Management Accounting (30 credits) - Compulsory Financial Accounting (30 credits) - Compulsory Year 2 Applied Financial Accounting OR Advanced Financial Accounting (30 credits) - Compulsory\nApplied Management Accounting OR Advanced Management Accounting (30 credits) - Compulsory\nBusiness Law (30 credits) - Compulsory\nFinancial Mathematics (30 credits) – Optional\nOperations Management (30 credits) – Optional\nFinancial Project Management (30 credits) – Optional\nPersonal Financial Behaviour (30 credits) – Optional Applied Financial Accounting OR Advanced Financial Accounting (30 credits) - Compulsory Applied Management Accounting OR Advanced Management Accounting (30 credits) - Compulsory Business Law (30 credits) - Compulsory Financial Mathematics (30 credits) – Optional Operations Management (30 credits) – Optional Financial Project Management (30 credits) – Optional Personal Financial Behaviour (30 credits) – Optional Year 3 Accounting Theory (15 credits) – Compulsory\nEthics and Sustainability (15 credits) – Compulsory\nTaxation (30 credits) – Compulsory\nCorporate Finance (30 credits) – Compulsory\nAudit and Assurance (30 credits) – Optional\nAuthentic Leadership Development (30 credits) – Optional\nBusiness Start-up (30 credits) – Optional\nInvestment Analysis (30 credits) - Optional\nAdvanced Financial Data Analysis (30 credits) – Optional\nCorporate Accountability (30 credits) – Optional\nFinancial Statement Analysis and Valuation (30 credits) – Optional\nWork Internship (30 credits) – Optional\nSeptember 2020 entry – Year 3 entry only\nAccounting Theory (30 credits) - Compulsory\nBusiness strategies in Mandarin (30 credits) - Optional\nTrade and International Business (30 credits) - Optional\nConsulting in Organisations (30 credits) - Optional\nCorporate Governance (30 credits) - Optional\nFinancial Statistics (30 credits) - Optional Accounting Theory (15 credits) – Compulsory Ethics and Sustainability (15 credits) – Compulsory Taxation (30 credits) – Compulsory Corporate Finance (30 credits) – Compulsory Audit and Assurance (30 credits) – Optional Authentic Leadership Development (30 credits) – Optional Business Start-up (30 credits) – Optional Investment Analysis (30 credits) - Optional Advanced Financial Data Analysis (30 credits) – Optional Corporate Accountability (30 credits) – Optional Financial Statement Analysis and Valuation (30 credits) – Optional Work Internship (30 credits) – Optional September 2020 entry – Year 3 entry only Accounting Theory (30 credits) - Compulsory Business strategies in Mandarin (30 credits) - Optional Trade and International Business (30 credits) - Optional Consulting in Organisations (30 credits) - Optional Corporate Governance (30 credits) - Optional Financial Statistics (30 credits) - Optional",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B5"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B5 in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.0 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBB."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 75.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "75% in at least 5 subjects."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA Visual Effects",
+      "field_of_study": "Animation",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom",
+        "UEC": "Grade B in 5 Subjects.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom",
+        "STPM": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom",
+        "CPU": "70% in at least 5 subjects.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 242550
+      },
+      "course_content": {
+        "core": "Year 1 The Past, Present and Future of Visual Effects (30 credits) - Compulsory\nInside the VFX Pipeline (30 credits) - Compulsory\nVisual Effects Workshop (30 credits) - Compulsory\nDigital Image Making (30 Credits) - Compulsory The Past, Present and Future of Visual Effects (30 credits) - Compulsory Inside the VFX Pipeline (30 credits) - Compulsory Visual Effects Workshop (30 credits) - Compulsory Digital Image Making (30 Credits) - Compulsory Year 2 Rendering and Compositing (30 credits) - Compulsory\nProcedural Effects (30 credits) - Compulsory\nCreature Effects (30 credits) - Compulsory\nVFX in Context (30 credits) - Compulsory Rendering and Compositing (30 credits) - Compulsory Procedural Effects (30 credits) - Compulsory Creature Effects (30 credits) - Compulsory VFX in Context (30 credits) - Compulsory Year 3 Dissertation (30 credits) - Compulsory\nFinal Major Project (60 credits) - Compulsory\nFinal Major Project (60 credits) - Compulsory Dissertation (30 credits) - Compulsory Final Major Project (60 credits) - Compulsory Final Major Project (60 credits) - Compulsory",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.7
+          },
+          {
+            "type": "raw",
+            "text": "70% in at least 5 subjects.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.7
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit a portfolio for assessment and Attend an online interview via Zoom"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA Business Management (including pathways)",
+      "field_of_study": "Business and Management",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least BBC.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.",
+        "STPM": "Pass with at least BBC.",
+        "CPU": "70% in at least 5 subjects.",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 242550
+      },
+      "course_content": {
+        "core": "Year 1 Financial Concepts of Business (30 credits) - Compulsory\nQuantitative Methods for Business (30 credits) - Compulsory\nManagement Concepts (15 credits) – Compulsory\nPeople Management (15 credits) – Compulsory\nMarketing Theory and Practice (30 credits) - Compulsory Financial Concepts of Business (30 credits) - Compulsory Quantitative Methods for Business (30 credits) - Compulsory Management Concepts (15 credits) – Compulsory People Management (15 credits) – Compulsory Marketing Theory and Practice (30 credits) - Compulsory Year 2 Operations Management (30 credits) - Compulsory\nBusiness Environment (15 credits) - Compulsory\nManagement Information Systems (15 credits) - Compulsory\nPrinciples of Innovation and Entrepreneurship (15 credits) - Compulsory\nOrganisational Behaviour (15 credits) - Compulsory\nHuman Resource Management in Practice (30 credits) - Optional\nTrade and International Business (30 credits) - Optional\nBusiness Law (30 credits) - Optional\nAccounting and Finance for Business (30 credits) - Optional\nMarketing Research and Insights (30 credits) - Optional Operations Management (30 credits) - Compulsory Business Environment (15 credits) - Compulsory Management Information Systems (15 credits) - Compulsory Principles of Innovation and Entrepreneurship (15 credits) - Compulsory Organisational Behaviour (15 credits) - Compulsory Human Resource Management in Practice (30 credits) - Optional Trade and International Business (30 credits) - Optional Business Law (30 credits) - Optional Accounting and Finance for Business (30 credits) - Optional Marketing Research and Insights (30 credits) - Optional Year 3 Workforce Management (15 credits) - Compulsory\nProfessional Communication (15 credits) - Compulsory\nStrategic Management (30 credits) - Compulsory\nEquality Diversity and Inclusion (15 credits) - Optional\nBusiness Start-Up (30 credits) - Optional\nBusiness Game (30 credits) - Optional\nResearch Project (30 credits) - Optional\nPrinciples of Project Management (30 credits) - Optional\nGlobal Supply Chain Management (30 credits) - Optional\nInnovation Management (30 credits) - Optional\nWork Internship (30 credits) - Optional\nConsulting to Organisations (30 credits) - Optional\nLeadership (15 credits) - Optional\nCoaching and Mentoring (15 credits) - Optional\nBusiness Ethics (15 credits) - Optional\nSustainable Business (15 credits) - Optional\nServices Marketing Management (15 credits) - Optional\nStrategic Management Accounting (15 credits) - Optional\nEntrepreneurial Finance (15 credits) - Optional\nOrganisational Change (15 credits) - Optional\nBusiness Analytics (15 credits) - Optional Workforce Management (15 credits) - Compulsory Professional Communication (15 credits) - Compulsory Strategic Management (30 credits) - Compulsory Equality Diversity and Inclusion (15 credits) - Optional Business Start-Up (30 credits) - Optional Business Game (30 credits) - Optional Research Project (30 credits) - Optional Principles of Project Management (30 credits) - Optional Global Supply Chain Management (30 credits) - Optional Innovation Management (30 credits) - Optional Work Internship (30 credits) - Optional Consulting to Organisations (30 credits) - Optional Leadership (15 credits) - Optional Coaching and Mentoring (15 credits) - Optional Business Ethics (15 credits) - Optional Sustainable Business (15 credits) - Optional Services Marketing Management (15 credits) - Optional Strategic Management Accounting (15 credits) - Optional Entrepreneurial Finance (15 credits) - Optional Organisational Change (15 credits) - Optional Business Analytics (15 credits) - Optional In Year 2 and Year 3 you will take one of our specialist pathways, choosing from Business Management (direct route), HR, Marketing, Finance, Project Management, Innovation and Supply Chain.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "70%"
+          },
+          {
+            "type": "raw",
+            "text": "70% in at least 5 subjects."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "70"
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Business Management [MCKL Diploma Pathway]",
+      "field_of_study": "Business and Management",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Completed the MCKL Diploma with the required minimum CGPA of 2.50."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 163520
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Business Management (Finance) [MCKL Diploma Pathway]",
+      "field_of_study": "Business and Management",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Completed the MCKL Diploma with the required minimum CGPA of 2.50."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 163520
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Cyber Security and Digital Forensics",
+      "field_of_study": "Computer Science",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least BBC.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.",
+        "STPM": "Pass with at least BBC.",
+        "CPU": "70% in at least 5 subjects.",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 242550
+      },
+      "course_content": {
+        "core": "Year 1 - Compulsory Computer Systems Architecture and Operating Systems (30 credits)\nComputer Networks (30 credits)\nInformation in Organisations (30 credits)\nProgramming for Data Communication and Networks (30 credits) Computer Systems Architecture and Operating Systems (30 credits) Computer Networks (30 credits) Information in Organisations (30 credits) Programming for Data Communication and Networks (30 credits) Year 2 - Compulsory Cyber Security and Digital Forensics Compliance (30 credits)\nDigital Incident Scene Investigation and Analysis (30 credits)\nNetwork and Protocol Analysis (30 credits)\nInternet Technologies (30 credits) Cyber Security and Digital Forensics Compliance (30 credits) Digital Incident Scene Investigation and Analysis (30 credits) Network and Protocol Analysis (30 credits) Internet Technologies (30 credits) Year 3 - Compulsory Individual Project (30 credits)\nDefensive Security (30 credits)\nMemory Analysis (30 credits) Individual Project (30 credits) Defensive Security (30 credits) Memory Analysis (30 credits)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "raw",
+            "text": "70% in at least 5 subjects."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Computer Science [MCKL Diploma Pathway]",
+      "field_of_study": "Computer Science",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Completed the MCKL Diploma in Computer Science with the required minimum CGPA of 2.50."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 163520
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom",
+        "UEC": "Grade B in 5 Subjects.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom",
+        "STPM": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom",
+        "CPU": "70% in at least 5 subjects.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 242550
+      },
+      "course_content": {
+        "core": "Year 1 Design Exploration (30 credits) - Compulsory\nCreative Typography (30 credits) - Compulsory\nGraphic Design Creative Workshops (30 credits) - Compulsory\nUnderstanding Visual Communication (30 credits) - Compulsory Design Exploration (30 credits) - Compulsory Creative Typography (30 credits) - Compulsory Graphic Design Creative Workshops (30 credits) - Compulsory Understanding Visual Communication (30 credits) - Compulsory Year 2 Graphic Design Practice (60 credits) - Compulsory\nGraphic Design Communication Workshops (30 credits) - Compulsory\nGraphic Design Cultures (30 credits) - Compulsory Graphic Design Practice (60 credits) - Compulsory Graphic Design Communication Workshops (30 credits) - Compulsory Graphic Design Cultures (30 credits) - Compulsory Year 3 Graphic Design Major Projects (60 credits) - Compulsory\nGraphic Design Professional Practice (60 credits) - Compulsory Graphic Design Major Projects (60 credits) - Compulsory Graphic Design Professional Practice (60 credits) - Compulsory",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "70% in at least 5 subjects.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Information Technology and Business Information System [MCKL Diploma Pathway]",
+      "field_of_study": "Information Systems",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Completed the MCKL Diploma with the required minimum CGPA of 2.50."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 163520
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Information Technology and Business Information System (top-up)",
+      "field_of_study": "Information Technology (IT)",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 80850
+      },
+      "course_content": {
+        "core": "Core modules Strategic Information Systems (Enterprise Project) (30 credits) - Compulsory\nUG Individual Project (30 credits) - Compulsory\nUser Experience (UX) Design (30 credits) - Compulsory\nBusiness Intelligence (30 credits) - Compulsory Strategic Information Systems (Enterprise Project) (30 credits) - Compulsory UG Individual Project (30 credits) - Compulsory User Experience (UX) Design (30 credits) - Compulsory Business Intelligence (30 credits) - Compulsory",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Business Computing and Data Analytics [MCKL Diploma Pathway]",
+      "field_of_study": "Information Technology (IT)",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Completed the MCKL Diploma with the required minimum CGPA of 2.50."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 163520
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Information Technology [MCKL Diploma Pathway]",
+      "field_of_study": "Information Technology (IT)",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Completed the MCKL Diploma with the required minimum CGPA of 2.50."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 163520
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA Interior Architecture",
+      "field_of_study": "Interior Architecture",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom",
+        "UEC": "Grade B in 5 Subjects.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom",
+        "STPM": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom",
+        "CPU": "70% in at least 5 subjects.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 242550
+      },
+      "course_content": {
+        "core": "Year 1 Fundamental Contexts and Skills (30 credits) - Compulsory\nFundamental Practice (30 credits) - Compulsory\nInterpreting Contexts and Skills (30 credits) - Compulsory\nInterpreting Practice (30 credits) - Compulsory Fundamental Contexts and Skills (30 credits) - Compulsory Fundamental Practice (30 credits) - Compulsory Interpreting Contexts and Skills (30 credits) - Compulsory Interpreting Practice (30 credits) - Compulsory Year 2 Developing Contexts and Skills (30 credits) - Compulsory\nDeveloping Practice (30 credits) - Compulsory\nInterior Architecture: Application (60 credits) - Compulsory Developing Contexts and Skills (30 credits) - Compulsory Developing Practice (30 credits) - Compulsory Interior Architecture: Application (60 credits) - Compulsory",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "70% in at least 5 subjects.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit a portfolio for assessment or Attend an online interview via Zoom"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) International Business [MCKL Diploma Pathway]",
+      "field_of_study": "International Business",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Completed the MCKL Diploma with the required minimum CGPA of 2.50."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 163520
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) International Business Administration [MCKL Diploma Pathway]",
+      "field_of_study": "International Business",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Completed the MCKL Diploma with the required minimum CGPA of 2.50."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 163520
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Business Management (Marketing) [MCKL Diploma Pathway]",
+      "field_of_study": "Marketing",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Completed the MCKL Diploma with the required minimum CGPA of 2.50."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 163520
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Advertising, Public Relations and Branding [MCKL Diploma Pathway]",
+      "field_of_study": "Marketing",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Completed the MCKL Diploma with the required minimum CGPA of 2.50."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 163520
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Completed the MCKL Diploma with the required minimum CGPA of 2.50."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA Advertising, Public Relations and Branding",
+      "field_of_study": "Mass Communication",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least BBC.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.",
+        "STPM": "Pass with at least BBC.",
+        "CPU": "70% in at least 5 subjects.",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 242550
+      },
+      "course_content": {
+        "core": "Year 1 Brands, Media and Society (30 credits) - Compulsory\nCreative Advertising (30 credits) - Compulsory\nPublic Relations Practice (30 credits) - Compulsory\nContent Design (30 credits) - Compulsory Brands, Media and Society (30 credits) - Compulsory Creative Advertising (30 credits) - Compulsory Public Relations Practice (30 credits) - Compulsory Content Design (30 credits) - Compulsory Year 2 Understanding Consumer Culture (30 credits) - Compulsory\nBrand Management (30 credits) - Compulsory\nCampaign Planning (30 credits) - Compulsory\nCreative Industries Work Placement (30 credits) - Optional\nPromotional Cultures (30 credits) - Optional\nPromotional Video Production (30 credits) - Optional Understanding Consumer Culture (30 credits) - Compulsory Brand Management (30 credits) - Compulsory Campaign Planning (30 credits) - Compulsory Creative Industries Work Placement (30 credits) - Optional Promotional Cultures (30 credits) - Optional Promotional Video Production (30 credits) - Optional Year 3 Independent Project (30 credits) - Compulsory\nDigital Advertising (30 credits) - Compulsory\nSocial Media and Public Relations (30 credits) - Compulsory\nCampaigns and Social Impact (30 credits) - Optional\nEntrepreneurship (30 credits) - Optional\nPlace Branding and International Diplomacy (30 credits) - Optional Independent Project (30 credits) - Compulsory Digital Advertising (30 credits) - Compulsory Social Media and Public Relations (30 credits) - Compulsory Campaigns and Social Impact (30 credits) - Optional Entrepreneurship (30 credits) - Optional Place Branding and International Diplomacy (30 credits) - Optional",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "raw",
+            "text": "70% in at least 5 subjects."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Occupational Safety and Health Management (Top-Up)",
+      "field_of_study": "Occupational Safety & Health",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Diploma": "Minimum CGPA 3.00 (Diploma in related field). Candidates with CGPA below 2.75 but and with 3 years relevant working experience are also accepted.."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 80850
+      },
+      "course_content": {
+        "core": "Core modules Philosophy and Approaches to Health and Safety at Work (30 credits) - Compulsory\nToxicology and Science Foundation (15 credits) – Compulsory\nOccupational hygiene, health and ergonomics (15 credits) – Compulsory\nWorkplace and Fire Safety (15 credits) - Compulsory\nEnvironmental Assessment and Management (15 credits) - Optional\nManagement of health and well-being (15 credits) - Optional\nResearch Methods and Project (30 credits) - Compulsory Philosophy and Approaches to Health and Safety at Work (30 credits) - Compulsory Toxicology and Science Foundation (15 credits) – Compulsory Occupational hygiene, health and ergonomics (15 credits) – Compulsory Workplace and Fire Safety (15 credits) - Compulsory Environmental Assessment and Management (15 credits) - Optional Management of health and well-being (15 credits) - Optional Research Methods and Project (30 credits) - Compulsory",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<",
+            "value": 2.75
+          },
+          {
+            "type": "raw",
+            "text": "but and with 3 years relevant working experience are also accepted.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA Theatre Performance & Production",
+      "field_of_study": "Performing Arts",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least BBC.  Applicants may be required to submit showreel",
+        "UEC": "Grade B in 5 Subjects.  Applicants may be required to submit showreel",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit showreel",
+        "STPM": "Pass with at least BBC.  Applicants may be required to submit showreel",
+        "CPU": "70% in at least 5 subjects.  Applicants may be required to submit showreel",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit showreel"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 242550
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Acting and Performance (30 credits) - Compulsory\nIntroduction to Design and Production (30 credits) - Compulsory\nPerspectives on Theatre (30 credits) - Compulsory\nMaking Theatre (30 credits) - Compulsory Introduction to Acting and Performance (30 credits) - Compulsory Introduction to Design and Production (30 credits) - Compulsory Perspectives on Theatre (30 credits) - Compulsory Making Theatre (30 credits) - Compulsory Year 2 Theatre Industry: Applied Practices (30 credits) - Compulsory\nThe Actor and Director (30 credits) - Compulsory\nPerformance Project (30 credits) - Compulsory\nThe Scenographer (30 credits) - Optional\nThe Solo Performer (30 credits) - Optional\nThe Writer and Dramaturg (30 credits) - Optional Theatre Industry: Applied Practices (30 credits) - Compulsory The Actor and Director (30 credits) - Compulsory Performance Project (30 credits) - Compulsory The Scenographer (30 credits) - Optional The Solo Performer (30 credits) - Optional The Writer and Dramaturg (30 credits) - Optional Year 3 Theatre Industry: Placement and Portfolio (30 credits) - Compulsory\nPerformance: Body and Training * (30 credits) - Compulsory\nTheatre Festival (30 credits) - Compulsory\nDirecting: Practices and Philosophies ** (30 credits) - Optional\nSolo: Stand-up Comedy / Performance Art (30 credits) - Optional\nTheatre Laboratory (30 credits) - Optional Theatre Industry: Placement and Portfolio (30 credits) - Compulsory Performance: Body and Training * (30 credits) - Compulsory Theatre Festival (30 credits) - Compulsory Directing: Practices and Philosophies ** (30 credits) - Optional Solo: Stand-up Comedy / Performance Art (30 credits) - Optional Theatre Laboratory (30 credits) - Optional * This module is compulsory for the BA Theatre Performance and Production exit award",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC.  Applicants may be required to submit showreel"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  Applicants may be required to submit showreel"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit showreel"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC.  Applicants may be required to submit showreel"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "raw",
+            "text": "70% in at least 5 subjects.  Applicants may be required to submit showreel"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70.  Applicants may be required to submit showreel"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Psychology",
+      "field_of_study": "Psychology",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least BBB.",
+        "UEC": "Grade B5 in 5 Subjects.",
+        "Diploma": "Minimum CGPA 3.00 (Diploma in a related field).",
+        "STPM": "Pass with at least BBB.",
+        "CPU": "75% in at least 5 subjects.",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70."
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 242550
+      },
+      "course_content": {
+        "core": "Year 1 - Compulsory Mind and Behaviour in Context (30 credits)\nPsychology: Practice and Context (30 credits)\nPreparing for Academic Success (15 credits)\nPsychological Statistics (15 credits)\nResearch Methods & Design in Psychology (30 credits) Mind and Behaviour in Context (30 credits) Psychology: Practice and Context (30 credits) Preparing for Academic Success (15 credits) Psychological Statistics (15 credits) Research Methods & Design in Psychology (30 credits) Year 2 - Compulsory Research Methods & Ethics in Psychology (30 credits)\nContemporary Issues in Psychology (30 credits)\nSocial, Personality and Developmental Psychology (30 credits)\nBrain, Body and Mind (30 credits) Research Methods & Ethics in Psychology (30 credits) Contemporary Issues in Psychology (30 credits) Social, Personality and Developmental Psychology (30 credits) Brain, Body and Mind (30 credits) Year 3 - Optional (Students must complete a total of 120 credits in the final year) Professional Practice (30 credits) Year 3 dissertation modules - choose ONE module from the following: Psychology Dissertation (30 credits)\nExtended Psychology Dissertation (45 credits)\nYear 3 - Autumn term modules - Block 1: a maximum of one module may be taken\nAdvanced Qualitative Research Methods (15 credits)\nCritical Forensic Psychology (15 credits)\nApplying Health Psychology to Behaviour Change (15 credits)\nNeuropsychology: The Healthy Brain and What Can Go Wrong With It (15 credits) Psychology Dissertation (30 credits) Extended Psychology Dissertation (45 credits) Year 3 - Autumn term modules - Block 1: a maximum of one module may be taken Advanced Qualitative Research Methods (15 credits) Critical Forensic Psychology (15 credits) Applying Health Psychology to Behaviour Change (15 credits) Neuropsychology: The Healthy Brain and What Can Go Wrong With It (15 credits) Year 3 - Autumn term modules - Block 2: a maximum of one module may be taken Visual Psychology: Arts, Film and Photography in Psychology (15 credits)\nSocial, Cultural & Community Mental Health (15 credits) Visual Psychology: Arts, Film and Photography in Psychology (15 credits) Social, Cultural & Community Mental Health (15 credits) Year 3 - Autumn term modules - Block 3: a maximum of one module may be taken Creativity & Imagination (15 credits)\nPsychology in Education (15 credits)\nHow to Do Cognitive Neuroscience (15 credits) Creativity & Imagination (15 credits) Psychology in Education (15 credits) How to Do Cognitive Neuroscience (15 credits) Year 3 - Spring term modules - Block 4: a maximum of one module may be taken Psychology of Music (15 credits)\nKey Issues and Controversies in the Psychology of Elite Sport Performance (15 credits)\nNeuropsychology of Language and Communication (15 credits)\nPrimatology (15 credits) Psychology of Music (15 credits) Key Issues and Controversies in the Psychology of Elite Sport Performance (15 credits) Neuropsychology of Language and Communication (15 credits) Primatology (15 credits) Year 3 - Spring term modules - Block 5: a maximum of one module may be taken Coaching Psychology (15 credits)\nThe Science of Intimate Relationships (15 credits)\nFundamentals of Cognition: Human memory (15 credits)\nLifespan Stages: Adult stages of development (15 credits) Coaching Psychology (15 credits) The Science of Intimate Relationships (15 credits) Fundamentals of Cognition: Human memory (15 credits) Lifespan Stages: Adult stages of development (15 credits) Year 3 - Spring term modules - Block 6: a maximum of one module may be taken Therapeutic Psychology (15 credits)\nThe Psychology of Stress, Motivation and Work-Life Balance (15 credits)\nEvolutionary Approaches to Behaviour (15 credits)\nLifespan Issues: Impact of Life Experience (15 credits) Therapeutic Psychology (15 credits) The Psychology of Stress, Motivation and Work-Life Balance (15 credits) Evolutionary Approaches to Behaviour (15 credits) Lifespan Issues: Impact of Life Experience (15 credits)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBB."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B5"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Grade B5 in 5 Subjects."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 3.00 (Diploma in a related field)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBB."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "75%"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "75% in at least 5 subjects."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc Sports and Exercise Science",
+      "field_of_study": "Sports Science",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "Pass with at least BBC.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English",
+        "UEC": "Grade B in 5 Subjects.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English",
+        "STPM": "Pass with at least BBC.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English",
+        "CPU": "70% in at least 5 subjects.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 70.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English"
+      },
+      "english_requirements": {
+        "IELTS": "6.0 (with minimum 5.5 in all components)",
+        "TOEFL": "72 (with at least 17 in listening & writing, 20 in speaking and 18 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 242550
+      },
+      "course_content": {
+        "core": "Year 1 - Compulsory Fundamentals of Research Methods in Sport & Exercise Science (15 credits)\nFundamentals of Physical Education and Sports Coaching (15 credits)\nMovement Analysis (15 credits)\nFundamentals of Training Principles in Sport and Exercise (30 credits)\nFundamentals of Sport and Exercise Science (30 credits)\nMade in Middlesex Expansion Module (Cognitive Me) (15 credits) Fundamentals of Research Methods in Sport & Exercise Science (15 credits) Fundamentals of Physical Education and Sports Coaching (15 credits) Movement Analysis (15 credits) Fundamentals of Training Principles in Sport and Exercise (30 credits) Fundamentals of Sport and Exercise Science (30 credits) Made in Middlesex Expansion Module (Cognitive Me) (15 credits) Year 2 - Compulsory Made in Middlesex Expansion Module (Associative Me) (15 Credits)\nApplied Sport Psychology (30 credits)\nApplied Performance Analysis (15 credits)\nApplied Sport and Exercise Nutrition (15 credits)\nApplied Physiology and Biomechanics (30 credits)\nResearch Methods (15 Credits) Made in Middlesex Expansion Module (Associative Me) (15 Credits) Applied Sport Psychology (30 credits) Applied Performance Analysis (15 credits) Applied Sport and Exercise Nutrition (15 credits) Applied Physiology and Biomechanics (30 credits) Research Methods (15 Credits) Year 3 - Compulsory Dissertation (30 credits)\nAdvanced Sport Psychology (15 credits)\nAdvanced Biomechanics (15 credits)\nAdvanced Physiology (15 credits)\nAdvanced Sport and Exercise Work Based Practice (15 credits)\nAdvanced Sport and Exercise Science (30 credits) Dissertation (30 credits) Advanced Sport Psychology (15 credits) Advanced Biomechanics (15 credits) Advanced Physiology (15 credits) Advanced Sport and Exercise Work Based Practice (15 credits) Advanced Sport and Exercise Science (30 credits)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language/Literature",
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language/Literature",
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language/Literature",
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language/Literature",
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least BBC.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language/Literature",
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "70% in at least 5 subjects.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language/Literature",
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 70.  SPM-level or equivalent:\n5 credits including English Language/Literature and Mathematics and Science\npass in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc Cybercrime and Digital Investigation",
+      "field_of_study": "Computer Science",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Minimum CGPA 2.20 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 (with minimum 6.0 in all components)",
+        "TOEFL": "87 (with at least 21 in listening & writing, 22 in speaking and 23 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 81400
+      },
+      "course_content": {
+        "core": "Core modules Digital Investigations and Incident Management (15 credits) - Compulsory\nCrime Risks from Emerging Technologies (15 credits) - Compulsory\nCybercrime and Society (20 credits) - Compulsory\nBlockchain Anatomy and Analytics (15 credits) - Compulsory\nOpen-Source Intelligence Techniques (15 credits) - Compulsory\nResearching Cybercrime (20 credits) - Compulsory Digital Investigations and Incident Management (15 credits) - Compulsory Crime Risks from Emerging Technologies (15 credits) - Compulsory Cybercrime and Society (20 credits) - Compulsory Blockchain Anatomy and Analytics (15 credits) - Compulsory Open-Source Intelligence Techniques (15 credits) - Compulsory Researching Cybercrime (20 credits) - Compulsory Optional modules Political Violence and Terrorism (20 credits) - Optional\nCritical Issues in Criminal Justice (20 credits) - Optional\nGlobal Criminology and Policing (20 credits) - Optional\nHuman Rights and Contemporary Justice (20 credits) - Optional\nYouth Offending, Disorder and Gangs (20 credits) - Optional\nPsychological Interventions and Responses to Offending (20 credits) - Optional\nCritical Issues in Criminal Justice (20 credits) - Compulsory\nCommunity Safety and Public Protection (20 credits) - Optional\nInterpersonal Violence and Hate Crime (20 credits) - Compulsory\nDrugs and Crime (20 credits) - Optional Political Violence and Terrorism (20 credits) - Optional Critical Issues in Criminal Justice (20 credits) - Optional Global Criminology and Policing (20 credits) - Optional Human Rights and Contemporary Justice (20 credits) - Optional Youth Offending, Disorder and Gangs (20 credits) - Optional Psychological Interventions and Responses to Offending (20 credits) - Optional Critical Issues in Criminal Justice (20 credits) - Compulsory Community Safety and Public Protection (20 credits) - Optional Interpersonal Violence and Hate Crime (20 credits) - Compulsory Drugs and Crime (20 credits) - Optional Summer term (choose one module) Dissertation (60 credits) - Optional\nWork Integrated Learning (60 credits) - Optional\nCyber Awareness Project (60 credits) - Optional Dissertation (60 credits) - Optional Work Integrated Learning (60 credits) - Optional Cyber Awareness Project (60 credits) - Optional",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.2
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.20 (Diploma in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc Data Science",
+      "field_of_study": "Computer Science",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Minimum CGPA 2.20 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 (with minimum 6.0 in all components)",
+        "TOEFL": "87 (with at least 21 in listening & writing, 22 in speaking and 23 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 84150
+      },
+      "course_content": {
+        "core": "Modules Modelling, Regression and Machine Learning (30 credits) - Compulsory\nVisual Data Analysis (30 credits) - Compulsory\nApplied Data Analytics: Tools, Practical Big Data Handling, Cloud Distribution (30 credits) - Compulsory\nLegal, Ethical and Security Aspects of Data Management (30 credits) - Compulsory\nIndividual Data Science Project (60 credits) - Compulsory Modelling, Regression and Machine Learning (30 credits) - Compulsory Visual Data Analysis (30 credits) - Compulsory Applied Data Analytics: Tools, Practical Big Data Handling, Cloud Distribution (30 credits) - Compulsory Legal, Ethical and Security Aspects of Data Management (30 credits) - Compulsory Individual Data Science Project (60 credits) - Compulsory",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.2
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.20 (Diploma in a related field)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc Digital Marketing",
+      "field_of_study": "Marketing",
+      "location": "Middlesex, The Burroughs",
+      "intakes": [
+        "Oct"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Minimum CGPA 2.20 (Diploma in a related field)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 (with minimum 6.0 in all components)",
+        "TOEFL": "87 (with at least 21 in listening & writing, 22 in speaking and 23 in reading)"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 92400
+      },
+      "course_content": {
+        "core": "Modules Digital Marketing Strategy and Communications (15 Credits) - Compulsory\nE-Marketing and Social Media Management (15 Credits) - Compulsory\nBranding in the Digital Age (15 Credits) - Compulsory\nConsumer Psychology (15 Credits) - Compulsory\nDigital Marketing Analytics (15 Credits) - Compulsory\nPractitioner Perspective (15 Credits) - Compulsory\nBranding in the Digital Age (15 credits) - Compulsory\nGrowth Driven Marketing with AI – Automation (15 Credits) - Optional\ne-Commerce and Social Selling (15 credits) - Optional\nEntrepreneurship in the Digital Sector (15 credits) - Optional\nIndustry Placed Experience: Applied Digital Marketing (15 credits) - Optional\nResearch methods & dissertation (60 Credits) Compulsory Digital Marketing Strategy and Communications (15 Credits) - Compulsory E-Marketing and Social Media Management (15 Credits) - Compulsory Branding in the Digital Age (15 Credits) - Compulsory Consumer Psychology (15 Credits) - Compulsory Digital Marketing Analytics (15 Credits) - Compulsory Practitioner Perspective (15 Credits) - Compulsory Branding in the Digital Age (15 credits) - Compulsory Growth Driven Marketing with AI – Automation (15 Credits) - Optional e-Commerce and Social Selling (15 credits) - Optional Entrepreneurship in the Digital Sector (15 credits) - Optional Industry Placed Experience: Applied Digital Marketing (15 credits) - Optional Research methods & dissertation (60 Credits) Compulsory",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.2
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.20 (Diploma in a related field)."
+          }
+        ]
+      }
+    }
+  ]
+}

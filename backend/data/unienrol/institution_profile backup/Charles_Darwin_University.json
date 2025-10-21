@@ -1,0 +1,255 @@
+{
+  "institution_name": "Charles Darwin University",
+  "institution_country": "Australia",
+  "institution_type": "Public",
+  "world_rank": 1240,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Diploma of Business",
+      "field_of_study": "Business and Management",
+      "location": "UP Education Charles Darwin University International College",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "A levels with a minimum combination of grade D and E or better (3 points from 2 subjects).",
+        "STPM": "2 passes."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 89198
+      },
+      "course_content": {
+        "core": "Subjects Core Units (7 units): totalling 70 credit points as detailed below IDC101 Academic Literacies Through Exploring Sustainability\nIDC102 Cultural Intelligence and Capability\nIDC103 Business and Professional Communications\nIDB101 Quantitative Analysis for Business\nIDB102 Introduction to Business Law\nIDB103 Introduction to Management\nIDB104 Business Economics IDC101 Academic Literacies Through Exploring Sustainability IDC102 Cultural Intelligence and Capability IDC103 Business and Professional Communications IDB101 Quantitative Analysis for Business IDB102 Introduction to Business Law IDB103 Introduction to Management IDB104 Business Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "A levels with a minimum combination of grade D and E or better (3 points from 2 subjects)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 passes."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma of Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "UP Education Charles Darwin University International College",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "A levels with a minimum combination of grade D and E or better (3 points from 2 subjects).",
+        "STPM": "2 passes."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 97944
+      },
+      "course_content": {
+        "core": "Subjects  Core Units (7 units): totalling 70 credit points as detailed below  IDC101 Academic Literacies Through Exploring Sustainability\nIDC102 Cultural Intelligence and Capability\nIDC103 Business and Professional Communications\nIDI101 Computing Fundamentals\nIDI102 Software Now\nIDI103 Statistics\nIDI104 Operating Systems and Applications IDC101 Academic Literacies Through Exploring Sustainability IDC102 Cultural Intelligence and Capability IDC103 Business and Professional Communications IDI101 Computing Fundamentals IDI102 Software Now IDI103 Statistics IDI104 Operating Systems and Applications",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "A levels with a minimum combination of grade D and E or better (3 points from 2 subjects)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 passes."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "International Foundation Studies (Arts)",
+      "field_of_study": "Foundation in Arts",
+      "location": "UP Education Charles Darwin University International College",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "2 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 67999
+      },
+      "course_content": {
+        "core": "Course Structure Students take eight units over two semesters (four each semester). The three compulsory English units are offered each semester (English A is a prerequisite for English B).  Core Units Complete the following 3 units FSP001 – English A \nFSP002 – English B \nFSP015 – Australian Histories, Institutions and Cultures. FSP001 – English A FSP002 – English B FSP015 – Australian Histories, Institutions and Cultures.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "International Foundation Studies (Science)",
+      "field_of_study": "Foundation in Science",
+      "location": "UP Education Charles Darwin University International College",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Nov"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc",
+        "O-Level": "2 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+      },
+      "english_requirements": {
+        "IELTS": "5.5 (No band less than 5.0) or equivalent"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 67999
+      },
+      "course_content": {
+        "core": "Course Structure Students take eight units over two semesters (four each semester). The three compulsory English units are offered each semester (English A is a prerequisite for English B).  Core Units Complete the following 3 units FSP001 – English A \nFSP002 – English B \nFSP015 – Australian Histories, Institutions and Cultures. FSP001 – English A FSP002 – English B FSP015 – Australian Histories, Institutions and Cultures.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Aggregate of 20 points or less across 5 academic subjects.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes (C) at GCSEs.  Non academic subject e.g. Bahasa Melayu, English, Pendidikan Islam etc"
+          }
+        ]
+      }
+    }
+  ]
+}

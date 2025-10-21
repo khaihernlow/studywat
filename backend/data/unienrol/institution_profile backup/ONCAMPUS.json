@@ -1,0 +1,2937 @@
+{
+  "institution_name": "ONCAMPUS",
+  "institution_country": null,
+  "institution_type": null,
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Arts and Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Southampton",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass in SPM with 5C.",
+        "O-Level": "Pass in IGCSE with 5C.",
+        "UEC": "Pass in UEC with 5 C7."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 118399
+      },
+      "course_content": {
+        "core": "Art and Design 1\nArt and Design 2\nContextual Studies Art and Design 1 Art and Design 2 Contextual Studies",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass in SPM with 5C."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass in IGCSE with 5C."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "Pass in UEC with 5 C7."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Business, Economics, Finance & Management",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Southampton",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass in SPM with 5C.",
+        "O-Level": "Pass in IGCSE with 5C.",
+        "UEC": "Pass in UEC with 5 C7."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 118399
+      },
+      "course_content": {
+        "core": "Economics and Finance \nBusiness Behaviours or Advance Maths for Business and Finance\nSkills for Business Economics and Finance Business Behaviours or Advance Maths for Business and Finance Skills for Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass in SPM with 5C."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass in IGCSE with 5C."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "Pass in UEC with 5 C7."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Humanities, Law and Social Sciences",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Southampton",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass in SPM with 5C.",
+        "O-Level": "Pass in IGCSE with 5C.",
+        "UEC": "Pass in UEC with 5 C7."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 118399
+      },
+      "course_content": {
+        "core": "Globalisation and International Relations\nHuman Interactions\nSkills for Humanities and Social Sciences Globalisation and International Relations Human Interactions Skills for Humanities and Social Sciences",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass in SPM with 5C."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass in IGCSE with 5C."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "Pass in UEC with 5 C7."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Business, Economics, Finance & Management",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Aston",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass in SPM with 5C including D in Mathematics.",
+        "O-Level": "Pass in O-Level with 5C including D in Mathematics.",
+        "UEC": "Pass in UEC with 5 C7 including Mathematics."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 90185
+      },
+      "course_content": {
+        "core": "Economics and Finance\nPure Mathematics \nSkills for Business\nEnglish Economics and Finance Pure Mathematics Skills for Business English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass in SPM with 5C including D in Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "Pass in O-Level with 5C including D in Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in UEC with 5 C7 including Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Humanities, Law and Social Sciences",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Aston",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM including D in Maths.",
+        "O-Level": "5 Cs in IGCSE including D in Maths.",
+        "UEC": "5 C7 in UEC including Maths."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 90185
+      },
+      "course_content": {
+        "core": "Globalisation and International Relations\nHuman Interactions\nSkills for Humanities and Social Sciences\nEnglish Globalisation and International Relations Human Interactions Skills for Humanities and Social Sciences English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "grade",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM including D in Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "grade",
+            "value": "D"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in IGCSE including D in Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Arts and Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS LSBU",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 81813
+      },
+      "course_content": {
+        "core": "Design\nVisual Communication\nSkills for Art and Design Design Visual Communication Skills for Art and Design",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Business, Economics, Finance & Management",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS LSBU",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 81813
+      },
+      "course_content": {
+        "core": "Economics and Finance\nBusiness Behaviours\nSkills for Business Economics and Finance Business Behaviours Skills for Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Humanities, Law and Social Sciences",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS LSBU",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 81813
+      },
+      "course_content": {
+        "core": "Globalisation and International Relations\nBusiness Behaviours\nSkills for Humanities and Social Sciences Globalisation and International Relations Business Behaviours Skills for Humanities and Social Sciences",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Business, Economics, Finance & Management",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Sunderland",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 77452
+      },
+      "course_content": {
+        "core": "Economics & Finance \nBusiness Behaviours\nSkills for Business\nEnglish Economics & Finance Business Behaviours Skills for Business English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Humanities, Law and Social Sciences",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Sunderland",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 77452
+      },
+      "course_content": {
+        "core": "Economics & Finance \nBusiness Behaviours\nSkills for Business\nEnglish Economics & Finance Business Behaviours Skills for Business English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Business, Economics, Finance & Management",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS London",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 104184
+      },
+      "course_content": {
+        "core": "Economics and Finance\nBusiness Behaviours or Pure Mathematics\nSkills for Business Economics and Finance Business Behaviours or Pure Mathematics Skills for Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Humanities, Law and Social Sciences",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS London",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 104184
+      },
+      "course_content": {
+        "core": "Globalisation and International Relations\nHuman Interactions\nSkills for Humanities and Social Sciences Globalisation and International Relations Human Interactions Skills for Humanities and Social Sciences",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Business, Economics, Finance & Management",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS UK North",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 84720
+      },
+      "course_content": {
+        "core": "Economics and Finance\nBusiness Behaviours or Pure Mathematics\nSkills for Business Economics and Finance Business Behaviours or Pure Mathematics Skills for Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Humanities, Law and Social Sciences",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS UK North",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 84720
+      },
+      "course_content": {
+        "core": "Globalisation and International Relations\nHuman Interactions\nSkills for Humanities and Social Sciences Globalisation and International Relations Human Interactions Skills for Humanities and Social Sciences",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Arts and Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Reading",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 96835
+      },
+      "course_content": {
+        "core": "Design\nVisual Communication\nSkills for Art and Design Design Visual Communication Skills for Art and Design",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Business, Economics, Finance & Management",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Reading",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 96835
+      },
+      "course_content": {
+        "core": "Economics and Finance\nBusiness Behaviours or Pure Maths\nSkills for Business Economics and Finance Business Behaviours or Pure Maths Skills for Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Humanities, Law and Social Sciences",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Reading",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 96835
+      },
+      "course_content": {
+        "core": "Globalisation and Internationalisation\nHuman Interactions\nSkills for Humanities and Social Sciences Globalisation and Internationalisation Human Interactions Skills for Humanities and Social Sciences",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Business, Economics,Finance & Management",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Hull",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 84882
+      },
+      "course_content": {
+        "core": "Economics and Finance\nBusiness Behaviours\nSkills for Business Economics and Finance Business Behaviours Skills for Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Humanities, Law and SocialSciences",
+      "field_of_study": "Foundation in Arts",
+      "location": "ONCAMPUS Hull",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM.",
+        "O-Level": "5Cs in IGCSE.",
+        "UEC": "5 C7 in UEC."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 84882
+      },
+      "course_content": {
+        "core": "Globalisation and International Relations\nBusiness Behaviours\nSkills for Business Globalisation and International Relations Business Behaviours Skills for Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Engineering and Physical Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS Southampton",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass in SPM with 5C including Physics and Mathematics.",
+        "O-Level": "Pass in IGCSE with 5C including Physics and Mathematics.",
+        "UEC": "Pass in UEC with 5 C7 including Physics and Mathematics."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 118399
+      },
+      "course_content": {
+        "core": "Pure Mathematics\nPhysics or Chemistry*\nSkills for Science Pure Mathematics Physics or Chemistry* Skills for Science",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in SPM with 5C including Physics and Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in IGCSE with 5C including Physics and Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in UEC with 5 C7 including Physics and Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Life Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS Southampton",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass in SPM with 5C including Mathematics and 1 Science subject..",
+        "O-Level": "Pass in IGCSE with 5C including Mathematics and 1 Science Subject.",
+        "UEC": "Pass UEC with 5 C7 including Mathematics and 1 Science subject."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 118399
+      },
+      "course_content": {
+        "core": "Biology for Life Sciences\nChemistry for Life Sciences\nSkills for Science Biology for Life Sciences Chemistry for Life Sciences Skills for Science",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in SPM with 5C including Mathematics and 1 Science subject.."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass in IGCSE with 5C including Mathematics and 1 Science Subject."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 5 C7 including Mathematics and 1 Science subject."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Engineering and Physical Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS Aston",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5Cs in SPM including Physics and Maths.",
+        "O-Level": "5Cs in IGCSE including Physics and Maths.",
+        "UEC": "5 C7 in UEC including Physics and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 95273
+      },
+      "course_content": {
+        "core": "Pure Mathematics\nPhysics or Chemistry\nSkills for Science\nEnglish Pure Mathematics Physics or Chemistry Skills for Science English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in SPM including Physics and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including Physics and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including Physics and Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Life Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS Aston",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5Cs in SPM including 1 Science Subject and Maths.",
+        "O-Level": "5Cs in IGCSE including 1 Science Subject and Maths.",
+        "UEC": "5 C7 in UEC including 1 Science Subject and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 95273
+      },
+      "course_content": {
+        "core": "Biology for Life Sciences\nChemistry for Life Sciences\nSkills for Science\nEnglish Biology for Life Sciences Chemistry for Life Sciences Skills for Science English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in SPM including 1 Science Subject and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including 1 Science Subject and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including 1 Science Subject and Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Engineering and Physical Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS LSBU",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM including Physics and Maths.",
+        "O-Level": "5Cs in IGCSE including Physics and Maths.",
+        "UEC": "5 C7 in UEC including Physics and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 88436
+      },
+      "course_content": {
+        "core": "Pure Mathematics\nPhysics or Chemistry\nSkills for Science Pure Mathematics Physics or Chemistry Skills for Science",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM including Physics and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including Physics and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including Physics and Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Engineering and Physical Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS Sunderland",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM including Physics and Maths.",
+        "O-Level": "5Cs in IGCSE including Physics and Maths.",
+        "UEC": "5 C7 in UEC including Physics and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 83105
+      },
+      "course_content": {
+        "core": "Pure Mathematics\nPhysics\nSkills for Science\nEnglish Pure Mathematics Physics Skills for Science English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM including Physics and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including Physics and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including Physics and Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Life Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS Sunderland",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5Cs in SPM including 1 Science Subject and Maths.",
+        "O-Level": "5Cs in IGCSE including 1 Science Subject and Maths.",
+        "UEC": "5 C7 in UEC including 1 Science Subject and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 83105
+      },
+      "course_content": {
+        "core": "Chemistry for Life Sciences\nBiology for Life Sciences\nSkills for Science\nEnglish Chemistry for Life Sciences Biology for Life Sciences Skills for Science English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in SPM including 1 Science Subject and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including 1 Science Subject and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including 1 Science Subject and Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Engineering and Physical Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS London",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM including Physics and Maths.",
+        "O-Level": "5Cs in IGCSE including Physics and Maths.",
+        "UEC": "5 C7 in UEC including Physics and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 107657
+      },
+      "course_content": {
+        "core": "Pure Mathematics\nPhysics\nSkills for Science Pure Mathematics Physics Skills for Science",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM including Physics and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including Physics and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including Physics and Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Life Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS London",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5Cs in SPM including 1 Science Subject and Maths.",
+        "O-Level": "5Cs in IGCSE including 1 Science Subject and Maths.",
+        "UEC": "5 C7 in UEC including 1 Science Subject and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 107657
+      },
+      "course_content": {
+        "core": "Chemistry for Life Sciences\nBiology for Life Sciences\nSkills for Science Chemistry for Life Sciences Biology for Life Sciences Skills for Science",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in SPM including 1 Science Subject and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including 1 Science Subject and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including 1 Science Subject and Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Engineering and Physical Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS UK North",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM including Physics and Maths.",
+        "O-Level": "5Cs in IGCSE including Physics and Maths.",
+        "UEC": "5 C7 in UEC including Physics and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 93604
+      },
+      "course_content": {
+        "core": "Pure Mathematics\nPhysics\nSkills for Science Pure Mathematics Physics Skills for Science",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM including Physics and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including Physics and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including Physics and Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Life Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS UK North",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5Cs in SPM including 1 Science Subject and Maths.",
+        "O-Level": "5Cs in IGCSE including 1 Science Subject and Maths.",
+        "UEC": "5 C7 in UEC including 1 Science Subject and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 93604
+      },
+      "course_content": {
+        "core": "Chemistry for Life Sciences\nBiology for Life Sciences\nSkills for Science Chemistry for Life Sciences Biology for Life Sciences Skills for Science",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in SPM including 1 Science Subject and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including 1 Science Subject and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including 1 Science Subject and Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Engineering and Physical Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS Reading",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM including Physics and Maths.",
+        "O-Level": "5Cs in IGCSE including Physics and Maths.",
+        "UEC": "5 C7 in UEC including Physics and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 96835
+      },
+      "course_content": {
+        "core": "Pure Mathematics\nPhysical Sciences\nSkills for Science Pure Mathematics Physical Sciences Skills for Science",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM including Physics and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including Physics and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including Physics and Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Life Sciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS Reading",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5Cs in SPM including 1 Science Subject and Maths.",
+        "O-Level": "5Cs in IGCSE including 1 Science Subject and Maths.",
+        "UEC": "5 C7 in UEC including 1 Science Subject and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 96835
+      },
+      "course_content": {
+        "core": "Molecular Biology\nBiology and Biochemistry\nSkills for Science Molecular Biology Biology and Biochemistry Skills for Science",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in SPM including 1 Science Subject and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including 1 Science Subject and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science Subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including 1 Science Subject and Maths."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Undergraduate Foundation Programme (UFP) - Engineering and PhysicalSciences",
+      "field_of_study": "Foundation in Science",
+      "location": "ONCAMPUS Hull",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 Cs in SPM including Physics and Maths.",
+        "O-Level": "5Cs in IGCSE including Physics and Maths.",
+        "UEC": "5 C7 in UEC including Physics and Maths."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 1615,
+        "resource_fee": null,
+        "tuition_fee": 91505
+      },
+      "course_content": {
+        "core": "Pure Mathematics\nPhysics or Chemistry\nSkills for Science Pure Mathematics Physics or Chemistry Skills for Science",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Cs in SPM including Physics and Maths."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5Cs in IGCSE including Physics and Maths."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "C7"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Maths"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 C7 in UEC including Physics and Maths."
+          }
+        ]
+      }
+    }
+  ]
+}

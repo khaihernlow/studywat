@@ -1,0 +1,2557 @@
+{
+  "institution_name": "New Era University College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Certificate in Business Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "May"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with a Credit and Pass in Mathematicss.",
+        "UEC": "Pass UEC with a Credit."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 9100
+      },
+      "course_content": {
+        "core": "Introduction to Marketing\nEssential College Mathematics\nIntroduction to Database\nPrinciples of Economics\nIntroduction to Programming\nStudy Skills\nBook Keeping\nPrinciples of Finance\nResearch and Referencing Skills\nIntroduction To Computer Graphic\nIntroduction to Business\nIntroductory Business Mathematics\nComputer Application\nInformation Technology Fundamental\nEnglish I, II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with a Credit and Pass in Mathematicss."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "credit",
+            "subjects": [
+              "UEC"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with a Credit."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Certificate in Humanities & Social Sciences",
+      "field_of_study": "Social Sciences",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "May"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with a Credit.",
+        "UEC": "Pass UEC with a Credit."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 9100
+      },
+      "course_content": {
+        "core": "Basic Chinese Writing\nIntroduction to Social Psychology\nEnvironment and Society\nOutline of Chinese Culture\nWisdoms of Chinese Philosophers\nMusic Appreciation\nArt Appreciation\nAdviser Class\nIntroduction to Speech Communication\nSelf-understanding\nIntroduction to Sociology\nIntroduction to 20th Century\nIntroduction to Popular Culture\nCreative Writing\nEQ & Life\nCommunication in ICT\nMethod Study",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "credit",
+            "subjects": [
+              "UEC"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "5 Credits including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 10500,
+        "tuition_fee": 37500
+      },
+      "course_content": {
+        "core": "Economics\nBusiness Accounting\nPrinciples of Management\nStrategic Marketing Management\nHuman Resources Management\nStrategic Management\nOrganizational Behaviour\nManaging New Business\nStrategic Management of HR\nFinancial Management\nPrinciples of Marketing\nConsumer Behaviour\nGlobal Marketing\nBusiness Law\nManaging Professional Development\nStrategic International Operations\nFoundations of Business Information Systems\nBusiness Mathematics\nBusiness Statistics\nBusiness Research Method\nIndustrial Training\nEnglish for Academic and Professional Purpose",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits including Mathematics and English.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts in Chinese Language & Literature",
+      "field_of_study": "Chinese Studies",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Chinese",
+        "UEC": "Grade B in 5 Subjects including B6 in Chinese.  SPM-level or equivalent:\ncredit in Chinese",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Chinese",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Chinese",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Chinese",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Chinese",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Chinese"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": null,
+        "tuition_fee": 36000
+      },
+      "course_content": {
+        "core": "Chinese History\nReadings in Chinese Learning (Classics & History)\nReadings in Chinese Learning (Philosophy & Anthology)\nIntroduction to Literature\nHistory of Pre-Qin & Han Dynasties Literature\nHistory of Wei, Jin, Northern and Southern Dynasties Literature\nHistory of Tang & Song Literature\nHistory of Yuan, Ming, Qing Dynasties Literature\nSelected Classical Literary Works\nThe Four Books of Confucianism\nChinese Classical Documentation\nHistory of Chinese Thought\nClassical Chinese Language\nSelected Chinese Poetry\nThe Chinese of Malaysia\nLiterary History of Modern and contemporary Chinese\nLiterary History of Malaysian Chinese\nSelected Readings in Malaysian Chinese Literature\nThesis Writing\nIndustrial Training\nBook of Songs\nAnalects of Confucius and Mencius\nHistorical Record\nSelected Readings in Classical Novels (I) (Han, Wei, Six Dynasties and Tang Novels)\nSelected Readings in Classical Novels (II) (Song, Yuan, Ming & Qing Dynasties Novels)\nSelected Reading in Verse\nChinese Phonology\nCritical Interpretation of Ancient Texts\nLiterary History of Modern and contemporary Chinese\nThe History of Chinese Literary Theory and Criticism\nChinese Cultures Outline\nCreative in Chinese Arts & Culture\nWorld Issues\nCreative Writing\nIntroduction to Linguistics\nModern Chinese Language\nHong Kong & Taiwan Literature\nWorld Literature\nTranslating in Practice\nEnglish",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons) in Software Engineering",
+      "field_of_study": "Computer Science",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": null,
+        "tuition_fee": 38100
+      },
+      "course_content": {
+        "core": "Discrete Mathematics\nIntroduction to Information Technology\nIntroduction to Programming\nIT Ethics\nDatabase Systems\nOperating Systems\nCalculus\nFormal Method\nSoftware Testing\nJAVA Application Development\nProject Management\nHuman Computer Interaction\nResearch Methodology\nSystem Analysis and Design\nSoftware Engineering\nSoftware Quality Assurance\nMobile Application Development\nSoftware Requirement Engineering\nWeb Application Development\nLinear Algebra\nData Structures and Algorithms\nIntroduction to Networking\nComputer and Network Security\nWeb Design\nFinal Project 1\nFinal Project 2\nIndustrial Training\nAcademic Writing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Additional Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Honours) in Counselling and Psychology",
+      "field_of_study": "Counselling",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May"
+      ],
+      "program_duration_years": 4,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "UEC": "Grade B in 5 Subjects including Mathematics, one science subject and a pass in English Language.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": null,
+        "tuition_fee": 39000
+      },
+      "course_content": {
+        "core": "Introduction to Psychology\nIntroduction to Guidance and Counselling\nCareer Development & Planning\nDevelopmental Psychology\nBasic Statistics in Psychology Social Psychology\nSelf-awareness and Growth\nAdvanced Statistics in Psychology\nTheories of Counselling and Psychotherapy\nGroup Guidance\nCareer Counselling\nPsychological Testing\nGroup Counselling\nIntroduction to Research Methods\nLife Education\nPersonality Theories\nCrisis Intervention and Counselling\nAbnormal Psychology\nHelping Process and Skills\nCounselling Ethics\nPsychological Assessment\nCounselling Practicum\nMulticultural Counselling\nResearch Report\nInternship in Counselling\nInterpersonal Relationships & Commumication\nMental Health and Adjustment\nSex Education and Guidance\nMarriage and Family\nAdolescent Psychology and Counselling\nThe Psychology and Counselling of Aging\nIntimate Relationships and Counselling\nParent Education\nApplication of Technology in Counselling\nAnalysis & Application of Career Information\nDesign and Practice of Group Work\nExpressive Therapy\nSleep Management\nFamily Counselling\nBrief Counselling\nEnglish I, II, III",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics, one science subject and a pass in English Language.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science subject"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Early Childhood Education",
+      "field_of_study": "Early Childhood Education",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": null,
+        "tuition_fee": 37500
+      },
+      "course_content": {
+        "core": "Principle of Education\nPrinciples of Instruction\nIntroduction to Early Childhood Education\nImplementing of National Preschool Curriculum\nChild Development\nEducational Psychology\nIntroduction to Infant & Child Care\nObservation and assessment of Young Children\nGuiding Children's Behaviour\nPsychology of Young Children\nVisual Arts for Young Children\nExpressive Arts for Young Children\nCreativity in Teaching Young Children\nDesign of Young Children's Learning Environment\nCurriculum Design for Early Childhood\nClassroom & Behaviour Management\nLanguage and Literacy for Young Children\nPhysical Education for Young Children\nEarly Science and Technology\nHealth, Safety and Nutrition for Young Children\nSocial Studies for Young Children\nEarly Mathematics\nChildren Literature\nSchool-Community Relationships\nProfessional Ethics for Early Childhood Educators\nPracticum (Nursery)\nPracticum (Kindergarten)\nEarly Childhood Centre Administration\nTeacher Professional Development\nProgramme Planning and Development in Early Childhood Education\nLearning Disabilities and Special Education Needs\nParental Education\nLife Education\nMulticultural Education\nIntroduction to Curriculum\nSociology of Education",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Education (Teaching Chinese as a Second Language)",
+      "field_of_study": "Education",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": null,
+        "tuition_fee": 37500
+      },
+      "course_content": {
+        "core": "Principle of Education\nPrinciples of Instruction\nEducational Evaluation\nFoundation of Teaching Chinese as a Second Language\nFoundation of Chinese Linguistics\nInstructional Media\nAction Research\nEducational Psychology\nClassroom Teaching Methods\nSecond Language Acquisition\nTeaching Chinese Phonetics as a Second Language\nTeaching Chinese Grammar as a Second Language\nTeaching Chinese Listening and Speaking as a Second Language\nChinese Language Teaching Plan\nTeaching Chinese Writing as a Second Language\nTeaching Chinese Reading as a Second Language\nMaterial Compilation and Analysis\nBilingual Education\nAssessment for Chinese Language Teaching\nPracticum\nThesis 1\nDevelopment of Chinese Education in South East Asia\nLife Education\nMulticultural Education\nIntroduction to Curriculum\nSociology of Education\nCross Cultural Communication\nIntroduction to Chinese Culture\nChinese Social and Culture\nEducational Statistics\nClassroom Management\nEducational Administration\nAncient Chinese Literature\nModern Chinese Literature\nContemporary Chinese Literature\nForeign Literatures\nMalaysian -Chinese Literature\nModern Chinese Language\nAncient Chinese Language\nChinese Characters",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) in Visual Communication",
+      "field_of_study": "Graphic Design",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.",
+        "UEC": "Grade B in 5 Subjects including English.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).",
+        "STPM": "2 Principal Passes.",
+        "Foundation": "Minimum CGPA 2.00.",
+        "CPU": "Please contact our counsellors for further details.",
+        "SACE/WACE": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": null,
+        "tuition_fee": 38700
+      },
+      "course_content": {
+        "core": "Design With Images\nDesign With Types\nVisual Culture\nImages and Mark-making\nExploration in Digital Design\nVisual Sequencing\nIntegrated Design Projects\nProduct Photography\nPortrait Photography\nPackaging Technology\nTypography\nVisual Communication Design Process\nPublication Design\nIntroduction to Marketing Strategies\nAdvertising in Visual Communication\nVisual Narrative\nMoving Image\nIllustration\nPublic Service Communication Campaign\nVisual Communication Research and Design\nIndependent Study in Visual Culture\nDesign Research\nSelf-directed Study\nProfessional Practice\nIndustrial Training\nPublic Speaking\nResearch Writing Skills\nEnglish I, II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Computer Science (Hons) in Network Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": null,
+        "tuition_fee": 39600
+      },
+      "course_content": {
+        "core": "Discrete Mathematics\nIntroduction to Information Technology\nIntroduction to Programming\nIT Ethics\nDatabase Systems\nMobile And Wireless Technology\nWireless Technology And Security\nNetwork Testing\nJAVA Application Development\nProject Management\nHuman Computer Interaction\nResearch Methodology\nSystem Analysis and Design\nDistributed Systems\nNetwork Defense\nHigh Performance Computing\nNetwork Programming\nEnterprise Network Management And Design\nLinear Algebra\nData Structures and Algorithms\nIntroduction to Networking\nComputer and Network Security\nNetworking II\nFinal Project 1\nFinal Project 2\nIndustrial Training\nAcademic Writing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business in Marketing (Honours)",
+      "field_of_study": "Marketing",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "UEC": "5 Credits including Mathematics and English.",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "STPM": "2 Principal Passes of at least C+.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": null,
+        "tuition_fee": 37500
+      },
+      "course_content": {
+        "core": "Business Accounting\nEconomics\nMarketing Web Design\nPrinciples of Marketing\nFinancial Management\nPrinciples of Management\nCustomer Service Fundamentals\nBusiness Mathematics\nService Marketing\nAdvertising Management\nStrategic Management\nIntegrated Marketing Communications\nBusiness Law\nOrganisational Behavior\nE-business\nStrategic Marketing Management\nHuman Resources Management\nBusiness Research Methods\nConsumer Behaviour\nRetail Marketing\nCrisis Management\nFoundations of Business Information Systems\nDigital Marketing Strategy\nContemporary and Emerging Marketing Perspectives\nGlobal Marketing\nIndustrial Training\nCommunity Service\nEssay & Report Writing\nAcademic Writing\nEnglish for Academic and Professional Purposes",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Credits including Mathematics and English."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes of at least C+.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Accounting",
+      "field_of_study": "Accounting",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics AND Pass in English.",
+        "O-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 23700
+      },
+      "course_content": {
+        "core": "Financial Accounting\nFinancial Report Analysis\nComputerized Accounting\nCost Accounting\nManagement Accounting\nTaxation\nAuditing\nFinance\nMicroeconomics\nMacroeconomics\nPrinciples of Business Management\nPrinciples of Marketing\nBusiness Law\nBusiness Mathematics\nBusiness Statistics\nComputer Applications\nFoundation in Information Systems\nEntrepreneurship\nEnglish I, II, III, IV",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics AND Pass in English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 22600
+      },
+      "course_content": {
+        "core": "Business Mathematics\nMacroeconomics\nIntroduction to Web Design\nCreative Thinking & Innovation\nEnglish for Diploma Studies\nComputer Applications\nFinancial Accounting\nBusiness Statistics\nMicroeconomics\nBusiness Ethics\nFoundations of Information Systems\nE-Commerce\nHuman Resource Management\nAdvanced English for Diploma Studies\nBusiness Law\nBusiness Communications\nFinance\nPrinciples of Business Management\nComputerized Accounting\nPrinciples of Marketing\nIntermediate English for Diploma Studies\nFinancial Planning\nInternational Business\nEntrepreneurship\nCost and Management Accounting\nComputerized Human Resource Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Early Childhood Education",
+      "field_of_study": "Early Childhood Education",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 21500
+      },
+      "course_content": {
+        "core": "Educational Psychology\nIntroduction to Infant and Child Care\nChild Development and Care\nClassroom and Behaviour Management\nChildren Psychology\nEarly Childhood Curriculum Approaches\nScience Education for Young Children\nMathematics for Young Children\nTeaching Introduction of Early Childhood Education\nPlay and Learning\nTeaching of Language for Young Children\nObservation and Assessment of Young Children\nParenting Education\nProfessional Ethics for Early Childhood Educators\nMulti-Cultural Education\nMusic and Drama for Young Children\nArt and Craft for Young Children\nEarly Childhood Administration\nChildren Creativity\nSpecial Educational Needs and Learning Disabilities\nChild’s Meal and Nutrition\nPracticum (childcare centre)\nPracticum (preschool/kindergarten)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Fashion & Textile Design",
+      "field_of_study": "Fashion Design",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 34300
+      },
+      "course_content": {
+        "core": "Colour Studies\n2-Dimensional Studies\n3-Dimensional Studies\nDrawing\nComputer Graphics\nHistory of Art and Design\nHistory of Fashion Design\nIntroduction to Photography\nFashion Design\nDraping Drafting and Sewing\nFashion Illustration\nBatik Design\nFashion CAD\nIntroduction to Textile Technology\nFinal Design Project\nProfessional Practice\nIndustrial Training\nEnglish I, II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Graphic Design",
+      "field_of_study": "Graphic Design",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 34300
+      },
+      "course_content": {
+        "core": "Colour Studies\n2-Dimensional Studies\n3-Dimensional Studies\nDrawing\nComputer Graphics\nHistory of Art and Design\nIntroduction to Ceramics\nTypography\nIntroduction to Photography\nPhotography\nIllustration\nGraphic Design\nAdvertising Design\nWeb Design\nIntroduction to Animation\nGraphic Design Context\nVisual Culture\nProject Research\nFinal Design Project\nProfessional Practice\nIndustrial Training\nEnglish I, II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in E-Commerce",
+      "field_of_study": "Information Technology (IT)",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics.",
+        "O-Level": "Pass with 3 credits including Mathematics.",
+        "UEC": "Pass with 3Bs including Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 23700
+      },
+      "course_content": {
+        "core": "E-Commerce\nDigital Marketing\nFinancial Accounting 1\nMathematics\nMicroeconomics\nComputer Graphics Editing\nDatabase Concepts\nPrinciples of Marketing\nInternational Business\nEntrepreneurship\nSupply Chain\nProgramming Concepts\nIT Ethics\nWeb Design\nWeb Programming\nElementary English I\nPresentation Skills\nWorkplace Writing\nIntroduction to Information Technology\nE-Commerce Infrastructure and Security\nIndustrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3Bs including Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Information Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics.",
+        "O-Level": "Pass with 3 credits including Mathematics.",
+        "UEC": "Pass with 3Bs including Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 23200
+      },
+      "course_content": {
+        "core": "IT Ethics\nCreative Thinking\nMathematics\nProgramming Concepts\nIntroduction to Information Technology\nIntroduction to Operating Systems\nDatabase Concepts\nNetworking\nNetwork Routing and Switching\nNetwork Design and Support\nNetwork Administration\nNetwork Security\nGUI Using JAVA\nSystem Administration\nIntroduction to Statistics\nPC Maintenance\nIntroduction to Management\nElementary English I\nPresentation Skills\nWorkplace Writing\nIndustrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3Bs including Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Web Development Technology",
+      "field_of_study": "Information Technology (IT)",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 3 credits including Mathematics.",
+        "O-Level": "Pass with 3 credits including Mathematics.",
+        "UEC": "Pass with 3Bs including Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 22600
+      },
+      "course_content": {
+        "core": "IT Ethics\nCreative Thinking\nMathematics\nProgramming Concepts\nIntroduction to InformationTechnology\n.NET Programming\nMultimedia Presentation\nIntroduction to Operating Systems\nIntroduction to Statistics\nGUI Using JAVA\nDatabase Concepts\nNetworking\nWeb Design\nWeb Programming\nAdvanced Web Design\nIntroduction to Android Programming\nComputer Graphics Editing\nElementary English I\nPresentation Skills\nWorkplace Writing\nIndustrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3 credits including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 3Bs including Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects.",
+        "O-Level": "Grade C in 3 relevant subjects.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 34300
+      },
+      "course_content": {
+        "core": "Colour Studies\n2-Dimensional Studies\n3-Dimensional Studies\nDrawing\nComputer Graphics\nHistory of Art and Design\nIntroduction to Ceramics\nIntroduction to Photography\nIntroduction to Design Studio\nDesign Studio – Residential\nDesign Studio – Commercial\nDesign Studio – Exhibition & Institutional\nFinal Design Project\nDesign Communication\nMaterial Studies\nBuilding Technology\nBuilding Services\nHistory of Architecture\nComputer-Aided Design\nFurniture Design\nProject Research\nProfessional Practice\nIndustrial Training\nEnglish I, II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Marketing",
+      "field_of_study": "Marketing",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 22600
+      },
+      "course_content": {
+        "core": "Principal of Marketing\nConsumer Behaviour\nMarketing Management\nMarketing Communication\nSales Management\nRetail Marketing\nInternational Marketing\nService Marketing\nMarketing Research\nE-Commerce\nProduct Management\nSupply Chain Management\nCustomer Relation\nBrand Management\nDigital Marketing\nPromotion and Event Marketing\nIntroduction to Web Design\nAdvertisement Strategies and Planning\nBusiness Mathematics\nBusiness Statistics\nMicroeconomics\nMacroeconomics\nPrincipal of Business Management\nEnglish",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Media Studies",
+      "field_of_study": "Multimedia Design",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 21500
+      },
+      "course_content": {
+        "core": "Communication and Computer Application\nEnglish Reading and Listening\nIntroduction to Mass Communication\nMarketing\nJournalism\nDigital Photography\nIntroduction to Radio and Television\nDigital Editing and Design\nDigital Image Processing\nPublic Relations\nChinese News Writing\nDigital Visual Production and Editing\nMandarin Phonetics\nNewspaper and Magazine Editing\nPolitical Science\nTheory and Practice of Translation\nPublic Relations Media Application\nNewspaper Publication and Production\nProduction and Hosting of Radio Programme\nMedia Law and Ethics\nPrinciples of Advertising\nPublic Relations Campaign Planning\nEnvironmental Reporting\nInternational Current Affairs Analysis\nDomestic Current Affairs Analysis\nCrisis Management\nScript Writing\nIndustrial Training",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Visual Arts",
+      "field_of_study": "Multimedia Design",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 32300
+      },
+      "course_content": {
+        "core": "Colour Studies\n2-Dimensional Studies\n3-Dimensional Studies\nDrawing\nComputer Graphics\nHistory of Art and Design\nHistory of Fine Arts\nIntroduction to Ceramics\nCeramics\nIntroduction to Photography\nPhotographic Essay\nPrintmaking\nPainting Studio\nChinese Art\nExperimental Art Process\nArt Entrepreneurship\nVisual Culture\nProject Research\nVisual Art Final Project\nProfessional Practice\nIndustrial Training\nEnglish I, II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Drama & Visuals",
+      "field_of_study": "Performing Arts",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May"
+      ],
+      "program_duration_years": 2,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with 3 Credits and a Pass in Chinese.",
+        "UEC": "Pass with 5 Passes inclusive of Chinese."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 27000
+      },
+      "course_content": {
+        "core": "Introduction to Drama\nFundamentals of Acting\nVisual Studies\nIntroduction to Film & Video\nHistory of Theatre\nHistory of Cinema I\nBasic of Theatre Production\nIntroduction to Digital Filmmaking\nAppreciation and Analysis of Drama\nModern Drama\nElementary of Theatre Production\nIntroduction to Directing\nPlaywriting\nProfessional Apprenticeship\nGraduation Production\nCostume and Make Up\nSet Design\nSound Design\nLighting Design\nIntermediate Acting\nMandarin Phonetics I, II\nMalaysia Traditional Theatre\nIntroduction to Experimental Film\nFilm and Cultural Studies\nDocumentary Production\nEnglish\nMajor in Drama\nDirecting\nIntermediate of Theatre Production\nChildren Creative Drama Teaching\nMandarin Phonetics III\nMajor in Visuals\nVisuals Editing\nHistory of Cinema II\nAdvanced Digital Filmmaking\nSpecial Topic on Film Major in Drama Major in Visuals",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with 3 Credits and a Pass in Chinese."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "UEC"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Passes inclusive of Chinese."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Teaching Chinese as a Second Language",
+      "field_of_study": "Teaching",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with 3 Credits and Pass in Chinese.",
+        "O-Level": "Pass with at least 3 credits.",
+        "UEC": "Pass with at least 3Bs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 21500
+      },
+      "course_content": {
+        "core": "Educational Psychology\nFoundation of Teaching Chinese as Second Language\nPrinciple of Education\nAudiolingualism of Teaching Chinese as Second Language\nStudies of Phonetic Instruction in Chinese\nChinese Pedagogical Grammar\nChinese Social and Culture\nTeaching Reading to Student of Chinese as Second Language\nModern Chinese Language\nSecond Language Acquisition\nFoundation of Chinese Linguistics\nChinese Ancient Literature\nChinese Philology\nCross Cultural Communication\nChinese Language Teaching Plan\nTeaching Writing to Student of Chinese as Second Language\nAssessments for Chinese Language Teaching\nBilingual Education\nForeign Literature\nDevelopment of Chinese Education in South East Asia\nModern Chinese Literature\nAncient Chinese Language\nPracticum",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass SPM with 3 Credits and Pass in Chinese."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "O-Level"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Art & Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "SPM": "5 Credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 11000
+      },
+      "course_content": {
+        "core": "Drawing\n2-Dimensional Studies\nColour Theory\n3-Dimensional Studies\nComputer Graphics 1\nHistory of Art & Design\nTypography\nIntroduction to Photography\nIntroduction to Ceramics\nIntroduction to Printmaking\nDesign Narratives\nFeature Photography\nPortfolio Project\nGraphic Design Context / Others",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business",
+      "field_of_study": "Foundation in Arts",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Jan",
+        "Mar",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "SPM": "5 Credits.",
+        "O-Level": "5 Credits.",
+        "UEC": "Please consult our counsellor for further details."
+      },
+      "english_requirements": {
+        "SPM/O": "Level - E"
+      },
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 9000
+      },
+      "course_content": {
+        "core": "Introduction to Cost and Management Accounting\nIntroduction to Marketing\nIntroduction to Management\nIntroduction to Statistics\nCreative Thinking & Critical Thinking\nStudy Skills\nIntroduction to Finance\nComputer Application for Business\nResearch and Referencing skills\nIntroduction to Financial Accounting\nPrinciples of Economics\nIntroduction to Business\nBasic Business Mathematics\nBusiness Ethics\nEnglish I, II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please consult our counsellor for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Chinese Communication",
+      "field_of_study": "Foundation in Arts",
+      "location": "New Era, Kajang",
+      "intakes": [
+        "Jan",
+        "Mar"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "SPM": "5 Credits including Chinese.",
+        "O-Level": "5 Credits.  Additional Requirements: - Chinese Language",
+        "UEC": "3 Credits."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2500,
+        "tuition_fee": 9000
+      },
+      "course_content": {
+        "core": "Computer Applications\nThe Art of Speaking\nCurrent Affairs Analysis\nIntroduction to Multiculturalism\nHistory of Malaysia\nCritical Thinking and Problem Solving Skill\nSelected Writing In Chinese Essays\nTraining of Chinese Reading and Writing\nForum on Chinese Topics\nEQ & Life\nIntermediate English\nIntroduction to Academic Writing\nChinese Writing\nFoundation of Social Science\nLiterature and Art\nInterpersonal Communication\nAdvanced Chinese Language\nPhysical Education",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese Language"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ]
+      }
+    }
+  ]
+}

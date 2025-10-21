@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 187,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/University+of+York/York+Heslington/Campus+and+Surroundings/01p_York_Heslington_Heslington_West_Campus.jpeg"
+  ],
   "programs": [
     {
       "program_name": "BA (Hons) Economics and Philosophy",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "York, Heslington",
       "intakes": [
         "Sep"
@@ -90,11 +93,12 @@
             "text": "Minimum CGPA 3.25 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BA (Hons) Economics and Politics",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "York, Heslington",
       "intakes": [
         "Sep"
@@ -177,7 +181,8 @@
             "text": "Minimum CGPA 3.25 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BA (Hons) Education",
@@ -257,11 +262,12 @@
             "text": "Minimum CGPA 3.00 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Education"
     },
     {
       "program_name": "BA (Hons) /BSc (Hons) in Mathematics",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "York, Heslington",
       "intakes": [
         "Sep"
@@ -339,11 +345,12 @@
             "text": "Minimum CGPA 3.5 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "BA (Hons) Applied Social Science",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "York, Heslington",
       "intakes": [
         "Sep"
@@ -434,11 +441,12 @@
             "text": "Minimum CGPA 3.0 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Archaeology",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "York, Heslington",
       "intakes": [
         "Sep"
@@ -499,11 +507,12 @@
             "text": "Minimum CGPA 3.25 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Archaeology and Heritage",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "York, Heslington",
       "intakes": [
         "Sep"
@@ -564,11 +573,12 @@
             "text": "Minimum CGPA 3.25 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Criminology",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "York, Heslington",
       "intakes": [
         "Sep"
@@ -639,11 +649,12 @@
             "text": "Minimum CGPA 3.25 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Curating and Art History",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "York, Heslington",
       "intakes": [
         "Sep"
@@ -739,11 +750,12 @@
             "text": "Minimum CGPA 3.25 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "BA (Hons) Curating and Art History (with a year abroad)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "York, Heslington",
       "intakes": [
         "Sep"
@@ -814,7 +826,8 @@
             "text": "Minimum CGPA 3.25 (Diploma in a related field)."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     }
   ]
 }

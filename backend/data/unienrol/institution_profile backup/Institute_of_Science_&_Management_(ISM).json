@@ -1,0 +1,86 @@
+{
+    "institution_name": "Institute of Science & Management (ISM)",
+    "institution_country": "Malaysia",
+    "institution_type": "Private",
+    "world_rank": null,
+    "malaysia_rank": null,
+    "programs": [
+        {
+            "program_name": "Diploma in Accounting",
+            "field_of_study": "Accounting",
+            "location": "ISM, Tawau",
+            "intakes": [
+                "Jan",
+                "Apr",
+                "Aug"
+            ],
+            "program_duration_years": 2,
+            "internship": null,
+            "entry_requirements_raw": {},
+            "english_requirements": {},
+            "fees": {
+                "registration_fee": 600,
+                "resource_fee": 3080,
+                "tuition_fee": 18900
+            },
+            "course_content": {
+                "core": "",
+                "elective": "",
+                "others": ""
+            },
+            "program_type": "diploma",
+            "entry_requirements_processed": {}
+        },
+        {
+            "program_name": "Diploma in Business Studies",
+            "field_of_study": "Business Administration",
+            "location": "ISM, Tawau",
+            "intakes": [
+                "Jan",
+                "Apr",
+                "Aug"
+            ],
+            "program_duration_years": 2,
+            "internship": null,
+            "entry_requirements_raw": {},
+            "english_requirements": {},
+            "fees": {
+                "registration_fee": 600,
+                "resource_fee": 3080,
+                "tuition_fee": 18900
+            },
+            "course_content": {
+                "core": "",
+                "elective": "",
+                "others": ""
+            },
+            "program_type": "diploma",
+            "entry_requirements_processed": {}
+        },
+        {
+            "program_name": "Cambridge A-Levels",
+            "field_of_study": "A-Level",
+            "location": "ISM, Tawau",
+            "intakes": [
+                "Jan",
+                "Apr"
+            ],
+            "program_duration_years": 1,
+            "internship": null,
+            "entry_requirements_raw": {},
+            "english_requirements": {},
+            "fees": {
+                "registration_fee": 600,
+                "resource_fee": 1950,
+                "tuition_fee": 15300
+            },
+            "course_content": {
+                "core": "Science Stream Chemistry\nMathematics Chemistry Mathematics",
+                "elective": "",
+                "others": ""
+            },
+            "program_type": "preuniversity",
+            "entry_requirements_processed": {}
+        }
+    ]
+}

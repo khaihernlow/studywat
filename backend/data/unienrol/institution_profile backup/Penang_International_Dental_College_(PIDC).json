@@ -1,0 +1,227 @@
+{
+  "institution_name": "Penang International Dental College (PIDC)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Doctor of Dental Surgery (DDS)",
+      "field_of_study": "Dentistry",
+      "location": "PIDC, Butterworth",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 5,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics",
+        "UEC": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics",
+        "Diploma": "Diploma in Health Sciences with minimum CGPA 3.00 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics",
+        "STPM": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics",
+        "Foundation": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics",
+        "CPU": "An average of 80% in 6 subjects including an average of 80% out of Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics",
+        "SACE/WACE": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 54700,
+        "tuition_fee": 245000
+      },
+      "course_content": {
+        "core": "Year 1 & 2 conducted at MAHSA University Saujana Putra Year 1 & 2 Year 3, 4 & 5 conducted at PIDC Butterworth Year 3, 4 & 5 Year 1 Anatomy Physiology Biochemistry Oral Biology Year 2 Microbiology Pathology Pharmacology Dental Materials & Equipment Year 3 General Surgery General Medicine Oral Pathology & Oral Medicine Dental Radiology Year 4 Prosthetic Dentistry Peadiatric Dentistry Periodontology Year 5 Conservative Oral Macillofacial Surgery Orthodontics Dental Public Health Family Dentistry General Module English Language Youth Development Community Work TITAS Ethnic Relations",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum Grade BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Advanced Mathematics (I)",
+              "Advanced Mathematics (II)"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B4 in Biology,Chemistry,Physics and Advanced Mathematics (I) and (II).  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "Diploma in Health Sciences with minimum CGPA 3.00 and provided the course is not less than 5 semesters or 2.5 years in the same accredited institution.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "ABC"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum BBB or ABC in Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Biology",
+              "Chemistry",
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with CGPA 3.00 in Biology, Chemistry, Physics/Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "An average of 80% in 6 subjects including an average of 80% out of Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (PIDC)",
+      "field_of_study": "Foundation in Science",
+      "location": "PIDC, Butterworth",
+      "intakes": [
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum grade B in Biology, Chemistry, Physics, Mathematics / Additional Mathematics and 1 other subject.",
+        "O-Level": "Minimum grade B in Biology, Chemistry, Physics, Mathematics / Additional Mathematics and 1 other subject."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 1500,
+        "resource_fee": 500,
+        "tuition_fee": 10000
+      },
+      "course_content": {
+        "core": "Semester 1 English 1 Thinking Skills Biology 1 Physics 1 Basic ICT Semester 2 Chemistry 1 Mathematics 1 Option 1 (Life Science)\nBiology 2\nIntroduction to Psycology Biology 2 Introduction to Psycology Option 2 (Physical Science)\nPhysics 2\nIntroduction to Programming Physics 2 Introduction to Programming Semester 3 Chemistry 2 Mathematics 2 English 2 Co-curriculum Option 1 (Life Science)\nBiochemistry Biochemistry Option 2 (Physical Science)\nEngineering Mathematics Engineering Mathematics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "Minimum grade B in Biology, Chemistry, Physics, Mathematics / Additional Mathematics and 1 other subject."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "Minimum grade B in Biology, Chemistry, Physics, Mathematics / Additional Mathematics and 1 other subject."
+          }
+        ]
+      }
+    }
+  ]
+}

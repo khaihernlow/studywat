@@ -1,0 +1,1346 @@
+{
+  "institution_name": "Wawasan Open University (WOU)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 10279,
+  "malaysia_rank": 71,
+  "programs": [
+    {
+      "program_name": "Bachelor of Business (Hons) in Accounting",
+      "field_of_study": "Accounting",
+      "location": "WOU, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals.",
+        "UEC": "Five (5) Grade Bs and a pass in English and Mathematics.",
+        "STPM": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 0
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Five (5) Grade Bs and a pass in English and Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) in Banking and Finance",
+      "field_of_study": "Banking and Finance",
+      "location": "WOU, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Five (5) Grade Bs and a pass in English and Mathematics.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 30560
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Five (5) Grade Bs and a pass in English and Mathematics.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) (Corporate Administration)",
+      "field_of_study": "Business Administration",
+      "location": "WOU, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 0,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals.",
+        "UEC": "Five (5) Grade Bs and a pass in English and Mathematics.",
+        "STPM": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 0
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Five (5) Grade Bs and a pass in English and Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) in English Studies",
+      "field_of_study": "English",
+      "location": "WOU, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 30560
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) in Entrepreneurship and Small Business Management",
+      "field_of_study": "Entrepreneurship",
+      "location": "WOU, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 30560
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) in Human Resource Management",
+      "field_of_study": "Human Resource Management",
+      "location": "WOU, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 30560
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English Language"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including pass in Mathematics and English Language.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) in Business Information Systems",
+      "field_of_study": "Information Systems",
+      "location": "WOU, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "UEC": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 30560
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field or in science & technology). Candidates with Diploma in Computing & IT with CGPA below 2.5 but above 2.0 may be admitted subject to a rigorous internal assessment process;.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Business (Hons) in Logistics and Supply Chain Management",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "WOU, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics",
+        "UEC": "Grade B in 5 Subjects and pass in Mathematics.  SPM-level or equivalent:\npass in Mathematics",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 30560
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects and pass in Mathematics.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) in Psychology",
+      "field_of_study": "Psychology",
+      "location": "WOU, Georgetown",
+      "intakes": [
+        "Feb",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "UEC": "Grade B in 5 Subjects including Mathematics, one science subject and a pass in English Language.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 30560
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including Mathematics, one science subject and a pass in English Language.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject\npass in English"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Arts (Hons) in Liberal Studies",
+      "field_of_study": "Social Sciences",
+      "location": "WOU, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals.",
+        "UEC": "Five (5) Grade Bs in UEC Senior Middle III.",
+        "STPM": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 30560
+      },
+      "course_content": {
+        "core": "",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Five (5) Grade Bs in UEC Senior Middle III."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
+          }
+        ]
+      }
+    }
+  ]
+}

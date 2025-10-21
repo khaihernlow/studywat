@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://edufair.fsi.com.my/img/sponsor/98/cover_1544773631.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Automotive Technology",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "TOC, Petaling Jaya",
       "intakes": [
         "Apr"
@@ -71,11 +74,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Automotive Technology"
     },
     {
       "program_name": "Sijil Kemahiran Malaysia (SKM) Level 2 & 3",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "TOC, Petaling Jaya",
       "intakes": [
         "Feb",
@@ -97,11 +101,12 @@
         "others": ""
       },
       "program_type": "preuniversity",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Automotive Technology"
     },
     {
       "program_name": "Diploma in Automotive Technology",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "TOC, Petaling Jaya",
       "intakes": [
         "Feb",
@@ -168,11 +173,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Automotive Technology"
     },
     {
       "program_name": "Diploma in Motorsport Technology",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "TOC, Petaling Jaya",
       "intakes": [
         "Feb",
@@ -254,7 +260,8 @@
             "text": "3 credits including Maths and any Science."
           }
         ]
-      }
+      },
+      "course": "Automotive Technology"
     }
   ]
 }

@@ -1,12 +1,15 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { GoogleOAuthProvider } from '@react-oauth/google';
 import Layout from './components/Layout';
-import Home from './pages/Home';
 import Chat from './pages/Chat';
 import Login from './pages/Login';
+import University from './pages/University';
 import { PageTitleProvider } from './contexts/PageTitleContext';
 import { AuthProvider, useAuth } from './contexts/AuthContext';
 import Profile from './pages/Profile';
+import { Toaster } from 'sonner';
+import { ChatProvider } from './contexts/ChatContext';
+import LandingPage from './pages/LandingPage';
 
 // Protected Route component
 function ProtectedRoute({ children }: { children: React.ReactNode }) {
@@ -40,7 +43,7 @@ function PublicRoute({ children }: { children: React.ReactNode }) {
   }
 
   if (user) {
-    return <Navigate to="/" replace />;
+    return <Navigate to="/chat" replace />;
   }
 
   return <>{children}</>;
@@ -56,16 +59,18 @@ function AppRoutes() {
               <Login />
             </PublicRoute>
           } />
-          <Route path="/" element={
-            <ProtectedRoute>
-              <Layout />
-            </ProtectedRoute>
-          }>
-            <Route index element={<Home />} />
-            <Route path="chat" element={<Chat />} />
-            <Route path="profile" element={<Profile />} />
-            <Route path="search" element={<div className="p-6">Search coming soon...</div>} />
-            <Route path="settings" element={<div className="p-6">Settings coming soon...</div>} />
+          <Route path="/" element={<LandingPage />} />
+          <Route path="/chat" element={<ProtectedRoute><Layout /></ProtectedRoute>}>
+            <Route index element={<Chat />} />
+          </Route>
+          <Route path="/profile" element={<ProtectedRoute><Layout /></ProtectedRoute>}>
+            <Route index element={<Profile />} />
+          </Route>
+          <Route path="/university" element={<ProtectedRoute><Layout /></ProtectedRoute>}>
+            <Route index element={<University />} />
+          </Route>
+          <Route path="/settings" element={<ProtectedRoute><Layout /></ProtectedRoute>}>
+            <Route index element={<div className="p-6">Settings coming soon...</div>} />
           </Route>
         </Routes>
       </BrowserRouter>
@@ -77,7 +82,10 @@ function App() {
   return (
     <GoogleOAuthProvider clientId="290624832607-j5jrknsnhd1llhesekjsi2ctkvdkfc9n.apps.googleusercontent.com">
       <AuthProvider>
+        <ChatProvider>
         <AppRoutes />
+        <Toaster />
+        </ChatProvider>
       </AuthProvider>
     </GoogleOAuthProvider>
   );

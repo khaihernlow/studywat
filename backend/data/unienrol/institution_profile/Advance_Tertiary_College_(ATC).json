@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/ATC+PICTURES+(Done)/KL+CAMPUS/Campus+_+Surroundings/011a_ATC_KL_Campus_Main_Entrance.png"
+  ],
   "programs": [
     {
       "program_name": "Certificate In Legal Practice (CLP)",
-      "field_of_study": "Certificate in Legal Practice (CLP)",
+      "field_of_study": "Law",
       "location": "ATC, Georgetown",
       "intakes": [
         "Sep"
@@ -27,11 +30,12 @@
         "others": ""
       },
       "program_type": "certificate",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Certificate in Legal Practice (CLP)"
     },
     {
       "program_name": "Certificate In Legal Practice (CLP)",
-      "field_of_study": "Certificate in Legal Practice (CLP)",
+      "field_of_study": "Law",
       "location": "ATC, KL City Centre",
       "intakes": [
         "Sep"
@@ -51,11 +55,12 @@
         "others": ""
       },
       "program_type": "certificate",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Certificate in Legal Practice (CLP)"
     },
     {
       "program_name": "UK Degree Transfer Programme (Law) (1+2)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "ATC, Georgetown",
       "intakes": [
         "Jan",
@@ -143,11 +148,12 @@
             "text": "A minimum CGPA of 2.0."
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "University Of London Bachelor Of Laws Programme (Ll.B)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "ATC, Georgetown",
       "intakes": [
         "Jan",
@@ -218,11 +224,12 @@
             "text": "2C in STPM.  CLP Requirements apply (starting 2021):\nUK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "University Of London Bachelor Of Laws Programme (LL.B)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "ATC, KL City Centre",
       "intakes": [
         "Jan",
@@ -295,11 +302,12 @@
             "text": "2 C in STPM.  CLP Requirements apply (starting 2021):\nUK Law Degree - 5 credits in SPM/O-Level obtained in one examination, including English"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "UK Degree Transfer Programme (Law) (1+2)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "ATC, KL City Centre",
       "intakes": [
         "Jan",
@@ -423,11 +431,12 @@
             "text": "Pass Foundation/Matriculation with CGPA 2.00.  5 credits in SPM/O-Level obtained in one examination"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "UK Degree Transfer Programme (Law) (2+1)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "ATC, Georgetown",
       "intakes": [
         "Jan",
@@ -491,11 +500,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "UK Degree Transfer Programme (Law) (2+1)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "ATC, KL City Centre",
       "intakes": [
         "Jan",
@@ -559,11 +569,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Foundation in Law",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "ATC, KL City Centre",
       "intakes": [
         "Jan",
@@ -612,11 +623,12 @@
             "text": "Pass in O-LEVELS with at least 5 credits."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Law",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "ATC, Georgetown",
       "intakes": [
         "Jan",
@@ -662,7 +674,8 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     }
   ]
 }

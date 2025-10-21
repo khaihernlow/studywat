@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 3419,
   "malaysia_rank": 33,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/AIMST/SEMELING+CAMPUS%2C+ALOR+SETAR/Campus+_+Surroundings/01a_Aimst_University_Semeling_Campus_View_Of_The_Whole_Campus.png"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Accountancy (Honours)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "AIMST, Bedong",
       "intakes": [
         "Mar",
@@ -121,7 +124,8 @@
             "text": "Pass with a minimum CGPA of 2.50.  Credits in Mathematics and a pass in English at SPM level"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "BSc. (Hons) Accounting & Finance",
@@ -204,11 +208,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BSc (Hons) Bioinformatics",
-      "field_of_study": "Bioinformatics",
+      "field_of_study": "Science and Mathematics",
       "location": "AIMST, Bedong",
       "intakes": [
         "Mar",
@@ -315,11 +320,12 @@
             "text": "CCC including Biology."
           }
         ]
-      }
+      },
+      "course": "Bioinformatics"
     },
     {
       "program_name": "Bachelor of Science (Hons) Biomedical Science",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Aug",
@@ -422,11 +428,12 @@
             "text": "Pass Foundation with at least CGPA 2.33.."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "BSc. (Hons) Biotechnology",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "AIMST, Bedong",
       "intakes": [
         "Mar",
@@ -596,11 +603,12 @@
             "text": "ATAR 55 including Biology.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Bachelor of Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "AIMST, Bedong",
       "intakes": [
         "Mar",
@@ -728,11 +736,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Dental Surgery",
-      "field_of_study": "Dentistry",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Oct"
@@ -911,11 +920,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
           }
         ]
-      }
+      },
+      "course": "Dentistry"
     },
     {
       "program_name": "B.Eng (Hons) in Electrical & Electronic Engineering",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "AIMST, Bedong",
       "intakes": [
         "Mar",
@@ -1067,11 +1077,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "BSc. (Hons) Finance & Management",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "AIMST, Bedong",
       "intakes": [
         "Mar",
@@ -1203,11 +1214,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "BSc. (Hons) Management Information Systems",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "AIMST, Bedong",
       "intakes": [
         "Mar",
@@ -1340,11 +1352,12 @@
             "text": "CGPA ≥ 2.0.  Pass in Mathematics or Additional Mathematics at SPM level."
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Bachelor in Information Systems (Data Analytics) (Honours)",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "AIMST, Bedong",
       "intakes": [
         "Mar",
@@ -1431,11 +1444,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "BSc. (Hons) Business & Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "AIMST, Bedong",
       "intakes": [
         "Mar",
@@ -1526,11 +1540,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor of Dental Technology",
-      "field_of_study": "Medical Technology",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Oct"
@@ -1746,11 +1761,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nRequired to attend interview"
           }
         ]
-      }
+      },
+      "course": "Medical Technology"
     },
     {
       "program_name": "MBBS",
-      "field_of_study": "Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Oct"
@@ -2121,11 +2137,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Medicine"
     },
     {
       "program_name": "Bachelor in Multimedia Technology (Honours)",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "AIMST, Bedong",
       "intakes": [
         "Mar",
@@ -2192,11 +2209,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Bachelor in Nursing Science (Hons)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Oct"
@@ -2307,11 +2325,12 @@
             "text": "CGPA 2.50.  Must possess SPM qualification with the following subject requirements:\nMin. C in Mathematics (Additional/Modern Maths)\nMin. C in a Science subject (Science/Biology/Physics/Chemistry)\nMin. C in Bahasa Melayu\nMin. E in English"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Pharmacy (Hons)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Oct"
@@ -2685,11 +2704,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry (minimum Grade B) and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English\nRequired to attend interview"
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Bachelor of Physiotherapy (Hons)",
-      "field_of_study": "Physiotherapy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Aug",
@@ -2824,11 +2844,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Physiotherapy"
     },
     {
       "program_name": "Bachelor in Software Engineering (Honours)",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "AIMST, Bedong",
       "intakes": [
         "Mar",
@@ -2980,11 +3001,12 @@
             "text": "Credit in Additional Mathematics at SPM level or equivalent / Mathematics and any one of the science subjects at SPM level or equivalent."
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Diploma in Biotechnology",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jul",
@@ -3104,11 +3126,12 @@
             "text": "3Cs (including Mathematics and a Science Subject) and a Pass in English.."
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Diploma in Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jul",
@@ -3162,11 +3185,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma Electrical & Electronic Engineering",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jul",
@@ -3230,11 +3254,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Diploma in Finance",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jul",
@@ -3346,11 +3371,12 @@
             "text": "Minimum of Grade C (GP 2.0) in any Subject.  Credit in Mathematics and pass in English"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Diploma in Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jul",
@@ -3482,11 +3508,12 @@
             "text": "Please contact our counsellors for further details.  Additional Requirement:\nSPM Credit in BM & Pass in Sejarah"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Diploma In Physiotherapy",
-      "field_of_study": "Physiotherapy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jul",
@@ -3548,11 +3575,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Physiotherapy"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jun",
@@ -3624,11 +3652,12 @@
             "text": "Minimum 5C’s in O-Level including English, Mathematics and 3 other subjects.."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Science (Engineering)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jun",
@@ -3732,11 +3761,12 @@
             "text": "5Cs including 2 Science subjects and Mathematics plus pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Physiotherapy / Biotechnology)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jun",
@@ -3832,11 +3862,12 @@
             "text": "5Cs including 2 Science subjects and Mathematics plus pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (MBBS / Dentistry / Pharmacy with MIED Care Scholarship)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jun",
@@ -3924,11 +3955,12 @@
             "text": "Minimum 3As in Biology, Chemistry, Physics, Mathematics or Additional Mathematics, and Bs in the remaining 2 subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (MBBS / Dentistry / Pharmacy)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jun",
@@ -4010,11 +4042,12 @@
             "text": "5B in Biology, Chemistry, Physics, Mathematics or Additional Mathematics and another subject.  Additional requirement for SPM-Level or equivalent:\ncredit in Bahasa Melayu, English required to practise in Malaysia"
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Master in Science (Medical Biochemsitry)",
-      "field_of_study": "Biochemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jan",
@@ -4063,11 +4096,12 @@
             "text": "Bachelor in Biochemistry (Hons), or other related science degree CGPA >2.75, for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
           }
         ]
-      }
+      },
+      "course": "Biochemistry"
     },
     {
       "program_name": "Master of Science (Biotechnology)",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jan",
@@ -4120,11 +4154,12 @@
             "text": "for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Master of Science in Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jan",
@@ -4182,11 +4217,12 @@
             "text": "Bachelor’s Degree in a related field from AIMST or other institutions recognized by the University Senate · Minimum CGPA of 2.75 or equivalent, as accepted by the HEP Senate · Equivalent with minimum CGPA of 2.50 & not meeting CGPA of 2.75 can be accepted subject to rigorous internal assessment · Equivalent not meeting CGPA of 2.50 can be accepted subject to a minimum of 5 years working experience in a relevant field.."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jan",
@@ -4222,11 +4258,12 @@
             "text": "Degrees: Min CGPA of 2.50 as accepted by HEP Senate_x000D_ CGPA < 2.50 with 5 years working experience."
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master in Science (Medical Physiology)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Feb"
@@ -4260,11 +4297,12 @@
             "text": "Bachelor‘s Degree 1) Min CGPA of 2.75 as accepted by HEP Senate. 2) 2.75 > CGPA > 2.50 with internal 3) CGPA < 2.5 with a minimum of 5 years working experience in relevant field.."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master in Science (Medical Microbiology)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jan",
@@ -4309,11 +4347,12 @@
             "text": "Bachelor in Microbiology (Hons), or other related science degrees CGPA >2.75, for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master in Science (Human Anatomy)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Feb"
@@ -4347,11 +4386,12 @@
             "text": "Bachelor‘s Degree 1) Min CGPA of 2.75 as accepted by HEP Senate. 2) 2.75 > CGPA > 2.50 with internal 3) CGPA < 2.5 with a minimum of 5 years working experience in relevant field.."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master of Science (Pharmacy)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jan",
@@ -4405,11 +4445,12 @@
             "text": "with 3 years working experience OR Bachelor’s degree in related: CGPA > 2.75. Need to take a bridging programme.."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Master of Pharmacy (Clinical Pharmacy)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Feb",
@@ -4457,11 +4498,12 @@
             "text": "Bachelor‘s Degree in Pharmacy 1) Min CGPA of 2.75 as accepted by HEP Senate. 2) 2.75 > CGPA > 2.50 with internal 3) CGPA < 2.5 with a minimum of 5 years working experience in relevant field.."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Master of Physiotherapy (Musculoskeletal)",
-      "field_of_study": "Physiotherapy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Oct"
@@ -4499,11 +4541,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Physiotherapy"
     },
     {
       "program_name": "Doctor of Philosophy (Biotechnology)",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jan",
@@ -4556,11 +4599,12 @@
             "text": "Master Degree in related field: CGPA >2.75, for 2.75 >CGPA> 2.5 can be accepted subject to rigorous internal assessment.."
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Doctor of Philosphy (Pharmacy)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "AIMST, Bedong",
       "intakes": [
         "Jan",
@@ -4613,7 +4657,8 @@
             "text": "Master of Pharmacy or related field: Bachelor of Pharmacy with CGPA 3.7 and registered as Master students can apply for this programme based on quality of research and Senat's approval."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     }
   ]
 }

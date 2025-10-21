@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://toa.edu.my/showcase/story/static/styles/images/footer-building-3.webp"
+  ],
   "programs": [
     {
       "program_name": "Certificate in Communication Design",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -55,11 +58,12 @@
             "value": "B"
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "BA (HONS) Graphic Design (3+0) University of Hertfordshire, UK",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "May"
@@ -153,11 +157,12 @@
             "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA (HONS) Interior Architecture and Design (3+0) University of Hertfordshire, UK",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "May"
@@ -251,11 +256,12 @@
             "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "BA (HONS) Digital Media Design (3+0) University of Hertfordshire, UK",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "May"
@@ -349,11 +355,12 @@
             "text": "Minimum CGPA 2.00.  Applicants may be required to submit a portfolio for assessment"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Digital Animation",
-      "field_of_study": "Animation",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -427,11 +434,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Animation"
     },
     {
       "program_name": "Diploma in Digital Animation",
-      "field_of_study": "Animation",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Georgetown",
       "intakes": [
         "Jan",
@@ -505,11 +513,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Animation"
     },
     {
       "program_name": "Diploma in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -608,11 +617,12 @@
             "text": "Grade C (GP 2.0) in any subjects.  Credit in Mathematics at SPM level"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Illustration",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -690,11 +700,12 @@
             "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma in Fine Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -769,11 +780,12 @@
             "text": "3B."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma in Illustration",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "TOA, Georgetown",
       "intakes": [
         "Jan",
@@ -843,11 +855,12 @@
             "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Diploma in Fashion Design & Pattern Making",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Mar",
@@ -915,11 +928,12 @@
             "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test & Interview"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Advertising & Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -993,11 +1007,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Advertising & Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Georgetown",
       "intakes": [
         "Jan",
@@ -1071,11 +1086,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -1167,11 +1183,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Diploma in Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "TOA, Georgetown",
       "intakes": [
         "Jan",
@@ -1263,11 +1280,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Diploma in Digital Media Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -1341,11 +1359,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Digital Media Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Georgetown",
       "intakes": [
         "Jan",
@@ -1415,11 +1434,12 @@
             "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test or Drawing Test for candidate who does not have a pass in Art subject or without an art subject in SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Visual Comunication Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -1496,11 +1516,12 @@
             "text": "Minimum 3 credits (3Bs).  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Visual Effects",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -1582,11 +1603,12 @@
             "text": "3 credits (3Bs).  Pass Portfolio Review or Drawing Test conducted by The One Academy for candidate who does not have a Pass in Art subject or without an art subject at SPM level or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Game Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -1661,11 +1683,12 @@
             "text": "Grade C (GP 2.0) in any subjects.  Pass an interview or an assessment of a portfolio conducted by The One Academy."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Foundation in Interior Architecture and Design",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "May"
@@ -1756,11 +1779,12 @@
             "text": "Pass with 5Bs including pass in English and Mathematics."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Communication Design",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "TOA, Bandar Sunway",
       "intakes": [
         "May"
@@ -1848,7 +1872,8 @@
             "text": "Pass with 5Bs including pass in English."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     }
   ]
 }

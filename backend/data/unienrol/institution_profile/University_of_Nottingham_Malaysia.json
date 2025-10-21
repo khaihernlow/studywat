@@ -4,6 +4,9 @@
   "institution_type": "Private",
   "world_rank": 1740,
   "malaysia_rank": 16,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/NOTTINGHAM/Nottingham%2C+Semenyih/Campus_Surroundings/01e_Nottingham%2C_Semenyih_Block_B_-_Science.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Finance, Accounting and Management BSc (Hons)",
@@ -219,11 +222,12 @@
             "text": "ATAR 78, with consideration for relevant subjects..  Grade B in Mathematics at SPM/GCSE/IGCSE/High School Diploma level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Biomedical Sciences BSc (Hons)",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -412,11 +416,12 @@
             "text": "ATAR 82. Applicants are required to meet specific grade standards in Biology and Chemistry, aligned with A Level subject requirements.."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "Biotechnology BSc Hons",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -746,11 +751,12 @@
             "text": "ATAR 78. Applicants are required to meet specific grade standards in two science-based subjects, such as Biology, Chemistry, Physics, or Mathematics, aligned with A Level subject requirements..  At least a credit (normally grade C) in Mathematics at SPM/GCSE/IGCSE/High School Diploma or equivalent"
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Chemical Engineering MEng (Hons)",
-      "field_of_study": "Chemical Engineering",
+      "field_of_study": "Engineering",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -951,11 +957,12 @@
             "text": "ATAR 82. Applicants are required to meet specific grade standards in Mathematics and either Chemistry or Physics, aligned with A Level subject requirements [WACE] Subjects required: Mathematics Methods and Mathematics Specialist. [SACE] Subjects required: Mathematical Methods and Specialist Mathematics.."
           }
         ]
-      }
+      },
+      "course": "Chemical Engineering"
     },
     {
       "program_name": "Chemical Engineering with Environmental Engineering MEng (Hons)",
-      "field_of_study": "Chemical Engineering",
+      "field_of_study": "Engineering",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -1140,11 +1147,12 @@
             "text": "ATAR 82. Applicants are required to meet specific grade standards in Mathematics and either Chemistry or Physics, aligned with A Level subject requirements. [WACE] Subjects required: Mathematics Methods and Mathematics Specialist. [SACE] Subjects required: Mathematical Methods and Specialist Mathematics.."
           }
         ]
-      }
+      },
+      "course": "Chemical Engineering"
     },
     {
       "program_name": "Civil Engineering MEng (Hons)",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -1319,11 +1327,12 @@
             "text": "ATAR 82. Applicants are required to meet specific grade standards in Mathematics and Physics, aligned with A Level subject requirements. [WACE] Subjects required: Mathematics Methods and Mathematics Specialist. [SACE] Subjects required: Mathematical Methods and Specialist Mathematics.."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "International Communication Studies BA (Hons)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -1483,11 +1492,12 @@
             "text": "ATAR 78, with consideration for relevant subjects.."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "International Communication Studies with English Language and Literature BA (Hons)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -1671,11 +1681,12 @@
             "text": "ATAR 78, with consideration for relevant subjects.."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "International Communication Studies with Film and Television Studies BA (Hons)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -1859,11 +1870,12 @@
             "text": "ATAR 78, with consideration for relevant subjects.."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "BA (Hons) International Communication Studies with Performing Arts",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -2024,11 +2036,12 @@
             "text": "ATAR 78, with consideration for relevant subjects.."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Computer Science BSc (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -2520,11 +2533,12 @@
             "text": "ATAR 82. Applicants are required to meet specific grade standards in Mathematics, aligned with A Level subject requirements. [WACE] Subjects required: Mathematics Methods and Mathematics Specialist. [SACE] Subjects required: Mathematical Methods and Specialist Mathematics..  Grade C in Additional Mathematics (SPM level) or Mathematics is required.\nThose with a grade C in Mathematics must also have at least a grade C in one of the Science, Technology, or Engineering subjects at SPM/GCSE/IGCSE/High School Diploma, or an equivalent qualification."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Computer Science with Artificial Intelligence BSc (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -2815,11 +2829,12 @@
             "text": "ATAR 82. Applicants are required to meet specific grade standards in Mathematics, aligned with A Level subject requirements. [WACE] Subjects required: Mathematics Methods and Mathematics Specialist. [SACE] Subjects required: Mathematical Methods and Specialist Mathematics..  Credit in Additional Mathematics at the SPM level or a grade B in Mathematics.\nThose with a grade B in Mathematics must also have at least a credit in one of the Science, Technology, or Engineering subjects at SPM/GCSE/IGCSE/High School Diploma or equivalent."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Economics BSc (Hons)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -3110,11 +3125,12 @@
             "text": "ATAR 78, with consideration for relevant subjects..  Grade A- in Mathematics at SPM/GCSE/IGCSE/High School Diploma level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Economics and International Economics BSc (Hons)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -3399,11 +3415,12 @@
             "text": "ATAR 78, with consideration for relevant subjects..  Grade A- in Mathematics at SPM/GCSE/IGCSE/High School Diploma level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Business Economics and Finance BSc (Hons)",
-      "field_of_study": "Economics and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -3610,11 +3627,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Economics and Finance"
     },
     {
       "program_name": "Electrical and Electronic Engineering MEng (Hons)",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -3832,11 +3850,12 @@
             "text": "ATAR 82. Applicants are required to meet specific grade standards in Mathematics and Physics, aligned with A Level subject requirements. [WACE] Subjects required: Mathematics Methods and Mathematics Specialist. [SACE] Subjects required: Mathematical Methods and Specialist Mathematics.."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "English Language and Literature BA (Hons)",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -4020,11 +4039,12 @@
             "text": "ATAR 78, with consideration for relevant subjects.."
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "English with Creative Writing BA (Hons)",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -4166,11 +4186,12 @@
             "text": "ATAR 78, with consideration for relevant subjects.."
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "Bachelor of Arts (Honours) in Education (TESOL)",
-      "field_of_study": "English (Teaching)",
+      "field_of_study": "Education",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -4319,11 +4340,12 @@
             "text": "ATAR 74, with consideration for relevant subjects.."
           }
         ]
-      }
+      },
+      "course": "English (Teaching)"
     },
     {
       "program_name": "Bachelor of Education with Honours (TESOL)",
-      "field_of_study": "English (Teaching)",
+      "field_of_study": "Education",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -4472,11 +4494,12 @@
             "text": "ATAR 74, with consideration for relevant subjects.."
           }
         ]
-      }
+      },
+      "course": "English (Teaching)"
     },
     {
       "program_name": "Environmental Science BSc Hons",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -4643,11 +4666,12 @@
             "text": "ATAR 78. Applicants are required to meet specific grade standards in two science subjects, preferably from Biology, Chemistry, Geography, Mathematics, or Physics.."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "BSc (Hons) Finance, Management and Business Analytics",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -4856,11 +4880,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "International Business Management BSc (Hons)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -5067,11 +5092,12 @@
             "text": "ATAR 78, with consideration for relevant subjects..  Grade B in Mathematics at SPM/GCSE/IGCSE/High School Diploma level or equivalent"
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "International Relations BA (Hons)",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -5231,11 +5257,12 @@
             "text": "ATAR 78, with consideration for relevant subjects.."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "International Relations with French BA (Hons)",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -5419,11 +5446,12 @@
             "text": "ATAR 78, with consideration for relevant subjects..  No prior knowledge of the language selected as a minor."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "International Relations with Spanish BA (Hons)",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "Nottingham, Semenyih",
       "intakes": [
         "Sep"
@@ -5583,7 +5611,8 @@
             "text": "ATAR 78, with consideration for relevant subjects..  No prior knowledge of the language selected as a minor."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     }
   ]
 }

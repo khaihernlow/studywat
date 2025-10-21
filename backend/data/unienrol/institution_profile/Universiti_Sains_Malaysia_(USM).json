@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 382,
   "malaysia_rank": 3,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Universiti+Sains+Malaysia/USM+Minden+Penang/Campus_and_Surroundings/01d_USM_Minden_Penang_Main_Entrance.jpeg"
+  ],
   "programs": [
     {
       "program_name": "SARJANA MUDA KEJURUTERAAN AEROANGKASA DENGAN KEPUJIAN [AEROSPACE ENGINEERING]",
-      "field_of_study": "Aeronautical Engineering",
+      "field_of_study": "Engineering",
       "location": "USM Nibong Tebal, Penang",
       "intakes": [
         "Mar",
@@ -75,11 +78,12 @@
             "text": "Pass with a minimum aggregate of 68 and achieve at least Grade B in Chemistry, Physics and Mathematics."
           }
         ]
-      }
+      },
+      "course": "Aeronautical Engineering"
     },
     {
       "program_name": "SARJANA MUDA KEJURUTERAAN AWAM DENGAN KEPUJIAN [CIVIL ENGINEERING]",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "USM Nibong Tebal, Penang",
       "intakes": [
         "Oct"
@@ -188,11 +192,12 @@
             "text": "Pass with a minimum aggregate of 68 and achieve at least Grade B in Mathematics, Physics and Chemistry / Biology.  Credit in the Mathematics subject at the SPM level"
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "DOKTOR PERGIGIAN [DENTAL SURGERY]",
-      "field_of_study": "Dentistry",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "USM Bertam, Penang",
       "intakes": [
         "Oct"
@@ -425,11 +430,12 @@
             "text": "(NOTE: Subject to further approval by the admission office) Pass With a minimum aggregate or average of 80% or equivalent to a grade B in any THREE (3) of the following subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
           }
         ]
-      }
+      },
+      "course": "Dentistry"
     },
     {
       "program_name": "DOKTOR PERGIGIAN [DENTAL SURGERY]",
-      "field_of_study": "Dentistry",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "USM Kubang Kerian, Kelantan",
       "intakes": [
         "Oct"
@@ -687,11 +693,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Dentistry"
     },
     {
       "program_name": "SARJANA MUDA EKONOMI (KEPUJIAN) [ECONOMICS]",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "USM Minden, Penang",
       "intakes": [
         "Mar",
@@ -873,11 +880,12 @@
             "text": "Pass with a minimum aggregate of 68 and achieve at least Grade B in the subject of Economics and any one (1) of the following subjects, Accounting / Accounting and Finance, Mathematical Studies, Specialist Mathematics, Business Management & Enterprise.  Pass interview"
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "SARJANA MUDA DIETETIK (KEPUJIAN) [DIETETICS]",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "USM Kubang Kerian, Kelantan",
       "intakes": [
         "Oct"
@@ -1008,11 +1016,12 @@
             "text": "Pass with a minimum aggregate of 45 and obtain at least a Grade C in any two (2) of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview"
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "SARJANA MUDA AUDIOLOGI (KEPUJIAN) [AUDIOLOGY]",
-      "field_of_study": "Medical Technology",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "USM Kubang Kerian, Kelantan",
       "intakes": [
         "Oct"
@@ -1143,11 +1152,12 @@
             "text": "Pass with a minimum aggregate of 45 and obtain at least a Grade C in any two (2) of the following subjects, Biology, Chemistry, Physics / Mathematics.  Pass interview"
           }
         ]
-      }
+      },
+      "course": "Medical Technology"
     },
     {
       "program_name": "DOKTOR PERUBATAN [DOCTOR OF MEDICINE]",
-      "field_of_study": "Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "USM Bertam, Penang",
       "intakes": [
         "Oct"
@@ -1410,11 +1420,12 @@
             "text": "(NOTE: Subject to further approval by the admission office) Pass With a minimum aggregate or average of 80% or equivalent to a grade B in any THREE (3) of the following subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish\nMathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
           }
         ]
-      }
+      },
+      "course": "Medicine"
     },
     {
       "program_name": "DOKTOR PERUBATAN [DOCTOR OF MEDICINE]",
-      "field_of_study": "Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "USM Kubang Kerian, Kelantan",
       "intakes": [
         "Oct"
@@ -1711,11 +1722,12 @@
             "text": "(NOTE: Subject to further approval by the admission office) Pass With a minimum aggregate or average of 80% or equivalent to a grade B in any THREE (3) of the following subjects, Biology, Chemistry and Physics / Mathematics.  Grade B at the SPM/equivalent level in the following two (2) subjects:\nBiology\nChemistry\nPhysics\nCredit in the following three (3) subjects:\nEnglish Mathematics\nAdditional Mathematics\nOne (1) other subject\nPass interview"
           }
         ]
-      }
+      },
+      "course": "Medicine"
     },
     {
       "program_name": "SARJANA MUDA FARMASI (KEPUJIAN) [PHARMACY]",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "USM Minden, Penang",
       "intakes": [
         "Oct"
@@ -1770,7 +1782,8 @@
             "text": "Foundation : (NOTE: Not applicable for foundation qualification from private institutions) Pass Matrikulasi KPM or Asasi UM/UKM/UiTM with min. CGPA 3.50 and at least grade B (3.00) in the following 2 subjects: Chemistry, Biology / Physics / Mathematics..  Grade B at the SPM level in the following five (5) subjects\nBiology\nChemistry\nPhysics\nMathematics / Additional Mathematics\n1 other subject\nPass with at least Grade C in the subjects of Bahasa Melayu (Malay language) and Bahasa Inggeris (English language) at the SPM level\nPass interview"
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     }
   ]
 }

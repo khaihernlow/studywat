@@ -4,6 +4,9 @@
   "institution_type": "Private",
   "world_rank": 7976,
   "malaysia_rank": 58,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/University+of+Southampton+Malaysia/Johor+Campus/Campus_and_Surroundings/01a_Johor_Campus_UoSM_Facade.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Science Accounting and Finance (3+0)",
@@ -224,11 +227,12 @@
             "text": "Pass with 30 points overall, 15 at Higher Level.  Standard Level/Higher Level in Mathematics (minimum grade 4) or Mathematics in IB MYP (minimum grade 5) or Mathematics (minimum grade 6/B) in GCSE/SPM"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Science in Economics and Actuarial Science",
-      "field_of_study": "Actuarial Science",
+      "field_of_study": "Business",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Sep"
@@ -351,11 +355,12 @@
             "text": "30 points overall, 15 at Higher Level, including 5 points at Higher Level in Mathematics (Analysis and Approaches or Applications and Interpretation)."
           }
         ]
-      }
+      },
+      "course": "Actuarial Science"
     },
     {
       "program_name": "MEng Aeronautics & Astronautics (2+2), with University of Southampton, UK",
-      "field_of_study": "Aeronautical Engineering",
+      "field_of_study": "Engineering",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Sep"
@@ -509,11 +514,12 @@
             "text": "Pass with 32 points overall, with 16 points required at Higher Level, including 6 in Mathematics (Analysis and Approaches or Applications and Interpretation) at Higher Level and 6 in Physics at Higher Level.  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B."
           }
         ]
-      }
+      },
+      "course": "Aeronautical Engineering"
     },
     {
       "program_name": "Bachelor of Science Business Analytics (3+0) with UoSM, UK",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Sep"
@@ -731,11 +737,12 @@
             "text": "Pass with 30 points overall, 15 at Higher Level.  Standard Level/Higher Level in Mathematics (minimum grade 4) or Mathematics in IB MYP (minimum grade 5) or Mathematics (minimum grade 6/B) in GCSE/SPM"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Science Business Management (3+0)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Sep"
@@ -910,11 +917,12 @@
             "text": "Pass with 30 points overall, 15 at Higher Level.  Standard Level/Higher Level in Mathematics (minimum grade 4) or Mathematics in IB MYP (minimum grade 5) or Mathematics (minimum grade 6/B) in GCSE/SPM"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Science Computer Science (3+0)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Sep"
@@ -967,11 +975,12 @@
             "text": "Pass with 32 points overall, with 16 points required at Higher Level, including 6 at Higher Level in Mathematics (Analysis and Approaches) or 7 at Higher Level in Mathematics (Applications and Interpretation)."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "MEng Electrical & Electronic Engineering (2+2), with University of Southampton, UK",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Sep"
@@ -1023,11 +1032,12 @@
             "text": "Pass with 32 points overall, 16 points required at Higher Level, including 6 at Higher Level in Physics and 6 at Higher Level in Mathematics (Analysis and Approaches) or 7 at Higher Level in Mathematics (Applications and Interpretation).  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B"
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Science Finance and Financial Technology",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Sep"
@@ -1129,11 +1139,12 @@
             "text": "30 points overall, 15 at Higher Level, including 5 points at Higher Level in Mathematics (Analysis and Approaches or Applications and Interpretation)."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Master of Engineering in Mechanical Engineering (4+0)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Sep"
@@ -1305,11 +1316,12 @@
             "text": "Pass with 32 points overall, with 16 points required at Higher Level, including 6 in Mathematics (Analysis and Approaches or Applications and Interpretation) at Higher Level and 6 in Physics at Higher Level.  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "MEng Mechanical Engineering (2+2), with University of Southampton, UK",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Sep"
@@ -1523,11 +1535,12 @@
             "text": "Pass with 36 points overall, 18 points required at Higher Level, including 6 at Higher Level in Physics and 6 at Higher Level in Mathematics (Analysis and Approaches) or 7 at Higher Level in Mathematics (Applications and Interpretation).  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Business Foundation Year",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Mar",
@@ -1618,11 +1631,12 @@
             "text": "BCCCC with Mathematics at B or higher. The other four subjects at C or higher (Moral Studies and Religious Studies are not included)."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Engineering Foundation Year (EFY)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Mar",
@@ -1742,11 +1756,12 @@
             "text": "AABBB in the Science Stream, with Mathematics and Physics at A. The other three subjects at B or higher (Moral Studies and Religious Studies are not included)."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Computer Science Foundation Year (CSFY)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Mar",
@@ -1914,11 +1929,12 @@
             "text": "AABBB in the Science Stream, with Mathematics and one Science subject at A. The other three subjects at B or higher (Moral Studies and Religious Studies are not included)."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "MSc Finance",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Sep"
@@ -1954,11 +1970,12 @@
             "text": "CGPA 3.0 out of 4.0; 2:1 degree or equivalent qualification in relevant subjects.."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "MSc Digital Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Southampton, EduCity Iskandar",
       "intakes": [
         "Sep"
@@ -1994,7 +2011,8 @@
             "text": "CGPA 3.0 out of 4.0; 2:1 degree or equivalent qualification in relevant subjects.."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     }
   ]
 }

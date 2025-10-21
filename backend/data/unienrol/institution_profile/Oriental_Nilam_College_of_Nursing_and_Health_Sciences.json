@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/Oriental+Nilam+College+of+Nursing+and+Health+Sciences/Oriental+Nilam+Klebang/Campus+and+Surroundings/01a_Oriental_Nilam_College_of_Nursing_and_Health_Sciences_Oriental_Nilam_College_Building.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Diploma in Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Oriental Nilam, Klebang",
       "intakes": [
         "Jul",
@@ -110,7 +113,8 @@
             "text": "Please contact our counsellors for further details.  Additional Requirement:\nSPM Credit in BM & Pass in Sejarah"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     }
   ]
 }

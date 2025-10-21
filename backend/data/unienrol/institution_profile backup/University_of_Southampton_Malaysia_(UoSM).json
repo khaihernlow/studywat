@@ -1,0 +1,2000 @@
+{
+  "institution_name": "University of Southampton Malaysia (UoSM)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 7976,
+  "malaysia_rank": 58,
+  "programs": [
+    {
+      "program_name": "Bachelor of Science Accounting and Finance (3+0)",
+      "field_of_study": "Accounting and Finance",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES - Optional",
+      "entry_requirements_raw": {
+        "A-Level": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM",
+        "UEC": "BBBBB (Grade B4 and above only).  Mathematics (minimum Grade 6/B) in GCSE/SPM/UEC",
+        "STPM": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM",
+        "IB Diploma": "Pass with 30 points overall, 15 at Higher Level.  Standard Level/Higher Level in Mathematics (minimum grade 4) or Mathematics in IB MYP (minimum grade 5) or Mathematics (minimum grade 6/B) in GCSE/SPM"
+      },
+      "english_requirements": {
+        "IELTS": "6.5 overall (with 5.5 in each component)",
+        "Others": "SPM 1119 - C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 122400
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Marketing Introduction to Accounting and Finance Introduction to Management Commercial Law Introduction to Economics For Non-Economists Financial Accounting I Management Accounting I Foundations of Business Analytics OR Management Analysis  Year 2 Company Law Principles of Audit and Taxation Business Research Financial Accounting 2 Financial Management Management Accounting 2 Portfolio Thoery and Financial Markets  Year 3 Financial Accounting 3 Management Accounting 3 Analytical Accounting Case Studies OR Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "General Studies"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBBBB (Grade B4 and above only).  Mathematics (minimum Grade 6/B) in GCSE/SPM/UEC"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "General Studies"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 15.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Higher Level"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "4"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "5"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics in IB MYP"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 30 points overall, 15 at Higher Level.  Standard Level/Higher Level in Mathematics (minimum grade 4) or Mathematics in IB MYP (minimum grade 5) or Mathematics (minimum grade 6/B) in GCSE/SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science in Economics and Actuarial Science",
+      "field_of_study": "Actuarial Science",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB including Mathematics.",
+        "UEC": "BBBBB (Grade B4 and above only) including Mathematics.",
+        "STPM": "BBB including Mathematics.",
+        "IB Diploma": "30 points overall, 15 at Higher Level, including 5 points at Higher Level in Mathematics (Analysis and Approaches or Applications and Interpretation)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 minimum 6.0 in all components",
+        "Others": "SPM CEFR (Cohort from 2021): Level B2 or above"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 130173
+      },
+      "course_content": {
+        "core": "Year 1 Economics with Experiments Linear Algebra I Mathematics for Economics Foundations of Microeconomics OR Principles of Microeconomics Economics with Data Principles of Macroeconomics Quantitative Modelling in Economics Statistics for Economics Economics Skills and Employability I Year 2 Econometric Theory Financial Mathematics Intermediate Macroeconomics Intermediate Microeconomics ECON Dissertation: Prelim Info Econometrics with Big Data Economics Skills and Employability II Optional modules: Accounting and Finance for Non-Specialists (Actuarial Science) Stochastic Processes (Actuarial Science) Development Economics Dynamic Macroeconomics Applied Economics Year 3 Dissertation: Literature Review OR Project/Dissertation Dissertation: Research Project OR Dissertation: Research Topics Economics Skills and Employability III Optional Modules: Actuarial Mathematics I (Actuarial Science) Computational Economics (Actuarial Science) Survival Models (Actuarial Science) Actuarial Mathematics II (Actuarial Science) Mathematical Finance (Actuarial Science) Statistical Methods in Insurance (Actuarial Science) Labour Economics Principles of Finance Topics in Macroeconomics International Trade International Macroeconomics Public Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB including Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBBBB (Grade B4 and above only) including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB including Mathematics."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30.0
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 15.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics (Analysis and Approaches)",
+              "Mathematics (Applications and Interpretation)"
+            ]
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 5.0
+          },
+          {
+            "type": "raw",
+            "text": "30 points overall, 15 at Higher Level, including 5 points at Higher Level in Mathematics (Analysis and Approaches or Applications and Interpretation)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MEng Aeronautics & Astronautics (2+2), with University of Southampton, UK",
+      "field_of_study": "Aeronautical Engineering",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": "YES - Optional",
+      "entry_requirements_raw": {
+        "A-Level": "ABB/A*A*C/A*AC/AAC including grade A in Mathematics and grade A/B in Physics.",
+        "UEC": "AAABBB, with A in Advanced Mathematics I & II, Physics and B in two other STEM subjects (Computing accepted).",
+        "STPM": "A-BB, including Mathematics and Physics.",
+        "IB Diploma": "Pass with 32 points overall, with 16 points required at Higher Level, including 6 in Mathematics (Analysis and Approaches or Applications and Interpretation) at Higher Level and 6 in Physics at Higher Level.  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B."
+      },
+      "english_requirements": {
+        "IELTS": "Band 1C, 6.5 overall with at least 5.5 in each component"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 103400
+      },
+      "course_content": {
+        "core": "Year 1 An Introduction to Design\nMechanics, Structures and Materials\nThermoFluids\nElectrical and Electronics Systems\nIntroduction to Aeronautics and Astronautics\nMathematics for Engineering and the Environment  Year 2 Systems Design and Computing\nEngineering Management and Law\nMathematics for Engineering and the Environment Part II\nAerodynamics\nAstronautics\nSystems Design and Computing\nMaterials and Structures\nEngineering Management and Law\nPropulsion\nMechanics of Flight  Year 3 Individual Project\nAerothermodynamics\nAerospace Control Systems\nAircraft Structural Design Year 4 Group Design Project\nAdvanced Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABB/A*A*C/A*AC/AAC including grade A in Mathematics and grade A/B in Physics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Advanced Mathematics I",
+              "Advanced Mathematics II",
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "STEM"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "AAABBB, with A in Advanced Mathematics I & II, Physics and B in two other STEM subjects (Computing accepted)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A-BB, including Mathematics and Physics."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 32
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 16
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics (Analysis and Approaches or Applications and Interpretation)"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "IB English Language Syllabus A"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "IB English Language Syllabus B"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 32 points overall, with 16 points required at Higher Level, including 6 in Mathematics (Analysis and Approaches or Applications and Interpretation) at Higher Level and 6 in Physics at Higher Level.  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science Business Analytics (3+0) with UoSM, UK",
+      "field_of_study": "Business Administration",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM",
+        "UEC": "BBBBB (Grade B4 and above only).  Mathematics (minimum Grade 6/B) in GCSE/SPM",
+        "STPM": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM",
+        "IB Diploma": "Pass with 30 points overall, 15 at Higher Level.  Standard Level/Higher Level in Mathematics (minimum grade 4) or Mathematics in IB MYP (minimum grade 5) or Mathematics (minimum grade 6/B) in GCSE/SPM"
+      },
+      "english_requirements": {
+        "IELTS": "6.5 overall (with 5.5 in each component)",
+        "Others": "SPM 1119 - C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 121455
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Accounting and Finance \nIntroduction to Management \nIntroduction to Marketing \nAnalytics Implementation I: Spreadsheets and Databases\nBusiness Analytics Programming I: SAS Base Language\nPredictive Analytics I: Regression and Combinatorial Techniques \nPrescriptive Analytics I: Fundamentals of Management Sciences \nFoundations of Business Analytics OR Management Analysis Year 2 Analytics Implementation II: Visualising Data for Effective Communication\nBusiness Analytics Programming II: Algorithmic Thinking \nConsulting: Context, Concepts and Practice \nPredictive Analytics II: Business Forecasting \nPrescriptive Analytics II: Simulation Business Year 3 Analytics Implementation Ill: Knowledge Management, Methods and Ethics\nAnalytics in Action I \nAnalytics in Action II \nPrescriptive Analytics Ill: Optimisation \nFinal Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "General Studies"
+            ],
+            "comparator": "!="
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "BBBBB (Grade B4 and above only).  Mathematics (minimum Grade 6/B) in GCSE/SPM"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "General Studies"
+            ],
+            "comparator": "!="
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 15
+          },
+          {
+            "type": "subjects",
+            "comparator": "=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "4"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "5"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 30 points overall, 15 at Higher Level.  Standard Level/Higher Level in Mathematics (minimum grade 4) or Mathematics in IB MYP (minimum grade 5) or Mathematics (minimum grade 6/B) in GCSE/SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science Business Management (3+0)",
+      "field_of_study": "Business and Management",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES - Optional",
+      "entry_requirements_raw": {
+        "A-Level": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM",
+        "UEC": "BBBBB (Grade B4 and above only).  Mathematics (minimum Grade 6/B) in GCSE/SPM/UEC",
+        "STPM": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM",
+        "IB Diploma": "Pass with 30 points overall, 15 at Higher Level.  Standard Level/Higher Level in Mathematics (minimum grade 4) or Mathematics in IB MYP (minimum grade 5) or Mathematics (minimum grade 6/B) in GCSE/SPM"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 122400
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Accounting and Finance \nIntroduction to Management \nIntroduction to Marketing \nBusiness in Society \nDigital Technologies in Business\nFoundations of Business Analytics OR Management Analysis  Year 2 Critical Perspectives on Organisation and Management \nOperations Management  Year 3 Business Project OR Dissertation \nStrategic Management \nCorporate Social Responsibility and Sustainable Business",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "General Studies"
+            ],
+            "comparator": "excluding"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B4"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "BBBBB (Grade B4 and above only).  Mathematics (minimum Grade 6/B) in GCSE/SPM/UEC"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "General Studies"
+            ],
+            "comparator": "excluding"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "BBB excluding General Studies.  Mathematics (minimum Grade 6/B) in GCSE/SPM"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 30
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 15
+          },
+          {
+            "type": "subjects",
+            "count": 1,
+            "comparator": ">="
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "4"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "5"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 30 points overall, 15 at Higher Level.  Standard Level/Higher Level in Mathematics (minimum grade 4) or Mathematics in IB MYP (minimum grade 5) or Mathematics (minimum grade 6/B) in GCSE/SPM"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science Computer Science (3+0)",
+      "field_of_study": "Computer Science",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES - Optional",
+      "entry_requirements_raw": {
+        "A-Level": "AAC/ABB/A*BC + a mitigating factor, including grade A in Maths..",
+        "UEC": "AAAAAA, with A in Advanced Mathematics I & II.  Students who did not meet the typical entry requirement but obtained a Grade A in Advanced Mathematics and/or Physics with other STEM subjects scoring at least a Grade B are encouraged to apply.",
+        "STPM": "A-BB, including Mathematics.",
+        "IB Diploma": "Pass with 32 points overall, with 16 points required at Higher Level, including 6 at Higher Level in Mathematics (Analysis and Approaches) or 7 at Higher Level in Mathematics (Applications and Interpretation)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 overall (with 5.5 in each component)",
+        "Others": "SPM 1119 - C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 126000
+      },
+      "course_content": {
+        "core": "Year 1 Algorithmics 2024-25\nCOMP Part I Laboratory Programme 2024-25\nComputer Systems I 2024-25\nData Management 2024-25\nMathematics I 2024-25\nMathematics II 2024-25\nNetworks and Security 2024-25\nProgramming I 2024-25\nProgramming II 2024-25  Year 2 Artificial Intelligence 2025-26\nComputer Systems II 2025-26\nFormal Specification and Verification 2025-26\nProgramming III 2025-26\nProgramming Language Concepts 2025-26\nSoftware Design and Development Project 2025-26\nTheory of Computing 2025-26  Year 3 Part III Individual Project Phase 1 2026-27\nPart III Individual Project Phase 2 2026-27",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "AAC/ABB/A*BC + a mitigating factor, including grade A in Maths.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "AAAAAA, with A in Advanced Mathematics I & II.  Students who did not meet the typical entry requirement but obtained a Grade A in Advanced Mathematics and/or Physics with other STEM subjects scoring at least a Grade B are encouraged to apply."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "A-BB, including Mathematics."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass with 32 points overall, with 16 points required at Higher Level, including 6 at Higher Level in Mathematics (Analysis and Approaches) or 7 at Higher Level in Mathematics (Applications and Interpretation)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MEng Electrical & Electronic Engineering (2+2), with University of Southampton, UK",
+      "field_of_study": "Electrical & Electronic Engineering",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "YES - Optional",
+      "entry_requirements_raw": {
+        "A-Level": "ABC + mitigating factor, including A in Mathematics and B in Physics.",
+        "UEC": "AAABBB, with A in Advanced Mathematics I & II, Physics and B in two other STEM subjects (Computing accepted).",
+        "STPM": "A-BB, including Mathematics, Physics and one other STEM subject.",
+        "IB Diploma": "Pass with 32 points overall, 16 points required at Higher Level, including 6 at Higher Level in Physics and 6 at Higher Level in Mathematics (Analysis and Approaches) or 7 at Higher Level in Mathematics (Applications and Interpretation).  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B"
+      },
+      "english_requirements": {
+        "IELTS": "Band 1, 6.5 overall with at least 5.5 in each competence"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 103400
+      },
+      "course_content": {
+        "core": "Year 1 Mathematics \nCircuits\nProgramming\nDigital Systems \nEngineering Mathematics\nFields, Forces and Materials\nElectronic Systems and Materials\nIntroduction to Signals, Control and Communications\nFirst Year Lab Year 2 Design\nAdvanced Programming \nSignal Processing\nApplied Electromagnetism\nControl and Systems Modelling\nCommunications Year 3 Part III Individual Project Phase 1\nPart III Individual Project Phase 2\nOptional Modules Year 4 Group Design Project\nOptional Modules",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "ABC + mitigating factor, including A in Mathematics and B in Physics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "AAABBB, with A in Advanced Mathematics I & II, Physics and B in two other STEM subjects (Computing accepted)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "raw",
+            "text": "A-BB, including Mathematics, Physics and one other STEM subject."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "raw",
+            "text": "Pass with 32 points overall, 16 points required at Higher Level, including 6 at Higher Level in Physics and 6 at Higher Level in Mathematics (Analysis and Approaches) or 7 at Higher Level in Mathematics (Applications and Interpretation).  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Science Finance and Financial Technology",
+      "field_of_study": "Finance",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB including Mathematics; excluding General Studies and Critical Thinking..",
+        "UEC": "BBBBB (Grade B4 and above only) including Mathematics.",
+        "STPM": "BBB including Mathematics (minimum grade B); excluding General Studies.",
+        "IB Diploma": "30 points overall, 15 at Higher Level, including 5 points at Higher Level in Mathematics (Analysis and Approaches or Applications and Interpretation)."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 overall (with 5.5 in each component)",
+        "Others": "SPM 1119 - C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 121455
+      },
+      "course_content": {
+        "core": "Year 1 Introduction to Management Introduction to Marketing Foundations of Business Analytics Introduction to Accounting and Finance Statistical Methods for Finance Foundations of Finance Personal Finance Optional Modules Analytics Implementation I: Spreadsheets and Databases Digital Technologies in Business Financial Accounting 1 for Business Students Introduction to Economics For Non-Economists Year 2 Financial Econometrics 1 Financial Management Introduction to Fintech Portfolio Theory and Financial Markets Optional Modules Financial Accounting 2 Human Resource Management Islamic Banking and Finance Management Ethics Principles and Practice of Management Science Econometrics with Big Data Financial Econometrics 2 Innovation, Technology and the Environment Management Accounting 2 Principles of Audit and Taxation Year 3 Alternative Investments Behavioural Finance Cryptocurrency Investments Futures and Options Dissertation Optional Modules Advanced Taxation Managing careers and employability Climate Finance Corporate Governance Corporate Social Responsibility and Sustainable Business Empirical Finance International Banking International Finance Risk Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB including Mathematics; excluding General Studies and Critical Thinking.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBBBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBBBB (Grade B4 and above only) including Mathematics."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "BBB"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB including Mathematics (minimum grade B); excluding General Studies."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 30
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 15
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics (Analysis and Approaches or Applications and Interpretation)"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "30 points overall, 15 at Higher Level, including 5 points at Higher Level in Mathematics (Analysis and Approaches or Applications and Interpretation)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Engineering in Mechanical Engineering (4+0)",
+      "field_of_study": "Mechanical Engineering",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "ABC including A in Mathematics and B in Physics, with a pass in the Physics Practical (where it is separately endorsed).",
+        "UEC": "AAABBB, with A in Advanced Mathematics I & II, Physics and B in two other STEM subjects (Computing accepted).",
+        "STPM": "BBB, including Mathematics, Physics and other STEM subject.",
+        "IB Diploma": "Pass with 32 points overall, with 16 points required at Higher Level, including 6 in Mathematics (Analysis and Approaches or Applications and Interpretation) at Higher Level and 6 in Physics at Higher Level.  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 minimum 6.0 in all components",
+        "Others": "SPM CEFR (Cohort from 2021): Level B2 or above"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 206800
+      },
+      "course_content": {
+        "core": "Year 1 An Introduction to Engineering Design Electrical and Electronics Systems Mathematics for Engineering and the Environment Mechanical Systems Analysis Mechanics, Structures and Materials ThermoFluids Year 2 Electronics and Control Engineering Management and Law Fluid Mechanics Materials and Structures Mathematics for Engineering and the Environment Part II Mechanics, Machines and Vibration Systems Design and Computing Thermodynamics Year 3 Engineering Design with Management Finite Element Analysis in Solid Mechanics Heat Transfer and Applications Manufacturing and Materials Individual Project Optional modules: Control and Instrumentation Machine Learning Technologies Robotic Systems Failure of Materials and Components Technology Fundamentals for Sustainable Energy Project Management Year 4 Materials, Manufacturing and Supply Chain Management Final Year Project Group Design Project Optional modules: Active Control of Sound and Vibration Intelligent Mobile Robotics Advanced Sensors and Condition Monitoring Automotive Propulsion Materials for Transport Applications Introduction to Machine Learning Sustainable energy systems, resources and usage Quantitative Finance",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics Practical"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABC including A in Mathematics and B in Physics, with a pass in the Physics Practical (where it is separately endorsed)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Advanced Mathematics I",
+              "Advanced Mathematics II",
+              "Physics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "STEM subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "AAABBB, with A in Advanced Mathematics I & II, Physics and B in two other STEM subjects (Computing accepted)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "STEM subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB, including Mathematics, Physics and other STEM subject."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 32
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 16
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics (Analysis and Approaches or Applications and Interpretation) at Higher Level"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics at Higher Level"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "IB English Language Syllabus A"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "IB English Language Syllabus B"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": 6
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 32 points overall, with 16 points required at Higher Level, including 6 in Mathematics (Analysis and Approaches or Applications and Interpretation) at Higher Level and 6 in Physics at Higher Level.  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MEng Mechanical Engineering (2+2), with University of Southampton, UK",
+      "field_of_study": "Mechanical Engineering",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "YES - Optional",
+      "entry_requirements_raw": {
+        "A-Level": "ABC including A in Mathematics and B in Physics, with a pass in the Physics Practical (where it is separately endorsed).",
+        "UEC": "AAABBB, with A in Advanced Mathematics I & II, Physics and B in two other STEM subjects (Computing accepted).",
+        "STPM": "BBB, including Mathematics, Physics and other STEM subject.",
+        "IB Diploma": "Pass with 36 points overall, 18 points required at Higher Level, including 6 at Higher Level in Physics and 6 at Higher Level in Mathematics (Analysis and Approaches) or 7 at Higher Level in Mathematics (Applications and Interpretation).  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B."
+      },
+      "english_requirements": {
+        "IELTS": "Band 1C, 6.5 overall with at least 5.5 in each component"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 103400
+      },
+      "course_content": {
+        "core": "Year 1 An Introduction to Design\nMechanics, Structures and Materials\nThermoFluids\nElectrical and Electronics Systems\nMathematics for Engineering and the Environment\nMechanical Systems Analysis Year 2 Systems Design and Computing\nMechanics, Machines & Vibration\nFluid Mechanics\nElectronics and Control\nMaterials and Structures\nEngineering Management and Law\nMathematics for Engineering and the Environment Part II\nThermodynamics Year 3 Individual Project\nFinite Element Analysis in Solid Mechanics\nEngineering Design with Management\nHeat Transfer and Applications\nManufacturing and Materials Year 4 Group Design Project\nMaterials, Manufacturing and Supply Chain Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics Practical"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABC including A in Mathematics and B in Physics, with a pass in the Physics Practical (where it is separately endorsed)."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Advanced Mathematics I",
+              "Advanced Mathematics II",
+              "Physics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "STEM subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "AAABBB, with A in Advanced Mathematics I & II, Physics and B in two other STEM subjects (Computing accepted)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics",
+              "other STEM subject"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB, including Mathematics, Physics and other STEM subject."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 36
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 18
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Higher Level"
+            ]
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Higher Level in Physics"
+            ]
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Higher Level in Mathematics (Analysis and Approaches)",
+              "Higher Level in Mathematics (Applications and Interpretation)"
+            ]
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Standard/Higher Level in IB English Language Syllabus A"
+            ]
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Standard Level in IB English Language Syllabus B"
+            ]
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Higher Level in IB English Language Syllabus B"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 36 points overall, 18 points required at Higher Level, including 6 at Higher Level in Physics and 6 at Higher Level in Mathematics (Analysis and Approaches) or 7 at Higher Level in Mathematics (Applications and Interpretation).  IB English: 5 at Standard/Higher Level in IB English Language Syllabus A or 6 at Standard Level/5 at Higher Level in IB English Language Syllabus B."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Business Foundation Year",
+      "field_of_study": "Foundation in Arts",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "IB MYP": "Grade 5 in Mathematics and grade 4 in 4 other subjects (excluding Personal Project and Physical and Health Education) .",
+        "SPM": "BCCCC with Mathematics at B or higher. The other four subjects at C or higher (Moral Studies and Religious Studies are not included).",
+        "O-Level": "BCCCC with Mathematics at B or higher. The other four subjects at C or higher (Moral Studies and Religious Studies are not included)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 26200
+      },
+      "course_content": {
+        "core": "Critical Thinking and Research Skills\nIntroduction to Accounting\nMathematics and Statistics\nEnglish for Academic Study\nIntroduction to Business\nGlobal Society\nIntroduction to Economics\nAcademic and Personal Development\nCommunicating in English",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "IB MYP": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "5"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "raw",
+            "text": "Grade 5 in Mathematics and grade 4 in 4 other subjects (excluding Personal Project and Physical and Health Education) ."
+          }
+        ],
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "BCCCC with Mathematics at B or higher. The other four subjects at C or higher (Moral Studies and Religious Studies are not included)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 4
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "BCCCC with Mathematics at B or higher. The other four subjects at C or higher (Moral Studies and Religious Studies are not included)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Engineering Foundation Year (EFY)",
+      "field_of_study": "Foundation in Science",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "IB MYP": "Grade 4 in 5 subjects including Physics, Mathematics and one other Science subject (Excluding Personal Project and Physical and Health Education).",
+        "SPM": "AABBB in the Science Stream, with Mathematics and Physics at A. Additional Mathematics at B or higher and the other two subjects at B or higher (Moral Studies and Religious Studies are not included).",
+        "O-Level": "AABBB in the Science Stream, with Mathematics and Physics at A. The other three subjects at B or higher (Moral Studies and Religious Studies are not included)."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 overall (with 5.5 in each component)",
+        "SPM:1119": "C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 29973
+      },
+      "course_content": {
+        "core": "Academic and Personal Development\nComputer Applications\nEngineering Principles\nMechanical Science\nRoutes to Success\nCommunicating in English\nElectricity and Electronics\nFundamentals of Science and Engineering \nMathematics for Science and Engineering",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "IB MYP": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade 4 in 5 subjects including Physics, Mathematics and one other Science subject (Excluding Personal Project and Physical and Health Education)."
+          }
+        ],
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "AABBB in the Science Stream, with Mathematics and Physics at A. Additional Mathematics at B or higher and the other two subjects at B or higher (Moral Studies and Religious Studies are not included)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "AABBB in the Science Stream, with Mathematics and Physics at A. The other three subjects at B or higher (Moral Studies and Religious Studies are not included)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Computer Science Foundation Year (CSFY)",
+      "field_of_study": "Foundation in Science",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Mar",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "IB MYP": "Grade 6 in Mathematics and one STEM subject and a minimum of grade 5 in other subjects.",
+        "SPM": "AABBB in the Science Stream, with Mathematics and one Science subject at A. Additional Mathematics at B or higher and the other two subjects at B or higher (Moral Studies and Religious Studies are not included).",
+        "O-Level": "AABBB in the Science Stream, with Mathematics and one Science subject at A. The other three subjects at B or higher (Moral Studies and Religious Studies are not included)."
+      },
+      "english_requirements": {
+        "IELTS": "5.5 overall (with 5.5 in each component)",
+        "SPM:1119": "C"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 29973
+      },
+      "course_content": {
+        "core": "Academic and Personal Development\nProgramming and Coursework\nTheoretical Aspects of Computing\nMathematics\nRoutes to Success\nComputer Systems & Applications\nCommunicating in English\nElectricity and Electronics\nFundamentals of Computing\nMathematics for Science and Engineering\nRoutes to Success",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "IB MYP": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "6",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1,
+            "subjects": [
+              "STEM"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "5",
+            "subjects": [
+              "other subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade 6 in Mathematics and one STEM subject and a minimum of grade 5 in other subjects."
+          }
+        ],
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B",
+            "count": 3
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1,
+            "subjects": [
+              "Science Stream"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1,
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B",
+            "subjects": [
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2,
+            "subjects": [
+              "other subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "AABBB in the Science Stream, with Mathematics and one Science subject at A. Additional Mathematics at B or higher and the other two subjects at B or higher (Moral Studies and Religious Studies are not included)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B",
+            "count": 3
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1,
+            "subjects": [
+              "Science Stream"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1,
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B",
+            "subjects": [
+              "other subjects"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "AABBB in the Science Stream, with Mathematics and one Science subject at A. The other three subjects at B or higher (Moral Studies and Religious Studies are not included)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc Finance",
+      "field_of_study": "Finance",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "CGPA 3.0 out of 4.0; 2:1 degree or equivalent qualification in relevant subjects.."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 overall, minimum 6.5 in reading and writing and 6.0 in listening and speaking"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 51371
+      },
+      "course_content": {
+        "core": "Compulsory / Core Modules Introduction to Finance Introduction to Portfolio Management and Exchange Traded Derivatives Quantitative Finance Advanced Corporate Finance Advanced Time Series Modelling Banking Finance and Risk Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 3.0 out of 4.0; 2:1 degree or equivalent qualification in relevant subjects.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc Digital Marketing",
+      "field_of_study": "Marketing",
+      "location": "Southampton, EduCity Iskandar",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "CGPA 3.0 out of 4.0; 2:1 degree or equivalent qualification in relevant subjects.."
+      },
+      "english_requirements": {
+        "IELTS": "6.5 overall, minimum 6.5 in reading and writing and 6.0 in listening and speaking"
+      },
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 46865
+      },
+      "course_content": {
+        "core": "Building Customer Insight\nIntegrated Marketing Communication Design\nContemporary Marketing Practice: Ethics, Innovation, and Social Responsibility\nResearch Methods for Marketing\nDigital Analytics\nDigital Marketing Strategy\nDissertation for Marketing, or Marketing Practice Based Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 3.0 out of 4.0; 2:1 degree or equivalent qualification in relevant subjects.."
+          }
+        ]
+      }
+    }
+  ]
+}

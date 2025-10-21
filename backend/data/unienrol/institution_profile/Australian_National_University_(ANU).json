@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 71,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://static.wixstatic.com/media/665c9d_ae3923b4e4b04850906a1afaca8f0ed2~mv2.jpg/v1/fill/w_1024,h_585,al_c,q_85/Australia%20National%20University%20(ANU).jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -75,11 +78,12 @@
             "text": "ATAR Point: 80, assumed knowledge is:-ACT: Mathematical Methods (Major) or NSW: HSC Mathematics Advanced or equivalent.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Actuarial Studies",
-      "field_of_study": "Actuarial Science",
+      "field_of_study": "Business",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -246,11 +250,12 @@
             "text": "ATAR Point: 92, ACT: Specialist Mathematics (Major/Minor) (160+)/Specialist Methods(Major/Minor) (160+), NSW: Mathematics Extension 1 (Band E3) or equivelant..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Actuarial Science"
     },
     {
       "program_name": "Bachelor of Genetics",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -353,11 +358,12 @@
             "text": "ATAR Point: 85, ACT: Chemistry (Major); NSW: Chemistry or equivalent..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Bachelor of Science",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -425,11 +431,12 @@
             "text": "ATAR Point: 80, ACT major in Biology, Chemistry, or successful completion of a bridging course in chemistry, or multistrand science in NSW, or equivalent, is required. / ACT Mathematical Methods (major)/Further Mathematics/Specialist Mathematics (major)/ Specialist Methods or NSW HSC Mathematics Advanced or equivalent. / Pass in ACT Specialist Mathematics Major - Minor or NSW HSC Mathematics Extension 1 or equivalent. / Pass in ACT Specialist Mathematics double major or NSW HSC Mathematics Extension 2 or equivalent. / NSW: a high standard in 2 unit physics or a multistrand science; ACT: a high standard in physics (major).  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Bachelor of Science (Advanced) (Honours)",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -587,11 +594,12 @@
             "text": "ATAR Point: 90, ACT major in Biology, Chemistry, or successful completion of a bridging course in chemistry, or multistrand science in NSW, or equivalent, is required. / ACT Mathematical Methods (major)/Further Mathematics/Specialist Mathematics (major)/ Specialist Methods or NSW HSC Mathematics Advanced or equivalent. / Pass in ACT Specialist Mathematics Major - Minor or NSW HSC Mathematics Extension 1 or equivalent. / Pass in ACT Specialist Mathematics double major or NSW HSC Mathematics Extension 2 or equivalent. / NSW: a high standard in 2 unit physics or a multistrand science; ACT: a high standard in physics (major).  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "Bachelor of Biotechnology",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -788,11 +796,12 @@
             "text": "ATAR Point: 80, ACT: Chemistry (Major); NSW: Chemistry or equivalent..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Bachelor of Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -977,11 +986,12 @@
             "text": "ATAR Point: 80.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Commerce",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -1049,11 +1059,12 @@
             "text": "ATAR Point: 80, ACT: Mathematical Methods (Major)/Further Mathematics/Specialist Mathematics (major)/ Specialist Methods or NSW: HSC Mathematics Advanced or equivalent..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Statistics",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -1121,11 +1132,12 @@
             "text": "ATAR Point: 80, ACT: Specialist Mathematics (Major/Minor)/Specialist Methods(Major/Minor), NSW: Mathematics Extension 1..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Advanced Computing (Research and Development) (Honours)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -1242,11 +1254,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Applied Data Analytics",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -1375,11 +1388,12 @@
             "text": "ATAR Point: 90, ACT: Mathematical Methods (Major)/Further Mathematics/Specialist Mathematics (major)/Specialist Methods or NSW: HSC Mathematics Advanced or equivalent..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Advanced Computing (Honours)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -1482,11 +1496,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Art History and Curatorship",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -1636,11 +1651,12 @@
             "text": "ATAR Point: 80.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Bachelor of Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -1737,11 +1753,12 @@
             "text": "A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Bachelor of Arts (with Year in Asia)",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -1767,11 +1784,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Creative Arts"
     },
     {
       "program_name": "Bachelor of Visual Arts",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -1797,11 +1815,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Creative Arts"
     },
     {
       "program_name": "Bachelor of Economics",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -1869,11 +1888,12 @@
             "text": "ATAR Point: 80, ACT: Mathematical Methods (Major)/Further Mathematics/Specialist Mathematics (major)/ Specialist Methods or NSW: HSC Mathematics Advanced or equivalent..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "Bachelor of Finance, Economics and Statistics (Honours)",
-      "field_of_study": "Economics and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -1981,11 +2001,12 @@
             "text": ".  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Economics and Finance"
     },
     {
       "program_name": "Bachelor of Environment and Sustainability",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -2053,11 +2074,12 @@
             "text": "ATAR Point: 80.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Environment and Sustainability Advanced (Honours)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -2206,11 +2228,12 @@
             "text": "ATAR Point: 90.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Environmental Studies (Honours)",
-      "field_of_study": "Environmental Sciences",
+      "field_of_study": "Science and Mathematics",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -2236,11 +2259,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Environmental Sciences"
     },
     {
       "program_name": "Bachelor of Finance",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -2455,11 +2479,12 @@
             "text": "ATAR Point: 80, ACT: Mathematical Methods (Major)/Further Mathematics/Specialist Mathematics (major)/ Specialist Methods or NSW: HSC Mathematics Advanced or equivalent..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Engineering (Honours)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -2562,11 +2587,12 @@
             "text": "ATAR Point: 85, ACT: Mathematical Methods (Major)/Further Mathematics (Major)/Specialist Mathematics/Specialist Methods (Major), NSW: HSC Mathematics Advanced or equivalent..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Bachelor of Engineering (Research and Development) (Honours)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -2674,11 +2700,12 @@
             "text": "ATAR Point: 98, ACT: Mathematical Methods (Major)/Further Mathematics (Major)/Specialist Mathematics/Specialist Methods (Major), NSW: HSC Mathematics Advanced or equivalent..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Bachelor of Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -2741,11 +2768,12 @@
             "text": "Please consult our counsellor for further guidance.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies.\nEntry into the Bachelor of Design is based on completion of an Australian Year 12 or equivalent and interview and portfolio. Once an application has been lodged, applicants are required to register for an interview and upload a portfolio on the ANU School of Art and Design website"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Bachelor of Health Science",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -2848,11 +2876,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "Bachelor of Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -2945,11 +2974,12 @@
             "text": "ATAR Point: 80, ACT: Mathematical Methods (Major)/Further Mathematics (Major)/Specialist Mathematics/Specialist Methods (Major), NSW: Mathematics Advanced or equivalent..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Honours)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -2975,11 +3005,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -3047,11 +3078,12 @@
             "text": "ATAR Point: 80, ACT: Mathematical Methods (Major)/Further Mathematics/Specialist Mathematics (major)/ Specialist Methods or NSW: HSC Mathematics Advanced or equivalent..  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Bachelor of International Relations",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -3154,11 +3186,12 @@
             "text": "ATAR Point: 85.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "Bachelor of International Relations (With Year in Asia)",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -3184,11 +3217,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "International Relations"
     },
     {
       "program_name": "Bachelor of International Security Studies",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -3291,11 +3325,12 @@
             "text": "ATAR Point: 85.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "International Relations"
     },
     {
       "program_name": "Bachelor of International Security Studies (with Year in Asia)",
-      "field_of_study": "International Relations",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -3321,11 +3356,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "International Relations"
     },
     {
       "program_name": "Bachelor of Laws (Honours)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -3434,11 +3470,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "Bachelor of Mathematical Sciences",
-      "field_of_study": "Mathematics",
+      "field_of_study": "Science and Mathematics",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -3551,11 +3588,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Mathematics"
     },
     {
       "program_name": "Bachelor of Medical Science",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -3702,11 +3740,12 @@
             "text": "ATAR Point: 85, ACT: Chemistry (Major); NSW: Chemistry or equivalent..  A grade of C or better in GSCE: -\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies\nStudents who do not meet the chemistry requirement may be admitted into the program via a different pathway. Students who: - Have an ATAR score of 90 or higher, and - Commence the Bachelor of Science program after completion of the chemistry bridging course available in February through the ANU Research School of Chemistry (or equivalent) and complete CHEM1101 and BIOL1003 with a minimum average of 65%, may then apply to transfer to the Bachelor of the Medical Science program."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Bachelor of Music",
-      "field_of_study": "Music",
+      "field_of_study": "Creative Arts and Design",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -3774,11 +3813,12 @@
             "text": "ATAR Point: 80 .  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Music"
     },
     {
       "program_name": "Bachelor of Criminology",
-      "field_of_study": "Police Science",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -3963,11 +4003,12 @@
             "text": "ATAR Point: 80.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Police Science"
     },
     {
       "program_name": "Bachelor of Political Science",
-      "field_of_study": "Policy Science",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -4070,11 +4111,12 @@
             "text": "ATAR Point: 85.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Policy Science"
     },
     {
       "program_name": "Bachelor of Public Policy",
-      "field_of_study": "Policy Science",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -4167,11 +4209,12 @@
             "value": "C"
           }
         ]
-      }
+      },
+      "course": "Policy Science"
     },
     {
       "program_name": "Bachelor of Psychology (Honours)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -4315,11 +4358,12 @@
             "text": "ATAR Point: 90.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Science (Psychology)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -4382,11 +4426,12 @@
             "text": "ATAR Point: 80.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Science (with Year in Asia)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -4412,11 +4457,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Asia-Pacific Affairs (Ritsumeikan)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -4561,11 +4607,12 @@
             "text": "ATAR Point: 82.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Asian Studies",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -4633,11 +4680,12 @@
             "text": "ATAR Point: 80.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Classical Studies (Honours)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -4663,11 +4711,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of European Studies (Honours)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -4693,11 +4742,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Philosophy (Honours)—Humanities and Social Sciences",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -4816,11 +4866,12 @@
             "text": "ATAR Point: 98.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Asia-Pacific Affairs",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -5005,11 +5056,12 @@
             "text": "ATAR Point: 82.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Asian Studies (with Year in Asia)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -5035,11 +5087,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Development Studies (with Year in Asia)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -5065,11 +5118,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Languages",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -5259,11 +5313,12 @@
             "text": "ATAR Point: 80.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Languages (with Year in Asia)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -5289,11 +5344,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Middle Eastern and Central Asian Studies (Honours)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -5319,11 +5375,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Pacific Studies",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -5493,11 +5550,12 @@
             "text": "ATAR Point: 80.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Philosophy (Honours) - Science",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -5598,11 +5656,12 @@
             "text": "ATAR Point: 98, ACT major in Biology, Chemistry, or successful completion of a bridging course in chemistry, or multistrand science in NSW, or equivalent, is required. / ACT Mathematical Methods (major)/Further Mathematics/Specialist Mathematics (major)/ Specialist Methods or NSW HSC Mathematics Advanced or equivalent. / Pass in ACT Specialist Mathematics Major - Minor or NSW HSC Mathematics Extension 1 or equivalent. / Pass in ACT Specialist Mathematics double major or NSW HSC Mathematics Extension 2 or equivalent. / NSW: a high standard in 2 unit physics or a multistrand science; ACT: a high standard in physics (major).  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Philosophy (Honours) / Bachelor of Science (Honours) - NUS as home institution",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -5731,11 +5790,12 @@
             "text": "ATAR Point: 98.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Politics, Philosophy and Economics",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -5839,11 +5899,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Engineering (Honours) in Software Engineering",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "ANU Acton Campus",
       "intakes": [
         "Jan",
@@ -5956,7 +6017,8 @@
             "text": "ATAR Point: 85, ACT: Mathematical Methods (Major)/Further Mathematics (Major)/Specialist Mathematics/Specialist Methods (Major), NSW: HSC Mathematics Advanced or equivalent.  A grade of C or better in GSCE:\na subject from the Humanities and Social Sciences subject group, or\na subject from the English Language and Literature subject group, or\nGeneral Studies."
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     }
   ]
 }

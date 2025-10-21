@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.sentral.edu.my/wp-content/uploads/2019/02/sentral-college.jpg"
+  ],
   "programs": [
     {
       "program_name": "Certificate In Business Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jan",
@@ -92,11 +95,12 @@
             "text": "Pass UEC with at least grade B in 1 subject and a pass in Mathematics."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Tourist Guides Programme (SKM 3) (Full Payment)",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jan",
@@ -138,7 +142,8 @@
             "text": "Pass O-Levels with a minimum of 6 passes."
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "BSc (Hons) Accounting & Finance (3+0) with University of Salford, Manchester, United Kingdom",
@@ -224,11 +229,12 @@
             "text": "2 C+ (CGPA 2.33)."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BSc (Hons) Business & Management (3+0) with University of Salford, Manchester, United Kingdom",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jan",
@@ -409,11 +415,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Early Childhood Education (Hons)",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jan",
@@ -551,11 +558,12 @@
             "text": "University aggregate of 50%."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "ACCA Qualification",
-      "field_of_study": "Professional Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jan",
@@ -666,11 +674,12 @@
             "text": "ATAR 70 and 5 SPM credits including Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Professional Accounting"
     },
     {
       "program_name": "BSc (Hons) Software Engineering (3+0) with University of Salford, Manchester, United Kingdom",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jun",
@@ -765,11 +774,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Diploma In Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jan",
@@ -859,11 +869,12 @@
             "text": "Grade B in 3 relevant subjects including Mathematics AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Business Studies",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jan",
@@ -922,11 +933,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jan",
@@ -984,11 +996,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma In Computer Systems Technology",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jan",
@@ -1068,11 +1081,12 @@
             "text": "Pass with 3Bs including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Diploma In Tourism Management",
-      "field_of_study": "Tourism Management",
+      "field_of_study": "Hospitality and Services",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jan",
@@ -1127,11 +1141,12 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Tourism Management"
     },
     {
       "program_name": "Foundation in Business Management",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Sentral, Georgetown",
       "intakes": [
         "Jan",
@@ -1191,7 +1206,8 @@
             "count": 3
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     }
   ]
 }

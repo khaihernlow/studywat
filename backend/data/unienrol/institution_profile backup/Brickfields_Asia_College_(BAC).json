@@ -1,0 +1,735 @@
+{
+  "institution_name": "Brickfields Asia College (BAC)",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Bachelor of Business (2+1), UK University",
+      "field_of_study": "Business Administration",
+      "location": "BAC, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {},
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 2000,
+        "tuition_fee": 40000
+      },
+      "course_content": {
+        "core": "Year 1:\n• Principles of Management\n• Marketing Management\n• Economics\n• Business Statistics\n• Humans Resource Management\n• Business Accounting\n• Business Analytics\n• Organisational Behaviour\n• Digital Transformation Year 1: Year 2:\n• Financial Management\n• Entrepreneurship\n• Digital Strategy\n• Business Law\n• Project Management\n• Strategic Management\n• Digital Marketing\n• Operations Management\n• Elective 1*\n• Elective 2*\n\nYear 3:\nAs per subjects offered by the UK university Year 2: Year 3:",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {}
+    },
+    {
+      "program_name": "LLB (Hons) (3+0) with University of London International Programmes, UK",
+      "field_of_study": "Law (LL.B.)",
+      "location": "BAC, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination",
+        "STPM": "2 Principal Passes.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination",
+        "Foundation": "Minimum CGPA 2.50.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 8400,
+        "tuition_fee": 45000
+      },
+      "course_content": {
+        "core": "Year 1 Contract Law\nCriminal Law\nLegal Systems and Methods\nPublic Law Year 2 Property Law\nTort Law Year 3 Jurisprudence and Legal Theory\nEquity and Trusts",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "LLB (Hons) (2+1) with UK University",
+      "field_of_study": "Law (LL.B.)",
+      "location": "BAC, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jun",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination\nMeet Requirement by Partner University",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in a related field).  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination\nMeet Requirement by Partner University",
+        "STPM": "2 Principal Passes.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination\nMeet Requirement by Partner University",
+        "Foundation": "Minimum CGPA 2.50.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination\nMeet Requirement by Partner University"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 2000,
+        "tuition_fee": 60000
+      },
+      "course_content": {
+        "core": "Year 1 • Contract Law\n• Criminal Law\n• Common Law Reasoning\n• Public Law\n• Malaysian Legal System and Malaysian Constitution Law Year 2 • Law of Tort\n• Land Law\n• Law of Evidence\n• Company Law\n• Family Law\n• Legal Technology Business of Lawyers Year 3 • As per modules offered by the relevant partner university",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM/O-Level"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination\nMeet Requirement by Partner University"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM/O-Level"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in a related field).  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination\nMeet Requirement by Partner University"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM/O-Level"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination\nMeet Requirement by Partner University"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "SPM/O-Level"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50.  CLP Requirements apply:\nUK Law Degree - 3 credits in SPM/O-Level obtained in one examination\nAustralia/NZ Law Degree - 3 credits in SPM/O-Level equivalent (Year 10) obtained in one examination\nMeet Requirement by Partner University"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "A-Levels (Sciences) - 4 Subjects",
+      "field_of_study": "A-Level",
+      "location": "BAC, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 SPM Credits (including English).",
+        "O-Level": "5 O-Level Credits (including English)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 31900
+      },
+      "course_content": {
+        "core": "Mathematics Further Mathematics Biology Chemistry Physics Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 SPM Credits (including English)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 O-Level Credits (including English)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "A-Levels (Arts) - 3 Subjects",
+      "field_of_study": "A-Level",
+      "location": "BAC, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 Cs including English.",
+        "O-Level": "Pass with 5 Cs including English."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 1500,
+        "tuition_fee": 24900
+      },
+      "course_content": {
+        "core": "Law Economics Accounting* Business Mathematics* Literature in English*",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Cs including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Cs including English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "A-Levels (Sciences) - 3 Subjects",
+      "field_of_study": "A-Level",
+      "location": "BAC, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 Cs including English, Mathematics and 2 Science Subjects.",
+        "O-Level": "Pass with 5 Cs including English, Mathematics and 2 Science Subjects."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 1500,
+        "tuition_fee": 25900
+      },
+      "course_content": {
+        "core": "Mathematics Further Mathematics Biology Chemistry Physics Economics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Cs including English, Mathematics and 2 Science Subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Cs including English, Mathematics and 2 Science Subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "A-Levels (Arts) - 4 Subjects",
+      "field_of_study": "A-Level",
+      "location": "BAC, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "5 SPM Credits (including English).",
+        "O-Level": "5 Grade Credits (including English)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": null,
+        "tuition_fee": 30900
+      },
+      "course_content": {
+        "core": "Law Economics Accounting* Business Mathematics* Literature in English*",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "preuniversity",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 SPM Credits (including English)."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 Grade Credits (including English)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business (Business)",
+      "field_of_study": "Foundation in Arts",
+      "location": "BAC, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 Cs.",
+        "O-Level": "Pass with 5 Cs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 1000,
+        "tuition_fee": 16900
+      },
+      "course_content": {
+        "core": "Semester 1:\n- English\n- Business Mathematics\n- Introduction to Accounting\n- Introduction to ICT\n- Introduction to Law\nSemester 2:\n- Writing For Academic Purpose\n- Principles Of Marketing\n- Critical Thinking Skills\n- Introduction to Human Resource Management\nSemester 3:\n- Entrepreneurship\n- Introduction to Business\n- Introduction to Economics\n- Introduction to Finance Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Cs."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Cs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Law",
+      "field_of_study": "Foundation in Arts",
+      "location": "BAC, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 Cs.",
+        "O-Level": "Pass with 5 Cs."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 1000,
+        "tuition_fee": 19900
+      },
+      "course_content": {
+        "core": "Semester 1:\n- English 1\n- Study Skills\n- Introduction to ICT\n- Introduction to English Legal Systems\n- Presentation Skills\nSemester 2:\n- English 2\n- Critical Thinking Skills\n- Introduction to Contract Law\n- Practical Legal Skills\nSemester 3:\n- Entrepreneurship\n- Introduction to Criminal Law\n- Introduction to Tort Law\n- Business Studies Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Cs."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Cs."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business (Accounting, Finance)",
+      "field_of_study": "Foundation in Arts",
+      "location": "BAC, Petaling Jaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 Cs including Mathematics.",
+        "O-Level": "Pass with 5 Cs including Mathematics."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 0,
+        "resource_fee": 1000,
+        "tuition_fee": 16900
+      },
+      "course_content": {
+        "core": "Semester 1:\n- English\n- Business Mathematics\n- Introduction to Accounting\n- Introduction to ICT\n- Introduction to Law\nSemester 2:\n- Writing For Academic Purpose\n- Principles Of Marketing\n- Critical Thinking Skills\n- Introduction to Human Resource Management\nSemester 3:\n- Entrepreneurship\n- Introduction to Business\n- Introduction to Economics\n- Introduction to Finance Semester 1 Semester 2 Semester 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Cs including Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 Cs including Mathematics."
+          }
+        ]
+      }
+    }
+  ]
+}

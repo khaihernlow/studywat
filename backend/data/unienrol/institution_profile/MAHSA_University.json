@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 4391,
   "malaysia_rank": 35,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/mahsa-university/mahsa-saujana-putra/university_environment/facade_02.png"
+  ],
   "programs": [
     {
       "program_name": "Advanced Diploma in Paediatric Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -34,11 +37,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Nursing"
     },
     {
       "program_name": "Advanced Diploma in Midwifery",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -65,11 +69,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Accounting (Hons)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -117,11 +122,12 @@
             "text": "Pass STPM or equivalent with minimum Grade C+ (GPA 2.33) in any 2 subjects."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Science (Honours) in Architectural Technology",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -250,11 +256,12 @@
             "text": "CGPA 2.67.  Pass Visual Arts in SPM/O-Level or Pass Portfolio Review/Interview by MAHSA"
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "Bachelor of Biomedical Sciences (Hons)",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -424,11 +431,12 @@
             "text": "Score 14 in 3 subjects including Chemistry & Mathematics & Biology/Physics."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "Bachelor of Biomedical Sciences (Hons) - Weekend",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -506,11 +514,12 @@
             "text": "Pass with minimum GPA 2.33 in 2 of the following subjects: Biology, Chemistry, Physics/Mathematics."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "Bachelor of Biomedical Sciences (Hons) - ODL",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -588,11 +597,12 @@
             "text": "Pass with minimum GPA 2.33 in 2 of the following subjects: Biology, Chemistry, Physics/Mathematics."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "Bachelor of Science Biotechnology (Hons)",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -688,11 +698,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Bachelor of Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -847,11 +858,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration - Part Time",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -990,11 +1002,12 @@
             "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business Administration - ODL",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -1145,11 +1158,12 @@
             "text": "Pass in any 2 subjects with ATAR score of 50%."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Civil Engineering (Hons)",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -1306,11 +1320,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Bachelor of Arts (Honours) in Creative Multimedia Design",
-      "field_of_study": "Creative Arts",
+      "field_of_study": "Creative Arts and Design",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -1375,11 +1390,12 @@
             "text": "CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Creative Arts"
     },
     {
       "program_name": "Doctor of Dental Surgery",
-      "field_of_study": "Dentistry",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Sep"
@@ -1532,11 +1548,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics"
           }
         ]
-      }
+      },
+      "course": "Dentistry"
     },
     {
       "program_name": "Bachelor of Engineering (Hons) in Electrical and Electronic Engineering",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -1676,11 +1693,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Environmental Health and Safety (Hons)",
-      "field_of_study": "Environmental Health",
+      "field_of_study": "Science and Mathematics",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -1891,11 +1909,12 @@
             "text": "Score 12 in 3 subjects including Chemistry & Biology/Physics & 1 other subject or ATAR 60%."
           }
         ]
-      }
+      },
+      "course": "Environmental Health"
     },
     {
       "program_name": "Bachelor of Environment Health and Safety (Hons)",
-      "field_of_study": "Environmental Health",
+      "field_of_study": "Science and Mathematics",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -1996,11 +2015,12 @@
             "text": "STPM or equivalent with minimum GPA 2.33 in TWO of the following subjects: Biology, Chemistry, Physics/Mathematics."
           }
         ]
-      }
+      },
+      "course": "Environmental Health"
     },
     {
       "program_name": "Bachelor of Environmental Health and Safety (Hons) - Weekend",
-      "field_of_study": "Environmental Health",
+      "field_of_study": "Science and Mathematics",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -2110,11 +2130,12 @@
             "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Environmental Health"
     },
     {
       "program_name": "Bachelor of Environmental Health (Hons) - ODL",
-      "field_of_study": "Environmental Health",
+      "field_of_study": "Science and Mathematics",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -2158,11 +2179,12 @@
             "text": "Pass Diploma (Level 4 MQF) with minimum CGPA of 2.75 in related field OR Pass Diploma (Level 4 MQF) with CGPA less than 2.75 in related field and a minimum of 3 years working experience in the related field."
           }
         ]
-      }
+      },
+      "course": "Environmental Health"
     },
     {
       "program_name": "Bachelor of Hospitality Management (Honours)",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -2227,11 +2249,12 @@
             "text": "CGPA of 2.00 or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) - ODL",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -2326,11 +2349,12 @@
             "text": "Pass in any related field with min. CGPA 2.0.  Pass SPM with credit in Mathematics."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -2454,11 +2478,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Science (Hons) in Islamic Finance",
-      "field_of_study": "Islamic Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -2629,11 +2654,12 @@
             "text": "subjects with ATAR score of 50%.  SPM-level or equivalent:\npass in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Islamic Finance"
     },
     {
       "program_name": "Bachelor in Hospital Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -2684,11 +2710,12 @@
             "count": 2
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering (Hons)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -2845,11 +2872,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Medical Imaging (Hons)",
-      "field_of_study": "Medical Technology",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -3068,11 +3096,12 @@
             "text": "Min. score 12 for 3 subjects including Chemistry and Biology/Physics and 1 other subject."
           }
         ]
-      }
+      },
+      "course": "Medical Technology"
     },
     {
       "program_name": "Bachelor of Medical Imaging (Hons) - Weekend",
-      "field_of_study": "Medical Technology",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -3165,11 +3194,12 @@
             "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Medical Technology"
     },
     {
       "program_name": "Bachelor of Medical Imaging (Hons) - ODL",
-      "field_of_study": "Medical Technology",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -3262,11 +3292,12 @@
             "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Medical Technology"
     },
     {
       "program_name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-      "field_of_study": "Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Sep"
@@ -3703,11 +3734,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 80 and minimum score 80% including Biology, Chemistry and Physics / Mathematics.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\ncredit in Bahasa Melayu and English required to practise Medicine in Malaysia"
           }
         ]
-      }
+      },
+      "course": "Medicine"
     },
     {
       "program_name": "Bachelor of Science (Hons) Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -3784,11 +3816,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Science (Hons) Nursing - ODL",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -3832,11 +3865,12 @@
             "text": "-Diploma in Nursing or its equivalent -Minimum two (2) years clinical working experience (Credit Transfer allowed).  Registered with Nursing Board Malaysia\nPossess a current Annual Practicing Certificate (APC)"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Nursing (Hons) Public Health",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -3915,11 +3949,12 @@
             "text": "Minimum CGPA 2.50 (Diploma in related field). Candidates with Diploma in Nursing and with 2 years relevant working experience are also accepted. Additional health and medical requirements apply.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Science (Hons) Nursing (D2D)",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -4151,11 +4186,12 @@
             "text": "Minimum CGPA 2.50. Additional health and medical requirements apply.  SPM-level or equivalent:\nminimum 5 credits including Mathematics, Bahasa Melayu AND\nBiology OR\nScience (General) OR\nPhysics/Chemistry with pass in Biology\nAND pass in English"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Bachelor of Science (Hons) Pharmaceutical Technology",
-      "field_of_study": "Pharmaceutical Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -4264,11 +4300,12 @@
             "text": "Score 14 in 3 subjects Including Chemistry & Mathematics & Biology/Physics."
           }
         ]
-      }
+      },
+      "course": "Pharmaceutical Science"
     },
     {
       "program_name": "Bachelor of Pharmacy (Hons)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Sep"
@@ -4486,11 +4523,12 @@
             "text": "Aggregate score 16/20 for 3 Science subjects including Chemistry.  SPM-level or equivalent:\nminimum 5Bs including Mathematics, Biology, Chemistry, Physics\nMalaysians must have a pass in BM and English"
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Bachelor of Physiotherapy (Hons) - Weekend",
-      "field_of_study": "Physiotherapy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -4583,11 +4621,12 @@
             "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Physiotherapy"
     },
     {
       "program_name": "Bachelor of Physiotherapy (Hons) - ODL",
-      "field_of_study": "Physiotherapy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -4680,11 +4719,12 @@
             "text": "Pass STPM with minimum GPA 2.33 in 2 subjects including Biology, Physics/Mathematics or Chemistry."
           }
         ]
-      }
+      },
+      "course": "Physiotherapy"
     },
     {
       "program_name": "Bachelor of Physiotherapy (Hons)",
-      "field_of_study": "Physiotherapy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -4849,11 +4889,12 @@
             "text": "Score 12/20 in 3 subjects including Chemistry & Biology/Physics & 1 other subject."
           }
         ]
-      }
+      },
+      "course": "Physiotherapy"
     },
     {
       "program_name": "Bachelor of Quantity Surveying (Honours)",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -5025,11 +5066,12 @@
             "text": "Pass with 70% At AR, with Grade B in (2) subjects including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "Bachelor of Sport Science (Honours)",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -5121,11 +5163,12 @@
             "text": "Pass Matriculation or pre-univesity with minimum GPA 2.33 in TWO of the following subjects: Biology/Physics or Mathematics/Chemistry ."
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -5204,11 +5247,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Architectural Technology",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -5373,11 +5417,12 @@
             "text": "Average of 50% or higher in 5 subjects (including Drawing and English)."
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "Diploma in Beauty and Health",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -5510,11 +5555,12 @@
             "text": "Possess SPM with three (3) credits in Mathematics, one science subject and one any other subject, or its equivalent"
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "Diploma in Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -5586,11 +5632,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Civil Engineering",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -5684,11 +5731,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Diploma in Dental Surgery Assistant",
-      "field_of_study": "Dentistry",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -5777,11 +5825,12 @@
             "text": "5 Credits: Mathematic (Elementary/Modern/ Additional) and any one Science subjects: General Science/Applied Science or Biology or Chemistry or Physics and 3 other subjects (Malaysian Candidates)."
           }
         ]
-      }
+      },
+      "course": "Dentistry"
     },
     {
       "program_name": "Diploma in Dental Technology",
-      "field_of_study": "Dentistry",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -5854,11 +5903,12 @@
             "text": "Pass with 5 credits in Bahasa Melayu & Mathematics & Science & 2 other subjects."
           }
         ]
-      }
+      },
+      "course": "Dentistry"
     },
     {
       "program_name": "Diploma in Early Childhood Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -5918,11 +5968,12 @@
             "count": 1
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "Diploma in Electrical and Electronics Engineering",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6039,11 +6090,12 @@
             "text": "Pass with at least 3 credits including Mathematics and One relevant science/technical/vocational subject AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Diploma in Education (TESL)",
-      "field_of_study": "English (Teaching)",
+      "field_of_study": "Education",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6141,11 +6193,12 @@
             "text": "Pass with at least 1 credit."
           }
         ]
-      }
+      },
+      "course": "English (Teaching)"
     },
     {
       "program_name": "Diploma in Environmental Health",
-      "field_of_study": "Environmental Health",
+      "field_of_study": "Science and Mathematics",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6225,11 +6278,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Environmental Health"
     },
     {
       "program_name": "Diploma in Restaurant Management",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6301,11 +6355,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6410,11 +6465,12 @@
             "text": "Grade B in 3 relevant subjects AND Grade C in English."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Human Resource Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6471,11 +6527,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6581,11 +6638,12 @@
             "text": "Pass with minimum Grade C (CGPA 2.0) in 1 subject.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6632,11 +6690,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Mechanical Engineering",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6720,11 +6779,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Diploma in Paramedical Science",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6794,11 +6854,12 @@
             "text": "Pass with minimum Grade C in five subjects - English, Mathematics, one Science subject (Biology/Phyics/Chemistry/General Science/Applied Science) and two other subjects."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Diploma in Medical Imaging",
-      "field_of_study": "Medical Technology",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6870,11 +6931,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Medical Technology"
     },
     {
       "program_name": "Diploma in Medical Laboratory Technology",
-      "field_of_study": "Medical Technology",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -6954,11 +7016,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Medical Technology"
     },
     {
       "program_name": "Diploma in Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -7094,11 +7157,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Diploma in Occupational and Safety",
-      "field_of_study": "Occupational Safety & Health",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -7276,11 +7340,12 @@
             "text": "Pass with 3 credits including Mathematics or 1 science subject (Biology/Physics/Chemistry/General Science) AND Pass in English."
           }
         ]
-      }
+      },
+      "course": "Occupational Safety & Health"
     },
     {
       "program_name": "Diploma in Pharmacy",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -7474,11 +7539,12 @@
             "text": "Grade B in 3 subjects including 1 science subject.  SPM-level or equivalent (for Candidates who wish to further their studies to Bachelor in Pharmacy):\n5 B’s including Biology, Chemistry, Physics and Mathematics/Additional Mathematics and 1 other subject"
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Diploma in Physiotherapy",
-      "field_of_study": "Physiotherapy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -7558,11 +7624,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Physiotherapy"
     },
     {
       "program_name": "Diploma in Quantity Surveying",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -7690,11 +7757,12 @@
             "text": "Average of 50% or higher in 6 subjects (including Mathematics)."
           }
         ]
-      }
+      },
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "Foundation in Arts",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -7734,11 +7802,12 @@
             "count": 5
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business (Accounting, IT)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "MAHSA Avenue International College, KL",
       "intakes": [
         "Jan",
@@ -7821,11 +7890,12 @@
             "text": "Pass with 4 credits (B6) including a credit in Maths."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business (Accounting, IT)",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -7908,11 +7978,12 @@
             "text": "Pass with4 credits (B6) including a credit in Maths."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -7965,11 +8036,12 @@
             "count": 4
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "MAHSA Avenue International College, KL",
       "intakes": [
         "Jan",
@@ -8022,11 +8094,12 @@
             "count": 4
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8064,11 +8137,12 @@
             "text": "Foundation in Science with Conditional Entry to MBBS, Dentistry & Pharmacy degree: 5 Minimum grade B in Biology & Chemistry & Physics & Mathematics/Additional Mathematics and 1 other subject; Foundation in Science with Conditional Entry to all other degrees: Minimum 5 credits in Mathematics, 2 science subject and 2 other subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "MAHSA Avenue International College, KL",
       "intakes": [
         "Jan",
@@ -8108,11 +8182,12 @@
             "text": "Foundation in Science with Conditional Entry to MBBS, Dentistry & Pharmacy degree: 5 Minimum grade B in Biology & Chemistry & Physics & Mathematics/Additional Mathematics and 1 other subject; Foundation in Science with Conditional Entry to all other degrees: Minimum 5 credits in Mathematics, 2 science subject and 2 other subjects."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (MBBS, Dentistry, Pharmacy)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "MAHSA Avenue International College, KL",
       "intakes": [
         "Jan",
@@ -8150,11 +8225,12 @@
             "text": "Foundation in Science leading to Medicine, Dentistry, Pharmacy: 5 Minimum grade B in Biology & Chemistry & Physics & Mathematics/Additional Mathematics and 1 other subject;."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (MBBS, Dentistry, Pharmacy)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8192,11 +8268,12 @@
             "text": "Foundation in Science leading to Medicine, Dentistry, Pharmacy: 5 Minimum grade B in Biology & Chemistry & Physics & Mathematics/Additional Mathematics and 1 other subject;."
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Nursing)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8266,11 +8343,12 @@
             "text": "5 credits including Bahasa Malaysia, Mathematics (Elementary OR Additional OR Modern) 1 credit in (General Science OR Biology OR Chemistry and Pass Biology OR Physics and Pass Biology), 2 other subjects and a pass in English.  Additional Requirement:\nCredit in Bahasa Melayu SPM-level is required to practise nursing in Malaysia"
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Foundation in Science (Nursing)",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "MAHSA Avenue International College, KL",
       "intakes": [
         "Jan",
@@ -8338,11 +8416,12 @@
             "text": "5 credits including Bahasa Malaysia, Mathematics (Elementary OR Additional OR Modern) 1 credit in (General Science OR Biology OR Chemistry and Pass Biology OR Physics and Pass Biology), 2 other subjects and a pass in English.  Additional Requirement: Credit in Bahasa Melayu SPM-level is required to practise nursing in Malaysia"
           }
         ]
-      }
+      },
+      "course": "Foundation in Science"
     },
     {
       "program_name": "Postgraduate Diploma in Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8378,11 +8457,12 @@
             "text": "A Bachelor’s degree with minimum CGPA of 2.50 out of 4.00 or its equivalent qualifications as accepted by the Senate..  A Bachelor’s degree with CGPA below 2.50 out of 4.00 or its equivalent qualifications can be accepted, subject to a minimum of 5 years of working experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Master of Orofacial Sciences",
-      "field_of_study": "Dentistry",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -8403,11 +8483,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Dentistry"
     },
     {
       "program_name": "Master in Engineering",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -8456,11 +8537,12 @@
             "text": "-Pass with minimum CGPA of 2.75 or an equivalent degree which is approved by the Senate or -Pass with a minimum CGPA of 2.50 but not achieving a CGPA of 2.75 can be accepted subject to vigorous internal assessment.  Equivalent degree or relevant 5 years of working experience can be accepted with the approval of Senate"
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Master of Science by Research",
-      "field_of_study": "General Sciences (Postgraduate)",
+      "field_of_study": "Science and Mathematics",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Nov"
@@ -8501,11 +8583,12 @@
             "text": "-BSc with a CGPA of 2.75 /equivalent -BSc with a CGPA of 2.5 + Assessment + Publications + relevant work experience."
           }
         ]
-      }
+      },
+      "course": "General Sciences (Postgraduate)"
     },
     {
       "program_name": "Master of Science in Public Health - ODL",
-      "field_of_study": "Health Studies",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8548,11 +8631,12 @@
             "text": "-Bachelor’s Degree in related field with minimum CGPA of 2.50 or equivalent accepted by the University’s Senate; or -CGPA less than 2.50 can be accepted with minimum 5 years working experience in the relevant field.."
           }
         ]
-      }
+      },
+      "course": "Health Studies"
     },
     {
       "program_name": "Master of Business Administration (Hospital Management) - Part Time",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8592,11 +8676,12 @@
             "text": "or -Pass with CGPA below 2.50, subject to a minimum of 5 years working experiences in a relevant ﬁeld."
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Master of Business Administration (Hospital Management) - ODL",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8635,11 +8720,12 @@
             "text": "or -Pass with CGPA below 2.50, subject to a minimum of 5 years working experiences in a relevant ﬁeld."
           }
         ]
-      }
+      },
+      "course": "Hotel Management"
     },
     {
       "program_name": "Master in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8693,11 +8779,12 @@
             "text": "Bachelor's Degree of Computing in the area of Science and Technology or related to computing with CGPA minimum 3.00 can be accepted; or CGPA below 3.00 but above 2.50 can be accepted subject to rigorous internal assessment process.."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of Business Administration",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8719,11 +8806,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration (Hospital Management)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8745,11 +8833,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration (Financial Technology)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8803,11 +8892,12 @@
             "text": "Bachelor’s degree in related field with CGPA minimum 2.50 can be accepted subject to approval by senate.  Bachelor’s degree in related field not meeting CGPA 2.50 but above CGPA 2.00, can be accepted subject to rigorous internal assessment"
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration (Islamic Finance)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8874,11 +8964,12 @@
             "text": "A Bachelor's degree (Level 6, Malaysian Qualifications Framework (MQF)) in related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate.  A Bachelor's degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a rigorous internal assessment*; OR\nA Bachelor's degree (Level 6, MQF) in non- related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and with relevant working experience**, subject to a rigorous internal assessment*; OR\nA Bachelor's degree (Level 6, MQF) in non- related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses***"
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration (Strategic Leadership)",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8936,11 +9027,12 @@
             "text": "A Bachelor's degree (Level 6, Malaysian Qualifications Framework (MQF)) in related fields with a minimum CGPA of 2.50 as accepted by the HEP Senate.  A Bachelor's degree (Level 6, MQF) in related fields with a minimum CGPA of 2.00 and not meeting CGPA of 2.50 can be accepted, subject to a rigorous internal assessment*; OR\nA Bachelor's degree (Level 6, MQF) in non- related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and with relevant working experience**, subject to a rigorous internal assessment*; OR\nA Bachelor's degree (Level 6, MQF) in non- related fields with a minimum CGPA of 2.00 as accepted by the HEP Senate and without relevant working experience, subject to passing pre-requisite courses***"
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Business Administration - Part Time",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -8962,11 +9054,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "MBA Programme"
     },
     {
       "program_name": "Master of Medical Science (Anatomy)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -8991,11 +9084,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master of Medical Science in Aesthetic Medicine",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -9036,11 +9130,12 @@
             "text": "Bachelor Degree in Medicine or Dentistry or equivalent degree with minimum CGPA of 2.50 in related field as accepted by HEP Senate..  Full Registration with MMC or MDC for Malaysian. For international candidates with full registration with the Medical or Dentistry council in their origin country.\nActive Practicing Certificate and a minimum of 3 years working experience in the related field."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master of Medical Science in Aesthetic Medicine - Part Time",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -9083,11 +9178,12 @@
             "text": "Bachelor’s degree in medicine or dentistry or equivalent degree with minimum CGPA 2.50 in related field .  Full Registration with MMC or MDC for Malaysian. For international candidates with full registration with the Medical or Dentistry council in their origin country.\nActive Practicing Certificate and a minimum of 3 years working experience in the related field."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master of Medical Science",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -9130,11 +9226,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Master of Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -9158,11 +9255,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Nursing"
     },
     {
       "program_name": "Master in Pharmacy",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -9187,11 +9285,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Pharmacy"
     },
     {
       "program_name": "Doctor of Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -9222,11 +9321,12 @@
             "text": "Master's Degree in business or related fields as accepted by MAHSA University Senate."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Doctor of Restorative Dentistry (DrResDent)",
-      "field_of_study": "Dentistry",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Nov"
@@ -9246,11 +9346,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Dentistry"
     },
     {
       "program_name": "Doctor in Periodontology",
-      "field_of_study": "Dentistry",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Nov"
@@ -9286,11 +9387,12 @@
             "text": "Master of Orofacial sciences with an elective in Periodontology module or an equivalent Coursework Master program.  Registered with the Malaysian Dental Council (MDC) and holds current Annual Practising Certificate (APC) or registered with the dental regulatory body in another country and eligible to be granted a Temporary Practising Certificate (TPC) by MDC"
           }
         ]
-      }
+      },
+      "course": "Dentistry"
     },
     {
       "program_name": "Doctor of Philosophy in Engineering",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -9320,11 +9422,12 @@
             "text": "A Master’s Degree or other equivalent qualifications accepted by the HEP Senate."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Doctor of Philosophy by Research",
-      "field_of_study": "General Sciences (Postgraduate)",
+      "field_of_study": "Science and Mathematics",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -9357,11 +9460,12 @@
             "text": "-Master’s Degree or other qualifications accepted by the senate -Application to convert from Master’s to PhD is allowed, subject to publications."
           }
         ]
-      }
+      },
+      "course": "General Sciences (Postgraduate)"
     },
     {
       "program_name": "Doctor of Philosophy in Management",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -9396,11 +9500,12 @@
             "text": "- A Masters degree in a business or related field as accepted by the Senate. Or - Other qualifications equivalent to a masters degree that is accepted by the Senate. - There shall be no direct entry from a bachelor’s degree to a doctoral degree level - Candidates registered for a masters may apply to convert their candidacy to that a doctoral program subject to Publishing 1 paper and shown competency and capability to conduct research at doctoral level PhD proposal presentation and as approved by Senate.."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Doctor of Philosophy (PhD) in Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -9421,11 +9526,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Nursing"
     },
     {
       "program_name": "PhD in Pharmacy",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Mar",
@@ -9446,11 +9552,12 @@
         "others": ""
       },
       "program_type": "phd",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Pharmacy"
     },
     {
       "program_name": "Postgraduate Certificate in Leadership",
-      "field_of_study": "Management",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -9500,11 +9607,12 @@
             "text": "Bachelor’s degree in related field with CGPA minimum 2.50 can be accepted subject to approval by senate.  A Bachelor’s degree with CGPA below 2.50 out of 4.00 or its equivalent qualifications can be accepted, subject to a minimum of 5 years of working experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "Management"
     },
     {
       "program_name": "Master of Business Administration - ODL",
-      "field_of_study": "MBA Programme",
+      "field_of_study": "Business",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -9542,11 +9650,12 @@
             "text": "-Bachelor’s Degree with GGPA below 2.50 out of 4.00 or its equivalent qualification can be accepted subject to a minimum 5 years working experience in relevant fields."
           }
         ]
-      }
+      },
+      "course": "MBA Programme"
     },
     {
       "program_name": "Postgraduate Certificate in Aesthetic Medicine",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -9577,11 +9686,12 @@
             "text": "Those who have MBBS or equivalent degree and fully registered with MMC and have current APC."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Postgraduate Certificate in Aesthetic Medicine - Part Time",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -9612,11 +9722,12 @@
             "text": "Bachelor of medicine and bachelor of surgery (MBBS) or equivalent degree.  Full Registration with MMC or MDC for Malaysian. For international candidates with full registration with the Medical or Dentistry council in their origin country.\nActive Practicing Certificate and a minimum of 3 years working experience in the related field."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Post Basic Certificate in Gerontology Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Apr",
@@ -9646,11 +9757,12 @@
             "text": "-Diploma in Nursing or its equivalent and from an institution that is recognized by Nursing Board Malaysia -Minimum three (3) months working experience in related field -Minimum 2 years clinical working experience.  Registered with Nursing Board Malaysia\nPossess a current Annual Practicing Certificate (APC)\nRegistered with Nursing Council or Board of Nursing at respective Country"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Post Basic Certificate in Perioperative Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Apr",
@@ -9692,11 +9804,12 @@
             "text": "Registered with Nursing Board Malaysia\nPossess a current Annual Practicing Certificate (APC)\nRegistered with Nursing Council or Board of Nursing at respective Country"
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Post Basic Certificate in Critical Care Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan"
@@ -9735,11 +9848,12 @@
             "text": "-Diploma in Nursing or its equivalent and from an institution that is recognized by Nursing Board Malaysia -Minimum three (3) months working experience in related field -Minimum 2 years clinical working experience -Registered with Nursing Board Malaysia -Possess a current Annual Practicing Certificate (APC) -Registered with Nursing Council or Board of Nursing at respective Country."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "Post Basic Certificate in Renal Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jul"
@@ -9759,11 +9873,12 @@
         "others": ""
       },
       "program_type": "certificate",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Nursing"
     },
     {
       "program_name": "Postgraduate Certificate in Teaching and Learning",
-      "field_of_study": "Teaching",
+      "field_of_study": "Education",
       "location": "MAHSA, Saujana Putra",
       "intakes": [
         "Jan",
@@ -9808,7 +9923,8 @@
             "text": "A Bachelor’s degree with CGPA below 2.50 out of 4.00 or its equivalent qualifications can be accepted, subject to a minimum of 5 years of working experience in relevant field."
           }
         ]
-      }
+      },
+      "course": "Teaching"
     }
   ]
 }

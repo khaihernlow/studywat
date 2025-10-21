@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 1529,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://i0.wp.com/blog.roehampton.ac.uk/wp-content/uploads/2018/09/Students-Grove-House018.jpg?resize=1000%2C667&ssl=1"
+  ],
   "programs": [
     {
       "program_name": "BSc Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -68,11 +71,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "BSc Accounting (Placement Year)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -128,11 +132,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "BSc Accounting Studies (Top-up)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -154,11 +159,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Accounting"
     },
     {
       "program_name": "BSc Zoology",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -208,11 +214,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "BSc Zoology (Placement Year)",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -262,11 +269,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "BSc Zoology (Foundation Year)",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -357,11 +365,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "BSc Biological Sciences",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -421,11 +430,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "BSc Biological Sciences (Placement Year)",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -485,11 +495,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "BSc Biological Sciences (Foundation Year)",
-      "field_of_study": "Biology",
+      "field_of_study": "Science and Mathematics",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -575,11 +586,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Biology"
     },
     {
       "program_name": "BSc Biomedical Science",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -695,11 +707,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "BSc Biomedical Science (Placement Year)",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -759,11 +772,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "BSc Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -833,11 +847,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management (Placement Year)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -907,11 +922,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management (Foundation Year)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -981,11 +997,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management - Blended",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -1049,11 +1066,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management - Blended (Placement Year)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -1122,11 +1140,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management (Top-up)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -1149,11 +1168,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Economics",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -1215,11 +1235,12 @@
             "text": "Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Economics (Placement Year)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -1286,11 +1307,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Economics (Foundation Year)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -1355,11 +1377,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Economics (Top-up)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -1381,11 +1404,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Entrepreneurship",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -1452,11 +1476,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Entrepreneurship (Placement Year)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -1523,11 +1548,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Entrepreneurship (Foundation Year)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -1597,11 +1623,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Entrepreneurship (Top-up)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -1623,11 +1650,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Finance",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -1694,11 +1722,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Finance (Placement Year)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -1765,11 +1794,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Finance (Foundation Year)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -1834,11 +1864,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Finance (Top-up)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -1860,11 +1891,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Marketing",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -1931,11 +1963,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Marketing (Placement Year)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -2002,11 +2035,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Marketing (Foundation Year)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -2071,11 +2105,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Business Management and Marketing (Top-up)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2097,11 +2132,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2157,11 +2193,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc Computer Science (Placement Year)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2219,11 +2256,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc Computer Science (Foundation Year)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2287,11 +2325,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc Computer Science (Top-up)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2313,11 +2352,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc Economics (Foundation Year)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2386,11 +2426,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BA Politics, Philosophy and Economics",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2456,11 +2497,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BA Politics, Philosophy and Economics (Placement Year)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2521,11 +2563,12 @@
             "text": "and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BSc Economics",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2586,11 +2629,12 @@
             "text": "Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BSc Economics (Placement Year)",
-      "field_of_study": "Economics",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2656,11 +2700,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Economics"
     },
     {
       "program_name": "BA Digital Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2721,11 +2766,12 @@
             "text": "and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA Digital Design (Placement Year)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2786,11 +2832,12 @@
             "text": "Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA Digital Design (Foundation Year)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2854,11 +2901,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA Digital Media",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2921,11 +2969,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA Digital Media (Placement Year)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -2988,11 +3037,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BA Digital Media (Foundation Year)",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -3061,11 +3111,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BSc Human Resource Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -3132,11 +3183,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "BSc Human Resource Management (Placement Year)",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -3203,11 +3255,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "BSc Human Resource Management (Foundation Year)",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -3277,11 +3330,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "BSc Human Resource Management (Top-up)",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -3303,11 +3357,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Human Resource Management"
     },
     {
       "program_name": "BSc Web Design and Development",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -3373,11 +3428,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc Web Design and Development (Placement Year)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -3448,11 +3504,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc Web Design and Development (Foundation Year)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -3516,11 +3573,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc Web Design and Development (Top-up)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -3542,11 +3600,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc Computing and Digital Technologies",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -3606,11 +3665,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc Computing and Digital Technologies (Placement Year)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -3681,11 +3741,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc Cyber Security",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -3743,11 +3804,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc Cyber Security (Placement Year)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -3798,11 +3860,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc Cyber Security (Foundation Year)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -3871,11 +3934,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BSc International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -3937,11 +4001,12 @@
             "text": "Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BSc International Business (Placement Year)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -4008,11 +4073,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BSc International Business (Foundation Year)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -4082,11 +4148,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BSc International Business (Top-up)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -4108,11 +4175,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "International Business"
     },
     {
       "program_name": "BSc International Business and Finance (Top-up)",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -4134,11 +4202,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "International Business"
     },
     {
       "program_name": "LLB (Hons) Law",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -4199,11 +4268,12 @@
             "text": ", and Grade C in SPM English (if not completing IELTS). GCSE English and Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "LLB (Hons) Law (Placement Year)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -4264,11 +4334,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS). GCSE English and Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "LLB (Hons) Law (Foundation Year)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -4346,11 +4417,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE English and Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "LLB (Hons) Law and Criminal Justice",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -4450,11 +4522,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE English and Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "LLB (Hons) Law and Criminal Justice (Placement Year)",
-      "field_of_study": "Law (LL.B.)",
+      "field_of_study": "Law",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -4554,11 +4627,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE English and Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Law (LL.B.)"
     },
     {
       "program_name": "BSc Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -4619,11 +4693,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BSc Marketing (Placement Year)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -4685,11 +4760,12 @@
             "text": "and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BSc Marketing (Foundation Year)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep",
@@ -4759,11 +4835,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BSc Marketing (Top-up)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -4785,11 +4862,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Marketing"
     },
     {
       "program_name": "BSc Mental Health Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -4834,11 +4912,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE (or equivalent) grades 4/C in Maths and English (at least one science subject desirable).\nApplicants will also undertake an interview. Successful applicants will need to complete an Occuaptional Health (OH) Check and an enhanced DBS (Disclosure and Barring Service) Check."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "MSci Adult and Mental Health Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -4883,11 +4962,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE (or equivalent) grades 4/C in Maths and English (at least one science subject desirable).\nApplicants will also undertake an interview. Successful applicants will need to complete an Occuaptional Health (OH) Check and an enhanced DBS (Disclosure and Barring Service) Check."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "BSc Adult Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Croydon University Centre",
       "intakes": [
         "Sep",
@@ -4933,11 +5013,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE (or equivalent) grades 4/C in Maths and English (at least one science subject desirable).\nApplicants will also undertake an interview. Successful applicants will need to complete an Occuaptional Health (OH) Check and an enhanced DBS (Disclosure and Barring Service) Check."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "BSc Children's Nursing",
-      "field_of_study": "Nursing",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Croydon University Centre",
       "intakes": [
         "Sep"
@@ -4982,11 +5063,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE (or equivalent) grades 4/C in Maths and English (at least one science subject desirable).\nApplicants will also undertake an interview. Successful applicants will need to complete an Occuaptional Health (OH) Check and an enhanced DBS (Disclosure and Barring Service) Check."
           }
         ]
-      }
+      },
+      "course": "Nursing"
     },
     {
       "program_name": "BSc Nutrition and Health",
-      "field_of_study": "Nutrition",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5051,11 +5133,12 @@
             "text": ", and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Nutrition"
     },
     {
       "program_name": "BSc Nutrition and Health (Placement Year)",
-      "field_of_study": "Nutrition",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5120,11 +5203,12 @@
             "text": ", and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Nutrition"
     },
     {
       "program_name": "BSc Nutrition and Health (Foundation Year)",
-      "field_of_study": "Nutrition",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5210,11 +5294,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Nutrition"
     },
     {
       "program_name": "BSc Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5279,11 +5364,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Psychology (Placement Year)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5354,11 +5440,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Psychology (Foundation Year)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5444,11 +5531,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Psychology and Counselling",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5526,11 +5614,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Psychology and Counselling (Placement Year)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5595,11 +5684,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Psychology and Criminal Justice",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5664,11 +5754,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Psychology and Criminal Justice (Placement Year)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5739,11 +5830,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Psychology and Education Practice",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5814,11 +5906,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Psychology and Education Practice (Placement Year)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5896,11 +5989,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Psychology and Education Practice (Foundation Year)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -5986,11 +6080,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Therapeutic Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -6050,11 +6145,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BSc Therapeutic Psychology (Placement Year)",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -6114,11 +6210,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BEng Software Engineering",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -6179,11 +6276,12 @@
             "text": "Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "BEng Software Engineering (Placement Year)",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -6243,11 +6341,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "BEng Software Engineering (Foundation Year)",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -6316,11 +6415,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS)."
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "BSc Sport and Exercise Sciences",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -6385,11 +6485,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     },
     {
       "program_name": "BSc Sport and Exercise Sciences (Placement Year)",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -6449,11 +6550,12 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     },
     {
       "program_name": "BSc Sport and Exercise Sciences (Foundation Year)",
-      "field_of_study": "Sports Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Roehampton Lane",
       "intakes": [
         "Sep"
@@ -6544,7 +6646,8 @@
             "text": "Minimum of CCC, and Grade C in SPM English (if not completing IELTS).  GCSE Maths at Grade 4/C"
           }
         ]
-      }
+      },
+      "course": "Sports Science"
     }
   ]
 }

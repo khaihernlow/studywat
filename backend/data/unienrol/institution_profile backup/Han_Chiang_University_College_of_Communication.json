@@ -1,0 +1,1645 @@
+{
+  "institution_name": "Han Chiang University College of Communication",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Bachelor of Business Management (Hons)",
+      "field_of_study": "Business and Management",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "UEC": "Pass with a minimum of 5 Grade B.",
+        "Diploma": "Pass in Diploma in a related field with min. CGPA 2.00.",
+        "STPM": "Pass with minimum of 2 Grade C.",
+        "Foundation": "Pass with min. CGPA 2.00."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 36360
+      },
+      "course_content": {
+        "core": "YEAR 1 Microeconomics Macroeconomics Introduction to Management Introduction to Marketing Quantitative Methods for Business Human Resource Management Business Law Business Ethics Business Information System Business Accounting Organisational Behaviour Operations Management Negotiation Skills/Bahasa Kebangsaan A Religious Philosophy  YEAR 2 Entrepreneurship and Small Business Management Data Analytics Strategic Management International Business Business Research Methods Academic Writing Penghayatan Etika dan Peradaban/ BM Komunikasi 2 Falsafah dan Isu Semasa Integriti dan Antirasuah/Self-development  Specialisation in Marketing Consumer Behaviour Digital Marketing Integrated Marketing Communication Dissertation A  Specialisation in Finance Maintaining Financial Records Business Finance Corporate Finance 1 Dissertation A  YEAR 3 Industrial Training Electives  Specialisation in Marketing Product and Service Innovation Management Service Marketing Retail Marketing Management Dissertation B  Specialisation in Finance Corporate Finance 2 Financial Markets and Institutions Islamic Finance Dissertation B",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with a minimum of 5 Grade B."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass in Diploma in a related field with min. CGPA 2.00."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with minimum of 2 Grade C."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Pass with min. CGPA 2.00."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BACHELOR OF ARTS (HONS) CHINESE STUDIES",
+      "field_of_study": "Chinese Studies",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in Chinese",
+        "UEC": "Grade B in 5 Subjects including B6 in Chinese.  SPM-level or equivalent:\ncredit in Chinese",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Chinese",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Chinese",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Chinese",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Chinese",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Chinese"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 36360
+      },
+      "course_content": {
+        "core": "Year 1 History of China I \nHistory of China II \nHistory of Chinese Classical Literature I \nHistory of Chinese Classical Literature II \nClassical Chinese I \nClassical Chinese II \nChinese Philosophy I \nChinese Philosophy II Introduction to Literary Arts\nBasic Writing\nIntroduction to Chinese Culture\nHistory of Malaysian Chinese\nEnglish for Communication  Year 2\nChinese Philosophy (II)\nModern Chinese Literature\nContemporary Chinese Literature\nResearch Methodology\nIntroduction to Linguistics\nModern Chinese\nPhilology\nIntroduction to Chinese Scholarship Year 2  Year 3 History of Classical Literary Criticism\nSelected Literary Works\nSelected Poems and Lyrics\nModern Chinese History\nMalaysian Literature\nPresentation Skills",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects including B6 in Chinese.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in Chinese"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Chinese"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Chinese"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chinese"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Advertising) (Honours)",
+      "field_of_study": "Communication",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 5600,
+        "tuition_fee": 36360
+      },
+      "course_content": {
+        "core": "Year 1\nIntroduction to Advertising\nHuman Communication\nIntroduction to Graphic Design\nIntroduction to Broadcasting\nIntroduction to Marketing\nCommunication Theories\nIntroduction to Mass Communication\nVisual Communication\nDigital Photography\nCopywriting\nEnglish for Communication\nPresentation Skills\nNegotiation Skills/Bahasa Kebangsaan A\nReligious Philosophy\n\nYear 2\nAdvertising: Media Planning\nIntroduction to Multimedia Design\nAdvanced Graphic Design\nAdvanced Multimedia Design\nMedia Law and Ethics\nBrands & Branding\nQualitative Research Methods\nQuantitative Research Methods\nAcademic Writing\nIntegriti dan Antirasuah/Self-development\nFalsafah dan Isu Semasa\nPenghayatan Etika dan Peradaban/\nBM Komunikasi 2\nElective 1\n\nYear 3\nAdvertising Campaign I\nAdvertising Campaign II\nIntegrated Marketing Communication\nConsumer Behaviour\nMotion Graphics\nPublic Speaking\nIndustrial Training\nElective 2 Year 1 Year 2 Year 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (New Media) (Honours)",
+      "field_of_study": "Communication",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 5600,
+        "tuition_fee": 36360
+      },
+      "course_content": {
+        "core": "Year 1\nIntroduction to Digital Media\nHuman Communication\nIntroduction to Digital Video\nIntroduction to Broadcasting\nAnimation\nIntroduction to Mass Communication\nVisual Communication\nDigital Content Creation\nSocial Media Engagement\nEnglish for Communication\nPresentation Skills\nNegotiation Skills/Bahasa Kebangsaan A\nReligious Philosophy\nElective 1\n\nYear 2\nMedia Law and Ethics\nCommunication Theories\nIntroduction to Web Design\nDesktop Publishing\nDigital Photography\nDigital Broadcast Production\nEditing in the Digital Age\nQualitative Research Methods\nQuantitative Research Methods\nAcademic Writing\nPenghayatan Etika dan Peradaban/\nBM Komunikasi 2\nFalsafah dan Isu Semasa\nIntegriti dan Antirasuah/Self-development\nElective 2\n\nYear 3\nResearch Project 1\nResearch Project 2\nDigital Audio Design\nDigital Storytelling\nDigital and Media Literacy\nDigital Marketing\nMotion Graphics\nIndustrial Training Year 1 Year 2 Year 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Bachelor of Communication (Media Production) (Honours)",
+      "field_of_study": "Communication",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 5600,
+        "tuition_fee": 36360
+      },
+      "course_content": {
+        "core": "YEAR 1\nIntroduction to Broadcasting\nIntroduction to Screen Studies\nIntroduction to Digital Media\nHuman Communication\nIntroduction to Mass Communication\nCommunication Theories\nVisual Communication\nRadio Production I\nBasic TV Production\nScriptwriting\nEnglish for Communication\nNegotiation Skills/Bahasa Kebangsaan A\nReligious Philosophy\nPresentation Skills\nElective 1\n\nYEAR 2\nAdvanced TV Production\nNon-Fiction TV Production\nRadio Production II\nVideo Editing\nAnimation\nFilm Aesthetics & Criticism\nAudio Visual Literacy\nAcademic Writing\nIntegriti dan Antirasuah/Self-development\nFalsafah dan Isu Semasa\nPenghayatan Etika dan Peradaban/\nBM Komunikasi 2\nQualitative Research Methods\nQuantitative Research Methods\nElective 2\n\nYEAR 3\nMotion Graphics\nDigital Broadcast Production\nBroadcast Programming & Management\nMedia Law and Ethics\nResearch Project 1\nResearch Project 2\nIndustrial Training YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (HONS) LOGISTICS & SUPPLY CHAIN MANAGEMENT",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\npass in Mathematics",
+        "UEC": "Minimum 5 credit (B6) in five subjects including Mathematics and English;.  SPM-level or equivalent:\npass in Mathematics",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 36360
+      },
+      "course_content": {
+        "core": "YEAR 1\nMicroeconomics\nMacroeconomics\nIntroduction to Management\nIntroduction to Marketing\nIntroduction to Logistics Management\nEnglish for Communication\nNegotiation Skills/Bahasa Kebangsaan A\nReligious Philosophy\nBusiness Accounting\nBusiness Information System\nBusiness Law\nOrganisational Behaviour\nQuantitative Methods for Business\nBusiness Ethics YEAR 1 YEAR 2\nData Analytics\nOrder Fulfilment Management\nFreight Transportation\nAcademic Writing\nBusiness Research Methods\nMaterial Planning and Inventory Management\nWarehouse Management and Distribution Channels\nResearching Logistics and Supply ChainManagement Issues A\nFalsafah dan Isu Semasa\nPenghayatan Etika dan Peradaban/\nBM Komunikasi 2\nIntegriti dan Antirasuah/Self-development\nElective 1\nElective 2\nELECTIVES\nEntrepreneurship and Small Business Management\nInternational Business\nProduct and Service Innovation Management\nBusiness Marketing\nIntroduction to Digital Media YEAR 2 YEAR 3\nStrategic Management\nProcurement and Supply Management\nCustoms and Forwarding\nSupply Chain Management\nOperations Management and Research\nResearching Logistics and Supply ChainManagement Issues B\nIndustrial Training\nElective 3 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Passes.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B6"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credit (B6) in five subjects including Mathematics and English;.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  SPM-level or equivalent:\npass in Mathematics"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BACHELOR OF PUBLIC RELATIONS (HONOURS)",
+      "field_of_study": "Mass Communication",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "2 Passes.  SPM-level or equivalent:\ncredit in English",
+        "UEC": "Grade B in 5 Subjects including English.  SPM-level or equivalent:\ncredit in English",
+        "Diploma": "Minimum CGPA 2.00 (Diploma in a related field).  SPM-level or equivalent:\ncredit in English",
+        "STPM": "2 Principal Passes.  SPM-level or equivalent:\ncredit in English",
+        "Foundation": "Minimum CGPA 2.00.  SPM-level or equivalent:\ncredit in English",
+        "CPU": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English",
+        "SACE/WACE": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 36360
+      },
+      "course_content": {
+        "core": "YEAR 1\nIntroduction to Public Relations\nHuman Communication\nIntroduction to Graphic Design\nIntroduction to Digital Media\nCommunication Theories\nIntroduction to Mass Communication\nVisual Communication\nMedia Relations\nSocial Media Engagement\nPresentation Skills\nCorporate Writing\nEnglish for Communication\nNegotiation Skills/Bahasa Kebangsaan A\nReligious Philosophy\nElective 1\n\nYEAR 2\nInternational Public Relations\nEvent Planning and Management\nMedia Law and Ethics\nReputation Management\nRisk and Crisis Management\nCorporate Social Responsibility\nIntergrated Marketing Communication\nCommunication Research Methods\nDigital Marketing\nAcademic Writing\nResearch Project 1\nFalsafah dan Isu Semasa\nPenghayatan Etika dan Peradaban/\nBM Komunikasi 2\nIntegriti dan Antirasuah/Self-development\nElective 2\n\nYEAR 3\nPublic Relations Campaigns\nPublic Sector and Non-For Profit PR\nDigital and Inbound Public Relations\nResearch Project 2\nPublic Speaking\nIndustrial Training\nElective 3 YEAR 1 YEAR 2 YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (HONS) CREATIVE MULTIMEDIA",
+      "field_of_study": "Multimedia Design",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": "4 months",
+      "entry_requirements_raw": {
+        "A-Level": "Please contact our counsellors for further details.  Applicants may be required to submit a portfolio for assessment",
+        "UEC": "Grade B in 5 Subjects.  Applicants may be required to submit a portfolio for assessment",
+        "Diploma": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment",
+        "STPM": "2 Principal Passes.  Applicants may be required to submit a portfolio for assessment",
+        "Foundation": "Minimum CGPA 2.00.  Applicants may be required to submit a portfolio for assessment",
+        "CPU": "Please contact our counsellors for further details.  Applicants may be required to submit a portfolio for assessment",
+        "SACE/WACE": "Please contact our counsellors for further details.  Applicants may be required to submit a portfolio for assessment"
+      },
+      "english_requirements": {
+        "IELTS": "Band 6.0"
+      },
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": null,
+        "tuition_fee": 36360
+      },
+      "course_content": {
+        "core": "YEAR 1\nDesign Principles\nPhotography\nVisual Arts Studies\nEnglish for Communication\nDigital Audio Design\nIntroduction to Graphic Design\nIntroduction to Web Design\nIntroduction to Corporate Identity & Branding\n3D Modelling Techniques\nIntroduction to Digital Video\nPresentation Skills\nCreative Typography\nNegotiation Skills/Bahasa Kebangsaan A\nReligious Philosophy\nIntegriti dan Antirasuah/Self-development YEAR 1 YEAR 2\nCreative Communication Design\nWeb Development\n3D Animation\nInteractive Media I\nPublic Speaking\nResearch Methodology\nProgramming Fundamental\nInteractive Media II\nAdvanced Digital Audio Design\nAcademic Writing\nElective 1\nPenghayatan Etika dan Peradaban/\nBM Komunikasi 2\nFalsafah dan Isu Semasa YEAR 2  YEAR 3\nObject Oriented Programming\nDigital Video\nCreative Multimedia Project Part 1\nCreative Multimedia Project Part 2\nAdvanced 3D Animation\nElective 2\nIndustrial Training YEAR 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 5 Subjects.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.50 (Diploma in Creative Multimedia or related). Candidates with CGPA between 2.00 and 2.50 may be admitted, subject to an internal assessment process.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 Principal Passes.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.00.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Applicants may be required to submit a portfolio for assessment"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "DIPLOMA IN BUSINESS MANAGEMENT",
+      "field_of_study": "Business and Management",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 3500,
+        "tuition_fee": 21500
+      },
+      "course_content": {
+        "core": "YEAR 1\nMicroeconomics\nPrinciples of Management\nQuantitative Methods and Statistics\nRecording Financial Transactions\nPrinciples of Marketing\nMacroeconomics\nInformation Systems Management\nHuman Resource Management\nMaintaining Financial Records\nOrganisational Behaviour\nBusiness Law\nComputer Software Application\nCommunicative English\nBasic Writing and Study Skills\nSpoken English I\nPenghayatan Etika dan Peradaban/\nBM Komunikasi 1\nTime Management/Bahasa Kebangsaan A\nThe Morality of Ethics\nIntegriti dan Antirasuah/Co-curriculum\n\nYEAR 2\nBusiness Ethics\nData Analytics\nProduction and Operations Management\nEntrepreneurship and Small Business Management\nBusiness Research\nConsumer Behaviour\nFundamentals of Logistics Management\nManaging Finance\nDigital Marketing\nEnglish for Business Management\nSpoken English II\nElective\nIndustrial Training YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "DIPLOMA IN CHINESE STUDIES",
+      "field_of_study": "Chinese Studies",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "SPM": "Minimum 3 credits (incuding Bahasa Cina) and Bahasa Malaysia & Sejarah compulsory pass.",
+        "UEC": "Minimum 3 credits (incuding Bahasa Cina) and Bahasa Malaysia & Sejarah compulsory pass."
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 3500,
+        "tuition_fee": 20500
+      },
+      "course_content": {
+        "core": "Year 1\nFundamental of Writing\nGeneral History of China (I)\nGeneral History of China (II)\nHistory of Chinese Literature (I)\nHistory of Chinese Literature (II)\nIntroduction to Chinese Culture\nIntroduction to Chinese Studies (I)\nIntroduction to Chinese Studies (II)\nClassical Chinese (I)\nClassical Chinese (II)\nComputer Software Application\nSpoken English I\n\nYear 2\nSelected Readings in Classical Chinese Prose\nMalaysian Chinese Literature\nHistory of Chinese Thought\nSelected Readings in Tang & Song Poetry\nContemporary & Modern Chinese Literature (I)\nContemporary & Modern Chinese Literature (II)\nIntroduction to Literature\nIntroduction to Linguistics\nModern Chinese Language\nSelected Readings in Ming & Qing Novels\nMalaysian Chinese Society and Culture\nThesis Writing (I)\nThesis Writing (II) Year 1 Year 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Cina"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 credits (incuding Bahasa Cina) and Bahasa Malaysia & Sejarah compulsory pass."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Cina"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 credits (incuding Bahasa Cina) and Bahasa Malaysia & Sejarah compulsory pass."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "DIPLOMA IN LOGISTICS MANAGEMENT",
+      "field_of_study": "Logistics and Supply Chain Management",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 3500,
+        "tuition_fee": 20700
+      },
+      "course_content": {
+        "core": "YEAR 1\nPrinciples of Marketing\nMicroeconomics\nPrinciples of Management\nRecording Financial Transactions\nComputer Software Application\nCommunicative English\nMacroeconomics\nInformation Systems Management\nFundamentals of Logistics Management\nHuman Resource Management\nAccounting for Cost 1\nBasic Writing and Study Skills\nTime Management/Bahasa Kebangsaan A\nThe Morality of Ethics\nIntegriti dan Antirasuah/Co-curriculum\nPenghayatan Etika dan Peradaban/\nBM Komunikasi 1\n\nYEAR 2\nQuantitative Methods and Statistics\nData Analytics\nBusiness Ethics\nEntrepreneurship and Small Business\nManagement\nSpoken English I\nBusiness Law\nGlobal Logistics\nFreight and Transport Management\nInventory and Material Management\nSupply Chain Management\nBusiness Communication\nWarehouse Management\nEnglish for Business Management\nSpoken English II\nElective\nIndustrial Training YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "DIPLOMA IN MASS COMMUNICATION",
+      "field_of_study": "Mass Communication",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "2 months",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including English.",
+        "O-Level": "Please contact our counsellors for further details.",
+        "UEC": "Please contact our counsellors for further details."
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 3500,
+        "tuition_fee": 26300
+      },
+      "course_content": {
+        "core": "YEAR 1\nHuman Communication\nIntroduction to Sociology\nIntroduction to Mass Communication\nVisual Communication\nGraphic Design\nBasic News Reporting\nAdvanced News Reporting\nMass Media & Malaysian Society\nComputer Software Application\nCommunicative English\nSpoken English 1\nBasic Writing & Study Skills\nPenghayatan Etika dan Peradaban/\nBM Komunikasi 1\nThe Morality of Ethics\nIntegriti dan Antirasuah/Co-curriculum\nElective YEAR 1 Broadcasting Option\nBasic Digital Radio Production\nBasic Digital TV Production\nJournalism Option\nPhotojournalism\nNews Translation\nPR & Advertising Option\nPR: Principles & Practice\nAdvertising: Principles & Practice Broadcasting Option Journalism Option PR & Advertising Option YEAR 2\nCommunication Theories\nGovernance of the Media in the Digital Age\nCommunication Research Methods\nMicroeconomics\nEnglish for Mass Communication\nSpoken English 2\nPublic Speaking\nTime Management/Bahasa Kebangsaan A\nIndustrial Training YEAR 2 Broadcasting Option\nEnglish Pronunciation/Mandarin Pronunciation\nAdvanced Digital TV Production\nBroadcasting Programming & Management\nFilm Aesthetic & Criticism\nBroadcasting Production\nJournalism Option\nDesktop Publishing\nUrban Reporting\nFeature Writing\nNews Editing & Production\nOnline News\nPR & Advertising Option\nDesktop Publishing\nWriting for Public Relations\nPublic Relations: Management & Practice\nAdvertising Campaign\nAdvertising: Media Planning Broadcasting Option Journalism Option PR & Advertising Option",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "DIPLOMA IN MULTIMEDIA COMMUNICATION DESIGN",
+      "field_of_study": "Multimedia Design",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "2 months",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits including English.",
+        "O-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 3 relevant subjects including English."
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 3500,
+        "tuition_fee": 25000
+      },
+      "course_content": {
+        "core": "YEAR 1\nComputer Software Application\nCommunicative English\nDesign Fundamentals\nVisual Studies\nComputer Aided Design\nIntroduction to Multimedia\nPhotography\nComputers & Computing\nTypography\nElements of Multimedia\nSpoken English I\nMultimedia Web Authoring\nBasic Writing & Study Skills\nPenghayatan Etika dan Peradaban/\nBM Komunikasi 1\nIntegriti dan Antirasuah/Co-curriculum\nTime Management/Bahasa Kebangsaan A\nThe Morality of Ethics\nElective\n\nYEAR 2\nMultimedia Technology & Management\nAudio & Video for Multimedia\nAnimation Techniques\nInterface & Interactive Multimedia Design\nAdvanced Multimedia Technology\nSpoken English II\nEditorial Design\nComputer Games Design\nMultimedia in Training & Education\nCreative Multimedia Project Part I\nCreative Multimedia Project Part 2\nEnglish for IT & Multimedia\nIndustrial Training YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects including English."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "DIPLOMA IN VISUAL ARTS AND DESIGN",
+      "field_of_study": "Multimedia Design",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Aug"
+      ],
+      "program_duration_years": 2,
+      "internship": "2 months",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.",
+        "O-Level": "Please contact our counsellors for further details.",
+        "UEC": "Grade B in 3 relevant subjects."
+      },
+      "english_requirements": {
+        "IELTS": "Band 5.0"
+      },
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 3500,
+        "tuition_fee": 25000
+      },
+      "course_content": {
+        "core": "YEAR 1\nComputer Software Application\nDrawing I\nPhotography I\nHistory of Visual Communication\nGraphic Design and Layout\nCommunicative English\nDesign Elements & Principles\nSpoken English I\nDrawing II\nTypography in Design\nCorporate Identity Design\nDesign Process & Management\nPackaging Design\nVisual Communication Design Theory and Practice\nBasic Writing & Study Skills\nPenghayatan Etika dan Peradaban/\nBM Komunikasi 1\nIntegriti dan Antirasuah/Co-curriculum\nTime Management/Bahasa Kebangsaan A\nThe Morality of Ethics\nElective\n\nYEAR 2\nDigital Design I\nAdvertising I\nPhotography II\nEditorial & Informational Design\nMotion Graphic Design\nProfessional Practice\nSpoken English II\nAdvertising II\nDigital Design II\nDigital Illustration\nFinal Year Project I\nFinal Year Project II\nElective\nIndustrial Training YEAR 1 YEAR 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Communication",
+      "field_of_study": "Foundation in Arts",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 1,
+      "internship": "N/A",
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5 credits including English.",
+        "O-Level": "Minimum 5 credits including English.",
+        "UEC": "Minimum 3 credits (incuding English)."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 300,
+        "resource_fee": 1200,
+        "tuition_fee": 9840
+      },
+      "course_content": {
+        "core": "SEMESTER 1\nIntroduction to Mass Communication\nVisual Communication\nIntroduction to Management\nComputer Software Application\nBasic Writing & Study Skills\nPengajian Malaysia 1/BM Komunikasi 1\n\nSEMESTER 2\nHuman Communication\nIntroduction to Journalism\nSociology\nMicroeconomics\nSpoken English\nDecision Making Skills / Bahasa Kebangsaan A\n\nSEMESTER 3\nMass Media and Society\nSocial Psychology\nMarketing\nComputers and Computing\nEnglish for Mass Communication\nCulture and Belief in Malaysia SEMESTER 1 SEMESTER 2 SEMESTER 3",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits including English."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits including English."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 3 credits (incuding English)."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master for Arts in Chinese Studies",
+      "field_of_study": "Chinese Studies",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Bachelor's degree in a relevant field with a minimum CGPA of 2.75 OR Bachelor's degree or equivalent with a CGPA of 2.50 or above, but at least 5 years of work experience in the relevant field, and be admitted after passing the interview assessment..  Proof of Chinese listening, speaking, reading and writing ability. Submit a research proposal of about 2,000 words"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 400,
+        "resource_fee": 4200,
+        "tuition_fee": 10800
+      },
+      "course_content": {
+        "core": "Research Interests: Chinese History and Culture, Ancient Chinese Literature, Classical Chinese Philology, Modern and Contemporary Chinese Literature, Chinese Language and Philology, Malaysian Chinese Literature, Malaysian Chinese Society and Culture.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.75
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "Bachelor's degree in a relevant field with a minimum CGPA of 2.75 OR Bachelor's degree or equivalent with a CGPA of 2.50 or above, but at least 5 years of work experience in the relevant field, and be admitted after passing the interview assessment..  Proof of Chinese listening, speaking, reading and writing ability. Submit a research proposal of about 2,000 words"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Doctor of Philosophy in Chinese Studies",
+      "field_of_study": "Chinese Studies",
+      "location": "Han Chiang, Georgetown",
+      "intakes": [
+        "Apr",
+        "Aug",
+        "Nov"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Masters": "- A Master’s Degree in Mandarin descipline or - Other qualifications equivalent to a Master’s Degree that are accepted by the Senate; or - An applicant without Mandarin Descipline required to take 3 prerequisite courses."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": 6300,
+        "tuition_fee": 18720
+      },
+      "course_content": {
+        "core": "Year 1 Research Methodology Prerequisite Courses x2 Reading Report x2 Year 2 Research Proposal Defence 25% of thesis (draft) 50% of thesis (draft) 100% of thesis (draft) 75% of thesis (draft) Year 3 Pre Viva Voce Viva Voce",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "- A Master’s Degree in Mandarin descipline or - Other qualifications equivalent to a Master’s Degree that are accepted by the Senate; or - An applicant without Mandarin Descipline required to take 3 prerequisite courses."
+          }
+        ]
+      }
+    }
+  ]
+}

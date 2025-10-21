@@ -1,0 +1,116 @@
+{
+  "institution_name": "Oriental Nilam College of Nursing and Health Sciences",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Diploma in Nursing",
+      "field_of_study": "Nursing",
+      "location": "Oriental Nilam, Klebang",
+      "intakes": [
+        "Jul",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "SPM": "Pass with 5 credits including Bahasa Malaysia, Mathematics and 1 science subject (Biology/Physics/Chemistry/General Science/Applied Science) AND Pass English and Sejarah.",
+        "O-Level": "Pass with 5 credits including Mathematics, 1 science subject (Bio/Physics/Chemistry/Science) AND pass English.  Additional Requirement:\nSPM Credit in BM & Pass in Sejarah",
+        "UEC": "Please contact our counsellors for further details.  Additional Requirement:\nSPM Credit in BM & Pass in Sejarah"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 700,
+        "resource_fee": null,
+        "tuition_fee": 46200
+      },
+      "course_content": {
+        "core": "Anatomy and Physiology \nCommunication and Public Relation \nPsychology and Sociology \nFundamental of Nursing \nMicrobiology, Epidemiology & Infection \nPharmacology \nAltered function of Hemopoietic and Respiratory System \nProfessional Role Development, Nursing Ethic and Medico-Legal Concept \nAltered function of Cardiovascular and Endocrine System \nAltered function of Skin and Musculoskeletal System \nAltered function of Gastrointestinal System \nObstetric Nursing \nAltered function of Nervous System \nNursing Research \nAltered function of Reproductive and Genitourinary System \nCommunity Health Nursing and Gerontology \nAltered function of Eye, Ear, Nose and Throat \nManagement in Nursing \nMental Health Nursing \nEmergency and Disaster Nursing \nClinical Practice",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Mathematics",
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "General Science",
+              "Applied Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits including Bahasa Malaysia, Mathematics and 1 science subject (Biology/Physics/Chemistry/General Science/Applied Science) AND Pass English and Sejarah."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Biology",
+              "Physics",
+              "Chemistry",
+              "Science"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass with 5 credits including Mathematics, 1 science subject (Bio/Physics/Chemistry/Science) AND pass English.  Additional Requirement:\nSPM Credit in BM & Pass in Sejarah"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Bahasa Malaysia",
+              "Sejarah"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Please contact our counsellors for further details.  Additional Requirement:\nSPM Credit in BM & Pass in Sejarah"
+          }
+        ]
+      }
+    }
+  ]
+}

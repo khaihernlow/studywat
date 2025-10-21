@@ -1,88 +1,88 @@
 import os
 from google import genai
-from google.genai import types
-from typing import Dict, List
+from typing import List
+from ..core.config import settings
+import asyncio
+import threading
+import queue
+import logging
+logger = logging.getLogger(__name__)
 
 
 class GeminiService:
     def __init__(self):
-        self.api_key = os.getenv("GEMINI_API_KEY")
+        self.api_key = settings.GEMINI_API_KEY
         if not self.api_key:
             raise ValueError("GEMINI_API_KEY environment variable is required")
         
         self.client = genai.Client(api_key=self.api_key)
-        # Store chat sessions for each user
-        self.chat_sessions: Dict[str, genai.Chat] = {}
 
-    async def generate_response(self, user_message: str, user_id: str) -> str:
+    async def generate_response(self, conversation_history: List[dict]) -> str:
         """
-        Generate a response from Gemini based on the user's message.
-        Maintains conversation history for each user.
+        Generate a response from Gemini based on conversation history.
         
         Args:
-            user_message: The message from the user
-            user_id: User identifier to maintain conversation history
+            conversation_history: List of messages with 'role' and 'content'
             
         Returns:
             Generated response from Gemini
         """
         try:
-            # Get or create chat session for this user
-            if user_id not in self.chat_sessions:
-                self.chat_sessions[user_id] = self.client.chats.create(
-                    model="gemini-2.0-flash"
+            # Build the conversation context with a system prompt
+            system_prompt = """You are a helpful study advisor."""
+            
+            conversation_text = f"System: {system_prompt}\n\n"
+            for message in conversation_history:
+                role = message["role"]
+                content = message["content"]
+                conversation_text += f"{role}: {content}\n"
+            
+            # Generate response using the simple approach
+            loop = asyncio.get_event_loop()
+            response = await loop.run_in_executor(
+                None,
+                lambda: self.client.models.generate_content(
+                    model="gemini-2.5-flash",
+                    contents=conversation_text
                 )
+            )
             
-            chat = self.chat_sessions[user_id]
-            
-            # Send message and get response
-            response = chat.send_message(user_message)
             return response.text
             
         except Exception as e:
-            print(f"Error generating Gemini response: {e}")
-            return "I apologize, but I'm having trouble processing your request right now. Please try again in a moment."
+            logger.error(f"Error generating Gemini response: {e}")
+            return "I apologize, but I'm having trouble processing your request right now. Please try again in a moment." 
 
-    def get_chat_history(self, user_id: str) -> List[dict]:
+    async def stream_response(self, contents: list[str]):
         """
-        Get chat history for a specific user.
-        
+        Stream a response from Gemini using the official streaming API.
         Args:
-            user_id: User identifier
-            
-        Returns:
-            List of chat messages with role and content
+            contents: List of strings (conversation turns or prompts)
+        Yields:
+            Each chunk's text as it arrives
         """
-        try:
-            if user_id not in self.chat_sessions:
-                return []
-            
-            chat = self.chat_sessions[user_id]
-            history = []
-            
-            for message in chat.get_history():
-                history.append({
-                    "role": message.role,
-                    "content": message.parts[0].text
-                })
-            
-            return history
-            
-        except Exception as e:
-            print(f"Error getting chat history: {e}")
-            return []
+        q = queue.Queue()
 
-    def clear_chat_session(self, user_id: str) -> bool:
-        """
-        Clear chat session for a specific user.
-        
-        Args:
-            user_id: User identifier
-            
-        Returns:
-            True if session was cleared, False if not found
-        """
-        if user_id in self.chat_sessions:
-            del self.chat_sessions[user_id]
-            return True
-        return False 
+        def run_stream():
+            try:
+                response = self.client.models.generate_content_stream(
+                    model="gemini-2.5-flash",
+                    contents=contents
+                )
+                for chunk in response:
+                    logger.debug(f"[GEMINI CHUNK] {repr(chunk.text)}")
+                    q.put(chunk.text)
+            except Exception as e:
+                logger.error(f"Error streaming Gemini response: {e}")
+                q.put("[Error: Unable to stream response]")
+            finally:
+                q.put(None)  # Sentinel
+
+        threading.Thread(target=run_stream, daemon=True).start()
+
+        loop = asyncio.get_event_loop()
+        while True:
+            text = await loop.run_in_executor(None, q.get)
+            if text is None:
+                break
+            yield text 

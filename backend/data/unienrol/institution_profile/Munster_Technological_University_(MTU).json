@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.mtu.ie/media/mtu-website/5050-images/buildings-5050/kerry-north-campus.jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor (Hons) Early Childhood Education and Learning",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "Bishopstown Campus",
       "intakes": [
         "Sep"
@@ -45,7 +48,8 @@
             "text": "MCKL Diploma in Early Childhood Education with the required minimum CGPA of 2.5."
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     }
   ]
 }

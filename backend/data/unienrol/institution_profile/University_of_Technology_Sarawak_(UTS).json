@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 7127,
   "malaysia_rank": 49,
+  "institution_images": [
+    "https://set.uts.edu.my/wp-content/uploads/2020/08/2B.jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Accountancy (Honours)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "UTS, Sibu",
       "intakes": [
         "Feb",
@@ -170,11 +173,12 @@
             "text": "Pass Foundation from recognised institutions with minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics\npass in English"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Business Administration (Hons)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "UTS, Sibu",
       "intakes": [
         "Feb",
@@ -276,11 +280,12 @@
             "text": "Pass Foundation from recognised institutions with minimum CGPA 2.0."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Civil Engineering (Hons)",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "UTS, Sibu",
       "intakes": [
         "Feb",
@@ -367,11 +372,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "UTS, Sibu",
       "intakes": [
         "Feb",
@@ -415,11 +421,12 @@
             "text": "A pass in Foundation studies with minimum CGPA of 2.00.  SPM-level or equivalent:\ncredit in Additional Mathematics OR Mathematics and one of the subjects in Science, Technology or Engineering"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Electrical Engineering (Honours)",
-      "field_of_study": "Electrical Engineering",
+      "field_of_study": "Engineering",
       "location": "UTS, Sibu",
       "intakes": [
         "Feb",
@@ -526,11 +533,12 @@
             "text": "Pass Foundation in Science from recognised institutions with minimum CGPA 2.0."
           }
         ]
-      }
+      },
+      "course": "Electrical Engineering"
     },
     {
       "program_name": "Bachelor of Food Technology (Hons)",
-      "field_of_study": "Food Science",
+      "field_of_study": "Science and Mathematics",
       "location": "UTS, Sibu",
       "intakes": [
         "Feb",
@@ -614,11 +622,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Food Science"
     },
     {
       "program_name": "Bachelor of Arts in Industrial Design (Honours)",
-      "field_of_study": "Industrial Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "UTS, Sibu",
       "intakes": [
         "Feb",
@@ -706,11 +715,12 @@
             "text": "Pass Foundation from recognised institution or equivalent with minimum CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Industrial Design"
     },
     {
       "program_name": "Bachelor of Art (Hons) Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "UTS, Sibu",
       "intakes": [
         "Feb",
@@ -812,11 +822,12 @@
             "text": "Pass with at least CGPA 2.0.  Pendidikan Seni & Portfolio Review"
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering (Hons)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "UTS, Sibu",
       "intakes": [
         "Feb",
@@ -919,11 +930,12 @@
             "text": "Pass Foundation in Science from recognised institutions with minimum CGPA 2.0."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Arts (Hons) in Creative Digital Media",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "UTS, Sibu",
       "intakes": [
         "Feb",
@@ -1009,7 +1021,8 @@
             "text": "Pass Foundation from any IPTA / IPTS / Institution that is allowed to offer foundation program with CGPA of 2.00."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     }
   ]
 }

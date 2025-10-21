@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 6853,
   "malaysia_rank": 47,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/INTI/NILAI_CAMPUS/Campus_Surroundings/INTI+Nilai+Entrance.png"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Business (Hons) - Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -198,11 +201,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 70 and Grade B in 2 subjects.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Accountancy (Hons)",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -346,7 +350,8 @@
             "text": "Successful completion of SM3 with average of 80% in 5 academic subjects including Mathematics, with no less than 70% for best 5 subjects in term 1 & 2, Year 3."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "BA (Hons) Accounting and Finance (3+0) with the University of Hertfordshire, UK",
@@ -529,7 +534,8 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BA (Hons) Accounting and Finance (3+0) with the University of Hertfordshire, UK",
@@ -711,7 +717,8 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BA (Hons) Accounting and Finance (3+0) with the University of Hertfordshire, UK",
@@ -894,7 +901,8 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Accounting & Finance (Hons)",
@@ -1041,11 +1049,12 @@
             "text": "Successful completion of SM3 with average of 80% in 5 academic subjects including Mathematics, with no less than 70% for best 5 subjects in term 1 & 2, Year 3."
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "Bachelor of Banking and Finance (Hons)",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -1197,11 +1206,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "Bachelor of Science in Biotechnology (Hons)",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -1385,11 +1395,12 @@
             "text": "Minimum ATAR of 70; including Chemistry and Biology / Physics / Mathematics.  SPM-level or equivalent:\ncredit in Mathematics, 1 science subject"
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Bachelor of Business (3+0) with Swinburne University of Technology, AUS",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Mar",
@@ -1523,11 +1534,12 @@
             "text": "CGPA 2.40.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business (Honours) Business Administration – Online Learning",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -1648,11 +1660,12 @@
             "text": "Pass with a ATAR of 55."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "BA (Hons) Business Administration (3+0) with the University of Hertfordshire, UK",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -1869,11 +1882,12 @@
             "text": "Pass 5 subjects with ATAR 65%, a pass in English and Mathematics and no subject below 10/20.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "BA (Hons) Business Administration (3+0) with the University of Hertfordshire, UK",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -2046,11 +2060,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "BA (Hons) Business Administration (3+0) with the University of Hertfordshire, UK",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -2223,11 +2238,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor in Business Administration (4+0), SNHU, US",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -2452,11 +2468,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 55.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business (Hons) Business Administration",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -2654,11 +2671,12 @@
             "text": "5 subject with ATAR of 55.  Pass in Mathematics and English at SPM level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business (3+0) with Swinburne University of Technology, AUS",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Mar",
@@ -2775,11 +2793,12 @@
             "text": "Minimum Australian Tertiary Admission Rank (ATAR) of 60 OR Minimum average score of 65% for Australian Foundation Programme.  Score of 30 in English as Alternate Language (EAL) for Victorian Certificate of Education, or equivalent"
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Business (Hons) - Digital Enterprise Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -2940,11 +2959,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Business (Hons) Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -3105,11 +3125,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Business (Hons) with Psychology by INTI International University",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -3335,11 +3356,12 @@
             "text": "5 subject with ATAR of 55.  SPM-level or equivalent:\ncredit in Mathematics and pass in English"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Engineering (Hons) in Civil Engineering",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -3511,11 +3533,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 65 and Grade B in Mathematics and Physics."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Bachelor of Arts in Communication (4+0) with the Southern New Hampshire University, USA",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -3665,11 +3688,12 @@
             "text": "5 subjects with ATAR of 55 (equivalent to TER of 55), no subject below 10/20 (SAM) Minimum 10 units with UAI 55, no subjects below 50 (HSC)."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Media and Communication (3+0) with Swinburne University of Technology, Australia",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Mar",
@@ -3781,11 +3805,12 @@
             "text": "Pass with at least CGPA 2.60."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons) (Online Learning)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -3928,11 +3953,12 @@
             "text": "Average of 55% in 6 subjects.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Science (Hons) Computer Science (3+0) with Coventry University, UK",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -4085,11 +4111,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 55.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Computer Science (3+0) in collaboration with Swinburne University of Technology, Australia",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Mar",
@@ -4353,11 +4380,12 @@
             "text": "Score of 30 in English as Alternate Language (EAL) for Victorian Certificate of Education, or equivalent OR\nAverage of 70% in English (study must be completed not more than one year prior to commencing study at Swinburne)"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Computer Science (Hons)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -4566,11 +4594,12 @@
             "text": "5 passes with TER of 55 (not less than 10/20 for each subject."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Technology in Intelligent Process and Product Design",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Nilai",
       "intakes": [
         "May",
@@ -4671,11 +4700,12 @@
             "text": "Minimum of CGPA 2.0."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Technology in Intelligent Manufacturing",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Nilai",
       "intakes": [
         "May",
@@ -4756,11 +4786,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Technology in Digital Construction Management",
-      "field_of_study": "Construction Management",
+      "field_of_study": "Architecture and Built Environment",
       "location": "INTI, Nilai",
       "intakes": [
         "May",
@@ -4836,11 +4867,12 @@
             "value": 2.0
           }
         ]
-      }
+      },
+      "course": "Construction Management"
     },
     {
       "program_name": "Master of Engineering in Electrical and Electronic Engineering 4+0, Coventry University, UK",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -5039,11 +5071,12 @@
             "text": "Average of 55 including Mathematics and 1 science subject."
           }
         ]
-      }
+      },
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Bachelor of Business (Honours) in Entrepreneurship and Marketing",
-      "field_of_study": "Entrepreneurship",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Aug"
@@ -5130,11 +5163,12 @@
             "text": "CGPA of 2.00.  Pass in Mathematics and English at SPM level or equivalent"
           }
         ]
-      }
+      },
+      "course": "Entrepreneurship"
     },
     {
       "program_name": "BA (Hons) Fashion Management & Communication (3+0) with Sheffield Hallam University, UK",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Apr",
@@ -5226,11 +5260,12 @@
             "text": "SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Fashion Design"
     },
     {
       "program_name": "BA (Hons) Finance (3+0) with the University of Hertfordshire, UK",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -5481,11 +5516,12 @@
             "value": "65"
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "Bachelor of Business (Hons) Finance",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -5703,11 +5739,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "BA (Hons) Graphic Design (3+0) with Sheffield Hallam University, UK",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Apr",
@@ -5855,11 +5892,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "Bachelor of Food Service Management with Culinary Arts (Hounours) (3+0) with CY Cergy Paris Universite, France",
-      "field_of_study": "Hospitality Management",
+      "field_of_study": "Hospitality and Services",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -5956,11 +5994,12 @@
             "text": "Recognised Diploma (Level 4 Malaysian Qualifications Framework, MQF) with a minimum CGPA of 2.00."
           }
         ]
-      }
+      },
+      "course": "Hospitality Management"
     },
     {
       "program_name": "Bachelor of Business (Hons) Human Resource Management – Online Learning",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -6121,11 +6160,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 55.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Bachelor of Business (Hons) Human Resource Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -6288,11 +6328,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 55.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Bachelor of Technology (Honours) Data Science",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Nilai",
       "intakes": [
         "May",
@@ -6429,11 +6470,12 @@
             "text": "Minimum CGPA 2.0.  Credit in Additional Mathematics at SPM or its equivalent."
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Bachelor of Information and Communication Technology 3+0 in collaboration with Swinburne University of Technology, AU",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Mar",
@@ -6544,11 +6586,12 @@
             "text": "Minimum Australian Tertiary Admission Rank (ATAR) of 60. Score of 30 in English as Alternate Language (EAL) for Victorian Certificate of Education (VCE) or equivalent.  Pass in Mathematics at SPM level."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Bachelor of Information Technology (Hons) Business Analytics",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -6702,11 +6745,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "BA (Hons) Interior Architecture & Design (3.5+0) with Sheffield Hallam University, UK",
-      "field_of_study": "Interior Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Apr",
@@ -6827,11 +6871,12 @@
             "text": "Foundation in Design / Foundation in Art & Design with minimum CGPA 2.00.  Credit in English SPM / O-Level"
           }
         ]
-      }
+      },
+      "course": "Interior Architecture"
     },
     {
       "program_name": "Bachelor of Art (Honours) Interior Architecture & Design (3.5+0) with Sheffield Hallam University, UK",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Apr",
@@ -6943,11 +6988,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Arts subject or an internal assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Interior Design"
     },
     {
       "program_name": "Bachelor of Business (Hons) International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -7105,11 +7151,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Bachelor of Business (Hons) International Business – Online Learning",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -7270,11 +7317,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 55.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Bachelor of Business (Hons) Logistics and Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -7441,11 +7489,12 @@
             "text": "5 subject with ATAR of 55.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Bachelor of Arts (Honours) Advertising and Digital Marketing 3+0 in Collaboration with University of Hertfordshire, UK",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -7673,11 +7722,12 @@
             "text": "Pass 5 subjects with ATAR 70%, no subject below 50%..  Pass in English and Mathematics in SPM or equivalent"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "BA (Hons) Marketing (3+0) with the University of Hertfordshire, UK",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -7877,11 +7927,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor of Business (Hons) Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8039,11 +8090,12 @@
             "text": "Australian Tertiary Admission Rank (ATAR) 55.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Marketing"
     },
     {
       "program_name": "Bachelor of Business (Honours) Marketing – Online Learning",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8067,11 +8119,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Marketing"
     },
     {
       "program_name": "BA (Hons) Mass Communications (3+0) with the University of Hertfordshire, UK",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -8098,11 +8151,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Arts (Honours) Mass Communications 3+0 in collaboration with THE UNIVERSITY OF HERTFORDSHIRE, UK",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -8126,11 +8180,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Arts (Honours) Digital Media",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8155,11 +8210,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (Hons) Mass Communications (Hons) [SINGLE AWARD]",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8181,11 +8237,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Media and Communication (3+0), Swinburne University of Technology, AUS",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Mar",
@@ -8206,11 +8263,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mass Communication"
     },
     {
       "program_name": "Bachelor of Engineering (Hons) in Mechanical Engineering",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8232,11 +8290,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Master of Engineering in Mechanical Engineering 4+0, Coventry University, UK",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -8262,11 +8321,12 @@
         "others": ""
       },
       "program_type": "masters",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "B.Sc. (Hons) in Physiotherapy",
-      "field_of_study": "Physiotherapy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8291,11 +8351,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Physiotherapy"
     },
     {
       "program_name": "Bachelor of Arts in Psychology (4+0) with the Southern New Hampshire University, USA",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -8320,11 +8381,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Psychology"
     },
     {
       "program_name": "BA in Psychology (4+0), Southern New Hampshire University, US",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -8350,11 +8412,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Science (Hons) Quantity Surveying",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8378,11 +8441,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "Bachelor of Traditional Chinese Medicine (Hons)",
-      "field_of_study": "Traditional Chinese Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8403,11 +8467,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Traditional Chinese Medicine"
     },
     {
       "program_name": "New South Wales TAFE Advanced Diploma Of Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -8428,11 +8493,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "INTI, Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -8454,11 +8520,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8480,11 +8547,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Accounting"
     },
     {
       "program_name": "Diploma in Business (Online Learning)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8508,11 +8576,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -8534,11 +8603,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -8560,11 +8630,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -8586,11 +8657,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in Business",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8612,11 +8684,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business Administration"
     },
     {
       "program_name": "Diploma in E-Commerce",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -8638,11 +8711,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Business – Flexible Learning",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -8664,11 +8738,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Business – Flexible Learning",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -8690,11 +8765,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma in Civil Engineering",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8716,11 +8792,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Diploma in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -8746,11 +8823,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -8776,11 +8854,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -8806,11 +8885,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Computer Science"
     },
     {
       "program_name": "Diploma in Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -8835,11 +8915,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Culinary Arts",
-      "field_of_study": "Culinary Arts",
+      "field_of_study": "Hospitality and Services",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -8864,11 +8945,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Culinary Arts"
     },
     {
       "program_name": "Diploma in Electrical & Electronic Engineering",
-      "field_of_study": "Electrical & Electronic Engineering",
+      "field_of_study": "Engineering",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -8890,11 +8972,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Electrical & Electronic Engineering"
     },
     {
       "program_name": "Diploma in Fashion Design",
-      "field_of_study": "Fashion Design",
+      "field_of_study": "Creative Arts and Design",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -8916,11 +8999,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Fashion Design"
     },
     {
       "program_name": "Diploma in Finance",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -8942,11 +9026,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Finance"
     },
     {
       "program_name": "Diploma in Financial Informatics",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -8968,11 +9053,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Finance"
     },
     {
       "program_name": "Diploma in Graphic Design",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -8994,11 +9080,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Graphic Design"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9023,11 +9110,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Hotel Management (Work-based Learning)",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "INTI, Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -9049,11 +9137,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Hotel Management",
-      "field_of_study": "Hotel Management",
+      "field_of_study": "Hospitality and Services",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9078,11 +9167,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Hotel Management"
     },
     {
       "program_name": "Diploma in Information Technology (Online Learning)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -9106,11 +9196,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9132,11 +9223,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9158,11 +9250,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Information Technology",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -9184,11 +9277,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Diploma in Interior Design",
-      "field_of_study": "Interior Design",
+      "field_of_study": "Architecture and Built Environment",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9210,11 +9304,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Interior Design"
     },
     {
       "program_name": "Diploma in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9236,11 +9331,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Marketing",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9262,11 +9358,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Marketing"
     },
     {
       "program_name": "Diploma in Mass Communication",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9288,11 +9385,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Mass Communication",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9314,11 +9412,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Mass Communication",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -9340,11 +9439,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Digital Media",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9366,11 +9466,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Digital Media",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9392,11 +9493,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mass Communication"
     },
     {
       "program_name": "Diploma in Mechanical Engineering",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9418,11 +9520,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Diploma in Mechanical Engineering",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9444,11 +9547,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Diploma in Mechanical Engineering",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -9470,11 +9574,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Diploma in Immersive Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9496,11 +9601,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Digital Media Design",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9522,11 +9628,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Diploma in Quantity Surveying",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9548,11 +9655,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "Diploma in Quantity Surveying",
-      "field_of_study": "Quantity Surveying",
+      "field_of_study": "Architecture and Built Environment",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -9574,11 +9682,12 @@
         "others": ""
       },
       "program_type": "diploma",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Quantity Surveying"
     },
     {
       "program_name": "Cambridge A-Levels (4 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9599,11 +9708,12 @@
         "others": ""
       },
       "program_type": "preuniversity",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "A-Level"
     },
     {
       "program_name": "Cambridge A-Levels (3 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9624,11 +9734,12 @@
         "others": ""
       },
       "program_type": "preuniversity",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "A-Level"
     },
     {
       "program_name": "Cambridge A-Levels (3 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9649,11 +9760,12 @@
         "others": ""
       },
       "program_type": "preuniversity",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "A-Level"
     },
     {
       "program_name": "Cambridge A-Levels (4 Subjects)",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9674,11 +9786,12 @@
         "others": ""
       },
       "program_type": "preuniversity",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "A-Level"
     },
     {
       "program_name": "American University Program (Actuarial Science Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9700,11 +9813,12 @@
         "others": ""
       },
       "program_type": "professional",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Actuarial Science Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9726,11 +9840,12 @@
         "others": ""
       },
       "program_type": "professional",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Biosciences Degree Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9752,11 +9867,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Biosciences Degree Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9778,11 +9894,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Business Degree Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9804,11 +9921,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Business Degree Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9830,11 +9948,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Computer Science Degree Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9856,11 +9975,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Computer Science Degree Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9882,11 +10002,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Engineering Degree Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9908,11 +10029,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Engineering Degree Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9934,11 +10056,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Health & Applied Sciences)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -9960,11 +10083,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Health & Applied Sciences)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -9986,11 +10110,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Mass Communication Degree Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -10012,11 +10137,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Mass Communication Degree Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Bayan Lepas",
       "intakes": [
         "Jan",
@@ -10038,11 +10164,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "American University Program (Psychology Degree Program)",
-      "field_of_study": "American Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -10064,11 +10191,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "American Degree Transfer Programme"
     },
     {
       "program_name": "Australian Degree Transfer Programme (Commerce)",
-      "field_of_study": "Australian Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -10090,11 +10218,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Australian Degree Transfer Programme"
     },
     {
       "program_name": "Australian Degree Transfer Programme (Science)",
-      "field_of_study": "Australian Degree Transfer Programme",
+      "field_of_study": "International Pre-University",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -10116,11 +10245,12 @@
         "others": ""
       },
       "program_type": "bachelor",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Australian Degree Transfer Programme"
     },
     {
       "program_name": "Foundation in Business",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -10142,11 +10272,12 @@
         "others": ""
       },
       "program_type": "foundation",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Information Technology",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "INTI, Nilai",
       "intakes": [
         "Jan",
@@ -10168,11 +10299,12 @@
         "others": ""
       },
       "program_type": "foundation",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Foundation in Science",
-      "field_of_study": "Foundation in Science",
+      "field_of_study": "Foundation",
       "location": "INTI, Subang Jaya",
       "intakes": [
         "Jan",
@@ -10194,7 +10326,8 @@
         "others": ""
       },
       "program_type": "foundation",
-      "entry_requirements_processed": {}
+      "entry_requirements_processed": {},
+      "course": "Foundation in Science"
     }
   ]
 }

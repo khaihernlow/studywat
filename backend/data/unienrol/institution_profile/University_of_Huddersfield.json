@@ -4,6 +4,9 @@
   "institution_type": "Public",
   "world_rank": 704,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.hud.ac.uk/media/assets/photo/buildings/oastler-building.jpg"
+  ],
   "programs": [
     {
       "program_name": "BSc (Hons) Accounting and Finance",
@@ -146,11 +149,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Accounting and Finance"
     },
     {
       "program_name": "BA (Hons) Architecture",
-      "field_of_study": "Architecture",
+      "field_of_study": "Architecture and Built Environment",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -306,11 +310,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics, English\npass in an art Portfolio assessment by the university"
           }
         ]
-      }
+      },
+      "course": "Architecture"
     },
     {
       "program_name": "BEng (Hons) Automotive and Motorsport Engineering",
-      "field_of_study": "Automotive Technology",
+      "field_of_study": "Engineering",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -474,11 +479,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Automotive Technology"
     },
     {
       "program_name": "BSc (Hons) Chemistry with Forensic Science",
-      "field_of_study": "Chemistry",
+      "field_of_study": "Science and Mathematics",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -639,11 +645,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Chemistry"
     },
     {
       "program_name": "BSc (Hons) Computer Science with Artificial Intelligence",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -782,11 +789,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BSc (Hons) Computer Science with Cyber Security",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -925,11 +933,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BA (Hons) Games Development (Art) (Design/Production)",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -1068,11 +1077,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BA (Hons) Early Childhood and Education",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -1211,11 +1221,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in Mathematics, English\nprovide Pre-Disclosure and Barring Service (DBS) check"
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "BA (Hons) Graphic Design and Animation",
-      "field_of_study": "Graphic Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -1354,11 +1365,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Graphic Design"
     },
     {
       "program_name": "BEng (Hons) Mechanical Engineering",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -1522,11 +1534,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "BEng (Hons) Mechatronic Engineering",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -1702,11 +1715,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "BSc (Hons) Podiatry",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -1876,11 +1890,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "BMus (Hons) Music Performance",
-      "field_of_study": "Music",
+      "field_of_study": "Creative Arts and Design",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -2019,11 +2034,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Music"
     },
     {
       "program_name": "BSc (Hons) Occupational Therapy",
-      "field_of_study": "Occupational Safety & Health",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -2193,11 +2209,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Occupational Safety & Health"
     },
     {
       "program_name": "BSc( Hons) Physiotherapy",
-      "field_of_study": "Physiotherapy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -2370,11 +2387,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Physiotherapy"
     },
     {
       "program_name": "BSc (Hons) Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -2513,11 +2531,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "BA (Hons) Special Educational Needs; Disabilities and Inclusion",
-      "field_of_study": "Special Needs Education",
+      "field_of_study": "Education",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Sep"
@@ -2656,11 +2675,12 @@
             "text": "Minimum CGPA 2.50.  SPM-level or equivalent:\ncredit in English & Mathematics"
           }
         ]
-      }
+      },
+      "course": "Special Needs Education"
     },
     {
       "program_name": "MSc Fintech",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Huddersfield, Queensgate Campus",
       "intakes": [
         "Jan",
@@ -2697,7 +2717,8 @@
             "text": "Applicants with other appropriate professional qualifications and/or experience will be considered on an individual basis"
           }
         ]
-      }
+      },
+      "course": "Finance"
     }
   ]
 }

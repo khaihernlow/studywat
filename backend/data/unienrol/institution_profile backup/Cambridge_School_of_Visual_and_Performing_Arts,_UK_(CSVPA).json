@@ -1,0 +1,1764 @@
+{
+  "institution_name": "Cambridge School of Visual and Performing Arts, UK (CSVPA)",
+  "institution_country": "United Kingdom",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "BA (Hons) Fashion",
+      "field_of_study": "Fashion Design",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 A levels equivalent to 64 UCAS points.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "UEC": "Pass UEC with 3Cs.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "Diploma": "A pass at Extended Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "STPM": "Pass STPM with 3 Credits.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "Foundation": "A pass at UAL Level 3 Foundation Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 316943
+      },
+      "course_content": {
+        "core": "Stage 1 Study Block 1 Creative Communication\nDesign Process\nTechnical Skills Creative Communication Design Process Technical Skills Study Block 2 Design Projects \nFashion in Context Design Projects Fashion in Context Stage 2 Study Block 1 Design for Industry\nAdvanced Technical Skills Design for Industry Advanced Technical Skills Study Block 2 Design Innovation\nTheories and Methodologies Design Innovation Theories and Methodologies Stage 3 Study Block 1 Collection Preparation\nDissertation Collection Preparation Dissertation Study Block 2 Collection Realisation\nProfessional Portfolio Collection Realisation Professional Portfolio",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "2 A levels equivalent to 64 UCAS points.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "credit",
+            "subjects": [
+              "UEC"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "credit",
+            "subjects": [
+              "Extended Diploma"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A pass at Extended Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": [
+              "STPM"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "credit",
+            "subjects": [
+              "UAL Level 3 Foundation Diploma"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A pass at UAL Level 3 Foundation Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Fashion Branding & Creative Communication",
+      "field_of_study": "Fashion Design",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 A levels equivalent to 64 UCAS points.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "UEC": "Pass UEC with 3Cs.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "Diploma": "A pass at Extended Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "STPM": "Pass STPM with 3 Credits.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "Foundation": "A pass at UAL Level 3 Foundation Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 316943
+      },
+      "course_content": {
+        "core": "Stage 1 Study Block 1 Creative Communication\nContent Curation\nImage Architecture Creative Communication Content Curation Image Architecture Study Block 2 Fashion in Context\nFashion ID Fashion in Context Fashion ID Stage 2 Study Block 1 Fashion as Narrative\nFashion Futures Fashion as Narrative Fashion Futures Study Block 2 Theories and Methodologies\nFashion & Brand Theories and Methodologies Fashion & Brand Stage 3 Study Block 1 Dissertation\nIndustry Interaction Dissertation Industry Interaction Study Block 2 Professional Portfolio\nFinal Major Project Professional Portfolio Final Major Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 A levels equivalent to 64 UCAS points.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "A pass at Extended Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Credits"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "A pass at UAL Level 3 Foundation Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BA (Hons) Graphics and Illustration",
+      "field_of_study": "Graphic Design",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "2 A levels equivalent to 64 UCAS points.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "UEC": "Pass UEC with 3Cs.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "Diploma": "A pass at Extended Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "STPM": "Pass STPM with 3 Credits.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "Foundation": "A pass at UAL Level 3 Foundation Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 316943
+      },
+      "course_content": {
+        "core": "Stage 1 Study Block 1 Creative Process\nVisual Language Creative Process Visual Language Study Block 2 Creative Generation\nEngagement Creative Generation Engagement Stage 2 Study Block 1 Creative Direction \nPreparation Creative Direction Preparation Study Block 2 Creative Expression\nNegotiated Application Creative Expression Negotiated Application Stage 3 Study Block 1 Informed Practice\nDissertation Informed Practice Dissertation Study Block 2 Major Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "raw",
+            "text": "2 A levels equivalent to 64 UCAS points.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "raw",
+            "text": "A pass at Extended Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Credits"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "raw",
+            "text": "A pass at UAL Level 3 Foundation Diploma.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UAL Level 3 & 4 Foundation Diploma in Art & Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "1 A level at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "UEC": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "STPM": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 174326
+      },
+      "course_content": {
+        "core": "EXPERIMENTAL STUDIES This all encompassing subject ensures you have a solid understanding of drawing-based theory including mark making, colour theory and perspective theory that takes into account how work is produced. Over the year you will cover off the following areas: Elements of composition, tone, colour, texture, form and structure\nObservational analysis\nVisual interpretation\nImprovisation techniques\nRendering the abstract\nExperimental drawing Elements of composition, tone, colour, texture, form and structure Observational analysis Visual interpretation Improvisation techniques Rendering the abstract Experimental drawing CRITICAL AND CONTEXTUAL STUDIES Critical and Contextual Studies is a course designed to develop you as a student. The course provides an introduction to significant movements and ideas in Art and Design History to allow students to deepen their knowledge, visual literacy, and personal understanding of key concepts essential for working in the creative industries. Weekly assignments and individual presentation tasks are used to help develop writing, research, and speaking skills that build confidence and prepare students for university interviews. The course encourages students to reflect on their own work, to consider the context in which they are working and the type of practitioner they want to be. ENGLISH TRAINING Through a variety of teaching styles, we focus on four key skills you need to pass your IELTS exam; listening, reading, writing and spoken English. This subject is linked with your Contextual Studies lectures so you are better equipped with vocabulary to explain your workings and promote your final pieces.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "1 A level at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UAL Level 3 Foundation Diploma in Art & Design - Fashion",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Jan"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "1 A level or 2 AS levels at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "UEC": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "STPM": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 174326
+      },
+      "course_content": {
+        "core": "EXPERIMENTAL STUDIES This all encompassing subject ensures you have a solid understanding of drawing-based theory including mark making, colour theory and perspective theory that takes into account how work is produced. Over the year you will cover off the following areas: Elements of composition, tone, colour, texture, form and structure\nObservational analysis\nVisual interpretation\nImprovisation techniques\nRendering the abstract\nExperimental drawing Elements of composition, tone, colour, texture, form and structure Observational analysis Visual interpretation Improvisation techniques Rendering the abstract Experimental drawing CRITICAL AND CONTEXTUAL STUDIES Critical and Contextual Studies is a course designed to develop you as a student. The course provides an introduction to significant movements and ideas in Art and Design History to allow students to deepen their knowledge, visual literacy, and personal understanding of key concepts essential for working in the creative industries. Weekly assignments and individual presentation tasks are used to help develop writing, research, and speaking skills that build confidence and prepare students for university interviews. The course encourages students to reflect on their own work, to consider the context in which they are working and the type of practitioner they want to be. ENGLISH TRAINING Through a variety of teaching styles, we focus on four key skills you need to pass your IELTS exam; listening, reading, writing and spoken English. This subject is linked with your Contextual Studies lectures so you are better equipped with vocabulary to explain your workings and promote your final pieces.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "1 A level or 2 AS levels at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "STPM"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UAL Level 3 Foundation Diploma in Art & Design - Graphics & Illustration",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Jan"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "1 A level or 2 AS levels at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "UEC": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "STPM": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 174326
+      },
+      "course_content": {
+        "core": "EXPERIMENTAL STUDIES This all encompassing subject ensures you have a solid understanding of drawing-based theory including mark making, colour theory and perspective theory that takes into account how work is produced. Over the year you will cover off the following areas: Elements of composition, tone, colour, texture, form and structure\nObservational analysis\nVisual interpretation\nImprovisation techniques\nRendering the abstract\nExperimental drawing Elements of composition, tone, colour, texture, form and structure Observational analysis Visual interpretation Improvisation techniques Rendering the abstract Experimental drawing CRITICAL AND CONTEXTUAL STUDIES Critical and Contextual Studies is a course designed to develop you as a student. The course provides an introduction to significant movements and ideas in Art and Design History to allow students to deepen their knowledge, visual literacy, and personal understanding of key concepts essential for working in the creative industries. Weekly assignments and individual presentation tasks are used to help develop writing, research, and speaking skills that build confidence and prepare students for university interviews. The course encourages students to reflect on their own work, to consider the context in which they are working and the type of practitioner they want to be. ENGLISH TRAINING Through a variety of teaching styles, we focus on four key skills you need to pass your IELTS exam; listening, reading, writing and spoken English. This subject is linked with your Contextual Studies lectures so you are better equipped with vocabulary to explain your workings and promote your final pieces.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "1 A level or 2 AS levels at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Credits"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UAL Level 3 Foundation Diploma in Art & Design - 3D Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Jan"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "1 A level or 2 AS levels at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "UEC": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "STPM": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 174326
+      },
+      "course_content": {
+        "core": "EXPERIMENTAL STUDIES This all encompassing subject ensures you have a solid understanding of drawing-based theory including mark making, colour theory and perspective theory that takes into account how work is produced. Over the year you will cover off the following areas: Elements of composition, tone, colour, texture, form and structure\nObservational analysis\nVisual interpretation\nImprovisation techniques\nRendering the abstract\nExperimental drawing Elements of composition, tone, colour, texture, form and structure Observational analysis Visual interpretation Improvisation techniques Rendering the abstract Experimental drawing CRITICAL AND CONTEXTUAL STUDIES Critical and Contextual Studies is a course designed to develop you as a student. The course provides an introduction to significant movements and ideas in Art and Design History to allow students to deepen their knowledge, visual literacy, and personal understanding of key concepts essential for working in the creative industries. Weekly assignments and individual presentation tasks are used to help develop writing, research, and speaking skills that build confidence and prepare students for university interviews. The course encourages students to reflect on their own work, to consider the context in which they are working and the type of practitioner they want to be. ENGLISH TRAINING Through a variety of teaching styles, we focus on four key skills you need to pass your IELTS exam; listening, reading, writing and spoken English. This subject is linked with your Contextual Studies lectures so you are better equipped with vocabulary to explain your workings and promote your final pieces.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "1 A level or 2 AS levels at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "STPM"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UAL Level 3 Foundation Diploma in Film & Moving Image (CSVPA London)",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "1 A level at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "UEC": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "STPM": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 171710
+      },
+      "course_content": {
+        "core": "EXPERIMENTAL STUDIES This all encompassing subject ensures you have a solid understanding of drawing-based theory including mark making, colour theory and perspective theory that takes into account how work is produced. Over the year you will cover off the following areas: Elements of composition, tone, colour, texture, form and structure\nObservational analysis\nVisual interpretation\nImprovisation techniques\nRendering the abstract\nExperimental drawing Elements of composition, tone, colour, texture, form and structure Observational analysis Visual interpretation Improvisation techniques Rendering the abstract Experimental drawing CRITICAL AND CONTEXTUAL STUDIES Critical and Contextual Studies is a course designed to develop you as a student. The course provides an introduction to significant movements and ideas in Art and Design History to allow students to deepen their knowledge, visual literacy, and personal understanding of key concepts essential for working in the creative industries. Weekly assignments and individual presentation tasks are used to help develop writing, research, and speaking skills that build confidence and prepare students for university interviews. The course encourages students to reflect on their own work, to consider the context in which they are working and the type of practitioner they want to be. ENGLISH TRAINING Through a variety of teaching styles, we focus on four key skills you need to pass your IELTS exam; listening, reading, writing and spoken English. This subject is linked with your Contextual Studies lectures so you are better equipped with vocabulary to explain your workings and promote your final pieces.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "1 A level at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Credits"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UAL Level 3 Foundation Diploma in Visual Communication (CSVPA London)",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "1 A level at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "UEC": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject",
+        "STPM": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 171710
+      },
+      "course_content": {
+        "core": "EXPERIMENTAL STUDIES This all encompassing subject ensures you have a solid understanding of drawing-based theory including mark making, colour theory and perspective theory that takes into account how work is produced. Over the year you will cover off the following areas: Elements of composition, tone, colour, texture, form and structure\nObservational analysis\nVisual interpretation\nImprovisation techniques\nRendering the abstract\nExperimental drawing Elements of composition, tone, colour, texture, form and structure Observational analysis Visual interpretation Improvisation techniques Rendering the abstract Experimental drawing CRITICAL AND CONTEXTUAL STUDIES Critical and Contextual Studies is a course designed to develop you as a student. The course provides an introduction to significant movements and ideas in Art and Design History to allow students to deepen their knowledge, visual literacy, and personal understanding of key concepts essential for working in the creative industries. Weekly assignments and individual presentation tasks are used to help develop writing, research, and speaking skills that build confidence and prepare students for university interviews. The course encourages students to reflect on their own work, to consider the context in which they are working and the type of practitioner they want to be. ENGLISH TRAINING Through a variety of teaching styles, we focus on four key skills you need to pass your IELTS exam; listening, reading, writing and spoken English. This subject is linked with your Contextual Studies lectures so you are better equipped with vocabulary to explain your workings and promote your final pieces.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "1 A level at grade E or above.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  5 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Drama Foundation - Acting",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "1 A level at grade E or above.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\nCandidates should deliver two monologues each from memory and in English:\n1 x classical piece should be from Shakespeare or an Elizabethan/Jacobean playwright (For example: Jonson, Marlowe, Webster)\n1 x contemporary piece should provide a clear contrast to the classical piece and be written after 1960 from a published play.\nCandidates should deliver monologues appropriate to their age and should deliver them in their own accent. Candidates should be sure to wear loose and comfortable clothing.",
+        "UEC": "Pass UEC with 3Cs .  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\nCandidates should deliver two monologues each from memory and in English:\n1 x classical piece should be from Shakespeare or an Elizabethan/Jacobean playwright (For example: Jonson, Marlowe, Webster)\n1 x contemporary piece should provide a clear contrast to the classical piece and be written after 1960 from a published play.\nCandidates should deliver monologues appropriate to their age and should deliver them in their own accent. Candidates should be sure to wear loose and comfortable clothing.",
+        "STPM": "Pass STPM with 3 Credits.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\nCandidates should deliver two monologues each from memory and in English:\n1 x classical piece should be from Shakespeare or an Elizabethan/Jacobean playwright (For example: Jonson, Marlowe, Webster)\n1 x contemporary piece should provide a clear contrast to the classical piece and be written after 1960 from a published play.\nCandidates should deliver monologues appropriate to their age and should deliver them in their own accent. Candidates should be sure to wear loose and comfortable clothing."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 174326
+      },
+      "course_content": {
+        "core": "ACTING In these classes be prepared to challenge your thinking, what does it mean to act, and what is the role of the actor? There will be a mix of acting theory, drawing on several critical perspectives, and practical work involving movement, voice and all the tools of self-expression. We will workshop a variety of material with tutors, peers, and guest lecturers all in support of your application process for university or drama school. SCENE STUDY Scene study classes follow the process of preparing, rehearsing and presenting a scripted text. The rehearsal room is where actors experiment with and apply their training in relation to different theatrical forms and rehearsal processes. The classes enable actors to explore, develop and take risks. Scene study is where all acting techniques learned on the course are put into practice and critique given for the benefit of all in the class. VOICE A stalwart of all actors training is working with speech. Develop a healthy and robust speaking voice that can tackle the most challenging of situations with precision and clarity. MOVEMENT Discover your body’s expressive potential and have at your disposal the techniques which will allow you to achieve the physical and imaginative transformations required as an actor. The classes explore key movement influences, including Laban, Lecoq and Anne Bogart's Viewpoints training. The focus of the classes is to embody movement with imagination at its heart, working on body awareness, improvisation and developing original performance and choreography that allows you to clearly express ideas, emotions and enrich storytelling. TEXT Establish a process for working with words as a starting point. The practice of finding the drama and making sense of any text. Particular attention will be paid to Shakespeare along with prose and a healthy dose of sight reading! BALLET The ballet course provides students with strong technique and understanding of the basic requirements for ballet. Through a structured programme of floor work, barre and centre practice the students learn how to maintain correct posture and how to correctly use their turnout, while also developing a knowledge of the French vocabulary and common dance patterns. By the end of the year they will be confident in dancing short sequences and responding to a variety of music, leaving them well prepared for college auditions. PLAY Join all Drama and Dance courses in a practical session exploring improvisation through play and games. PHYSICAL THEATRE These sessions will explore how through movement we can be inspired to tell stories in new and innovative ways. Unique movement vocabulary can be devised from unexpected starting points and it is through this creative process that new choreography emerges. Students are led on a revealing and liberating journey, connecting narrative, emotion and character with movement. THEATRE IN CONTEXT These classes shed light on a range of influential practitioners across theatre and performance training. We will explore the key ideas and approaches that have formed the background to theatre’s development and pivotal moments in actor training practice. THEATRE LABORATORY Identify and apply the skills and specific training related to devised performance. Extend your creative development, addressing acting as an embodied and exploratory art form at the heart of the theatre-making process. Interpret and evaluate performance methodologies from a diverse range of critical perspectives, with a focus on contemporary companies and practitioners. JAZZ DANCE Students will work on developing the foundations of Jazz technique through a variety of exercises focused on improving strength, flexibility, and performance skills. Students will be challenged by working on a range of jazz styles and contrasting routines. GROUP SINGING Improve your overall singing technique while learning key skills for working within an ensemble, such as listening, tuning, timing, and holding a harmony. Surround yourself with the powerful sounds of an ensemble in song!",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "1 A level at grade E or above.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\nCandidates should deliver two monologues each from memory and in English:\n1 x classical piece should be from Shakespeare or an Elizabethan/Jacobean playwright (For example: Jonson, Marlowe, Webster)\n1 x contemporary piece should provide a clear contrast to the classical piece and be written after 1960 from a published play.\nCandidates should deliver monologues appropriate to their age and should deliver them in their own accent. Candidates should be sure to wear loose and comfortable clothing."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs .  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\nCandidates should deliver two monologues each from memory and in English:\n1 x classical piece should be from Shakespeare or an Elizabethan/Jacobean playwright (For example: Jonson, Marlowe, Webster)\n1 x contemporary piece should provide a clear contrast to the classical piece and be written after 1960 from a published play.\nCandidates should deliver monologues appropriate to their age and should deliver them in their own accent. Candidates should be sure to wear loose and comfortable clothing."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\nCandidates should deliver two monologues each from memory and in English:\n1 x classical piece should be from Shakespeare or an Elizabethan/Jacobean playwright (For example: Jonson, Marlowe, Webster)\n1 x contemporary piece should provide a clear contrast to the classical piece and be written after 1960 from a published play.\nCandidates should deliver monologues appropriate to their age and should deliver them in their own accent. Candidates should be sure to wear loose and comfortable clothing."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Drama Foundation Musical Theatre",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "1 A level at grade E or above.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\nStudents should deliver:\n1 x monologue (classical or contemporary), lasting two minutes, delivered in English and from memory. Examples of appropriate playwrights include William Shakespeare, John Webster, Lope de Vega, Anton Chekhov, Tennessee Williams, Caryl Churchill, David Hare, David Mamet, Martin Crimp, Sue Arnold, Clare Mcintyre.\n2 x songs taken from the musical theatre repertoire (one traditional and one contemporary piece). Examples of traditional composers include George Gershwin, Cole Porter, Rodgers and Hammerstein, Leonard Bernstein. Examples of contemporary composers include Stephen Schwartz, Jason Robert Brown, Tom Kitt, Stephen Sondheim, Lin Manuel Miranda.\nCandidates should deliver monologues appropriate to their age and should deliver them in their own accent. Candidate should be sure to wear loose and comfortable clothing. If you attend an audition at CSVPA, an accompanist will be provided for your audition. Please bring sheet music for your songs in the keys in which you perform them. If you are submitting your audition by DVD songs must be accompanied by piano or a backing track."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 174326
+      },
+      "course_content": {
+        "core": "ACTING In these classes be prepared to challenge your thinking, what does it mean to act, and what is the role of the actor? There will be a mix of acting theory, drawing on several critical perspectives, and practical work involving movement, voice and all the tools of self-expression. We will workshop a variety of material with tutors, peers, and guest lecturers all in support of your application process for university or drama school. HISTORY OF MUSICAL THEATRE Examine the development of musical theatre across the 20th century to the present day, from Gilbert and Sullivan through to Broadway’s newest composers. The story of Musical Theatre is one of growth and connection; adding music and dance to a beautifully crafted story to embed it into the hearts of audiences. Of pushing boundaries and challenging people to connect with a heightened version of life’s ups and downs. JAZZ DANCE Jazz is one of the main building blocks of Musical Theatre choreography. Students will work on developing the foundations of Jazz technique through a variety of exercises focused on improving strength, flexibility, and performance skills. Students will be challenged by working on a range of jazz styles and contrasting routines in preparation for their dance auditions. TAP The tap course provides initial training in rhythm, musicality, and control. The students learn a large range of vocabulary and they experience dancing in a variety of tap-styles including urban, jazz and musical theatre. Emphasis is placed on rhythmical understanding and the students will also learn to choreograph their own work and become confident in basic improvisation. The successful completion of this course will see students well-prepared to attend other classes or auditions. SONG & DANCE Develop your skills as a triple threat by combining communication of a story with song and dance. This is the thing that distinguishes musical theatre from all the rest, and will test your energy, multi-tasking, memory, communication, and breath control. GROUP SINGING Improve your overall singing technique while learning key skills for working within an ensemble, such as listening, tuning, timing, and holding a harmony. Surround yourself with the powerful sounds of an ensemble in song! VOCAL ANATOMY Discover more about breath and voice production as related to the anatomical elements involved in singing. Learn about the healthy voice, along with details of how to produce sound best and most efficiently. VOICE A stalwart of all actors training is working with speech. Develop a healthy and robust speaking voice that can tackle the most challenging of situations with precision and clarity. MOVEMENT Discover your body’s expressive potential and have at your disposal the techniques which will allow you to achieve the physical and imaginative transformations required as an actor. The classes explore key movement influences, including Laban, Lecoq and Anne Bogart's Viewpoints training. The focus of the classes is to embody movement with imagination at its heart, working on body awareness, improvisation and developing original performance and choreography that allows you to clearly express ideas, emotions and enrich storytelling. TEXT Establish a process for working with words as a starting point. The practice of finding the drama and making sense of any text. Particular attention will be paid to Shakespeare along with prose and a healthy dose of sight reading! BALLET The ballet course provides students with strong technique and understanding of the basic requirements for ballet. Through a structured programme of floor work, barre and centre practice the students learn how to maintain correct posture and how to correctly use their turnout, while also developing a knowledge of the French vocabulary and common dance patterns. By the end of the year they will be confident in dancing short sequences and responding to a variety of music, leaving them well prepared for college auditions. COMMERCIAL DANCE In Commercial Dance classes, we aim to introduce everyone to the foundational steps of a multitude of styles. We do this to expand student knowledge within the style of Street dance. We will also look at freestyle and choreography in class as these skills are essential within the professional dance industry. PLAY Join all Drama and Dance courses in a practical session exploring improvisation through play and games. PHYSICAL THEATRE These sessions will explore how through movement we can be inspired to tell stories in new and innovative ways. Unique movement vocabulary can be devised from unexpected starting points, and it is through this creative process that new choreography emerges. Students are led on a revealing and liberating journey, connecting narrative, emotion and character with movement.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "1 A level at grade E or above.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\nStudents should deliver:\n1 x monologue (classical or contemporary), lasting two minutes, delivered in English and from memory. Examples of appropriate playwrights include William Shakespeare, John Webster, Lope de Vega, Anton Chekhov, Tennessee Williams, Caryl Churchill, David Hare, David Mamet, Martin Crimp, Sue Arnold, Clare Mcintyre.\n2 x songs taken from the musical theatre repertoire (one traditional and one contemporary piece). Examples of traditional composers include George Gershwin, Cole Porter, Rodgers and Hammerstein, Leonard Bernstein. Examples of contemporary composers include Stephen Schwartz, Jason Robert Brown, Tom Kitt, Stephen Sondheim, Lin Manuel Miranda.\nCandidates should deliver monologues appropriate to their age and should deliver them in their own accent. Candidate should be sure to wear loose and comfortable clothing. If you attend an audition at CSVPA, an accompanist will be provided for your audition. Please bring sheet music for your songs in the keys in which you perform them. If you are submitting your audition by DVD songs must be accompanied by piano or a backing track."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Music Foundation",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "1 A level at grade E or above.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\n1 x monologue (classical or contemporary)\n2 minutes delivered from memory 2 songs taken from the musical theatre repertoire\n1 x traditional\n1 x contemporary\nSongs must be accompanied by piano or a backing track if you are submitting a video audition If you are attending an audition in person, an accompanist will be provided for your audition. Please bring sheet music for your songs in the keys in which you perform them.",
+        "UEC": "Pass UEC with 3Cs.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\n1 x monologue (classical or contemporary)\n2 minutes delivered from memory 2 songs taken from the musical theatre repertoire\n1 x traditional\n1 x contemporary\nSongs must be accompanied by piano or a backing track if you are submitting a video audition If you are attending an audition in person, an accompanist will be provided for your audition. Please bring sheet music for your songs in the keys in which you perform them.",
+        "STPM": "Pass STPM with 3 Credits.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\n1 x monologue (classical or contemporary)\n2 minutes delivered from memory 2 songs taken from the musical theatre repertoire\n1 x traditional\n1 x contemporary\nSongs must be accompanied by piano or a backing track if you are submitting a video audition If you are attending an audition in person, an accompanist will be provided for your audition. Please bring sheet music for your songs in the keys in which you perform them."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 174326
+      },
+      "course_content": {
+        "core": "AURAL SKILLS These skills are necessary for making progress in performance, composition, historical and analytical work. Aspects covered: sight-singing, interval and chord recognition, rhythmic dictation, as well as recognition of style, genre and period. WORLD MUSIC Explore and analyse the cultural aspects of world music; folk, fusion, non-Western ‘classical’ music and learn to play and compose in these styles. We will also examine how world music has influenced Western composition in the past, and continues to do so today. COMPOSITION Develop skills in refinement of musical ideas; developing ideas; understanding of the possibilities and limitations of instruments and voices; and clarity of notation and performance instructions. You will produce a portfolio of compositions, to include vocal and instrumental music, and music for theatre. PIANO REPERTOIRE (FOR PIANISTS) Broaden your knowledge of keyboard repertoire from the Renaissance to the present day. Learn how to plan balanced programmes for auditions, exams and concerts. There will also be discussions of different performing styles by pianists past and present. You will be encouraged to bring in scores from the reper toire you are learning for the class to explore. VOCAL REPERTOIRE Understanding of vocal repertoire including opera and art song. Learn how to plan balanced programmes for auditions, exams and concerts. Examine different performance styles by singers past and present. HISTORY OF WESTERN MUSIC TO C.1880 This course provides you with a comprehensive overview of Western music history from the Middle Ages to Romanticism through listening, research and analysis. You will be encouraged to experience and evaluate music and its meaning with an open mind, and to explore more deeply areas that are relevant to your own field and interests. MUSIC THEORY Based on individual skill levels you will be entered for Associated Board theory exams at the appropriate grade at the end of the academic year. POP ENSEMBLE (FOR STUDENTS PURSUING POPULAR MUSIC STUDIES) Develop ensemble performing skills: to play accurately and musically together, to listen to other players, to understand balance of parts and to develop different ways of communicating ideas and intentions during performance. CLASSICAL ENSEMBLE (FOR STUDENTS PURSUING CLASSICAL MUSIC STUDIES) Develop ensemble performing skills from a wide range of repertoire and styles. The pieces could deploy anything from two singers/players to everyone in class. Apart from your main instruments, you will be encouraged to sing, play recorder, percussion and any other instruments that the others could play. RECORDING Develop a working knowledge of music production through a number of practical recording projects. The course focusses on recording production techniques that will include the use of microphones, recording techniques, mixing techniques, using effects and processors and mastering. The final outcome is a 2-3 song EP (Extended Play) CD as agreed with your tutor.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "E"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "1 A level at grade E or above.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\n1 x monologue (classical or contemporary)\n2 minutes delivered from memory 2 songs taken from the musical theatre repertoire\n1 x traditional\n1 x contemporary\nSongs must be accompanied by piano or a backing track if you are submitting a video audition If you are attending an audition in person, an accompanist will be provided for your audition. Please bring sheet music for your songs in the keys in which you perform them."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\n1 x monologue (classical or contemporary)\n2 minutes delivered from memory 2 songs taken from the musical theatre repertoire\n1 x traditional\n1 x contemporary\nSongs must be accompanied by piano or a backing track if you are submitting a video audition If you are attending an audition in person, an accompanist will be provided for your audition. Please bring sheet music for your songs in the keys in which you perform them."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "credit",
+            "subjects": []
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject\nAUDITION REQUIREMENTS\n1 x monologue (classical or contemporary)\n2 minutes delivered from memory 2 songs taken from the musical theatre repertoire\n1 x traditional\n1 x contemporary\nSongs must be accompanied by piano or a backing track if you are submitting a video audition If you are attending an audition in person, an accompanist will be provided for your audition. Please bring sheet music for your songs in the keys in which you perform them."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "UAL Level 3 Extended Diploma in Art & Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject..",
+        "O-Level": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject.."
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 174326
+      },
+      "course_content": {
+        "core": "YEAR 1 First Term: Units 1-4: “Transitions” “The process or a period of changing from one state to another” Units 1, 2, 3 and 4 must be taught holistically. Unit 1: Introduction to visual language in art and design. Unit 2: Introduction to research skills in art and design. Unit 3: Introduction to critical and contextual awareness in art and design. Unit 4: Introduction to materials, processes and technical skills in art and design. You will begin your studies by learning about what The Creative Process is and its stages. We look at how creative people work and set ourselves some goals for the coming year. The emphasis throughout the first term is developing an understanding of Visual Language as a means of communication through a range of different media and processes. Research methods and contextual study is an intrinsic part of the timetable, and this term artists and designers are introduced as both stimuli and to support the development of ideas. The theme of ‘transition’ is used to help guide students through the developmental process with earlier activities informing subsequent ones with encouragement to explore multidisciplinary approaches. Units 1-4 Practical workshops may include: Drawing: Materials and Approaches\nPainting: Colour Theory and Mixing, Acrylic Paint Techniques, Mark making, Collage\nPhotography: SLR cameras, Composition and Framing, Adobe Capture.\nPrintmaking: Monoprinting, Drypoint Etching\nGraphic Design: Book Cover Design: Image and Text.\nIllustration: Pen and Ink, Photoshop, Surface Pattern Design\n3D: Paper construction, Cardboard Construction.\nTextiles and Fashion: Hand stitching, Using a Sewing machine, Machine Embroidery, 3D construction\nAnimation: Video Sculpture,Stop Frame.\nPresentation: Padlets: E-sketchbooks, presentation boards, hand-made sketchbooks Drawing: Materials and Approaches Painting: Colour Theory and Mixing, Acrylic Paint Techniques, Mark making, Collage Photography: SLR cameras, Composition and Framing, Adobe Capture. Printmaking: Monoprinting, Drypoint Etching Graphic Design: Book Cover Design: Image and Text. Illustration: Pen and Ink, Photoshop, Surface Pattern Design 3D: Paper construction, Cardboard Construction. Textiles and Fashion: Hand stitching, Using a Sewing machine, Machine Embroidery, 3D construction Animation: Video Sculpture,Stop Frame. Presentation: Padlets: E-sketchbooks, presentation boards, hand-made sketchbooks Second Term:Units 5,6, and 7: “Face, Character, Mask” As you become increasingly independent and understand how to work effectively through The Creative Process, this term provides more opportunity to self-determine the direction of research. We visit the Fitzwilliam Museum and The Museum of Anthropology to provide opportunities to explore different representations of ‘faces’ in different contexts. Back in the studios, you will practice drawing faces using a range of media and approaches, in both realistic and stylised ways. You will determine a direction of interest and developa 2D character solutionbefore using this solution to inform a 3D solution which will be built using paper and cardboard and presented together with a costume.At this point, the 3D solution is then incorporated into a filmed performance and the 2D solution informs an animation. Units 5,6,7 Practical workshops may include: Unit 5: An integrated approach to 2D problem solving in art and design Drawing: Materials and Approaches: Character and Expression\nPrintmaking: Collographs\nIllustration: Collage, Character Design, Adobe Illustrator Drawing: Materials and Approaches: Character and Expression Printmaking: Collographs Illustration: Collage, Character Design, Adobe Illustrator Unit 6: An integrated approach to 3D problem solving in art and design 3D: Paper and Cardboard Construction\nFashion: Costume Design\nPhotography: Portraiture and Styling 3D: Paper and Cardboard Construction Fashion: Costume Design Photography: Portraiture and Styling Unit 7: An integrated approach to time-based problem solving Performance Art: Character movement sequence\nAnimation and Film: GIFS, After Effects, a filmed performance Performance Art: Character movement sequence Animation and Film: GIFS, After Effects, a filmed performance Research week Before the Easter holiday there will be a research week to provide opportunities to visit museums, galleries and exhibitions linked to Unit 8 but also to experience some of the superb Art Museums and Galleries the UK has to offer.Visits may include: Harry Potter Warner Brother Studios.\nThe Victoria and Albert Museum of Decorative Arts.\nThe Tate Modern Gallery London.\nThe Design Museum.\nThe National Gallery.\nThe National Portrait Gallery.\nKettle’s Yard Cambridge. Harry Potter Warner Brother Studios. The Victoria and Albert Museum of Decorative Arts. The Tate Modern Gallery London. The Design Museum. The National Gallery. The National Portrait Gallery. Kettle’s Yard Cambridge. Unit 9: Opportunities for Progression in Art and Design This short unit provides an opportunity to learn more about the specialist pathways you can opt for in Year 2. You will also be introduced to the UCAS system for applying to university in the UK. You will find out more about degree courses and institutions that you may be interested in applying to andlearn about what makes a good apersonal statement and good portfolio when applying. You will practice writing your own statement and preparing a digital portfolio to give you a head start in Year 2. Workshops in this unit may include: Photography: Photographing Artworks, Editing.\nGraphic Design: InDesign, Portfolio Design. Photography: Photographing Artworks, Editing. Graphic Design: InDesign, Portfolio Design. Third Term: Unit 8: Developing a Personal Project. For the personal project, you will choose a theme to research and explore, drawing upon skills, knowledge and understanding gained in previous units to help plan and undertake a range of relevant research activities. In research weekthere are opportunities to visit museums,galleries and exhibitions further afield to support this unit. In addition,you can take advantage of visiting the many museums on offer within Cambridge. To continue to build practical and technical skills,Lecturers from year 1 and 2 will deliver more specialist workshops to help you explore your ideas and develop solutions. You will opt for a selection of these that best suit your own project development. Workshops may include: Creative Typography\nDrypoint Etching\nPhotographic and Autographic Screen Printing\nOffset Pattern Repeats\nText and Image Layout in InDesign\nFashion Photography and Styling\nDigital Printmaking with Texture Masks\nReduction Linocut\nCeramics\nLaser Cutting\nAnimation using After Effects Creative Typography Drypoint Etching Photographic and Autographic Screen Printing Offset Pattern Repeats Text and Image Layout in InDesign Fashion Photography and Styling Digital Printmaking with Texture Masks Reduction Linocut Ceramics Laser Cutting Animation using After Effects The work that you produce for this unit will culminate in an end-of-year exhibition and will be internally assessed and externally moderated by University Arts London Awarding Body. Course Organisation and Delivery The Extended Diploma in Year 1 is managed by the Year 1 Coordinator, who will also be one of your lecturers. You will also be taught by one or two other lecturers across the week. All lecturers have significant creative experience and are chosen to teach Year 1 because of their broad skills base and versatile approach. The course uses Canvas, an online learning platform where you will have access to all the course materials including UAL documents, weekly teaching plans, session handouts, presentations and recorded practical sessions. You will also use Canvas to make electronic submissions of your work and access your grades and formal feedback. We use Padlet as an online tool to build e-sketchbooks, which allows lecturers to monitor, support and interact with you. We use Microsoft Teams to deliver sessions online, if students or teachers are required to isolate, and to record practical and digital demonstrations and lectures, so that you can access this information again should you need it. How the Week is Structured: Weekly Sessions How the Week is Structured: Weekly Sessions Contextual and Thematic Studies. Contextual and Thematic Studies usually begins the week. This may take the form of a lecture/slideshow, or discussion usually followed by related practical or written work and activities. Here you are introduced to artists/designers, concepts and ideas linked to different times, cultures and genres. These sessions are intended to broaden your knowledge, skills and understanding of the wider contexts within Art and Design and provide you with research opportunities and reference materials to support the development of your own practical skills and creative ideas. Art and Design Workshops. In the first year, Art and Design workshops will be delivered in a variety of disciplines. The practical and technical skills learned are intended to be as transferable as possible, supporting specialist choices made in Year 2. These sessions will usually begin with demonstrations and health and safety guidance and will cover a range of disciplines (see each Unit ) and focus on key core skills that will support learning and development in whatever specialism you choose in year 2. There is emphasis on working across disciplines and using work in one discipline to inform another. At CSVPA we believe strongly in developing a wide range of skills to support the versatility required of creatives working in professional and commercial creative fields today. Reflective Studies. These sessions are later in the week and provide an opportunity, with guidance, to consolidate, document and reflect upon learning taken place across the week. Especially in the first term, guidance will be given to help develop the skills, knowledge and understanding related to managing the creative process; self-evaluation, written language and vocabulary, presentation, and organisation skills in the effective documentation of the e-sketchbook. Experimental Studies. All students undertake 2 hours per week of Experimental studies. This course encourages risk taking and work does not have to be submitted for assessment. This course will enable you to develop your personal approach to visual communication through drawing. You will be introduced to both traditional and experimental drawing techniques. In Life Drawing you will be introduced to drawing a live model with comparative measurement as well as the exploration of light, tone, movement and posture. Assessment: Units 1-7 and 9 can only attain a Pass or Fail. All units need to be passed to gain the Diploma at the end of the year and progress to year 2. Only Unit 8 will be graded Pass, Merit, Distinction, Fail. This grade will determine the grade given for the Diploma overall. To help you understand the level you are working at, submissions in the first and second terms (Units 1-7 and 9) will be given a referral, pass or pass + with written comments to identify specific areas of strength and weakness relating to the assessment criteria. This will help you make progress towards the higher grades in term 3 (Unit 8) Ongoing and Informal Assessment: Every week, your e-sketchbook will be checked by your tutors and comments added to guide learning, improvements and identify gaps to support progress. Throughout workshops and class sessions, tutors will circulate and provide verbal feedback on work undertaken. Questioning individuals and groups is an important part of assessing students understanding and helps tutors to modify activities to better suit the needs of individuals and the whole group. Self-assessment: Students should use the Assessment Criteria and Evidence documents issued for each project as a checklist to help organisation and manage coursework for submission. Weekly written reflections will help to identify understanding and personal areas of strength and weakness and will be key to the dialogue between student and tutor. Peer reviews and group discussions will also aid self-review and provide the group with peer support and exemplars to better understand the standards. Prior to formal assessments,you will need to complete your own self-assessment against the assessment criteria. Formal Assessments: There will be a formative assessment usually halfway through each term/project. Work to date will be submitted electronically through Canvas, our online learning platform. Here the progress you have made so far will be assessed against the assessment objectives. Work will be given a referral if it does not yet meet the standards for pass, a pass or a pass+.  All assessment criteria must attain at least a pass to attain a pass overall. Similarly, to attain a Merit or Distinction in Unit 8, all assessment criteria much reach that level. You will receive comments to identify specific areas of strength and weakness relating to the assessment criteria. Following formative assessments, improvements can be made to work prior to the summative assessment. The summative assessment at the end of the term/unit (s) follows the same format as the formative assessment. Any student who receives a referral in the summative assessment will be given a week to complete the necessary work required to achieve a pass level. An individual action plan will be provided with listed evidence to submit/resubmit. Students are not able to progress to Unit 8 in term 3 unless a pass has been attained for Units 1-7.  YEAR 2 In your second year, you will select your specialism subject; your creative process will be recorded in a blog as a reflection and evaluation of your work. You will commence your university application and portfolio with the guidance and support of lecturers. In the second term, you will continue to focus on your chosen subject and develop a portfolio for university interviews. Fashion students will stage a fashion show. In the final term all students will undertake a research week when trips to relevant creative sources are arranged and industry professionals are invited into college to inspire and inform your self-directed project. This will be showcased at the end of term.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject.."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Extended Diploma in Performing Arts (Acting)",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject..  AUDITION REQUIREMENTS\nStudents can audition with one performance piece of their choosing, but are welcome to submit more than one piece if they feel it better represents them. Music students, please submit an audition piece on their primary instrument (including voice) Acting students, please submit a monologue of their choice (fully memorised and performed in English) Musical Theatre students can submit a song from Musical Theatre repertoire and/or a monologue of their choice (fully memorised and performed in English)",
+        "O-Level": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject..  AUDITION REQUIREMENTS\nStudents can audition with one performance piece of their choosing, but are welcome to submit more than one piece if they feel it better represents them. Music students, please submit an audition piece on their primary instrument (including voice) Acting students, please submit a monologue of their choice (fully memorised and performed in English) Musical Theatre students can submit a song from Musical Theatre repertoire and/or a monologue of their choice (fully memorised and performed in English)"
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 174326
+      },
+      "course_content": {
+        "core": "DRAMA SKILLS (ALL STUDENTS) Explore the fundamentals of drama and basic performance work, as well as effective communication skills, through tableau and transition, mime, structured improvised scenes, puppetry, mask work, introductory stagecraft, and devising. MUSIC APPRECIATION (ALL STUDENTS) Broaden your musical horizons by engaging with different musical forms from different periods of musical history. WORLD MUSIC (ALL STUDENTS) Examine different styles of music from around the world within the context of the cultures from which they emerged, and consider their impact and influence on the ‘world of music’ as a whole. CONTEMPORARY DANCE (ALL STUDENTS) Begin to develop physical freedom as well as co-ordination, rhythm, timing and stage presence through focussed skills work as well as set choreography. INTRODUCTION TO ACTING (DRAMA SPECIALISM) Engage with the craft of acting by studying and applying the techniques developed by practitioners, such as Stanislavski and Brecht, to verbatim studies, monologue work, duologue work, group scenes and short plays. SCRIPT STUDY AND WRITING SKILLS (DRAMA SPECIALISM) Explore various theatrical forms through the study and analysis of individual plays, and discover some fundamental techniques an actor can use to make a text more accessible in terms of character choices and overall storytelling. DANCE (DRAMA SPECIALISM) Learn and practice specific techniques across various styles of dance and work to develop precision, dynamism and confidence in the performance of choreographic phrases and short pieces.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject..  AUDITION REQUIREMENTS\nStudents can audition with one performance piece of their choosing, but are welcome to submit more than one piece if they feel it better represents them. Music students, please submit an audition piece on their primary instrument (including voice) Acting students, please submit a monologue of their choice (fully memorised and performed in English) Musical Theatre students can submit a song from Musical Theatre repertoire and/or a monologue of their choice (fully memorised and performed in English)"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject..  AUDITION REQUIREMENTS\nStudents can audition with one performance piece of their choosing, but are welcome to submit more than one piece if they feel it better represents them. Music students, please submit an audition piece on their primary instrument (including voice) Acting students, please submit a monologue of their choice (fully memorised and performed in English) Musical Theatre students can submit a song from Musical Theatre repertoire and/or a monologue of their choice (fully memorised and performed in English)"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Extended Diploma in Performing Arts (Music)",
+      "field_of_study": "Foundation in Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject..  AUDITION REQUIREMENTS\nStudents can audition with one performance piece of their choosing, but are welcome to submit more than one piece if they feel it better represents them. Music students, please submit an audition piece on their primary instrument (including voice) Acting students, please submit a monologue of their choice (fully memorised and performed in English) Musical Theatre students can submit a song from Musical Theatre repertoire and/or a monologue of their choice (fully memorised and performed in English)",
+        "O-Level": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject..  AUDITION REQUIREMENTS\nStudents can audition with one performance piece of their choosing, but are welcome to submit more than one piece if they feel it better represents them. Music students, please submit an audition piece on their primary instrument (including voice) Acting students, please submit a monologue of their choice (fully memorised and performed in English) Musical Theatre students can submit a song from Musical Theatre repertoire and/or a monologue of their choice (fully memorised and performed in English)"
+      },
+      "english_requirements": {
+        "IELTS": "4.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 174326
+      },
+      "course_content": {
+        "core": "DEVELOPMENTAL PLAY (ALL STUDENTS) Develop a strong, positive group dynamic and a spirit of freedom and possibility in the work through theatre games, trust exercises, and the exploration of improvisation techniques. DRAMA SKILLS (ALL STUDENTS) Explore the fundamentals of drama and basic performance work, as well as effective communication skills, through tableau and transition, mime, structured improvised scenes, puppetry, mask work, introductory stagecraft, and devising. MUSIC APPRECIATION (ALL STUDENTS) Broaden your musical horizons by engaging with different musical forms from different periods of musical history. WORLD MUSIC (ALL STUDENTS) Examine different styles of music from around the world within the context of the cultures from which they emerged, and consider their impact and influence on the ‘world of music’ as a whole. CONTEMPORARY DANCE (ALL STUDENTS) Begin to develop physical freedom as well as co-ordination, rhythm, timing and stage presence through focussed skills work as well as set choreography. MUSIC THEORY (MUSIC SPECIALISM) Deepen your understanding of the theoretical aspects of music through classes that are tailored to your personal level of knowledge. AURAL SKILLS (MUSIC SPECIALISM) Learn skills of musicianship, including ear training, sight-reading and music dictation. COMPOSITION (MUSIC SPECIALISM) Delve into the rudimentary aspects of musical composition and begin to apply this knowledge to the crafting of your own musical pieces. RECORDING (MUSIC SPECIALISM) Develop basic proficiency with the software and begin to apply the techniques involved in recording, mixing and producing music.",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject..  AUDITION REQUIREMENTS\nStudents can audition with one performance piece of their choosing, but are welcome to submit more than one piece if they feel it better represents them. Music students, please submit an audition piece on their primary instrument (including voice) Acting students, please submit a monologue of their choice (fully memorised and performed in English) Musical Theatre students can submit a song from Musical Theatre repertoire and/or a monologue of their choice (fully memorised and performed in English)"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "3 GCSEs at grade 4 or C or equivalent, preferably in a relevant creative subject..  AUDITION REQUIREMENTS\nStudents can audition with one performance piece of their choosing, but are welcome to submit more than one piece if they feel it better represents them. Music students, please submit an audition piece on their primary instrument (including voice) Acting students, please submit a monologue of their choice (fully memorised and performed in English) Musical Theatre students can submit a song from Musical Theatre repertoire and/or a monologue of their choice (fully memorised and performed in English)"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Graduate Diploma in Art & Design",
+      "field_of_study": "Creative Arts",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Level 6 qualification (BA (Hons) degree or equivalent qualification).",
+        "Others": "Level 5 international qualification i.e. 3 Years Diploma from a University in China.",
+        "UEC": "Pass UEC with 3Cs.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required.",
+        "STPM": "Pass STPM with 3 Credits.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+      },
+      "english_requirements": {
+        "IELTS": "5.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 316943
+      },
+      "course_content": {
+        "core": "Stage 1 Study Block 1 Art and Design 1 Study Block 2 Art and Design 2",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "Level 6 qualification (BA (Hons) degree or equivalent qualification)."
+          }
+        ],
+        "Others": [
+          {
+            "type": "raw",
+            "text": "Level 5 international qualification i.e. 3 Years Diploma from a University in China."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass UEC with 3Cs.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "STPM Credits"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Pass STPM with 3 Credits.  1 GCSE or equivalent at grade 4 or C, preferably in a relevant creative subject. Good portfolio of work is required."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MA Visual Communication: Illustration & Animation",
+      "field_of_study": "Animation",
+      "location": "CSVPA, Cambridge",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Level 6 qualification (BA (Hons) degree or equivalent qualification).",
+        "Others": "Level 5 international qualification i.e. 3 Years Diploma from a University in China."
+      },
+      "english_requirements": {
+        "IELTS": "6.5"
+      },
+      "fees": {
+        "registration_fee": 2643,
+        "resource_fee": null,
+        "tuition_fee": 132073
+      },
+      "course_content": {
+        "core": "1st Semester\nIn your first semester you will be set a series of briefs designed to stimulate your creativity and help you develop the ingenuity and resilience that professional creative practice requires. You will begin to outline a self-directed project proposal, which will ultimately develop into your Independent Major Project. 1st Semester 2nd Semester\nYou will continue to develop your own creative practice, whilst addressing how artists and designers need to be engaged in forging the future of their respective fields. You will be given a chance to explore your ideas with students on other MA courses, and will also have the opportunity of a work placement. 2nd Semester 3rd Semester\nDuring this semester, all your attentions turn to the research, development and production of your Independent Major Project. The year ends with an exhibition showcase of your projects, celebrating the end of an intensive period of creative, conceptual, critical and professional development 3rd Semester Stage 1 Study Block 1 Visual Storytelling\nResearch Practice Visual Storytelling Research Practice Study Block 2 Visual Practice\nCreative Futures Visual Practice Creative Futures Study Block 3 Independent Major Project",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "Level 6 qualification (BA (Hons) degree or equivalent qualification)."
+          }
+        ],
+        "Others": [
+          {
+            "type": "raw",
+            "text": "Level 5 international qualification i.e. 3 Years Diploma from a University in China."
+          }
+        ]
+      }
+    }
+  ]
+}

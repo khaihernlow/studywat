@@ -1,0 +1,607 @@
+{
+  "institution_name": "Equator College",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": null,
+  "malaysia_rank": null,
+  "programs": [
+    {
+      "program_name": "Certificate in Art &Design",
+      "field_of_study": "Graphic Design",
+      "location": "Equator, Leith Street",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass SPM with 1 Credit.",
+        "O-Level": "Pass O-Level with 1 Grade C.",
+        "UEC": "Pass UEC with 1 Grade B."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 1700,
+        "tuition_fee": 13091
+      },
+      "course_content": {
+        "core": "Drawing I 2 Dimensional Studies Colour Studies Basic Photography Drawing II Basic Printmaking Basic Painting History of Art Illustration Techniques / Presentation Techniques Drawing III English Sketching Workshop Basic Computer Graphic 3 Dimensional Design Major Discipline Minor Discipline MPU 1, 2, 3 Beyond Classroom Experience",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "certificate",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Digital 3D Animation",
+      "field_of_study": "Animation",
+      "location": "Equator, Amoy Lane",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 8100,
+        "tuition_fee": 43090
+      },
+      "course_content": {
+        "core": "Drawing I 2 Dimensional Studies Colour Studies Basic Photography Sketching Workshop Basic Computer Graphic Illustration Techniques Major Discipline Minor Discipline Observational Drawing Conceptual Drawing Illustration I, II 3D Modeling I, II Photography 2D Animation Storyboarding 3D Animation I, II Interactive Design Sculpture Modeling Facial Animation Motion Graphic Sound & Video Editing 3D Modeling & Animation History of Art History of Design Final Year Project I Final Year Project II Marketing & Management English for Designer English for Business Communication MPU 1, 2, 3, 4 Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": "<=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Architectural Technology",
+      "field_of_study": "Architecture",
+      "location": "Equator, Amoy Lane",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects including Mathematics.  Additional Requirements\nPass Portfolio test",
+        "O-Level": "Grade C in 3 relevant subjects including Mathematics.  Additional Requirements\nPass Portfolio test",
+        "UEC": "Grade B in 3 relevant subjects including Mathematics.  Additional Requirements\nPass Portfolio test"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 8100,
+        "tuition_fee": 44499
+      },
+      "course_content": {
+        "core": "Drawing 2 Dimensional Design Colour Studies Basic Photography Sketching Workshop Basic Computer Graphic Presentation Techniques Major Discipline: Intro to Architectural Drafting Minor Discipline: Elective Principles of Design Architectural Design I Architectural Design II Architectural Design III Architectural Design IV Measured Drawing Computer Aided Design & Drafting I Computer Aided Design & Drafting II Computer Aided Design & Drafting III Computer Aided Design & Drafting IV Architectural Computer Visualization Green Design & Sustainability Architectural Communication I Architectural Communication II History of Art History of Architecture Building Technology Building Materials Building By Law Building Services Building Structure Site Supervision Site & Environmental Studies Project Management Professional Practise Project Report English for Designer English for Business Communication MPU 1, 2, 3, 4 Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects including Mathematics.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects including Mathematics.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects including Mathematics.  Additional Requirements\nPass Portfolio test"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Fine Art",
+      "field_of_study": "Creative Arts",
+      "location": "Equator, Leith Street",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 8100,
+        "tuition_fee": 40560
+      },
+      "course_content": {
+        "core": "Drawing I 2 Dimensional Studies Colour Studies Basic Photography Sketching Workshop Basic Computer Graphic Illustration Techniques Major Discipline Minor Discipline Illustration I Painting I, II, III Photography Drawing Media I, II, III History of Art Final Year Project I Final Year Project II Aesthetics Art Dialogue Research & Report English for Designer MPU 1, 2, 3, 4 Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Fashion Design Technology",
+      "field_of_study": "Fashion Design",
+      "location": "Equator, Leith Street",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test",
+        "UEC": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 8100,
+        "tuition_fee": 41320
+      },
+      "course_content": {
+        "core": "Drawing Colour Studies Basic Photography Basic Computer Graphic Illustration Techniques Major Discipline Minor Discipline Detail Sewing Techniques Digital Fashion Illustration I, II Pattern Technology & Construction Garment Technology I, II, III Visual Merchandising Fashion Studies I, II, III, IV History of Art History of Costume Pattern Development & Construction I, II Textile Design & Textile Science Digital Pattern Making & Grading Fashion Styling & Photography Professional Practice & Entrepreneurship Apparel Management & Production Marketing & Management English for Designer English for Business Communication MPU 1, 2, 3, 4 Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3Bs.  Additional Requirements\nPass Portfolio test"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Graphic & Multimedia Design",
+      "field_of_study": "Graphic Design",
+      "location": "Equator, Amoy Lane",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test",
+        "O-Level": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 8100,
+        "tuition_fee": 38320
+      },
+      "course_content": {
+        "core": "Drawing 2 Dimensional Design Colour Studies Basic Photography Sketching Workshop Basic Computer Graphic Illustration Techniques Major Discipline Minor Discipline Conceptual Drawing Visual Communication Illustration I, II Editorial Design Photography Packaging Design Information Design Promotional Design Interactive Design 3D Computer Graphic I, II Motion Graphic Sound & Video Editing History of Art History of Design Final Year Project I, II Project Report Marketing & Management English for Designer English for Business Communication MPU 1, 2, 3, 4 Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 3 credits.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Diploma in Interior Design",
+      "field_of_study": "Interior Design",
+      "location": "Equator, Amoy Lane",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "SPM": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test",
+        "O-Level": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test",
+        "UEC": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test"
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 8100,
+        "tuition_fee": 42295
+      },
+      "course_content": {
+        "core": "Drawing 2 Dimensional Design Colour Studies Basic Photography Sketching Workshop Basic Computer Graphic Presentation Technique Major Discipline: Intro to Interior Design Minor Discipline: Elective Principles of Design Interior Design I Interior Design II Interior Design III Interior Design IV Furniture Design I Furniture Design II Furniture Design III Spatial Design Computer Aided Design & Drafting I Computer Aided Design & Drafting II Computer Aided Design & Drafting III Computer Aided Design & Drafting IV History of Art History of Architecture Building Construction Building Materials Building By Law Building Services Architectural Renovation Green Design & Sustainability Project Management Professional Practise & Entrepreneurship English for Designer English for Business Communication MPU 1, 2, 3, 4 Internship",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "diploma",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade C in 3 relevant subjects.  Additional Requirements\nPass Portfolio test"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Grade B in 3 relevant subjects.  Additional Requirements\nPass Portfolio test"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Design",
+      "field_of_study": "Foundation in Arts",
+      "location": "Equator, Amoy Lane",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Pass with at least 5 credits.",
+        "O-Level": "Pass with at least 5 Grade C.",
+        "UEC": "Pass with at least 5 Grade B."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 200,
+        "resource_fee": 2300,
+        "tuition_fee": 15000
+      },
+      "course_content": {
+        "core": "Drawing I 2 Dimensional Design Colour Studies Basic Photography History of Art Illustration Technique English I Sketching Workshop Basic Computer Graphic 3 Dimensional Design Technical Drawing One major and one minor from the following subjects Introduction to Graphic Design Introduction to Interior Design Introduction to Architecture Design Introduction to Fashion Design Introduction to Fine Art Introduction to Animation Drawing II Basic Printmaking Mathematics English II",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 credits."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 Grade C."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "Pass with at least 5 Grade B."
+          }
+        ]
+      }
+    }
+  ]
+}

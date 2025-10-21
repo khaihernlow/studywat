@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 1301,
   "malaysia_rank": 8,
+  "institution_images": [
+    "https://www.monash.edu.my/__data/assets/image/0004/3204454/monash-entrance.jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Medical Bioscience",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -170,11 +173,12 @@
             "text": "ATAR 75 including one of Biology, Chemistry or Higher Level Mathematics and English."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "Bachelor of Science (various majors)",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -272,11 +276,12 @@
             "text": "ATAR 80. At least one of Biology, Chemistry, Environmental Science, Geography, Physics, Psychology or Mathematics at a higher level (Australian Year 12 equivalent)."
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Bachelor of Business and Commerce",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -374,11 +379,12 @@
             "text": "ATAR 70.  Mathematics in SPM or O-Level is a prerequisite"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Business and Commerce and Bachelor of Computer Science",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -542,11 +548,12 @@
             "text": "ATAR 80. Higher level Mathematics (Australian Year 12 equivalent) is a formal prerequisite."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Business and Commerce and Bachelor of Digital Media and Communication",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -622,11 +629,12 @@
             "text": "ATAR 70.  Mathematics in SPM or O-Level is a prerequisite"
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Digital Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -751,11 +759,12 @@
             "text": "ATAR 75 including Mathematics."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Bachelor of Chemical Engineering (Honours)",
-      "field_of_study": "Chemical Engineering",
+      "field_of_study": "Engineering",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -829,11 +838,12 @@
             "text": "ATAR 85 including Mathematics and at least one of Chemistry or Physics."
           }
         ]
-      }
+      },
+      "course": "Chemical Engineering"
     },
     {
       "program_name": "Bachelor of Civil Engineering (Honours)",
-      "field_of_study": "Civil Engineering",
+      "field_of_study": "Engineering",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -1006,11 +1016,12 @@
             "text": "ATAR 85. Mathematics (Australian Higher Year 12 equivalent) and at least one of Chemistry or Physics (Australian Year 12 equivalent)."
           }
         ]
-      }
+      },
+      "course": "Civil Engineering"
     },
     {
       "program_name": "Bachelor of Digital Media and Communication",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -1108,11 +1119,12 @@
             "text": "ATAR 70."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Computer Science in Data Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -1195,11 +1207,12 @@
             "text": "ATAR 80 including Mathematics.  SPM-level or equivalent:\nCredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Applied Data Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -1274,11 +1287,12 @@
             "text": "ATAR 80 including higher level Mathematics."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Computer Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -1361,11 +1375,12 @@
             "text": "ATAR 80 including Mathematics.  SPM-level or equivalent:\ncredit in Additional Mathematics"
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Bachelor of Electrical and Computer Systems Engineering (Honours)",
-      "field_of_study": "Computer Systems Engineering",
+      "field_of_study": "Engineering",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -1551,11 +1566,12 @@
             "text": "ATAR 85. Mathematics (Australian Higher Year 12 equivalent) and at least one of Chemistry or Physics (Australian Year 12 equivalent)."
           }
         ]
-      }
+      },
+      "course": "Computer Systems Engineering"
     },
     {
       "program_name": "Bachelor of Food Science and Technology",
-      "field_of_study": "Food Science",
+      "field_of_study": "Science and Mathematics",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -1708,11 +1724,12 @@
             "text": "ATAR 75. One of Biology, Chemistry or Higher Level Mathematics (Australian Year 12 or equivalent or higher) and English."
           }
         ]
-      }
+      },
+      "course": "Food Science"
     },
     {
       "program_name": "Bachelor of Mechanical Engineering (Honours)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -1860,11 +1877,12 @@
             "text": "ATAR 85. Mathematics (Australian Higher Year 12 equivalent) and at least one of Chemistry or Physics (Australian Year 12 equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Materials Engineering (Honours)",
-      "field_of_study": "Mechanical Engineering",
+      "field_of_study": "Engineering",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -2032,11 +2050,12 @@
             "text": "ATAR 85 including Mathematics and at least one of Chemistry or Physics."
           }
         ]
-      }
+      },
+      "course": "Mechanical Engineering"
     },
     {
       "program_name": "Bachelor of Robotics and Mechatronics Engineering (Honours)",
-      "field_of_study": "Mechatronics Engineering",
+      "field_of_study": "Engineering",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -2189,11 +2208,12 @@
             "text": "ATAR 85. Mathematics (Australian Higher Year 12 equivalent) and at least one of Chemistry or Physics (Australian Year 12 equivalent)."
           }
         ]
-      }
+      },
+      "course": "Mechatronics Engineering"
     },
     {
       "program_name": "Bachelor of Medical Science and Doctor of Medicine",
-      "field_of_study": "Medicine",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb"
@@ -2292,11 +2312,12 @@
             "text": "ATAR 95. Biology, Chemistry and a third subject which can be either Physics or Math.  At Year 11 (SPM or O Levels or its equivalent) students must have achieved a minimum of “B” in Biology, Chemistry, Physics, Maths/Add Maths and one other subject.\nYou're required to undertake the International Student Admissions Test (ISAT).\nAdequate performance in Multiple Mini-Interviews"
           }
         ]
-      }
+      },
+      "course": "Medicine"
     },
     {
       "program_name": "Bachelor of Human Nutrition",
-      "field_of_study": "Nutrition",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -2391,11 +2412,12 @@
             "text": "ATAR 75 including two of the following subjects: Biology, Chemistry, or Higher level Mathematics/Physics.."
           }
         ]
-      }
+      },
+      "course": "Nutrition"
     },
     {
       "program_name": "Bachelor of Pharmaceutical Science",
-      "field_of_study": "Pharmaceutical Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb"
@@ -2462,11 +2484,12 @@
             "text": "ATAR 82.5. Chemistry and Higher level mathematics (Australian Year 12 equivalent) are Monash University’s formal prerequisites.."
           }
         ]
-      }
+      },
+      "course": "Pharmaceutical Science"
     },
     {
       "program_name": "Bachelor of Pharmacy (Honours)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb"
@@ -2600,11 +2623,12 @@
             "text": "ATAR 90 including Chemistry, Biology, and Higher level Mathematics.  Submit a declaration form on personal conduct and professional competencies\nPass an aptitude test and/or an interview and/or university entrance examination\nMalaysian students must obtain at least a C grade in Bahasa Melayu (Malay language) and English in the Sijil Pelajaran Malaysia (SPM), or equivalent before enrolling into the course."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Bachelor of Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -2690,11 +2714,12 @@
             "text": "ATAR 75.  A Credit average in Mathematics (Australian Year 11 equivalent) OR a Pass average in Mathematics (Australian Year 12 equivalent).\nA Credit average in one of Biology, Chemistry, Physics, General Science or Applied Science (all Australian Year 11 equivalent) OR a Pass average in one of Biology, Chemistry, Physics, General Science or Applied Science (all Australian Year 12 equivalent)."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Psychology and Business",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -2780,11 +2805,12 @@
             "text": "ATAR 70.  Mathematics in SPM or O-Level\nA Credit in one of Biology, Chemistry or Physics in SPM or O-Level OR a Pass in one of Biology, Chemistry or Physics in Year 12 qualification."
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Arts and Social Sciences",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -2882,11 +2908,12 @@
             "text": "ATAR 70."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     },
     {
       "program_name": "Bachelor of Software Engineering (Honours)",
-      "field_of_study": "Software Engineering",
+      "field_of_study": "Computing and IT",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -2961,11 +2988,12 @@
             "text": "ATAR 85. Mathematics (Australian Higher Year 12 equivalent) and at least one of Chemistry or Physics (Australian Year 12 equivalent)."
           }
         ]
-      }
+      },
+      "course": "Software Engineering"
     },
     {
       "program_name": "Diploma of Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -3102,11 +3130,12 @@
             "text": "2 Grade C's."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Diploma of Higher Education Studies (Non-science stream)",
-      "field_of_study": "Monash University Foundation Year (MUFY)",
+      "field_of_study": "International Pre-University",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -3192,11 +3221,12 @@
             "text": "ATAR 65.  Mathematics in SPM or O-Level is a prerequisite"
           }
         ]
-      }
+      },
+      "course": "Monash University Foundation Year (MUFY)"
     },
     {
       "program_name": "Diploma of Higher Education Studies (Science stream)",
-      "field_of_study": "Monash University Foundation Year (MUFY)",
+      "field_of_study": "International Pre-University",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -3282,11 +3312,12 @@
             "text": "ATAR 65.  Science : one of Biology, Chemistry, Environmental Science, Geography, Physics, Psychology or Higher Level Mathematics (Australian Year 12 equivalent).\nInformation technology : Mathematics (Australian Year 12 Higher Level equivalent)"
           }
         ]
-      }
+      },
+      "course": "Monash University Foundation Year (MUFY)"
     },
     {
       "program_name": "Postgraduate Diploma in Business and Commerce",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jul"
@@ -3315,11 +3346,12 @@
             "text": "An Australian undergraduate degree (or equivalent) with a distinction (70%) average or above in 24 points of studies at level three in the relevant area of business."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Master of Biomedical Science",
-      "field_of_study": "Biomedical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -3370,11 +3402,12 @@
             "text": "Master’s degree in a related discipline, including a significant research component, at least equivalent to an Australian honours degree. It is expected that at a minimum, a grade of upper 2B (with an overall mark of 65 or above) has been obtained for the research thesis."
           }
         ]
-      }
+      },
+      "course": "Biomedical Sciences"
     },
     {
       "program_name": "Master of Biotechnology",
-      "field_of_study": "Biotechnology",
+      "field_of_study": "Science and Mathematics",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -3404,11 +3437,12 @@
             "text": "An Australian bachelor degree (or equivalent) in a relevant area of study with at least a credit (60%) average.."
           }
         ]
-      }
+      },
+      "course": "Biotechnology"
     },
     {
       "program_name": "Master of Digital Business",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -3484,11 +3518,12 @@
             "text": "An Australian bachelor degree, or an equivalent qualification, in a cognate discipline with at least a credit of (60&) average or GPA as determinedd by the university, plus a minimum of three years of relevant work experience subject to the School's Approval OR An Australian bachelor degree, or an equivalent qualification, in a cognate discipline plus a minimum of five years of relevant work experience subject to the School's Approval."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Master of Philosophy (Business)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -3543,11 +3578,12 @@
             "text": "A master’s degree in a related discipline, including a significant research component, at least equivalent to an Australian honours degree (a full-time year of research and an examined thesis)."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Master of Communications and Media Studies",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb"
@@ -3576,11 +3612,12 @@
             "text": "An Australian bachelor degree (or equivalent) in a cognate* discipline with at least credit (60%) average. or An Australian bachelor degree (or equivalent) and an Australian graduate certificate (or equivalent) in a cognate* discipline with at least 50% average in both qualifications.."
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Master of Data Science",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -3622,11 +3659,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "Master of Professional Counselling",
-      "field_of_study": "Counselling",
+      "field_of_study": "Language and Social Studies",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -3659,11 +3697,12 @@
             "text": "An Australian undergraduate degree with at least a WAM of 60 or any other qualification deemed equivalent by the University.  Provide your latest CV\nProvide two academic referee reports and\nPass an interview that consist of a multi-station assessment process"
           }
         ]
-      }
+      },
+      "course": "Counselling"
     },
     {
       "program_name": "Master of Engineering Science (Research)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -3712,11 +3751,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Master of Applied Engineering",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -3755,11 +3795,12 @@
             "text": "-An Australian bachelor honours degree, or equivalent, in the engineering discipline. -A minimum WAM 60 or equivalent.."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Master of Science (Research)",
-      "field_of_study": "General Sciences (Postgraduate)",
+      "field_of_study": "Science and Mathematics",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -3806,11 +3847,12 @@
             "text": "master’s degree in a relevant field that entails work, normally including a significant research component, at least equivalent to an honours degree (a ‘significant research component’ in a master’s degree will vary from discipline to discipline). It is normally expected that at a minimum, a grade of upper 2B (with an overall mark of at least 65 or above) has been obtained for the research thesis or project. Where ungraded, examiners’ reports will be taken into account."
           }
         ]
-      }
+      },
+      "course": "General Sciences (Postgraduate)"
     },
     {
       "program_name": "Master of Business Information Systems",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -3840,11 +3882,12 @@
             "text": "An Australian bachelor degree, not necessarily in IT, with a minimum Weighted Average Mark (WAM) of 60 or equivalent qualification approved by the faculty.."
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Master of Philosophy (Information Technology)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -3884,11 +3927,12 @@
             "text": "A bachelor’s degree with honours class 1 or 2A."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of Artificial Intelligence",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -3921,11 +3965,12 @@
             "text": "An Australian bachelor degree (or equivalent), not necessarily in IT, with a minimum WAM 60.."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Master of International Business",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -3978,11 +4023,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "Master of Pharmaceutical Science",
-      "field_of_study": "Pharmaceutical Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -4030,11 +4076,12 @@
             "text": "An Australian bachelor's degree (or equivalent) in pharmacy or science or biomedical science or engineering (in an appropriate discipline e.g. pharmaceutical, chemical, biomedical or materials) with at least a credit (60%) average."
           }
         ]
-      }
+      },
+      "course": "Pharmaceutical Science"
     },
     {
       "program_name": "Master of Pharmaceutical Science",
-      "field_of_study": "Pharmaceutical Science",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Feb",
@@ -4064,11 +4111,12 @@
             "text": "An Australian bachelor's degree (or equivalent) in pharmacy or science or biomedical science or engineering (in an appropriate discipline e.g. pharmaceutical, chemical, biomedical or materials) with at least a credit (60%) average.."
           }
         ]
-      }
+      },
+      "course": "Pharmaceutical Science"
     },
     {
       "program_name": "Doctor of Philosophy (PhD) (Business)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -4119,11 +4167,12 @@
             "text": "-A master’s degree that entails work, normally including a significant research component, including at least 25% of one full-time equivalent year of work, including a thesis. It is normally expected that a grade of honours 2A has been obtained for the research thesis or project.Where ungraded, examiner’s reports will be taken into account -Have qualifications which in the opinion of the Graduate Research Committee and Monash Graduate Research Office are deemed equivalent.."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "Doctor of Philosophy (PhD) (Engineering)",
-      "field_of_study": "General Engineering and Technology",
+      "field_of_study": "Engineering",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -4170,11 +4219,12 @@
             "text": "-A master’s degree that entails work, normally including a significant research component, including at least 25% of one full-time equivalent year of work, including a thesis. It is normally expected that a grade of honours 2A has been obtained for the research thesis or project.Where ungraded, examiner’s reports will be taken into account -Have qualifications which in the opinion of the Graduate Research Committee and Monash Graduate Research Office are deemed equivalent.."
           }
         ]
-      }
+      },
+      "course": "General Engineering and Technology"
     },
     {
       "program_name": "Doctor of Philosophy (PhD) (Science)",
-      "field_of_study": "General Sciences (Postgraduate)",
+      "field_of_study": "Science and Mathematics",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -4221,11 +4271,12 @@
             "text": "-A master’s degree that entails work, normally including a significant research component, including at least 25% of one full-time equivalent year of work, including a thesis. It is normally expected that a grade of honours 2A has been obtained for the research thesis or project.Where ungraded, examiner’s reports will be taken into account -Have qualifications which in the opinion of the Graduate Research Committee and Monash Graduate Research Office are deemed equivalent.."
           }
         ]
-      }
+      },
+      "course": "General Sciences (Postgraduate)"
     },
     {
       "program_name": "Doctor of Philosophy (PhD) (Information Technology)",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -4286,11 +4337,12 @@
             "text": "-A master’s degree that entails work, normally including a significant research component, including at least 25% of one full-time equivalent year of work, including a thesis. It is normally expected that a grade of honours 2A has been obtained for the research thesis or project.Where ungraded, examiner’s reports will be taken into account -Have qualifications which in the opinion of the Graduate Research Committee and Monash Graduate Research Office are deemed equivalent.."
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     },
     {
       "program_name": "Doctor of Philosophy (PhD) (Medicine and Health Sciences)",
-      "field_of_study": "Medical Sciences",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -4337,11 +4389,12 @@
             "text": "-A master’s degree that entails work, normally including a significant research component, including at least 25% of one full-time equivalent year of work, including a thesis. It is normally expected that a grade of honours 2A has been obtained for the research thesis or project.Where ungraded, examiner’s reports will be taken into account -Have qualifications which in the opinion of the Graduate Research Committee and Monash Graduate Research Office are deemed equivalent.."
           }
         ]
-      }
+      },
+      "course": "Medical Sciences"
     },
     {
       "program_name": "Doctor of Philosophy (Pharmacy)",
-      "field_of_study": "Pharmacy",
+      "field_of_study": "Medicine and Allied Health Sciences",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -4388,11 +4441,12 @@
             "text": "-A master’s degree that entails work, normally including a significant research component, including at least 25% of one full-time equivalent year of work, including a thesis. It is normally expected that a grade of honours 2A has been obtained for the research thesis or project.Where ungraded, examiner’s reports will be taken into account -Have qualifications which in the opinion of the Graduate Research Committee and Monash Graduate Research Office are deemed equivalent.."
           }
         ]
-      }
+      },
+      "course": "Pharmacy"
     },
     {
       "program_name": "Doctor of Philosophy (PhD) (Arts and Social Sciences)",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "Monash, Bandar Sunway",
       "intakes": [
         "Jan",
@@ -4439,7 +4493,8 @@
             "text": "-A master’s degree that entails work, normally including a significant research component, including at least 25% of one full-time equivalent year of work, including a thesis. It is normally expected that a grade of honours 2A has been obtained for the research thesis or project.Where ungraded, examiner’s reports will be taken into account -Have qualifications which in the opinion of the Graduate Research Committee and Monash Graduate Research Office are deemed equivalent.."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     }
   ]
 }

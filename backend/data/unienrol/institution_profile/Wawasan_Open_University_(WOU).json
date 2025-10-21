@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": 10279,
   "malaysia_rank": 71,
+  "institution_images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8e/Wawasan_open_university.jpg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Business (Hons) in Accounting",
-      "field_of_study": "Accounting",
+      "field_of_study": "Accounting and Finance",
       "location": "WOU, Georgetown",
       "intakes": [
         "Jan",
@@ -90,11 +93,12 @@
             "text": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
           }
         ]
-      }
+      },
+      "course": "Accounting"
     },
     {
       "program_name": "Bachelor of Business (Hons) in Banking and Finance",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "WOU, Georgetown",
       "intakes": [
         "Jan",
@@ -219,11 +223,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "Bachelor of Business (Hons) (Corporate Administration)",
-      "field_of_study": "Business Administration",
+      "field_of_study": "Business",
       "location": "WOU, Georgetown",
       "intakes": [
         "Jan",
@@ -306,11 +311,12 @@
             "text": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
           }
         ]
-      }
+      },
+      "course": "Business Administration"
     },
     {
       "program_name": "Bachelor of Arts (Hons) in English Studies",
-      "field_of_study": "English",
+      "field_of_study": "Language and Social Studies",
       "location": "WOU, Georgetown",
       "intakes": [
         "Jan",
@@ -428,11 +434,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in English"
           }
         ]
-      }
+      },
+      "course": "English"
     },
     {
       "program_name": "Bachelor of Business (Hons) in Entrepreneurship and Small Business Management",
-      "field_of_study": "Entrepreneurship",
+      "field_of_study": "Business",
       "location": "WOU, Georgetown",
       "intakes": [
         "Jan",
@@ -582,11 +589,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\npass in Mathematics, English"
           }
         ]
-      }
+      },
+      "course": "Entrepreneurship"
     },
     {
       "program_name": "Bachelor of Business (Hons) in Human Resource Management",
-      "field_of_study": "Human Resource Management",
+      "field_of_study": "Business",
       "location": "WOU, Georgetown",
       "intakes": [
         "Jan",
@@ -750,11 +758,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Human Resource Management"
     },
     {
       "program_name": "Bachelor of Business (Hons) in Business Information Systems",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "WOU, Georgetown",
       "intakes": [
         "Jan",
@@ -904,11 +913,12 @@
             "text": "Please contact our counsellors for further details.  SPM-level or equivalent:\ncredit in Mathematics"
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "Bachelor of Business (Hons) in Logistics and Supply Chain Management",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "WOU, Georgetown",
       "intakes": [
         "Jan",
@@ -1058,11 +1068,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "Bachelor of Arts (Hons) in Psychology",
-      "field_of_study": "Psychology",
+      "field_of_study": "Language and Social Studies",
       "location": "WOU, Georgetown",
       "intakes": [
         "Feb",
@@ -1260,11 +1271,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Psychology"
     },
     {
       "program_name": "Bachelor of Arts (Hons) in Liberal Studies",
-      "field_of_study": "Social Sciences",
+      "field_of_study": "Language and Social Studies",
       "location": "WOU, Georgetown",
       "intakes": [
         "Jan",
@@ -1340,7 +1352,8 @@
             "text": "Grade C (SGP 2.0) in at least two (2) subjects / two (2) Principals."
           }
         ]
-      }
+      },
+      "course": "Social Sciences"
     }
   ]
 }

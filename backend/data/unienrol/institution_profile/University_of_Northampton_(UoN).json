@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 3956,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://www.northampton.ac.uk/wp-content/uploads/2024/04/creative-hub-exterior.jpg"
+  ],
   "programs": [
     {
       "program_name": "BA (Hons) International Banking & Finance [MCKL Diploma Pathway]",
-      "field_of_study": "Banking and Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Waterside Campus",
       "intakes": [
         "Sep"
@@ -37,11 +40,12 @@
             "value": 3.0
           }
         ]
-      }
+      },
+      "course": "Banking and Finance"
     },
     {
       "program_name": "BA (Hons) Global Business Management [MCKL Diploma Pathway]",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Waterside Campus",
       "intakes": [
         "Sep"
@@ -75,11 +79,12 @@
             "text": "MCKL diploma pathway with minimum CGPA 3.00."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc (Hons) Computer Science [MCKL Diploma Pathway]",
-      "field_of_study": "Computer Science",
+      "field_of_study": "Computing and IT",
       "location": "Waterside Campus",
       "intakes": [
         "Sep"
@@ -113,11 +118,12 @@
             "text": "MCKL Diploma in Computer Science with the required minimum CGPA of 3.0."
           }
         ]
-      }
+      },
+      "course": "Computer Science"
     },
     {
       "program_name": "BA (Hons) Early Childhood Studies [MCKL Diploma Pathway]",
-      "field_of_study": "Early Childhood Education",
+      "field_of_study": "Education",
       "location": "Waterside Campus",
       "intakes": [
         "Sep"
@@ -151,11 +157,12 @@
             "value": 2.7
           }
         ]
-      }
+      },
+      "course": "Early Childhood Education"
     },
     {
       "program_name": "BA (Hons) International Finance [MCKL Diploma Pathway]",
-      "field_of_study": "Finance",
+      "field_of_study": "Accounting and Finance",
       "location": "Waterside Campus",
       "intakes": [
         "Sep"
@@ -189,11 +196,12 @@
             "text": "MCKL diploma pathway with minimum CGPA 3.00."
           }
         ]
-      }
+      },
+      "course": "Finance"
     },
     {
       "program_name": "BSc (Hons) Information System [MCKL Diploma Pathway]",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "Waterside Campus",
       "intakes": [
         "Sep"
@@ -223,11 +231,12 @@
             "value": 3.0
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "BA (Hons) Business Data & Information Systems [MCKL Diploma Pathway]",
-      "field_of_study": "Information Systems",
+      "field_of_study": "Computing and IT",
       "location": "Waterside Campus",
       "intakes": [
         "Sep"
@@ -257,11 +266,12 @@
             "value": 3.0
           }
         ]
-      }
+      },
+      "course": "Information Systems"
     },
     {
       "program_name": "BA (Hons) Commerce & International Business [MCKL Diploma Pathway]",
-      "field_of_study": "International Business",
+      "field_of_study": "Business",
       "location": "Waterside Campus",
       "intakes": [
         "Sep"
@@ -291,11 +301,12 @@
             "value": 3.0
           }
         ]
-      }
+      },
+      "course": "International Business"
     },
     {
       "program_name": "BA (Hons) Advertising & Digital Marketing [MCKL Diploma Pathway]",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Waterside Campus",
       "intakes": [
         "Sep"
@@ -325,7 +336,8 @@
             "value": 3.0
           }
         ]
-      }
+      },
+      "course": "Marketing"
     }
   ]
 }

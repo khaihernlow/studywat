@@ -1,0 +1,4917 @@
+{
+  "institution_name": "Heriot-Watt University Malaysia",
+  "institution_country": "Malaysia",
+  "institution_type": "Private",
+  "world_rank": 6007,
+  "malaysia_rank": 43,
+  "programs": [
+    {
+      "program_name": "MA (Hons) Accounting and Business Finance",
+      "field_of_study": "Accounting and Finance",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "A-Level": "DDD.  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "UEC": "Maximum 30 points (5 subjects not less than B grade).  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "Diploma": "Minimum CGPA 2.5.  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "STPM": "C+C+.  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "Foundation": "[Matriculation/Foundation] Minimum CGPA 2.5 [HWU MY Foundation in Business/Science] Grade C average.  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "CPU": "50% (average score based on 6 best relevant subjects including English).  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "IB Diploma": "24 points excluding Theory of knowledge and Extended Essay.  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "SACE/WACE": "ATAR 50.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 114450
+      },
+      "course_content": {
+        "core": "Year 1 \nMandatory September\nIntroductory Economics\nFundamentals of Finance\nPrinciples of Accounting\nManagement in a Global Context\nMandatory January\nFinancial Markets Theory\nManagement Accounting in Organisations\nFinancial Accounting\nFinance and Financial Statistics\n\nYear 2 \nMandatory September\nManagement Accounting Techniques and Decisions\nIntermediate Financial Accounting\nOptional September\nCorporate Financial Theory\nIntroduction to Commercial Law\nMandatory January\nBusiness Research Methods\nOptional January\nBusiness Law and the Law of Corporate Governance\nTaxation in Malaysia\nAuditing and Assurance\nOptional May\nIndustrial Training\n\nYear 3 \nMandatory September\nAccounting and Finance Dissertation 1\nOptional September\nAgency Theory and Corporate Governance\nCase Studies in Financial Management\nManagerial Accounting: Decision Making\nMandatory January\nAccounting and Finance Dissertation 2\nOptional January\nContemporary Issues in Finance\nCorporate Reporting\nInternational Accounting Year 1 Mandatory September Mandatory January Year 2 Mandatory September Optional September Mandatory January Optional January Optional May Year 3 Mandatory September Optional September Mandatory January Optional January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "DDD.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<=",
+            "value": 30.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Maximum 30 points (5 subjects not less than B grade).  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.5.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "C+C+.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] Minimum CGPA 2.5 [HWU MY Foundation in Business/Science] Grade C average.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 50.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "50% (average score based on 6 best relevant subjects including English).  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 24.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "24 points excluding Theory of knowledge and Extended Essay.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 50.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 50.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Actuarial Science",
+      "field_of_study": "Actuarial Science",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "A-Level": "ABB including A in Mathematics.",
+        "UEC": "8 points including A1 in Mathematics and Advanced Mathematics, A2 in English (5 subjects not less than B grade).",
+        "Diploma": "Diploma with CGPA 3.5 (further assessment is required).",
+        "STPM": "ABB including A in Mathematics.",
+        "Foundation": "[Matriculation/Foundation] CGPA 3.5 (further assessment is required) [HWU MY Foundation in Business/Science] Grade C average including A in Mathematics and C in English.",
+        "IB Diploma": "28 points with 6 in HL AA Mathematics (HL Analysis and Approaches Mathematics).",
+        "SACE/WACE": "[WACE] 90 including 80% in Mathematics Method / Specialist [SACE] 90% including 17 in Mathematics Method / Specialist."
+      },
+      "english_requirements": {
+        "MUET": "Band 5",
+        "IELTS": "Overall 6.5",
+        "TOEFL": "90"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 131760
+      },
+      "course_content": {
+        "core": "YEAR 1\nMandatory (September)\nMultivariable Calculus and Real Analysis A\nLinear Algebra\nActuarial and Financial Mathematics A\nAlgorithmic and Scientific Programming\nProbability and Statistics A\nMandatory (January)\nMultivariable Calculus and Real Analysis B\nActuarial and Financial Mathematics B\nProbability and Statistics B\nOptional (January)\nFinance and Financial Reporting\nDatabase Management Systems YEAR 1 Mandatory (September) Mandatory (January) Optional (January) YEAR 2\nOptional (September)\nLife Insurance Mathematics A\nStatistical Models A\nPortfolio Theory and Asset Models\nStochastic Processes\nOptional (January)\nLife Insurance Mathematics B\nDerivative Markets and Discrete Time Finance\nStatistical Models B\nSurvival Models YEAR 2 Optional (September) Optional (January) YEAR 3 \nOptional (September)\nIntroductory Economics\nOptimisation\nStatistical Machine Learning\nContinuous-Time Finance\nPensions\nPortfolio Theory and Asset Models\nFurther Statistical Methods\nOptional (January)\nLife Office Practice\nRisk Theory\nTime Series\nRisk Management: Techniques and Tools\nBayesian Inference & Computational Methods YEAR 3 Optional (September) Optional (January)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "raw",
+            "text": "ABB including A in Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Advanced Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A1"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A2"
+          },
+          {
+            "type": "raw",
+            "text": "8 points including A1 in Mathematics and Advanced Mathematics, A2 in English (5 subjects not less than B grade)."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "raw",
+            "text": "Diploma with CGPA 3.5 (further assessment is required)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "raw",
+            "text": "ABB including A in Mathematics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] CGPA 3.5 (further assessment is required) [HWU MY Foundation in Business/Science] Grade C average including A in Mathematics and C in English."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "HL AA Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "6"
+          },
+          {
+            "type": "raw",
+            "text": "28 points with 6 in HL AA Mathematics (HL Analysis and Approaches Mathematics)."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics Method",
+              "Specialist"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "90"
+          },
+          {
+            "type": "raw",
+            "text": "[WACE] 90 including 80% in Mathematics Method / Specialist [SACE] 90% including 17 in Mathematics Method / Specialist."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BBA (Hons) Bachelor of Business Administration",
+      "field_of_study": "Business Administration",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "A-Level": "DDD.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "UEC": "Maximum 30 points (5 subjects not less than B grade).  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "Diploma": "Minimum CGPA 2.0.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "STPM": "CC.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "Foundation": "[Matriculation/Foundation] Minimum CGPA 2.0 [HWU MY Foundation in Business/Science] Pass and eligible to receive the award.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "CPU": "50% (average score based on 6 best relevant subjects including English).  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "IB Diploma": "24 points excluding Theory of knowledge and Extended Essay.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "SACE/WACE": "ATAR 50.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 114450
+      },
+      "course_content": {
+        "core": "Year 1 \nOptional September\nManagement in a Global Context\nFundamentals of Marketing\nHuman Resource Management\nIntercultural Issues in Business and Management\nMandatory January\nOperations Management\nBusiness Skills for the Second Machine Age\nOptional January\nManaging the Service Experience\nConsumer Behaviour\nOrganisational Behaviour\nQuantitative Methods 1\nEnterprise: Concepts and Issues Year 1 Optional September Mandatory January Optional January Year 2 \nOptional September\nBusiness Venturing\nEmployment Law\nResourcing and Talent Management\nIntroduction to Commercial Law\nLogistics and Supply Chain Management\nProject Management\nMandatory January\nStrategic Management\nBusiness Research Methods\nOptional January\nBusiness Analysis and Consultancy\nLeading in Organisations\nInnovation Management\nIntegrated Marketing Communications Year 2 Optional September Mandatory January Optional January Year 3 \nMandatory September\nManagement Dissertation 1\nGlobal Business Analysis 1: International Markets and Strategy\nOptional September\nThe Contemporary Workforce\nInternational Entrepreneurship\nRetail Marketing\nMandatory January\nManagement Dissertation 2\nGlobal Business Analysis 2: Global Trends and Risks\nOptional January\nChanging Trends in Employment\nMarketing Sustainability\nMarketing and Management of SMEs Year 3 Mandatory September Optional September Mandatory January Optional January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "DDD.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "cgpa",
+            "comparator": "<=",
+            "value": 30.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Maximum 30 points (5 subjects not less than B grade).  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.0.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CC.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] Minimum CGPA 2.0 [HWU MY Foundation in Business/Science] Pass and eligible to receive the award.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 50.0
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "50% (average score based on 6 best relevant subjects including English).  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 24.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "24 points excluding Theory of knowledge and Extended Essay.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 50.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 50.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MA (Hons) Business and Finance",
+      "field_of_study": "Business Administration",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "A-Level": "DDD.  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "UEC": "Maximum 30 points (5 subjects not less than B grade).  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "Diploma": "Minimum CGPA 2.5.  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "STPM": "C+C+.  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "Foundation": "[Matriculation/Foundation] Minimum CGPA 2.5 [HWU MY Foundation in Business/Science] Grade C average.  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "CPU": "50% (average score based on 6 best relevant subjects including English).  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "IB Diploma": "24 points excluding Theory of knowledge and Extended Essay.  Grade C in Mathematics at SPM/ IGCSE level or equivalent",
+        "SACE/WACE": "ATAR 50.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 114450
+      },
+      "course_content": {
+        "core": "Year 1 \nMandatory September\nFundamentals of Finance\nPersonal Finance and Investment Ethics\nMandatory January\nOrganisational Behaviour\nFinancial Markets Theory\nQuantitative Methods 1 Year 1 Mandatory September Mandatory January Year 2 \nMandatory September\nMergers and Acquisitions\nCorporate Financial Theory\nFundamentals of Financial Technology\nOptional September\nBusiness Venturing\nEmployment Law\nProject Management\nResourcing and Talent Management\nMandatory January\nStrategic Management\nApplied Financial Modelling in Python\nBusiness Research Methods\nOptional January\nFinancial Derivatives\n\nYear 3 \nOptional September\nThe Contemporary Workforce\nManagement Dissertation 1\nGlobal Business Analysis 1: International Markets and Strategy\nInternational Entrepreneurship\nRetail Marketing\nAgency Theory and Corporate Governance\nAccounting and Finance Dissertation 1\nOptional January\nManagement Dissertation 2\nChanging Trends in Employment\nMarketing Sustainability\nGlobal Business Analysis 2: Global Trends and Risks\nMarketing and Management of SMEs\nContemporary Issues in Finance\nAccounting and Finance Dissertation 2 Year 2 Mandatory September Optional September Mandatory January Optional January Year 3 Optional September Optional January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "DDD"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "DDD.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Maximum 30 points (5 subjects not less than B grade).  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.5.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C+"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "C+C+.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] Minimum CGPA 2.5 [HWU MY Foundation in Business/Science] Grade C average.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.5
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "50% (average score based on 6 best relevant subjects including English).  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 24.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "24 points excluding Theory of knowledge and Extended Essay.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 50.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 50.  Grade C in Mathematics at SPM/ IGCSE level or equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MA (Hons) International Business Management",
+      "field_of_study": "Business and Management",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "A-Level": "DDD.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "UEC": "Maximum 30 points (5 subjects not less than B grade).  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "Diploma": "Minimum CGPA 2.0.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "STPM": "CC.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "Foundation": "[Matriculation/Foundation] Minimum CGPA 2.0 [HWU MY Foundation in Business/Science] Pass and eligible to receive the award.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "CPU": "50% (average score based on 6 best relevant subjects including English).  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "IB Diploma": "24 points excluding Theory of knowledge and Extended Essay.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "SACE/WACE": "ATAR 50.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 114450
+      },
+      "course_content": {
+        "core": "YEAR 1\nMandatory September\nFundamentals of Marketing\nHuman Resource Management\nMandatory January\nOperations Management\nBusiness Skills for the Second Machine Age\nEnterprise: Concepts and Issues\nOptional September\nManagement in a Global Context\nIntercultural Issues in Business and Management\nOptional January\nOrganisational Behaviour\nConsumer Behaviour\nQuantitative Methods 1 YEAR 1 Mandatory September Mandatory January Optional September Optional January YEAR 2\nMandatory September\nLogistics and Supply Chain Management\nGlobal Strategic Marketing\nMandatory January\nStrategic Management\nBusiness Research Methods\nLeading in Organisations\nOptional September\nProject Management\nResourcing and Talent Management\nBusiness Venturing\nEmployment Law\nIntroduction to Commercial Law\nOptional January\nIntegrated Marketing Communications\nInnovation Management\nBusiness Analysis and Consultancy\n\nYEAR 3\nMandatory September\nManagement Dissertation 1\nGlobal Business Analysis 1: International Markets and Strategy\nOptional September\nThe Contemporary Workforce\nInternational Entrepreneurship\nRetail Marketing\nMandatory January\nGlobal Business Analysis 2: Global Trends and Risks\nManagement Dissertation 2\nOptional January\nChanging Trends in Employment\nMarketing Sustainability\nMarketing and Management of SMEs YEAR 2 Mandatory September Mandatory January Optional September Optional January YEAR 3 Mandatory September Optional September Mandatory January Optional January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "D"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "DDD.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 30
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Maximum 30 points (5 subjects not less than B grade).  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.0.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 2
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CC.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] Minimum CGPA 2.0 [HWU MY Foundation in Business/Science] Pass and eligible to receive the award.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "50% (average score based on 6 best relevant subjects including English).  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 24
+          },
+          {
+            "type": "raw",
+            "text": "24 points excluding Theory of knowledge and Extended Essay.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 50
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 50.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MEng Chemical Engineering",
+      "field_of_study": "Chemical Engineering",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "BBC including B in Mathematics and Chemistry..",
+        "UEC": "15 points or less including A2 in Mathematics and Chemistry (5 subjects not less than B grade.",
+        "Diploma": "A diploma in related field – Engineering with CGPA 3.0 including B in Mathematics and Chemistry..",
+        "STPM": "BBC including B in Mathematics and Chemistry..",
+        "Foundation": "[Matriculation/Foundation] CGPA 3.0 including B in Mathematics and Chemistry. [HWU MY Foundation in Science] Grade C average including C in Mathematics, Chemistry and English..",
+        "CPU": "75% including 70% in Mathematics and Chemistry..",
+        "IB Diploma": "26 points including 5 in SL Chemistry and Mathematics AA (or 5 in HL Mathematics AI)..",
+        "SACE/WACE": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Chemistry. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Chemistry.."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 180000
+      },
+      "course_content": {
+        "core": "YEAR 1\nMandatory September\nChemical Thermodynamics & Introductory Chemical Kinetics for Chemical Engineers\nFluid Mechanics\nIndustrial Chemical Processes\nMathematics for Engineers and Scientists 3\n\nMandatory January\nThermodynamics\nHeat Transfer\nProcess Design A\nMathematical Modelling for Chemical Engineers\n\nYEAR 2\nMandatory September\nSustainable Development and Engineering Management\nProcess Control\nSeparation Processes A\nChemical Reaction Engineering\n\nMandatory January\nBioprocessing\nProcess Health and Safety\nSeparation Processes B\nMultiphase Thermodynamics\n\nYEAR 3\nMandatory September\nSeparation Processes C\nSustainability Management and Process Economics\nProcess Integration, Optimisation and Analysis\n\nMandatory January\nParticle Technology\nApplied Transport Phenomena\nReaction Engineering\n\nMandatory AY\nProcess Engineering Design Project\n\nYEAR 4\nMandatory September\nProfessional and Industrial Studies\nOptional September\nFluid Transportation and Storage\nRenewable Energy Technologies\nAdvanced Unit Operations\n\nMandatory January\nAdvanced Chemical Engineering\nOptional January\nOil and Gas Processing\n\nMandatory AY\nMEng Research Project\nMEng Design Project YEAR 1 Mandatory September Mandatory January YEAR 2 Mandatory September Mandatory January YEAR 3 Mandatory September Mandatory January Mandatory AY YEAR 4 Mandatory September Mandatory January Mandatory AY",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBC including B in Mathematics and Chemistry.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 15
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A2"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "15 points or less including A2 in Mathematics and Chemistry (5 subjects not less than B grade."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "A diploma in related field – Engineering with CGPA 3.0 including B in Mathematics and Chemistry.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBC including B in Mathematics and Chemistry.."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] CGPA 3.0 including B in Mathematics and Chemistry. [HWU MY Foundation in Science] Grade C average including C in Mathematics, Chemistry and English.."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 75
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 70
+          },
+          {
+            "type": "raw",
+            "text": "75% including 70% in Mathematics and Chemistry.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 26
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics AA"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics AI"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "26 points including 5 in SL Chemistry and Mathematics AA (or 5 in HL Mathematics AI).."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 75
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics Method/Specialist",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 65
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 75
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics Method/Specialist",
+              "Chemistry"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 15.0
+          },
+          {
+            "type": "raw",
+            "text": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Chemistry. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Chemistry.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MEng Civil Engineering",
+      "field_of_study": "Civil Engineering",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "BBC including B in Mathematics and Physics..",
+        "UEC": "15 points or less including A2 in Mathematics and Physics (5 subjects not less than B grade)..",
+        "Diploma": "A diploma in related field – Engineering with CGPA 3.0 including B in Mathematics and Physics..",
+        "STPM": "BBC including B in Mathematics and Physics..",
+        "Foundation": "[Matriculation/Foundation] CGPA 3.0 including B in Mathematics and Physics. [HWU MY Foundation in Science] Grade C average including C in Mathematics, Physics and English..",
+        "CPU": "75% including 70% in Mathematics and Physics..",
+        "IB Diploma": "26 points including 5 in SL Physics and Mathematics AA (or 5 in HL Mathematics AI)..",
+        "SACE/WACE": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Physics. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Physics.."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 180000
+      },
+      "course_content": {
+        "core": "YEAR 1 \nMandatory September\nAnalysis of Determinate Structures\nHydraulics & Hydrology A\nSurveying and GIS\nMathematics for Engineers and Scientists 3\nMandatory January\nDesign Studies A-Problem Solving\nCivil Engineering Materials\nStress Analysis and Element Strength\nStatistics for Science\n\nYEAR 2 \nMandatory September\nGeology and Soil Properties\nIndeterminate Structures\nDesign of Steel Elements\nTransport Design, Infrastructure and Society\nMandatory January\nDesign of Concrete Elements\nEnvironmental Technology and Management\nGeotechnics A - Introduction to Soil Mechanics\nHydraulics & Hydrology B YEAR 1 Mandatory September Mandatory January YEAR 2 Mandatory September Mandatory January YEAR 3 \nOptional September\nStructural Element Design\nHighway Engineering\nDissertation 1 (Civil Engineering Programme)\nFinite Element Method Linear Analysis\nGeotechnics B- Geotechnical Applications\nOptional January\nPlastic Analysis of Structures\nCivil Engineering Design Project\nDissertation 1 (Civil Engineering Programme)\nUrban Drainage and Water Supply\nFoundation Engineering\n\nYEAR 4\nMandatory September\nCivil Engineering Professional Design Project\nOptional September\nDissertation 1 (Civil Engineering Programme)\nStructural Dynamics and Earthquake Engineering\nStability and Dynamics\nProject Management: Theory and Practice\nOptional January\nDissertation 1 (Civil Engineering Programme)\nFinite Element Method Nonlinear Analysis\nRiver Flow and Flood Modelling\nSafety, Risk and Reliability\nUrban Drainage and Water Supply\nConstruction Financial Management\nProject Management: Strategic Issues YEAR 3 Optional September Optional January YEAR 4 Mandatory September Optional September Optional January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBC including B in Mathematics and Physics.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "value": 15
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "raw",
+            "text": "15 points or less including A2 in Mathematics and Physics (5 subjects not less than B grade).."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "A diploma in related field – Engineering with CGPA 3.0 including B in Mathematics and Physics.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBC including B in Mathematics and Physics.."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] CGPA 3.0 including B in Mathematics and Physics. [HWU MY Foundation in Science] Grade C average including C in Mathematics, Physics and English.."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 75.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "raw",
+            "text": "75% including 70% in Mathematics and Physics.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 26
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 5.0
+          },
+          {
+            "type": "raw",
+            "text": "26 points including 5 in SL Physics and Mathematics AA (or 5 in HL Mathematics AI).."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 75.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 65.0
+          },
+          {
+            "type": "raw",
+            "text": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Physics. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Physics.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Computing Science",
+      "field_of_study": "Computer Science",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "BBB including B in Mathematics.",
+        "UEC": "12 points or less including A in Mathematics (5 subjects not less than B grade).",
+        "Diploma": "CGPA 3.0 including B in Mathematics (further assessment is required)..",
+        "STPM": "BBB including B in Mathematics.",
+        "Foundation": "[Matriculation/Foundation] CGPA3.0 (further assessment is required) [HWU MY Foundation in Business/Science] Grade C average including B in Mathematics and C in English.",
+        "CPU": "80% including B in Mathematics.",
+        "IB Diploma": "26 points with 5 in HL Mathematics AA or AI.",
+        "SACE/WACE": "ATAR 80 including B in Mathematics Method/Specialist."
+      },
+      "english_requirements": {
+        "IELTS": "6.0"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 119880
+      },
+      "course_content": {
+        "core": "Year 1 Mandatory September\nMathematics for Computer Science\nIntroduction to Interaction Design\nSoftware Development A\nSoftware Development B\nMandatory January\nIntroduction to Computer Systems\nData Structures and Algorithms\nDatabase Management Systems\nIntroduction to Software Engineering Mandatory September Mandatory January Year 2 Mandatory September\nProgramming Languages\nData Communications and Networking\nFoundations 1\nSoftware Engineering\nMandatory January\nHardware-Software Interface\nFoundations 2\nOperating Systems & Concurrency\nProfessional Development\nOptional May\nIndustrial Training Mandatory September Mandatory January Year 3 Mandatory September\nComputer Network Security\nResearch Methods & Requirements Engineering\nArtificial Intelligence and Intelligent Agents\nOptional September\nBiologically Inspired Computation\nData Mining and Machine Learning\n3D Graphics and Animation\nIntelligent Robotics\nStatistical Modelling and Analysis\nMandatory January\nDesign & Implementation\nProject Testing and Presentation\nOptional January\nApplied Text Analytics\nBig Data Management\nDistributed and Parallel Technologies\nData Visualisation and Analytics\nComputer Games Programming Mandatory September Optional September Mandatory January Optional January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB including B in Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "value": 12
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "12 points or less including A in Mathematics (5 subjects not less than B grade)."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 3.0 including B in Mathematics (further assessment is required).."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBB including B in Mathematics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] CGPA3.0 (further assessment is required) [HWU MY Foundation in Business/Science] Grade C average including B in Mathematics and C in English."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 80.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "80% including B in Mathematics."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 26
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 5.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics AA",
+              "Mathematics AI"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "26 points with 5 in HL Mathematics AA or AI."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 80.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics Method",
+              "Mathematics Specialist"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 80 including B in Mathematics Method/Specialist."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MEng Electrical and Electronic Engineering",
+      "field_of_study": "Electrical & Electronic Engineering",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "BBC including B in Mathematics and Physics..",
+        "UEC": "15 points or less including A2 in Mathematics and Physics (5 subjects not less than B grade)..",
+        "Diploma": "A diploma in related field – Engineering with CGPA 3.0 including B in Mathematics and Physics..",
+        "STPM": "BBC including B in Mathematics and Physics..",
+        "Foundation": "[Matriculation/Foundation] CGPA 3.0 including B in Mathematics and Physics. [HWU MY Foundation in Science] Grade C average including C in Mathematics, Physics and English..",
+        "CPU": "75% including 70% in Mathematics and Physics..",
+        "IB Diploma": "26 points including 5 in SL Physics and Mathematics AA (or 5 in HL Mathematics AI)..",
+        "SACE/WACE": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Physics. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Physics.."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 180000
+      },
+      "course_content": {
+        "core": "YEAR 1 \nMandatory September\nDigital Design and Programming\nSustainable Development and Engineering Management\nCircuits and Analysis\nMathematics for Engineers and Scientists 3\nMandatory January\nComputer Architecture and Embedded Systems\nElectrical Power and Machines\nIntroduction to Electricity and Magnetism\nMathematics for Engineers and Scientists 4 YEAR 1 Mandatory September Mandatory January YEAR 2 \nMandatory September\nEngineering mathematics and statistics\nElectrical Energy Systems\nSignals and Systems\nSemiconductor Electronics\nMandatory January\nElectromagnetism\nTime Frequency and Signal Analysis\nSystem Project YEAR 2 Mandatory September Mandatory January YEAR 3\nMandatory September\n4th MEng Group Project I\nProfessional and Industrial Studies\nOptional September\nAdvanced Analogue Electronics\nLinear Control\nMandatory January\n4th MEng Group Project II\nOptional January\nSustainable Energy and Power Systems\nCommunication Devices and Systems\n\nYEAR 4 \nOptional January\nDistributed generation\nRenewable Generation and Conversion\nProject 2\nOptional September\nElectrical Power Systems\nDigital Signal Processing\nProject 1 YEAR 3 Mandatory September Optional September Mandatory January Optional January YEAR 4 Optional January Optional September",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBC including B in Mathematics and Physics.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "value": 15
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A2"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "15 points or less including A2 in Mathematics and Physics (5 subjects not less than B grade).."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A diploma in related field – Engineering with CGPA 3.0 including B in Mathematics and Physics.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBC including B in Mathematics and Physics.."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] CGPA 3.0 including B in Mathematics and Physics. [HWU MY Foundation in Science] Grade C average including C in Mathematics, Physics and English.."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 75
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 70
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "75% including 70% in Mathematics and Physics.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 26
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics AA"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics AI"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "26 points including 5 in SL Physics and Mathematics AA (or 5 in HL Mathematics AI).."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 75
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 65
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics Method/Specialist",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Physics. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Physics.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Information Systems with Data Analytics",
+      "field_of_study": "Information Systems",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Sep",
+        "Jan"
+      ],
+      "program_duration_years": 3,
+      "internship": "Internship available",
+      "entry_requirements_raw": {
+        "A-Level": "BCC.  Grade C in Mathematics at SPM/ IGCSE or equivalent",
+        "UEC": "16 points or less (5 subjects not less than B grade).  Grade C in Mathematics at SPM/ IGCSE or equivalent",
+        "Diploma": "CGPA 3.0 (further assessment is required).  Grade C in Mathematics at SPM/ IGCSE or equivalent",
+        "STPM": "BCC.  Grade C in Mathematics at SPM/ IGCSE or equivalent",
+        "Foundation": "Matriculation/Foundation: CGPA 3.0 (further assessment is required) Heriot-Watt University Malaysia Foundation in Business / Foundation in Science: CCCC.  Grade C in Mathematics at SPM/ IGCSE or equivalent",
+        "CPU": "70% (average score of 6 best relevant Grade 12 subjects including English).  Grade C in Mathematics at SPM/ IGCSE or equivalent",
+        "SACE/WACE": "ATAR 70.  Grade C in Mathematics at SPM/ IGCSE or equivalent"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 119880
+      },
+      "course_content": {
+        "core": "September Intake - Malaysia\nYear 1\nMandatory September\nIntroduction to Interaction Design\nIntroduction to Programming 1\nManagement in a Global Context\nFundamentals of Marketing\nMandatory January\nIntroduction to Computer Systems\nData Science Life Cycle\nDatabase Management Systems\nIntroduction to Software Engineering\nOptional September\nSelf-Empowerment and Social Responsibility I\nNational Language A (MPU 3212)\nOptional January\nAppreciation of Ethics and Civilisations\nMalay Language Communication 2 (MPU 3143)\nSelf-Empowerment and Social Responsibility II\nYear 2\nMandatory September\nHuman Resource Management\nKnowledge Management\nSoftware Engineering\nProject Management\nMandatory January\nProfessional Development\nOrganisational Behaviour\nSociotechnical and Soft Systems\nVisual Analytics\nMandatory May\nIndustrial Training\nOptional September\nPhilosophy and Current Issues\nOptional January\nIntegrity and Anti-Corruption\nYear 3\nMandatory September\nResearch Methods & Requirements Engineering\nInformation Systems Methodologies\nData Mining and Machine Learning\nOptional September\nStatistical Modelling and Analysis\nInformation Technology Master Class\nSoftware Engineering Foundations\nMandatory January\nDesign & Implementation\nProject Testing and Presentation\nBig Data Management\nOptional January\nApplied Text Analytics\nAdvanced Human Computer Interaction\nDigital and Knowledge Economy September Intake - Malaysia Year 1 Mandatory September\nIntroduction to Interaction Design\nIntroduction to Programming 1\nManagement in a Global Context\nFundamentals of Marketing Mandatory September Introduction to Interaction Design\nIntroduction to Programming 1\nManagement in a Global Context\nFundamentals of Marketing Introduction to Interaction Design Introduction to Programming 1 Management in a Global Context Fundamentals of Marketing Mandatory January\nIntroduction to Computer Systems\nData Science Life Cycle\nDatabase Management Systems\nIntroduction to Software Engineering Mandatory January Introduction to Computer Systems\nData Science Life Cycle\nDatabase Management Systems\nIntroduction to Software Engineering Introduction to Computer Systems Data Science Life Cycle Database Management Systems Introduction to Software Engineering Optional September\nSelf-Empowerment and Social Responsibility I\nNational Language A (MPU 3212) Optional September Self-Empowerment and Social Responsibility I\nNational Language A (MPU 3212) Self-Empowerment and Social Responsibility I National Language A (MPU 3212) Optional January\nAppreciation of Ethics and Civilisations\nMalay Language Communication 2 (MPU 3143)\nSelf-Empowerment and Social Responsibility II Optional January Appreciation of Ethics and Civilisations\nMalay Language Communication 2 (MPU 3143)\nSelf-Empowerment and Social Responsibility II Appreciation of Ethics and Civilisations Malay Language Communication 2 (MPU 3143) Self-Empowerment and Social Responsibility II Year 2 Mandatory September\nHuman Resource Management\nKnowledge Management\nSoftware Engineering\nProject Management Mandatory September Human Resource Management\nKnowledge Management\nSoftware Engineering\nProject Management Human Resource Management Knowledge Management Software Engineering Project Management Mandatory January\nProfessional Development\nOrganisational Behaviour\nSociotechnical and Soft Systems\nVisual Analytics Mandatory January Professional Development\nOrganisational Behaviour\nSociotechnical and Soft Systems\nVisual Analytics Professional Development Organisational Behaviour Sociotechnical and Soft Systems Visual Analytics Mandatory May\nIndustrial Training Mandatory May Industrial Training Optional September\nPhilosophy and Current Issues Optional September Philosophy and Current Issues Optional January\nIntegrity and Anti-Corruption Optional January Integrity and Anti-Corruption Year 3 Mandatory September\nResearch Methods & Requirements Engineering\nInformation Systems Methodologies\nData Mining and Machine Learning Mandatory September Research Methods & Requirements Engineering\nInformation Systems Methodologies\nData Mining and Machine Learning Research Methods & Requirements Engineering Information Systems Methodologies Data Mining and Machine Learning Optional September\nStatistical Modelling and Analysis\nInformation Technology Master Class\nSoftware Engineering Foundations Optional September Statistical Modelling and Analysis\nInformation Technology Master Class\nSoftware Engineering Foundations Statistical Modelling and Analysis Information Technology Master Class Software Engineering Foundations Mandatory January\nDesign & Implementation\nProject Testing and Presentation\nBig Data Management Mandatory January Design & Implementation\nProject Testing and Presentation\nBig Data Management Design & Implementation Project Testing and Presentation Big Data Management Optional January\nApplied Text Analytics\nAdvanced Human Computer Interaction\nDigital and Knowledge Economy Optional January Applied Text Analytics\nAdvanced Human Computer Interaction\nDigital and Knowledge Economy Applied Text Analytics Advanced Human Computer Interaction Digital and Knowledge Economy  January Intake - Malaysia\nYear 1\nMandatory January\nIntroduction to Computer Systems\nDatabase Management Systems\nData Science Life Cycle\nIntroduction to Programming 1\nOptional Janaury\nMalay Language Communication 2 (MPU 3143)\nAppreciation of Ethics and Civilisations\nMandatory May\nManagement in a Global Context\nIntroduction to Interaction Design\nFundamentals of Marketing\nIntroduction to Software Engineering\nOptional May\nNational Language A (MPU 3212)\nPhilosophy and Current Issues\nYear 2\nMandatory September\nHuman Resource Management\nKnowledge Management\nProject Management\nSoftware Engineering\nOptional September\nSelf-Empowerment and Social Responsibility I\nMandatory January\nOrganisational Behaviour\nSociotechnical and Soft Systems\nProfessional Development\nVisual Analytics\nOptional January\nIntegrity and Anti-Corruption\nSelf-Empowerment and Social Responsibility II\nMandatory May\nIndustrial Training\nYear 3\nMandatory September\nResearch Methods & Requirements Engineering\nData Mining and Machine Learning\nInformation Systems Methodologies\nOptional September\nInformation Technology Master Class\nStatistical Modelling and Analysis\nSoftware Engineering Foundations\nMandatory January\nDesign & Implementation\nBig Data Management\nProject Testing and Presentation\nOptional January\nAdvanced Human Computer Interaction\nDigital and Knowledge Economy\nApplied Text Analytics January Intake - Malaysia Year 1 Mandatory January\nIntroduction to Computer Systems\nDatabase Management Systems\nData Science Life Cycle\nIntroduction to Programming 1 Mandatory January Introduction to Computer Systems\nDatabase Management Systems\nData Science Life Cycle\nIntroduction to Programming 1 Introduction to Computer Systems Database Management Systems Data Science Life Cycle Introduction to Programming 1 Optional Janaury\nMalay Language Communication 2 (MPU 3143)\nAppreciation of Ethics and Civilisations Optional Janaury Malay Language Communication 2 (MPU 3143)\nAppreciation of Ethics and Civilisations Malay Language Communication 2 (MPU 3143) Appreciation of Ethics and Civilisations Mandatory May\nManagement in a Global Context\nIntroduction to Interaction Design\nFundamentals of Marketing\nIntroduction to Software Engineering Mandatory May Management in a Global Context\nIntroduction to Interaction Design\nFundamentals of Marketing\nIntroduction to Software Engineering Management in a Global Context Introduction to Interaction Design Fundamentals of Marketing Introduction to Software Engineering Optional May\nNational Language A (MPU 3212)\nPhilosophy and Current Issues Optional May National Language A (MPU 3212)\nPhilosophy and Current Issues National Language A (MPU 3212) Philosophy and Current Issues Year 2 Mandatory September\nHuman Resource Management\nKnowledge Management\nProject Management\nSoftware Engineering Mandatory September Human Resource Management\nKnowledge Management\nProject Management\nSoftware Engineering Human Resource Management Knowledge Management Project Management Software Engineering Optional September\nSelf-Empowerment and Social Responsibility I Optional September Self-Empowerment and Social Responsibility I Mandatory January\nOrganisational Behaviour\nSociotechnical and Soft Systems\nProfessional Development\nVisual Analytics Mandatory January Organisational Behaviour\nSociotechnical and Soft Systems\nProfessional Development\nVisual Analytics Organisational Behaviour Sociotechnical and Soft Systems Professional Development Visual Analytics Optional January\nIntegrity and Anti-Corruption\nSelf-Empowerment and Social Responsibility II Optional January Integrity and Anti-Corruption\nSelf-Empowerment and Social Responsibility II Integrity and Anti-Corruption Self-Empowerment and Social Responsibility II Mandatory May\nIndustrial Training Mandatory May Industrial Training Year 3 Mandatory September\nResearch Methods & Requirements Engineering\nData Mining and Machine Learning\nInformation Systems Methodologies Mandatory September Research Methods & Requirements Engineering\nData Mining and Machine Learning\nInformation Systems Methodologies Research Methods & Requirements Engineering Data Mining and Machine Learning Information Systems Methodologies Optional September\nInformation Technology Master Class\nStatistical Modelling and Analysis\nSoftware Engineering Foundations Optional September Information Technology Master Class\nStatistical Modelling and Analysis\nSoftware Engineering Foundations Information Technology Master Class Statistical Modelling and Analysis Software Engineering Foundations Mandatory January\nDesign & Implementation\nBig Data Management\nProject Testing and Presentation Mandatory January Design & Implementation\nBig Data Management\nProject Testing and Presentation Design & Implementation Big Data Management Project Testing and Presentation Optional January\nAdvanced Human Computer Interaction\nDigital and Knowledge Economy\nApplied Text Analytics Optional January Advanced Human Computer Interaction\nDigital and Knowledge Economy\nApplied Text Analytics Advanced Human Computer Interaction Digital and Knowledge Economy Applied Text Analytics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BCC.  Grade C in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 16
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "16 points or less (5 subjects not less than B grade).  Grade C in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 3.0 (further assessment is required).  Grade C in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BCC.  Grade C in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Matriculation/Foundation: CGPA 3.0 (further assessment is required) Heriot-Watt University Malaysia Foundation in Business / Foundation in Science: CCCC.  Grade C in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "70% (average score of 6 best relevant Grade 12 subjects including English).  Grade C in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 70.  Grade C in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MA Marketing",
+      "field_of_study": "Marketing",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Sep",
+        "Jan"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "DDD.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "UEC": "Maximum 30 points (5 subjects not less than B grade).  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "Diploma": "Minimum CGPA 2.0.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "STPM": "CC.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "Foundation": "Matriculation/Foundation: Minimum CGPA 2.0 Heriot-Watt University Malaysia Foundation in Business / Foundation in Science: Pass and eligible to receive the award.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "CPU": "50% (average score based on 6 best relevant subjects including English).  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "IB Diploma": "24 points excluding Theory of knowledge and Extended Essay.  Grade pass in Mathematics at SPM/ IGCSE or equivalent",
+        "SACE/WACE": "ATAR 50.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+      },
+      "english_requirements": {
+        "IELTS": "6"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 114450
+      },
+      "course_content": {
+        "core": "September Intake - Malaysia\nYear 1\nIn Year 1 students can learn from an established suite of courses at Edinburgh Business School's common first year and gain an understanding into important areas of modern business, including: Management, Accounting and Finance, Economics and Marketing.\nMandatory September\nHuman Resource Management\nIntroduction to Business Analytics\nFundamentals of Marketing\nNational Language A (MPU 3212)\nSelf-Empowerment and Social Responsibility I\nOptional September\nThe Economy\nMandatory January\nBusiness Skills for the Second Machine Age\nConsumer Behaviour\nOperations Management\nManagement Accounting in Organisations\nIntegrity and Anti-Corruption\nSelf-Empowerment and Social Responsibility II\nMalay Language Communication 2 (MPU 3143)\nYear 2\nAs your studies progress through Years 2, 3 and 4, you will study an increasing number of specialist marketing courses.\nMandatory September\nResponsible Marketing\nGlobal Strategic Marketing\nDigital Analytics in Marketing\nPhilosophy and Current Issues\nOptional September\nMarketing Research\nProject Management\nMandatory January\nBusiness Research Methods\nIntegrated Marketing Communications\nMarketing in Practice\nOptional January\nInnovation Management\nYear 3\nAs your studies progress through Years 2, 3 and 4, you will study an increasing number of specialist marketing courses.\nMandatory September\nContemporary Issues in Marketing\nMarketing Dissertation 1\nOption September\nInternational Entrepreneurship\nManaging Business Performance\nRetail Marketing\nMandatory January\nDigital Marketing\nBranding\nMarketing Dissertation 2\nOptional January\nMarketing and Management of SMEs\nMarketing Sustainability September Intake - Malaysia Year 1 In Year 1 students can learn from an established suite of courses at Edinburgh Business School's common first year and gain an understanding into important areas of modern business, including: Management, Accounting and Finance, Economics and Marketing. Mandatory September\nHuman Resource Management\nIntroduction to Business Analytics\nFundamentals of Marketing\nNational Language A (MPU 3212)\nSelf-Empowerment and Social Responsibility I Mandatory September Human Resource Management\nIntroduction to Business Analytics\nFundamentals of Marketing\nNational Language A (MPU 3212)\nSelf-Empowerment and Social Responsibility I Human Resource Management Introduction to Business Analytics Fundamentals of Marketing National Language A (MPU 3212) Self-Empowerment and Social Responsibility I Optional September\nThe Economy Optional September The Economy Mandatory January\nBusiness Skills for the Second Machine Age\nConsumer Behaviour\nOperations Management\nManagement Accounting in Organisations\nIntegrity and Anti-Corruption\nSelf-Empowerment and Social Responsibility II\nMalay Language Communication 2 (MPU 3143) Mandatory January Business Skills for the Second Machine Age\nConsumer Behaviour\nOperations Management\nManagement Accounting in Organisations\nIntegrity and Anti-Corruption\nSelf-Empowerment and Social Responsibility II\nMalay Language Communication 2 (MPU 3143) Business Skills for the Second Machine Age Consumer Behaviour Operations Management Management Accounting in Organisations Integrity and Anti-Corruption Self-Empowerment and Social Responsibility II Malay Language Communication 2 (MPU 3143) Year 2 As your studies progress through Years 2, 3 and 4, you will study an increasing number of specialist marketing courses. Mandatory September\nResponsible Marketing\nGlobal Strategic Marketing\nDigital Analytics in Marketing\nPhilosophy and Current Issues Mandatory September Responsible Marketing\nGlobal Strategic Marketing\nDigital Analytics in Marketing\nPhilosophy and Current Issues Responsible Marketing Global Strategic Marketing Digital Analytics in Marketing Philosophy and Current Issues Optional September\nMarketing Research\nProject Management Optional September Marketing Research\nProject Management Marketing Research Project Management Mandatory January\nBusiness Research Methods\nIntegrated Marketing Communications\nMarketing in Practice Mandatory January Business Research Methods\nIntegrated Marketing Communications\nMarketing in Practice Business Research Methods Integrated Marketing Communications Marketing in Practice Optional January\nInnovation Management Optional January Innovation Management Year 3 As your studies progress through Years 2, 3 and 4, you will study an increasing number of specialist marketing courses. Mandatory September\nContemporary Issues in Marketing\nMarketing Dissertation 1 Mandatory September Contemporary Issues in Marketing\nMarketing Dissertation 1 Contemporary Issues in Marketing Marketing Dissertation 1 Option September\nInternational Entrepreneurship\nManaging Business Performance\nRetail Marketing Option September International Entrepreneurship\nManaging Business Performance\nRetail Marketing International Entrepreneurship Managing Business Performance Retail Marketing Mandatory January\nDigital Marketing\nBranding\nMarketing Dissertation 2 Mandatory January Digital Marketing\nBranding\nMarketing Dissertation 2 Digital Marketing Branding Marketing Dissertation 2 Optional January\nMarketing and Management of SMEs\nMarketing Sustainability Optional January Marketing and Management of SMEs\nMarketing Sustainability Marketing and Management of SMEs Marketing Sustainability January Intake - Malaysia\nYear 1\nIn Year 1 students can learn from an established suite of courses at Edinburgh Business School's common first year and gain an understanding into important areas of modern business, including: Management, Accounting and Finance, Economics and Marketing.\nMandatory January\nConsumer Behaviour\nBusiness Skills for the Second Machine Age\nOperations Management\nManagement Accounting in Organisations\nPhilosophy and Current Issues\nAppreciation of Ethics and Civilisations\nMandatory May\nFundamentals of Marketing\nHuman Resource Management\nIntroduction to Business Analytics\nThe Economy\nYear 2\nAs your studies progress through Years 2, 3 and 4, you will study an increasing number of specialist marketing courses.\nMandatory September\nGlobal Strategic Marketing\nDigital Analytics in Marketing\nResponsible Marketing\nMalay Language Communication 2 (MPU 3143)\nSelf-Empowerment and Social Responsibility I\nNational Language A (MPU 3212)\nOptional September\nMarketing Research\nProject Management\nMandatory January\nIntegrated Marketing Communications\nMarketing in Practice\nBusiness Research Methods\nSelf-Empowerment and Social Responsibility II\nIntegrity and Anti-Corruption\nOptional January\nInnovation Management\nYear 3\nAs your studies progress through Years 2, 3 and 4, you will study an increasing number of specialist marketing courses.\nMandatory September\nContemporary Issues in Marketing\nMarketing Dissertation 1\nOptional September\nInternational Entrepreneurship\nManaging Business Performance\nRetail Marketing\nMandatory January\nDigital Marketing\nBranding\nMarketing Dissertation 2\nOptional January\nMarketing and Management of SMEs\nMarketing Sustainability  January Intake - Malaysia Year 1 In Year 1 students can learn from an established suite of courses at Edinburgh Business School's common first year and gain an understanding into important areas of modern business, including: Management, Accounting and Finance, Economics and Marketing. Mandatory January\nConsumer Behaviour\nBusiness Skills for the Second Machine Age\nOperations Management\nManagement Accounting in Organisations\nPhilosophy and Current Issues\nAppreciation of Ethics and Civilisations Mandatory January Consumer Behaviour\nBusiness Skills for the Second Machine Age\nOperations Management\nManagement Accounting in Organisations\nPhilosophy and Current Issues\nAppreciation of Ethics and Civilisations Consumer Behaviour Business Skills for the Second Machine Age Operations Management Management Accounting in Organisations Philosophy and Current Issues Appreciation of Ethics and Civilisations Mandatory May\nFundamentals of Marketing\nHuman Resource Management\nIntroduction to Business Analytics\nThe Economy Mandatory May Fundamentals of Marketing\nHuman Resource Management\nIntroduction to Business Analytics\nThe Economy Fundamentals of Marketing Human Resource Management Introduction to Business Analytics The Economy Year 2 As your studies progress through Years 2, 3 and 4, you will study an increasing number of specialist marketing courses. Mandatory September\nGlobal Strategic Marketing\nDigital Analytics in Marketing\nResponsible Marketing\nMalay Language Communication 2 (MPU 3143)\nSelf-Empowerment and Social Responsibility I\nNational Language A (MPU 3212) Mandatory September Global Strategic Marketing\nDigital Analytics in Marketing\nResponsible Marketing\nMalay Language Communication 2 (MPU 3143)\nSelf-Empowerment and Social Responsibility I\nNational Language A (MPU 3212) Global Strategic Marketing Digital Analytics in Marketing Responsible Marketing Malay Language Communication 2 (MPU 3143) Self-Empowerment and Social Responsibility I National Language A (MPU 3212) Optional September\nMarketing Research\nProject Management Optional September Marketing Research\nProject Management Marketing Research Project Management Mandatory January\nIntegrated Marketing Communications\nMarketing in Practice\nBusiness Research Methods\nSelf-Empowerment and Social Responsibility II\nIntegrity and Anti-Corruption Mandatory January Integrated Marketing Communications\nMarketing in Practice\nBusiness Research Methods\nSelf-Empowerment and Social Responsibility II\nIntegrity and Anti-Corruption Integrated Marketing Communications Marketing in Practice Business Research Methods Self-Empowerment and Social Responsibility II Integrity and Anti-Corruption Optional January\nInnovation Management Optional January Innovation Management Year 3 As your studies progress through Years 2, 3 and 4, you will study an increasing number of specialist marketing courses. Mandatory September\nContemporary Issues in Marketing\nMarketing Dissertation 1 Mandatory September Contemporary Issues in Marketing\nMarketing Dissertation 1 Contemporary Issues in Marketing Marketing Dissertation 1 Optional September\nInternational Entrepreneurship\nManaging Business Performance\nRetail Marketing Optional September International Entrepreneurship\nManaging Business Performance\nRetail Marketing International Entrepreneurship Managing Business Performance Retail Marketing Mandatory January\nDigital Marketing\nBranding\nMarketing Dissertation 2 Mandatory January Digital Marketing\nBranding\nMarketing Dissertation 2 Digital Marketing Branding Marketing Dissertation 2 Optional January\nMarketing and Management of SMEs\nMarketing Sustainability Optional January Marketing and Management of SMEs\nMarketing Sustainability Marketing and Management of SMEs Marketing Sustainability",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "DDD"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "DDD.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Maximum 30 points (5 subjects not less than B grade).  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.0.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "CC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CC.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Matriculation/Foundation: Minimum CGPA 2.0 Heriot-Watt University Malaysia Foundation in Business / Foundation in Science: Pass and eligible to receive the award.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "raw",
+            "text": "50% (average score based on 6 best relevant subjects including English).  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 24.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "24 points excluding Theory of knowledge and Extended Essay.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 50.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 50.  Grade pass in Mathematics at SPM/ IGCSE or equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MA (Hons) Marketing",
+      "field_of_study": "Marketing",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "A-Level": "DDD.  SPM-level or equivalent:\npass in Mathematics, English",
+        "UEC": "Maximum 30 points (5 subjects not less than B grade).  SPM-level or equivalent:\npass in Mathematics, English",
+        "Diploma": "Minimum CGPA 2.0.  SPM-level or equivalent:\npass in Mathematics, English",
+        "STPM": "CC.  SPM-level or equivalent:\npass in Mathematics, English",
+        "Foundation": "Minimum CGPA 2.0.  SPM-level or equivalent:\npass in Mathematics, English",
+        "CPU": "50 (average score based on 6 best relevant subjects including English).  SPM-level or equivalent:\npass in Mathematics, English",
+        "IB Diploma": "24 points excluding Theory of knowledge and Extended Essay.  SPM-level or equivalent:\npass in Mathematics, English",
+        "SACE/WACE": "ATAR 50.  SPM-level or equivalent:\npass in Mathematics, English"
+      },
+      "english_requirements": {
+        "IELTS": "Overall 6.0"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 109680
+      },
+      "course_content": {
+        "core": "Year 1 Mandatory September\nHuman Resource Management\nQuantitative Methods 1\nFundamentals of Marketing\nMandatory January\nOperations Management\nBusiness Skills for the Second Machine Age\nConsumer Behaviour Mandatory September Mandatory January Year 2 Mandatory September\nGlobal Strategic Marketing\nDigital Analytics in Marketing\nResponsible Marketing\nOptional September\nProject Management\nMandatory January\nBusiness Research Methods\nIntegrated Marketing Communications\nMarketing in Practice\nOptional January\nMarketing and Consumer Law\nInnovation Management Mandatory September Optional September Mandatory January Optional January Year 3 Mandatory September\nContemporary Issues in Marketing\nOptional September\nLeisure Marketing\nRetail Marketing\nMandatory January\nBranding\nDigital Marketing\nOptional January\nMarketing Sustainability\nMarketing and Management of SMEs Mandatory September Optional September Mandatory January Optional January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "DDD"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "DDD.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 30
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Maximum 30 points (5 subjects not less than B grade).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.0.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "CC"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CC.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum CGPA 2.0.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 6
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "50 (average score based on 6 best relevant subjects including English).  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 24
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "24 points excluding Theory of knowledge and Extended Essay.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "raw",
+            "text": "ATAR 50"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 50.  SPM-level or equivalent:\npass in Mathematics, English"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Statistical Data Science",
+      "field_of_study": "Mathematics",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": null,
+      "entry_requirements_raw": {
+        "A-Level": "ABB including A in Mathematics.",
+        "UEC": "8 points including A1 in Mathematics and Advanced Mathematics, A2 in English (5 subjects not less than B grade).",
+        "Diploma": "Diploma with CGPA 3.5 (further assessment is required).",
+        "STPM": "ABB including A in Mathematics.",
+        "Foundation": "[Matriculation/Foundation] CGPA 3.5 (further assessment is required) [HWU MY Foundation in Business/Science] Grade C average including A in Mathematics and C in English.",
+        "IB Diploma": "28 points with 6 in HL AA Mathematics (HL Analysis and Approaches Mathematics).",
+        "SACE/WACE": "[WACE] 90 including 80% in Mathematics Method / Specialist [SACE] 90% including 17 in Mathematics Method / Specialist."
+      },
+      "english_requirements": {},
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 131760
+      },
+      "course_content": {
+        "core": "Year 1 Mandatory September\nMultivariable Calculus and Real Analysis A\nLinear Algebra\nActuarial and Financial Mathematics A\nAlgorithmic and Scientific Programming\nProbability and Statistics A\nMandatory January\nMultivariable Calculus and Real Analysis B\nActuarial and Financial Mathematics B\nProbability and Statistics B\nOptional January\nFinance and Financial Reporting\nDatabase Management Systems Mandatory September Mandatory January Optional January Year 2 Mandatory September\nStatistical Models A\nFurther Statistical Methods\nStochastic Processes\nOptional September\nPortfolio Theory and Asset Models\nIntroduction to Interaction Design\nArtificial Intelligence and Intelligent Agents\nMandatory January\nBayesian Inference & Computational Methods\nStatistical Models B\nSurvival Models\nOptional January\nData Science Life Cycle\nOrdinary Differential Equations\nDatabase Management Systems\nDerivative Markets and Discrete Time Finance Mandatory September Optional September Mandatory January Optional January Year 3 Mandatory September\nOptimisation\nStatistical Machine Learning\nStatistics Dissertation A\nOptional September\nData Assimilation\nContinuous-Time Finance\nStatistical Computing\nMandatory January\nStatistics Dissertation B\nTime Series\nOptional January\nRisk Theory\nStatistics Special Topic\nRisk Management: Techniques and Tools\nAdvanced Machine Learning\nBig Data Management Mandatory September Optional September Mandatory January Optional January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABB including A in Mathematics."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "value": 8
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Advanced Mathematics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "8 points including A1 in Mathematics and Advanced Mathematics, A2 in English (5 subjects not less than B grade)."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "raw",
+            "text": "Diploma with CGPA 3.5 (further assessment is required)."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A"
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ABB including A in Mathematics."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] CGPA 3.5 (further assessment is required) [HWU MY Foundation in Business/Science] Grade C average including A in Mathematics and C in English."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 28
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 6
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "HL AA Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "28 points with 6 in HL AA Mathematics (HL Analysis and Approaches Mathematics)."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 90
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 80
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics Method",
+              "Specialist"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": "90%"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 17
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics Method",
+              "Specialist"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[WACE] 90 including 80% in Mathematics Method / Specialist [SACE] 90% including 17 in Mathematics Method / Specialist."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MEng Mechanical Engineering",
+      "field_of_study": "Mechanical Engineering",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": "YES",
+      "entry_requirements_raw": {
+        "A-Level": "BBC including B in Mathematics and Physics..",
+        "UEC": "15 points or less including A2 in Mathematics and Physics (5 subjects not less than B grade)..",
+        "Diploma": "A diploma in related field – Engineering with CGPA 3.0 including B in Mathematics and Physics..",
+        "STPM": "BBC including B in Mathematics and Physics..",
+        "Foundation": "[Matriculation/Foundation] CGPA 3.0 including B in Mathematics and Physics. [HWU MY Foundation in Science] Grade C average including C in Mathematics, Physics and English..",
+        "CPU": "75% including 70% in Mathematics and Physics..",
+        "IB Diploma": "26 points including 5 in SL Physics and Mathematics AA (or 5 in HL Mathematics AI)..",
+        "SACE/WACE": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Physics. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Physics.."
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 180000
+      },
+      "course_content": {
+        "core": "YEAR 1\nMandatory September\nDesign and Manufacture 2\nFluid Mechanics A\nMechanics of Materials A\nMathematics for Engineers and Scientists 3\nMandatory January\nElectrical Power and Machines\nDynamics\nThermodynamics A\nMathematics for Engineers and Scientists 4 YEAR 1 Mandatory September Mathematics for Engineers and Scientists 3 Mandatory January YEAR 2\nMandatory September\nDesign and Manufacture 3\nFluid Mechanics B\nMechanics of Materials B\nSustainable Development and Engineering Management\nMandatory January\nDesign and Manufacture 4\nVibration Analysis & Control Engineering\nThermodynamics B\nOptional January\nAutomotive Technologies 1\nEnergy Studies YEAR 2 Mandatory September Mandatory January Optional January YEAR 3\nMandatory September\nEngineering Design\nOptional September\nFluids 1\nAdvanced Mechanics of Materials 1\nDynamics 1\nHeat Exchangers and Heat Transfer\nMandatory January\nEngineering Manufacture\nGroup Project 1\nOptional January\nFluids 2\nRobotic Mechanical Systems\nDynamics 2\nAdvanced Thermodynamic Applications\n\nYEAR 4\nMandatory September\nMechanics, Fields and Forces\nIntroduction to Electrical and Electronic Engineering\nMechanical Engineering in Context 1\nMathematics for Engineers and Scientists 1\nMandatory January\nWaves and Matter\nMechanical Engineering in Context 2\nIntroduction to Mechanical Engineering\nMathematics for Engineers and Scientists 2 YEAR 3 Mandatory September Optional September Mandatory January Optional January YEAR 4 Mandatory September Mandatory January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBC including B in Mathematics and Physics.."
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "value": 15
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "A2"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "raw",
+            "text": "15 points or less including A2 in Mathematics and Physics (5 subjects not less than B grade).."
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "A diploma in related field – Engineering with CGPA 3.0 including B in Mathematics and Physics.."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBC including B in Mathematics and Physics.."
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] CGPA 3.0 including B in Mathematics and Physics. [HWU MY Foundation in Science] Grade C average including C in Mathematics, Physics and English.."
+          }
+        ],
+        "CPU": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 75
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Physics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 70
+          },
+          {
+            "type": "raw",
+            "text": "75% including 70% in Mathematics and Physics.."
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 26
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Physics"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "26 points including 5 in SL Physics and Mathematics AA (or 5 in HL Mathematics AI).."
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 75
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 65
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics Method/Specialist",
+              "Physics"
+            ]
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 75
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 15.0
+          },
+          {
+            "type": "raw",
+            "text": "[WACE] ATAR 75 including 65% in Mathematics Method/Specialist and Physics. [SACE] ATAR 75 including 15.0 in Mathematics Method/Specialist and Physics.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Psychology",
+      "field_of_study": "Psychology",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "A-Level": "CCC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "UEC": "20 points or less.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "Diploma": "Psychology related Diploma with CGPA 2.5 Non-related Diploma with CGPA 3.0.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "STPM": "CCC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "Foundation": "[Matriculation/Foundation] CGPA 3.0 [HWU MY Foundation in Business/Science] Pass and eligible to receive the award.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "CPU": "0.7.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "IB Diploma": "25 points.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "SACE/WACE": "ATAR 70.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 114450
+      },
+      "course_content": {
+        "core": "YEAR 1\nMandatory January\nSocial Psychology\nResearch Methods and Analysis 4\nCognitive Psychology\nMandatory May\nDevelopmental Psychology\nResearch Methods and Analysis 3\nPhilosophy and History of Psychology\nOptional January\nOrganisational Behaviour\nOptional May\nHuman Resource Management\n\nYEAR 2\nMandatory September\nCross-Cultural Psychology\nForensic Psychology\nResearch Methods and Analysis 5\nCognition across the Lifespan\nMandatory January\nBiological Psychology\nResearch Methods and Analysis 6\nSocial Cognition and Personality\nHealth Psychology\nOptional May\nIndustrial Training\n\nYEAR 3\nMandatory September\nResearch Project 1\nMandatory January\nResearch Project 2\nOptional September\nWorkplace Psychology\nPsychology of Education\nCognitive Rehabilitation\nOptional January\nAdvanced Social Psychology\nNeuropsychology\nPsychology and Mental Health YEAR 1 Mandatory January Mandatory May Optional January Optional May YEAR 2 Mandatory September Mandatory January Optional May YEAR 3 Mandatory September Mandatory January Optional September Optional January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CCC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 20
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "20 points or less.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": false
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Psychology related Diploma with CGPA 2.5 Non-related Diploma with CGPA 3.0.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CCC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] CGPA 3.0 [HWU MY Foundation in Business/Science] Pass and eligible to receive the award.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.7
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "0.7.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 25
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "25 points.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 70.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Psychology with Management",
+      "field_of_study": "Psychology",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "A-Level": "CCC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "UEC": "20 points or less.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "Diploma": "Psychology related Diploma with CGPA 2.5 Non-related Diploma with CGPA 3.0.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "STPM": "CCC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "Foundation": "[Matriculation/Foundation] CGPA 3.0 [HWU MY Foundation in Business/Science] Pass and eligible to receive the award.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "CPU": "0.7.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "IB Diploma": "25 points.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "SACE/WACE": "ATAR 70.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 114450
+      },
+      "course_content": {
+        "core": "YEAR 1\nMandatory September\nPhilosophy and History of Psychology\nDevelopmental Psychology\nResearch Methods and Analysis 3\nOptional September\nHuman Resource Management\nMandatory January\nCognitive Psychology\nResearch Methods and Analysis 4\nSocial Psychology\nOptional January\nBusiness Skills for the Second Machine Age\nOrganisational Behaviour YEAR 1 Mandatory September Optional September Mandatory January Optional January YEAR 2\nMandatory September\nCognition across the Lifespan\nCross-Cultural Psychology\nResearch Methods and Analysis 5\nOptional September\nBusiness Venturing\nResourcing and Talent Management\nMandatory January\nBiological Psychology\nResearch Methods and Analysis 6\nSocial Cognition and Personality\nOptional January\nLeading in Organisations\nStrategic Management\nInnovation Management\nOptional May\nIndustrial Training YEAR 2 Mandatory September Optional September Mandatory January Optional January Optional May YEAR 3\nMandatory September\nResearch Project 1\nOptional September\nCognitive Rehabilitation\nPsychology of Education\nGlobal Business Analysis 1: International Markets and Strategy\nThe Contemporary Workforce\nMandatory January\nResearch Project 2\nOptional January\nGlobal Business Analysis 2: Global Trends and Risks\nAdvanced Social Psychology\nChanging Trends in Employment\nNeuropsychology YEAR 3 Mandatory September Optional September Mandatory January Optional January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "CCC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "count": 20
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "20 points or less.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "related_field",
+            "value": false
+          },
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "Psychology related Diploma with CGPA 2.5 Non-related Diploma with CGPA 3.0.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "CCC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 3.0
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] CGPA 3.0 [HWU MY Foundation in Business/Science] Pass and eligible to receive the award.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.7
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "0.7.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 25
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "25 points.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 70.0
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 70.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "BSc (Hons) Quantity Surveying",
+      "field_of_study": "Quantity Surveying",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 3,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "A-Level": "BBC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "UEC": "15 points or less (5 subjects not less than B grade)..  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "Diploma": "CGPA 2.5.",
+        "STPM": "BBC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "Foundation": "[Matriculation/Foundation] CGPA 2.67 [HWU MY Foundation in Business/Science] Grade C average including C in English.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "CPU": "0.75.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "IB Diploma": "26 points.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent",
+        "SACE/WACE": "ATAR 75.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+      },
+      "english_requirements": {
+        "MUET": "Band 4",
+        "IELTS": "Overall 6.0",
+        "TOEFL": "80"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 114450
+      },
+      "course_content": {
+        "core": "YEAR 1\nMandatory September\nSurveying and GIS\nConstruction Technology 2\nOptional September\nPrinciples of Property Valuation\nIntroduction to Commercial Law\nMandatory January\nBuilding Services Technology\neConstruction\nCost Modelling and Measurement\nOptional January\nThe Economy\n\nYEAR 2 \nMandatory September\nDesign Cost Planning and Control\nSafety Management and Site Establishment\nProcurement and Contracts\nConstruction Technology 3\nMandatory January\nDesign for Construction\nInnovation in Construction Practice\nMeasurement and Cost Evaluation\nOptional January\nDesign Issues YEAR 1 Mandatory September Optional September Mandatory January Optional January YEAR 2 Mandatory September Mandatory January Optional January YEAR 3\nMandatory September\nCost and Value Management\nDesign Project (CMS)\nResearch Dissertation (CMS)\nQuantity Surveying Practice\nMandatory January\nConstruction Information Management\nDesign Project (CMS)\nResearch Dissertation (CMS) YEAR 3 Mandatory September Mandatory January",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "bachelor",
+      "entry_requirements_processed": {
+        "A-Level": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "UEC": [
+          {
+            "type": "subjects",
+            "comparator": "<=",
+            "value": 15
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "B"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "15 points or less (5 subjects not less than B grade)..  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "Diploma": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.5
+          },
+          {
+            "type": "raw",
+            "text": "CGPA 2.5."
+          }
+        ],
+        "STPM": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 3
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "BBC.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "Foundation": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 2.67
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English"
+            ]
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "[Matriculation/Foundation] CGPA 2.67 [HWU MY Foundation in Business/Science] Grade C average including C in English.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "CPU": [
+          {
+            "type": "cgpa",
+            "comparator": ">=",
+            "value": 0.75
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "0.75.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "IB Diploma": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 26
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "26 points.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ],
+        "SACE/WACE": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "value": 75
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "Science"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "ATAR 75.  Grade C in Mathematics and Science at SPM/ IGCSE level or equivalent"
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business (Psychology)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep",
+        "Dec"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects.",
+        "O-Level": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 5.5",
+        "TOEFL": "70"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 25710
+      },
+      "course_content": {
+        "core": "Mandatory September\nPrinciples of Economics\nAcademic Skills Mandatory September Optional September\nContemporary Business\nEssential Mathematics for Sc\nFundamentals of Accounting\nDiscovering Psychology\nObject Oriented Programming Optional September Mandatory January\nMicroeconomics and Policy\nFoundation English Mandatory January Optional January\nPsychology and the Human Mind\nFoundations of Management\nMathematics for Science\nData Structures and Software Design\nFinancial Accounting Optional January Mandatory May\nMacroeconomics and Global Economics\nFoundation English for Business Mandatory May Optional May\nBusiness and the World\nAdvanced Mathematics for Science\nManagement Accounting\nResearch in Action\nWeb Development and Databases Optional May",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business",
+      "field_of_study": "Foundation in Arts",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep",
+        "Dec"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects.",
+        "O-Level": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
+      },
+      "english_requirements": {
+        "MUET": "N/A",
+        "IELTS": "Overall 5.5",
+        "TOEFL": "70"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 25710
+      },
+      "course_content": {
+        "core": "Mandatory September\nPrinciples of Economics\nAcademic Skills Mandatory September Optional September\nContemporary Business\nEssential Mathematics for Sc\nFundamentals of Accounting\nDiscovering Psychology\nObject Oriented Programming Optional September Mandatory January\nMicroeconomics and Policy\nFoundation English Mandatory January Optional January\nPsychology and the Human Mind\nFoundations of Management\nMathematics for Science\nData Structures and Software Design\nFinancial Accounting Optional January Mandatory May\nMacroeconomics and Global Economics\nFoundation English for Business Mandatory May Optional May\nBusiness and the World\nAdvanced Mathematics for Science\nManagement Accounting\nResearch in Action\nWeb Development and Databases Optional May",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business (Actuarial Science/Computing/Statistics)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep",
+        "Dec"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5 credits (C's) including English, Mathematics and Additional Mathematics.",
+        "O-Level": "Minimum 5 credits (C's) including English, Mathematics and Additional Mathematics."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 5.5",
+        "TOEFL": "70"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 25710
+      },
+      "course_content": {
+        "core": "Mandatory September\nPrinciples of Economics\nAcademic Skills Mandatory September Optional September\nContemporary Business\nEssential Mathematics for Sc\nFundamentals of Accounting\nDiscovering Psychology\nObject Oriented Programming Optional September Mandatory January\nMicroeconomics and Policy\nFoundation English Mandatory January Optional January\nPsychology and the Human Mind\nFoundations of Management\nMathematics for Science\nData Structures and Software Design\nFinancial Accounting Optional January Mandatory May\nMacroeconomics and Global Economics\nFoundation English for Business Mandatory May Optional May\nBusiness and the World\nAdvanced Mathematics for Science\nManagement Accounting\nResearch in Action\nWeb Development and Databases Optional May",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (C's) including English, Mathematics and Additional Mathematics."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (C's) including English, Mathematics and Additional Mathematics."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Business (Accounting, Finance)",
+      "field_of_study": "Foundation in Arts",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep",
+        "Dec"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "SPM": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects.",
+        "O-Level": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
+      },
+      "english_requirements": {
+        "MUET": "N/A",
+        "IELTS": "Overall 5.5",
+        "TOEFL": "70"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 25710
+      },
+      "course_content": {
+        "core": "Mandatory September\nPrinciples of Economics\nAcademic Skills Mandatory September Optional September\nContemporary Business\nEssential Mathematics for Sc\nFundamentals of Accounting\nDiscovering Psychology\nObject Oriented Programming Optional September Mandatory January\nMicroeconomics and Policy\nFoundation English Mandatory January Optional January\nPsychology and the Human Mind\nFoundations of Management\nMathematics for Science\nData Structures and Software Design\nFinancial Accounting Optional January Mandatory May\nMacroeconomics and Global Economics\nFoundation English for Business Mandatory May Optional May\nBusiness and the World\nAdvanced Mathematics for Science\nManagement Accounting\nResearch in Action\nWeb Development and Databases Optional May",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "English",
+              "Mathematics"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Minimum 5 credits (C's) including English and Mathematics or other relevant subjects."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Actuarial Science/Computing/Psychology)",
+      "field_of_study": "Foundation in Science",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep",
+        "Dec"
+      ],
+      "program_duration_years": 1,
+      "internship": "No",
+      "entry_requirements_raw": {
+        "SPM": "5 credits (C’s), in SPM, including Mathematics, English, Physics and Additional Mathematics - or equivalent global qualifications..",
+        "O-Level": "5 credits (C’s), in O-Levels, including Mathematics, English, Physics and Additional Mathematics - or equivalent global qualifications.."
+      },
+      "english_requirements": {
+        "IELTS": "Overall 5.5",
+        "TOEFL": "70"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 28500
+      },
+      "course_content": {
+        "core": "Mandatory September\nAcademic Skills\nEssential Mathematics for Sc\nFundamentals of Physics Mandatory September Optional September\nObject Oriented Programming\nDiscovering Psychology\nPrinciples of Chemistry Optional September Mandatory January\nFoundation English\nMathematics for Science\nFurther Mechanics Mandatory January Optional January\nChemistry in Materials\nData Structures and Software Design\nPsychology and the Human Mind Optional January Mandatory May\nFoundation English for Science and Engineering\nElectromagnetism and Thermodynamics\nAdvanced Mathematics for Science Mandatory May Optional May\nWeb Development and Databases\nResearch in Action\nOrganics and Chemical Energetics Optional May",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English",
+              "Physics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C’s), in SPM, including Mathematics, English, Physics and Additional Mathematics - or equivalent global qualifications.."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "C"
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English",
+              "Physics",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C’s), in O-Levels, including Mathematics, English, Physics and Additional Mathematics - or equivalent global qualifications.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Foundation in Science (Engineering)",
+      "field_of_study": "Foundation in Science",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Apr",
+        "Jul",
+        "Sep",
+        "Dec"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "SPM": "5 credits (C’s), in SPM or O-Levels, including Mathematics, English, Physics, Chemistry and Additional Mathematics - or equivalent global qualifications..",
+        "O-Level": "5 credits (C’s), in SPM or O-Levels, including Mathematics, English, Physics, Chemistry and Additional Mathematics - or equivalent global qualifications.."
+      },
+      "english_requirements": {
+        "MUET": "N/A",
+        "IELTS": "Overall 5.5",
+        "TOEFL": "70"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 28500
+      },
+      "course_content": {
+        "core": "Mandatory September\nAcademic Skills\nEssential Mathematics for Sc\nFundamentals of Physics Mandatory September Optional September\nObject Oriented Programming\nDiscovering Psychology\nPrinciples of Chemistry Optional September Mandatory January\nFoundation English\nMathematics for Science\nFurther Mechanics Mandatory January Optional January\nChemistry in Materials\nData Structures and Software Design\nPsychology and the Human Mind Optional January Mandatory May\nFoundation English for Science and Engineering\nElectromagnetism and Thermodynamics\nAdvanced Mathematics for Science Mandatory May Optional May\nWeb Development and Databases\nResearch in Action\nOrganics and Chemical Energetics Optional May",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "foundation",
+      "entry_requirements_processed": {
+        "SPM": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English",
+              "Physics",
+              "Chemistry",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C’s), in SPM or O-Levels, including Mathematics, English, Physics, Chemistry and Additional Mathematics - or equivalent global qualifications.."
+          }
+        ],
+        "O-Level": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 5
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Mathematics",
+              "English",
+              "Physics",
+              "Chemistry",
+              "Additional Mathematics"
+            ]
+          },
+          {
+            "type": "raw",
+            "text": "5 credits (C’s), in SPM or O-Levels, including Mathematics, English, Physics, Chemistry and Additional Mathematics - or equivalent global qualifications.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc Business Strategy, Leadership and Change",
+      "field_of_study": "Business Administration",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "Degree": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+      },
+      "english_requirements": {
+        "MUET": "Band 5",
+        "IELTS": "Overall 6.5",
+        "TOEFL": "90"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 49620
+      },
+      "course_content": {
+        "core": "Competitive strategy \nStrategic change \nLeadership \nBusiness Models: Themes and Issues \nResearch Philosophy and Practice \nLeadership and Organistional Performance Dissertation Choose 3 :\nSystems Thinking and Analysis \nProject Management \nQuality Management and Engineering \nBusiness Economics \nInternational Marketing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc International Business Management with Finance",
+      "field_of_study": "Business and Management",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "Degree": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+      },
+      "english_requirements": {
+        "MUET": "Band 5",
+        "IELTS": "Overall 6.5",
+        "TOEFL": "90"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 49620
+      },
+      "course_content": {
+        "core": "Core Courses: International Business Context\nCompetitive Strategy Marketing\nBusiness Economics\nResearch Philosophy and Practice\nInternational Marketing\nDissertation\nSelect two optional subjects",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc Renewable Energy Engineering",
+      "field_of_study": "General Engineering and Technology",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "Degree": "A relevant first or second class Honours degree in a physical science or engineering discipline, or a degree qualification, or equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+      },
+      "english_requirements": {
+        "MUET": "Band 5",
+        "IELTS": "Overall 6.5",
+        "TOEFL": "90"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 49620
+      },
+      "course_content": {
+        "core": "Foundations of Energy\nRenewable Energy Technologies\nEconomics of Renewable Energy Engineering\nAdvanced Renewable Energy Engineering\nDemand Management and Energy Storage\nEnvironmental Impact Assessment\nCritical Analysis and Research Preparation\nMaster's Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "A relevant first or second class Honours degree in a physical science or engineering discipline, or a degree qualification, or equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc International Business Management with Marketing",
+      "field_of_study": "Marketing",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "Degree": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+      },
+      "english_requirements": {
+        "MUET": "Band 5",
+        "IELTS": "Overall 6.5",
+        "TOEFL": "90"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 49620
+      },
+      "course_content": {
+        "core": "Semester 1 (September – December)\nInternational Business Context\nCompetitive Strategy\nMarketing\nChoose 1 from optional courses Semester 2 (January – April)\nBusiness Economics\nResearch Philosophy and Practice\nInternational Marketing\nChoose 1 from optional courses Semester 2 (January – April)",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "Master of Business Administration (MBA)",
+      "field_of_study": "MBA Programme",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 2,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A relevant first or second class Honours degree or a degree qualification, or equivalent qualification recognised by the Malaysian Government, acceptable to the University. At least two years' appropriate business experience.."
+      },
+      "english_requirements": {
+        "IELTS": "6.5"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 60930
+      },
+      "course_content": {
+        "core": "2 Years Part Time Studies Core courses Delivering Successful Projects Developing and Executing Strategy Economics for Business Financial Decision Making Leadership Theory and Practice People, Work and Organisations Strategic Marketing",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A relevant first or second class Honours degree or a degree qualification, or equivalent qualification recognised by the Malaysian Government, acceptable to the University. At least two years' appropriate business experience.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc Advanced Mechanical Engineering",
+      "field_of_study": "Mechanical Engineering",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "A relevant first or second class Honours degree in a physical science or engineering discipline, or a degree qualification, or equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+      },
+      "english_requirements": {
+        "IELTS": "6.5"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 49620
+      },
+      "course_content": {
+        "core": "First Semester\nCompulsory Courses First Semester Professional and Industrial Studies Specialist Engineering Technologies 1 Elective Courses (Choose 2) Engineering Design Fluids 1 Advanced Mechanics of Materials 1 Dynamics 1 Thermodynamics 1 Oil and Gas Field Appraisal Second Semester\nCompulsory Courses Second Semester Critical Analysis and Research Preparation Failure Accident Analysis Specialist Engineering Technologies 2 Electives (Choose 1) Engineering Manufacture Fluids 2 Advanced Mechanics of Materials 2 Dynamics 2 Thermodynamics 2 Oil and Gas Field Development Third Semester Masters Dissertation",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A relevant first or second class Honours degree in a physical science or engineering discipline, or a degree qualification, or equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc Petroleum Engineering",
+      "field_of_study": "Petroleum Engineering",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "Degree": "A minimum of a second class Honours degree or an equivalent academic qualification in a related subject area. Non-related degrees will be considered on an individual basis based on CV and work experience Corporate (or chartered) membership of relevant professional institutions will also be considered..",
+        "Masters": "For postgraduate conversion courses, *non-related degrees will be considered. Corporate (or chartered) membership of relevant professional institutions will also be considered.."
+      },
+      "english_requirements": {
+        "MUET": "Band 5",
+        "IELTS": "Overall 6.5",
+        "TOEFL": "90"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 49620
+      },
+      "course_content": {
+        "core": "Core courses\nReservoir Engineering\nPetroleum Geoscience\nDrilling Engineering\nFormation Evaluation\nReservoir Engineering – Well Test Analysis\nReservoir Simulation\nPetroleum Economics\nProduction Technology Core courses Projects\nDesign Project\nIndividual Project Projects",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "grade",
+            "comparator": ">=",
+            "value": "2nd Class Honours"
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A minimum of a second class Honours degree or an equivalent academic qualification in a related subject area. Non-related degrees will be considered on an individual basis based on CV and work experience Corporate (or chartered) membership of relevant professional institutions will also be considered.."
+          }
+        ],
+        "Masters": [
+          {
+            "type": "related_field",
+            "value": false
+          },
+          {
+            "type": "raw",
+            "text": "For postgraduate conversion courses, *non-related degrees will be considered. Corporate (or chartered) membership of relevant professional institutions will also be considered.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "MSc Strategic Project Management",
+      "field_of_study": "Project Management",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "Sep"
+      ],
+      "program_duration_years": 1,
+      "internship": "NO",
+      "entry_requirements_raw": {
+        "Degree": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+      },
+      "english_requirements": {
+        "MUET": "Band 5",
+        "IELTS": "Overall 6.5",
+        "TOEFL": "90"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 49620
+      },
+      "course_content": {
+        "core": "Strategic Project Management\nLeadership\nBusiness Models: Themes and Issues\nStrategic Change\nProject Management\nResearch Philosophy and Practice\nQuality Management and Engineering\nLeadership and Organisational Performance Dissertation\nOptional course",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "masters",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "A relevant first or second class Honours degree or a degree qualification, or an equivalent qualification recognised by the Malaysian Government, acceptable to the University.."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "PhD Business and Administration",
+      "field_of_study": "Business Administration",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Holders of a first-class BSc (Hons) or BA (Hons) with significant research experience may also qualify..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal.",
+        "Masters": "MSc recognised by the Malaysian government and deemed acceptable by the University. Candidates holding an MBA are first required to complete our PG Certificate in Research Methods delivered by the Edinburgh Business School..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+      },
+      "english_requirements": {
+        "IELTS": "6.5"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 106200
+      },
+      "course_content": {
+        "core": "Research areas in the field include (but are not limited to): Business Management and Practice Commercial Law Business Administration Management and Marketing TQM and Strategic Management",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "Holders of a first-class BSc (Hons) or BA (Hons) with significant research experience may also qualify..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+          }
+        ],
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "MSc recognised by the Malaysian government and deemed acceptable by the University. Candidates holding an MBA are first required to complete our PG Certificate in Research Methods delivered by the Edinburgh Business School..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "PhD Building",
+      "field_of_study": "Construction Management",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Holders of a first-class BEng Hons or BSc Hons with significant research experience may also qualify..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal.",
+        "Masters": "MSc or first class MEng recognised by the Malaysian government and deemed acceptable by the University.  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+      },
+      "english_requirements": {
+        "IELTS": "6.5"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 117000
+      },
+      "course_content": {
+        "core": "Research areas in the field include (but are not limited to): Building design Building performance Green buildings and sustainability Construction Management and Economics Contacts and Procurement Information Technology in Construction BIM Material Science and Technology Climate change impacts on buildings",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "Holders of a first-class BEng Hons or BSc Hons with significant research experience may also qualify..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+          }
+        ],
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "MSc or first class MEng recognised by the Malaysian government and deemed acceptable by the University.  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "PhD Statistics",
+      "field_of_study": "Economics and Finance",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Holders of a first-class BSc Hons with significant research experience may also qualify..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal.",
+        "Masters": "MSc recognised by the Malaysian government and deemed acceptable by the University.  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+      },
+      "english_requirements": {
+        "IELTS": "6.5"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 106200
+      },
+      "course_content": {
+        "core": "Research areas in the field include (but are not limited to): Statistics Actuarial Studies Statistical Quality Control Queueing Theory Financial Modelling Risk Theory",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "Holders of a first-class BSc Hons with significant research experience may also qualify..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+          }
+        ],
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "MSc recognised by the Malaysian government and deemed acceptable by the University.  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "PhD Engineering and Engineering Trades",
+      "field_of_study": "General Engineering and Technology",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Holders of a first-class BEng Hons or BSc Hons with significant research experience may also qualify..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal.",
+        "Masters": "MSc or first class MEng recognised by the Malaysian government and deemed acceptable by the University. Candidates holding an MBA are first required to complete our PG Certificate in Research Methods delivered by the Edinburgh Business School..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+      },
+      "english_requirements": {
+        "IELTS": "6.5"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 117000
+      },
+      "course_content": {
+        "core": "Research areas in the field include (but are not limited to): Chemical Engineering Mechanical Engineering Computational Mechanics Tribology Renewable Energy Systems Fluid dynamics Multiphase flow Process Engineering Electrical and Electronic Engineering Signal Processing Optical Communication Petroleum Engineering Civil Engineering Highway Engineering Structural Concrete Hydraulics",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "raw",
+            "text": "Holders of a first-class BEng Hons or BSc Hons with significant research experience may also qualify..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+          }
+        ],
+        "Masters": [
+          {
+            "type": "raw",
+            "text": "MSc or first class MEng recognised by the Malaysian government and deemed acceptable by the University. Candidates holding an MBA are first required to complete our PG Certificate in Research Methods delivered by the Edinburgh Business School..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+          }
+        ]
+      }
+    },
+    {
+      "program_name": "PhD Social and Behavioural Science",
+      "field_of_study": "Social Sciences",
+      "location": "Heriot-Watt, Putrajaya",
+      "intakes": [
+        "Jan",
+        "May",
+        "Sep"
+      ],
+      "program_duration_years": 4,
+      "internship": null,
+      "entry_requirements_raw": {
+        "Degree": "Holders of a first-class BSc Hons in Psychology or in a related field with significant research experience may also qualify..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal.",
+        "Masters": "Masters Degree in Psychology or a relevant or equivalent qualification as recognised by the Malaysian government and deemed acceptable by the University.  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+      },
+      "english_requirements": {
+        "IELTS": "6.5"
+      },
+      "fees": {
+        "registration_fee": 500,
+        "resource_fee": null,
+        "tuition_fee": 106200
+      },
+      "course_content": {
+        "core": "Research areas in the field include (but are not limited to): Industrial and organisational psychology Counselling and Clinical Psychology Developmental and Social Psychology Cyber wellness Hypnosis",
+        "elective": "",
+        "others": ""
+      },
+      "program_type": "phd",
+      "entry_requirements_processed": {
+        "Degree": [
+          {
+            "type": "grade",
+            "comparator": "=",
+            "value": "first-class"
+          },
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "BSc Hons in Psychology"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Holders of a first-class BSc Hons in Psychology or in a related field with significant research experience may also qualify..  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+          }
+        ],
+        "Masters": [
+          {
+            "type": "subjects",
+            "comparator": ">=",
+            "count": 1
+          },
+          {
+            "type": "credit",
+            "subjects": [
+              "Masters Degree in Psychology"
+            ]
+          },
+          {
+            "type": "related_field",
+            "value": true
+          },
+          {
+            "type": "raw",
+            "text": "Masters Degree in Psychology or a relevant or equivalent qualification as recognised by the Malaysian government and deemed acceptable by the University.  Some applicants might be invited for an interview before receiving a formal offer.\nApplicants should also submit a detailed research proposal."
+          }
+        ]
+      }
+    }
+  ]
+}

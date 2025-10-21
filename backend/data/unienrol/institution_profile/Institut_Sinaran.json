@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/KotaKinabalu_Sabah_Institut-Sinaran-01.jpg/1024px-KotaKinabalu_Sabah_Institut-Sinaran-01.jpg"
+  ],
   "programs": [
     {
       "program_name": "GCE A-Levels - 3 Subjects",
-      "field_of_study": "A-Level",
+      "field_of_study": "International Pre-University",
       "location": "Institut Sinaran, Kota Kinabalu",
       "intakes": [
         "Jan",
@@ -55,7 +58,8 @@
             "text": "Pass with minimum 5 credits."
           }
         ]
-      }
+      },
+      "course": "A-Level"
     }
   ]
 }

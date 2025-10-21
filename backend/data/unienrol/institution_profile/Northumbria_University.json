@@ -4,10 +4,13 @@
   "institution_type": "Public",
   "world_rank": 546,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://investnewcastle.com/wp-content/uploads/2023/12/northumbria_asset.jpg"
+  ],
   "programs": [
     {
       "program_name": "BSc (Hons) Global Business Management",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Newcastle City Campus",
       "intakes": [
         "Jan",
@@ -42,11 +45,12 @@
             "text": "MCKL diploma pathway with minimum CGPA 3.30."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BSc (Hons) Global Business Management (Marketing)",
-      "field_of_study": "Marketing",
+      "field_of_study": "Business",
       "location": "Newcastle City Campus",
       "intakes": [
         "Jan",
@@ -81,7 +85,8 @@
             "text": "MCKL diploma pathway with minimum CGPA 3.30."
           }
         ]
-      }
+      },
+      "course": "Marketing"
     }
   ]
 }

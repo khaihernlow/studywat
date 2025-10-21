@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://edufair.fsi.com.my/img/sponsor/339/cover_1594348581.jpeg"
+  ],
   "programs": [
     {
       "program_name": "Bachelor of Business Management (Hons)",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Apr",
@@ -95,11 +98,12 @@
             "text": "Pass with min. CGPA 2.00."
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "BACHELOR OF ARTS (HONS) CHINESE STUDIES",
-      "field_of_study": "Chinese Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Apr",
@@ -253,11 +257,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Chinese Studies"
     },
     {
       "program_name": "Bachelor of Communication (Advertising) (Honours)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Apr",
@@ -388,11 +393,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Communication (New Media) (Honours)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Apr",
@@ -523,11 +529,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "Bachelor of Communication (Media Production) (Honours)",
-      "field_of_study": "Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Apr",
@@ -658,11 +665,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Communication"
     },
     {
       "program_name": "BA (HONS) LOGISTICS & SUPPLY CHAIN MANAGEMENT",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Apr",
@@ -820,11 +828,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "BACHELOR OF PUBLIC RELATIONS (HONOURS)",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Apr",
@@ -955,11 +964,12 @@
             ]
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "BA (HONS) CREATIVE MULTIMEDIA",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Apr",
@@ -1063,11 +1073,12 @@
             "text": "Please contact our counsellors for further details.  Applicants may be required to submit a portfolio for assessment"
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "DIPLOMA IN BUSINESS MANAGEMENT",
-      "field_of_study": "Business and Management",
+      "field_of_study": "Business",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Jan",
@@ -1125,11 +1136,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Business and Management"
     },
     {
       "program_name": "DIPLOMA IN CHINESE STUDIES",
-      "field_of_study": "Chinese Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Jan",
@@ -1205,11 +1217,12 @@
             "text": "Minimum 3 credits (incuding Bahasa Cina) and Bahasa Malaysia & Sejarah compulsory pass."
           }
         ]
-      }
+      },
+      "course": "Chinese Studies"
     },
     {
       "program_name": "DIPLOMA IN LOGISTICS MANAGEMENT",
-      "field_of_study": "Logistics and Supply Chain Management",
+      "field_of_study": "Business",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Jan",
@@ -1267,11 +1280,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Logistics and Supply Chain Management"
     },
     {
       "program_name": "DIPLOMA IN MASS COMMUNICATION",
-      "field_of_study": "Mass Communication",
+      "field_of_study": "Communication and Media Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Jan",
@@ -1329,11 +1343,12 @@
             "text": "Please contact our counsellors for further details."
           }
         ]
-      }
+      },
+      "course": "Mass Communication"
     },
     {
       "program_name": "DIPLOMA IN MULTIMEDIA COMMUNICATION DESIGN",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Jan",
@@ -1411,11 +1426,12 @@
             "text": "Grade B in 3 relevant subjects including English."
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "DIPLOMA IN VISUAL ARTS AND DESIGN",
-      "field_of_study": "Multimedia Design",
+      "field_of_study": "Communication and Media Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Jan",
@@ -1473,11 +1489,12 @@
             "value": true
           }
         ]
-      }
+      },
+      "course": "Multimedia Design"
     },
     {
       "program_name": "Foundation in Communication",
-      "field_of_study": "Foundation in Arts",
+      "field_of_study": "Foundation",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Apr",
@@ -1555,11 +1572,12 @@
             "text": "Minimum 3 credits (incuding English)."
           }
         ]
-      }
+      },
+      "course": "Foundation in Arts"
     },
     {
       "program_name": "Master for Arts in Chinese Studies",
-      "field_of_study": "Chinese Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Apr",
@@ -1604,11 +1622,12 @@
             "text": "Bachelor's degree in a relevant field with a minimum CGPA of 2.75 OR Bachelor's degree or equivalent with a CGPA of 2.50 or above, but at least 5 years of work experience in the relevant field, and be admitted after passing the interview assessment..  Proof of Chinese listening, speaking, reading and writing ability. Submit a research proposal of about 2,000 words"
           }
         ]
-      }
+      },
+      "course": "Chinese Studies"
     },
     {
       "program_name": "Doctor of Philosophy in Chinese Studies",
-      "field_of_study": "Chinese Studies",
+      "field_of_study": "Language and Social Studies",
       "location": "Han Chiang, Georgetown",
       "intakes": [
         "Apr",
@@ -1639,7 +1658,8 @@
             "text": "- A Master’s Degree in Mandarin descipline or - Other qualifications equivalent to a Master’s Degree that are accepted by the Senate; or - An applicant without Mandarin Descipline required to take 3 prerequisite courses."
           }
         ]
-      }
+      },
+      "course": "Chinese Studies"
     }
   ]
 }

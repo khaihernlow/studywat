@@ -4,10 +4,13 @@
   "institution_type": "Private",
   "world_rank": null,
   "malaysia_rank": null,
+  "institution_images": [
+    "https://s3-ap-southeast-1.amazonaws.com/s3.prod.public.ue.intl/unienrol.com/campus/v2/FORWARD+SCHOOL/PENANG+CAMPUS/Campus_Surroundings/01a_Forward_School%2CPenang_Entrance.png"
+  ],
   "programs": [
     {
       "program_name": "NitroDegree in Applied Software Engineering",
-      "field_of_study": "Information Technology (IT)",
+      "field_of_study": "Computing and IT",
       "location": "Forward College, Penang",
       "intakes": [
         "Jul"
@@ -48,7 +51,8 @@
             "text": "SPM Mathematics and English Pass.  Score at least 10/20 or 50% of the Forward School Aptitude test*"
           }
         ]
-      }
+      },
+      "course": "Information Technology (IT)"
     }
   ]
 }
