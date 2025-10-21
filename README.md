@@ -20,6 +20,9 @@
 - **📱 Modern User Experience**: Beautiful, responsive interface built with the latest web technologies
 
 ## Architecture & Tech Stack
+> **Deployment Notice**
+> This repository is a mirror of the main project hosted on **GitLab**.  
+> All builds and deployments are performed through **GitLab CI/CD Pipelines**
 
 ### Frontend
 - **React 19** with TypeScript
